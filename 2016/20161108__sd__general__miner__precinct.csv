@@ -1,0 +1,145 @@
+county,precinct,office,district,party,candidate,votes
+Miner,HOWARD WARD 1,President,,REP,Trump & Pence,76
+Miner,HOWARD WARD 2,President,,REP,Trump & Pence,75
+Miner,HOWARD WARD 3,President,,REP,Trump & Pence,62
+Miner,VERMILLION-CANOVA-ROCK CREEK,President,,REP,Trump & Pence,81
+Miner,BEAVER-CLINTON-MINER,President,,REP,Trump & Pence,63
+Miner,CLEARWATER-HOWARD-ROSWELL,President,,REP,Trump & Pence,132
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,President,,REP,Trump & Pence,125
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,President,,REP,Trump & Pence,92
+Miner,TOTAL,President,,REP,Trump & Pence,706
+Miner,HOWARD WARD 1,President,,LIB,Johnson & Weld,8
+Miner,HOWARD WARD 2,President,,LIB,Johnson & Weld,7
+Miner,HOWARD WARD 3,President,,LIB,Johnson & Weld,13
+Miner,VERMILLION-CANOVA-ROCK CREEK,President,,LIB,Johnson & Weld,11
+Miner,BEAVER-CLINTON-MINER,President,,LIB,Johnson & Weld,2
+Miner,CLEARWATER-HOWARD-ROSWELL,President,,LIB,Johnson & Weld,10
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,President,,LIB,Johnson & Weld,6
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,President,,LIB,Johnson & Weld,10
+Miner,TOTAL,President,,LIB,Johnson & Weld,67
+Miner,HOWARD WARD 1,President,,DEM,Clinton & Kaine,51
+Miner,HOWARD WARD 2,President,,DEM,Clinton & Kaine,38
+Miner,HOWARD WARD 3,President,,DEM,Clinton & Kaine,26
+Miner,VERMILLION-CANOVA-ROCK CREEK,President,,DEM,Clinton & Kaine,44
+Miner,BEAVER-CLINTON-MINER,President,,DEM,Clinton & Kaine,18
+Miner,CLEARWATER-HOWARD-ROSWELL,President,,DEM,Clinton & Kaine,41
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,President,,DEM,Clinton & Kaine,40
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,President,,DEM,Clinton & Kaine,23
+Miner,TOTAL,President,,DEM,Clinton & Kaine,281
+Miner,HOWARD WARD 1,President,,CON,Castle & Bradley,2
+Miner,HOWARD WARD 2,President,,CON,Castle & Bradley,2
+Miner,HOWARD WARD 3,President,,CON,Castle & Bradley,1
+Miner,VERMILLION-CANOVA-ROCK CREEK,President,,CON,Castle & Bradley,1
+Miner,BEAVER-CLINTON-MINER,President,,CON,Castle & Bradley,0
+Miner,CLEARWATER-HOWARD-ROSWELL,President,,CON,Castle & Bradley,0
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,President,,CON,Castle & Bradley,3
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,President,,CON,Castle & Bradley,1
+Miner,TOTAL,President,,CON,Castle & Bradley,10
+Miner,HOWARD WARD 1,U.S. Senate,,REP,John R. Thune,92
+Miner,HOWARD WARD 2,U.S. Senate,,REP,John R. Thune,89
+Miner,HOWARD WARD 3,U.S. Senate,,REP,John R. Thune,78
+Miner,VERMILLION-CANOVA-ROCK CREEK,U.S. Senate,,REP,John R. Thune,106
+Miner,BEAVER-CLINTON-MINER,U.S. Senate,,REP,John R. Thune,67
+Miner,CLEARWATER-HOWARD-ROSWELL,U.S. Senate,,REP,John R. Thune,142
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,U.S. Senate,,REP,John R. Thune,128
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,U.S. Senate,,REP,John R. Thune,105
+Miner,TOTAL,U.S. Senate,,REP,John R. Thune,807
+Miner,HOWARD WARD 1,U.S. Senate,,DEM,Jay Williams,45
+Miner,HOWARD WARD 2,U.S. Senate,,DEM,Jay Williams,36
+Miner,HOWARD WARD 3,U.S. Senate,,DEM,Jay Williams,27
+Miner,VERMILLION-CANOVA-ROCK CREEK,U.S. Senate,,DEM,Jay Williams,34
+Miner,BEAVER-CLINTON-MINER,U.S. Senate,,DEM,Jay Williams,16
+Miner,CLEARWATER-HOWARD-ROSWELL,U.S. Senate,,DEM,Jay Williams,47
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,U.S. Senate,,DEM,Jay Williams,55
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,U.S. Senate,,DEM,Jay Williams,24
+Miner,TOTAL,U.S. Senate,,DEM,Jay Williams,284
+Miner,HOWARD WARD 1,U.S. House,1,REP,Kristi Noem,78
+Miner,HOWARD WARD 2,U.S. House,1,REP,Kristi Noem,77
+Miner,HOWARD WARD 3,U.S. House,1,REP,Kristi Noem,68
+Miner,VERMILLION-CANOVA-ROCK CREEK,U.S. House,1,REP,Kristi Noem,84
+Miner,BEAVER-CLINTON-MINER,U.S. House,1,REP,Kristi Noem,54
+Miner,CLEARWATER-HOWARD-ROSWELL,U.S. House,1,REP,Kristi Noem,124
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,U.S. House,1,REP,Kristi Noem,108
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,U.S. House,1,REP,Kristi Noem,101
+Miner,TOTAL,U.S. House,1,REP,Kristi Noem,694
+Miner,HOWARD WARD 1,U.S. House,1,DEM,Paula Hawks,59
+Miner,HOWARD WARD 2,U.S. House,1,DEM,Paula Hawks,48
+Miner,HOWARD WARD 3,U.S. House,1,DEM,Paula Hawks,37
+Miner,VERMILLION-CANOVA-ROCK CREEK,U.S. House,1,DEM,Paula Hawks,55
+Miner,BEAVER-CLINTON-MINER,U.S. House,1,DEM,Paula Hawks,30
+Miner,CLEARWATER-HOWARD-ROSWELL,U.S. House,1,DEM,Paula Hawks,65
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,U.S. House,1,DEM,Paula Hawks,74
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,U.S. House,1,DEM,Paula Hawks,30
+Miner,TOTAL,U.S. House,1,DEM,Paula Hawks,398
+Miner,HOWARD WARD 1,Public Utilities Commissioner,,REP,Chris Nelson,96
+Miner,HOWARD WARD 2,Public Utilities Commissioner,,REP,Chris Nelson,101
+Miner,HOWARD WARD 3,Public Utilities Commissioner,,REP,Chris Nelson,86
+Miner,VERMILLION-CANOVA-ROCK CREEK,Public Utilities Commissioner,,REP,Chris Nelson,118
+Miner,BEAVER-CLINTON-MINER,Public Utilities Commissioner,,REP,Chris Nelson,66
+Miner,CLEARWATER-HOWARD-ROSWELL,Public Utilities Commissioner,,REP,Chris Nelson,168
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,Public Utilities Commissioner,,REP,Chris Nelson,141
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,Public Utilities Commissioner,,REP,Chris Nelson,109
+Miner,TOTAL,Public Utilities Commissioner,,REP,Chris Nelson,885
+Miner,HOWARD WARD 1,Public Utilities Commissioner,,DEM,Henry Red Cloud,29
+Miner,HOWARD WARD 2,Public Utilities Commissioner,,DEM,Henry Red Cloud,20
+Miner,HOWARD WARD 3,Public Utilities Commissioner,,DEM,Henry Red Cloud,18
+Miner,VERMILLION-CANOVA-ROCK CREEK,Public Utilities Commissioner,,DEM,Henry Red Cloud,22
+Miner,BEAVER-CLINTON-MINER,Public Utilities Commissioner,,DEM,Henry Red Cloud,16
+Miner,CLEARWATER-HOWARD-ROSWELL,Public Utilities Commissioner,,DEM,Henry Red Cloud,19
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,Public Utilities Commissioner,,DEM,Henry Red Cloud,33
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,Public Utilities Commissioner,,DEM,Henry Red Cloud,19
+Miner,TOTAL,Public Utilities Commissioner,,DEM,Henry Red Cloud,176
+Miner,HOWARD WARD 1,State Senate,8,REP,Jordan Youngberg,47
+Miner,HOWARD WARD 2,State Senate,8,REP,Jordan Youngberg,49
+Miner,HOWARD WARD 3,State Senate,8,REP,Jordan Youngberg,36
+Miner,VERMILLION-CANOVA-ROCK CREEK,State Senate,8,REP,Jordan Youngberg,54
+Miner,BEAVER-CLINTON-MINER,State Senate,8,REP,Jordan Youngberg,50
+Miner,CLEARWATER-HOWARD-ROSWELL,State Senate,8,REP,Jordan Youngberg,107
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State Senate,8,REP,Jordan Youngberg,78
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State Senate,8,REP,Jordan Youngberg,82
+Miner,TOTAL,State Senate,8,REP,Jordan Youngberg,503
+Miner,HOWARD WARD 1,State Senate,8,DEM,Scott Parsley,88
+Miner,HOWARD WARD 2,State Senate,8,DEM,Scott Parsley,75
+Miner,HOWARD WARD 3,State Senate,8,DEM,Scott Parsley,67
+Miner,VERMILLION-CANOVA-ROCK CREEK,State Senate,8,DEM,Scott Parsley,87
+Miner,BEAVER-CLINTON-MINER,State Senate,8,DEM,Scott Parsley,31
+Miner,CLEARWATER-HOWARD-ROSWELL,State Senate,8,DEM,Scott Parsley,82
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State Senate,8,DEM,Scott Parsley,91
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State Senate,8,DEM,Scott Parsley,45
+Miner,TOTAL,State Senate,8,DEM,Scott Parsley,566
+Miner,HOWARD WARD 1,State House,8,REP,Mathew Wollmann,58
+Miner,HOWARD WARD 2,State House,8,REP,Mathew Wollmann,67
+Miner,HOWARD WARD 3,State House,8,REP,Mathew Wollmann,62
+Miner,VERMILLION-CANOVA-ROCK CREEK,State House,8,REP,Mathew Wollmann,77
+Miner,BEAVER-CLINTON-MINER,State House,8,REP,Mathew Wollmann,46
+Miner,CLEARWATER-HOWARD-ROSWELL,State House,8,REP,Mathew Wollmann,137
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State House,8,REP,Mathew Wollmann,94
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State House,8,REP,Mathew Wollmann,83
+Miner,TOTAL,State House,8,REP,Mathew Wollmann,624
+Miner,HOWARD WARD 1,State House,8,REP,Leslie Heinemann,59
+Miner,HOWARD WARD 2,State House,8,REP,Leslie Heinemann,57
+Miner,HOWARD WARD 3,State House,8,REP,Leslie Heinemann,52
+Miner,VERMILLION-CANOVA-ROCK CREEK,State House,8,REP,Leslie Heinemann,76
+Miner,BEAVER-CLINTON-MINER,State House,8,REP,Leslie Heinemann,46
+Miner,CLEARWATER-HOWARD-ROSWELL,State House,8,REP,Leslie Heinemann,105
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State House,8,REP,Leslie Heinemann,71
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State House,8,REP,Leslie Heinemann,68
+Miner,TOTAL,State House,8,REP,Leslie Heinemann,534
+Miner,HOWARD WARD 1,State House,8,DEM,Jason Unger,70
+Miner,HOWARD WARD 2,State House,8,DEM,Jason Unger,57
+Miner,HOWARD WARD 3,State House,8,DEM,Jason Unger,42
+Miner,VERMILLION-CANOVA-ROCK CREEK,State House,8,DEM,Jason Unger,57
+Miner,BEAVER-CLINTON-MINER,State House,8,DEM,Jason Unger,29
+Miner,CLEARWATER-HOWARD-ROSWELL,State House,8,DEM,Jason Unger,67
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State House,8,DEM,Jason Unger,76
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State House,8,DEM,Jason Unger,44
+Miner,TOTAL,State House,8,DEM,Jason Unger,442
+Miner,HOWARD WARD 1,State House,8,DEM,Kory Rawstern,41
+Miner,HOWARD WARD 2,State House,8,DEM,Kory Rawstern,32
+Miner,HOWARD WARD 3,State House,8,DEM,Kory Rawstern,24
+Miner,VERMILLION-CANOVA-ROCK CREEK,State House,8,DEM,Kory Rawstern,39
+Miner,BEAVER-CLINTON-MINER,State House,8,DEM,Kory Rawstern,17
+Miner,CLEARWATER-HOWARD-ROSWELL,State House,8,DEM,Kory Rawstern,28
+Miner,HENDEN-ADAMS-BELLEVIEW-GRAFTON,State House,8,DEM,Kory Rawstern,43
+Miner,GREEN VALLEY-CARTHAGE-REDSTONE,State House,8,DEM,Kory Rawstern,23
+Miner,TOTAL,State House,8,DEM,Kory Rawstern,247
