@@ -1,0 +1,66 @@
+county,precinct,office,district,party,candidate,votes
+Sully,Absentee Precinct,President,,REP,Donald J. Trump,123
+Sully,Agar Fire Hall,President,,REP,Donald J. Trump,75
+Sully,Bill Floyd Shop,President,,REP,Donald J. Trump,91
+Sully,Phoenix Center,President,,REP,Donald J. Trump,390
+Sully,Total,President,,REP,Donald J. Trump,679
+Sully,Absentee Precinct,President,,LIB,Gary Johnson,9
+Sully,Agar Fire Hall,President,,LIB,Gary Johnson,2
+Sully,Bill Floyd Shop,President,,LIB,Gary Johnson,4
+Sully,Phoenix Center,President,,LIB,Gary Johnson,25
+Sully,Total,President,,LIB,Gary Johnson,40
+Sully,Absentee Precinct,President,,DEM,Hillary Clinton,42
+Sully,Agar Fire Hall,President,,DEM,Hillary Clinton,16
+Sully,Bill Floyd Shop,President,,DEM,Hillary Clinton,16
+Sully,Phoenix Center,President,,DEM,Hillary Clinton,63
+Sully,Total,President,,DEM,Hillary Clinton,137
+Sully,Absentee Precinct,President,,CON,Darrell L. Castle,2
+Sully,Agar Fire Hall,President,,CON,Darrell L. Castle,0
+Sully,Bill Floyd Shop,President,,CON,Darrell L. Castle,0
+Sully,Phoenix Center,President,,CON,Darrell L. Castle,3
+Sully,Total,President,,CON,Darrell L. Castle,5
+Sully,Absentee Precinct,U.S. Senate,,REP,John R. Thune,138
+Sully,Agar Fire Hall,U.S. Senate,,REP,John R. Thune,73
+Sully,Bill Floyd Shop,U.S. Senate,,REP,John R. Thune,90
+Sully,Phoenix Center,U.S. Senate,,REP,John R. Thune,417
+Sully,Total,U.S. Senate,,REP,John R. Thune,718
+Sully,Absentee Precinct,U.S. Senate,,DEM,Jay Williams,36
+Sully,Agar Fire Hall,U.S. Senate,,DEM,Jay Williams,20
+Sully,Bill Floyd Shop,U.S. Senate,,DEM,Jay Williams,13
+Sully,Phoenix Center,U.S. Senate,,DEM,Jay Williams,67
+Sully,Total,U.S. Senate,,DEM,Jay Williams,136
+Sully,Absentee Precinct,U.S. House,1,REP,Kristi Noem,129
+Sully,Agar Fire Hall,U.S. House,1,REP,Kristi Noem,69
+Sully,Bill Floyd Shop,U.S. House,1,REP,Kristi Noem,88
+Sully,Phoenix Center,U.S. House,1,REP,Kristi Noem,382
+Sully,Total,U.S. House,1,REP,Kristi Noem,668
+Sully,Absentee Precinct,U.S. House,1,DEM,Paula Hawks,45
+Sully,Agar Fire Hall,U.S. House,1,DEM,Paula Hawks,24
+Sully,Bill Floyd Shop,U.S. House,1,DEM,Paula Hawks,22
+Sully,Phoenix Center,U.S. House,1,DEM,Paula Hawks,100
+Sully,Total,U.S. House,1,DEM,Paula Hawks,191
+Sully,Absentee Precinct,Public Utilities Commissioner,,REP,Chris Nelson,145
+Sully,Agar Fire Hall,Public Utilities Commissioner,,REP,Chris Nelson,80
+Sully,Bill Floyd Shop,Public Utilities Commissioner,,REP,Chris Nelson,96
+Sully,Phoenix Center,Public Utilities Commissioner,,REP,Chris Nelson,413
+Sully,Total,Public Utilities Commissioner,,REP,Chris Nelson,734
+Sully,Absentee Precinct,Public Utilities Commissioner,,DEM,Henry Red Cloud,26
+Sully,Agar Fire Hall,Public Utilities Commissioner,,DEM,Henry Red Cloud,11
+Sully,Bill Floyd Shop,Public Utilities Commissioner,,DEM,Henry Red Cloud,12
+Sully,Phoenix Center,Public Utilities Commissioner,,DEM,Henry Red Cloud,58
+Sully,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,107
+Sully,Absentee Precinct,State Senate,24,REP,Jeff Monroe,134
+Sully,Agar Fire Hall,State Senate,24,REP,Jeff Monroe,75
+Sully,Bill Floyd Shop,State Senate,24,REP,Jeff Monroe,89
+Sully,Phoenix Center,State Senate,24,REP,Jeff Monroe,367
+Sully,Total,State Senate,24,REP,Jeff Monroe,665
+Sully,Absentee Precinct,State House,24,REP,Mary Duvall,97
+Sully,Agar Fire Hall,State House,24,REP,Mary Duvall,50
+Sully,Bill Floyd Shop,State House,24,REP,Mary Duvall,76
+Sully,Phoenix Center,State House,24,REP,Mary Duvall,255
+Sully,Total,State House,24,REP,Mary Duvall,478
+Sully,Absentee Precinct,State House,24,REP,Tim Rounds,106
+Sully,Agar Fire Hall,State House,24,REP,Tim Rounds,61
+Sully,Bill Floyd Shop,State House,24,REP,Tim Rounds,68
+Sully,Phoenix Center,State House,24,REP,Tim Rounds,331
+Sully,Total,State House,24,REP,Tim Rounds,566
