@@ -1,0 +1,161 @@
+county,precinct,office,district,party,candidate,votes
+Fall River,Beaver,President,,REP,Donald J. Trump,122
+Fall River,Cascade,President,,REP,Donald J. Trump,123
+Fall River,Edgemont Area,President,,REP,Donald J. Trump,413
+Fall River,Hot Springs 1,President,,REP,Donald J. Trump,270
+Fall River,Hot Springs 2,President,,REP,Donald J. Trump,294
+Fall River,Hot Springs 3,President,,REP,Donald J. Trump,253
+Fall River,Hot Springs 4,President,,REP,Donald J. Trump,201
+Fall River,Jackson,President,,REP,Donald J. Trump,658
+Fall River,Oelrichs Area,President,,REP,Donald J. Trump,177
+Fall River,Total,President,,REP,Donald J. Trump,"2,511"
+Fall River,Beaver,President,,LIB,Gary Johnson,7
+Fall River,Cascade,President,,LIB,Gary Johnson,3
+Fall River,Edgemont Area,President,,LIB,Gary Johnson,29
+Fall River,Hot Springs 1,President,,LIB,Gary Johnson,25
+Fall River,Hot Springs 2,President,,LIB,Gary Johnson,17
+Fall River,Hot Springs 3,President,,LIB,Gary Johnson,29
+Fall River,Hot Springs 4,President,,LIB,Gary Johnson,21
+Fall River,Jackson,President,,LIB,Gary Johnson,32
+Fall River,Oelrichs Area,President,,LIB,Gary Johnson,3
+Fall River,Total,President,,LIB,Gary Johnson,166
+Fall River,Beaver,President,,DEM,Hillary Clinton,9
+Fall River,Cascade,President,,DEM,Hillary Clinton,33
+Fall River,Edgemont Area,President,,DEM,Hillary Clinton,82
+Fall River,Hot Springs 1,President,,DEM,Hillary Clinton,121
+Fall River,Hot Springs 2,President,,DEM,Hillary Clinton,135
+Fall River,Hot Springs 3,President,,DEM,Hillary Clinton,142
+Fall River,Hot Springs 4,President,,DEM,Hillary Clinton,97
+Fall River,Jackson,President,,DEM,Hillary Clinton,189
+Fall River,Oelrichs Area,President,,DEM,Hillary Clinton,13
+Fall River,Total,President,,DEM,Hillary Clinton,821
+Fall River,Beaver,President,,CON,Darrell L. Castle,0
+Fall River,Cascade,President,,CON,Darrell L. Castle,5
+Fall River,Edgemont Area,President,,CON,Darrell L. Castle,7
+Fall River,Hot Springs 1,President,,CON,Darrell L. Castle,12
+Fall River,Hot Springs 2,President,,CON,Darrell L. Castle,7
+Fall River,Hot Springs 3,President,,CON,Darrell L. Castle,4
+Fall River,Hot Springs 4,President,,CON,Darrell L. Castle,8
+Fall River,Jackson,President,,CON,Darrell L. Castle,18
+Fall River,Oelrichs Area,President,,CON,Darrell L. Castle,4
+Fall River,Total,President,,CON,Darrell L. Castle,65
+Fall River,Beaver,U.S. Senate,,REP,John R. Thune,113
+Fall River,Cascade,U.S. Senate,,REP,John R. Thune,123
+Fall River,Edgemont Area,U.S. Senate,,REP,John R. Thune,433
+Fall River,Hot Springs 1,U.S. Senate,,REP,John R. Thune,284
+Fall River,Hot Springs 2,U.S. Senate,,REP,John R. Thune,321
+Fall River,Hot Springs 3,U.S. Senate,,REP,John R. Thune,303
+Fall River,Hot Springs 4,U.S. Senate,,REP,John R. Thune,228
+Fall River,Jackson,U.S. Senate,,REP,John R. Thune,684
+Fall River,Oelrichs Area,U.S. Senate,,REP,John R. Thune,182
+Fall River,Total,U.S. Senate,,REP,John R. Thune,"2,671"
+Fall River,Beaver,U.S. Senate,,DEM,Jay Williams,20
+Fall River,Cascade,U.S. Senate,,DEM,Jay Williams,36
+Fall River,Edgemont Area,U.S. Senate,,DEM,Jay Williams,95
+Fall River,Hot Springs 1,U.S. Senate,,DEM,Jay Williams,137
+Fall River,Hot Springs 2,U.S. Senate,,DEM,Jay Williams,129
+Fall River,Hot Springs 3,U.S. Senate,,DEM,Jay Williams,129
+Fall River,Hot Springs 4,U.S. Senate,,DEM,Jay Williams,104
+Fall River,Jackson,U.S. Senate,,DEM,Jay Williams,204
+Fall River,Oelrichs Area,U.S. Senate,,DEM,Jay Williams,14
+Fall River,Total,U.S. Senate,,DEM,Jay Williams,868
+Fall River,Beaver,U.S. House,1,REP,Kristi Noem,118
+Fall River,Cascade,U.S. House,1,REP,Kristi Noem,126
+Fall River,Edgemont Area,U.S. House,1,REP,Kristi Noem,417
+Fall River,Hot Springs 1,U.S. House,1,REP,Kristi Noem,276
+Fall River,Hot Springs 2,U.S. House,1,REP,Kristi Noem,310
+Fall River,Hot Springs 3,U.S. House,1,REP,Kristi Noem,286
+Fall River,Hot Springs 4,U.S. House,1,REP,Kristi Noem,220
+Fall River,Jackson,U.S. House,1,REP,Kristi Noem,665
+Fall River,Oelrichs Area,U.S. House,1,REP,Kristi Noem,177
+Fall River,Total,U.S. House,1,REP,Kristi Noem,"2,595"
+Fall River,Beaver,U.S. House,1,DEM,Paula Hawks,18
+Fall River,Cascade,U.S. House,1,DEM,Paula Hawks,33
+Fall River,Edgemont Area,U.S. House,1,DEM,Paula Hawks,115
+Fall River,Hot Springs 1,U.S. House,1,DEM,Paula Hawks,144
+Fall River,Hot Springs 2,U.S. House,1,DEM,Paula Hawks,133
+Fall River,Hot Springs 3,U.S. House,1,DEM,Paula Hawks,135
+Fall River,Hot Springs 4,U.S. House,1,DEM,Paula Hawks,111
+Fall River,Jackson,U.S. House,1,DEM,Paula Hawks,225
+Fall River,Oelrichs Area,U.S. House,1,DEM,Paula Hawks,21
+Fall River,Total,U.S. House,1,DEM,Paula Hawks,935
+Fall River,Beaver,Public Utilities Commissioner,,REP,Chris Nelson,114
+Fall River,Cascade,Public Utilities Commissioner,,REP,Chris Nelson,124
+Fall River,Edgemont Area,Public Utilities Commissioner,,REP,Chris Nelson,402
+Fall River,Hot Springs 1,Public Utilities Commissioner,,REP,Chris Nelson,262
+Fall River,Hot Springs 2,Public Utilities Commissioner,,REP,Chris Nelson,313
+Fall River,Hot Springs 3,Public Utilities Commissioner,,REP,Chris Nelson,288
+Fall River,Hot Springs 4,Public Utilities Commissioner,,REP,Chris Nelson,204
+Fall River,Jackson,Public Utilities Commissioner,,REP,Chris Nelson,660
+Fall River,Oelrichs Area,Public Utilities Commissioner,,REP,Chris Nelson,174
+Fall River,Total,Public Utilities Commissioner,,REP,Chris Nelson,"2,541"
+Fall River,Beaver,Public Utilities Commissioner,,DEM,Henry Red Cloud,15
+Fall River,Cascade,Public Utilities Commissioner,,DEM,Henry Red Cloud,34
+Fall River,Edgemont Area,Public Utilities Commissioner,,DEM,Henry Red Cloud,108
+Fall River,Hot Springs 1,Public Utilities Commissioner,,DEM,Henry Red Cloud,146
+Fall River,Hot Springs 2,Public Utilities Commissioner,,DEM,Henry Red Cloud,125
+Fall River,Hot Springs 3,Public Utilities Commissioner,,DEM,Henry Red Cloud,121
+Fall River,Hot Springs 4,Public Utilities Commissioner,,DEM,Henry Red Cloud,112
+Fall River,Jackson,Public Utilities Commissioner,,DEM,Henry Red Cloud,209
+Fall River,Oelrichs Area,Public Utilities Commissioner,,DEM,Henry Red Cloud,18
+Fall River,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,888
+Fall River,Beaver,State Senate,30,REP,Lance Russell,96
+Fall River,Cascade,State Senate,30,REP,Lance Russell,112
+Fall River,Edgemont Area,State Senate,30,REP,Lance Russell,364
+Fall River,Hot Springs 1,State Senate,30,REP,Lance Russell,251
+Fall River,Hot Springs 2,State Senate,30,REP,Lance Russell,281
+Fall River,Hot Springs 3,State Senate,30,REP,Lance Russell,259
+Fall River,Hot Springs 4,State Senate,30,REP,Lance Russell,196
+Fall River,Jackson,State Senate,30,REP,Lance Russell,552
+Fall River,Oelrichs Area,State Senate,30,REP,Lance Russell,160
+Fall River,Total,State Senate,30,REP,Lance Russell,"2,271"
+Fall River,Beaver,State Senate,30,DEM,Karla R. LaRive,32
+Fall River,Cascade,State Senate,30,DEM,Karla R. LaRive,49
+Fall River,Edgemont Area,State Senate,30,DEM,Karla R. LaRive,144
+Fall River,Hot Springs 1,State Senate,30,DEM,Karla R. LaRive,164
+Fall River,Hot Springs 2,State Senate,30,DEM,Karla R. LaRive,166
+Fall River,Hot Springs 3,State Senate,30,DEM,Karla R. LaRive,165
+Fall River,Hot Springs 4,State Senate,30,DEM,Karla R. LaRive,124
+Fall River,Jackson,State Senate,30,DEM,Karla R. LaRive,312
+Fall River,Oelrichs Area,State Senate,30,DEM,Karla R. LaRive,37
+Fall River,Total,State Senate,30,DEM,Karla R. LaRive,"1,193"
+Fall River,Beaver,State House,30,REP,Julie Frye-Mueller,102
+Fall River,Cascade,State House,30,REP,Julie Frye-Mueller,99
+Fall River,Edgemont Area,State House,30,REP,Julie Frye-Mueller,329
+Fall River,Hot Springs 1,State House,30,REP,Julie Frye-Mueller,214
+Fall River,Hot Springs 2,State House,30,REP,Julie Frye-Mueller,246
+Fall River,Hot Springs 3,State House,30,REP,Julie Frye-Mueller,234
+Fall River,Hot Springs 4,State House,30,REP,Julie Frye-Mueller,169
+Fall River,Jackson,State House,30,REP,Julie Frye-Mueller,539
+Fall River,Oelrichs Area,State House,30,REP,Julie Frye-Mueller,151
+Fall River,Total,State House,30,REP,Julie Frye-Mueller,"2,083"
+Fall River,Beaver,State House,30,REP,Tim R. Goodwin,106
+Fall River,Cascade,State House,30,REP,Tim R. Goodwin,108
+Fall River,Edgemont Area,State House,30,REP,Tim R. Goodwin,328
+Fall River,Hot Springs 1,State House,30,REP,Tim R. Goodwin,210
+Fall River,Hot Springs 2,State House,30,REP,Tim R. Goodwin,258
+Fall River,Hot Springs 3,State House,30,REP,Tim R. Goodwin,208
+Fall River,Hot Springs 4,State House,30,REP,Tim R. Goodwin,166
+Fall River,Jackson,State House,30,REP,Tim R. Goodwin,545
+Fall River,Oelrichs Area,State House,30,REP,Tim R. Goodwin,144
+Fall River,Total,State House,30,REP,Tim R. Goodwin,"2,073"
+Fall River,Beaver,State House,30,DEM,Kristine Ina Winter,15
+Fall River,Cascade,State House,30,DEM,Kristine Ina Winter,36
+Fall River,Edgemont Area,State House,30,DEM,Kristine Ina Winter,106
+Fall River,Hot Springs 1,State House,30,DEM,Kristine Ina Winter,149
+Fall River,Hot Springs 2,State House,30,DEM,Kristine Ina Winter,119
+Fall River,Hot Springs 3,State House,30,DEM,Kristine Ina Winter,136
+Fall River,Hot Springs 4,State House,30,DEM,Kristine Ina Winter,115
+Fall River,Jackson,State House,30,DEM,Kristine Ina Winter,230
+Fall River,Oelrichs Area,State House,30,DEM,Kristine Ina Winter,18
+Fall River,Total,State House,30,DEM,Kristine Ina Winter,924
+Fall River,Beaver,State House,30,DEM,Sandy Arseneault,17
+Fall River,Cascade,State House,30,DEM,Sandy Arseneault,34
+Fall River,Edgemont Area,State House,30,DEM,Sandy Arseneault,121
+Fall River,Hot Springs 1,State House,30,DEM,Sandy Arseneault,148
+Fall River,Hot Springs 2,State House,30,DEM,Sandy Arseneault,146
+Fall River,Hot Springs 3,State House,30,DEM,Sandy Arseneault,135
+Fall River,Hot Springs 4,State House,30,DEM,Sandy Arseneault,104
+Fall River,Jackson,State House,30,DEM,Sandy Arseneault,224
+Fall River,Oelrichs Area,State House,30,DEM,Sandy Arseneault,21
+Fall River,Total,State House,30,DEM,Sandy Arseneault,950
