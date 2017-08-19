@@ -1,0 +1,81 @@
+county,precinct,office,district,candidate,party,votes
+Bennett,Allen,President,,Donald J. Trump,REP,70
+Bennett,Martin City,President,,Donald J. Trump,REP,211
+Bennett,Martin Rural 26/27,President,,Donald J. Trump,REP,235
+Bennett,Vetal/Tuthill,President,,Donald J. Trump,REP,150
+Bennett,Total,President,,Donald J. Trump,REP,666
+Bennett,Allen,President,,Gary Johnson,LIB,11
+Bennett,Martin City,President,,Gary Johnson,LIB,21
+Bennett,Martin Rural 26/27,President,,Gary Johnson,LIB,13
+Bennett,Vetal/Tuthill,President,,Gary Johnson,LIB,12
+Bennett,Total,President,,Gary Johnson,LIB,57
+Bennett,Allen,President,,Hillary Clinton,DEM,183
+Bennett,Martin City,President,,Hillary Clinton,DEM,121
+Bennett,Martin Rural 26/27,President,,Hillary Clinton,DEM,101
+Bennett,Vetal/Tuthill,President,,Hillary Clinton,DEM,7
+Bennett,Total,President,,Hillary Clinton,DEM,412
+Bennett,Allen,President,,Darrell L. Castle,CON,2
+Bennett,Martin City,President,,Darrell L. Castle,CON,8
+Bennett,Martin Rural 26/27,President,,Darrell L. Castle,CON,4
+Bennett,Vetal/Tuthill,President,,Darrell L. Castle,CON,0
+Bennett,Total,President,,Darrell L. Castle,CON,14
+Bennett,Allen,U.S Senate,,John R. Thune,REP,112
+Bennett,Martin City,U.S Senate,,John R. Thune,REP,249
+Bennett,Martin Rural 26/27,U.S Senate,,John R. Thune,REP,240
+Bennett,Vetal/Tuthill,U.S Senate,,John R. Thune,REP,157
+Bennett,Total,U.S Senate,,John R. Thune,REP,758
+Bennett,Allen,U.S Senate,,Jay Williams,DEM,148
+Bennett,Martin City,U.S Senate,,Jay Williams,DEM,111
+Bennett,Martin Rural 26/27,U.S Senate,,Jay Williams,DEM,112
+Bennett,Vetal/Tuthill,U.S Senate,,Jay Williams,DEM,11
+Bennett,Total,U.S Senate,,Jay Williams,DEM,382
+Bennett,Allen,U.S House,1,Kristi Noem,REP,96
+Bennett,Martin City,U.S House,1,Kristi Noem,REP,231
+Bennett,Martin Rural 26/27,U.S House,1,Kristi Noem,REP,244
+Bennett,Vetal/Tuthill,U.S House,1,Kristi Noem,REP,150
+Bennett,Total,U.S House,1,Kristi Noem,REP,721
+Bennett,Allen,U.S House,1,Paula Hawks,DEM,166
+Bennett,Martin City,U.S House,1,Paula Hawks,DEM,128
+Bennett,Martin Rural 26/27,U.S House,1,Paula Hawks,DEM,109
+Bennett,Vetal/Tuthill,U.S House,1,Paula Hawks,DEM,16
+Bennett,Total,U.S House,1,Paula Hawks,DEM,419
+Bennett,Allen,Public Utilities Commissioner,,Chris Nelson,REP,83
+Bennett,Martin City,Public Utilities Commissioner,,Chris Nelson,REP,225
+Bennett,Martin Rural 26/27,Public Utilities Commissioner,,Chris Nelson,REP,228
+Bennett,Vetal/Tuthill,Public Utilities Commissioner,,Chris Nelson,REP,149
+Bennett,Total,Public Utilities Commissioner,,Chris Nelson,REP,685
+Bennett,Allen,Public Utilities Commissioner,,Henry Red Cloud,DEM,179
+Bennett,Martin City,Public Utilities Commissioner,,Henry Red Cloud,DEM,126
+Bennett,Martin Rural 26/27,Public Utilities Commissioner,,Henry Red Cloud,DEM,118
+Bennett,Vetal/Tuthill,Public Utilities Commissioner,,Henry Red Cloud,DEM,11
+Bennett,Total,Public Utilities Commissioner,,Henry Red Cloud,DEM,434
+Bennett,Allen,State Senate,27,Kevin Killer,DEM,196
+Bennett,Martin City,State Senate,27,Kevin Killer,DEM,193
+Bennett,Martin Rural 26/27,State Senate,27,Kevin Killer,DEM,161
+Bennett,Vetal/Tuthill,State Senate,27,Kevin Killer,DEM,39
+Bennett,Total,State Senate,27,Kevin Killer,DEM,589
+Bennett,Allen,State Representative,27,Elizabeth May,REP,97
+Bennett,Martin City,State Representative,27,Elizabeth May,REP,228
+Bennett,Martin Rural 26/27,State Representative,27,Elizabeth May,REP,246
+Bennett,Vetal/Tuthill,State Representative,27,Elizabeth May,REP,150
+Bennett,Total,State Representative,27,Elizabeth May,REP,721
+Bennett,Allen,State Representative,27,Steve Livermont,REP,82
+Bennett,Martin City,State Representative,27,Steve Livermont,REP,236
+Bennett,Martin Rural 26/27,State Representative,27,Steve Livermont,REP,269
+Bennett,Vetal/Tuthill,State Representative,27,Steve Livermont,REP,160
+Bennett,Total,State Representative,27,Steve Livermont,REP,747
+Bennett,Allen,State Representative,27,Red Dawn foster,DEM,132
+Bennett,Martin City,State Representative,27,Red Dawn foster,DEM,65
+Bennett,Martin Rural 26/27,State Representative,27,Red Dawn foster,DEM,54
+Bennett,Vetal/Tuthill,State Representative,27,Red Dawn foster,DEM,5
+Bennett,Total,State Representative,27,Red Dawn foster,DEM,256
+Bennett,Allen,State Representative,27,Jim Bradford,DEM,120
+Bennett,Martin City,State Representative,27,Jim Bradford,DEM,121
+Bennett,Martin Rural 26/27,State Representative,27,Jim Bradford,DEM,89
+Bennett,Vetal/Tuthill,State Representative,27,Jim Bradford,DEM,10
+Bennett,Total,State Representative,27,Jim Bradford,DEM,340
+Bennett,Allen,State Representative,27,Everette L. Mckinley,IND,17
+Bennett,Martin City,State Representative,27,Everette L. Mckinley,IND,26
+Bennett,Martin Rural 26/27,State Representative,27,Everette L. Mckinley,IND,14
+Bennett,Vetal/Tuthill,State Representative,27,Everette L. Mckinley,IND,2
+Bennett,Total,State Representative,27,Everette L. Mckinley,IND,59
