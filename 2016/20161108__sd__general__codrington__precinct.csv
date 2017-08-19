@@ -1,0 +1,451 @@
+county,precinct,office,district,candidate,party,votes
+Codington,DEXTER,President,,Donald J. Trump,REP,70
+Codington,"EDEN, PHIPPS, WALLACE",President,,Donald J. Trump,REP,77
+Codington,ELMIRA,President,,Donald J. Trump,REP,150
+Codington,"FULLER, FLORENCE",President,,Donald J. Trump,REP,218
+Codington,GERMANTOWN (RAUVILLE),President,,Donald J. Trump,REP,149
+Codington,"GRACELAND, HENRY, HENRY",President,,Donald J. Trump,REP,178
+Codington,KAMPESKA (RICHLAND),President,,Donald J. Trump,REP,151
+Codington,"KRANZBURG, KRANZBURG",President,,Donald J. Trump,REP,182
+Codington,LAKE,President,,Donald J. Trump,REP,248
+Codington,"LEOLA, SOUTH SHORE",President,,Donald J. Trump,REP,85
+Codington,PELICAN,President,,Donald J. Trump,REP,244
+Codington,Precinct - A1,President,,Donald J. Trump,REP,698
+Codington,Precinct - A2,President,,Donald J. Trump,REP,335
+Codington,Precinct - A3 (Precint-A4),President,,Donald J. Trump,REP,473
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",President,,Donald J. Trump,REP,493
+Codington,Precinct-B2,President,,Donald J. Trump,REP,478
+Codington,Precinct-B3 (Precinct-C1),President,,Donald J. Trump,REP,407
+Codington,Precinct-C2 (Precinct-D4),President,,Donald J. Trump,REP,223
+Codington,Precinct-C3,President,,Donald J. Trump,REP,315
+Codington,Precinct-C4,President,,Donald J. Trump,REP,181
+Codington,Precinct-D1,President,,Donald J. Trump,REP,322
+Codington,Precinct-D2,President,,Donald J. Trump,REP,291
+Codington,Precinct-D3,President,,Donald J. Trump,REP,229
+Codington,Precinct-E1,President,,Donald J. Trump,REP,398
+Codington,Precinct-E2 (Precinct-E4),President,,Donald J. Trump,REP,360
+Codington,Precinct-E3,President,,Donald J. Trump,REP,579
+Codington,SHERIDAN,President,,Donald J. Trump,REP,159
+Codington,WAVERLY,President,,Donald J. Trump,REP,71
+Codington,TOTAL,President,,Donald J. Trump,REP,7764
+Codington,DEXTER,President,,Gary Johnson,LIB,2
+Codington,"EDEN, PHIPPS, WALLACE",President,,Gary Johnson,LIB,12
+Codington,ELMIRA,President,,Gary Johnson,LIB,12
+Codington,"FULLER, FLORENCE",President,,Gary Johnson,LIB,10
+Codington,GERMANTOWN (RAUVILLE),President,,Gary Johnson,LIB,7
+Codington,"GRACELAND, HENRY, HENRY",President,,Gary Johnson,LIB,12
+Codington,KAMPESKA (RICHLAND),President,,Gary Johnson,LIB,7
+Codington,"KRANZBURG, KRANZBURG",President,,Gary Johnson,LIB,9
+Codington,LAKE,President,,Gary Johnson,LIB,10
+Codington,"LEOLA, SOUTH SHORE",President,,Gary Johnson,LIB,7
+Codington,PELICAN,President,,Gary Johnson,LIB,21
+Codington,Precinct - A1,President,,Gary Johnson,LIB,49
+Codington,Precinct - A2,President,,Gary Johnson,LIB,24
+Codington,Precinct - A3 (Precint-A4),President,,Gary Johnson,LIB,30
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",President,,Gary Johnson,LIB,29
+Codington,Precinct-B2,President,,Gary Johnson,LIB,72
+Codington,Precinct-B3 (Precinct-C1),President,,Gary Johnson,LIB,43
+Codington,Precinct-C2 (Precinct-D4),President,,Gary Johnson,LIB,18
+Codington,Precinct-C3,President,,Gary Johnson,LIB,41
+Codington,Precinct-C4,President,,Gary Johnson,LIB,15
+Codington,Precinct-D1,President,,Gary Johnson,LIB,23
+Codington,Precinct-D2,President,,Gary Johnson,LIB,27
+Codington,Precinct-D3,President,,Gary Johnson,LIB,19
+Codington,Precinct-E1,President,,Gary Johnson,LIB,38
+Codington,Precinct-E2 (Precinct-E4),President,,Gary Johnson,LIB,23
+Codington,Precinct-E3,President,,Gary Johnson,LIB,26
+Codington,SHERIDAN,President,,Gary Johnson,LIB,7
+Codington,WAVERLY,President,,Gary Johnson,LIB,7
+Codington,TOTAL,President,,Gary Johnson,LIB,600
+Codington,DEXTER,President,,Hillary Clinton,DEM,17
+Codington,"EDEN, PHIPPS, WALLACE",President,,Hillary Clinton,DEM,28
+Codington,ELMIRA,President,,Hillary Clinton,DEM,65
+Codington,"FULLER, FLORENCE",President,,Hillary Clinton,DEM,64
+Codington,GERMANTOWN (RAUVILLE),President,,Hillary Clinton,DEM,62
+Codington,"GRACELAND, HENRY, HENRY",President,,Hillary Clinton,DEM,36
+Codington,KAMPESKA (RICHLAND),President,,Hillary Clinton,DEM,59
+Codington,"KRANZBURG, KRANZBURG",President,,Hillary Clinton,DEM,43
+Codington,LAKE,President,,Hillary Clinton,DEM,73
+Codington,"LEOLA, SOUTH SHORE",President,,Hillary Clinton,DEM,47
+Codington,PELICAN,President,,Hillary Clinton,DEM,62
+Codington,Precinct - A1,President,,Hillary Clinton,DEM,221
+Codington,Precinct - A2,President,,Hillary Clinton,DEM,158
+Codington,Precinct - A3 (Precint-A4),President,,Hillary Clinton,DEM,206
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",President,,Hillary Clinton,DEM,200
+Codington,Precinct-B2,President,,Hillary Clinton,DEM,295
+Codington,Precinct-B3 (Precinct-C1),President,,Hillary Clinton,DEM,175
+Codington,Precinct-C2 (Precinct-D4),President,,Hillary Clinton,DEM,128
+Codington,Precinct-C3,President,,Hillary Clinton,DEM,217
+Codington,Precinct-C4,President,,Hillary Clinton,DEM,78
+Codington,Precinct-D1,President,,Hillary Clinton,DEM,144
+Codington,Precinct-D2,President,,Hillary Clinton,DEM,146
+Codington,Precinct-D3,President,,Hillary Clinton,DEM,112
+Codington,Precinct-E1,President,,Hillary Clinton,DEM,163
+Codington,Precinct-E2 (Precinct-E4),President,,Hillary Clinton,DEM,131
+Codington,Precinct-E3,President,,Hillary Clinton,DEM,184
+Codington,SHERIDAN,President,,Hillary Clinton,DEM,39
+Codington,WAVERLY,President,,Hillary Clinton,DEM,21
+Codington,TOTAL,President,,Hillary Clinton,DEM,3174
+Codington,DEXTER,President,,Darrell L. Castle,CON,0
+Codington,"EDEN, PHIPPS, WALLACE",President,,Darrell L. Castle,CON,0
+Codington,ELMIRA,President,,Darrell L. Castle,CON,1
+Codington,"FULLER, FLORENCE",President,,Darrell L. Castle,CON,4
+Codington,GERMANTOWN (RAUVILLE),President,,Darrell L. Castle,CON,2
+Codington,"GRACELAND, HENRY, HENRY",President,,Darrell L. Castle,CON,0
+Codington,KAMPESKA (RICHLAND),President,,Darrell L. Castle,CON,1
+Codington,"KRANZBURG, KRANZBURG",President,,Darrell L. Castle,CON,2
+Codington,LAKE,President,,Darrell L. Castle,CON,6
+Codington,"LEOLA, SOUTH SHORE",President,,Darrell L. Castle,CON,2
+Codington,PELICAN,President,,Darrell L. Castle,CON,3
+Codington,Precinct - A1,President,,Darrell L. Castle,CON,6
+Codington,Precinct - A2,President,,Darrell L. Castle,CON,8
+Codington,Precinct - A3 (Precint-A4),President,,Darrell L. Castle,CON,7
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",President,,Darrell L. Castle,CON,6
+Codington,Precinct-B2,President,,Darrell L. Castle,CON,10
+Codington,Precinct-B3 (Precinct-C1),President,,Darrell L. Castle,CON,7
+Codington,Precinct-C2 (Precinct-D4),President,,Darrell L. Castle,CON,5
+Codington,Precinct-C3,President,,Darrell L. Castle,CON,9
+Codington,Precinct-C4,President,,Darrell L. Castle,CON,5
+Codington,Precinct-D1,President,,Darrell L. Castle,CON,8
+Codington,Precinct-D2,President,,Darrell L. Castle,CON,10
+Codington,Precinct-D3,President,,Darrell L. Castle,CON,4
+Codington,Precinct-E1,President,,Darrell L. Castle,CON,13
+Codington,Precinct-E2 (Precinct-E4),President,,Darrell L. Castle,CON,3
+Codington,Precinct-E3,President,,Darrell L. Castle,CON,9
+Codington,SHERIDAN,President,,Darrell L. Castle,CON,0
+Codington,WAVERLY,President,,Darrell L. Castle,CON,0
+Codington,TOTAL,President,,Darrell L. Castle,CON,131
+Codington,DEXTER,U.S Senate,,John R. Thune,REP,62
+Codington,"EDEN, PHIPPS, WALLACE",U.S Senate,,John R. Thune,REP,85
+Codington,ELMIRA,U.S Senate,,John R. Thune,REP,171
+Codington,"FULLER, FLORENCE",U.S Senate,,John R. Thune,REP,215
+Codington,GERMANTOWN (RAUVILLE),U.S Senate,,John R. Thune,REP,167
+Codington,"GRACELAND, HENRY, HENRY",U.S Senate,,John R. Thune,REP,187
+Codington,KAMPESKA (RICHLAND),U.S Senate,,John R. Thune,REP,165
+Codington,"KRANZBURG, KRANZBURG",U.S Senate,,John R. Thune,REP,191
+Codington,LAKE,U.S Senate,,John R. Thune,REP,257
+Codington,"LEOLA, SOUTH SHORE",U.S Senate,,John R. Thune,REP,89
+Codington,PELICAN,U.S Senate,,John R. Thune,REP,277
+Codington,Precinct - A1,U.S Senate,,John R. Thune,REP,807
+Codington,Precinct - A2,U.S Senate,,John R. Thune,REP,434
+Codington,Precinct - A3 (Precint-A4),U.S Senate,,John R. Thune,REP,560
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",U.S Senate,,John R. Thune,REP,566
+Codington,Precinct-B2,U.S Senate,,John R. Thune,REP,590
+Codington,Precinct-B3 (Precinct-C1),U.S Senate,,John R. Thune,REP,468
+Codington,Precinct-C2 (Precinct-D4),U.S Senate,,John R. Thune,REP,239
+Codington,Precinct-C3,U.S Senate,,John R. Thune,REP,372
+Codington,Precinct-C4,U.S Senate,,John R. Thune,REP,188
+Codington,Precinct-D1,U.S Senate,,John R. Thune,REP,360
+Codington,Precinct-D2,U.S Senate,,John R. Thune,REP,341
+Codington,Precinct-D3,U.S Senate,,John R. Thune,REP,252
+Codington,Precinct-E1,U.S Senate,,John R. Thune,REP,427
+Codington,Precinct-E2 (Precinct-E4),U.S Senate,,John R. Thune,REP,402
+Codington,Precinct-E3,U.S Senate,,John R. Thune,REP,632
+Codington,SHERIDAN,U.S Senate,,John R. Thune,REP,160
+Codington,WAVERLY,U.S Senate,,John R. Thune,REP,76
+Codington,TOTAL,U.S Senate,,John R. Thune,REP,8740
+Codington,DEXTER,U.S Senate,,Jay Williams,DEM,26
+Codington,"EDEN, PHIPPS, WALLACE",U.S Senate,,Jay Williams,DEM,37
+Codington,ELMIRA,U.S Senate,,Jay Williams,DEM,56
+Codington,"FULLER, FLORENCE",U.S Senate,,Jay Williams,DEM,88
+Codington,GERMANTOWN (RAUVILLE),U.S Senate,,Jay Williams,DEM,55
+Codington,"GRACELAND, HENRY, HENRY",U.S Senate,,Jay Williams,DEM,45
+Codington,KAMPESKA (RICHLAND),U.S Senate,,Jay Williams,DEM,55
+Codington,"KRANZBURG, KRANZBURG",U.S Senate,,Jay Williams,DEM,46
+Codington,LAKE,U.S Senate,,Jay Williams,DEM,78
+Codington,"LEOLA, SOUTH SHORE",U.S Senate,,Jay Williams,DEM,52
+Codington,PELICAN,U.S Senate,,Jay Williams,DEM,63
+Codington,Precinct - A1,U.S Senate,,Jay Williams,DEM,172
+Codington,Precinct - A2,U.S Senate,,Jay Williams,DEM,106
+Codington,Precinct - A3 (Precint-A4),U.S Senate,,Jay Williams,DEM,159
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",U.S Senate,,Jay Williams,DEM,167
+Codington,Precinct-B2,U.S Senate,,Jay Williams,DEM,269
+Codington,Precinct-B3 (Precinct-C1),U.S Senate,,Jay Williams,DEM,160
+Codington,Precinct-C2 (Precinct-D4),U.S Senate,,Jay Williams,DEM,138
+Codington,Precinct-C3,U.S Senate,,Jay Williams,DEM,210
+Codington,Precinct-C4,U.S Senate,,Jay Williams,DEM,88
+Codington,Precinct-D1,U.S Senate,,Jay Williams,DEM,143
+Codington,Precinct-D2,U.S Senate,,Jay Williams,DEM,141
+Codington,Precinct-D3,U.S Senate,,Jay Williams,DEM,116
+Codington,Precinct-E1,U.S Senate,,Jay Williams,DEM,183
+Codington,Precinct-E2 (Precinct-E4),U.S Senate,,Jay Williams,DEM,120
+Codington,Precinct-E3,U.S Senate,,Jay Williams,DEM,162
+Codington,SHERIDAN,U.S Senate,,Jay Williams,DEM,44
+Codington,WAVERLY,U.S Senate,,Jay Williams,DEM,24
+Codington,TOTAL,U.S Senate,,Jay Williams,DEM,3003
+Codington,DEXTER,U.S House,1,Kristi Noem,REP,52
+Codington,"EDEN, PHIPPS, WALLACE",U.S House,1,Kristi Noem,REP,78
+Codington,ELMIRA,U.S House,1,Kristi Noem,REP,161
+Codington,"FULLER, FLORENCE",U.S House,1,Kristi Noem,REP,201
+Codington,GERMANTOWN (RAUVILLE),U.S House,1,Kristi Noem,REP,142
+Codington,"GRACELAND, HENRY, HENRY",U.S House,1,Kristi Noem,REP,147
+Codington,KAMPESKA (RICHLAND),U.S House,1,Kristi Noem,REP,146
+Codington,"KRANZBURG, KRANZBURG",U.S House,1,Kristi Noem,REP,177
+Codington,LAKE,U.S House,1,Kristi Noem,REP,237
+Codington,"LEOLA, SOUTH SHORE",U.S House,1,Kristi Noem,REP,82
+Codington,PELICAN,U.S House,1,Kristi Noem,REP,253
+Codington,Precinct - A1,U.S House,1,Kristi Noem,REP,737
+Codington,Precinct - A2,U.S House,1,Kristi Noem,REP,384
+Codington,Precinct - A3 (Precint-A4),U.S House,1,Kristi Noem,REP,487
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",U.S House,1,Kristi Noem,REP,517
+Codington,Precinct-B2,U.S House,1,Kristi Noem,REP,503
+Codington,Precinct-B3 (Precinct-C1),U.S House,1,Kristi Noem,REP,428
+Codington,Precinct-C2 (Precinct-D4),U.S House,1,Kristi Noem,REP,220
+Codington,Precinct-C3,U.S House,1,Kristi Noem,REP,336
+Codington,Precinct-C4,U.S House,1,Kristi Noem,REP,174
+Codington,Precinct-D1,U.S House,1,Kristi Noem,REP,326
+Codington,Precinct-D2,U.S House,1,Kristi Noem,REP,299
+Codington,Precinct-D3,U.S House,1,Kristi Noem,REP,225
+Codington,Precinct-E1,U.S House,1,Kristi Noem,REP,378
+Codington,Precinct-E2 (Precinct-E4),U.S House,1,Kristi Noem,REP,373
+Codington,Precinct-E3,U.S House,1,Kristi Noem,REP,585
+Codington,SHERIDAN,U.S House,1,Kristi Noem,REP,152
+Codington,WAVERLY,U.S House,1,Kristi Noem,REP,66
+Codington,TOTAL,U.S House,1,Kristi Noem,REP,7866
+Codington,DEXTER,U.S House,1,Paula Hawks,DEM,36
+Codington,"EDEN, PHIPPS, WALLACE",U.S House,1,Paula Hawks,DEM,46
+Codington,ELMIRA,U.S House,1,Paula Hawks,DEM,70
+Codington,"FULLER, FLORENCE",U.S House,1,Paula Hawks,DEM,101
+Codington,GERMANTOWN (RAUVILLE),U.S House,1,Paula Hawks,DEM,78
+Codington,"GRACELAND, HENRY, HENRY",U.S House,1,Paula Hawks,DEM,85
+Codington,KAMPESKA (RICHLAND),U.S House,1,Paula Hawks,DEM,80
+Codington,"KRANZBURG, KRANZBURG",U.S House,1,Paula Hawks,DEM,62
+Codington,LAKE,U.S House,1,Paula Hawks,DEM,97
+Codington,"LEOLA, SOUTH SHORE",U.S House,1,Paula Hawks,DEM,60
+Codington,PELICAN,U.S House,1,Paula Hawks,DEM,85
+Codington,Precinct - A1,U.S House,1,Paula Hawks,DEM,249
+Codington,Precinct - A2,U.S House,1,Paula Hawks,DEM,155
+Codington,Precinct - A3 (Precint-A4),U.S House,1,Paula Hawks,DEM,231
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",U.S House,1,Paula Hawks,DEM,223
+Codington,Precinct-B2,U.S House,1,Paula Hawks,DEM,352
+Codington,Precinct-B3 (Precinct-C1),U.S House,1,Paula Hawks,DEM,204
+Codington,Precinct-C2 (Precinct-D4),U.S House,1,Paula Hawks,DEM,163
+Codington,Precinct-C3,U.S House,1,Paula Hawks,DEM,247
+Codington,Precinct-C4,U.S House,1,Paula Hawks,DEM,101
+Codington,Precinct-D1,U.S House,1,Paula Hawks,DEM,177
+Codington,Precinct-D2,U.S House,1,Paula Hawks,DEM,183
+Codington,Precinct-D3,U.S House,1,Paula Hawks,DEM,148
+Codington,Precinct-E1,U.S House,1,Paula Hawks,DEM,235
+Codington,Precinct-E2 (Precinct-E4),U.S House,1,Paula Hawks,DEM,155
+Codington,Precinct-E3,U.S House,1,Paula Hawks,DEM,213
+Codington,SHERIDAN,U.S House,1,Paula Hawks,DEM,57
+Codington,WAVERLY,U.S House,1,Paula Hawks,DEM,35
+Codington,TOTAL,U.S House,1,Paula Hawks,DEM,3928
+Codington,DEXTER,Public Utilities commissioner,,Chris Nelson,REP,71
+Codington,"EDEN, PHIPPS, WALLACE",Public Utilities commissioner,,Chris Nelson,REP,96
+Codington,ELMIRA,Public Utilities commissioner,,Chris Nelson,REP,191
+Codington,"FULLER, FLORENCE",Public Utilities commissioner,,Chris Nelson,REP,228
+Codington,GERMANTOWN (RAUVILLE),Public Utilities commissioner,,Chris Nelson,REP,165
+Codington,"GRACELAND, HENRY, HENRY",Public Utilities commissioner,,Chris Nelson,REP,195
+Codington,KAMPESKA (RICHLAND),Public Utilities commissioner,,Chris Nelson,REP,182
+Codington,"KRANZBURG, KRANZBURG",Public Utilities commissioner,,Chris Nelson,REP,201
+Codington,LAKE,Public Utilities commissioner,,Chris Nelson,REP,279
+Codington,"LEOLA, SOUTH SHORE",Public Utilities commissioner,,Chris Nelson,REP,102
+Codington,PELICAN,Public Utilities commissioner,,Chris Nelson,REP,267
+Codington,Precinct - A1,Public Utilities commissioner,,Chris Nelson,REP,820
+Codington,Precinct - A2,Public Utilities commissioner,,Chris Nelson,REP,454
+Codington,Precinct - A3 (Precint-A4),Public Utilities commissioner,,Chris Nelson,REP,586
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",Public Utilities commissioner,,Chris Nelson,REP,597
+Codington,Precinct-B2,Public Utilities commissioner,,Chris Nelson,REP,604
+Codington,Precinct-B3 (Precinct-C1),Public Utilities commissioner,,Chris Nelson,REP,474
+Codington,Precinct-C2 (Precinct-D4),Public Utilities commissioner,,Chris Nelson,REP,237
+Codington,Precinct-C3,Public Utilities commissioner,,Chris Nelson,REP,371
+Codington,Precinct-C4,Public Utilities commissioner,,Chris Nelson,REP,196
+Codington,Precinct-D1,Public Utilities commissioner,,Chris Nelson,REP,398
+Codington,Precinct-D2,Public Utilities commissioner,,Chris Nelson,REP,344
+Codington,Precinct-D3,Public Utilities commissioner,,Chris Nelson,REP,282
+Codington,Precinct-E1,Public Utilities commissioner,,Chris Nelson,REP,432
+Codington,Precinct-E2 (Precinct-E4),Public Utilities commissioner,,Chris Nelson,REP,422
+Codington,Precinct-E3,Public Utilities commissioner,,Chris Nelson,REP,679
+Codington,SHERIDAN,Public Utilities commissioner,,Chris Nelson,REP,170
+Codington,WAVERLY,Public Utilities commissioner,,Chris Nelson,REP,79
+Codington,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,9122
+Codington,DEXTER,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Codington,"EDEN, PHIPPS, WALLACE",Public Utilities commissioner,,Henry Red Cloud,DEM,20
+Codington,ELMIRA,Public Utilities commissioner,,Henry Red Cloud,DEM,34
+Codington,"FULLER, FLORENCE",Public Utilities commissioner,,Henry Red Cloud,DEM,53
+Codington,GERMANTOWN (RAUVILLE),Public Utilities commissioner,,Henry Red Cloud,DEM,42
+Codington,"GRACELAND, HENRY, HENRY",Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Codington,KAMPESKA (RICHLAND),Public Utilities commissioner,,Henry Red Cloud,DEM,32
+Codington,"KRANZBURG, KRANZBURG",Public Utilities commissioner,,Henry Red Cloud,DEM,27
+Codington,LAKE,Public Utilities commissioner,,Henry Red Cloud,DEM,49
+Codington,"LEOLA, SOUTH SHORE",Public Utilities commissioner,,Henry Red Cloud,DEM,33
+Codington,PELICAN,Public Utilities commissioner,,Henry Red Cloud,DEM,54
+Codington,Precinct - A1,Public Utilities commissioner,,Henry Red Cloud,DEM,117
+Codington,Precinct - A2,Public Utilities commissioner,,Henry Red Cloud,DEM,73
+Codington,Precinct - A3 (Precint-A4),Public Utilities commissioner,,Henry Red Cloud,DEM,101
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",Public Utilities commissioner,,Henry Red Cloud,DEM,109
+Codington,Precinct-B2,Public Utilities commissioner,,Henry Red Cloud,DEM,220
+Codington,Precinct-B3 (Precinct-C1),Public Utilities commissioner,,Henry Red Cloud,DEM,125
+Codington,Precinct-C2 (Precinct-D4),Public Utilities commissioner,,Henry Red Cloud,DEM,129
+Codington,Precinct-C3,Public Utilities commissioner,,Henry Red Cloud,DEM,170
+Codington,Precinct-C4,Public Utilities commissioner,,Henry Red Cloud,DEM,71
+Codington,Precinct-D1,Public Utilities commissioner,,Henry Red Cloud,DEM,80
+Codington,Precinct-D2,Public Utilities commissioner,,Henry Red Cloud,DEM,124
+Codington,Precinct-D3,Public Utilities commissioner,,Henry Red Cloud,DEM,71
+Codington,Precinct-E1,Public Utilities commissioner,,Henry Red Cloud,DEM,137
+Codington,Precinct-E2 (Precinct-E4),Public Utilities commissioner,,Henry Red Cloud,DEM,80
+Codington,Precinct-E3,Public Utilities commissioner,,Henry Red Cloud,DEM,99
+Codington,SHERIDAN,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Codington,WAVERLY,Public Utilities commissioner,,Henry Red Cloud,DEM,19
+Codington,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,2134
+Codington,DEXTER,State Senate,4,John Wiik,REP,44
+Codington,"EDEN, PHIPPS, WALLACE",State Senate,4,John Wiik,REP,75
+Codington,"FULLER, FLORENCE",State Senate,4,John Wiik,REP,178
+Codington,GERMANTOWN (RAUVILLE),State Senate,4,John Wiik,REP,134
+Codington,"GRACELAND, HENRY, HENRY",State Senate,4,John Wiik,REP,162
+Codington,KAMPESKA (RICHLAND),State Senate,4,John Wiik,REP,147
+Codington,"KRANZBURG, KRANZBURG",State Senate,4,John Wiik,REP,161
+Codington,"LEOLA, SOUTH SHORE",State Senate,4,John Wiik,REP,65
+Codington,WAVERLY,State Senate,4,John Wiik,REP,51
+Codington,TOTAL,State Senate,4,John Wiik,REP,1017
+Codington,DEXTER,State Senate,4,Kathy Tyler,DEM,40
+Codington,"EDEN, PHIPPS, WALLACE",State Senate,4,Kathy Tyler,DEM,45
+Codington,"FULLER, FLORENCE",State Senate,4,Kathy Tyler,DEM,112
+Codington,GERMANTOWN (RAUVILLE),State Senate,4,Kathy Tyler,DEM,82
+Codington,"GRACELAND, HENRY, HENRY",State Senate,4,Kathy Tyler,DEM,59
+Codington,KAMPESKA (RICHLAND),State Senate,4,Kathy Tyler,DEM,67
+Codington,"KRANZBURG, KRANZBURG",State Senate,4,Kathy Tyler,DEM,72
+Codington,"LEOLA, SOUTH SHORE",State Senate,4,Kathy Tyler,DEM,77
+Codington,WAVERLY,State Senate,4,Kathy Tyler,DEM,49
+Codington,TOTAL,State Senate,4,Kathy Tyler,DEM,603
+Codington,ELMIRA,State Senate,5,Neal Tapio,REP,153
+Codington,LAKE,State Senate,5,Neal Tapio,REP,235
+Codington,PELICAN,State Senate,5,Neal Tapio,REP,248
+Codington,Precinct - A1,State Senate,5,Neal Tapio,REP,716
+Codington,Precinct - A2,State Senate,5,Neal Tapio,REP,373
+Codington,Precinct - A3 (Precint-A4),State Senate,5,Neal Tapio,REP,493
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",State Senate,5,Neal Tapio,REP,508
+Codington,Precinct-B2,State Senate,5,Neal Tapio,REP,556
+Codington,Precinct-B3 (Precinct-C1),State Senate,5,Neal Tapio,REP,429
+Codington,Precinct-C2 (Precinct-D4),State Senate,5,Neal Tapio,REP,236
+Codington,Precinct-C3,State Senate,5,Neal Tapio,REP,347
+Codington,Precinct-C4,State Senate,5,Neal Tapio,REP,182
+Codington,Precinct-D1,State Senate,5,Neal Tapio,REP,333
+Codington,Precinct-D2,State Senate,5,Neal Tapio,REP,320
+Codington,Precinct-D3,State Senate,5,Neal Tapio,REP,234
+Codington,Precinct-E1,State Senate,5,Neal Tapio,REP,378
+Codington,Precinct-E2 (Precinct-E4),State Senate,5,Neal Tapio,REP,368
+Codington,Precinct-E3,State Senate,5,Neal Tapio,REP,581
+Codington,SHERIDAN,State Senate,5,Neal Tapio,REP,148
+Codington,TOTAL,State Senate,5,Neal Tapio,REP,6838
+Codington,DEXTER,State Representative,4,John Mills,REP,33
+Codington,"EDEN, PHIPPS, WALLACE",State Representative,4,John Mills,REP,61
+Codington,"FULLER, FLORENCE",State Representative,4,John Mills,REP,156
+Codington,GERMANTOWN (RAUVILLE),State Representative,4,John Mills,REP,105
+Codington,"GRACELAND, HENRY, HENRY",State Representative,4,John Mills,REP,117
+Codington,KAMPESKA (RICHLAND),State Representative,4,John Mills,REP,115
+Codington,"KRANZBURG, KRANZBURG",State Representative,4,John Mills,REP,124
+Codington,"LEOLA, SOUTH SHORE",State Representative,4,John Mills,REP,53
+Codington,WAVERLY,State Representative,4,John Mills,REP,50
+Codington,TOTAL,State Representative,4,John Mills,REP,814
+Codington,DEXTER,State Representative,4,Jason W. Kettwig,REP,44
+Codington,"EDEN, PHIPPS, WALLACE",State Representative,4,Jason W. Kettwig,REP,58
+Codington,"FULLER, FLORENCE",State Representative,4,Jason W. Kettwig,REP,141
+Codington,GERMANTOWN (RAUVILLE),State Representative,4,Jason W. Kettwig,REP,113
+Codington,"GRACELAND, HENRY, HENRY",State Representative,4,Jason W. Kettwig,REP,139
+Codington,KAMPESKA (RICHLAND),State Representative,4,Jason W. Kettwig,REP,143
+Codington,"KRANZBURG, KRANZBURG",State Representative,4,Jason W. Kettwig,REP,141
+Codington,"LEOLA, SOUTH SHORE",State Representative,4,Jason W. Kettwig,REP,62
+Codington,WAVERLY,State Representative,4,Jason W. Kettwig,REP,52
+Codington,TOTAL,State Representative,4,Jason W. Kettwig,REP,893
+Codington,DEXTER,State Representative,4,Matt Rosdahi,DEM,31
+Codington,"EDEN, PHIPPS, WALLACE",State Representative,4,Matt Rosdahi,DEM,28
+Codington,"FULLER, FLORENCE",State Representative,4,Matt Rosdahi,DEM,65
+Codington,GERMANTOWN (RAUVILLE),State Representative,4,Matt Rosdahi,DEM,55
+Codington,"GRACELAND, HENRY, HENRY",State Representative,4,Matt Rosdahi,DEM,41
+Codington,KAMPESKA (RICHLAND),State Representative,4,Matt Rosdahi,DEM,47
+Codington,"KRANZBURG, KRANZBURG",State Representative,4,Matt Rosdahi,DEM,44
+Codington,"LEOLA, SOUTH SHORE",State Representative,4,Matt Rosdahi,DEM,49
+Codington,WAVERLY,State Representative,4,Matt Rosdahi,DEM,29
+Codington,TOTAL,State Representative,4,Matt Rosdahi,DEM,389
+Codington,DEXTER,State Representative,4,Peggy Schuelke,DEM,39
+Codington,"EDEN, PHIPPS, WALLACE",State Representative,4,Peggy Schuelke,DEM,41
+Codington,"FULLER, FLORENCE",State Representative,4,Peggy Schuelke,DEM,97
+Codington,GERMANTOWN (RAUVILLE),State Representative,4,Peggy Schuelke,DEM,86
+Codington,"GRACELAND, HENRY, HENRY",State Representative,4,Peggy Schuelke,DEM,66
+Codington,KAMPESKA (RICHLAND),State Representative,4,Peggy Schuelke,DEM,67
+Codington,"KRANZBURG, KRANZBURG",State Representative,4,Peggy Schuelke,DEM,82
+Codington,"LEOLA, SOUTH SHORE",State Representative,4,Peggy Schuelke,DEM,73
+Codington,WAVERLY,State Representative,4,Peggy Schuelke,DEM,43
+Codington,TOTAL,State Representative,4,Peggy Schuelke,DEM,594
+Codington,ELMIRA,State Representative,5,Hugh M. Bartels,REP,148
+Codington,LAKE,State Representative,5,Hugh M. Bartels,REP,226
+Codington,PELICAN,State Representative,5,Hugh M. Bartels,REP,201
+Codington,Precinct - A1,State Representative,5,Hugh M. Bartels,REP,653
+Codington,Precinct - A2,State Representative,5,Hugh M. Bartels,REP,345
+Codington,Precinct - A3 (Precint-A4),State Representative,5,Hugh M. Bartels,REP,406
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",State Representative,5,Hugh M. Bartels,REP,449
+Codington,Precinct-B2,State Representative,5,Hugh M. Bartels,REP,464
+Codington,Precinct-B3 (Precinct-C1),State Representative,5,Hugh M. Bartels,REP,364
+Codington,Precinct-C2 (Precinct-D4),State Representative,5,Hugh M. Bartels,REP,167
+Codington,Precinct-C3,State Representative,5,Hugh M. Bartels,REP,238
+Codington,Precinct-C4,State Representative,5,Hugh M. Bartels,REP,124
+Codington,Precinct-D1,State Representative,5,Hugh M. Bartels,REP,289
+Codington,Precinct-D2,State Representative,5,Hugh M. Bartels,REP,242
+Codington,Precinct-D3,State Representative,5,Hugh M. Bartels,REP,192
+Codington,Precinct-E1,State Representative,5,Hugh M. Bartels,REP,286
+Codington,Precinct-E2 (Precinct-E4),State Representative,5,Hugh M. Bartels,REP,303
+Codington,Precinct-E3,State Representative,5,Hugh M. Bartels,REP,534
+Codington,SHERIDAN,State Representative,5,Hugh M. Bartels,REP,139
+Codington,TOTAL,State Representative,5,Hugh M. Bartels,REP,5770
+Codington,ELMIRA,State Representative,5,Nancy York,REP,124
+Codington,LAKE,State Representative,5,Nancy York,REP,201
+Codington,PELICAN,State Representative,5,Nancy York,REP,185
+Codington,Precinct - A1,State Representative,5,Nancy York,REP,546
+Codington,Precinct - A2,State Representative,5,Nancy York,REP,305
+Codington,Precinct - A3 (Precint-A4),State Representative,5,Nancy York,REP,412
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",State Representative,5,Nancy York,REP,395
+Codington,Precinct-B2,State Representative,5,Nancy York,REP,399
+Codington,Precinct-B3 (Precinct-C1),State Representative,5,Nancy York,REP,328
+Codington,Precinct-C2 (Precinct-D4),State Representative,5,Nancy York,REP,169
+Codington,Precinct-C3,State Representative,5,Nancy York,REP,287
+Codington,Precinct-C4,State Representative,5,Nancy York,REP,124
+Codington,Precinct-D1,State Representative,5,Nancy York,REP,267
+Codington,Precinct-D2,State Representative,5,Nancy York,REP,240
+Codington,Precinct-D3,State Representative,5,Nancy York,REP,186
+Codington,Precinct-E1,State Representative,5,Nancy York,REP,287
+Codington,Precinct-E2 (Precinct-E4),State Representative,5,Nancy York,REP,307
+Codington,Precinct-E3,State Representative,5,Nancy York,REP,462
+Codington,SHERIDAN,State Representative,5,Nancy York,REP,122
+Codington,TOTAL,State Representative,5,Nancy York,REP,5346
+Codington,ELMIRA,State Representative,5,Michele Alvine,DEM,70
+Codington,LAKE,State Representative,5,Michele Alvine,DEM,77
+Codington,PELICAN,State Representative,5,Michele Alvine,DEM,79
+Codington,Precinct - A1,State Representative,5,Michele Alvine,DEM,255
+Codington,Precinct - A2,State Representative,5,Michele Alvine,DEM,179
+Codington,Precinct - A3 (Precint-A4),State Representative,5,Michele Alvine,DEM,222
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",State Representative,5,Michele Alvine,DEM,254
+Codington,Precinct-B2,State Representative,5,Michele Alvine,DEM,310
+Codington,Precinct-B3 (Precinct-C1),State Representative,5,Michele Alvine,DEM,197
+Codington,Precinct-C2 (Precinct-D4),State Representative,5,Michele Alvine,DEM,140
+Codington,Precinct-C3,State Representative,5,Michele Alvine,DEM,225
+Codington,Precinct-C4,State Representative,5,Michele Alvine,DEM,86
+Codington,Precinct-D1,State Representative,5,Michele Alvine,DEM,165
+Codington,Precinct-D2,State Representative,5,Michele Alvine,DEM,157
+Codington,Precinct-D3,State Representative,5,Michele Alvine,DEM,124
+Codington,Precinct-E1,State Representative,5,Michele Alvine,DEM,201
+Codington,Precinct-E2 (Precinct-E4),State Representative,5,Michele Alvine,DEM,162
+Codington,Precinct-E3,State Representative,5,Michele Alvine,DEM,205
+Codington,SHERIDAN,State Representative,5,Michele Alvine,DEM,49
+Codington,TOTAL,State Representative,5,Michele Alvine,DEM,3157
+Codington,ELMIRA,State Representative,5,"Charles ""Chuck"" Haan",IND,36
+Codington,LAKE,State Representative,5,"Charles ""Chuck"" Haan",IND,64
+Codington,PELICAN,State Representative,5,"Charles ""Chuck"" Haan",IND,81
+Codington,Precinct - A1,State Representative,5,"Charles ""Chuck"" Haan",IND,123
+Codington,Precinct - A2,State Representative,5,"Charles ""Chuck"" Haan",IND,75
+Codington,Precinct - A3 (Precint-A4),State Representative,5,"Charles ""Chuck"" Haan",IND,108
+Codington,"Precinct-B1 (Precinct-B4, Precinct-E5)",State Representative,5,"Charles ""Chuck"" Haan",IND,106
+Codington,Precinct-B2,State Representative,5,"Charles ""Chuck"" Haan",IND,183
+Codington,Precinct-B3 (Precinct-C1),State Representative,5,"Charles ""Chuck"" Haan",IND,122
+Codington,Precinct-C2 (Precinct-D4),State Representative,5,"Charles ""Chuck"" Haan",IND,111
+Codington,Precinct-C3,State Representative,5,"Charles ""Chuck"" Haan",IND,144
+Codington,Precinct-C4,State Representative,5,"Charles ""Chuck"" Haan",IND,78
+Codington,Precinct-D1,State Representative,5,"Charles ""Chuck"" Haan",IND,88
+Codington,Precinct-D2,State Representative,5,"Charles ""Chuck"" Haan",IND,98
+Codington,Precinct-D3,State Representative,5,"Charles ""Chuck"" Haan",IND,85
+Codington,Precinct-E1,State Representative,5,"Charles ""Chuck"" Haan",IND,131
+Codington,Precinct-E2 (Precinct-E4),State Representative,5,"Charles ""Chuck"" Haan",IND,104
+Codington,Precinct-E3,State Representative,5,"Charles ""Chuck"" Haan",IND,114
+Codington,SHERIDAN,State Representative,5,"Charles ""Chuck"" Haan",IND,31
+Codington,TOTAL,State Representative,5,"Charles ""Chuck"" Haan",IND,1882
