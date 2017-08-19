@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Hanson,1,President,,REP,Donald J. Trump,689
+Hanson,2,President,,REP,Donald J. Trump,244
+Hanson,3,President,,REP,Donald J. Trump,236
+Hanson,4,President,,REP,Donald J. Trump,230
+Hanson,5,President,,REP,Donald J. Trump,98
+Hanson,Total,President,,REP,Donald J. Trump,1497
+Hanson,1,President,,LIB,Gary Johnson,28
+Hanson,2,President,,LIB,Gary Johnson,18
+Hanson,3,President,,LIB,Gary Johnson,3
+Hanson,4,President,,LIB,Gary Johnson,9
+Hanson,5,President,,LIB,Gary Johnson,1
+Hanson,Total,President,,LIB,Gary Johnson,59
+Hanson,1,President,,DEM,Hillary Clinton,233
+Hanson,2,President,,DEM,Hillary Clinton,87
+Hanson,3,President,,DEM,Hillary Clinton,50
+Hanson,4,President,,DEM,Hillary Clinton,38
+Hanson,5,President,,DEM,Hillary Clinton,16
+Hanson,Total,President,,DEM,Hillary Clinton,424
+Hanson,1,President,,CON,Darrell L. Castle,13
+Hanson,2,President,,CON,Darrell L. Castle,2
+Hanson,3,President,,CON,Darrell L. Castle,7
+Hanson,4,President,,CON,Darrell L. Castle,4
+Hanson,5,President,,CON,Darrell L. Castle,0
+Hanson,Total,President,,CON,Darrell L. Castle,26
+Hanson,1,U.S. Senate,,REP,John R. Thune,694
+Hanson,2,U.S. Senate,,REP,John R. Thune,265
+Hanson,3,U.S. Senate,,REP,John R. Thune,232
+Hanson,4,U.S. Senate,,REP,John R. Thune,226
+Hanson,5,U.S. Senate,,REP,John R. Thune,95
+Hanson,Total,U.S. Senate,,REP,John R. Thune,1512
+Hanson,1,U.S. Senate,,DEM,Jay Williams,223
+Hanson,2,U.S. Senate,,DEM,Jay Williams,91
+Hanson,3,U.S. Senate,,DEM,Jay Williams,66
+Hanson,4,U.S. Senate,,DEM,Jay Williams,50
+Hanson,5,U.S. Senate,,DEM,Jay Williams,21
+Hanson,Total,U.S. Senate,,DEM,Jay Williams,451
+Hanson,1,U.S. House,1,REP,Kristi Noem,657
+Hanson,2,U.S. House,1,REP,Kristi Noem,246
+Hanson,3,U.S. House,1,REP,Kristi Noem,230
+Hanson,4,U.S. House,1,REP,Kristi Noem,222
+Hanson,5,U.S. House,1,REP,Kristi Noem,89
+Hanson,Total,U.S. House,1,REP,Kristi Noem,1444
+Hanson,1,U.S. House,1,DEM,Paula Hawks,258
+Hanson,2,U.S. House,1,DEM,Paula Hawks,111
+Hanson,3,U.S. House,1,DEM,Paula Hawks,69
+Hanson,4,U.S. House,1,DEM,Paula Hawks,58
+Hanson,5,U.S. House,1,DEM,Paula Hawks,29
+Hanson,Total,U.S. House,1,DEM,Paula Hawks,525
+Hanson,1,Public Utilities Commissioner,,REP,Chris Nelson,652
+Hanson,2,Public Utilities Commissioner,,REP,Chris Nelson,290
+Hanson,3,Public Utilities Commissioner,,REP,Chris Nelson,253
+Hanson,4,Public Utilities Commissioner,,REP,Chris Nelson,238
+Hanson,5,Public Utilities Commissioner,,REP,Chris Nelson,96
+Hanson,Total,Public Utilities Commissioner,,REP,Chris Nelson,1529
+Hanson,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,205
+Hanson,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,60
+Hanson,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,38
+Hanson,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,38
+Hanson,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,14
+Hanson,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,355
+Hanson,1,State Senate,19,REP,Stace Nelson,672
+Hanson,2,State Senate,19,REP,Stace Nelson,282
+Hanson,3,State Senate,19,REP,Stace Nelson,265
+Hanson,4,State Senate,19,REP,Stace Nelson,241
+Hanson,5,State Senate,19,REP,Stace Nelson,105
+Hanson,Total,State Senate,19,REP,Stace Nelson,1565
+Hanson,1,State Senate,19,DEM,Russell Graeff,197
+Hanson,2,State Senate,19,DEM,Russell Graeff,74
+Hanson,3,State Senate,19,DEM,Russell Graeff,37
+Hanson,4,State Senate,19,DEM,Russell Graeff,36
+Hanson,5,State Senate,19,DEM,Russell Graeff,13
+Hanson,Total,State Senate,19,DEM,Russell Graeff,357
+Hanson,1,State House,19,REP,Kent S. Peterson,569
+Hanson,2,State House,19,REP,Kent S. Peterson,186
+Hanson,3,State House,19,REP,Kent S. Peterson,170
+Hanson,4,State House,19,REP,Kent S. Peterson,177
+Hanson,5,State House,19,REP,Kent S. Peterson,60
+Hanson,Total,State House,19,REP,Kent S. Peterson,1162
+Hanson,1,State House,19,REP,Kyle Schoenfish,521
+Hanson,2,State House,19,REP,Kyle Schoenfish,207
+Hanson,3,State House,19,REP,Kyle Schoenfish,150
+Hanson,4,State House,19,REP,Kyle Schoenfish,177
+Hanson,5,State House,19,REP,Kyle Schoenfish,60
+Hanson,Total,State House,19,REP,Kyle Schoenfish,1115
+Hanson,1,State House,19,DEM,Melissa R. Mentele,238
+Hanson,2,State House,19,DEM,Melissa R. Mentele,110
+Hanson,3,State House,19,DEM,Melissa R. Mentele,90
+Hanson,4,State House,19,DEM,Melissa R. Mentele,76
+Hanson,5,State House,19,DEM,Melissa R. Mentele,29
+Hanson,Total,State House,19,DEM,Melissa R. Mentele,543
