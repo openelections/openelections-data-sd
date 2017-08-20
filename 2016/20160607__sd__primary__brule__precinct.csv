@@ -1,0 +1,26 @@
+county,precinct,office,district,party,candidate,votes
+Brule,1,President,,Democratic,Bernie Sanders,118
+Brule,2,President,,Democratic,Bernie Sanders,49
+Brule,3,President,,Democratic,Bernie Sanders,35
+Brule,4,President,,Democratic,Bernie Sanders,3
+Brule,5,President,,Democratic,Bernie Sanders,14
+Brule,1,President,,Democratic,Hillary Clinton,103
+Brule,2,President,,Democratic,Hillary Clinton,46
+Brule,3,President,,Democratic,Hillary Clinton,26
+Brule,4,President,,Democratic,Hillary Clinton,3
+Brule,5,President,,Democratic,Hillary Clinton,4
+Brule,1,President,,Republican,John R. Kasich,44
+Brule,2,President,,Republican,John R. Kasich,5
+Brule,3,President,,Republican,John R. Kasich,6
+Brule,4,President,,Republican,John R. Kasich,1
+Brule,5,President,,Republican,John R. Kasich,2
+Brule,1,President,,Republican,Ted Cruz,34
+Brule,2,President,,Republican,Ted Cruz,8
+Brule,3,President,,Republican,Ted Cruz,15
+Brule,4,President,,Republican,Ted Cruz,2
+Brule,5,President,,Republican,Ted Cruz,2
+Brule,1,President,,Republican,Donald J. Trump,152
+Brule,2,President,,Republican,Donald J. Trump,23
+Brule,3,President,,Republican,Donald J. Trump,38
+Brule,4,President,,Republican,Donald J. Trump,6
+Brule,5,President,,Republican,Donald J. Trump,26
