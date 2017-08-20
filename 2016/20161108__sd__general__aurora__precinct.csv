@@ -1,0 +1,79 @@
+county,precinct,office,district,party,candidate,votes
+Aurora,1,President,,REP,Donald J. Trump,230
+Aurora,2,President,,REP,Donald J. Trump,120
+Aurora,3,President,,REP,Donald J. Trump,290
+Aurora,5,President,,REP,Donald J. Trump,128
+Aurora,7,President,,REP,Donald J. Trump,206
+Aurora,1,President,,LIB,Gary Johnson,11
+Aurora,2,President,,LIB,Gary Johnson,7
+Aurora,3,President,,LIB,Gary Johnson,19
+Aurora,5,President,,LIB,Gary Johnson,11
+Aurora,7,President,,LIB,Gary Johnson,26
+Aurora,1,President,,DEM,Hillary Clinton,62
+Aurora,2,President,,DEM,Hillary Clinton,23
+Aurora,3,President,,DEM,Hillary Clinton,101
+Aurora,5,President,,DEM,Hillary Clinton,61
+Aurora,7,President,,DEM,Hillary Clinton,93
+Aurora,1,President,,CON,Darrell L. Castle,4
+Aurora,2,President,,CON,Darrell L. Castle,3
+Aurora,3,President,,CON,Darrell L. Castle,6
+Aurora,5,President,,CON,Darrell L. Castle,1
+Aurora,7,President,,CON,Darrell L. Castle,5
+Aurora,1,U.S. Senate,,REP,John R. Thune,254
+Aurora,2,U.S. Senate,,REP,John R. Thune,121
+Aurora,3,U.S. Senate,,REP,John R. Thune,314
+Aurora,5,U.S. Senate,,REP,John R. Thune,135
+Aurora,7,U.S. Senate,,REP,John R. Thune,249
+Aurora,1,U.S. Senate,,DEM,Jay Williams,60
+Aurora,2,U.S. Senate,,DEM,Jay Williams,32
+Aurora,3,U.S. Senate,,DEM,Jay Williams,107
+Aurora,5,U.S. Senate,,DEM,Jay Williams,62
+Aurora,7,U.S. Senate,,DEM,Jay Williams,82
+Aurora,1,U.S. House,1,REP,Kristi Noem,229
+Aurora,2,U.S. House,1,REP,Kristi Noem,107
+Aurora,3,U.S. House,1,REP,Kristi Noem,262
+Aurora,5,U.S. House,1,REP,Kristi Noem,128
+Aurora,7,U.S. House,1,REP,Kristi Noem,203
+Aurora,1,U.S. House,1,DEM,Paula Hawks,85
+Aurora,2,U.S. House,1,DEM,Paula Hawks,50
+Aurora,3,U.S. House,1,DEM,Paula Hawks,159
+Aurora,5,U.S. House,1,DEM,Paula Hawks,74
+Aurora,7,U.S. House,1,DEM,Paula Hawks,124
+Aurora,1,Public Utilities Commissioner,,REP,Chris Nelson,270
+Aurora,2,Public Utilities Commissioner,,REP,Chris Nelson,145
+Aurora,3,Public Utilities Commissioner,,REP,Chris Nelson,362
+Aurora,5,Public Utilities Commissioner,,REP,Chris Nelson,153
+Aurora,7,Public Utilities Commissioner,,REP,Chris Nelson,271
+Aurora,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,40
+Aurora,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,10
+Aurora,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,61
+Aurora,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,44
+Aurora,7,Public Utilities Commissioner,,DEM,Henry Red Cloud,53
+Aurora,1,State Senate,20,REP,Joshua Klumb,221
+Aurora,2,State Senate,20,REP,Joshua Klumb,109
+Aurora,3,State Senate,20,REP,Joshua Klumb,232
+Aurora,5,State Senate,20,REP,Joshua Klumb,91
+Aurora,7,State Senate,20,REP,Joshua Klumb,181
+Aurora,1,State Senate,20,DEM,Quinten L. Burg,93
+Aurora,2,State Senate,20,DEM,Quinten L. Burg,49
+Aurora,3,State Senate,20,DEM,Quinten L. Burg,186
+Aurora,5,State Senate,20,DEM,Quinten L. Burg,109
+Aurora,7,State Senate,20,DEM,Quinten L. Burg,144
+Aurora,1,State House,20,REP,Tona Rozum,202
+Aurora,2,State House,20,REP,Tona Rozum,108
+Aurora,3,State House,20,REP,Tona Rozum,247
+Aurora,5,State House,20,REP,Tona Rozum,109
+Aurora,7,State House,20,REP,Tona Rozum,215
+Aurora,1,State House,20,REP,Lance Carson,190
+Aurora,2,State House,20,REP,Lance Carson,80
+Aurora,3,State House,20,REP,Lance Carson,199
+Aurora,5,State House,20,REP,Lance Carson,101
+Aurora,7,State House,20,REP,Lance Carson,174
+Aurora,2,County Commissioner,3,REP,Clyde Dethlefsen,116
+Aurora,3,County Commissioner,3,REP,Clyde Dethlefsen,18
+Aurora,5,County Commissioner,3,REP,Clyde Dethlefsen,8
+Aurora,7,County Commissioner,3,REP,Clyde Dethlefsen,22
+Aurora,2,County Commissioner,3,IND,Karl Swanson,40
+Aurora,3,County Commissioner,3,IND,Karl Swanson,5
+Aurora,5,County Commissioner,3,IND,Karl Swanson,27
+Aurora,7,County Commissioner,3,IND,Karl Swanson,46
