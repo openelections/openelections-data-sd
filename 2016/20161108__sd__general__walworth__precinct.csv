@@ -1,0 +1,144 @@
+county,precinct,office,district,candidate,party,votes
+Walworth,1,President,,Donald J. Trump,REP,127
+Walworth,2,President,,Donald J. Trump,REP,122
+Walworth,3,President,,Donald J. Trump,REP,347
+Walworth,4,President,,Donald J. Trump,REP,120
+Walworth,5,President,,Donald J. Trump,REP,228
+Walworth,6,President,,Donald J. Trump,REP,346
+Walworth,7,President,,Donald J. Trump,REP,331
+Walworth,8,President,,Donald J. Trump,REP,78
+Walworth,9,President,,Donald J. Trump,REP,67
+Walworth,10,President,,Donald J. Trump,REP,130
+Walworth,Total,President,,Donald J. Trump,REP,1896
+Walworth,1,President,,Gary Johnson,LIB,2
+Walworth,2,President,,Gary Johnson,LIB,9
+Walworth,3,President,,Gary Johnson,LIB,11
+Walworth,4,President,,Gary Johnson,LIB,4
+Walworth,5,President,,Gary Johnson,LIB,13
+Walworth,6,President,,Gary Johnson,LIB,19
+Walworth,7,President,,Gary Johnson,LIB,8
+Walworth,8,President,,Gary Johnson,LIB,1
+Walworth,9,President,,Gary Johnson,LIB,8
+Walworth,10,President,,Gary Johnson,LIB,4
+Walworth,Total,President,,Gary Johnson,LIB,79
+Walworth,1,President,,Hillary Clinton,DEM,16
+Walworth,2,President,,Hillary Clinton,DEM,20
+Walworth,3,President,,Hillary Clinton,DEM,46
+Walworth,4,President,,Hillary Clinton,DEM,40
+Walworth,5,President,,Hillary Clinton,DEM,80
+Walworth,6,President,,Hillary Clinton,DEM,111
+Walworth,7,President,,Hillary Clinton,DEM,115
+Walworth,8,President,,Hillary Clinton,DEM,3
+Walworth,9,President,,Hillary Clinton,DEM,11
+Walworth,10,President,,Hillary Clinton,DEM,15
+Walworth,Total,President,,Hillary Clinton,DEM,457
+Walworth,1,President,,Darrell L. Castle,CON,3
+Walworth,2,President,,Darrell L. Castle,CON,1
+Walworth,3,President,,Darrell L. Castle,CON,5
+Walworth,4,President,,Darrell L. Castle,CON,6
+Walworth,5,President,,Darrell L. Castle,CON,7
+Walworth,6,President,,Darrell L. Castle,CON,11
+Walworth,7,President,,Darrell L. Castle,CON,4
+Walworth,8,President,,Darrell L. Castle,CON,2
+Walworth,9,President,,Darrell L. Castle,CON,2
+Walworth,10,President,,Darrell L. Castle,CON,4
+Walworth,Total,President,,Darrell L. Castle,CON,45
+Walworth,1,U.S Senate,,John R. Thune,REP,116
+Walworth,2,U.S Senate,,John R. Thune,REP,120
+Walworth,3,U.S Senate,,John R. Thune,REP,364
+Walworth,4,U.S Senate,,John R. Thune,REP,128
+Walworth,5,U.S Senate,,John R. Thune,REP,243
+Walworth,6,U.S Senate,,John R. Thune,REP,384
+Walworth,7,U.S Senate,,John R. Thune,REP,348
+Walworth,8,U.S Senate,,John R. Thune,REP,68
+Walworth,9,U.S Senate,,John R. Thune,REP,72
+Walworth,10,U.S Senate,,John R. Thune,REP,132
+Walworth,Total,U.S Senate,,John R. Thune,REP,1975
+Walworth,1,U.S Senate,,Jay Williams,DEM,24
+Walworth,2,U.S Senate,,Jay Williams,DEM,31
+Walworth,3,U.S Senate,,Jay Williams,DEM,52
+Walworth,4,U.S Senate,,Jay Williams,DEM,42
+Walworth,5,U.S Senate,,Jay Williams,DEM,84
+Walworth,6,U.S Senate,,Jay Williams,DEM,94
+Walworth,7,U.S Senate,,Jay Williams,DEM,110
+Walworth,8,U.S Senate,,Jay Williams,DEM,10
+Walworth,9,U.S Senate,,Jay Williams,DEM,15
+Walworth,10,U.S Senate,,Jay Williams,DEM,20
+Walworth,Total,U.S Senate,,Jay Williams,DEM,482
+Walworth,1,U.S House,1,Kristi Noem,REP,115
+Walworth,2,U.S House,1,Kristi Noem,REP,117
+Walworth,3,U.S House,1,Kristi Noem,REP,340
+Walworth,4,U.S House,1,Kristi Noem,REP,119
+Walworth,5,U.S House,1,Kristi Noem,REP,225
+Walworth,6,U.S House,1,Kristi Noem,REP,364
+Walworth,7,U.S House,1,Kristi Noem,REP,340
+Walworth,8,U.S House,1,Kristi Noem,REP,70
+Walworth,9,U.S House,1,Kristi Noem,REP,67
+Walworth,10,U.S House,1,Kristi Noem,REP,134
+Walworth,Total,U.S House,1,Kristi Noem,REP,1891
+Walworth,1,U.S House,1,Paula Hawks,DEM,31
+Walworth,2,U.S House,1,Paula Hawks,DEM,34
+Walworth,3,U.S House,1,Paula Hawks,DEM,72
+Walworth,4,U.S House,1,Paula Hawks,DEM,50
+Walworth,5,U.S House,1,Paula Hawks,DEM,99
+Walworth,6,U.S House,1,Paula Hawks,DEM,111
+Walworth,7,U.S House,1,Paula Hawks,DEM,118
+Walworth,8,U.S House,1,Paula Hawks,DEM,12
+Walworth,9,U.S House,1,Paula Hawks,DEM,19
+Walworth,10,U.S House,1,Paula Hawks,DEM,21
+Walworth,Total,U.S House,1,Paula Hawks,DEM,567
+Walworth,1,Public Utilities commissioner,,Chris Nelson,REP,128
+Walworth,2,Public Utilities commissioner,,Chris Nelson,REP,128
+Walworth,3,Public Utilities commissioner,,Chris Nelson,REP,374
+Walworth,4,Public Utilities commissioner,,Chris Nelson,REP,128
+Walworth,5,Public Utilities commissioner,,Chris Nelson,REP,239
+Walworth,6,Public Utilities commissioner,,Chris Nelson,REP,385
+Walworth,7,Public Utilities commissioner,,Chris Nelson,REP,370
+Walworth,8,Public Utilities commissioner,,Chris Nelson,REP,75
+Walworth,9,Public Utilities commissioner,,Chris Nelson,REP,75
+Walworth,10,Public Utilities commissioner,,Chris Nelson,REP,143
+Walworth,Total,Public Utilities commissioner,,Chris Nelson,REP,2045
+Walworth,1,Public Utilities commissioner,,Henry Red Cloud,DEM,14
+Walworth,2,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Walworth,3,Public Utilities commissioner,,Henry Red Cloud,DEM,28
+Walworth,4,Public Utilities commissioner,,Henry Red Cloud,DEM,34
+Walworth,5,Public Utilities commissioner,,Henry Red Cloud,DEM,75
+Walworth,6,Public Utilities commissioner,,Henry Red Cloud,DEM,82
+Walworth,7,Public Utilities commissioner,,Henry Red Cloud,DEM,75
+Walworth,8,Public Utilities commissioner,,Henry Red Cloud,DEM,6
+Walworth,9,Public Utilities commissioner,,Henry Red Cloud,DEM,8
+Walworth,10,Public Utilities commissioner,,Henry Red Cloud,DEM,11
+Walworth,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,356
+Walworth,1,State Senate,23,Justin R Cronin,REP,127
+Walworth,2,State Senate,23,Justin R Cronin,REP,131
+Walworth,3,State Senate,23,Justin R Cronin,REP,329
+Walworth,4,State Senate,23,Justin R Cronin,REP,122
+Walworth,5,State Senate,23,Justin R Cronin,REP,225
+Walworth,6,State Senate,23,Justin R Cronin,REP,366
+Walworth,7,State Senate,23,Justin R Cronin,REP,357
+Walworth,8,State Senate,23,Justin R Cronin,REP,67
+Walworth,9,State Senate,23,Justin R Cronin,REP,67
+Walworth,10,State Senate,23,Justin R Cronin,REP,134
+Walworth,Total,State Senate,23,Justin R Cronin,REP,1925
+Walworth,1,State Representative,23,Spencer Gosch,REP,123
+Walworth,2,State Representative,23,Spencer Gosch,REP,128
+Walworth,3,State Representative,23,Spencer Gosch,REP,341
+Walworth,4,State Representative,23,Spencer Gosch,REP,129
+Walworth,5,State Representative,23,Spencer Gosch,REP,251
+Walworth,6,State Representative,23,Spencer Gosch,REP,362
+Walworth,7,State Representative,23,Spencer Gosch,REP,355
+Walworth,8,State Representative,23,Spencer Gosch,REP,55
+Walworth,9,State Representative,23,Spencer Gosch,REP,79
+Walworth,10,State Representative,23,Spencer Gosch,REP,125
+Walworth,Total,State Representative,23,Spencer Gosch,REP,1948
+Walworth,1,State Representative,23,John A. Lake,REP,83
+Walworth,2,State Representative,23,John A. Lake,REP,79
+Walworth,3,State Representative,23,John A. Lake,REP,225
+Walworth,4,State Representative,23,John A. Lake,REP,70
+Walworth,5,State Representative,23,John A. Lake,REP,121
+Walworth,6,State Representative,23,John A. Lake,REP,187
+Walworth,7,State Representative,23,John A. Lake,REP,218
+Walworth,8,State Representative,23,John A. Lake,REP,54
+Walworth,9,State Representative,23,John A. Lake,REP,32
+Walworth,10,State Representative,23,John A. Lake,REP,76
+,Total,State Representative,23,John A. Lake,REP,1145

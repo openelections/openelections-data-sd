@@ -1,0 +1,133 @@
+county,precinct,office,district,candidate,party,votes
+Perkins,1,President,,Donald J. Trump,REP,219
+Perkins,2,President,,Donald J. Trump,REP,88
+Perkins,3,President,,Donald J. Trump,REP,230
+Perkins,4,President,,Donald J. Trump,REP,49
+Perkins,5,President,,Donald J. Trump,REP,121
+Perkins,6,President,,Donald J. Trump,REP,105
+Perkins,7,President,,Donald J. Trump,REP,120
+Perkins,8,President,,Donald J. Trump,REP,59
+Perkins,9,President,,Donald J. Trump,REP,72
+Perkins,12,President,,Donald J. Trump,REP,270
+Perkins,Total,President,,Donald J. Trump,REP,1333
+Perkins,1,President,,Gary Johnson,LIB,17
+Perkins,2,President,,Gary Johnson,LIB,6
+Perkins,3,President,,Gary Johnson,LIB,15
+Perkins,4,President,,Gary Johnson,LIB,1
+Perkins,5,President,,Gary Johnson,LIB,3
+Perkins,6,President,,Gary Johnson,LIB,3
+Perkins,7,President,,Gary Johnson,LIB,3
+Perkins,8,President,,Gary Johnson,LIB,5
+Perkins,9,President,,Gary Johnson,LIB,2
+Perkins,12,President,,Gary Johnson,LIB,15
+Perkins,Total,President,,Gary Johnson,LIB,70
+Perkins,1,President,,Hillary Clinton,DEM,47
+Perkins,2,President,,Hillary Clinton,DEM,13
+Perkins,3,President,,Hillary Clinton,DEM,42
+Perkins,4,President,,Hillary Clinton,DEM,9
+Perkins,5,President,,Hillary Clinton,DEM,17
+Perkins,6,President,,Hillary Clinton,DEM,11
+Perkins,7,President,,Hillary Clinton,DEM,5
+Perkins,8,President,,Hillary Clinton,DEM,2
+Perkins,9,President,,Hillary Clinton,DEM,4
+Perkins,12,President,,Hillary Clinton,DEM,38
+Perkins,Total,President,,Hillary Clinton,DEM,188
+Perkins,1,President,,Darrell L. Castle,CON,2
+Perkins,2,President,,Darrell L. Castle,CON,0
+Perkins,3,President,,Darrell L. Castle,CON,5
+Perkins,4,President,,Darrell L. Castle,CON,0
+Perkins,5,President,,Darrell L. Castle,CON,1
+Perkins,6,President,,Darrell L. Castle,CON,3
+Perkins,7,President,,Darrell L. Castle,CON,0
+Perkins,8,President,,Darrell L. Castle,CON,0
+Perkins,9,President,,Darrell L. Castle,CON,3
+Perkins,12,President,,Darrell L. Castle,CON,1
+Perkins,Total,President,,Darrell L. Castle,CON,15
+Perkins,1,U.S Senate,,John R. Thune,REP,238
+Perkins,2,U.S Senate,,John R. Thune,REP,93
+Perkins,3,U.S Senate,,John R. Thune,REP,247
+Perkins,4,U.S Senate,,John R. Thune,REP,47
+Perkins,5,U.S Senate,,John R. Thune,REP,115
+Perkins,6,U.S Senate,,John R. Thune,REP,100
+Perkins,7,U.S Senate,,John R. Thune,REP,121
+Perkins,8,U.S Senate,,John R. Thune,REP,64
+Perkins,9,U.S Senate,,John R. Thune,REP,74
+Perkins,12,U.S Senate,,John R. Thune,REP,275
+Perkins,Total,U.S Senate,,John R. Thune,REP,1374
+Perkins,1,U.S Senate,,Jay Williams,DEM,50
+Perkins,2,U.S Senate,,Jay Williams,DEM,15
+Perkins,3,U.S Senate,,Jay Williams,DEM,45
+Perkins,4,U.S Senate,,Jay Williams,DEM,11
+Perkins,5,U.S Senate,,Jay Williams,DEM,23
+Perkins,6,U.S Senate,,Jay Williams,DEM,22
+Perkins,7,U.S Senate,,Jay Williams,DEM,5
+Perkins,8,U.S Senate,,Jay Williams,DEM,2
+Perkins,9,U.S Senate,,Jay Williams,DEM,7
+Perkins,12,U.S Senate,,Jay Williams,DEM,51
+Perkins,Total,U.S Senate,,Jay Williams,DEM,231
+Perkins,1,U.S House,1,Kristi Noem,REP,230
+Perkins,2,U.S House,1,Kristi Noem,REP,91
+Perkins,3,U.S House,1,Kristi Noem,REP,237
+Perkins,4,U.S House,1,Kristi Noem,REP,47
+Perkins,5,U.S House,1,Kristi Noem,REP,119
+Perkins,6,U.S House,1,Kristi Noem,REP,105
+Perkins,7,U.S House,1,Kristi Noem,REP,121
+Perkins,8,U.S House,1,Kristi Noem,REP,60
+Perkins,9,U.S House,1,Kristi Noem,REP,71
+Perkins,12,U.S House,1,Kristi Noem,REP,272
+Perkins,Total,U.S House,1,Kristi Noem,REP,1353
+Perkins,1,U.S House,1,Paula Hawks,DEM,59
+Perkins,2,U.S House,1,Paula Hawks,DEM,16
+Perkins,3,U.S House,1,Paula Hawks,DEM,53
+Perkins,4,U.S House,1,Paula Hawks,DEM,13
+Perkins,5,U.S House,1,Paula Hawks,DEM,22
+Perkins,6,U.S House,1,Paula Hawks,DEM,19
+Perkins,7,U.S House,1,Paula Hawks,DEM,8
+Perkins,8,U.S House,1,Paula Hawks,DEM,5
+Perkins,9,U.S House,1,Paula Hawks,DEM,7
+Perkins,12,U.S House,1,Paula Hawks,DEM,56
+Perkins,Total,U.S House,1,Paula Hawks,DEM,258
+Perkins,1,Public Utilities commissioner,,Chris Nelson,REP,238
+Perkins,2,Public Utilities commissioner,,Chris Nelson,REP,87
+Perkins,3,Public Utilities commissioner,,Chris Nelson,REP,252
+Perkins,4,Public Utilities commissioner,,Chris Nelson,REP,47
+Perkins,5,Public Utilities commissioner,,Chris Nelson,REP,122
+Perkins,6,Public Utilities commissioner,,Chris Nelson,REP,106
+Perkins,7,Public Utilities commissioner,,Chris Nelson,REP,122
+Perkins,8,Public Utilities commissioner,,Chris Nelson,REP,64
+Perkins,9,Public Utilities commissioner,,Chris Nelson,REP,71
+Perkins,12,Public Utilities commissioner,,Chris Nelson,REP,276
+Perkins,Total,Public Utilities commissioner,,Chris Nelson,REP,1385
+Perkins,1,Public Utilities commissioner,,Henry Red Cloud,DEM,47
+Perkins,2,Public Utilities commissioner,,Henry Red Cloud,DEM,16
+Perkins,3,Public Utilities commissioner,,Henry Red Cloud,DEM,34
+Perkins,4,Public Utilities commissioner,,Henry Red Cloud,DEM,6
+Perkins,5,Public Utilities commissioner,,Henry Red Cloud,DEM,16
+Perkins,6,Public Utilities commissioner,,Henry Red Cloud,DEM,12
+Perkins,7,Public Utilities commissioner,,Henry Red Cloud,DEM,4
+Perkins,8,Public Utilities commissioner,,Henry Red Cloud,DEM,1
+Perkins,9,Public Utilities commissioner,,Henry Red Cloud,DEM,5
+Perkins,12,Public Utilities commissioner,,Henry Red Cloud,DEM,41
+Perkins,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,182
+Perkins,1,State Senate,28,Ryan M. Maher,REP,237
+Perkins,2,State Senate,28,Ryan M. Maher,REP,91
+Perkins,3,State Senate,28,Ryan M. Maher,REP,256
+Perkins,4,State Senate,28,Ryan M. Maher,REP,52
+Perkins,5,State Senate,28,Ryan M. Maher,REP,118
+Perkins,6,State Senate,28,Ryan M. Maher,REP,112
+Perkins,7,State Senate,28,Ryan M. Maher,REP,120
+Perkins,8,State Senate,28,Ryan M. Maher,REP,61
+Perkins,9,State Senate,28,Ryan M. Maher,REP,68
+Perkins,12,State Senate,28,Ryan M. Maher,REP,295
+Perkins,Total,State Senate,28,Ryan M. Maher,REP,1410
+Perkins,1,State Representative,28B,Sam Marty,REP,220
+Perkins,2,State Representative,28B,Sam Marty,REP,97
+Perkins,3,State Representative,28B,Sam Marty,REP,246
+Perkins,4,State Representative,28B,Sam Marty,REP,47
+Perkins,5,State Representative,28B,Sam Marty,REP,111
+Perkins,6,State Representative,28B,Sam Marty,REP,106
+Perkins,7,State Representative,28B,Sam Marty,REP,121
+Perkins,8,State Representative,28B,Sam Marty,REP,56
+Perkins,9,State Representative,28B,Sam Marty,REP,71
+Perkins,12,State Representative,28B,Sam Marty,REP,280
+Perkins,Total,State Representative,28B,Sam Marty,REP,1355
