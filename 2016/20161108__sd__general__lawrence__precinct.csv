@@ -1,0 +1,170 @@
+county,precinct,office,district,party,candidate,votes
+Lawrence,Spearfish 1,President,,REP,Donald J. Trump,468
+Lawrence,Spearfish 2,President,,REP,Donald J. Trump,611
+Lawrence,Spearfish 3,President,,REP,Donald J. Trump,698
+Lawrence,Lead,President,,REP,Donald J. Trump,455
+Lawrence,Deadwood,President,,REP,Donald J. Trump,166
+Lawrence,Boxelder,President,,REP,Donald J. Trump,134
+Lawrence,Rural #1,President,,REP,Donald J. Trump,312
+Lawrence,St.Onge,President,,REP,Donald J. Trump,116
+Lawrence,Whitewood,President,,REP,Donald J. Trump,467
+Lawrence,Rural #2,President,,REP,Donald J. Trump,1015
+Lawrence,Absentee,President,,REP,Donald J. Trump,2969
+Lawrence,Provisional,President,,REP,Donald J. Trump,
+Lawrence,TOTALS,President,,REP,Donald J. Trump,7411
+Lawrence,Spearfish 1,President,,LIB,Gary Johnson,107
+Lawrence,Spearfish 2,President,,LIB,Gary Johnson,109
+Lawrence,Spearfish 3,President,,LIB,Gary Johnson,103
+Lawrence,Lead,President,,LIB,Gary Johnson,87
+Lawrence,Deadwood,President,,LIB,Gary Johnson,28
+Lawrence,Boxelder,President,,LIB,Gary Johnson,14
+Lawrence,Rural #1,President,,LIB,Gary Johnson,45
+Lawrence,St.Onge,President,,LIB,Gary Johnson,11
+Lawrence,Whitewood,President,,LIB,Gary Johnson,53
+Lawrence,Rural #2,President,,LIB,Gary Johnson,96
+Lawrence,Absentee,President,,LIB,Gary Johnson,281
+Lawrence,Provisional,President,,LIB,Gary Johnson,
+Lawrence,TOTALS,President,,LIB,Gary Johnson,934
+Lawrence,Spearfish 1,President,,DEM,Hillary Clinton,264
+Lawrence,Spearfish 2,President,,DEM,Hillary Clinton,259
+Lawrence,Spearfish 3,President,,DEM,Hillary Clinton,327
+Lawrence,Lead,President,,DEM,Hillary Clinton,237
+Lawrence,Deadwood,President,,DEM,Hillary Clinton,122
+Lawrence,Boxelder,President,,DEM,Hillary Clinton,52
+Lawrence,Rural #1,President,,DEM,Hillary Clinton,116
+Lawrence,St.Onge,President,,DEM,Hillary Clinton,26
+Lawrence,Whitewood,President,,DEM,Hillary Clinton,100
+Lawrence,Rural #2,President,,DEM,Hillary Clinton,268
+Lawrence,Absentee,President,,DEM,Hillary Clinton,1585
+Lawrence,Provisional,President,,DEM,Hillary Clinton,
+Lawrence,TOTALS,President,,DEM,Hillary Clinton,3356
+Lawrence,Spearfish 1,President,,CON,Darrell L. Castle,18
+Lawrence,Spearfish 2,President,,CON,Darrell L. Castle,20
+Lawrence,Spearfish 3,President,,CON,Darrell L. Castle,13
+Lawrence,Lead,President,,CON,Darrell L. Castle,10
+Lawrence,Deadwood,President,,CON,Darrell L. Castle,1
+Lawrence,Boxelder,President,,CON,Darrell L. Castle,3
+Lawrence,Rural #1,President,,CON,Darrell L. Castle,4
+Lawrence,St.Onge,President,,CON,Darrell L. Castle,3
+Lawrence,Whitewood,President,,CON,Darrell L. Castle,6
+Lawrence,Rural #2,President,,CON,Darrell L. Castle,22
+Lawrence,Absentee,President,,CON,Darrell L. Castle,41
+Lawrence,Provisional,President,,CON,Darrell L. Castle,
+Lawrence,TOTALS,President,,CON,Darrell L. Castle,141
+Lawrence,Spearfish 1,U.S. Senate,,REP,John R. Thune,610
+Lawrence,Spearfish 2,U.S. Senate,,REP,John R. Thune,731
+Lawrence,Spearfish 3,U.S. Senate,,REP,John R. Thune,858
+Lawrence,Lead,U.S. Senate,,REP,John R. Thune,554
+Lawrence,Deadwood,U.S. Senate,,REP,John R. Thune,201
+Lawrence,Boxelder,U.S. Senate,,REP,John R. Thune,149
+Lawrence,Rural #1,U.S. Senate,,REP,John R. Thune,378
+Lawrence,St.Onge,U.S. Senate,,REP,John R. Thune,123
+Lawrence,Whitewood,U.S. Senate,,REP,John R. Thune,497
+Lawrence,Rural #2,U.S. Senate,,REP,John R. Thune,1135
+Lawrence,Absentee,U.S. Senate,,REP,John R. Thune,3330
+Lawrence,Provisional,U.S. Senate,,REP,John R. Thune,
+Lawrence,TOTALS,U.S. Senate,,REP,John R. Thune,8566
+Lawrence,Spearfish 1,U.S. Senate,,DEM,Jay Williams,247
+Lawrence,Spearfish 2,U.S. Senate,,DEM,Jay Williams,269
+Lawrence,Spearfish 3,U.S. Senate,,DEM,Jay Williams,284
+Lawrence,Lead,U.S. Senate,,DEM,Jay Williams,239
+Lawrence,Deadwood,U.S. Senate,,DEM,Jay Williams,113
+Lawrence,Boxelder,U.S. Senate,,DEM,Jay Williams,56
+Lawrence,Rural #1,U.S. Senate,,DEM,Jay Williams,103
+Lawrence,St.Onge,U.S. Senate,,DEM,Jay Williams,30
+Lawrence,Whitewood,U.S. Senate,,DEM,Jay Williams,131
+Lawrence,Rural #2,U.S. Senate,,DEM,Jay Williams,264
+Lawrence,Absentee,U.S. Senate,,DEM,Jay Williams,1531
+Lawrence,Provisional,U.S. Senate,,DEM,Jay Williams,
+Lawrence,TOTALS,U.S. Senate,,DEM,Jay Williams,3267
+Lawrence,Spearfish 1,U.S. House,1,REP,Kristi Noem,570
+Lawrence,Spearfish 2,U.S. House,1,REP,Kristi Noem,696
+Lawrence,Spearfish 3,U.S. House,1,REP,Kristi Noem,817
+Lawrence,Lead,U.S. House,1,REP,Kristi Noem,502
+Lawrence,Deadwood,U.S. House,1,REP,Kristi Noem,180
+Lawrence,Boxelder,U.S. House,1,REP,Kristi Noem,144
+Lawrence,Rural #1,U.S. House,1,REP,Kristi Noem,352
+Lawrence,St.Onge,U.S. House,1,REP,Kristi Noem,120
+Lawrence,Whitewood,U.S. House,1,REP,Kristi Noem,469
+Lawrence,Rural #2,U.S. House,1,REP,Kristi Noem,1071
+Lawrence,Absentee,U.S. House,1,REP,Kristi Noem,3120
+Lawrence,Provisional,U.S. House,1,REP,Kristi Noem,
+Lawrence,TOTALS,U.S. House,1,REP,Kristi Noem,8041
+Lawrence,Spearfish 1,U.S. House,1,DEM,Paula Hawks,281
+Lawrence,Spearfish 2,U.S. House,1,DEM,Paula Hawks,300
+Lawrence,Spearfish 3,U.S. House,1,DEM,Paula Hawks,325
+Lawrence,Lead,U.S. House,1,DEM,Paula Hawks,288
+Lawrence,Deadwood,U.S. House,1,DEM,Paula Hawks,134
+Lawrence,Boxelder,U.S. House,1,DEM,Paula Hawks,60
+Lawrence,Rural #1,U.S. House,1,DEM,Paula Hawks,130
+Lawrence,St.Onge,U.S. House,1,DEM,Paula Hawks,32
+Lawrence,Whitewood,U.S. House,1,DEM,Paula Hawks,160
+Lawrence,Rural #2,U.S. House,1,DEM,Paula Hawks,317
+Lawrence,Absentee,U.S. House,1,DEM,Paula Hawks,1747
+Lawrence,Provisional,U.S. House,1,DEM,Paula Hawks,
+Lawrence,TOTALS,U.S. House,1,DEM,Paula Hawks,3774
+Lawrence,Spearfish 1,Public Utilities Commissioner,,REP,Chris Nelson,588
+Lawrence,Spearfish 2,Public Utilities Commissioner,,REP,Chris Nelson,704
+Lawrence,Spearfish 3,Public Utilities Commissioner,,REP,Chris Nelson,851
+Lawrence,Lead,Public Utilities Commissioner,,REP,Chris Nelson,543
+Lawrence,Deadwood,Public Utilities Commissioner,,REP,Chris Nelson,196
+Lawrence,Boxelder,Public Utilities Commissioner,,REP,Chris Nelson,134
+Lawrence,Rural #1,Public Utilities Commissioner,,REP,Chris Nelson,370
+Lawrence,St.Onge,Public Utilities Commissioner,,REP,Chris Nelson,126
+Lawrence,Whitewood,Public Utilities Commissioner,,REP,Chris Nelson,482
+Lawrence,Rural #2,Public Utilities Commissioner,,REP,Chris Nelson,1115
+Lawrence,Absentee,Public Utilities Commissioner,,REP,Chris Nelson,3402
+Lawrence,Provisional,Public Utilities Commissioner,,REP,Chris Nelson,
+Lawrence,TOTALS,Public Utilities Commissioner,,REP,Chris Nelson,8511
+Lawrence,Spearfish 1,Public Utilities Commissioner,,DEM,Henry Red Cloud,239
+Lawrence,Spearfish 2,Public Utilities Commissioner,,DEM,Henry Red Cloud,255
+Lawrence,Spearfish 3,Public Utilities Commissioner,,DEM,Henry Red Cloud,258
+Lawrence,Lead,Public Utilities Commissioner,,DEM,Henry Red Cloud,218
+Lawrence,Deadwood,Public Utilities Commissioner,,DEM,Henry Red Cloud,117
+Lawrence,Boxelder,Public Utilities Commissioner,,DEM,Henry Red Cloud,66
+Lawrence,Rural #1,Public Utilities Commissioner,,DEM,Henry Red Cloud,100
+Lawrence,St.Onge,Public Utilities Commissioner,,DEM,Henry Red Cloud,30
+Lawrence,Whitewood,Public Utilities Commissioner,,DEM,Henry Red Cloud,130
+Lawrence,Rural #2,Public Utilities Commissioner,,DEM,Henry Red Cloud,260
+Lawrence,Absentee,Public Utilities Commissioner,,DEM,Henry Red Cloud,1316
+Lawrence,Provisional,Public Utilities Commissioner,,DEM,Henry Red Cloud,
+Lawrence,TOTALS,Public Utilities Commissioner,,DEM,Henry Red Cloud,2989
+Lawrence,Spearfish 1,State Senate,31,REP,Bob Ewing,636
+Lawrence,Spearfish 2,State Senate,31,REP,Bob Ewing,744
+Lawrence,Spearfish 3,State Senate,31,REP,Bob Ewing,886
+Lawrence,Lead,State Senate,31,REP,Bob Ewing,550
+Lawrence,Deadwood,State Senate,31,REP,Bob Ewing,217
+Lawrence,Boxelder,State Senate,31,REP,Bob Ewing,146
+Lawrence,Rural #1,State Senate,31,REP,Bob Ewing,352
+Lawrence,St.Onge,State Senate,31,REP,Bob Ewing,130
+Lawrence,Whitewood,State Senate,31,REP,Bob Ewing,478
+Lawrence,Rural #2,State Senate,31,REP,Bob Ewing,1158
+Lawrence,Absentee,State Senate,31,REP,Bob Ewing,3384
+Lawrence,Provisional,State Senate,31,REP,Bob Ewing,
+Lawrence,TOTALS,State Senate,31,REP,Bob Ewing,8681
+Lawrence,Spearfish 1,State House,31,REP,Timothy R. Johns,460
+Lawrence,Spearfish 2,State House,31,REP,Timothy R. Johns,607
+Lawrence,Spearfish 3,State House,31,REP,Timothy R. Johns,690
+Lawrence,Lead,State House,31,REP,Timothy R. Johns,529
+Lawrence,Deadwood,State House,31,REP,Timothy R. Johns,198
+Lawrence,Boxelder,State House,31,REP,Timothy R. Johns,123
+Lawrence,Rural #1,State House,31,REP,Timothy R. Johns,306
+Lawrence,St.Onge,State House,31,REP,Timothy R. Johns,96
+Lawrence,Whitewood,State House,31,REP,Timothy R. Johns,373
+Lawrence,Rural #2,State House,31,REP,Timothy R. Johns,915
+Lawrence,Absentee,State House,31,REP,Timothy R. Johns,3062
+Lawrence,Provisional,State House,31,REP,Timothy R. Johns,
+Lawrence,TOTALS,State House,31,REP,Timothy R. Johns,7359
+Lawrence,Spearfish 1,State House,31,REP,Charles M. Turbiville,452
+Lawrence,Spearfish 2,State House,31,REP,Charles M. Turbiville,519
+Lawrence,Spearfish 3,State House,31,REP,Charles M. Turbiville,640
+Lawrence,Lead,State House,31,REP,Charles M. Turbiville,393
+Lawrence,Deadwood,State House,31,REP,Charles M. Turbiville,161
+Lawrence,Boxelder,State House,31,REP,Charles M. Turbiville,91
+Lawrence,Rural #1,State House,31,REP,Charles M. Turbiville,247
+Lawrence,St.Onge,State House,31,REP,Charles M. Turbiville,88
+Lawrence,Whitewood,State House,31,REP,Charles M. Turbiville,342
+Lawrence,Rural #2,State House,31,REP,Charles M. Turbiville,811
+Lawrence,Absentee,State House,31,REP,Charles M. Turbiville,2392
+Lawrence,Provisional,State House,31,REP,Charles M. Turbiville,
+Lawrence,TOTALS,State House,31,REP,Charles M. Turbiville,6136
