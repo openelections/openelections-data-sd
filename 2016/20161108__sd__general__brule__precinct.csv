@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes
+Brule,1,President,,REP,Donald J. Trump,765
+Brule,2,President,,REP,Donald J. Trump,388
+Brule,3,President,,REP,Donald J. Trump,266
+Brule,4,President,,REP,Donald J. Trump,59
+Brule,5,President,,REP,Donald J. Trump,87
+Brule,1,President,,LIB,Gary Johnson,76
+Brule,2,President,,LIB,Gary Johnson,26
+Brule,3,President,,LIB,Gary Johnson,20
+Brule,4,President,,LIB,Gary Johnson,2
+Brule,5,President,,LIB,Gary Johnson,1
+Brule,1,President,,DEM,Hillary Clinton,363
+Brule,2,President,,DEM,Hillary Clinton,98
+Brule,3,President,,DEM,Hillary Clinton,81
+Brule,4,President,,DEM,Hillary Clinton,11
+Brule,5,President,,DEM,Hillary Clinton,18
+Brule,1,President,,CON,Darrell L. Castle,12
+Brule,2,President,,CON,Darrell L. Castle,5
+Brule,3,President,,CON,Darrell L. Castle,4
+Brule,4,President,,CON,Darrell L. Castle,4
+Brule,5,President,,CON,Darrell L. Castle,2
+Brule,1,U.S. Senate,,REP,John R. Thune,894
+Brule,2,U.S. Senate,,REP,John R. Thune,413
+Brule,3,U.S. Senate,,REP,John R. Thune,289
+Brule,4,U.S. Senate,,REP,John R. Thune,56
+Brule,5,U.S. Senate,,REP,John R. Thune,94
+Brule,1,U.S. Senate,,DEM,Jay Williams,324
+Brule,2,U.S. Senate,,DEM,Jay Williams,109
+Brule,3,U.S. Senate,,DEM,Jay Williams,88
+Brule,4,U.S. Senate,,DEM,Jay Williams,18
+Brule,5,U.S. Senate,,DEM,Jay Williams,15
+Brule,1,U.S. House,1,REP,Kristi Noem,800
+Brule,2,U.S. House,1,REP,Kristi Noem,381
+Brule,3,U.S. House,1,REP,Kristi Noem,262
+Brule,4,U.S. House,1,REP,Kristi Noem,59
+Brule,5,U.S. House,1,REP,Kristi Noem,83
+Brule,1,U.S. House,1,DEM,Paula Hawks,414
+Brule,2,U.S. House,1,DEM,Paula Hawks,141
+Brule,3,U.S. House,1,DEM,Paula Hawks,114
+Brule,4,U.S. House,1,DEM,Paula Hawks,17
+Brule,5,U.S. House,1,DEM,Paula Hawks,27
+Brule,1,Public Utilities Commissioner,,REP,Chris Nelson,947
+Brule,2,Public Utilities Commissioner,,REP,Chris Nelson,441
+Brule,3,Public Utilities Commissioner,,REP,Chris Nelson,307
+Brule,4,Public Utilities Commissioner,,REP,Chris Nelson,65
+Brule,5,Public Utilities Commissioner,,REP,Chris Nelson,102
+Brule,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,229
+Brule,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,68
+Brule,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,62
+Brule,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,8
+Brule,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,8
+Brule,1,State Senate,26,DEM,Troy Heinert,679
+Brule,2,State Senate,26,DEM,Troy Heinert,263
+Brule,3,State Senate,26,DEM,Troy Heinert,202
+Brule,4,State Senate,26,DEM,Troy Heinert,32
+Brule,5,State Senate,26,DEM,Troy Heinert,60
+Brule,1,State House,26B,REP,James Schaefer,874
+Brule,2,State House,26B,REP,James Schaefer,345
+Brule,3,State House,26B,REP,James Schaefer,272
+Brule,4,State House,26B,REP,James Schaefer,53
+Brule,5,State House,26B,REP,James Schaefer,89
+Brule,1,State Attorney,,REP,David V Natvig,604
+Brule,2,State Attorney,,REP,David V Natvig,365
+Brule,3,State Attorney,,REP,David V Natvig,187
+Brule,4,State Attorney,,REP,David V Natvig,48
+Brule,5,State Attorney,,REP,David V Natvig,54
+Brule,1,State Attorney,,IND,Theresa Maule Rossow,591
+Brule,2,State Attorney,,IND,Theresa Maule Rossow,150
+Brule,3,State Attorney,,IND,Theresa Maule Rossow,183
+Brule,4,State Attorney,,IND,Theresa Maule Rossow,25
+Brule,5,State Attorney,,IND,Theresa Maule Rossow,55

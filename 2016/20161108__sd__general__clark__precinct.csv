@@ -1,0 +1,189 @@
+county,precinct,office,district,party,candidate,votes
+Clark,1,President,,REP,Donald J. Trump,107
+Clark,2,President,,REP,Donald J. Trump,95
+Clark,3,President,,REP,Donald J. Trump,76
+Clark,4,President,,REP,Donald J. Trump,81
+Clark,5,President,,REP,Donald J. Trump,82
+Clark,6,President,,REP,Donald J. Trump,42
+Clark,7,President,,REP,Donald J. Trump,85
+Clark,8,President,,REP,Donald J. Trump,97
+Clark,9,President,,REP,Donald J. Trump,55
+Clark,10,President,,REP,Donald J. Trump,67
+Clark,11,President,,REP,Donald J. Trump,101
+Clark,12,President,,REP,Donald J. Trump,107
+Clark,13,President,,REP,Donald J. Trump,144
+Clark,1,President,,LIB,Gary Johnson,8
+Clark,2,President,,LIB,Gary Johnson,6
+Clark,3,President,,LIB,Gary Johnson,4
+Clark,4,President,,LIB,Gary Johnson,7
+Clark,5,President,,LIB,Gary Johnson,6
+Clark,6,President,,LIB,Gary Johnson,4
+Clark,7,President,,LIB,Gary Johnson,8
+Clark,8,President,,LIB,Gary Johnson,10
+Clark,9,President,,LIB,Gary Johnson,3
+Clark,10,President,,LIB,Gary Johnson,11
+Clark,11,President,,LIB,Gary Johnson,19
+Clark,12,President,,LIB,Gary Johnson,6
+Clark,13,President,,LIB,Gary Johnson,11
+Clark,1,President,,DEM,Hillary Clinton,42
+Clark,2,President,,DEM,Hillary Clinton,37
+Clark,3,President,,DEM,Hillary Clinton,25
+Clark,4,President,,DEM,Hillary Clinton,26
+Clark,5,President,,DEM,Hillary Clinton,18
+Clark,6,President,,DEM,Hillary Clinton,16
+Clark,7,President,,DEM,Hillary Clinton,24
+Clark,8,President,,DEM,Hillary Clinton,29
+Clark,9,President,,DEM,Hillary Clinton,6
+Clark,10,President,,DEM,Hillary Clinton,26
+Clark,11,President,,DEM,Hillary Clinton,39
+Clark,12,President,,DEM,Hillary Clinton,46
+Clark,13,President,,DEM,Hillary Clinton,64
+Clark,1,President,,CON,Darrell L. Castle,1
+Clark,2,President,,CON,Darrell L. Castle,0
+Clark,3,President,,CON,Darrell L. Castle,1
+Clark,4,President,,CON,Darrell L. Castle,0
+Clark,5,President,,CON,Darrell L. Castle,0
+Clark,6,President,,CON,Darrell L. Castle,1
+Clark,7,President,,CON,Darrell L. Castle,1
+Clark,8,President,,CON,Darrell L. Castle,2
+Clark,9,President,,CON,Darrell L. Castle,1
+Clark,10,President,,CON,Darrell L. Castle,0
+Clark,11,President,,CON,Darrell L. Castle,2
+Clark,12,President,,CON,Darrell L. Castle,2
+Clark,13,President,,CON,Darrell L. Castle,6
+Clark,1,U.S. Senate,,REP,John R. Thune,111
+Clark,2,U.S. Senate,,REP,John R. Thune,106
+Clark,3,U.S. Senate,,REP,John R. Thune,88
+Clark,4,U.S. Senate,,REP,John R. Thune,83
+Clark,5,U.S. Senate,,REP,John R. Thune,84
+Clark,6,U.S. Senate,,REP,John R. Thune,50
+Clark,7,U.S. Senate,,REP,John R. Thune,95
+Clark,8,U.S. Senate,,REP,John R. Thune,111
+Clark,9,U.S. Senate,,REP,John R. Thune,63
+Clark,10,U.S. Senate,,REP,John R. Thune,72
+Clark,11,U.S. Senate,,REP,John R. Thune,108
+Clark,12,U.S. Senate,,REP,John R. Thune,122
+Clark,13,U.S. Senate,,REP,John R. Thune,176
+Clark,1,U.S. Senate,,DEM,Jay Williams,48
+Clark,2,U.S. Senate,,DEM,Jay Williams,31
+Clark,3,U.S. Senate,,DEM,Jay Williams,19
+Clark,4,U.S. Senate,,DEM,Jay Williams,32
+Clark,5,U.S. Senate,,DEM,Jay Williams,24
+Clark,6,U.S. Senate,,DEM,Jay Williams,16
+Clark,7,U.S. Senate,,DEM,Jay Williams,23
+Clark,8,U.S. Senate,,DEM,Jay Williams,28
+Clark,9,U.S. Senate,,DEM,Jay Williams,5
+Clark,10,U.S. Senate,,DEM,Jay Williams,33
+Clark,11,U.S. Senate,,DEM,Jay Williams,55
+Clark,12,U.S. Senate,,DEM,Jay Williams,38
+Clark,13,U.S. Senate,,DEM,Jay Williams,56
+Clark,1,U.S. House,1,REP,Kristi Noem,106
+Clark,2,U.S. House,1,REP,Kristi Noem,92
+Clark,3,U.S. House,1,REP,Kristi Noem,76
+Clark,4,U.S. House,1,REP,Kristi Noem,76
+Clark,5,U.S. House,1,REP,Kristi Noem,79
+Clark,6,U.S. House,1,REP,Kristi Noem,34
+Clark,7,U.S. House,1,REP,Kristi Noem,83
+Clark,8,U.S. House,1,REP,Kristi Noem,90
+Clark,9,U.S. House,1,REP,Kristi Noem,63
+Clark,10,U.S. House,1,REP,Kristi Noem,58
+Clark,11,U.S. House,1,REP,Kristi Noem,95
+Clark,12,U.S. House,1,REP,Kristi Noem,102
+Clark,13,U.S. House,1,REP,Kristi Noem,145
+Clark,1,U.S. House,1,DEM,Paula Hawks,56
+Clark,2,U.S. House,1,DEM,Paula Hawks,47
+Clark,3,U.S. House,1,DEM,Paula Hawks,32
+Clark,4,U.S. House,1,DEM,Paula Hawks,39
+Clark,5,U.S. House,1,DEM,Paula Hawks,30
+Clark,6,U.S. House,1,DEM,Paula Hawks,32
+Clark,7,U.S. House,1,DEM,Paula Hawks,36
+Clark,8,U.S. House,1,DEM,Paula Hawks,45
+Clark,9,U.S. House,1,DEM,Paula Hawks,5
+Clark,10,U.S. House,1,DEM,Paula Hawks,47
+Clark,11,U.S. House,1,DEM,Paula Hawks,71
+Clark,12,U.S. House,1,DEM,Paula Hawks,57
+Clark,13,U.S. House,1,DEM,Paula Hawks,87
+Clark,1,Public Utilities Commissioner,,REP,Chris Nelson,124
+Clark,2,Public Utilities Commissioner,,REP,Chris Nelson,116
+Clark,3,Public Utilities Commissioner,,REP,Chris Nelson,83
+Clark,4,Public Utilities Commissioner,,REP,Chris Nelson,93
+Clark,5,Public Utilities Commissioner,,REP,Chris Nelson,92
+Clark,6,Public Utilities Commissioner,,REP,Chris Nelson,54
+Clark,7,Public Utilities Commissioner,,REP,Chris Nelson,100
+Clark,8,Public Utilities Commissioner,,REP,Chris Nelson,114
+Clark,9,Public Utilities Commissioner,,REP,Chris Nelson,61
+Clark,10,Public Utilities Commissioner,,REP,Chris Nelson,91
+Clark,11,Public Utilities Commissioner,,REP,Chris Nelson,121
+Clark,12,Public Utilities Commissioner,,REP,Chris Nelson,131
+Clark,13,Public Utilities Commissioner,,REP,Chris Nelson,189
+Clark,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,29
+Clark,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,15
+Clark,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,19
+Clark,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,16
+Clark,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,13
+Clark,6,Public Utilities Commissioner,,DEM,Henry Red Cloud,10
+Clark,7,Public Utilities Commissioner,,DEM,Henry Red Cloud,17
+Clark,8,Public Utilities Commissioner,,DEM,Henry Red Cloud,19
+Clark,9,Public Utilities Commissioner,,DEM,Henry Red Cloud,6
+Clark,10,Public Utilities Commissioner,,DEM,Henry Red Cloud,11
+Clark,11,Public Utilities Commissioner,,DEM,Henry Red Cloud,37
+Clark,12,Public Utilities Commissioner,,DEM,Henry Red Cloud,24
+Clark,13,Public Utilities Commissioner,,DEM,Henry Red Cloud,29
+Clark,1,State Senate,2,REP,Brock L. Greenfield,118
+Clark,2,State Senate,2,REP,Brock L. Greenfield,104
+Clark,3,State Senate,2,REP,Brock L. Greenfield,86
+Clark,4,State Senate,2,REP,Brock L. Greenfield,85
+Clark,5,State Senate,2,REP,Brock L. Greenfield,75
+Clark,6,State Senate,2,REP,Brock L. Greenfield,47
+Clark,7,State Senate,2,REP,Brock L. Greenfield,89
+Clark,8,State Senate,2,REP,Brock L. Greenfield,110
+Clark,9,State Senate,2,REP,Brock L. Greenfield,56
+Clark,10,State Senate,2,REP,Brock L. Greenfield,76
+Clark,11,State Senate,2,REP,Brock L. Greenfield,112
+Clark,12,State Senate,2,REP,Brock L. Greenfield,121
+Clark,13,State Senate,2,REP,Brock L. Greenfield,160
+Clark,1,State House,2,REP,Burt Tulson,87
+Clark,2,State House,2,REP,Burt Tulson,82
+Clark,3,State House,2,REP,Burt Tulson,62
+Clark,4,State House,2,REP,Burt Tulson,65
+Clark,5,State House,2,REP,Burt Tulson,63
+Clark,6,State House,2,REP,Burt Tulson,41
+Clark,7,State House,2,REP,Burt Tulson,83
+Clark,8,State House,2,REP,Burt Tulson,82
+Clark,9,State House,2,REP,Burt Tulson,55
+Clark,10,State House,2,REP,Burt Tulson,63
+Clark,11,State House,2,REP,Burt Tulson,88
+Clark,12,State House,2,REP,Burt Tulson,109
+Clark,13,State House,2,REP,Burt Tulson,135
+Clark,1,State House,2,REP,Lana Greenfield,98
+Clark,2,State House,2,REP,Lana Greenfield,90
+Clark,3,State House,2,REP,Lana Greenfield,73
+Clark,4,State House,2,REP,Lana Greenfield,72
+Clark,5,State House,2,REP,Lana Greenfield,60
+Clark,6,State House,2,REP,Lana Greenfield,43
+Clark,7,State House,2,REP,Lana Greenfield,75
+Clark,8,State House,2,REP,Lana Greenfield,81
+Clark,9,State House,2,REP,Lana Greenfield,40
+Clark,10,State House,2,REP,Lana Greenfield,66
+Clark,11,State House,2,REP,Lana Greenfield,91
+Clark,12,State House,2,REP,Lana Greenfield,84
+Clark,13,State House,2,REP,Lana Greenfield,134
+Clark,1,State House,2,DEM,John Graham,58
+Clark,2,State House,2,DEM,John Graham,36
+Clark,3,State House,2,DEM,John Graham,29
+Clark,4,State House,2,DEM,John Graham,39
+Clark,5,State House,2,DEM,John Graham,33
+Clark,6,State House,2,DEM,John Graham,20
+Clark,7,State House,2,DEM,John Graham,36
+Clark,8,State House,2,DEM,John Graham,42
+Clark,9,State House,2,DEM,John Graham,6
+Clark,10,State House,2,DEM,John Graham,37
+Clark,11,State House,2,DEM,John Graham,62
+Clark,12,State House,2,DEM,John Graham,49
+Clark,13,State House,2,DEM,John Graham,82
+Clark,1,County Commissioner,2,IND,Chris Sass,78
+Clark,2,County Commissioner,2,IND,Chris Sass,65
+Clark,4,County Commissioner,2,IND,Chris Sass,46
+Clark,1,County Commissioner,2,IND,Eric J Caulfield,80
+Clark,2,County Commissioner,2,IND,Eric J Caulfield,48
+Clark,4,County Commissioner,2,IND,Eric J Caulfield,46

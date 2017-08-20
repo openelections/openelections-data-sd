@@ -1,0 +1,66 @@
+county,precinct,office,district,party,candidate,votes
+Clark,1,President,,REP,John R. Kasich,5
+Clark,2,President,,REP,John R. Kasich,0
+Clark,3,President,,REP,John R. Kasich,7
+Clark,4,President,,REP,John R. Kasich,6
+Clark,5,President,,REP,John R. Kasich,4
+Clark,6,President,,REP,John R. Kasich,3
+Clark,7,President,,REP,John R. Kasich,0
+Clark,8,President,,REP,John R. Kasich,7
+Clark,9,President,,REP,John R. Kasich,0
+Clark,10,President,,REP,John R. Kasich,4
+Clark,11,President,,REP,John R. Kasich,1
+Clark,12,President,,REP,John R. Kasich,5
+Clark,13,President,,REP,John R. Kasich,11
+Clark,1,President,,REP,Ted Cruz,7
+Clark,2,President,,REP,Ted Cruz,1
+Clark,3,President,,REP,Ted Cruz,4
+Clark,4,President,,REP,Ted Cruz,2
+Clark,5,President,,REP,Ted Cruz,2
+Clark,6,President,,REP,Ted Cruz,3
+Clark,7,President,,REP,Ted Cruz,3
+Clark,8,President,,REP,Ted Cruz,5
+Clark,9,President,,REP,Ted Cruz,5
+Clark,10,President,,REP,Ted Cruz,1
+Clark,11,President,,REP,Ted Cruz,9
+Clark,12,President,,REP,Ted Cruz,3
+Clark,13,President,,REP,Ted Cruz,5
+Clark,1,President,,REP,Donald J. Trump,20
+Clark,2,President,,REP,Donald J. Trump,11
+Clark,3,President,,REP,Donald J. Trump,14
+Clark,4,President,,REP,Donald J. Trump,14
+Clark,5,President,,REP,Donald J. Trump,9
+Clark,6,President,,REP,Donald J. Trump,7
+Clark,7,President,,REP,Donald J. Trump,16
+Clark,8,President,,REP,Donald J. Trump,16
+Clark,9,President,,REP,Donald J. Trump,3
+Clark,10,President,,REP,Donald J. Trump,7
+Clark,11,President,,REP,Donald J. Trump,14
+Clark,12,President,,REP,Donald J. Trump,20
+Clark,13,President,,REP,Donald J. Trump,28
+Clark,1,President,,DEM,Bernie Sanders,14
+Clark,2,President,,DEM,Bernie Sanders,4
+Clark,3,President,,DEM,Bernie Sanders,3
+Clark,4,President,,DEM,Bernie Sanders,2
+Clark,5,President,,DEM,Bernie Sanders,3
+Clark,6,President,,DEM,Bernie Sanders,3
+Clark,7,President,,DEM,Bernie Sanders,7
+Clark,8,President,,DEM,Bernie Sanders,10
+Clark,9,President,,DEM,Bernie Sanders,7
+Clark,10,President,,DEM,Bernie Sanders,3
+Clark,11,President,,DEM,Bernie Sanders,14
+Clark,12,President,,DEM,Bernie Sanders,7
+Clark,13,President,,DEM,Bernie Sanders,9
+Clark,1,President,,DEM,Hillary Clinton,9
+Clark,2,President,,DEM,Hillary Clinton,12
+Clark,3,President,,DEM,Hillary Clinton,12
+Clark,4,President,,DEM,Hillary Clinton,10
+Clark,5,President,,DEM,Hillary Clinton,5
+Clark,6,President,,DEM,Hillary Clinton,2
+Clark,7,President,,DEM,Hillary Clinton,9
+Clark,8,President,,DEM,Hillary Clinton,6
+Clark,9,President,,DEM,Hillary Clinton,2
+Clark,10,President,,DEM,Hillary Clinton,9
+Clark,11,President,,DEM,Hillary Clinton,9
+Clark,12,President,,DEM,Hillary Clinton,15
+Clark,13,President,,DEM,Hillary Clinton,12
