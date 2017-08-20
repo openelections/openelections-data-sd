@@ -1,0 +1,26 @@
+county,precinct,office,district,party,candidate,votes
+Aurora,1,President,,Democratic,Bernie Sanders,12
+Aurora,2,President,,Democratic,Bernie Sanders,6
+Aurora,3,President,,Democratic,Bernie Sanders,57
+Aurora,5,President,,Democratic,Bernie Sanders,11
+Aurora,7,President,,Democratic,Bernie Sanders,46
+Aurora,1,President,,Democratic,Hillary Clinton,30
+Aurora,2,President,,Democratic,Hillary Clinton,8
+Aurora,3,President,,Democratic,Hillary Clinton,71
+Aurora,5,President,,Democratic,Hillary Clinton,12
+Aurora,7,President,,Democratic,Hillary Clinton,29
+Aurora,1,President,,Republican,John R. Kasich,8
+Aurora,2,President,,Republican,John R. Kasich,5
+Aurora,3,President,,Republican,John R. Kasich,5
+Aurora,5,President,,Republican,John R. Kasich,5
+Aurora,7,President,,Republican,John R. Kasich,4
+Aurora,1,President,,Republican,Ted Cruz,18
+Aurora,2,President,,Republican,Ted Cruz,12
+Aurora,3,President,,Republican,Ted Cruz,13
+Aurora,5,President,,Republican,Ted Cruz,2
+Aurora,7,President,,Republican,Ted Cruz,5
+Aurora,1,President,,Republican,Donald J. Trump,42
+Aurora,2,President,,Republican,Donald J. Trump,12
+Aurora,3,President,,Republican,Donald J. Trump,42
+Aurora,5,President,,Republican,Donald J. Trump,11
+Aurora,7,President,,Republican,Donald J. Trump,29
