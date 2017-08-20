@@ -1,0 +1,145 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,1,President,,Donald J. Trump,REP,39
+Jackson,2,President,,Donald J. Trump,REP,94
+Jackson,3,President,,Donald J. Trump,REP,219
+Jackson,4,President,,Donald J. Trump,REP,128
+Jackson,5,President,,Donald J. Trump,REP,85
+Jackson,6,President,,Donald J. Trump,REP,71
+Jackson,7,President,,Donald J. Trump,REP,50
+Jackson,8,President,,Donald J. Trump,REP,36
+Jackson,Total,President,,Donald J. Trump,REP,722
+Jackson,1,President,,Gary Johnson,LIB,0
+Jackson,2,President,,Gary Johnson,LIB,1
+Jackson,3,President,,Gary Johnson,LIB,7
+Jackson,4,President,,Gary Johnson,LIB,5
+Jackson,5,President,,Gary Johnson,LIB,3
+Jackson,6,President,,Gary Johnson,LIB,8
+Jackson,7,President,,Gary Johnson,LIB,8
+Jackson,8,President,,Gary Johnson,LIB,4
+Jackson,Total,President,,Gary Johnson,LIB,36
+Jackson,1,President,,Hillary Clinton,DEM,2
+Jackson,2,President,,Hillary Clinton,DEM,17
+Jackson,3,President,,Hillary Clinton,DEM,28
+Jackson,4,President,,Hillary Clinton,DEM,30
+Jackson,5,President,,Hillary Clinton,DEM,5
+Jackson,6,President,,Hillary Clinton,DEM,31
+Jackson,7,President,,Hillary Clinton,DEM,187
+Jackson,8,President,,Hillary Clinton,DEM,23
+Jackson,Total,President,,Hillary Clinton,DEM,323
+Jackson,1,President,,Darrell L. Castle,CON,0
+Jackson,2,President,,Darrell L. Castle,CON,2
+Jackson,3,President,,Darrell L. Castle,CON,2
+Jackson,4,President,,Darrell L. Castle,CON,2
+Jackson,5,President,,Darrell L. Castle,CON,0
+Jackson,6,President,,Darrell L. Castle,CON,4
+Jackson,7,President,,Darrell L. Castle,CON,4
+Jackson,8,President,,Darrell L. Castle,CON,0
+Jackson,Total,President,,Darrell L. Castle,CON,14
+Jackson,1,U.S Senate,,John R. Thune,REP,39
+Jackson,2,U.S Senate,,John R. Thune,REP,92
+Jackson,3,U.S Senate,,John R. Thune,REP,218
+Jackson,4,U.S Senate,,John R. Thune,REP,137
+Jackson,5,U.S Senate,,John R. Thune,REP,69
+Jackson,6,U.S Senate,,John R. Thune,REP,91
+Jackson,7,U.S Senate,,John R. Thune,REP,82
+Jackson,8,U.S Senate,,John R. Thune,REP,43
+Jackson,Total,U.S Senate,,John R. Thune,REP,771
+Jackson,1,U.S Senate,,Jay Williams,DEM,3
+Jackson,2,U.S Senate,,Jay Williams,DEM,20
+Jackson,3,U.S Senate,,Jay Williams,DEM,34
+Jackson,4,U.S Senate,,Jay Williams,DEM,27
+Jackson,5,U.S Senate,,Jay Williams,DEM,15
+Jackson,6,U.S Senate,,Jay Williams,DEM,26
+Jackson,7,U.S Senate,,Jay Williams,DEM,162
+Jackson,8,U.S Senate,,Jay Williams,DEM,22
+Jackson,Total,U.S Senate,,Jay Williams,DEM,309
+Jackson,1,U.S House,1,Kristi Noem,REP,39
+Jackson,2,U.S House,1,Kristi Noem,REP,86
+Jackson,3,U.S House,1,Kristi Noem,REP,217
+Jackson,4,U.S House,1,Kristi Noem,REP,134
+Jackson,5,U.S House,1,Kristi Noem,REP,79
+Jackson,6,U.S House,1,Kristi Noem,REP,84
+Jackson,7,U.S House,1,Kristi Noem,REP,66
+Jackson,8,U.S House,1,Kristi Noem,REP,40
+Jackson,Total,U.S House,1,Kristi Noem,REP,745
+Jackson,1,U.S House,1,Paula Hawks,DEM,4
+Jackson,2,U.S House,1,Paula Hawks,DEM,24
+Jackson,3,U.S House,1,Paula Hawks,DEM,36
+Jackson,4,U.S House,1,Paula Hawks,DEM,32
+Jackson,5,U.S House,1,Paula Hawks,DEM,11
+Jackson,6,U.S House,1,Paula Hawks,DEM,32
+Jackson,7,U.S House,1,Paula Hawks,DEM,178
+Jackson,8,U.S House,1,Paula Hawks,DEM,25
+Jackson,Total,U.S House,1,Paula Hawks,DEM,342
+Jackson,1,Public Utilities commissioner,,Chris Nelson,REP,38
+Jackson,2,Public Utilities commissioner,,Chris Nelson,REP,87
+Jackson,3,Public Utilities commissioner,,Chris Nelson,REP,213
+Jackson,4,Public Utilities commissioner,,Chris Nelson,REP,133
+Jackson,5,Public Utilities commissioner,,Chris Nelson,REP,83
+Jackson,6,Public Utilities commissioner,,Chris Nelson,REP,85
+Jackson,7,Public Utilities commissioner,,Chris Nelson,REP,46
+Jackson,8,Public Utilities commissioner,,Chris Nelson,REP,40
+Jackson,Total,Public Utilities commissioner,,Chris Nelson,REP,725
+Jackson,1,Public Utilities commissioner,,Henry Red Cloud,DEM,5
+Jackson,2,Public Utilities commissioner,,Henry Red Cloud,DEM,19
+Jackson,3,Public Utilities commissioner,,Henry Red Cloud,DEM,27
+Jackson,4,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Jackson,5,Public Utilities commissioner,,Henry Red Cloud,DEM,9
+Jackson,6,Public Utilities commissioner,,Henry Red Cloud,DEM,30
+Jackson,7,Public Utilities commissioner,,Henry Red Cloud,DEM,197
+Jackson,8,Public Utilities commissioner,,Henry Red Cloud,DEM,24
+Jackson,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,334
+Jackson,1,State Senate,27,Kevin Miller,DEM,12
+Jackson,2,State Senate,27,Kevin Miller,DEM,32
+Jackson,3,State Senate,27,Kevin Miller,DEM,71
+Jackson,4,State Senate,27,Kevin Miller,DEM,52
+Jackson,5,State Senate,27,Kevin Miller,DEM,18
+Jackson,6,State Senate,27,Kevin Miller,DEM,42
+Jackson,7,State Senate,27,Kevin Miller,DEM,183
+Jackson,8,State Senate,27,Kevin Miller,DEM,22
+Jackson,Total,State Senate,27,Kevin Miller,DEM,432
+Jackson,1,State Representative,27,Elizabeth May,REP,30
+Jackson,2,State Representative,27,Elizabeth May,REP,81
+Jackson,3,State Representative,27,Elizabeth May,REP,205
+Jackson,4,State Representative,27,Elizabeth May,REP,127
+Jackson,5,State Representative,27,Elizabeth May,REP,75
+Jackson,6,State Representative,27,Elizabeth May,REP,79
+Jackson,7,State Representative,27,Elizabeth May,REP,65
+Jackson,8,State Representative,27,Elizabeth May,REP,47
+Jackson,Total,State Representative,27,Elizabeth May,REP,709
+Jackson,1,State Representative,27,Steve Livermont,REP,34
+Jackson,2,State Representative,27,Steve Livermont,REP,83
+Jackson,3,State Representative,27,Steve Livermont,REP,217
+Jackson,4,State Representative,27,Steve Livermont,REP,126
+Jackson,5,State Representative,27,Steve Livermont,REP,82
+Jackson,6,State Representative,27,Steve Livermont,REP,84
+Jackson,7,State Representative,27,Steve Livermont,REP,68
+Jackson,8,State Representative,27,Steve Livermont,REP,43
+Jackson,Total,State Representative,27,Steve Livermont,REP,737
+Jackson,1,State Representative,27,Red Dawn Foster,DEM,4
+Jackson,2,State Representative,27,Red Dawn Foster,DEM,17
+Jackson,3,State Representative,27,Red Dawn Foster,DEM,20
+Jackson,4,State Representative,27,Red Dawn Foster,DEM,21
+Jackson,5,State Representative,27,Red Dawn Foster,DEM,3
+Jackson,6,State Representative,27,Red Dawn Foster,DEM,19
+Jackson,7,State Representative,27,Red Dawn Foster,DEM,145
+Jackson,8,State Representative,27,Red Dawn Foster,DEM,15
+Jackson,Total,State Representative,27,Red Dawn Foster,DEM,244
+Jackson,1,State Representative,27,jim Bradford,DEM,5
+Jackson,2,State Representative,27,jim Bradford,DEM,18
+Jackson,3,State Representative,27,jim Bradford,DEM,27
+Jackson,4,State Representative,27,jim Bradford,DEM,28
+Jackson,5,State Representative,27,jim Bradford,DEM,6
+Jackson,6,State Representative,27,jim Bradford,DEM,28
+Jackson,7,State Representative,27,jim Bradford,DEM,121
+Jackson,8,State Representative,27,jim Bradford,DEM,18
+Jackson,Total,State Representative,27,jim Bradford,DEM,251
+Jackson,1,State Representative,27,Everette McKinley,IND,3
+Jackson,2,State Representative,27,Everette McKinley,IND,5
+Jackson,3,State Representative,27,Everette McKinley,IND,9
+Jackson,4,State Representative,27,Everette McKinley,IND,8
+Jackson,5,State Representative,27,Everette McKinley,IND,4
+Jackson,6,State Representative,27,Everette McKinley,IND,4
+Jackson,7,State Representative,27,Everette McKinley,IND,13
+Jackson,8,State Representative,27,Everette McKinley,IND,3
+Jackson,Total,State Representative,27,Everette McKinley,IND,49
