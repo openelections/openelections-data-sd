@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Ziebach,Precinct-1 Bridger,President,,Donald J. Trump,REP,7
+Ziebach,Precinct-2 Cherry Creek,President,,Donald J. Trump,REP,7
+Ziebach,Precinct-3 Davis,President,,Donald J. Trump,REP,67
+Ziebach,Precinct-4 Glad Valley,President,,Donald J. Trump,REP,59
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",President,,Donald J. Trump,REP,215
+Ziebach,Precinct-7 Red Scaffold,President,,Donald J. Trump,REP,13
+Ziebach,Total,President,,Donald J. Trump,REP,368
+Ziebach,Precinct-1 Bridger,President,,Gary Johnson,LIB,0
+Ziebach,Precinct-2 Cherry Creek,President,,Gary Johnson,LIB,1
+Ziebach,Precinct-3 Davis,President,,Gary Johnson,LIB,12
+Ziebach,Precinct-4 Glad Valley,President,,Gary Johnson,LIB,0
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",President,,Gary Johnson,LIB,14
+Ziebach,Precinct-7 Red Scaffold,President,,Gary Johnson,LIB,1
+Ziebach,Total,President,,Gary Johnson,LIB,28
+Ziebach,Precinct-1 Bridger,President,,Hillary Clinton,DEM,27
+Ziebach,Precinct-2 Cherry Creek,President,,Hillary Clinton,DEM,69
+Ziebach,Precinct-3 Davis,President,,Hillary Clinton,DEM,99
+Ziebach,Precinct-4 Glad Valley,President,,Hillary Clinton,DEM,10
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",President,,Hillary Clinton,DEM,112
+Ziebach,Precinct-7 Red Scaffold,President,,Hillary Clinton,DEM,36
+Ziebach,Total,President,,Hillary Clinton,DEM,353
+Ziebach,Precinct-1 Bridger,President,,Darrell L. Castle,CON,0
+Ziebach,Precinct-2 Cherry Creek,President,,Darrell L. Castle,CON,0
+Ziebach,Precinct-3 Davis,President,,Darrell L. Castle,CON,5
+Ziebach,Precinct-4 Glad Valley,President,,Darrell L. Castle,CON,0
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",President,,Darrell L. Castle,CON,10
+Ziebach,Precinct-7 Red Scaffold,President,,Darrell L. Castle,CON,3
+Ziebach,Total,President,,Darrell L. Castle,CON,18
+Ziebach,Precinct-1 Bridger,U.S Senate,,John R. Thune,REP,6
+Ziebach,Precinct-2 Cherry Creek,U.S Senate,,John R. Thune,REP,23
+Ziebach,Precinct-3 Davis,U.S Senate,,John R. Thune,REP,88
+Ziebach,Precinct-4 Glad Valley,U.S Senate,,John R. Thune,REP,58
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S Senate,,John R. Thune,REP,226
+Ziebach,Precinct-7 Red Scaffold,U.S Senate,,John R. Thune,REP,20
+Ziebach,Total,U.S Senate,,John R. Thune,REP,421
+Ziebach,Precinct-1 Bridger,U.S Senate,,Jay Williams,DEM,25
+Ziebach,Precinct-2 Cherry Creek,U.S Senate,,Jay Williams,DEM,52
+Ziebach,Precinct-3 Davis,U.S Senate,,Jay Williams,DEM,92
+Ziebach,Precinct-4 Glad Valley,U.S Senate,,Jay Williams,DEM,12
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S Senate,,Jay Williams,DEM,130
+Ziebach,Precinct-7 Red Scaffold,U.S Senate,,Jay Williams,DEM,34
+Ziebach,Total,U.S Senate,,Jay Williams,DEM,345
+Ziebach,Precinct-1 Bridger,U.S House,1,Kristi Noem,REP,8
+Ziebach,Precinct-2 Cherry Creek,U.S House,1,Kristi Noem,REP,15
+Ziebach,Precinct-3 Davis,U.S House,1,Kristi Noem,REP,67
+Ziebach,Precinct-4 Glad Valley,U.S House,1,Kristi Noem,REP,52
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S House,1,Kristi Noem,REP,201
+Ziebach,Precinct-7 Red Scaffold,U.S House,1,Kristi Noem,REP,21
+Ziebach,Total,U.S House,1,Kristi Noem,REP,364
+Ziebach,Precinct-1 Bridger,U.S House,1,Paula Hawks,DEM,24
+Ziebach,Precinct-2 Cherry Creek,U.S House,1,Paula Hawks,DEM,57
+Ziebach,Precinct-3 Davis,U.S House,1,Paula Hawks,DEM,115
+Ziebach,Precinct-4 Glad Valley,U.S House,1,Paula Hawks,DEM,18
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S House,1,Paula Hawks,DEM,156
+Ziebach,Precinct-7 Red Scaffold,U.S House,1,Paula Hawks,DEM,34
+Ziebach,Total,U.S House,1,Paula Hawks,DEM,404
+Ziebach,Precinct-1 Bridger,Public Utilities commissioner,,Chris Nelson,REP,7
+Ziebach,Precinct-2 Cherry Creek,Public Utilities commissioner,,Chris Nelson,REP,7
+Ziebach,Precinct-3 Davis,Public Utilities commissioner,,Chris Nelson,REP,60
+Ziebach,Precinct-4 Glad Valley,Public Utilities commissioner,,Chris Nelson,REP,56
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Public Utilities commissioner,,Chris Nelson,REP,226
+Ziebach,Precinct-7 Red Scaffold,Public Utilities commissioner,,Chris Nelson,REP,17
+Ziebach,Total,Public Utilities commissioner,,Chris Nelson,REP,373
+Ziebach,Precinct-1 Bridger,Public Utilities commissioner,,Henry Red Cloud,DEM,26
+Ziebach,Precinct-2 Cherry Creek,Public Utilities commissioner,,Henry Red Cloud,DEM,65
+Ziebach,Precinct-3 Davis,Public Utilities commissioner,,Henry Red Cloud,DEM,118
+Ziebach,Precinct-4 Glad Valley,Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Public Utilities commissioner,,Henry Red Cloud,DEM,120
+Ziebach,Precinct-7 Red Scaffold,Public Utilities commissioner,,Henry Red Cloud,DEM,36
+Ziebach,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,375
+Ziebach,Precinct-1 Bridger,State Senate,28,Ryan M. Maher,REP,9
+Ziebach,Precinct-2 Cherry Creek,State Senate,28,Ryan M. Maher,REP,26
+Ziebach,Precinct-3 Davis,State Senate,28,Ryan M. Maher,REP,103
+Ziebach,Precinct-4 Glad Valley,State Senate,28,Ryan M. Maher,REP,54
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Senate,28,Ryan M. Maher,REP,274
+Ziebach,Precinct-7 Red Scaffold,State Senate,28,Ryan M. Maher,REP,31
+Ziebach,Total,State Senate,28,Ryan M. Maher,REP,497
+Ziebach,Precinct-1 Bridger,State Representative,28A,Oren Lesmeister,DEM,27
+Ziebach,Precinct-2 Cherry Creek,State Representative,28A,Oren Lesmeister,DEM,61
+Ziebach,Precinct-3 Davis,State Representative,28A,Oren Lesmeister,DEM,141
+Ziebach,Precinct-4 Glad Valley,State Representative,28A,Oren Lesmeister,DEM,48
+Ziebach,"Precinct-6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Representative,28A,Oren Lesmeister,DEM,243
+Ziebach,Precinct-7 Red Scaffold,State Representative,28A,Oren Lesmeister,DEM,38
+Ziebach,Total,State Representative,28A,Oren Lesmeister,DEM,558
