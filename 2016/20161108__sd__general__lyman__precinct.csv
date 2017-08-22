@@ -1,0 +1,97 @@
+county,precinct,office,district,party,candidate,votes
+Lyman,Total,President,,REP,Donald J. Trump,977
+Lyman,Iona,President,,REP,Donald J. Trump,58
+Lyman,Oacoma,President,,REP,Donald J. Trump,216
+Lyman,Reliance,President,,REP,Donald J. Trump,100
+Lyman,Lower Brule,President,,REP,Donald J. Trump,15
+Lyman,Kennebec,President,,REP,Donald J. Trump,213
+Lyman,Presho,President,,REP,Donald J. Trump,293
+Lyman,Vivian,President,,REP,Donald J. Trump,82
+Lyman,Total,President,,LIB,Gary Johnson,56
+Lyman,Iona,President,,LIB,Gary Johnson,3
+Lyman,Oacoma,President,,LIB,Gary Johnson,10
+Lyman,Reliance,President,,LIB,Gary Johnson,2
+Lyman,Lower Brule,President,,LIB,Gary Johnson,7
+Lyman,Kennebec,President,,LIB,Gary Johnson,14
+Lyman,Presho,President,,LIB,Gary Johnson,17
+Lyman,Vivian,President,,LIB,Gary Johnson,3
+Lyman,Total,President,,DEM,Hillary Clinton,369
+Lyman,Iona,President,,DEM,Hillary Clinton,6
+Lyman,Oacoma,President,,DEM,Hillary Clinton,92
+Lyman,Reliance,President,,DEM,Hillary Clinton,33
+Lyman,Lower Brule,President,,DEM,Hillary Clinton,143
+Lyman,Kennebec,President,,DEM,Hillary Clinton,22
+Lyman,Presho,President,,DEM,Hillary Clinton,60
+Lyman,Vivian,President,,DEM,Hillary Clinton,13
+Lyman,Total,President,,CON,Darrell L. Castle,19
+Lyman,Iona,President,,CON,Darrell L. Castle,1
+Lyman,Oacoma,President,,CON,Darrell L. Castle,3
+Lyman,Reliance,President,,CON,Darrell L. Castle,3
+Lyman,Lower Brule,President,,CON,Darrell L. Castle,6
+Lyman,Kennebec,President,,CON,Darrell L. Castle,2
+Lyman,Presho,President,,CON,Darrell L. Castle,3
+Lyman,Vivian,President,,CON,Darrell L. Castle,1
+Lyman,Total,U.S. Senate,,REP,John R. Thune,1051
+Lyman,Iona,U.S. Senate,,REP,John R. Thune,48
+Lyman,Oacoma,U.S. Senate,,REP,John R. Thune,232
+Lyman,Reliance,U.S. Senate,,REP,John R. Thune,109
+Lyman,Lower Brule,U.S. Senate,,REP,John R. Thune,48
+Lyman,Kennebec,U.S. Senate,,REP,John R. Thune,217
+Lyman,Presho,U.S. Senate,,REP,John R. Thune,311
+Lyman,Vivian,U.S. Senate,,REP,John R. Thune,86
+Lyman,Total,U.S. Senate,,DEM,Jay Williams,378
+Lyman,Iona,U.S. Senate,,DEM,Jay Williams,20
+Lyman,Oacoma,U.S. Senate,,DEM,Jay Williams,86
+Lyman,Reliance,U.S. Senate,,DEM,Jay Williams,31
+Lyman,Lower Brule,U.S. Senate,,DEM,Jay Williams,125
+Lyman,Kennebec,U.S. Senate,,DEM,Jay Williams,30
+Lyman,Presho,U.S. Senate,,DEM,Jay Williams,70
+Lyman,Vivian,U.S. Senate,,DEM,Jay Williams,16
+Lyman,Total,U.S. House,1,REP,Kristi Noem,948
+Lyman,Iona,U.S. House,1,REP,Kristi Noem,45
+Lyman,Oacoma,U.S. House,1,REP,Kristi Noem,209
+Lyman,Reliance,U.S. House,1,REP,Kristi Noem,99
+Lyman,Lower Brule,U.S. House,1,REP,Kristi Noem,31
+Lyman,Kennebec,U.S. House,1,REP,Kristi Noem,207
+Lyman,Presho,U.S. House,1,REP,Kristi Noem,280
+Lyman,Vivian,U.S. House,1,REP,Kristi Noem,77
+Lyman,Total,U.S. House,1,DEM,Paula Hawks,487
+Lyman,Iona,U.S. House,1,DEM,Paula Hawks,22
+Lyman,Oacoma,U.S. House,1,DEM,Paula Hawks,114
+Lyman,Reliance,U.S. House,1,DEM,Paula Hawks,41
+Lyman,Lower Brule,U.S. House,1,DEM,Paula Hawks,143
+Lyman,Kennebec,U.S. House,1,DEM,Paula Hawks,44
+Lyman,Presho,U.S. House,1,DEM,Paula Hawks,100
+Lyman,Vivian,U.S. House,1,DEM,Paula Hawks,23
+Lyman,Total,Public Utilities Commissioner,,REP,Chris Nelson,1049
+Lyman,Iona,Public Utilities Commissioner,,REP,Chris Nelson,48
+Lyman,Oacoma,Public Utilities Commissioner,,REP,Chris Nelson,252
+Lyman,Reliance,Public Utilities Commissioner,,REP,Chris Nelson,111
+Lyman,Lower Brule,Public Utilities Commissioner,,REP,Chris Nelson,12
+Lyman,Kennebec,Public Utilities Commissioner,,REP,Chris Nelson,225
+Lyman,Presho,Public Utilities Commissioner,,REP,Chris Nelson,318
+Lyman,Vivian,Public Utilities Commissioner,,REP,Chris Nelson,83
+Lyman,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,338
+Lyman,Iona,Public Utilities Commissioner,,DEM,Henry Red Cloud,15
+Lyman,Oacoma,Public Utilities Commissioner,,DEM,Henry Red Cloud,63
+Lyman,Reliance,Public Utilities Commissioner,,DEM,Henry Red Cloud,25
+Lyman,Lower Brule,Public Utilities Commissioner,,DEM,Henry Red Cloud,157
+Lyman,Kennebec,Public Utilities Commissioner,,DEM,Henry Red Cloud,20
+Lyman,Presho,Public Utilities Commissioner,,DEM,Henry Red Cloud,48
+Lyman,Vivian,Public Utilities Commissioner,,DEM,Henry Red Cloud,10
+Lyman,Total,State Senate,26,REP,Troy Heinert,748
+Lyman,Iona,State Senate,26,REP,Troy Heinert,33
+Lyman,Oacoma,State Senate,26,REP,Troy Heinert,164
+Lyman,Reliance,State Senate,26,REP,Troy Heinert,77
+Lyman,Lower Brule,State Senate,26,REP,Troy Heinert,138
+Lyman,Kennebec,State Senate,26,REP,Troy Heinert,106
+Lyman,Presho,State Senate,26,REP,Troy Heinert,189
+Lyman,Vivian,State Senate,26,REP,Troy Heinert,41
+Lyman,Total,State Representative,26B,REP,James Schaefer,1093
+Lyman,Iona,State Representative,26B,REP,James Schaefer,47
+Lyman,Oacoma,State Representative,26B,REP,James Schaefer,248
+Lyman,Reliance,State Representative,26B,REP,James Schaefer,116
+Lyman,Lower Brule,State Representative,26B,REP,James Schaefer,63
+Lyman,Kennebec,State Representative,26B,REP,James Schaefer,214
+Lyman,Presho,State Representative,26B,REP,James Schaefer,319
+Lyman,Vivian,State Representative,26B,REP,James Schaefer,86
