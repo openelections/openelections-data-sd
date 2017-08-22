@@ -1,0 +1,305 @@
+county,precinct,office,district,candidate,party,votes
+Grant,11,President,,Donald J. Trump,REP,213
+Grant,12,President,,Donald J. Trump,REP,52
+Grant,21,President,,Donald J. Trump,REP,68
+Grant,22,President,,Donald J. Trump,REP,253
+Grant,31,President,,Donald J. Trump,REP,41
+Grant,32,President,,Donald J. Trump,REP,71
+Grant,33,President,,Donald J. Trump,REP,259
+Grant,41,President,,Donald J. Trump,REP,146
+Grant,42,President,,Donald J. Trump,REP,206
+Grant,43,President,,Donald J. Trump,REP,285
+Grant,44,President,,Donald J. Trump,REP,94
+Grant,45,President,,Donald J. Trump,REP,92
+Grant,46,President,,Donald J. Trump,REP,148
+Grant,47,President,,Donald J. Trump,REP,173
+Grant,49,President,,Donald J. Trump,REP,79
+Grant,52,President,,Donald J. Trump,REP,57
+Grant,53,President,,Donald J. Trump,REP,33
+Grant,54,President,,Donald J. Trump,REP,112
+Grant,Total,President,,Donald J. Trump,REP,2382
+Grant,11,President,,Gary Johnson,LIB,12
+Grant,12,President,,Gary Johnson,LIB,3
+Grant,21,President,,Gary Johnson,LIB,6
+Grant,22,President,,Gary Johnson,LIB,28
+Grant,31,President,,Gary Johnson,LIB,4
+Grant,32,President,,Gary Johnson,LIB,2
+Grant,33,President,,Gary Johnson,LIB,23
+Grant,41,President,,Gary Johnson,LIB,15
+Grant,42,President,,Gary Johnson,LIB,9
+Grant,43,President,,Gary Johnson,LIB,25
+Grant,44,President,,Gary Johnson,LIB,4
+Grant,45,President,,Gary Johnson,LIB,9
+Grant,46,President,,Gary Johnson,LIB,5
+Grant,47,President,,Gary Johnson,LIB,11
+Grant,49,President,,Gary Johnson,LIB,3
+Grant,52,President,,Gary Johnson,LIB,7
+Grant,53,President,,Gary Johnson,LIB,2
+Grant,54,President,,Gary Johnson,LIB,7
+Grant,Total,President,,Gary Johnson,LIB,175
+Grant,11,President,,Hillary Clinton,DEM,97
+Grant,12,President,,Hillary Clinton,DEM,19
+Grant,21,President,,Hillary Clinton,DEM,31
+Grant,22,President,,Hillary Clinton,DEM,97
+Grant,31,President,,Hillary Clinton,DEM,29
+Grant,32,President,,Hillary Clinton,DEM,36
+Grant,33,President,,Hillary Clinton,DEM,134
+Grant,41,President,,Hillary Clinton,DEM,83
+Grant,42,President,,Hillary Clinton,DEM,76
+Grant,43,President,,Hillary Clinton,DEM,101
+Grant,44,President,,Hillary Clinton,DEM,23
+Grant,45,President,,Hillary Clinton,DEM,50
+Grant,46,President,,Hillary Clinton,DEM,52
+Grant,47,President,,Hillary Clinton,DEM,37
+Grant,49,President,,Hillary Clinton,DEM,29
+Grant,52,President,,Hillary Clinton,DEM,19
+Grant,53,President,,Hillary Clinton,DEM,13
+Grant,54,President,,Hillary Clinton,DEM,45
+Grant,Total,President,,Hillary Clinton,DEM,971
+Grant,11,President,,Darrell L. Castle,CON,1
+Grant,12,President,,Darrell L. Castle,CON,0
+Grant,21,President,,Darrell L. Castle,CON,2
+Grant,22,President,,Darrell L. Castle,CON,3
+Grant,31,President,,Darrell L. Castle,CON,2
+Grant,32,President,,Darrell L. Castle,CON,1
+Grant,33,President,,Darrell L. Castle,CON,4
+Grant,41,President,,Darrell L. Castle,CON,1
+Grant,42,President,,Darrell L. Castle,CON,3
+Grant,43,President,,Darrell L. Castle,CON,6
+Grant,44,President,,Darrell L. Castle,CON,1
+Grant,45,President,,Darrell L. Castle,CON,0
+Grant,46,President,,Darrell L. Castle,CON,6
+Grant,47,President,,Darrell L. Castle,CON,1
+Grant,49,President,,Darrell L. Castle,CON,2
+Grant,52,President,,Darrell L. Castle,CON,0
+Grant,53,President,,Darrell L. Castle,CON,0
+Grant,54,President,,Darrell L. Castle,CON,3
+Grant,Total,President,,Darrell L. Castle,CON,36
+Grant,11,U.S Senate,,John R. Thune,REP,244
+Grant,12,U.S Senate,,John R. Thune,REP,52
+Grant,21,U.S Senate,,John R. Thune,REP,80
+Grant,22,U.S Senate,,John R. Thune,REP,295
+Grant,31,U.S Senate,,John R. Thune,REP,57
+Grant,32,U.S Senate,,John R. Thune,REP,80
+Grant,33,U.S Senate,,John R. Thune,REP,329
+Grant,41,U.S Senate,,John R. Thune,REP,165
+Grant,42,U.S Senate,,John R. Thune,REP,234
+Grant,43,U.S Senate,,John R. Thune,REP,303
+Grant,44,U.S Senate,,John R. Thune,REP,108
+Grant,45,U.S Senate,,John R. Thune,REP,118
+Grant,46,U.S Senate,,John R. Thune,REP,148
+Grant,47,U.S Senate,,John R. Thune,REP,193
+Grant,49,U.S Senate,,John R. Thune,REP,85
+Grant,52,U.S Senate,,John R. Thune,REP,63
+Grant,53,U.S Senate,,John R. Thune,REP,31
+Grant,54,U.S Senate,,John R. Thune,REP,120
+Grant,Total,U.S Senate,,John R. Thune,REP,2705
+Grant,11,U.S Senate,,Jay Williams,DEM,81
+Grant,12,U.S Senate,,Jay Williams,DEM,23
+Grant,21,U.S Senate,,Jay Williams,DEM,28
+Grant,22,U.S Senate,,Jay Williams,DEM,93
+Grant,31,U.S Senate,,Jay Williams,DEM,19
+Grant,32,U.S Senate,,Jay Williams,DEM,28
+Grant,33,U.S Senate,,Jay Williams,DEM,98
+Grant,41,U.S Senate,,Jay Williams,DEM,85
+Grant,42,U.S Senate,,Jay Williams,DEM,62
+Grant,43,U.S Senate,,Jay Williams,DEM,107
+Grant,44,U.S Senate,,Jay Williams,DEM,16
+Grant,45,U.S Senate,,Jay Williams,DEM,42
+Grant,46,U.S Senate,,Jay Williams,DEM,60
+Grant,47,U.S Senate,,Jay Williams,DEM,33
+Grant,49,U.S Senate,,Jay Williams,DEM,30
+Grant,52,U.S Senate,,Jay Williams,DEM,19
+Grant,53,U.S Senate,,Jay Williams,DEM,18
+Grant,54,U.S Senate,,Jay Williams,DEM,48
+Grant,Total,U.S Senate,,Jay Williams,DEM,890
+Grant,11,U.S House,4,Kristi Noem,REP,219
+Grant,12,U.S House,4,Kristi Noem,REP,48
+Grant,21,U.S House,4,Kristi Noem,REP,69
+Grant,22,U.S House,4,Kristi Noem,REP,269
+Grant,31,U.S House,4,Kristi Noem,REP,54
+Grant,32,U.S House,4,Kristi Noem,REP,75
+Grant,33,U.S House,4,Kristi Noem,REP,285
+Grant,41,U.S House,4,Kristi Noem,REP,149
+Grant,42,U.S House,4,Kristi Noem,REP,210
+Grant,43,U.S House,4,Kristi Noem,REP,306
+Grant,44,U.S House,4,Kristi Noem,REP,97
+Grant,45,U.S House,4,Kristi Noem,REP,105
+Grant,46,U.S House,4,Kristi Noem,REP,135
+Grant,47,U.S House,4,Kristi Noem,REP,176
+Grant,49,U.S House,4,Kristi Noem,REP,74
+Grant,52,U.S House,4,Kristi Noem,REP,53
+Grant,53,U.S House,4,Kristi Noem,REP,32
+Grant,54,U.S House,4,Kristi Noem,REP,111
+Grant,Total,U.S House,4,Kristi Noem,REP,2467
+Grant,11,U.S House,4,Paula Hawks,DEM,107
+Grant,12,U.S House,4,Paula Hawks,DEM,27
+Grant,21,U.S House,4,Paula Hawks,DEM,36
+Grant,22,U.S House,4,Paula Hawks,DEM,118
+Grant,31,U.S House,4,Paula Hawks,DEM,24
+Grant,32,U.S House,4,Paula Hawks,DEM,34
+Grant,33,U.S House,4,Paula Hawks,DEM,139
+Grant,41,U.S House,4,Paula Hawks,DEM,101
+Grant,42,U.S House,4,Paula Hawks,DEM,88
+Grant,43,U.S House,4,Paula Hawks,DEM,107
+Grant,44,U.S House,4,Paula Hawks,DEM,28
+Grant,45,U.S House,4,Paula Hawks,DEM,56
+Grant,46,U.S House,4,Paula Hawks,DEM,75
+Grant,47,U.S House,4,Paula Hawks,DEM,48
+Grant,49,U.S House,4,Paula Hawks,DEM,41
+Grant,52,U.S House,4,Paula Hawks,DEM,31
+Grant,53,U.S House,4,Paula Hawks,DEM,18
+Grant,54,U.S House,4,Paula Hawks,DEM,55
+Grant,Total,U.S House,4,Paula Hawks,DEM,1133
+Grant,11,Public Utilities commissioner,,Chris Nelson,REP,258
+Grant,12,Public Utilities commissioner,,Chris Nelson,REP,56
+Grant,21,Public Utilities commissioner,,Chris Nelson,REP,83
+Grant,22,Public Utilities commissioner,,Chris Nelson,REP,320
+Grant,31,Public Utilities commissioner,,Chris Nelson,REP,60
+Grant,32,Public Utilities commissioner,,Chris Nelson,REP,82
+Grant,33,Public Utilities commissioner,,Chris Nelson,REP,334
+Grant,41,Public Utilities commissioner,,Chris Nelson,REP,172
+Grant,42,Public Utilities commissioner,,Chris Nelson,REP,248
+Grant,43,Public Utilities commissioner,,Chris Nelson,REP,314
+Grant,44,Public Utilities commissioner,,Chris Nelson,REP,106
+Grant,45,Public Utilities commissioner,,Chris Nelson,REP,122
+Grant,46,Public Utilities commissioner,,Chris Nelson,REP,177
+Grant,47,Public Utilities commissioner,,Chris Nelson,REP,193
+Grant,49,Public Utilities commissioner,,Chris Nelson,REP,86
+Grant,52,Public Utilities commissioner,,Chris Nelson,REP,59
+Grant,53,Public Utilities commissioner,,Chris Nelson,REP,31
+Grant,54,Public Utilities commissioner,,Chris Nelson,REP,126
+Grant,Total,Public Utilities commissioner,,Chris Nelson,REP,2827
+Grant,11,Public Utilities commissioner,,Henry Red Cloud,DEM,61
+Grant,12,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Grant,21,Public Utilities commissioner,,Henry Red Cloud,DEM,18
+Grant,22,Public Utilities commissioner,,Henry Red Cloud,DEM,56
+Grant,31,Public Utilities commissioner,,Henry Red Cloud,DEM,14
+Grant,32,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Grant,33,Public Utilities commissioner,,Henry Red Cloud,DEM,71
+Grant,41,Public Utilities commissioner,,Henry Red Cloud,DEM,65
+Grant,42,Public Utilities commissioner,,Henry Red Cloud,DEM,40
+Grant,43,Public Utilities commissioner,,Henry Red Cloud,DEM,81
+Grant,44,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Grant,45,Public Utilities commissioner,,Henry Red Cloud,DEM,31
+Grant,46,Public Utilities commissioner,,Henry Red Cloud,DEM,26
+Grant,47,Public Utilities commissioner,,Henry Red Cloud,DEM,28
+Grant,49,Public Utilities commissioner,,Henry Red Cloud,DEM,21
+Grant,52,Public Utilities commissioner,,Henry Red Cloud,DEM,18
+Grant,53,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Grant,54,Public Utilities commissioner,,Henry Red Cloud,DEM,33
+Grant,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,631
+Grant,11,State Senate,4,John Wick,REP,187
+Grant,12,State Senate,4,John Wick,REP,49
+Grant,21,State Senate,4,John Wick,REP,60
+Grant,22,State Senate,4,John Wick,REP,233
+Grant,31,State Senate,4,John Wick,REP,38
+Grant,32,State Senate,4,John Wick,REP,63
+Grant,33,State Senate,4,John Wick,REP,231
+Grant,41,State Senate,4,John Wick,REP,114
+Grant,42,State Senate,4,John Wick,REP,195
+Grant,43,State Senate,4,John Wick,REP,244
+Grant,44,State Senate,4,John Wick,REP,78
+Grant,45,State Senate,4,John Wick,REP,76
+Grant,46,State Senate,4,John Wick,REP,126
+Grant,47,State Senate,4,John Wick,REP,126
+Grant,49,State Senate,4,John Wick,REP,62
+Grant,52,State Senate,4,John Wick,REP,47
+Grant,53,State Senate,4,John Wick,REP,25
+Grant,54,State Senate,4,John Wick,REP,84
+Grant,Total,State Senate,4,John Wick,REP,2038
+Grant,11,State Senate,4,Kathy Tyler,DEM,136
+Grant,12,State Senate,4,Kathy Tyler,DEM,23
+Grant,21,State Senate,4,Kathy Tyler,DEM,48
+Grant,22,State Senate,4,Kathy Tyler,DEM,156
+Grant,31,State Senate,4,Kathy Tyler,DEM,40
+Grant,32,State Senate,4,Kathy Tyler,DEM,48
+Grant,33,State Senate,4,Kathy Tyler,DEM,188
+Grant,41,State Senate,4,Kathy Tyler,DEM,137
+Grant,42,State Senate,4,Kathy Tyler,DEM,96
+Grant,43,State Senate,4,Kathy Tyler,DEM,170
+Grant,44,State Senate,4,Kathy Tyler,DEM,42
+Grant,45,State Senate,4,Kathy Tyler,DEM,86
+Grant,46,State Senate,4,Kathy Tyler,DEM,84
+Grant,47,State Senate,4,Kathy Tyler,DEM,96
+Grant,49,State Senate,4,Kathy Tyler,DEM,50
+Grant,52,State Senate,4,Kathy Tyler,DEM,34
+Grant,53,State Senate,4,Kathy Tyler,DEM,24
+Grant,54,State Senate,4,Kathy Tyler,DEM,85
+Grant,Total,State Senate,4,Kathy Tyler,DEM,1543
+Grant,11,State Representative,4,John Mills,REP,145
+Grant,12,State Representative,4,John Mills,REP,36
+Grant,21,State Representative,4,John Mills,REP,45
+Grant,22,State Representative,4,John Mills,REP,173
+Grant,31,State Representative,4,John Mills,REP,37
+Grant,32,State Representative,4,John Mills,REP,51
+Grant,33,State Representative,4,John Mills,REP,201
+Grant,41,State Representative,4,John Mills,REP,97
+Grant,42,State Representative,4,John Mills,REP,144
+Grant,43,State Representative,4,John Mills,REP,192
+Grant,44,State Representative,4,John Mills,REP,65
+Grant,45,State Representative,4,John Mills,REP,69
+Grant,46,State Representative,4,John Mills,REP,99
+Grant,47,State Representative,4,John Mills,REP,116
+Grant,49,State Representative,4,John Mills,REP,48
+Grant,52,State Representative,4,John Mills,REP,42
+Grant,53,State Representative,4,John Mills,REP,21
+Grant,54,State Representative,4,John Mills,REP,64
+Grant,Total,State Representative,4,John Mills,REP,1645
+Grant,11,State Representative,4,Jason W Kettwig,REP,190
+Grant,12,State Representative,4,Jason W Kettwig,REP,43
+Grant,21,State Representative,4,Jason W Kettwig,REP,65
+Grant,22,State Representative,4,Jason W Kettwig,REP,243
+Grant,31,State Representative,4,Jason W Kettwig,REP,48
+Grant,32,State Representative,4,Jason W Kettwig,REP,63
+Grant,33,State Representative,4,Jason W Kettwig,REP,259
+Grant,41,State Representative,4,Jason W Kettwig,REP,121
+Grant,42,State Representative,4,Jason W Kettwig,REP,198
+Grant,43,State Representative,4,Jason W Kettwig,REP,253
+Grant,44,State Representative,4,Jason W Kettwig,REP,72
+Grant,45,State Representative,4,Jason W Kettwig,REP,87
+Grant,46,State Representative,4,Jason W Kettwig,REP,144
+Grant,47,State Representative,4,Jason W Kettwig,REP,133
+Grant,49,State Representative,4,Jason W Kettwig,REP,67
+Grant,52,State Representative,4,Jason W Kettwig,REP,41
+Grant,53,State Representative,4,Jason W Kettwig,REP,21
+Grant,54,State Representative,4,Jason W Kettwig,REP,85
+Grant,Total,State Representative,4,Jason W Kettwig,REP,2133
+Grant,11,State Representative,4,Matt Rosdahl,DEM,60
+Grant,12,State Representative,4,Matt Rosdahl,DEM,22
+Grant,21,State Representative,4,Matt Rosdahl,DEM,21
+Grant,22,State Representative,4,Matt Rosdahl,DEM,84
+Grant,31,State Representative,4,Matt Rosdahl,DEM,11
+Grant,32,State Representative,4,Matt Rosdahl,DEM,24
+Grant,33,State Representative,4,Matt Rosdahl,DEM,102
+Grant,41,State Representative,4,Matt Rosdahl,DEM,70
+Grant,42,State Representative,4,Matt Rosdahl,DEM,44
+Grant,43,State Representative,4,Matt Rosdahl,DEM,80
+Grant,44,State Representative,4,Matt Rosdahl,DEM,15
+Grant,45,State Representative,4,Matt Rosdahl,DEM,42
+Grant,46,State Representative,4,Matt Rosdahl,DEM,39
+Grant,47,State Representative,4,Matt Rosdahl,DEM,44
+Grant,49,State Representative,4,Matt Rosdahl,DEM,24
+Grant,52,State Representative,4,Matt Rosdahl,DEM,14
+Grant,53,State Representative,4,Matt Rosdahl,DEM,12
+Grant,54,State Representative,4,Matt Rosdahl,DEM,48
+Grant,Total,State Representative,4,Matt Rosdahl,DEM,756
+Grant,11,State Representative,4,Peggy Schuelke,DEM,153
+Grant,12,State Representative,4,Peggy Schuelke,DEM,35
+Grant,21,State Representative,4,Peggy Schuelke,DEM,52
+Grant,22,State Representative,4,Peggy Schuelke,DEM,175
+Grant,31,State Representative,4,Peggy Schuelke,DEM,42
+Grant,32,State Representative,4,Peggy Schuelke,DEM,51
+Grant,33,State Representative,4,Peggy Schuelke,DEM,195
+Grant,41,State Representative,4,Peggy Schuelke,DEM,142
+Grant,42,State Representative,4,Peggy Schuelke,DEM,124
+Grant,43,State Representative,4,Peggy Schuelke,DEM,182
+Grant,44,State Representative,4,Peggy Schuelke,DEM,42
+Grant,45,State Representative,4,Peggy Schuelke,DEM,91
+Grant,46,State Representative,4,Peggy Schuelke,DEM,91
+Grant,47,State Representative,4,Peggy Schuelke,DEM,102
+Grant,49,State Representative,4,Peggy Schuelke,DEM,55
+Grant,52,State Representative,4,Peggy Schuelke,DEM,34
+Grant,53,State Representative,4,Peggy Schuelke,DEM,31
+Grant,54,State Representative,4,Peggy Schuelke,DEM,97
+Grant,Total,State Representative,4,Peggy Schuelke,DEM,1694

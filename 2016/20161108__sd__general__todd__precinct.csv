@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Todd,Bordeaux,President,,Donald J. Trump,REP,12
+Todd,Jeanette,President,,Donald J. Trump,REP,68
+Todd,Lakeview,President,,Donald J. Trump,REP,90
+Todd,"Mission-N, Antelope",President,,Donald J. Trump,REP,96
+Todd,Okreek,President,,Donald J. Trump,REP,44
+Todd,Parmelee,President,,Donald J. Trump,REP,21
+Todd,Rosebud,President,,Donald J. Trump,REP,47
+Todd,S. Antelope,President,,Donald J. Trump,REP,58
+Todd,Saint Francis,President,,Donald J. Trump,REP,51
+Todd,Total,President,,Donald J. Trump,REP,487
+Todd,Bordeaux,President,,Gary Johnson,LIB,2
+Todd,Jeanette,President,,Gary Johnson,LIB,1
+Todd,Lakeview,President,,Gary Johnson,LIB,0
+Todd,"Mission-N, Antelope",President,,Gary Johnson,LIB,30
+Todd,Okreek,President,,Gary Johnson,LIB,3
+Todd,Parmelee,President,,Gary Johnson,LIB,13
+Todd,Rosebud,President,,Gary Johnson,LIB,21
+Todd,S. Antelope,President,,Gary Johnson,LIB,13
+Todd,Saint Francis,President,,Gary Johnson,LIB,13
+Todd,Total,President,,Gary Johnson,LIB,96
+Todd,Bordeaux,President,,Hillary Clinton,DEM,43
+Todd,Jeanette,President,,Hillary Clinton,DEM,9
+Todd,Lakeview,President,,Hillary Clinton,DEM,11
+Todd,"Mission-N, Antelope",President,,Hillary Clinton,DEM,366
+Todd,Okreek,President,,Hillary Clinton,DEM,72
+Todd,Parmelee,President,,Hillary Clinton,DEM,220
+Todd,Rosebud,President,,Hillary Clinton,DEM,339
+Todd,S. Antelope,President,,Hillary Clinton,DEM,171
+Todd,Saint Francis,President,,Hillary Clinton,DEM,274
+Todd,Total,President,,Hillary Clinton,DEM,1505
+Todd,Bordeaux,President,,Darrell L. Castle,CON,1
+Todd,Jeanette,President,,Darrell L. Castle,CON,1
+Todd,Lakeview,President,,Darrell L. Castle,CON,6
+Todd,"Mission-N, Antelope",President,,Darrell L. Castle,CON,8
+Todd,Okreek,President,,Darrell L. Castle,CON,0
+Todd,Parmelee,President,,Darrell L. Castle,CON,6
+Todd,Rosebud,President,,Darrell L. Castle,CON,5
+Todd,S. Antelope,President,,Darrell L. Castle,CON,6
+Todd,Saint Francis,President,,Darrell L. Castle,CON,4
+Todd,Total,President,,Darrell L. Castle,CON,37
+Todd,Bordeaux,U.S Senate,,John R. Thune,REP,19
+Todd,Jeanette,U.S Senate,,John R. Thune,REP,61
+Todd,Lakeview,U.S Senate,,John R. Thune,REP,95
+Todd,"Mission-N, Antelope",U.S Senate,,John R. Thune,REP,151
+Todd,Okreek,U.S Senate,,John R. Thune,REP,49
+Todd,Parmelee,U.S Senate,,John R. Thune,REP,59
+Todd,Rosebud,U.S Senate,,John R. Thune,REP,105
+Todd,S. Antelope,U.S Senate,,John R. Thune,REP,83
+Todd,Saint Francis,U.S Senate,,John R. Thune,REP,102
+Todd,Total,U.S Senate,,John R. Thune,REP,724
+Todd,Bordeaux,U.S Senate,,Jay Williams,DEM,37
+Todd,Jeanette,U.S Senate,,Jay Williams,DEM,13
+Todd,Lakeview,U.S Senate,,Jay Williams,DEM,10
+Todd,"Mission-N, Antelope",U.S Senate,,Jay Williams,DEM,344
+Todd,Okreek,U.S Senate,,Jay Williams,DEM,71
+Todd,Parmelee,U.S Senate,,Jay Williams,DEM,203
+Todd,Rosebud,U.S Senate,,Jay Williams,DEM,306
+Todd,S. Antelope,U.S Senate,,Jay Williams,DEM,161
+Todd,Saint Francis,U.S Senate,,Jay Williams,DEM,231
+Todd,Total,U.S Senate,,Jay Williams,DEM,1376
+Todd,Bordeaux,U.S House,1,Kristi Noem,REP,16
+Todd,Jeanette,U.S House,1,Kristi Noem,REP,63
+Todd,Lakeview,U.S House,1,Kristi Noem,REP,91
+Todd,"Mission-N, Antelope",U.S House,1,Kristi Noem,REP,121
+Todd,Okreek,U.S House,1,Kristi Noem,REP,40
+Todd,Parmelee,U.S House,1,Kristi Noem,REP,43
+Todd,Rosebud,U.S House,1,Kristi Noem,REP,69
+Todd,S. Antelope,U.S House,1,Kristi Noem,REP,65
+Todd,Saint Francis,U.S House,1,Kristi Noem,REP,72
+Todd,Total,U.S House,1,Kristi Noem,REP,580
+Todd,Bordeaux,U.S House,1,Paula Hawks,DEM,42
+Todd,Jeanette,U.S House,1,Paula Hawks,DEM,11
+Todd,Lakeview,U.S House,1,Paula Hawks,DEM,16
+Todd,"Mission-N, Antelope",U.S House,1,Paula Hawks,DEM,378
+Todd,Okreek,U.S House,1,Paula Hawks,DEM,80
+Todd,Parmelee,U.S House,1,Paula Hawks,DEM,217
+Todd,Rosebud,U.S House,1,Paula Hawks,DEM,341
+Todd,S. Antelope,U.S House,1,Paula Hawks,DEM,180
+Todd,Saint Francis,U.S House,1,Paula Hawks,DEM,263
+Todd,Total,U.S House,1,Paula Hawks,DEM,1528
+Todd,Bordeaux,Public Utilities commissioner,,Chris Nelson,REP,10
+Todd,Jeanette,Public Utilities commissioner,,Chris Nelson,REP,64
+Todd,Lakeview,Public Utilities commissioner,,Chris Nelson,REP,94
+Todd,"Mission-N, Antelope",Public Utilities commissioner,,Chris Nelson,REP,93
+Todd,Okreek,Public Utilities commissioner,,Chris Nelson,REP,40
+Todd,Parmelee,Public Utilities commissioner,,Chris Nelson,REP,20
+Todd,Rosebud,Public Utilities commissioner,,Chris Nelson,REP,37
+Todd,S. Antelope,Public Utilities commissioner,,Chris Nelson,REP,60
+Todd,Saint Francis,Public Utilities commissioner,,Chris Nelson,REP,51
+Todd,Total,Public Utilities commissioner,,Chris Nelson,REP,469
+Todd,Bordeaux,Public Utilities commissioner,,Henry Red Cloud,DEM,44
+Todd,Jeanette,Public Utilities commissioner,,Henry Red Cloud,DEM,9
+Todd,Lakeview,Public Utilities commissioner,,Henry Red Cloud,DEM,8
+Todd,"Mission-N, Antelope",Public Utilities commissioner,,Henry Red Cloud,DEM,398
+Todd,Okreek,Public Utilities commissioner,,Henry Red Cloud,DEM,76
+Todd,Parmelee,Public Utilities commissioner,,Henry Red Cloud,DEM,238
+Todd,Rosebud,Public Utilities commissioner,,Henry Red Cloud,DEM,371
+Todd,S. Antelope,Public Utilities commissioner,,Henry Red Cloud,DEM,185
+Todd,Saint Francis,Public Utilities commissioner,,Henry Red Cloud,DEM,281
+Todd,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,1610
+Todd,Bordeaux,State Senate,26,Troy Heinert,DEM,42
+Todd,Jeanette,State Senate,26,Troy Heinert,DEM,31
+Todd,Lakeview,State Senate,26,Troy Heinert,DEM,31
+Todd,"Mission-N, Antelope",State Senate,26,Troy Heinert,DEM,368
+Todd,Okreek,State Senate,26,Troy Heinert,DEM,80
+Todd,Parmelee,State Senate,26,Troy Heinert,DEM,222
+Todd,Rosebud,State Senate,26,Troy Heinert,DEM,357
+Todd,S. Antelope,State Senate,26,Troy Heinert,DEM,184
+Todd,Saint Francis,State Senate,26,Troy Heinert,DEM,262
+Todd,Total,State Senate,26,Troy Heinert,DEM,1577
+Todd,Bordeaux,State Representative,26A,Shawn Bordeaux,DEM,42
+Todd,Jeanette,State Representative,26A,Shawn Bordeaux,DEM,21
+Todd,Lakeview,State Representative,26A,Shawn Bordeaux,DEM,22
+Todd,"Mission-N, Antelope",State Representative,26A,Shawn Bordeaux,DEM,360
+Todd,Okreek,State Representative,26A,Shawn Bordeaux,DEM,77
+Todd,Parmelee,State Representative,26A,Shawn Bordeaux,DEM,205
+Todd,Rosebud,State Representative,26A,Shawn Bordeaux,DEM,341
+Todd,S. Antelope,State Representative,26A,Shawn Bordeaux,DEM,183
+Todd,Saint Francis,State Representative,26A,Shawn Bordeaux,DEM,249
+Todd,Total,State Representative,26A,Shawn Bordeaux,DEM,1500
