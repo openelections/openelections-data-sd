@@ -1,0 +1,109 @@
+county,precinct,office,district,party,candidate,votes
+Harding,1,President,,REP,Donald J. Trump,140
+Harding,2,President,,REP,Donald J. Trump,110
+Harding,3,President,,REP,Donald J. Trump,48
+Harding,4,President,,REP,Donald J. Trump,101
+Harding,5,President,,REP,Donald J. Trump,42
+Harding,6,President,,REP,Donald J. Trump,81
+Harding,7,President,,REP,Donald J. Trump,55
+Harding,8,President,,REP,Donald J. Trump,118
+Harding,Total,President,,REP,Donald J. Trump,695
+Harding,1,President,,LIB,Gary Johnson,10
+Harding,2,President,,LIB,Gary Johnson,7
+Harding,3,President,,LIB,Gary Johnson,3
+Harding,4,President,,LIB,Gary Johnson,4
+Harding,5,President,,LIB,Gary Johnson,0
+Harding,6,President,,LIB,Gary Johnson,3
+Harding,7,President,,LIB,Gary Johnson,1
+Harding,8,President,,LIB,Gary Johnson,3
+Harding,Total,President,,LIB,Gary Johnson,31
+Harding,1,President,,DEM,Hillary Clinton,11
+Harding,2,President,,DEM,Hillary Clinton,4
+Harding,3,President,,DEM,Hillary Clinton,5
+Harding,4,President,,DEM,Hillary Clinton,7
+Harding,5,President,,DEM,Hillary Clinton,0
+Harding,6,President,,DEM,Hillary Clinton,5
+Harding,7,President,,DEM,Hillary Clinton,3
+Harding,8,President,,DEM,Hillary Clinton,3
+Harding,Total,President,,DEM,Hillary Clinton,38
+Harding,1,President,,CON,Darrell L. Castle,2
+Harding,2,President,,CON,Darrell L. Castle,1
+Harding,3,President,,CON,Darrell L. Castle,1
+Harding,4,President,,CON,Darrell L. Castle,0
+Harding,5,President,,CON,Darrell L. Castle,0
+Harding,6,President,,CON,Darrell L. Castle,2
+Harding,7,President,,CON,Darrell L. Castle,0
+Harding,8,President,,CON,Darrell L. Castle,0
+Harding,Total,President,,CON,Darrell L. Castle,6
+Harding,1,U.S. Senate,,REP,John R. Thune,141
+Harding,2,U.S. Senate,,REP,John R. Thune,96
+Harding,3,U.S. Senate,,REP,John R. Thune,53
+Harding,4,U.S. Senate,,REP,John R. Thune,101
+Harding,5,U.S. Senate,,REP,John R. Thune,41
+Harding,6,U.S. Senate,,REP,John R. Thune,79
+Harding,7,U.S. Senate,,REP,John R. Thune,53
+Harding,8,U.S. Senate,,REP,John R. Thune,120
+Harding,Total,U.S. Senate,,REP,John R. Thune,684
+Harding,1,U.S. Senate,,DEM,Jay Williams,18
+Harding,2,U.S. Senate,,DEM,Jay Williams,21
+Harding,3,U.S. Senate,,DEM,Jay Williams,4
+Harding,4,U.S. Senate,,DEM,Jay Williams,13
+Harding,5,U.S. Senate,,DEM,Jay Williams,0
+Harding,6,U.S. Senate,,DEM,Jay Williams,9
+Harding,7,U.S. Senate,,DEM,Jay Williams,5
+Harding,8,U.S. Senate,,DEM,Jay Williams,4
+Harding,Total,U.S. Senate,,DEM,Jay Williams,74
+Harding,1,U.S. House,1,REP,Kristi Noem,140
+Harding,2,U.S. House,1,REP,Kristi Noem,99
+Harding,3,U.S. House,1,REP,Kristi Noem,50
+Harding,4,U.S. House,1,REP,Kristi Noem,98
+Harding,5,U.S. House,1,REP,Kristi Noem,41
+Harding,6,U.S. House,1,REP,Kristi Noem,78
+Harding,7,U.S. House,1,REP,Kristi Noem,55
+Harding,8,U.S. House,1,REP,Kristi Noem,118
+Harding,Total,U.S. House,1,REP,Kristi Noem,679
+Harding,1,U.S. House,1,DEM,Paula Hawks,18
+Harding,2,U.S. House,1,DEM,Paula Hawks,21
+Harding,3,U.S. House,1,DEM,Paula Hawks,5
+Harding,4,U.S. House,1,DEM,Paula Hawks,16
+Harding,5,U.S. House,1,DEM,Paula Hawks,0
+Harding,6,U.S. House,1,DEM,Paula Hawks,11
+Harding,7,U.S. House,1,DEM,Paula Hawks,3
+Harding,8,U.S. House,1,DEM,Paula Hawks,3
+Harding,Total,U.S. House,1,DEM,Paula Hawks,77
+Harding,1,Public Utilities Commissioner,,REP,Chris Nelson,141
+Harding,2,Public Utilities Commissioner,,REP,Chris Nelson,102
+Harding,3,Public Utilities Commissioner,,REP,Chris Nelson,51
+Harding,4,Public Utilities Commissioner,,REP,Chris Nelson,106
+Harding,5,Public Utilities Commissioner,,REP,Chris Nelson,42
+Harding,6,Public Utilities Commissioner,,REP,Chris Nelson,84
+Harding,7,Public Utilities Commissioner,,REP,Chris Nelson,55
+Harding,8,Public Utilities Commissioner,,REP,Chris Nelson,118
+Harding,Total,Public Utilities Commissioner,,REP,Chris Nelson,699
+Harding,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,14
+Harding,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,15
+Harding,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,4
+Harding,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,8
+Harding,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,0
+Harding,6,Public Utilities Commissioner,,DEM,Henry Red Cloud,4
+Harding,7,Public Utilities Commissioner,,DEM,Henry Red Cloud,4
+Harding,8,Public Utilities Commissioner,,DEM,Henry Red Cloud,5
+Harding,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,54
+Harding,1,State Senate,28,REP,Ryan M. Maher,143
+Harding,2,State Senate,28,REP,Ryan M. Maher,108
+Harding,3,State Senate,28,REP,Ryan M. Maher,49
+Harding,4,State Senate,28,REP,Ryan M. Maher,100
+Harding,5,State Senate,28,REP,Ryan M. Maher,40
+Harding,6,State Senate,28,REP,Ryan M. Maher,85
+Harding,7,State Senate,28,REP,Ryan M. Maher,57
+Harding,8,State Senate,28,REP,Ryan M. Maher,117
+Harding,Total,State Senate,28,REP,Ryan M. Maher,699
+Harding,1,State Representative,28B,REP,Sam Marty,141
+Harding,2,State Representative,28B,REP,Sam Marty,105
+Harding,3,State Representative,28B,REP,Sam Marty,50
+Harding,4,State Representative,28B,REP,Sam Marty,98
+Harding,5,State Representative,28B,REP,Sam Marty,42
+Harding,6,State Representative,28B,REP,Sam Marty,83
+Harding,7,State Representative,28B,REP,Sam Marty,54
+Harding,8,State Representative,28B,REP,Sam Marty,116
+Harding,Total,State Representative,28B,REP,Sam Marty,689
