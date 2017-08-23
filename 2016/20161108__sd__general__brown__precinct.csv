@@ -1,0 +1,300 @@
+county,precinct,office,district,candidate,party,votes
+Brown,Absentee Precinct,President,,Donald J. Trump,REP,3338
+Brown,AmericInn Event Center,President,,Donald J. Trump,REP,1554
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Donald J. Trump,REP,1707
+Brown,Claremont Fire Station,President,,Donald J. Trump,REP,92
+Brown,Columbia American Legion,President,,Donald J. Trump,REP,181
+Brown,Courthouse Coummunity Room,President,,Donald J. Trump,REP,1348
+Brown,Frederick Community Center,President,,Donald J. Trump,REP,169
+Brown,Groton Community Center,President,,Donald J. Trump,REP,528
+Brown,Heda Community Center,President,,Donald J. Trump,REP,142
+Brown,Stratford Community Center,President,,Donald J. Trump,REP,98
+Brown,Warner Community Center,President,,Donald J. Trump,REP,298
+Brown,Westport Community Center,President,,Donald J. Trump,REP,158
+Brown,Total,President,,Donald J. Trump,REP,9613
+Brown,Absentee Precinct,President,,Gary Johnson,LIB,274
+Brown,AmericInn Event Center,President,,Gary Johnson,LIB,183
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Gary Johnson,LIB,157
+Brown,Claremont Fire Station,President,,Gary Johnson,LIB,3
+Brown,Columbia American Legion,President,,Gary Johnson,LIB,8
+Brown,Courthouse Coummunity Room,President,,Gary Johnson,LIB,191
+Brown,Frederick Community Center,President,,Gary Johnson,LIB,11
+Brown,Groton Community Center,President,,Gary Johnson,LIB,40
+Brown,Heda Community Center,President,,Gary Johnson,LIB,7
+Brown,Stratford Community Center,President,,Gary Johnson,LIB,17
+Brown,Warner Community Center,President,,Gary Johnson,LIB,18
+Brown,Westport Community Center,President,,Gary Johnson,LIB,6
+Brown,Total,President,,Gary Johnson,LIB,915
+Brown,Absentee Precinct,President,,Hillary Clinton,DEM,2337
+Brown,AmericInn Event Center,President,,Hillary Clinton,DEM,753
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Hillary Clinton,DEM,766
+Brown,Claremont Fire Station,President,,Hillary Clinton,DEM,61
+Brown,Columbia American Legion,President,,Hillary Clinton,DEM,72
+Brown,Courthouse Coummunity Room,President,,Hillary Clinton,DEM,795
+Brown,Frederick Community Center,President,,Hillary Clinton,DEM,78
+Brown,Groton Community Center,President,,Hillary Clinton,DEM,230
+Brown,Heda Community Center,President,,Hillary Clinton,DEM,77
+Brown,Stratford Community Center,President,,Hillary Clinton,DEM,58
+Brown,Warner Community Center,President,,Hillary Clinton,DEM,166
+Brown,Westport Community Center,President,,Hillary Clinton,DEM,59
+Brown,Total,President,,Hillary Clinton,DEM,5452
+Brown,Absentee Precinct,President,,Darrell L. Castle,CON,59
+Brown,AmericInn Event Center,President,,Darrell L. Castle,CON,14
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Darrell L. Castle,CON,19
+Brown,Claremont Fire Station,President,,Darrell L. Castle,CON,2
+Brown,Columbia American Legion,President,,Darrell L. Castle,CON,2
+Brown,Courthouse Coummunity Room,President,,Darrell L. Castle,CON,23
+Brown,Frederick Community Center,President,,Darrell L. Castle,CON,0
+Brown,Groton Community Center,President,,Darrell L. Castle,CON,5
+Brown,Heda Community Center,President,,Darrell L. Castle,CON,1
+Brown,Stratford Community Center,President,,Darrell L. Castle,CON,3
+Brown,Warner Community Center,President,,Darrell L. Castle,CON,5
+Brown,Westport Community Center,President,,Darrell L. Castle,CON,1
+Brown,Total,President,,Darrell L. Castle,CON,134
+Brown,Absentee Precinct,U.S Senate,,John R. Thune,REP,3949
+Brown,AmericInn Event Center,U.S Senate,,John R. Thune,REP,1846
+Brown,Best Western Ramkota Hotel and Convention Center,U.S Senate,,John R. Thune,REP,2019
+Brown,Claremont Fire Station,U.S Senate,,John R. Thune,REP,108
+Brown,Columbia American Legion,U.S Senate,,John R. Thune,REP,201
+Brown,Courthouse Coummunity Room,U.S Senate,,John R. Thune,REP,1659
+Brown,Frederick Community Center,U.S Senate,,John R. Thune,REP,195
+Brown,Groton Community Center,U.S Senate,,John R. Thune,REP,619
+Brown,Heda Community Center,U.S Senate,,John R. Thune,REP,161
+Brown,Stratford Community Center,U.S Senate,,John R. Thune,REP,116
+Brown,Warner Community Center,U.S Senate,,John R. Thune,REP,348
+Brown,Westport Community Center,U.S Senate,,John R. Thune,REP,150
+Brown,Total,U.S Senate,,John R. Thune,REP,11371
+Brown,Absentee Precinct,U.S Senate,,Jay Williams,DEM,2063
+Brown,AmericInn Event Center,U.S Senate,,Jay Williams,DEM,653
+Brown,Best Western Ramkota Hotel and Convention Center,U.S Senate,,Jay Williams,DEM,651
+Brown,Claremont Fire Station,U.S Senate,,Jay Williams,DEM,51
+Brown,Columbia American Legion,U.S Senate,,Jay Williams,DEM,61
+Brown,Courthouse Coummunity Room,U.S Senate,,Jay Williams,DEM,707
+Brown,Frederick Community Center,U.S Senate,,Jay Williams,DEM,64
+Brown,Groton Community Center,U.S Senate,,Jay Williams,DEM,192
+Brown,Heda Community Center,U.S Senate,,Jay Williams,DEM,75
+Brown,Stratford Community Center,U.S Senate,,Jay Williams,DEM,61
+Brown,Warner Community Center,U.S Senate,,Jay Williams,DEM,145
+Brown,Westport Community Center,U.S Senate,,Jay Williams,DEM,70
+Brown,Total,U.S Senate,,Jay Williams,DEM,4793
+Brown,Absentee Precinct,U.S House,1,Kristi Noem,REP,3413
+Brown,AmericInn Event Center,U.S House,1,Kristi Noem,REP,1576
+Brown,Best Western Ramkota Hotel and Convention Center,U.S House,1,Kristi Noem,REP,1746
+Brown,Claremont Fire Station,U.S House,1,Kristi Noem,REP,84
+Brown,Columbia American Legion,U.S House,1,Kristi Noem,REP,164
+Brown,Courthouse Coummunity Room,U.S House,1,Kristi Noem,REP,1389
+Brown,Frederick Community Center,U.S House,1,Kristi Noem,REP,160
+Brown,Groton Community Center,U.S House,1,Kristi Noem,REP,499
+Brown,Heda Community Center,U.S House,1,Kristi Noem,REP,127
+Brown,Stratford Community Center,U.S House,1,Kristi Noem,REP,97
+Brown,Warner Community Center,U.S House,1,Kristi Noem,REP,293
+Brown,Westport Community Center,U.S House,1,Kristi Noem,REP,128
+Brown,Total,U.S House,1,Kristi Noem,REP,9676
+Brown,Absentee Precinct,U.S House,1,Paula Hawks,DEM,2616
+Brown,AmericInn Event Center,U.S House,1,Paula Hawks,DEM,926
+Brown,Best Western Ramkota Hotel and Convention Center,U.S House,1,Paula Hawks,DEM,929
+Brown,Claremont Fire Station,U.S House,1,Paula Hawks,DEM,74
+Brown,Columbia American Legion,U.S House,1,Paula Hawks,DEM,101
+Brown,Courthouse Coummunity Room,U.S House,1,Paula Hawks,DEM,953
+Brown,Frederick Community Center,U.S House,1,Paula Hawks,DEM,99
+Brown,Groton Community Center,U.S House,1,Paula Hawks,DEM,310
+Brown,Heda Community Center,U.S House,1,Paula Hawks,DEM,109
+Brown,Stratford Community Center,U.S House,1,Paula Hawks,DEM,82
+Brown,Warner Community Center,U.S House,1,Paula Hawks,DEM,202
+Brown,Westport Community Center,U.S House,1,Paula Hawks,DEM,91
+Brown,Total,U.S House,1,Paula Hawks,DEM,6492
+Brown,Absentee Precinct,Public Utilities commissioner,,Chris Nelson,REP,4163
+Brown,AmericInn Event Center,Public Utilities commissioner,,Chris Nelson,REP,1898
+Brown,Best Western Ramkota Hotel and Convention Center,Public Utilities commissioner,,Chris Nelson,REP,2072
+Brown,Claremont Fire Station,Public Utilities commissioner,,Chris Nelson,REP,116
+Brown,Columbia American Legion,Public Utilities commissioner,,Chris Nelson,REP,204
+Brown,Courthouse Coummunity Room,Public Utilities commissioner,,Chris Nelson,REP,1640
+Brown,Frederick Community Center,Public Utilities commissioner,,Chris Nelson,REP,193
+Brown,Groton Community Center,Public Utilities commissioner,,Chris Nelson,REP,655
+Brown,Heda Community Center,Public Utilities commissioner,,Chris Nelson,REP,160
+Brown,Stratford Community Center,Public Utilities commissioner,,Chris Nelson,REP,124
+Brown,Warner Community Center,Public Utilities commissioner,,Chris Nelson,REP,388
+Brown,Westport Community Center,Public Utilities commissioner,,Chris Nelson,REP,162
+Brown,Total,Public Utilities commissioner,,Chris Nelson,REP,11775
+Brown,Absentee Precinct,Public Utilities commissioner,,Henry Red Cloud,DEM,1651
+Brown,AmericInn Event Center,Public Utilities commissioner,,Henry Red Cloud,DEM,524
+Brown,Best Western Ramkota Hotel and Convention Center,Public Utilities commissioner,,Henry Red Cloud,DEM,507
+Brown,Claremont Fire Station,Public Utilities commissioner,,Henry Red Cloud,DEM,35
+Brown,Columbia American Legion,Public Utilities commissioner,,Henry Red Cloud,DEM,55
+Brown,Courthouse Coummunity Room,Public Utilities commissioner,,Henry Red Cloud,DEM,636
+Brown,Frederick Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,56
+Brown,Groton Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,120
+Brown,Heda Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,58
+Brown,Stratford Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,44
+Brown,Warner Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,88
+Brown,Westport Community Center,Public Utilities commissioner,,Henry Red Cloud,DEM,55
+Brown,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,3829
+Brown,Absentee Precinct,State Senate,1,Jason Frerichs,DEM,240
+Brown,AmericInn Event Center,State Senate,1,Jason Frerichs,DEM,49
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,1,Jason Frerichs,DEM,204
+Brown,Claremont Fire Station,State Senate,1,Jason Frerichs,DEM,1
+Brown,Columbia American Legion,State Senate,1,Jason Frerichs,DEM,8
+Brown,Courthouse Coummunity Room,State Senate,1,Jason Frerichs,DEM,32
+Brown,Frederick Community Center,State Senate,1,Jason Frerichs,DEM,156
+Brown,Groton Community Center,State Senate,1,Jason Frerichs,DEM,0
+Brown,Heda Community Center,State Senate,1,Jason Frerichs,DEM,138
+Brown,Stratford Community Center,State Senate,1,Jason Frerichs,DEM,0
+Brown,Warner Community Center,State Senate,1,Jason Frerichs,DEM,3
+Brown,Westport Community Center,State Senate,1,Jason Frerichs,DEM,128
+Brown,Total,State Senate,1,Jason Frerichs,DEM,959
+Brown,Absentee Precinct,State Senate,2,Brock L Greenfield,REP,591
+Brown,AmericInn Event Center,State Senate,2,Brock L Greenfield,REP,144
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,2,Brock L Greenfield,REP,293
+Brown,Claremont Fire Station,State Senate,2,Brock L Greenfield,REP,90
+Brown,Columbia American Legion,State Senate,2,Brock L Greenfield,REP,159
+Brown,Courthouse Coummunity Room,State Senate,2,Brock L Greenfield,REP,271
+Brown,Frederick Community Center,State Senate,2,Brock L Greenfield,REP,0
+Brown,Groton Community Center,State Senate,2,Brock L Greenfield,REP,540
+Brown,Heda Community Center,State Senate,2,Brock L Greenfield,REP,3
+Brown,Stratford Community Center,State Senate,2,Brock L Greenfield,REP,88
+Brown,Warner Community Center,State Senate,2,Brock L Greenfield,REP,299
+Brown,Westport Community Center,State Senate,2,Brock L Greenfield,REP,4
+Brown,Total,State Senate,2,Brock L Greenfield,REP,2482
+Brown,Absentee Precinct,State Senate,3,Al Novstrup,REP,2711
+Brown,AmericInn Event Center,State Senate,3,Al Novstrup,REP,1346
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,3,Al Novstrup,REP,1175
+Brown,Claremont Fire Station,State Senate,3,Al Novstrup,REP,3
+Brown,Columbia American Legion,State Senate,3,Al Novstrup,REP,7
+Brown,Courthouse Coummunity Room,State Senate,3,Al Novstrup,REP,1079
+Brown,Frederick Community Center,State Senate,3,Al Novstrup,REP,4
+Brown,Groton Community Center,State Senate,3,Al Novstrup,REP,17
+Brown,Heda Community Center,State Senate,3,Al Novstrup,REP,3
+Brown,Stratford Community Center,State Senate,3,Al Novstrup,REP,2
+Brown,Warner Community Center,State Senate,3,Al Novstrup,REP,11
+Brown,Westport Community Center,State Senate,3,Al Novstrup,REP,6
+Brown,Total,State Senate,3,Al Novstrup,REP,6364
+Brown,Absentee Precinct,State Senate,3,Cory Allen Heidelberger,DEM,1801
+Brown,AmericInn Event Center,State Senate,3,Cory Allen Heidelberger,DEM,792
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,3,Cory Allen Heidelberger,DEM,646
+Brown,Claremont Fire Station,State Senate,3,Cory Allen Heidelberger,DEM,0
+Brown,Columbia American Legion,State Senate,3,Cory Allen Heidelberger,DEM,5
+Brown,Courthouse Coummunity Room,State Senate,3,Cory Allen Heidelberger,DEM,755
+Brown,Frederick Community Center,State Senate,3,Cory Allen Heidelberger,DEM,1
+Brown,Groton Community Center,State Senate,3,Cory Allen Heidelberger,DEM,12
+Brown,Heda Community Center,State Senate,3,Cory Allen Heidelberger,DEM,1
+Brown,Stratford Community Center,State Senate,3,Cory Allen Heidelberger,DEM,4
+Brown,Warner Community Center,State Senate,3,Cory Allen Heidelberger,DEM,8
+Brown,Westport Community Center,State Senate,3,Cory Allen Heidelberger,DEM,6
+Brown,Total,State Senate,3,Cory Allen Heidelberger,DEM,4031
+Brown,Absentee Precinct,State Representative,1,Steve McCleerey,DEM,161
+Brown,AmericInn Event Center,State Representative,1,Steve McCleerey,DEM,31
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,1,Steve McCleerey,DEM,137
+Brown,Claremont Fire Station,State Representative,1,Steve McCleerey,DEM,0
+Brown,Columbia American Legion,State Representative,1,Steve McCleerey,DEM,4
+Brown,Courthouse Coummunity Room,State Representative,1,Steve McCleerey,DEM,21
+Brown,Frederick Community Center,State Representative,1,Steve McCleerey,DEM,118
+Brown,Groton Community Center,State Representative,1,Steve McCleerey,DEM,0
+Brown,Heda Community Center,State Representative,1,Steve McCleerey,DEM,88
+Brown,Stratford Community Center,State Representative,1,Steve McCleerey,DEM,0
+Brown,Warner Community Center,State Representative,1,Steve McCleerey,DEM,2
+Brown,Westport Community Center,State Representative,1,Steve McCleerey,DEM,89
+Brown,Total,State Representative,1,Steve McCleerey,DEM,651
+Brown,Absentee Precinct,State Representative,1,Susan Wismer,DEM,199
+Brown,AmericInn Event Center,State Representative,1,Susan Wismer,DEM,36
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,1,Susan Wismer,DEM,166
+Brown,Claremont Fire Station,State Representative,1,Susan Wismer,DEM,3
+Brown,Columbia American Legion,State Representative,1,Susan Wismer,DEM,6
+Brown,Courthouse Coummunity Room,State Representative,1,Susan Wismer,DEM,26
+Brown,Frederick Community Center,State Representative,1,Susan Wismer,DEM,119
+Brown,Groton Community Center,State Representative,1,Susan Wismer,DEM,0
+Brown,Heda Community Center,State Representative,1,Susan Wismer,DEM,155
+Brown,Stratford Community Center,State Representative,1,Susan Wismer,DEM,0
+Brown,Warner Community Center,State Representative,1,Susan Wismer,DEM,3
+Brown,Westport Community Center,State Representative,1,Susan Wismer,DEM,101
+Brown,Total,State Representative,1,Susan Wismer,DEM,814
+Brown,Absentee Precinct,State Representative,2,Burt Tulson,REP,453
+Brown,AmericInn Event Center,State Representative,2,Burt Tulson,REP,99
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,2,Burt Tulson,REP,197
+Brown,Claremont Fire Station,State Representative,2,Burt Tulson,REP,71
+Brown,Columbia American Legion,State Representative,2,Burt Tulson,REP,126
+Brown,Courthouse Coummunity Room,State Representative,2,Burt Tulson,REP,182
+Brown,Frederick Community Center,State Representative,2,Burt Tulson,REP,0
+Brown,Groton Community Center,State Representative,2,Burt Tulson,REP,416
+Brown,Heda Community Center,State Representative,2,Burt Tulson,REP,1
+Brown,Stratford Community Center,State Representative,2,Burt Tulson,REP,82
+Brown,Warner Community Center,State Representative,2,Burt Tulson,REP,229
+Brown,Westport Community Center,State Representative,2,Burt Tulson,REP,2
+Brown,Total,State Representative,2,Burt Tulson,REP,1858
+Brown,Absentee Precinct,State Representative,2,Lana Greenfield,REP,488
+Brown,AmericInn Event Center,State Representative,2,Lana Greenfield,REP,112
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,2,Lana Greenfield,REP,231
+Brown,Claremont Fire Station,State Representative,2,Lana Greenfield,REP,78
+Brown,Columbia American Legion,State Representative,2,Lana Greenfield,REP,132
+Brown,Courthouse Coummunity Room,State Representative,2,Lana Greenfield,REP,202
+Brown,Frederick Community Center,State Representative,2,Lana Greenfield,REP,0
+Brown,Groton Community Center,State Representative,2,Lana Greenfield,REP,482
+Brown,Heda Community Center,State Representative,2,Lana Greenfield,REP,3
+Brown,Stratford Community Center,State Representative,2,Lana Greenfield,REP,75
+Brown,Warner Community Center,State Representative,2,Lana Greenfield,REP,229
+Brown,Westport Community Center,State Representative,2,Lana Greenfield,REP,4
+Brown,Total,State Representative,2,Lana Greenfield,REP,2036
+Brown,Absentee Precinct,State Representative,2,John Graham,DEM,374
+Brown,AmericInn Event Center,State Representative,2,John Graham,DEM,69
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,2,John Graham,DEM,122
+Brown,Claremont Fire Station,State Representative,2,John Graham,DEM,58
+Brown,Columbia American Legion,State Representative,2,John Graham,DEM,85
+Brown,Courthouse Coummunity Room,State Representative,2,John Graham,DEM,178
+Brown,Frederick Community Center,State Representative,2,John Graham,DEM,0
+Brown,Groton Community Center,State Representative,2,John Graham,DEM,268
+Brown,Heda Community Center,State Representative,2,John Graham,DEM,2
+Brown,Stratford Community Center,State Representative,2,John Graham,DEM,88
+Brown,Warner Community Center,State Representative,2,John Graham,DEM,217
+Brown,Westport Community Center,State Representative,2,John Graham,DEM,3
+Brown,Total,State Representative,2,John Graham,DEM,1464
+Brown,Absentee Precinct,State Representative,3,Drew Dennert,REP,2674
+Brown,AmericInn Event Center,State Representative,3,Drew Dennert,REP,1374
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,3,Drew Dennert,REP,1186
+Brown,Claremont Fire Station,State Representative,3,Drew Dennert,REP,3
+Brown,Columbia American Legion,State Representative,3,Drew Dennert,REP,10
+Brown,Courthouse Coummunity Room,State Representative,3,Drew Dennert,REP,1065
+Brown,Frederick Community Center,State Representative,3,Drew Dennert,REP,5
+Brown,Groton Community Center,State Representative,3,Drew Dennert,REP,21
+Brown,Heda Community Center,State Representative,3,Drew Dennert,REP,3
+Brown,Stratford Community Center,State Representative,3,Drew Dennert,REP,3
+Brown,Warner Community Center,State Representative,3,Drew Dennert,REP,9
+Brown,Westport Community Center,State Representative,3,Drew Dennert,REP,8
+Brown,Total,State Representative,3,Drew Dennert,REP,6361
+Brown,Absentee Precinct,State Representative,3,Daniel Kaiser,REP,2762
+Brown,AmericInn Event Center,State Representative,3,Daniel Kaiser,REP,1415
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,3,Daniel Kaiser,REP,1225
+Brown,Claremont Fire Station,State Representative,3,Daniel Kaiser,REP,2
+Brown,Columbia American Legion,State Representative,3,Daniel Kaiser,REP,5
+Brown,Courthouse Coummunity Room,State Representative,3,Daniel Kaiser,REP,1136
+Brown,Frederick Community Center,State Representative,3,Daniel Kaiser,REP,6
+Brown,Groton Community Center,State Representative,3,Daniel Kaiser,REP,16
+Brown,Heda Community Center,State Representative,3,Daniel Kaiser,REP,2
+Brown,Stratford Community Center,State Representative,3,Daniel Kaiser,REP,1
+Brown,Warner Community Center,State Representative,3,Daniel Kaiser,REP,9
+Brown,Westport Community Center,State Representative,3,Daniel Kaiser,REP,9
+Brown,Total,State Representative,3,Daniel Kaiser,REP,6588
+Brown,Absentee Precinct,State Representative,3,Brooks Briscoe,DEM,1654
+Brown,AmericInn Event Center,State Representative,3,Brooks Briscoe,DEM,628
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,3,Brooks Briscoe,DEM,512
+Brown,Claremont Fire Station,State Representative,3,Brooks Briscoe,DEM,1
+Brown,Columbia American Legion,State Representative,3,Brooks Briscoe,DEM,3
+Brown,Courthouse Coummunity Room,State Representative,3,Brooks Briscoe,DEM,619
+Brown,Frederick Community Center,State Representative,3,Brooks Briscoe,DEM,1
+Brown,Groton Community Center,State Representative,3,Brooks Briscoe,DEM,7
+Brown,Heda Community Center,State Representative,3,Brooks Briscoe,DEM,1
+Brown,Stratford Community Center,State Representative,3,Brooks Briscoe,DEM,4
+Brown,Warner Community Center,State Representative,3,Brooks Briscoe,DEM,7
+Brown,Westport Community Center,State Representative,3,Brooks Briscoe,DEM,4
+Brown,Total,State Representative,3,Brooks Briscoe,DEM,3441
+Brown,Absentee Precinct,State Representative,3,Nikki Bootz,DEM,1317
+Brown,AmericInn Event Center,State Representative,3,Nikki Bootz,DEM,519
+Brown,Best Western Ramkota Hotel and Convention Center,State Representative,3,Nikki Bootz,DEM,405
+Brown,Claremont Fire Station,State Representative,3,Nikki Bootz,DEM,0
+Brown,Columbia American Legion,State Representative,3,Nikki Bootz,DEM,2
+Brown,Courthouse Coummunity Room,State Representative,3,Nikki Bootz,DEM,521
+Brown,Frederick Community Center,State Representative,3,Nikki Bootz,DEM,0
+Brown,Groton Community Center,State Representative,3,Nikki Bootz,DEM,9
+Brown,Heda Community Center,State Representative,3,Nikki Bootz,DEM,1
+Brown,Stratford Community Center,State Representative,3,Nikki Bootz,DEM,2
+Brown,Warner Community Center,State Representative,3,Nikki Bootz,DEM,6
+Brown,Westport Community Center,State Representative,3,Nikki Bootz,DEM,2
+Brown,Total,State Representative,3,Nikki Bootz,DEM,2784

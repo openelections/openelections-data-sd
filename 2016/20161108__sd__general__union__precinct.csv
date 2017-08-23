@@ -1,0 +1,225 @@
+county,precinct,office,district,candidate,party,votes
+Union,1,President,,Donald J. Trump,REP,238
+Union,2,President,,Donald J. Trump,REP,238
+Union,3,President,,Donald J. Trump,REP,456
+Union,4,President,,Donald J. Trump,REP,233
+Union,5,President,,Donald J. Trump,REP,316
+Union,6,President,,Donald J. Trump,REP,400
+Union,7,President,,Donald J. Trump,REP,413
+Union,8,President,,Donald J. Trump,REP,305
+Union,9,President,,Donald J. Trump,REP,285
+Union,10,President,,Donald J. Trump,REP,418
+Union,11,President,,Donald J. Trump,REP,462
+Union,12,President,,Donald J. Trump,REP,636
+Union,13,President,,Donald J. Trump,REP,890
+Union,Total,President,,Donald J. Trump,REP,5290
+Union,1,President,,Gary Johnson,LIB,10
+Union,2,President,,Gary Johnson,LIB,15
+Union,3,President,,Gary Johnson,LIB,41
+Union,4,President,,Gary Johnson,LIB,17
+Union,5,President,,Gary Johnson,LIB,22
+Union,6,President,,Gary Johnson,LIB,20
+Union,7,President,,Gary Johnson,LIB,26
+Union,8,President,,Gary Johnson,LIB,27
+Union,9,President,,Gary Johnson,LIB,16
+Union,10,President,,Gary Johnson,LIB,25
+Union,11,President,,Gary Johnson,LIB,32
+Union,12,President,,Gary Johnson,LIB,24
+Union,13,President,,Gary Johnson,LIB,37
+Union,Total,President,,Gary Johnson,LIB,312
+Union,1,President,,Hillary Clinton,DEM,90
+Union,2,President,,Hillary Clinton,DEM,125
+Union,3,President,,Hillary Clinton,DEM,239
+Union,4,President,,Hillary Clinton,DEM,131
+Union,5,President,,Hillary Clinton,DEM,137
+Union,6,President,,Hillary Clinton,DEM,184
+Union,7,President,,Hillary Clinton,DEM,128
+Union,8,President,,Hillary Clinton,DEM,131
+Union,9,President,,Hillary Clinton,DEM,146
+Union,10,President,,Hillary Clinton,DEM,208
+Union,11,President,,Hillary Clinton,DEM,224
+Union,12,President,,Hillary Clinton,DEM,175
+Union,13,President,,Hillary Clinton,DEM,309
+Union,Total,President,,Hillary Clinton,DEM,2227
+Union,1,President,,Darrell L. Castle,CON,4
+Union,2,President,,Darrell L. Castle,CON,2
+Union,3,President,,Darrell L. Castle,CON,15
+Union,4,President,,Darrell L. Castle,CON,3
+Union,5,President,,Darrell L. Castle,CON,8
+Union,6,President,,Darrell L. Castle,CON,7
+Union,7,President,,Darrell L. Castle,CON,5
+Union,8,President,,Darrell L. Castle,CON,4
+Union,9,President,,Darrell L. Castle,CON,3
+Union,10,President,,Darrell L. Castle,CON,4
+Union,11,President,,Darrell L. Castle,CON,3
+Union,12,President,,Darrell L. Castle,CON,6
+Union,13,President,,Darrell L. Castle,CON,4
+Union,Total,President,,Darrell L. Castle,CON,68
+Union,1,U.S Senate,,John R. Thune,REP,280
+Union,2,U.S Senate,,John R. Thune,REP,279
+Union,3,U.S Senate,,John R. Thune,REP,549
+Union,4,U.S Senate,,John R. Thune,REP,271
+Union,5,U.S Senate,,John R. Thune,REP,345
+Union,6,U.S Senate,,John R. Thune,REP,465
+Union,7,U.S Senate,,John R. Thune,REP,460
+Union,8,U.S Senate,,John R. Thune,REP,382
+Union,9,U.S Senate,,John R. Thune,REP,327
+Union,10,U.S Senate,,John R. Thune,REP,443
+Union,11,U.S Senate,,John R. Thune,REP,537
+Union,12,U.S Senate,,John R. Thune,REP,738
+Union,13,U.S Senate,,John R. Thune,REP,984
+Union,Total,U.S Senate,,John R. Thune,REP,6060
+Union,1,U.S Senate,,Jay Williams,DEM,64
+Union,2,U.S Senate,,Jay Williams,DEM,106
+Union,3,U.S Senate,,Jay Williams,DEM,206
+Union,4,U.S Senate,,Jay Williams,DEM,111
+Union,5,U.S Senate,,Jay Williams,DEM,134
+Union,6,U.S Senate,,Jay Williams,DEM,154
+Union,7,U.S Senate,,Jay Williams,DEM,98
+Union,8,U.S Senate,,Jay Williams,DEM,90
+Union,9,U.S Senate,,Jay Williams,DEM,112
+Union,10,U.S Senate,,Jay Williams,DEM,192
+Union,11,U.S Senate,,Jay Williams,DEM,180
+Union,12,U.S Senate,,Jay Williams,DEM,113
+Union,13,U.S Senate,,Jay Williams,DEM,233
+Union,Total,U.S Senate,,Jay Williams,DEM,1793
+Union,1,U.S House,1,Kristi Noem,REP,254
+Union,2,U.S House,1,Kristi Noem,REP,248
+Union,3,U.S House,1,Kristi Noem,REP,517
+Union,4,U.S House,1,Kristi Noem,REP,254
+Union,5,U.S House,1,Kristi Noem,REP,303
+Union,6,U.S House,1,Kristi Noem,REP,422
+Union,7,U.S House,1,Kristi Noem,REP,452
+Union,8,U.S House,1,Kristi Noem,REP,367
+Union,9,U.S House,1,Kristi Noem,REP,314
+Union,10,U.S House,1,Kristi Noem,REP,423
+Union,11,U.S House,1,Kristi Noem,REP,516
+Union,12,U.S House,1,Kristi Noem,REP,723
+Union,13,U.S House,1,Kristi Noem,REP,965
+Union,Total,U.S House,1,Kristi Noem,REP,5758
+Union,1,U.S House,1,Paula Hawks,DEM,88
+Union,2,U.S House,1,Paula Hawks,DEM,144
+Union,3,U.S House,1,Paula Hawks,DEM,236
+Union,4,U.S House,1,Paula Hawks,DEM,124
+Union,5,U.S House,1,Paula Hawks,DEM,176
+Union,6,U.S House,1,Paula Hawks,DEM,201
+Union,7,U.S House,1,Paula Hawks,DEM,106
+Union,8,U.S House,1,Paula Hawks,DEM,105
+Union,9,U.S House,1,Paula Hawks,DEM,125
+Union,10,U.S House,1,Paula Hawks,DEM,205
+Union,11,U.S House,1,Paula Hawks,DEM,197
+Union,12,U.S House,1,Paula Hawks,DEM,120
+Union,13,U.S House,1,Paula Hawks,DEM,250
+Union,Total,U.S House,1,Paula Hawks,DEM,2077
+Union,1,Public Utilities commissioner,,Chris Nelson,REP,256
+Union,2,Public Utilities commissioner,,Chris Nelson,REP,289
+Union,3,Public Utilities commissioner,,Chris Nelson,REP,529
+Union,4,Public Utilities commissioner,,Chris Nelson,REP,265
+Union,5,Public Utilities commissioner,,Chris Nelson,REP,367
+Union,6,Public Utilities commissioner,,Chris Nelson,REP,495
+Union,7,Public Utilities commissioner,,Chris Nelson,REP,442
+Union,8,Public Utilities commissioner,,Chris Nelson,REP,364
+Union,9,Public Utilities commissioner,,Chris Nelson,REP,302
+Union,10,Public Utilities commissioner,,Chris Nelson,REP,412
+Union,11,Public Utilities commissioner,,Chris Nelson,REP,484
+Union,12,Public Utilities commissioner,,Chris Nelson,REP,718
+Union,13,Public Utilities commissioner,,Chris Nelson,REP,944
+Union,Total,Public Utilities commissioner,,Chris Nelson,REP,5867
+Union,1,Public Utilities commissioner,,Henry Red Cloud,DEM,69
+Union,2,Public Utilities commissioner,,Henry Red Cloud,DEM,95
+Union,3,Public Utilities commissioner,,Henry Red Cloud,DEM,206
+Union,4,Public Utilities commissioner,,Henry Red Cloud,DEM,104
+Union,5,Public Utilities commissioner,,Henry Red Cloud,DEM,104
+Union,6,Public Utilities commissioner,,Henry Red Cloud,DEM,102
+Union,7,Public Utilities commissioner,,Henry Red Cloud,DEM,97
+Union,8,Public Utilities commissioner,,Henry Red Cloud,DEM,83
+Union,9,Public Utilities commissioner,,Henry Red Cloud,DEM,121
+Union,10,Public Utilities commissioner,,Henry Red Cloud,DEM,199
+Union,11,Public Utilities commissioner,,Henry Red Cloud,DEM,197
+Union,12,Public Utilities commissioner,,Henry Red Cloud,DEM,104
+Union,13,Public Utilities commissioner,,Henry Red Cloud,DEM,231
+Union,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,1712
+Union,1,State Senate,16,Jim Bolin,REP,245
+Union,2,State Senate,16,Jim Bolin,REP,251
+Union,3,State Senate,16,Jim Bolin,REP,497
+Union,4,State Senate,16,Jim Bolin,REP,235
+Union,5,State Senate,16,Jim Bolin,REP,311
+Union,6,State Senate,16,Jim Bolin,REP,421
+Union,7,State Senate,16,Jim Bolin,REP,424
+Union,8,State Senate,16,Jim Bolin,REP,357
+Union,9,State Senate,16,Jim Bolin,REP,302
+Union,10,State Senate,16,Jim Bolin,REP,388
+Union,11,State Senate,16,Jim Bolin,REP,477
+Union,12,State Senate,16,Jim Bolin,REP,687
+Union,13,State Senate,16,Jim Bolin,REP,923
+Union,Total,State Senate,16,Jim Bolin,REP,5518
+Union,1,State Senate,16,Chad Skiles,DEM,78
+Union,2,State Senate,16,Chad Skiles,DEM,122
+Union,3,State Senate,16,Chad Skiles,DEM,236
+Union,4,State Senate,16,Chad Skiles,DEM,128
+Union,5,State Senate,16,Chad Skiles,DEM,155
+Union,6,State Senate,16,Chad Skiles,DEM,180
+Union,7,State Senate,16,Chad Skiles,DEM,116
+Union,8,State Senate,16,Chad Skiles,DEM,95
+Union,9,State Senate,16,Chad Skiles,DEM,125
+Union,10,State Senate,16,Chad Skiles,DEM,225
+Union,11,State Senate,16,Chad Skiles,DEM,203
+Union,12,State Senate,16,Chad Skiles,DEM,136
+Union,13,State Senate,16,Chad Skiles,DEM,260
+Union,Total,State Senate,16,Chad Skiles,DEM,2059
+Union,1,State Representative,16,David L. Anderson,REP,199
+Union,2,State Representative,16,David L. Anderson,REP,202
+Union,3,State Representative,16,David L. Anderson,REP,305
+Union,4,State Representative,16,David L. Anderson,REP,178
+Union,5,State Representative,16,David L. Anderson,REP,230
+Union,6,State Representative,16,David L. Anderson,REP,298
+Union,7,State Representative,16,David L. Anderson,REP,352
+Union,8,State Representative,16,David L. Anderson,REP,226
+Union,9,State Representative,16,David L. Anderson,REP,187
+Union,10,State Representative,16,David L. Anderson,REP,278
+Union,11,State Representative,16,David L. Anderson,REP,372
+Union,12,State Representative,16,David L. Anderson,REP,609
+Union,13,State Representative,16,David L. Anderson,REP,809
+Union,Total,State Representative,16,David L. Anderson,REP,4245
+Union,1,State Representative,16,Kevin D Jensen,REP,163
+Union,2,State Representative,16,Kevin D Jensen,REP,143
+Union,3,State Representative,16,Kevin D Jensen,REP,308
+Union,4,State Representative,16,Kevin D Jensen,REP,181
+Union,5,State Representative,16,Kevin D Jensen,REP,205
+Union,6,State Representative,16,Kevin D Jensen,REP,249
+Union,7,State Representative,16,Kevin D Jensen,REP,340
+Union,8,State Representative,16,Kevin D Jensen,REP,216
+Union,9,State Representative,16,Kevin D Jensen,REP,190
+Union,10,State Representative,16,Kevin D Jensen,REP,274
+Union,11,State Representative,16,Kevin D Jensen,REP,352
+Union,12,State Representative,16,Kevin D Jensen,REP,575
+Union,13,State Representative,16,Kevin D Jensen,REP,748
+Union,Total,State Representative,16,Kevin D Jensen,REP,3944
+Union,1,State Representative,16,Ted Curry,DEM,72
+Union,2,State Representative,16,Ted Curry,DEM,96
+Union,3,State Representative,16,Ted Curry,DEM,349
+Union,4,State Representative,16,Ted Curry,DEM,128
+Union,5,State Representative,16,Ted Curry,DEM,104
+Union,6,State Representative,16,Ted Curry,DEM,117
+Union,7,State Representative,16,Ted Curry,DEM,125
+Union,8,State Representative,16,Ted Curry,DEM,179
+Union,9,State Representative,16,Ted Curry,DEM,173
+Union,10,State Representative,16,Ted Curry,DEM,201
+Union,11,State Representative,16,Ted Curry,DEM,212
+Union,12,State Representative,16,Ted Curry,DEM,141
+Union,13,State Representative,16,Ted Curry,DEM,253
+Union,Total,State Representative,16,Ted Curry,DEM,2150
+Union,1,State Representative,16,Ann Tornberg,DEM,135
+Union,2,State Representative,16,Ann Tornberg,DEM,214
+Union,3,State Representative,16,Ann Tornberg,DEM,320
+Union,4,State Representative,16,Ann Tornberg,DEM,179
+Union,5,State Representative,16,Ann Tornberg,DEM,253
+Union,6,State Representative,16,Ann Tornberg,DEM,371
+Union,7,State Representative,16,Ann Tornberg,DEM,142
+Union,8,State Representative,16,Ann Tornberg,DEM,173
+Union,9,State Representative,16,Ann Tornberg,DEM,196
+Union,10,State Representative,16,Ann Tornberg,DEM,249
+Union,11,State Representative,16,Ann Tornberg,DEM,237
+Union,12,State Representative,16,Ann Tornberg,DEM,177
+Union,13,State Representative,16,Ann Tornberg,DEM,287
+Union,Total,State Representative,16,Ann Tornberg,DEM,2933

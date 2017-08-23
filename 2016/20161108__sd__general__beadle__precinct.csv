@@ -1,0 +1,177 @@
+county,precinct,office,district,candidate,party,votes
+Beadle,12,President,,Donald J. Trump,REP,616
+Beadle,15,President,,Donald J. Trump,REP,223
+Beadle,17,President,,Donald J. Trump,REP,202
+Beadle,W1,President,,Donald J. Trump,REP,817
+Beadle,W2,President,,Donald J. Trump,REP,365
+Beadle,W3,President,,Donald J. Trump,REP,377
+Beadle,W7-1,President,,Donald J. Trump,REP,534
+Beadle,W7-2,President,,Donald J. Trump,REP,505
+Beadle,W8-1,President,,Donald J. Trump,REP,354
+Beadle,W8-2,President,,Donald J. Trump,REP,462
+Beadle,Total,President,,Donald J. Trump,REP,4455
+Beadle,12,President,,Gary Johnson,LIB,38
+Beadle,15,President,,Gary Johnson,LIB,3
+Beadle,17,President,,Gary Johnson,LIB,22
+Beadle,W1,President,,Gary Johnson,LIB,63
+Beadle,W2,President,,Gary Johnson,LIB,43
+Beadle,W3,President,,Gary Johnson,LIB,29
+Beadle,W7-1,President,,Gary Johnson,LIB,33
+Beadle,W7-2,President,,Gary Johnson,LIB,35
+Beadle,W8-1,President,,Gary Johnson,LIB,27
+Beadle,W8-2,President,,Gary Johnson,LIB,30
+Beadle,Total,President,,Gary Johnson,LIB,323
+Beadle,12,President,,Hillary Clinton,DEM,181
+Beadle,15,President,,Hillary Clinton,DEM,28
+Beadle,17,President,,Hillary Clinton,DEM,60
+Beadle,W1,President,,Hillary Clinton,DEM,330
+Beadle,W2,President,,Hillary Clinton,DEM,230
+Beadle,W3,President,,Hillary Clinton,DEM,212
+Beadle,W7-1,President,,Hillary Clinton,DEM,223
+Beadle,W7-2,President,,Hillary Clinton,DEM,212
+Beadle,W8-1,President,,Hillary Clinton,DEM,233
+Beadle,W8-2,President,,Hillary Clinton,DEM,203
+Beadle,Total,President,,Hillary Clinton,DEM,1912
+Beadle,12,President,,Darrell L. Castle,CON,14
+Beadle,15,President,,Darrell L. Castle,CON,0
+Beadle,17,President,,Darrell L. Castle,CON,1
+Beadle,W1,President,,Darrell L. Castle,CON,16
+Beadle,W2,President,,Darrell L. Castle,CON,12
+Beadle,W3,President,,Darrell L. Castle,CON,9
+Beadle,W7-1,President,,Darrell L. Castle,CON,5
+Beadle,W7-2,President,,Darrell L. Castle,CON,7
+Beadle,W8-1,President,,Darrell L. Castle,CON,7
+Beadle,W8-2,President,,Darrell L. Castle,CON,11
+Beadle,Total,President,,Darrell L. Castle,CON,82
+Beadle,12,U.S Senate,,John R. Thune,REP,677
+Beadle,15,U.S Senate,,John R. Thune,REP,228
+Beadle,17,U.S Senate,,John R. Thune,REP,228
+Beadle,W1,U.S Senate,,John R. Thune,REP,900
+Beadle,W2,U.S Senate,,John R. Thune,REP,405
+Beadle,W3,U.S Senate,,John R. Thune,REP,437
+Beadle,W7-1,U.S Senate,,John R. Thune,REP,599
+Beadle,W7-2,U.S Senate,,John R. Thune,REP,584
+Beadle,W8-1,U.S Senate,,John R. Thune,REP,453
+Beadle,W8-2,U.S Senate,,John R. Thune,REP,538
+Beadle,Total,U.S Senate,,John R. Thune,REP,5049
+Beadle,12,U.S Senate,,Jay Williams,DEM,184
+Beadle,15,U.S Senate,,Jay Williams,DEM,26
+Beadle,17,U.S Senate,,Jay Williams,DEM,60
+Beadle,W1,U.S Senate,,Jay Williams,DEM,348
+Beadle,W2,U.S Senate,,Jay Williams,DEM,245
+Beadle,W3,U.S Senate,,Jay Williams,DEM,188
+Beadle,W7-1,U.S Senate,,Jay Williams,DEM,203
+Beadle,W7-2,U.S Senate,,Jay Williams,DEM,200
+Beadle,W8-1,U.S Senate,,Jay Williams,DEM,182
+Beadle,W8-2,U.S Senate,,Jay Williams,DEM,173
+Beadle,Total,U.S Senate,,Jay Williams,DEM,1809
+Beadle,12,U.S House,1,Kristi Noem,REP,593
+Beadle,15,U.S House,1,Kristi Noem,REP,214
+Beadle,17,U.S House,1,Kristi Noem,REP,194
+Beadle,W1,U.S House,1,Kristi Noem,REP,828
+Beadle,W2,U.S House,1,Kristi Noem,REP,368
+Beadle,W3,U.S House,1,Kristi Noem,REP,385
+Beadle,W7-1,U.S House,1,Kristi Noem,REP,521
+Beadle,W7-2,U.S House,1,Kristi Noem,REP,534
+Beadle,W8-1,U.S House,1,Kristi Noem,REP,376
+Beadle,W8-2,U.S House,1,Kristi Noem,REP,478
+Beadle,Total,U.S House,1,Kristi Noem,REP,4491
+Beadle,12,U.S House,1,Paula Hawks,DEM,261
+Beadle,15,U.S House,1,Paula Hawks,DEM,35
+Beadle,17,U.S House,1,Paula Hawks,DEM,92
+Beadle,W1,U.S House,1,Paula Hawks,DEM,417
+Beadle,W2,U.S House,1,Paula Hawks,DEM,278
+Beadle,W3,U.S House,1,Paula Hawks,DEM,240
+Beadle,W7-1,U.S House,1,Paula Hawks,DEM,277
+Beadle,W7-2,U.S House,1,Paula Hawks,DEM,252
+Beadle,W8-1,U.S House,1,Paula Hawks,DEM,253
+Beadle,W8-2,U.S House,1,Paula Hawks,DEM,235
+Beadle,Total,U.S House,1,Paula Hawks,DEM,2340
+Beadle,12,Public Utilities commissioner,,Chris Nelson,REP,726
+Beadle,15,Public Utilities commissioner,,Chris Nelson,REP,228
+Beadle,17,Public Utilities commissioner,,Chris Nelson,REP,223
+Beadle,W1,Public Utilities commissioner,,Chris Nelson,REP,946
+Beadle,W2,Public Utilities commissioner,,Chris Nelson,REP,432
+Beadle,W3,Public Utilities commissioner,,Chris Nelson,REP,462
+Beadle,W7-1,Public Utilities commissioner,,Chris Nelson,REP,644
+Beadle,W7-2,Public Utilities commissioner,,Chris Nelson,REP,643
+Beadle,W8-1,Public Utilities commissioner,,Chris Nelson,REP,488
+Beadle,W8-2,Public Utilities commissioner,,Chris Nelson,REP,584
+Beadle,Total,Public Utilities commissioner,,Chris Nelson,REP,5376
+Beadle,12,Public Utilities commissioner,,Henry Red Cloud,DEM,115
+Beadle,15,Public Utilities commissioner,,Henry Red Cloud,DEM,18
+Beadle,17,Public Utilities commissioner,,Henry Red Cloud,DEM,58
+Beadle,W1,Public Utilities commissioner,,Henry Red Cloud,DEM,276
+Beadle,W2,Public Utilities commissioner,,Henry Red Cloud,DEM,208
+Beadle,W3,Public Utilities commissioner,,Henry Red Cloud,DEM,142
+Beadle,W7-1,Public Utilities commissioner,,Henry Red Cloud,DEM,140
+Beadle,W7-2,Public Utilities commissioner,,Henry Red Cloud,DEM,132
+Beadle,W8-1,Public Utilities commissioner,,Henry Red Cloud,DEM,123
+Beadle,W8-2,Public Utilities commissioner,,Henry Red Cloud,DEM,119
+Beadle,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,1331
+Beadle,12,State Senate,22,Jim White,REP,691
+Beadle,15,State Senate,22,Jim White,REP,216
+Beadle,17,State Senate,22,Jim White,REP,202
+Beadle,W1,State Senate,22,Jim White,REP,911
+Beadle,W2,State Senate,22,Jim White,REP,397
+Beadle,W3,State Senate,22,Jim White,REP,408
+Beadle,W7-1,State Senate,22,Jim White,REP,580
+Beadle,W7-2,State Senate,22,Jim White,REP,604
+Beadle,W8-1,State Senate,22,Jim White,REP,466
+Beadle,W8-2,State Senate,22,Jim White,REP,529
+Beadle,Total,State Senate,22,Jim White,REP,5004
+Beadle,12,State Senate,22,Eric Bliss,DEM,155
+Beadle,15,State Senate,22,Eric Bliss,DEM,32
+Beadle,17,State Senate,22,Eric Bliss,DEM,75
+Beadle,W1,State Senate,22,Eric Bliss,DEM,312
+Beadle,W2,State Senate,22,Eric Bliss,DEM,246
+Beadle,W3,State Senate,22,Eric Bliss,DEM,214
+Beadle,W7-1,State Senate,22,Eric Bliss,DEM,208
+Beadle,W7-2,State Senate,22,Eric Bliss,DEM,172
+Beadle,W8-1,State Senate,22,Eric Bliss,DEM,156
+Beadle,W8-2,State Senate,22,Eric Bliss,DEM,179
+Beadle,Total,State Senate,22,Eric Bliss,DEM,1749
+Beadle,12,State Representative,22,Roger Chase,REP,488
+Beadle,15,State Representative,22,Roger Chase,REP,166
+Beadle,17,State Representative,22,Roger Chase,REP,149
+Beadle,W1,State Representative,22,Roger Chase,REP,732
+Beadle,W2,State Representative,22,Roger Chase,REP,309
+Beadle,W3,State Representative,22,Roger Chase,REP,318
+Beadle,W7-1,State Representative,22,Roger Chase,REP,470
+Beadle,W7-2,State Representative,22,Roger Chase,REP,480
+Beadle,W8-1,State Representative,22,Roger Chase,REP,360
+Beadle,W8-2,State Representative,22,Roger Chase,REP,414
+Beadle,Total,State Representative,22,Roger Chase,REP,3886
+Beadle,12,State Representative,22,Bob Glanzer,REP,594
+Beadle,15,State Representative,22,Bob Glanzer,REP,209
+Beadle,17,State Representative,22,Bob Glanzer,REP,203
+Beadle,W1,State Representative,22,Bob Glanzer,REP,898
+Beadle,W2,State Representative,22,Bob Glanzer,REP,383
+Beadle,W3,State Representative,22,Bob Glanzer,REP,417
+Beadle,W7-1,State Representative,22,Bob Glanzer,REP,568
+Beadle,W7-2,State Representative,22,Bob Glanzer,REP,583
+Beadle,W8-1,State Representative,22,Bob Glanzer,REP,425
+Beadle,W8-2,State Representative,22,Bob Glanzer,REP,519
+Beadle,Total,State Representative,22,Bob Glanzer,REP,4799
+Beadle,12,State Representative,22,Joan Wolischlager,DEM,235
+Beadle,15,State Representative,22,Joan Wolischlager,DEM,43
+Beadle,17,State Representative,22,Joan Wolischlager,DEM,80
+Beadle,W1,State Representative,22,Joan Wolischlager,DEM,349
+Beadle,W2,State Representative,22,Joan Wolischlager,DEM,236
+Beadle,W3,State Representative,22,Joan Wolischlager,DEM,211
+Beadle,W7-1,State Representative,22,Joan Wolischlager,DEM,227
+Beadle,W7-2,State Representative,22,Joan Wolischlager,DEM,238
+Beadle,W8-1,State Representative,22,Joan Wolischlager,DEM,207
+Beadle,W8-2,State Representative,22,Joan Wolischlager,DEM,198
+Beadle,Total,State Representative,22,Joan Wolischlager,DEM,2024
+Beadle,12,State Representative,22,Carmen Dannenbring,DEM,167
+Beadle,15,State Representative,22,Carmen Dannenbring,DEM,27
+Beadle,17,State Representative,22,Carmen Dannenbring,DEM,54
+Beadle,W1,State Representative,22,Carmen Dannenbring,DEM,231
+Beadle,W2,State Representative,22,Carmen Dannenbring,DEM,196
+Beadle,W3,State Representative,22,Carmen Dannenbring,DEM,138
+Beadle,W7-1,State Representative,22,Carmen Dannenbring,DEM,149
+Beadle,W7-2,State Representative,22,Carmen Dannenbring,DEM,142
+Beadle,W8-1,State Representative,22,Carmen Dannenbring,DEM,136
+Beadle,W8-2,State Representative,,Carmen Dannenbring,DEM,136
+Beadle,Total,State Representative,,Carmen Dannenbring,DEM,1376

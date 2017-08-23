@@ -1,0 +1,177 @@
+county,precinct,office,district,candidate,party,votes
+Lake,1,President,,Trump & Pence,REP,306
+Lake,2,President,,Trump & Pence,REP,348
+Lake,3,President,,Trump & Pence,REP,127
+Lake,4,President,,Trump & Pence,REP,152
+Lake,5,President,,Trump & Pence,REP,275
+Lake,6,President,,Trump & Pence,REP,236
+Lake,7,President,,Trump & Pence,REP,294
+Lake,8,President,,Trump & Pence,REP,1570
+Lake,9,President,,Trump & Pence,REP,388
+Lake,10,President,,Trump & Pence,REP,342
+Lake,TOTAL,President,,Trump & Pence,REP,4038
+Lake,1,President,,Johnson & Weld,LIB,13
+Lake,2,President,,Johnson & Weld,LIB,19
+Lake,3,President,,Johnson & Weld,LIB,12
+Lake,4,President,,Johnson & Weld,LIB,11
+Lake,5,President,,Johnson & Weld,LIB,19
+Lake,6,President,,Johnson & Weld,LIB,20
+Lake,7,President,,Johnson & Weld,LIB,9
+Lake,8,President,,Johnson & Weld,LIB,139
+Lake,9,President,,Johnson & Weld,LIB,66
+Lake,10,President,,Johnson & Weld,LIB,50
+Lake,TOTAL,President,,Johnson & Weld,LIB,358
+Lake,1,President,,Clinton & Kaine,DEM,135
+Lake,2,President,,Clinton & Kaine,DEM,134
+Lake,3,President,,Clinton & Kaine,DEM,33
+Lake,4,President,,Clinton & Kaine,DEM,69
+Lake,5,President,,Clinton & Kaine,DEM,128
+Lake,6,President,,Clinton & Kaine,DEM,75
+Lake,7,President,,Clinton & Kaine,DEM,160
+Lake,8,President,,Clinton & Kaine,DEM,1082
+Lake,9,President,,Clinton & Kaine,DEM,256
+Lake,10,President,,Clinton & Kaine,DEM,242
+Lake,TOTAL,President,,Clinton & Kaine,DEM,2314
+Lake,1,President,,Castle & Bradley,CON,3
+Lake,2,President,,Castle & Bradley,CON,8
+Lake,3,President,,Castle & Bradley,CON,3
+Lake,4,President,,Castle & Bradley,CON,3
+Lake,5,President,,Castle & Bradley,CON,3
+Lake,6,President,,Castle & Bradley,CON,2
+Lake,7,President,,Castle & Bradley,CON,3
+Lake,8,President,,Castle & Bradley,CON,34
+Lake,9,President,,Castle & Bradley,CON,10
+Lake,10,President,,Castle & Bradley,CON,7
+Lake,TOTAL,President,,Castle & Bradley,CON,76
+Lake,1,U.S Senate,,John R. Thune,REP,337
+Lake,2,U.S Senate,,John R. Thune,REP,372
+Lake,3,U.S Senate,,John R. Thune,REP,141
+Lake,4,U.S Senate,,John R. Thune,REP,178
+Lake,5,U.S Senate,,John R. Thune,REP,317
+Lake,6,U.S Senate,,John R. Thune,REP,267
+Lake,7,U.S Senate,,John R. Thune,REP,354
+Lake,8,U.S Senate,,John R. Thune,REP,1771
+Lake,9,U.S Senate,,John R. Thune,REP,520
+Lake,10,U.S Senate,,John R. Thune,REP,420
+Lake,TOTAL,U.S Senate,,John R. Thune,REP,4677
+Lake,1,U.S Senate,,Jay Williams,DEM,119
+Lake,2,U.S Senate,,Jay Williams,DEM,136
+Lake,3,U.S Senate,,Jay Williams,DEM,32
+Lake,4,U.S Senate,,Jay Williams,DEM,61
+Lake,5,U.S Senate,,Jay Williams,DEM,110
+Lake,6,U.S Senate,,Jay Williams,DEM,67
+Lake,7,U.S Senate,,Jay Williams,DEM,125
+Lake,8,U.S Senate,,Jay Williams,DEM,943
+Lake,9,U.S Senate,,Jay Williams,DEM,215
+Lake,10,U.S Senate,,Jay Williams,DEM,223
+Lake,TOTAL,U.S Senate,,Jay Williams,DEM,2031
+Lake,1,U.S House,1,Kristi Noem,REP,299
+Lake,2,U.S House,1,Kristi Noem,REP,327
+Lake,3,U.S House,1,Kristi Noem,REP,123
+Lake,4,U.S House,1,Kristi Noem,REP,149
+Lake,5,U.S House,1,Kristi Noem,REP,254
+Lake,6,U.S House,1,Kristi Noem,REP,239
+Lake,7,U.S House,1,Kristi Noem,REP,302
+Lake,8,U.S House,1,Kristi Noem,REP,1639
+Lake,9,U.S House,1,Kristi Noem,REP,419
+Lake,10,U.S House,1,Kristi Noem,REP,344
+Lake,TOTAL,U.S House,1,Kristi Noem,REP,4095
+Lake,1,U.S House,1,Paula Hawks,DEM,159
+Lake,2,U.S House,1,Paula Hawks,DEM,176
+Lake,3,U.S House,1,Paula Hawks,DEM,53
+Lake,4,U.S House,1,Paula Hawks,DEM,96
+Lake,5,U.S House,1,Paula Hawks,DEM,177
+Lake,6,U.S House,1,Paula Hawks,DEM,97
+Lake,7,U.S House,1,Paula Hawks,DEM,176
+Lake,8,U.S House,1,Paula Hawks,DEM,1093
+Lake,9,U.S House,1,Paula Hawks,DEM,321
+Lake,10,U.S House,1,Paula Hawks,DEM,306
+Lake,TOTAL,U.S House,1,Paula Hawks,DEM,2654
+Lake,1,Public Utilities commissioner,,Chris Nelson,REP,374
+Lake,2,Public Utilities commissioner,,Chris Nelson,REP,412
+Lake,3,Public Utilities commissioner,,Chris Nelson,REP,145
+Lake,4,Public Utilities commissioner,,Chris Nelson,REP,192
+Lake,5,Public Utilities commissioner,,Chris Nelson,REP,354
+Lake,6,Public Utilities commissioner,,Chris Nelson,REP,291
+Lake,7,Public Utilities commissioner,,Chris Nelson,REP,369
+Lake,8,Public Utilities commissioner,,Chris Nelson,REP,1726
+Lake,9,Public Utilities commissioner,,Chris Nelson,REP,537
+Lake,10,Public Utilities commissioner,,Chris Nelson,REP,450
+Lake,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,4850
+Lake,1,Public Utilities commissioner,,Henry Red Cloud,DEM,75
+Lake,2,Public Utilities commissioner,,Henry Red Cloud,DEM,78
+Lake,3,Public Utilities commissioner,,Henry Red Cloud,DEM,27
+Lake,4,Public Utilities commissioner,,Henry Red Cloud,DEM,42
+Lake,5,Public Utilities commissioner,,Henry Red Cloud,DEM,63
+Lake,6,Public Utilities commissioner,,Henry Red Cloud,DEM,40
+Lake,7,Public Utilities commissioner,,Henry Red Cloud,DEM,98
+Lake,8,Public Utilities commissioner,,Henry Red Cloud,DEM,802
+Lake,9,Public Utilities commissioner,,Henry Red Cloud,DEM,181
+Lake,10,Public Utilities commissioner,,Henry Red Cloud,DEM,177
+Lake,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,1583
+Lake,1,State Senate,8,Jordan Youngberg,REP,251
+Lake,2,State Senate,8,Jordan Youngberg,REP,273
+Lake,3,State Senate,8,Jordan Youngberg,REP,95
+Lake,4,State Senate,8,Jordan Youngberg,REP,118
+Lake,5,State Senate,8,Jordan Youngberg,REP,205
+Lake,6,State Senate,8,Jordan Youngberg,REP,181
+Lake,7,State Senate,8,Jordan Youngberg,REP,252
+Lake,8,State Senate,8,Jordan Youngberg,REP,1395
+Lake,9,State Senate,8,Jordan Youngberg,REP,300
+Lake,10,State Senate,8,Jordan Youngberg,REP,297
+Lake,TOTAL,State Senate,8,Jordan Youngberg,REP,3367
+Lake,1,State Senate,8,Scott Parsley,DEM,204
+Lake,2,State Senate,8,Scott Parsley,DEM,226
+Lake,3,State Senate,8,Scott Parsley,DEM,80
+Lake,4,State Senate,8,Scott Parsley,DEM,122
+Lake,5,State Senate,8,Scott Parsley,DEM,218
+Lake,6,State Senate,8,Scott Parsley,DEM,156
+Lake,7,State Senate,8,Scott Parsley,DEM,221
+Lake,8,State Senate,8,Scott Parsley,DEM,1212
+Lake,9,State Senate,8,Scott Parsley,DEM,436
+Lake,10,State Senate,8,Scott Parsley,DEM,350
+Lake,TOTAL,State Senate,8,Scott Parsley,DEM,3225
+Lake,1,State Representative,8,Mathew Wollmann,REP,293
+Lake,2,State Representative,8,Mathew Wollmann,REP,345
+Lake,3,State Representative,8,Mathew Wollmann,REP,137
+Lake,4,State Representative,8,Mathew Wollmann,REP,161
+Lake,5,State Representative,8,Mathew Wollmann,REP,322
+Lake,6,State Representative,8,Mathew Wollmann,REP,263
+Lake,7,State Representative,8,Mathew Wollmann,REP,341
+Lake,8,State Representative,8,Mathew Wollmann,REP,1704
+Lake,9,State Representative,8,Mathew Wollmann,REP,555
+Lake,10,State Representative,8,Mathew Wollmann,REP,475
+Lake,TOTAL,State Representative,8,Mathew Wollmann,REP,4596
+Lake,1,State Representative,8,Leslie Heinemann,REP,253
+Lake,2,State Representative,8,Leslie Heinemann,REP,268
+Lake,3,State Representative,8,Leslie Heinemann,REP,107
+Lake,4,State Representative,8,Leslie Heinemann,REP,103
+Lake,5,State Representative,8,Leslie Heinemann,REP,199
+Lake,6,State Representative,8,Leslie Heinemann,REP,189
+Lake,7,State Representative,8,Leslie Heinemann,REP,253
+Lake,8,State Representative,8,Leslie Heinemann,REP,1295
+Lake,9,State Representative,8,Leslie Heinemann,REP,339
+Lake,10,State Representative,8,Leslie Heinemann,REP,267
+Lake,TOTAL,State Representative,8,Leslie Heinemann,REP,3273
+Lake,1,State Representative,8,Jason Unger,DEM,144
+Lake,2,State Representative,8,Jason Unger,DEM,177
+Lake,3,State Representative,8,Jason Unger,DEM,56
+Lake,4,State Representative,8,Jason Unger,DEM,80
+Lake,5,State Representative,8,Jason Unger,DEM,159
+Lake,6,State Representative,8,Jason Unger,DEM,89
+Lake,7,State Representative,8,Jason Unger,DEM,153
+Lake,8,State Representative,8,Jason Unger,DEM,1012
+Lake,9,State Representative,8,Jason Unger,DEM,289
+Lake,10,State Representative,8,Jason Unger,DEM,258
+Lake,TOTAL,State Representative,8,Jason Unger,DEM,2417
+Lake,1,State Representative,8,Kory Rawstern,DEM,103
+Lake,2,State Representative,8,Kory Rawstern,DEM,98
+Lake,3,State Representative,8,Kory Rawstern,DEM,24
+Lake,4,State Representative,8,Kory Rawstern,DEM,76
+Lake,5,State Representative,8,Kory Rawstern,DEM,77
+Lake,6,State Representative,8,Kory Rawstern,DEM,56
+Lake,7,State Representative,8,Kory Rawstern,DEM,130
+Lake,8,State Representative,8,Kory Rawstern,DEM,716
+Lake,9,State Representative,8,Kory Rawstern,DEM,150
+Lake,10,State Representative,8,Kory Rawstern,DEM,148
+Lake,TOTAL,State Representative,8,Kory Rawstern,DEM,1578
