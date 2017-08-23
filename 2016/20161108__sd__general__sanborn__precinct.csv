@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Sanborn,1,President,,REP,Donald J. Trump,193
+Sanborn,2,President,,REP,Donald J. Trump,239
+Sanborn,4,President,,REP,Donald J. Trump,210
+Sanborn,5,President,,REP,Donald J. Trump,177
+Sanborn,Total,President,,REP,Donald J. Trump,819
+Sanborn,1,President,,LIB,Gary Johnson,16
+Sanborn,2,President,,LIB,Gary Johnson,15
+Sanborn,4,President,,LIB,Gary Johnson,14
+Sanborn,5,President,,LIB,Gary Johnson,6
+Sanborn,Total,President,,LIB,Gary Johnson,51
+Sanborn,1,President,,DEM,Hillary Clinton,59
+Sanborn,2,President,,DEM,Hillary Clinton,54
+Sanborn,4,President,,DEM,Hillary Clinton,63
+Sanborn,5,President,,DEM,Hillary Clinton,65
+Sanborn,Total,President,,DEM,Hillary Clinton,241
+Sanborn,1,President,,CON,Darrell L. Castle,3
+Sanborn,2,President,,CON,Darrell L. Castle,5
+Sanborn,4,President,,CON,Darrell L. Castle,2
+Sanborn,5,President,,CON,Darrell L. Castle,2
+Sanborn,Total,President,,CON,Darrell L. Castle,12
+Sanborn,1,U.S. Senate,,REP,John R. Thune,219
+Sanborn,2,U.S. Senate,,REP,John R. Thune,251
+Sanborn,4,U.S. Senate,,REP,John R. Thune,218
+Sanborn,5,U.S. Senate,,REP,John R. Thune,201
+Sanborn,Total,U.S. Senate,,REP,John R. Thune,889
+Sanborn,1,U.S. Senate,,DEM,Jay Williams,51
+Sanborn,2,U.S. Senate,,DEM,Jay Williams,63
+Sanborn,4,U.S. Senate,,DEM,Jay Williams,77
+Sanborn,5,U.S. Senate,,DEM,Jay Williams,53
+Sanborn,Total,U.S. Senate,,DEM,Jay Williams,244
+Sanborn,1,U.S. House,1,REP,Kristi Noem,189
+Sanborn,2,U.S. House,1,REP,Kristi Noem,225
+Sanborn,4,U.S. House,1,REP,Kristi Noem,206
+Sanborn,5,U.S. House,1,REP,Kristi Noem,184
+Sanborn,Total,U.S. House,1,REP,Kristi Noem,804
+Sanborn,1,U.S. House,1,DEM,Paula Hawks,78
+Sanborn,2,U.S. House,1,DEM,Paula Hawks,90
+Sanborn,4,U.S. House,1,DEM,Paula Hawks,87
+Sanborn,5,U.S. House,1,DEM,Paula Hawks,70
+Sanborn,Total,U.S. House,1,DEM,Paula Hawks,325
+Sanborn,1,Public Utilities Commissioner,,REP,Chris Nelson,226
+Sanborn,2,Public Utilities Commissioner,,REP,Chris Nelson,253
+Sanborn,4,Public Utilities Commissioner,,REP,Chris Nelson,236
+Sanborn,5,Public Utilities Commissioner,,REP,Chris Nelson,209
+Sanborn,Total,Public Utilities Commissioner,,REP,Chris Nelson,924
+Sanborn,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,33
+Sanborn,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,48
+Sanborn,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,49
+Sanborn,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,42
+Sanborn,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,172
+Sanborn,1,State Senate,8,REP,Jordan Youngberg,164
+Sanborn,2,State Senate,8,REP,Jordan Youngberg,179
+Sanborn,4,State Senate,8,REP,Jordan Youngberg,168
+Sanborn,5,State Senate,8,REP,Jordan Youngberg,159
+Sanborn,Total,State Senate,8,REP,Jordan Youngberg,670
+Sanborn,1,State Senate,8,DEM,Scott Parsley,88
+Sanborn,2,State Senate,8,DEM,Scott Parsley,114
+Sanborn,4,State Senate,8,DEM,Scott Parsley,111
+Sanborn,5,State Senate,8,DEM,Scott Parsley,87
+Sanborn,Total,State Senate,8,DEM,Scott Parsley,400
+Sanborn,1,State Representative,8,REP,Mathew Wollman,152
+Sanborn,2,State Representative,8,REP,Mathew Wollman,193
+Sanborn,4,State Representative,8,REP,Mathew Wollman,144
+Sanborn,5,State Representative,8,REP,Mathew Wollman,158
+Sanborn,Total,State Representative,8,REP,Mathew Wollman,647
+Sanborn,1,State Representative,8,REP,Leslie Heinemann,159
+Sanborn,2,State Representative,8,REP,Leslie Heinemann,176
+Sanborn,4,State Representative,8,REP,Leslie Heinemann,164
+Sanborn,5,State Representative,8,REP,Leslie Heinemann,170
+Sanborn,Total,State Representative,8,REP,Leslie Heinemann,669
+Sanborn,1,State Representative,8,DEM,Jason Unger,75
+Sanborn,2,State Representative,8,DEM,Jason Unger,79
+Sanborn,4,State Representative,8,DEM,Jason Unger,109
+Sanborn,5,State Representative,8,DEM,Jason Unger,75
+Sanborn,Total,State Representative,8,DEM,Jason Unger,338
+Sanborn,1,State Representative,8,DEM,Kory Rawstern,41
+Sanborn,2,State Representative,8,DEM,Kory Rawstern,62
+Sanborn,4,State Representative,8,DEM,Kory Rawstern,62
+Sanborn,5,State Representative,8,DEM,Kory Rawstern,47
+Sanborn,Total,State Representative,8,DEM,Kory Rawstern,212
