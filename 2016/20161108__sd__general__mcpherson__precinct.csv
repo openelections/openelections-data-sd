@@ -1,0 +1,92 @@
+county,precinct,office,district,party,candidate,votes
+McPherson,1,President,,REP,Donald J. Trump,149
+McPherson,2,President,,REP,Donald J. Trump,135
+McPherson,3,President,,REP,Donald J. Trump,56
+McPherson,4,President,,REP,Donald J. Trump,187
+McPherson,5,President,,REP,Donald J. Trump,198
+McPherson,6,President,,REP,Donald J. Trump,167
+McPherson,Total,President,,REP,Donald J. Trump,892
+McPherson,1,President,,LIB,Gary Johnson,9
+McPherson,2,President,,LIB,Gary Johnson,10
+McPherson,3,President,,LIB,Gary Johnson,0
+McPherson,4,President,,LIB,Gary Johnson,9
+McPherson,5,President,,LIB,Gary Johnson,5
+McPherson,6,President,,LIB,Gary Johnson,10
+McPherson,Total,President,,LIB,Gary Johnson,43
+McPherson,1,President,,DEM,Hillary Clinton,33
+McPherson,2,President,,DEM,Hillary Clinton,40
+McPherson,3,President,,DEM,Hillary Clinton,5
+McPherson,4,President,,DEM,Hillary Clinton,32
+McPherson,5,President,,DEM,Hillary Clinton,34
+McPherson,6,President,,DEM,Hillary Clinton,48
+McPherson,Total,President,,DEM,Hillary Clinton,192
+McPherson,1,President,,CON,Darrell L. Castle,0
+McPherson,2,President,,CON,Darrell L. Castle,4
+McPherson,3,President,,CON,Darrell L. Castle,2
+McPherson,4,President,,CON,Darrell L. Castle,3
+McPherson,5,President,,CON,Darrell L. Castle,0
+McPherson,6,President,,CON,Darrell L. Castle,1
+McPherson,Total,President,,CON,Darrell L. Castle,10
+McPherson,1,U.S. Senate,,REP,John R. Thune,204
+McPherson,2,U.S. Senate,,REP,John R. Thune,154
+McPherson,3,U.S. Senate,,REP,John R. Thune,49
+McPherson,4,U.S. Senate,,REP,John R. Thune,195
+McPherson,5,U.S. Senate,,REP,John R. Thune,216
+McPherson,6,U.S. Senate,,REP,John R. Thune,191
+McPherson,Total,U.S. Senate,,REP,John R. Thune,1009
+McPherson,1,U.S. Senate,,DEM,Jay Williams,38
+McPherson,2,U.S. Senate,,DEM,Jay Williams,33
+McPherson,3,U.S. Senate,,DEM,Jay Williams,10
+McPherson,4,U.S. Senate,,DEM,Jay Williams,33
+McPherson,5,U.S. Senate,,DEM,Jay Williams,17
+McPherson,6,U.S. Senate,,DEM,Jay Williams,34
+McPherson,Total,U.S. Senate,,DEM,Jay Williams,165
+McPherson,1,U.S. House,1,REP,Kristi Noem,200
+McPherson,2,U.S. House,1,REP,Kristi Noem,129
+McPherson,3,U.S. House,1,REP,Kristi Noem,46
+McPherson,4,U.S. House,1,REP,Kristi Noem,189
+McPherson,5,U.S. House,1,REP,Kristi Noem,199
+McPherson,6,U.S. House,1,REP,Kristi Noem,177
+McPherson,Total,U.S. House,1,REP,Kristi Noem,940
+McPherson,1,U.S. House,1,DEM,Paula Hawks,45
+McPherson,2,U.S. House,1,DEM,Paula Hawks,58
+McPherson,3,U.S. House,1,DEM,Paula Hawks,14
+McPherson,4,U.S. House,1,DEM,Paula Hawks,43
+McPherson,5,U.S. House,1,DEM,Paula Hawks,32
+McPherson,6,U.S. House,1,DEM,Paula Hawks,49
+McPherson,Total,U.S. House,1,DEM,Paula Hawks,241
+McPherson,1,Public Utilities Commissioner,,REP,Chris Nelson,214
+McPherson,2,Public Utilities Commissioner,,REP,Chris Nelson,161
+McPherson,3,Public Utilities Commissioner,,REP,Chris Nelson,52
+McPherson,4,Public Utilities Commissioner,,REP,Chris Nelson,203
+McPherson,5,Public Utilities Commissioner,,REP,Chris Nelson,201
+McPherson,6,Public Utilities Commissioner,,REP,Chris Nelson,190
+McPherson,Total,Public Utilities Commissioner,,REP,Chris Nelson,1021
+McPherson,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,23
+McPherson,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,23
+McPherson,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,3
+McPherson,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,27
+McPherson,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,16
+McPherson,6,Public Utilities Commissioner,,DEM,Henry Red Cloud,24
+McPherson,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,116
+McPherson,1,State Senate,23,REP,Justin R. Cronin,135
+McPherson,2,State Senate,23,REP,Justin R. Cronin,145
+McPherson,3,State Senate,23,REP,Justin R. Cronin,46
+McPherson,4,State Senate,23,REP,Justin R. Cronin,173
+McPherson,5,State Senate,23,REP,Justin R. Cronin,184
+McPherson,6,State Senate,23,REP,Justin R. Cronin,163
+McPherson,Total,State Senate,23,REP,Justin R. Cronin,846
+McPherson,1,State Representative,23,REP,Spencer Gosch,123
+McPherson,2,State Representative,23,REP,Spencer Gosch,127
+McPherson,3,State Representative,23,REP,Spencer Gosch,37
+McPherson,4,State Representative,23,REP,Spencer Gosch,158
+McPherson,5,State Representative,23,REP,Spencer Gosch,177
+McPherson,6,State Representative,23,REP,Spencer Gosch,152
+McPherson,Total,State Representative,23,REP,Spencer Gosch,774
+McPherson,1,State Representative,23,REP,John A. Lake,98
+McPherson,2,State Representative,23,REP,John A. Lake,96
+McPherson,3,State Representative,23,REP,John A. Lake,27
+McPherson,4,State Representative,23,REP,John A. Lake,119
+McPherson,5,State Representative,23,REP,John A. Lake,120
+McPherson,6,State Representative,23,REP,John A. Lake,97
+McPherson,Total,State Representative,23,REP,John A. Lake,557
