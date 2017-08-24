@@ -1,0 +1,57 @@
+county,precinct,office,district,party,candidate,votes
+Gregory,1,President,,REP,Donald J. Trump,758
+Gregory,2,President,,REP,Donald J. Trump,569
+Gregory,3,President,,REP,Donald J. Trump,273
+Gregory,Total,President,,REP,Donald J. Trump,1600
+Gregory,1,President,,LIB,Gary Johnson,37
+Gregory,2,President,,LIB,Gary Johnson,23
+Gregory,3,President,,LIB,Gary Johnson,18
+Gregory,Total,President,,LIB,Gary Johnson,78
+Gregory,1,President,,DEM,Hillary Clinton,174
+Gregory,2,President,,DEM,Hillary Clinton,160
+Gregory,3,President,,DEM,Hillary Clinton,57
+Gregory,Total,President,,DEM,Hillary Clinton,391
+Gregory,1,President,,CON,Darrell L. Castle,8
+Gregory,2,President,,CON,Darrell L. Castle,10
+Gregory,3,President,,CON,Darrell L. Castle,4
+Gregory,Total,President,,CON,Darrell L. Castle,22
+Gregory,1,U.S. Senate,,REP,John R. Thune,773
+Gregory,2,U.S. Senate,,REP,John R. Thune,605
+Gregory,3,U.S. Senate,,REP,John R. Thune,293
+Gregory,Total,U.S. Senate,,REP,John R. Thune,1671
+Gregory,1,U.S. Senate,,DEM,Jay Williams,208
+Gregory,2,U.S. Senate,,DEM,Jay Williams,161
+Gregory,3,U.S. Senate,,DEM,Jay Williams,57
+Gregory,Total,U.S. Senate,,DEM,Jay Williams,426
+Gregory,1,U.S. House,1,REP,Kristi Noem,710
+Gregory,2,U.S. House,1,REP,Kristi Noem,540
+Gregory,3,U.S. House,1,REP,Kristi Noem,269
+Gregory,Total,U.S. House,1,REP,Kristi Noem,1519
+Gregory,1,U.S. House,1,DEM,Paula Hawks,274
+Gregory,2,U.S. House,1,DEM,Paula Hawks,217
+Gregory,3,U.S. House,1,DEM,Paula Hawks,81
+Gregory,Total,U.S. House,1,DEM,Paula Hawks,572
+Gregory,1,Public Utilities Commissioner,,REP,Chris Nelson,761
+Gregory,2,Public Utilities Commissioner,,REP,Chris Nelson,611
+Gregory,3,Public Utilities Commissioner,,REP,Chris Nelson,282
+Gregory,Total,Public Utilities Commissioner,,REP,Chris Nelson,1654
+Gregory,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,182
+Gregory,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,128
+Gregory,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,45
+Gregory,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,355
+Gregory,1,State Senate,21,DEM,Billie H. Sutton,742
+Gregory,2,State Senate,21,DEM,Billie H. Sutton,553
+Gregory,3,State Senate,21,DEM,Billie H. Sutton,221
+Gregory,Total,State Senate,21,DEM,Billie H. Sutton,1516
+Gregory,1,State House,21,REP,Lee Qualm,464
+Gregory,2,State House,21,REP,Lee Qualm,400
+Gregory,3,State House,21,REP,Lee Qualm,222
+Gregory,Total,State House,21,REP,Lee Qualm,1086
+Gregory,1,State House,21,DEM,Gary Burrus,424
+Gregory,2,State House,21,DEM,Gary Burrus,347
+Gregory,3,State House,21,DEM,Gary Burrus,103
+Gregory,Total,State House,21,DEM,Gary Burrus,874
+Gregory,1,State House,21,DEM,Julie Bartling,644
+Gregory,2,State House,21,DEM,Julie Bartling,515
+Gregory,3,State House,21,DEM,Julie Bartling,190
+Gregory,Total,State House,21,DEM,Julie Bartling,1349
