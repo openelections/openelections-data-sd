@@ -1,0 +1,196 @@
+county,precinct,office,district,candidate,party,votes
+Day,1,President,,Donald J. Trump,REP,158
+Day,2,President,,Donald J. Trump,REP,175
+Day,3,President,,Donald J. Trump,REP,97
+Day,4,President,,Donald J. Trump,REP,112
+Day,5,President,,Donald J. Trump,REP,96
+Day,6,President,,Donald J. Trump,REP,122
+Day,7,President,,Donald J. Trump,REP,109
+Day,8,President,,Donald J. Trump,REP,78
+Day,9,President,,Donald J. Trump,REP,127
+Day,10,President,,Donald J. Trump,REP,79
+Day,11,President,,Donald J. Trump,REP,124
+Day,12,President,,Donald J. Trump,REP,100
+Day,13,President,,Donald J. Trump,REP,109
+Day,14,President,,Donald J. Trump,REP,141
+Day,TOTAL,President,,Donald J. Trump,REP,1627
+Day,1,President,,Gary Johnson,LIB,18
+Day,2,President,,Gary Johnson,LIB,9
+Day,3,President,,Gary Johnson,LIB,6
+Day,4,President,,Gary Johnson,LIB,8
+Day,5,President,,Gary Johnson,LIB,6
+Day,6,President,,Gary Johnson,LIB,8
+Day,7,President,,Gary Johnson,LIB,4
+Day,8,President,,Gary Johnson,LIB,6
+Day,9,President,,Gary Johnson,LIB,8
+Day,10,President,,Gary Johnson,LIB,1
+Day,11,President,,Gary Johnson,LIB,10
+Day,12,President,,Gary Johnson,LIB,3
+Day,13,President,,Gary Johnson,LIB,9
+Day,14,President,,Gary Johnson,LIB,20
+Day,TOTAL,President,,Gary Johnson,LIB,116
+Day,1,President,,Hillary Clinton,DEM,87
+Day,2,President,,Hillary Clinton,DEM,100
+Day,3,President,,Hillary Clinton,DEM,50
+Day,4,President,,Hillary Clinton,DEM,65
+Day,5,President,,Hillary Clinton,DEM,71
+Day,6,President,,Hillary Clinton,DEM,116
+Day,7,President,,Hillary Clinton,DEM,58
+Day,8,President,,Hillary Clinton,DEM,45
+Day,9,President,,Hillary Clinton,DEM,54
+Day,10,President,,Hillary Clinton,DEM,25
+Day,11,President,,Hillary Clinton,DEM,66
+Day,12,President,,Hillary Clinton,DEM,84
+Day,13,President,,Hillary Clinton,DEM,75
+Day,14,President,,Hillary Clinton,DEM,78
+Day,TOTAL,President,,Hillary Clinton,DEM,974
+Day,1,President,,Darrell L. Castle,CON,1
+Day,2,President,,Darrell L. Castle,CON,0
+Day,3,President,,Darrell L. Castle,CON,0
+Day,4,President,,Darrell L. Castle,CON,3
+Day,5,President,,Darrell L. Castle,CON,2
+Day,6,President,,Darrell L. Castle,CON,3
+Day,7,President,,Darrell L. Castle,CON,2
+Day,8,President,,Darrell L. Castle,CON,3
+Day,9,President,,Darrell L. Castle,CON,3
+Day,10,President,,Darrell L. Castle,CON,2
+Day,11,President,,Darrell L. Castle,CON,6
+Day,12,President,,Darrell L. Castle,CON,2
+Day,13,President,,Darrell L. Castle,CON,1
+Day,14,President,,Darrell L. Castle,CON,2
+Day,TOTAL,President,,Darrell L. Castle,CON,30
+Day,1,U.S Senate,,John R. Thune,REP,179
+Day,2,U.S Senate,,John R. Thune,REP,189
+Day,3,U.S Senate,,John R. Thune,REP,106
+Day,4,U.S Senate,,John R. Thune,REP,135
+Day,5,U.S Senate,,John R. Thune,REP,118
+Day,6,U.S Senate,,John R. Thune,REP,139
+Day,7,U.S Senate,,John R. Thune,REP,117
+Day,8,U.S Senate,,John R. Thune,REP,84
+Day,9,U.S Senate,,John R. Thune,REP,139
+Day,10,U.S Senate,,John R. Thune,REP,93
+Day,11,U.S Senate,,John R. Thune,REP,127
+Day,12,U.S Senate,,John R. Thune,REP,114
+Day,13,U.S Senate,,John R. Thune,REP,113
+Day,14,U.S Senate,,John R. Thune,REP,162
+Day,TOTAL,U.S Senate,,John R. Thune,REP,1815
+Day,1,U.S Senate,,Jay Williams,DEM,86
+Day,2,U.S Senate,,Jay Williams,DEM,90
+Day,3,U.S Senate,,Jay Williams,DEM,51
+Day,4,U.S Senate,,Jay Williams,DEM,58
+Day,5,U.S Senate,,Jay Williams,DEM,69
+Day,6,U.S Senate,,Jay Williams,DEM,115
+Day,7,U.S Senate,,Jay Williams,DEM,55
+Day,8,U.S Senate,,Jay Williams,DEM,53
+Day,9,U.S Senate,,Jay Williams,DEM,54
+Day,10,U.S Senate,,Jay Williams,DEM,17
+Day,11,U.S Senate,,Jay Williams,DEM,76
+Day,12,U.S Senate,,Jay Williams,DEM,74
+Day,13,U.S Senate,,Jay Williams,DEM,81
+Day,14,U.S Senate,,Jay Williams,DEM,83
+Day,TOTAL,U.S Senate,,Jay Williams,DEM,962
+Day,1,U.S House,1,Kristi Noem,REP,166
+Day,2,U.S House,1,Kristi Noem,REP,153
+Day,3,U.S House,1,Kristi Noem,REP,89
+Day,4,U.S House,1,Kristi Noem,REP,118
+Day,5,U.S House,1,Kristi Noem,REP,103
+Day,6,U.S House,1,Kristi Noem,REP,113
+Day,7,U.S House,1,Kristi Noem,REP,107
+Day,8,U.S House,1,Kristi Noem,REP,73
+Day,9,U.S House,1,Kristi Noem,REP,131
+Day,10,U.S House,1,Kristi Noem,REP,75
+Day,11,U.S House,1,Kristi Noem,REP,108
+Day,12,U.S House,1,Kristi Noem,REP,100
+Day,13,U.S House,1,Kristi Noem,REP,98
+Day,14,U.S House,1,Kristi Noem,REP,146
+Day,TOTAL,U.S House,1,Kristi Noem,REP,1580
+Day,1,U.S House,1,Paula Hawks,DEM,101
+Day,2,U.S House,1,Paula Hawks,DEM,123
+Day,3,U.S House,1,Paula Hawks,DEM,67
+Day,4,U.S House,1,Paula Hawks,DEM,75
+Day,5,U.S House,1,Paula Hawks,DEM,85
+Day,6,U.S House,1,Paula Hawks,DEM,140
+Day,7,U.S House,1,Paula Hawks,DEM,68
+Day,8,U.S House,1,Paula Hawks,DEM,61
+Day,9,U.S House,1,Paula Hawks,DEM,62
+Day,10,U.S House,1,Paula Hawks,DEM,34
+Day,11,U.S House,1,Paula Hawks,DEM,93
+Day,12,U.S House,1,Paula Hawks,DEM,89
+Day,13,U.S House,1,Paula Hawks,DEM,95
+Day,14,U.S House,1,Paula Hawks,DEM,99
+Day,TOTAL,U.S House,1,Paula Hawks,DEM,1192
+Day,1,Public Utilities commissioner,,Chris Nelson,REP,197
+Day,2,Public Utilities commissioner,,Chris Nelson,REP,199
+Day,3,Public Utilities commissioner,,Chris Nelson,REP,121
+Day,4,Public Utilities commissioner,,Chris Nelson,REP,142
+Day,5,Public Utilities commissioner,,Chris Nelson,REP,121
+Day,6,Public Utilities commissioner,,Chris Nelson,REP,148
+Day,7,Public Utilities commissioner,,Chris Nelson,REP,123
+Day,8,Public Utilities commissioner,,Chris Nelson,REP,95
+Day,9,Public Utilities commissioner,,Chris Nelson,REP,148
+Day,10,Public Utilities commissioner,,Chris Nelson,REP,80
+Day,11,Public Utilities commissioner,,Chris Nelson,REP,149
+Day,12,Public Utilities commissioner,,Chris Nelson,REP,135
+Day,13,Public Utilities commissioner,,Chris Nelson,REP,126
+Day,14,Public Utilities commissioner,,Chris Nelson,REP,180
+Day,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1964
+Day,1,Public Utilities commissioner,,Henry Red Cloud,DEM,56
+Day,2,Public Utilities commissioner,,Henry Red Cloud,DEM,59
+Day,3,Public Utilities commissioner,,Henry Red Cloud,DEM,29
+Day,4,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Day,5,Public Utilities commissioner,,Henry Red Cloud,DEM,57
+Day,6,Public Utilities commissioner,,Henry Red Cloud,DEM,97
+Day,7,Public Utilities commissioner,,Henry Red Cloud,DEM,45
+Day,8,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Day,9,Public Utilities commissioner,,Henry Red Cloud,DEM,31
+Day,10,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Day,11,Public Utilities commissioner,,Henry Red Cloud,DEM,45
+Day,12,Public Utilities commissioner,,Henry Red Cloud,DEM,47
+Day,13,Public Utilities commissioner,,Henry Red Cloud,DEM,54
+Day,14,Public Utilities commissioner,,Henry Red Cloud,DEM,43
+Day,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,664
+Day,1,State Senate,1,Jason Frerichs,DEM,165
+Day,2,State Senate,1,Jason Frerichs,DEM,169
+Day,3,State Senate,1,Jason Frerichs,DEM,97
+Day,4,State Senate,1,Jason Frerichs,DEM,126
+Day,5,State Senate,1,Jason Frerichs,DEM,125
+Day,6,State Senate,1,Jason Frerichs,DEM,170
+Day,7,State Senate,1,Jason Frerichs,DEM,116
+Day,8,State Senate,1,Jason Frerichs,DEM,89
+Day,9,State Senate,1,Jason Frerichs,DEM,102
+Day,10,State Senate,1,Jason Frerichs,DEM,64
+Day,11,State Senate,1,Jason Frerichs,DEM,162
+Day,12,State Senate,1,Jason Frerichs,DEM,126
+Day,13,State Senate,1,Jason Frerichs,DEM,120
+Day,14,State Senate,1,Jason Frerichs,DEM,152
+Day,TOTAL,State Senate,1,Jason Frerichs,DEM,1783
+Day,1,State Representative,1,Steven D McCleerey,DEM,100
+Day,2,State Representative,1,Steven D McCleerey,DEM,109
+Day,3,State Representative,1,Steven D McCleerey,DEM,49
+Day,4,State Representative,1,Steven D McCleerey,DEM,79
+Day,5,State Representative,1,Steven D McCleerey,DEM,66
+Day,6,State Representative,1,Steven D McCleerey,DEM,92
+Day,7,State Representative,1,Steven D McCleerey,DEM,72
+Day,8,State Representative,1,Steven D McCleerey,DEM,44
+Day,9,State Representative,1,Steven D McCleerey,DEM,55
+Day,10,State Representative,1,Steven D McCleerey,DEM,32
+Day,11,State Representative,1,Steven D McCleerey,DEM,84
+Day,12,State Representative,1,Steven D McCleerey,DEM,61
+Day,13,State Representative,1,Steven D McCleerey,DEM,74
+Day,14,State Representative,1,Steven D McCleerey,DEM,73
+Day,TOTAL,State Representative,1,Steven D McCleerey,DEM,990
+Day,1,State Representative,1,Susan Wismer,DEM,135
+Day,2,State Representative,1,Susan Wismer,DEM,141
+Day,3,State Representative,1,Susan Wismer,DEM,71
+Day,4,State Representative,1,Susan Wismer,DEM,89
+Day,5,State Representative,1,Susan Wismer,DEM,90
+Day,6,State Representative,1,Susan Wismer,DEM,144
+Day,7,State Representative,1,Susan Wismer,DEM,89
+Day,8,State Representative,1,Susan Wismer,DEM,79
+Day,9,State Representative,1,Susan Wismer,DEM,85
+Day,10,State Representative,1,Susan Wismer,DEM,50
+Day,11,State Representative,1,Susan Wismer,DEM,138
+Day,12,State Representative,1,Susan Wismer,DEM,110
+Day,13,State Representative,1,Susan Wismer,DEM,105
+Day,14,State Representative,1,Susan Wismer,DEM,140
+Day,TOTAL,State Representative,1,Susan Wismer,DEM,1466

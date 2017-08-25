@@ -1,0 +1,79 @@
+county,precinct,office,district,candidate,party,votes
+Campbell,1,President,,Donald J. Trump,REP,115
+Campbell,2,President,,Donald J. Trump,REP,136
+Campbell,3,President,,Donald J. Trump,REP,152
+Campbell,4,President,,Donald J. Trump,REP,145
+Campbell,5,President,,Donald J. Trump,REP,156
+Campbell,TOTAL,President,,Donald J. Trump,REP,704
+Campbell,1,President,,Gary Johnson,LIB,6
+Campbell,2,President,,Gary Johnson,LIB,8
+Campbell,3,President,,Gary Johnson,LIB,2
+Campbell,4,President,,Gary Johnson,LIB,2
+Campbell,5,President,,Gary Johnson,LIB,2
+Campbell,TOTAL,President,,Gary Johnson,LIB,20
+Campbell,1,President,,Hillary Clinton,DEM,29
+Campbell,2,President,,Hillary Clinton,DEM,19
+Campbell,3,President,,Hillary Clinton,DEM,20
+Campbell,4,President,,Hillary Clinton,DEM,23
+Campbell,5,President,,Hillary Clinton,DEM,14
+Campbell,TOTAL,President,,Hillary Clinton,DEM,105
+Campbell,1,President,,Darrell L. Castle,CON,0
+Campbell,2,President,,Darrell L. Castle,CON,0
+Campbell,3,President,,Darrell L. Castle,CON,1
+Campbell,4,President,,Darrell L. Castle,CON,0
+Campbell,5,President,,Darrell L. Castle,CON,1
+Campbell,TOTAL,President,,Darrell L. Castle,CON,2
+Campbell,1,U.S Senate,,John R. Thune,REP,134
+Campbell,2,U.S Senate,,John R. Thune,REP,147
+Campbell,3,U.S Senate,,John R. Thune,REP,155
+Campbell,4,U.S Senate,,John R. Thune,REP,152
+Campbell,5,U.S Senate,,John R. Thune,REP,152
+Campbell,TOTAL,U.S Senate,,John R. Thune,REP,740
+Campbell,1,U.S Senate,,Jay Williams,DEM,19
+Campbell,2,U.S Senate,,Jay Williams,DEM,19
+Campbell,3,U.S Senate,,Jay Williams,DEM,20
+Campbell,4,U.S Senate,,Jay Williams,DEM,14
+Campbell,5,U.S Senate,,Jay Williams,DEM,15
+Campbell,TOTAL,U.S Senate,,Jay Williams,DEM,87
+Campbell,1,U.S House,1,Kristi Noem,REP,120
+Campbell,2,U.S House,1,Kristi Noem,REP,146
+Campbell,3,U.S House,1,Kristi Noem,REP,148
+Campbell,4,U.S House,1,Kristi Noem,REP,138
+Campbell,5,U.S House,1,Kristi Noem,REP,147
+Campbell,TOTAL,U.S House,1,Kristi Noem,REP,699
+Campbell,1,U.S House,1,Paula Hawks,DEM,32
+Campbell,2,U.S House,1,Paula Hawks,DEM,16
+Campbell,3,U.S House,1,Paula Hawks,DEM,27
+Campbell,4,U.S House,1,Paula Hawks,DEM,29
+Campbell,5,U.S House,1,Paula Hawks,DEM,23
+Campbell,TOTAL,U.S House,1,Paula Hawks,DEM,127
+Campbell,1,Public Utilities commissioner,,Chris Nelson,REP,140
+Campbell,2,Public Utilities commissioner,,Chris Nelson,REP,151
+Campbell,3,Public Utilities commissioner,,Chris Nelson,REP,161
+Campbell,4,Public Utilities commissioner,,Chris Nelson,REP,155
+Campbell,5,Public Utilities commissioner,,Chris Nelson,REP,156
+Campbell,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,763
+Campbell,1,Public Utilities commissioner,,Henry Red Cloud,DEM,9
+Campbell,2,Public Utilities commissioner,,Henry Red Cloud,DEM,12
+Campbell,3,Public Utilities commissioner,,Henry Red Cloud,DEM,9
+Campbell,4,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Campbell,5,Public Utilities commissioner,,Henry Red Cloud,DEM,13
+Campbell,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,58
+Campbell,1,State Senate,23,Justin R Cronin,REP,115
+Campbell,2,State Senate,23,Justin R Cronin,REP,137
+Campbell,3,State Senate,23,Justin R Cronin,REP,134
+Campbell,4,State Senate,23,Justin R Cronin,REP,137
+Campbell,5,State Senate,23,Justin R Cronin,REP,140
+Campbell,TOTAL,State Senate,23,Justin R Cronin,REP,663
+Campbell,1,State Representative,23,Spencer Gosch,REP,100
+Campbell,2,State Representative,23,Spencer Gosch,REP,132
+Campbell,3,State Representative,23,Spencer Gosch,REP,123
+Campbell,4,State Representative,23,Spencer Gosch,REP,130
+Campbell,5,State Representative,23,Spencer Gosch,REP,136
+Campbell,TOTAL,State Representative,23,Spencer Gosch,REP,621
+Campbell,1,State Representative,23,John A Lake,REP,88
+Campbell,2,State Representative,23,John A Lake,REP,83
+Campbell,3,State Representative,23,John A Lake,REP,92
+Campbell,4,State Representative,23,John A Lake,REP,99
+Campbell,5,State Representative,23,John A Lake,REP,89
+Campbell,TOTAL,State Representative,23,John A Lake,REP,451

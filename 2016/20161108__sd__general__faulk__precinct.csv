@@ -1,0 +1,105 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,President,,Donald J. Trump,REP,139
+Faulk,2,President,,Donald J. Trump,REP,81
+Faulk,3,President,,Donald J. Trump,REP,109
+Faulk,4,President,,Donald J. Trump,REP,74
+Faulk,5,President,,Donald J. Trump,REP,83
+Faulk,6,President,,Donald J. Trump,REP,182
+Faulk,7,President,,Donald J. Trump,REP,190
+Faulk,TOTAL,President,,Donald J. Trump,REP,858
+Faulk,1,President,,Gary Johnson,LIB,10
+Faulk,2,President,,Gary Johnson,LIB,1
+Faulk,3,President,,Gary Johnson,LIB,4
+Faulk,4,President,,Gary Johnson,LIB,2
+Faulk,5,President,,Gary Johnson,LIB,4
+Faulk,6,President,,Gary Johnson,LIB,15
+Faulk,7,President,,Gary Johnson,LIB,9
+Faulk,TOTAL,President,,Gary Johnson,LIB,45
+Faulk,1,President,,Hillary Clinton,DEM,38
+Faulk,2,President,,Hillary Clinton,DEM,8
+Faulk,3,President,,Hillary Clinton,DEM,23
+Faulk,4,President,,Hillary Clinton,DEM,18
+Faulk,5,President,,Hillary Clinton,DEM,16
+Faulk,6,President,,Hillary Clinton,DEM,36
+Faulk,7,President,,Hillary Clinton,DEM,65
+Faulk,TOTAL,President,,Hillary Clinton,DEM,204
+Faulk,1,President,,Darrell L. Castle,CON,3
+Faulk,2,President,,Darrell L. Castle,CON,0
+Faulk,3,President,,Darrell L. Castle,CON,1
+Faulk,4,President,,Darrell L. Castle,CON,1
+Faulk,5,President,,Darrell L. Castle,CON,0
+Faulk,6,President,,Darrell L. Castle,CON,3
+Faulk,7,President,,Darrell L. Castle,CON,3
+Faulk,TOTAL,President,,Darrell L. Castle,CON,11
+Faulk,1,U.S Senate,,John R. Thune,REP,142
+Faulk,2,U.S Senate,,John R. Thune,REP,84
+Faulk,3,U.S Senate,,John R. Thune,REP,119
+Faulk,4,U.S Senate,,John R. Thune,REP,76
+Faulk,5,U.S Senate,,John R. Thune,REP,87
+Faulk,6,U.S Senate,,John R. Thune,REP,192
+Faulk,7,U.S Senate,,John R. Thune,REP,225
+Faulk,TOTAL,U.S Senate,,John R. Thune,REP,925
+Faulk,1,U.S Senate,,Jay Williams,DEM,43
+Faulk,2,U.S Senate,,Jay Williams,DEM,9
+Faulk,3,U.S Senate,,Jay Williams,DEM,19
+Faulk,4,U.S Senate,,Jay Williams,DEM,20
+Faulk,5,U.S Senate,,Jay Williams,DEM,17
+Faulk,6,U.S Senate,,Jay Williams,DEM,48
+Faulk,7,U.S Senate,,Jay Williams,DEM,50
+Faulk,TOTAL,U.S Senate,,Jay Williams,DEM,206
+Faulk,1,U.S House,1,Kristi Noem,REP,136
+Faulk,2,U.S House,1,Kristi Noem,REP,76
+Faulk,3,U.S House,1,Kristi Noem,REP,113
+Faulk,4,U.S House,1,Kristi Noem,REP,67
+Faulk,5,U.S House,1,Kristi Noem,REP,78
+Faulk,6,U.S House,1,Kristi Noem,REP,172
+Faulk,7,U.S House,1,Kristi Noem,REP,196
+Faulk,TOTAL,U.S House,1,Kristi Noem,REP,838
+Faulk,1,U.S House,1,Paula Hawks,DEM,54
+Faulk,2,U.S House,1,Paula Hawks,DEM,18
+Faulk,3,U.S House,1,Paula Hawks,DEM,24
+Faulk,4,U.S House,1,Paula Hawks,DEM,30
+Faulk,5,U.S House,1,Paula Hawks,DEM,27
+Faulk,6,U.S House,1,Paula Hawks,DEM,68
+Faulk,7,U.S House,1,Paula Hawks,DEM,80
+Faulk,TOTAL,U.S House,1,Paula Hawks,DEM,301
+Faulk,1,Public Utilities commissioner,,Chris Nelson,REP,153
+Faulk,2,Public Utilities commissioner,,Chris Nelson,REP,86
+Faulk,3,Public Utilities commissioner,,Chris Nelson,REP,112
+Faulk,4,Public Utilities commissioner,,Chris Nelson,REP,78
+Faulk,5,Public Utilities commissioner,,Chris Nelson,REP,91
+Faulk,6,Public Utilities commissioner,,Chris Nelson,REP,194
+Faulk,7,Public Utilities commissioner,,Chris Nelson,REP,227
+Faulk,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,941
+Faulk,1,Public Utilities commissioner,,Henry Red Cloud,DEM,31
+Faulk,2,Public Utilities commissioner,,Henry Red Cloud,DEM,4
+Faulk,3,Public Utilities commissioner,,Henry Red Cloud,DEM,19
+Faulk,4,Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Faulk,5,Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Faulk,6,Public Utilities commissioner,,Henry Red Cloud,DEM,33
+Faulk,7,Public Utilities commissioner,,Henry Red Cloud,DEM,42
+Faulk,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,154
+Faulk,1,State Senate,23,Justin R Cronin,REP,134
+Faulk,2,State Senate,23,Justin R Cronin,REP,75
+Faulk,3,State Senate,23,Justin R Cronin,REP,108
+Faulk,4,State Senate,23,Justin R Cronin,REP,70
+Faulk,5,State Senate,23,Justin R Cronin,REP,83
+Faulk,6,State Senate,23,Justin R Cronin,REP,200
+Faulk,7,State Senate,23,Justin R Cronin,REP,214
+Faulk,TOTAL,State Senate,23,Justin R Cronin,REP,884
+Faulk,1,State Representative,23,Spencer Gosch,REP,111
+Faulk,2,State Representative,23,Spencer Gosch,REP,63
+Faulk,3,State Representative,23,Spencer Gosch,REP,70
+Faulk,4,State Representative,23,Spencer Gosch,REP,52
+Faulk,5,State Representative,23,Spencer Gosch,REP,64
+Faulk,6,State Representative,23,Spencer Gosch,REP,159
+Faulk,7,State Representative,23,Spencer Gosch,REP,153
+Faulk,TOTAL,State Representative,23,Spencer Gosch,REP,672
+Faulk,1,State Representative,23,John A Lake,REP,94
+Faulk,2,State Representative,23,John A Lake,REP,54
+Faulk,3,State Representative,23,John A Lake,REP,103
+Faulk,4,State Representative,23,John A Lake,REP,57
+Faulk,5,State Representative,23,John A Lake,REP,53
+Faulk,6,State Representative,23,John A Lake,REP,162
+Faulk,7,State Representative,23,John A Lake,REP,162
+Faulk,TOTAL,State Representative,23,John A Lake,REP,685

@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Haakon,1,President,,Donald J. Trump,REP,96
+Haakon,4,President,,Donald J. Trump,REP,129
+Haakon,16,President,,Donald J. Trump,REP,188
+Haakon,17,President,,Donald J. Trump,REP,181
+Haakon,19,President,,Donald J. Trump,REP,162
+Haakon,20,President,,Donald J. Trump,REP,180
+Haakon,TOTAL,President,,Donald J. Trump,REP,936
+Haakon,1,President,,Gary Johnson,LIB,3
+Haakon,4,President,,Gary Johnson,LIB,1
+Haakon,16,President,,Gary Johnson,LIB,6
+Haakon,17,President,,Gary Johnson,LIB,3
+Haakon,19,President,,Gary Johnson,LIB,11
+Haakon,20,President,,Gary Johnson,LIB,3
+Haakon,TOTAL,President,,Gary Johnson,LIB,27
+Haakon,1,President,,Hillary Clinton,DEM,8
+Haakon,4,President,,Hillary Clinton,DEM,5
+Haakon,16,President,,Hillary Clinton,DEM,17
+Haakon,17,President,,Hillary Clinton,DEM,20
+Haakon,19,President,,Hillary Clinton,DEM,21
+Haakon,20,President,,Hillary Clinton,DEM,6
+Haakon,TOTAL,President,,Hillary Clinton,DEM,77
+Haakon,1,President,,Darrell L. Castle,CON,0
+Haakon,4,President,,Darrell L. Castle,CON,0
+Haakon,16,President,,Darrell L. Castle,CON,2
+Haakon,17,President,,Darrell L. Castle,CON,0
+Haakon,19,President,,Darrell L. Castle,CON,2
+Haakon,20,President,,Darrell L. Castle,CON,0
+Haakon,TOTAL,President,,Darrell L. Castle,CON,4
+Haakon,1,U.S Senate,,John R. Thune,REP,103
+Haakon,4,U.S Senate,,John R. Thune,REP,124
+Haakon,16,U.S Senate,,John R. Thune,REP,193
+Haakon,17,U.S Senate,,John R. Thune,REP,187
+Haakon,19,U.S Senate,,John R. Thune,REP,175
+Haakon,20,U.S Senate,,John R. Thune,REP,174
+Haakon,TOTAL,U.S Senate,,John R. Thune,REP,956
+Haakon,1,U.S Senate,,Jay Williams,DEM,8
+Haakon,4,U.S Senate,,Jay Williams,DEM,6
+Haakon,16,U.S Senate,,Jay Williams,DEM,17
+Haakon,17,U.S Senate,,Jay Williams,DEM,16
+Haakon,19,U.S Senate,,Jay Williams,DEM,24
+Haakon,20,U.S Senate,,Jay Williams,DEM,13
+Haakon,TOTAL,U.S Senate,,Jay Williams,DEM,84
+Haakon,1,U.S House,1,Kristi Noem,REP,101
+Haakon,4,U.S House,1,Kristi Noem,REP,124
+Haakon,16,U.S House,1,Kristi Noem,REP,187
+Haakon,17,U.S House,1,Kristi Noem,REP,177
+Haakon,19,U.S House,1,Kristi Noem,REP,165
+Haakon,20,U.S House,1,Kristi Noem,REP,172
+Haakon,TOTAL,U.S House,1,Kristi Noem,REP,926
+Haakon,1,U.S House,1,Paula Hawks,DEM,8
+Haakon,4,U.S House,1,Paula Hawks,DEM,7
+Haakon,16,U.S House,1,Paula Hawks,DEM,23
+Haakon,17,U.S House,1,Paula Hawks,DEM,24
+Haakon,19,U.S House,1,Paula Hawks,DEM,32
+Haakon,20,U.S House,1,Paula Hawks,DEM,15
+Haakon,TOTAL,U.S House,1,Paula Hawks,DEM,109
+Haakon,1,Public Utilities commissioner,,Chris Nelson,REP,102
+Haakon,4,Public Utilities commissioner,,Chris Nelson,REP,128
+Haakon,16,Public Utilities commissioner,,Chris Nelson,REP,192
+Haakon,17,Public Utilities commissioner,,Chris Nelson,REP,189
+Haakon,19,Public Utilities commissioner,,Chris Nelson,REP,175
+Haakon,20,Public Utilities commissioner,,Chris Nelson,REP,178
+Haakon,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,964
+Haakon,1,Public Utilities commissioner,,Henry Red Cloud,DEM,5
+Haakon,4,Public Utilities commissioner,,Henry Red Cloud,DEM,4
+Haakon,16,Public Utilities commissioner,,Henry Red Cloud,DEM,14
+Haakon,17,Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Haakon,19,Public Utilities commissioner,,Henry Red Cloud,DEM,20
+Haakon,20,Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Haakon,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,63
+Haakon,1,State Senate,27,Kevin Killer,DEM,32
+Haakon,4,State Senate,27,Kevin Killer,DEM,28
+Haakon,16,State Senate,27,Kevin Killer,DEM,58
+Haakon,17,State Senate,27,Kevin Killer,DEM,65
+Haakon,19,State Senate,27,Kevin Killer,DEM,61
+Haakon,20,State Senate,27,Kevin Killer,DEM,66
+Haakon,TOTAL,State Senate,27,Kevin Killer,DEM,310
+Haakon,1,State Representative,27,Elizabeth May,REP,83
+Haakon,4,State Representative,27,Elizabeth May,REP,113
+Haakon,16,State Representative,27,Elizabeth May,REP,157
+Haakon,17,State Representative,27,Elizabeth May,REP,140
+Haakon,19,State Representative,27,Elizabeth May,REP,138
+Haakon,20,State Representative,27,Elizabeth May,REP,142
+Haakon,TOTAL,State Representative,27,Elizabeth May,REP,773
+Haakon,1,State Representative,27,Steve Livermont,REP,89
+Haakon,4,State Representative,27,Steve Livermont,REP,112
+Haakon,16,State Representative,27,Steve Livermont,REP,169
+Haakon,17,State Representative,27,Steve Livermont,REP,158
+Haakon,19,State Representative,27,Steve Livermont,REP,144
+Haakon,20,State Representative,27,Steve Livermont,REP,146
+Haakon,TOTAL,State Representative,27,Steve Livermont,REP,818
+Haakon,1,State Representative,27,Red Dawn Foster,DEM,3
+Haakon,4,State Representative,27,Red Dawn Foster,DEM,1
+Haakon,16,State Representative,27,Red Dawn Foster,DEM,8
+Haakon,17,State Representative,27,Red Dawn Foster,DEM,9
+Haakon,19,State Representative,27,Red Dawn Foster,DEM,12
+Haakon,20,State Representative,27,Red Dawn Foster,DEM,6
+Haakon,TOTAL,State Representative,27,Red Dawn Foster,DEM,39
+Haakon,1,State Representative,27,Jim Bradford,DEM,17
+Haakon,4,State Representative,27,Jim Bradford,DEM,10
+Haakon,16,State Representative,27,Jim Bradford,DEM,34
+Haakon,17,State Representative,27,Jim Bradford,DEM,23
+Haakon,19,State Representative,27,Jim Bradford,DEM,35
+Haakon,20,State Representative,27,Jim Bradford,DEM,26
+Haakon,TOTAL,State Representative,27,Jim Bradford,DEM,145
+Haakon,1,State Representative,27,Everette L McKinley,IND,2
+Haakon,4,State Representative,27,Everette L McKinley,IND,7
+Haakon,16,State Representative,27,Everette L McKinley,IND,3
+Haakon,17,State Representative,27,Everette L McKinley,IND,13
+Haakon,19,State Representative,27,Everette L McKinley,IND,14
+Haakon,20,State Representative,27,Everette L McKinley,IND,6
+Haakon,TOTAL,State Representative,27,Everette L McKinley,IND,45

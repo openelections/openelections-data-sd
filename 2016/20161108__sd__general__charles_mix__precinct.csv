@@ -1,0 +1,197 @@
+county,precinct,office,district,candidate,party,votes
+Charles,1,President,,Donald J. Trump,REP,267
+Charles,2,President,,Donald J. Trump,REP,125
+Charles,3,President,,Donald J. Trump,REP,282
+Charles,4,President,,Donald J. Trump,REP,73
+Charles,5,President,,Donald J. Trump,REP,210
+Charles,6,President,,Donald J. Trump,REP,100
+Charles,7,President,,Donald J. Trump,REP,87
+Charles,8,President,,Donald J. Trump,REP,143
+Charles,9,President,,Donald J. Trump,REP,320
+Charles,10,President,,Donald J. Trump,REP,91
+Charles,11,President,,Donald J. Trump,REP,567
+Charles,12,President,,Donald J. Trump,REP,73
+Charles,13,President,,Donald J. Trump,REP,44
+Charles,TOTAL,President,,Donald J. Trump,REP,2382
+Charles,1,President,,Gary Johnson,LIB,12
+Charles,2,President,,Gary Johnson,LIB,6
+Charles,3,President,,Gary Johnson,LIB,24
+Charles,4,President,,Gary Johnson,LIB,5
+Charles,5,President,,Gary Johnson,LIB,3
+Charles,6,President,,Gary Johnson,LIB,8
+Charles,7,President,,Gary Johnson,LIB,1
+Charles,8,President,,Gary Johnson,LIB,7
+Charles,9,President,,Gary Johnson,LIB,7
+Charles,10,President,,Gary Johnson,LIB,3
+Charles,11,President,,Gary Johnson,LIB,14
+Charles,12,President,,Gary Johnson,LIB,7
+Charles,13,President,,Gary Johnson,LIB,1
+Charles,TOTAL,President,,Gary Johnson,LIB,98
+Charles,1,President,,Hillary Clinton,DEM,117
+Charles,2,President,,Hillary Clinton,DEM,50
+Charles,3,President,,Hillary Clinton,DEM,193
+Charles,4,President,,Hillary Clinton,DEM,94
+Charles,5,President,,Hillary Clinton,DEM,106
+Charles,6,President,,Hillary Clinton,DEM,101
+Charles,7,President,,Hillary Clinton,DEM,38
+Charles,8,President,,Hillary Clinton,DEM,22
+Charles,9,President,,Hillary Clinton,DEM,51
+Charles,10,President,,Hillary Clinton,DEM,12
+Charles,11,President,,Hillary Clinton,DEM,103
+Charles,12,President,,Hillary Clinton,DEM,24
+Charles,13,President,,Hillary Clinton,DEM,24
+Charles,TOTAL,President,,Hillary Clinton,DEM,935
+Charles,1,President,,Darrell L. Castle,CON,4
+Charles,2,President,,Darrell L. Castle,CON,3
+Charles,3,President,,Darrell L. Castle,CON,5
+Charles,4,President,,Darrell L. Castle,CON,1
+Charles,5,President,,Darrell L. Castle,CON,0
+Charles,6,President,,Darrell L. Castle,CON,0
+Charles,7,President,,Darrell L. Castle,CON,1
+Charles,8,President,,Darrell L. Castle,CON,0
+Charles,9,President,,Darrell L. Castle,CON,0
+Charles,10,President,,Darrell L. Castle,CON,1
+Charles,11,President,,Darrell L. Castle,CON,3
+Charles,12,President,,Darrell L. Castle,CON,0
+Charles,13,President,,Darrell L. Castle,CON,0
+Charles,TOTAL,President,,Darrell L. Castle,CON,18
+Charles,1,U.S Senate,,John R. Thune,REP,273
+Charles,2,U.S Senate,,John R. Thune,REP,121
+Charles,3,U.S Senate,,John R. Thune,REP,313
+Charles,4,U.S Senate,,John R. Thune,REP,87
+Charles,5,U.S Senate,,John R. Thune,REP,203
+Charles,6,U.S Senate,,John R. Thune,REP,113
+Charles,7,U.S Senate,,John R. Thune,REP,90
+Charles,8,U.S Senate,,John R. Thune,REP,138
+Charles,9,U.S Senate,,John R. Thune,REP,329
+Charles,10,U.S Senate,,John R. Thune,REP,92
+Charles,11,U.S Senate,,John R. Thune,REP,601
+Charles,12,U.S Senate,,John R. Thune,REP,80
+Charles,13,U.S Senate,,John R. Thune,REP,44
+Charles,TOTAL,U.S Senate,,John R. Thune,REP,2484
+Charles,1,U.S Senate,,Jay Williams,DEM,121
+Charles,2,U.S Senate,,Jay Williams,DEM,64
+Charles,3,U.S Senate,,Jay Williams,DEM,195
+Charles,4,U.S Senate,,Jay Williams,DEM,91
+Charles,5,U.S Senate,,Jay Williams,DEM,113
+Charles,6,U.S Senate,,Jay Williams,DEM,98
+Charles,7,U.S Senate,,Jay Williams,DEM,34
+Charles,8,U.S Senate,,Jay Williams,DEM,30
+Charles,9,U.S Senate,,Jay Williams,DEM,53
+Charles,10,U.S Senate,,Jay Williams,DEM,9
+Charles,11,U.S Senate,,Jay Williams,DEM,85
+Charles,12,U.S Senate,,Jay Williams,DEM,24
+Charles,13,U.S Senate,,Jay Williams,DEM,24
+Charles,TOTAL,U.S Senate,,Jay Williams,DEM,941
+Charles,1,U.S House,1,Kristi Noem,REP,246
+Charles,2,U.S House,1,Kristi Noem,REP,119
+Charles,3,U.S House,1,Kristi Noem,REP,272
+Charles,4,U.S House,1,Kristi Noem,REP,82
+Charles,5,U.S House,1,Kristi Noem,REP,189
+Charles,6,U.S House,1,Kristi Noem,REP,92
+Charles,7,U.S House,1,Kristi Noem,REP,81
+Charles,8,U.S House,1,Kristi Noem,REP,132
+Charles,9,U.S House,1,Kristi Noem,REP,312
+Charles,10,U.S House,1,Kristi Noem,REP,92
+Charles,11,U.S House,1,Kristi Noem,REP,564
+Charles,12,U.S House,1,Kristi Noem,REP,66
+Charles,13,U.S House,1,Kristi Noem,REP,41
+Charles,TOTAL,U.S House,1,Kristi Noem,REP,2288
+Charles,1,U.S House,1,Paula Hawks,DEM,148
+Charles,2,U.S House,1,Paula Hawks,DEM,68
+Charles,3,U.S House,1,Paula Hawks,DEM,239
+Charles,4,U.S House,1,Paula Hawks,DEM,98
+Charles,5,U.S House,1,Paula Hawks,DEM,128
+Charles,6,U.S House,1,Paula Hawks,DEM,121
+Charles,7,U.S House,1,Paula Hawks,DEM,44
+Charles,8,U.S House,1,Paula Hawks,DEM,36
+Charles,9,U.S House,1,Paula Hawks,DEM,63
+Charles,10,U.S House,1,Paula Hawks,DEM,14
+Charles,11,U.S House,1,Paula Hawks,DEM,127
+Charles,12,U.S House,1,Paula Hawks,DEM,40
+Charles,13,U.S House,1,Paula Hawks,DEM,28
+Charles,TOTAL,U.S House,1,Paula Hawks,DEM,1154
+Charles,1,Public Utilities commissioner,,Chris Nelson,REP,295
+Charles,2,Public Utilities commissioner,,Chris Nelson,REP,143
+Charles,3,Public Utilities commissioner,,Chris Nelson,REP,330
+Charles,4,Public Utilities commissioner,,Chris Nelson,REP,81
+Charles,5,Public Utilities commissioner,,Chris Nelson,REP,224
+Charles,6,Public Utilities commissioner,,Chris Nelson,REP,109
+Charles,7,Public Utilities commissioner,,Chris Nelson,REP,100
+Charles,8,Public Utilities commissioner,,Chris Nelson,REP,155
+Charles,9,Public Utilities commissioner,,Chris Nelson,REP,341
+Charles,10,Public Utilities commissioner,,Chris Nelson,REP,101
+Charles,11,Public Utilities commissioner,,Chris Nelson,REP,628
+Charles,12,Public Utilities commissioner,,Chris Nelson,REP,85
+Charles,13,Public Utilities commissioner,,Chris Nelson,REP,47
+Charles,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2639
+Charles,1,Public Utilities commissioner,,Henry Red Cloud,DEM,96
+Charles,2,Public Utilities commissioner,,Henry Red Cloud,DEM,39
+Charles,3,Public Utilities commissioner,,Henry Red Cloud,DEM,173
+Charles,4,Public Utilities commissioner,,Henry Red Cloud,DEM,96
+Charles,5,Public Utilities commissioner,,Henry Red Cloud,DEM,93
+Charles,6,Public Utilities commissioner,,Henry Red Cloud,DEM,95
+Charles,7,Public Utilities commissioner,,Henry Red Cloud,DEM,22
+Charles,8,Public Utilities commissioner,,Henry Red Cloud,DEM,13
+Charles,9,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Charles,10,Public Utilities commissioner,,Henry Red Cloud,DEM,3
+Charles,11,Public Utilities commissioner,,Henry Red Cloud,DEM,58
+Charles,12,Public Utilities commissioner,,Henry Red Cloud,DEM,19
+Charles,13,Public Utilities commissioner,,Henry Red Cloud,DEM,21
+Charles,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,766
+Charles,1,State Senate,21,Billie H Sutton,DEM,316
+Charles,2,State Senate,21,Billie H Sutton,DEM,150
+Charles,3,State Senate,21,Billie H Sutton,DEM,375
+Charles,4,State Senate,21,Billie H Sutton,DEM,143
+Charles,5,State Senate,21,Billie H Sutton,DEM,237
+Charles,6,State Senate,21,Billie H Sutton,DEM,165
+Charles,7,State Senate,21,Billie H Sutton,DEM,78
+Charles,8,State Senate,21,Billie H Sutton,DEM,127
+Charles,9,State Senate,21,Billie H Sutton,DEM,272
+Charles,10,State Senate,21,Billie H Sutton,DEM,66
+Charles,11,State Senate,21,Billie H Sutton,DEM,468
+Charles,12,State Senate,21,Billie H Sutton,DEM,86
+Charles,13,State Senate,21,Billie H Sutton,DEM,51
+Charles,TOTAL,State Senate,21,Billie H Sutton,DEM,2534
+Charles,1,State Representative,21,Lee Qualm,REP,194
+Charles,2,State Representative,21,Lee Qualm,REP,88
+Charles,3,State Representative,21,Lee Qualm,REP,236
+Charles,4,State Representative,21,Lee Qualm,REP,60
+Charles,5,State Representative,21,Lee Qualm,REP,169
+Charles,6,State Representative,21,Lee Qualm,REP,95
+Charles,7,State Representative,21,Lee Qualm,REP,77
+Charles,8,State Representative,21,Lee Qualm,REP,115
+Charles,9,State Representative,21,Lee Qualm,REP,267
+Charles,10,State Representative,21,Lee Qualm,REP,81
+Charles,11,State Representative,21,Lee Qualm,REP,486
+Charles,12,State Representative,21,Lee Qualm,REP,57
+Charles,13,State Representative,21,Lee Qualm,REP,32
+Charles,TOTAL,State Representative,21,Lee Qualm,REP,1957
+Charles,1,State Representative,21,Gray Burns,DEM,127
+Charles,2,State Representative,21,Gray Burns,DEM,75
+Charles,3,State Representative,21,Gray Burns,DEM,189
+Charles,4,State Representative,21,Gray Burns,DEM,74
+Charles,5,State Representative,21,Gray Burns,DEM,110
+Charles,6,State Representative,21,Gray Burns,DEM,86
+Charles,7,State Representative,21,Gray Burns,DEM,38
+Charles,8,State Representative,21,Gray Burns,DEM,54
+Charles,9,State Representative,21,Gray Burns,DEM,107
+Charles,10,State Representative,21,Gray Burns,DEM,26
+Charles,11,State Representative,21,Gray Burns,DEM,158
+Charles,12,State Representative,21,Gray Burns,DEM,39
+Charles,13,State Representative,21,Gray Burns,DEM,26
+Charles,TOTAL,State Representative,21,Gray Burns,DEM,1109
+Charles,1,State Representative,21,julie Bartling,DEM,266
+Charles,2,State Representative,21,julie Bartling,DEM,111
+Charles,3,State Representative,21,julie Bartling,DEM,294
+Charles,4,State Representative,21,julie Bartling,DEM,123
+Charles,5,State Representative,21,julie Bartling,DEM,188
+Charles,6,State Representative,21,julie Bartling,DEM,137
+Charles,7,State Representative,21,julie Bartling,DEM,54
+Charles,8,State Representative,21,julie Bartling,DEM,89
+Charles,9,State Representative,21,julie Bartling,DEM,183
+Charles,10,State Representative,21,julie Bartling,DEM,43
+Charles,11,State Representative,21,julie Bartling,DEM,341
+Charles,12,State Representative,21,julie Bartling,DEM,72
+Charles,13,State Representative,21,julie Bartling,DEM,43
+Charles,TOTAL,State Representative,21,julie Bartling,DEM,1944
