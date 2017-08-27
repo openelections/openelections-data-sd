@@ -1,0 +1,91 @@
+county,precinct,office,district,candidate,party,votes
+Douglas,1,President,,Donald J. Trump,REP,341
+Douglas,2,President,,Donald J. Trump,REP,252
+Douglas,3,President,,Donald J. Trump,REP,225
+Douglas,4,President,,Donald J. Trump,REP,245
+Douglas,5,President,,Donald J. Trump,REP,275
+Douglas,TOTAL,President,,Donald J. Trump,REP,1338
+Douglas,1,President,,Gary Johnson,LIB,6
+Douglas,2,President,,Gary Johnson,LIB,5
+Douglas,3,President,,Gary Johnson,LIB,10
+Douglas,4,President,,Gary Johnson,LIB,13
+Douglas,5,President,,Gary Johnson,LIB,7
+Douglas,TOTAL,President,,Gary Johnson,LIB,41
+Douglas,1,President,,Hillary Clinton,DEM,27
+Douglas,2,President,,Hillary Clinton,DEM,51
+Douglas,3,President,,Hillary Clinton,DEM,38
+Douglas,4,President,,Hillary Clinton,DEM,69
+Douglas,5,President,,Hillary Clinton,DEM,29
+Douglas,TOTAL,President,,Hillary Clinton,DEM,214
+Douglas,1,President,,Darrell L. Castle,CON,2
+Douglas,2,President,,Darrell L. Castle,CON,1
+Douglas,3,President,,Darrell L. Castle,CON,3
+Douglas,4,President,,Darrell L. Castle,CON,3
+Douglas,5,President,,Darrell L. Castle,CON,3
+Douglas,TOTAL,President,,Darrell L. Castle,CON,12
+Douglas,1,U.S Senate,,John R. Thune,REP,345
+Douglas,2,U.S Senate,,John R. Thune,REP,255
+Douglas,3,U.S Senate,,John R. Thune,REP,220
+Douglas,4,U.S Senate,,John R. Thune,REP,270
+Douglas,5,U.S Senate,,John R. Thune,REP,287
+Douglas,TOTAL,U.S Senate,,John R. Thune,REP,1377
+Douglas,1,U.S Senate,,Jay Williams,DEM,33
+Douglas,2,U.S Senate,,Jay Williams,DEM,50
+Douglas,3,U.S Senate,,Jay Williams,DEM,53
+Douglas,4,U.S Senate,,Jay Williams,DEM,64
+Douglas,5,U.S Senate,,Jay Williams,DEM,28
+Douglas,TOTAL,U.S Senate,,Jay Williams,DEM,228
+Douglas,1,U.S House,1,Kristi Noem,REP,332
+Douglas,2,U.S House,1,Kristi Noem,REP,248
+Douglas,3,U.S House,1,Kristi Noem,REP,207
+Douglas,4,U.S House,1,Kristi Noem,REP,256
+Douglas,5,U.S House,1,Kristi Noem,REP,291
+Douglas,TOTAL,U.S House,1,Kristi Noem,REP,1334
+Douglas,1,U.S House,1,Paula Hawks,DEM,43
+Douglas,2,U.S House,1,Paula Hawks,DEM,58
+Douglas,3,U.S House,1,Paula Hawks,DEM,68
+Douglas,4,U.S House,1,Paula Hawks,DEM,79
+Douglas,5,U.S House,1,Paula Hawks,DEM,29
+Douglas,TOTAL,U.S House,1,Paula Hawks,DEM,277
+Douglas,1,Public Utilities commissioner,,Chris Nelson,REP,349
+Douglas,2,Public Utilities commissioner,,Chris Nelson,REP,275
+Douglas,3,Public Utilities commissioner,,Chris Nelson,REP,230
+Douglas,4,Public Utilities commissioner,,Chris Nelson,REP,288
+Douglas,5,Public Utilities commissioner,,Chris Nelson,REP,285
+Douglas,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1427
+Douglas,1,Public Utilities commissioner,,Henry Red Cloud,DEM,18
+Douglas,2,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Douglas,3,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Douglas,4,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Douglas,5,Public Utilities commissioner,,Henry Red Cloud,DEM,20
+Douglas,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,139
+Douglas,1,State Senate,19,Stace Nelson,REP,340
+Douglas,2,State Senate,19,Stace Nelson,REP,240
+Douglas,3,State Senate,19,Stace Nelson,REP,218
+Douglas,4,State Senate,19,Stace Nelson,REP,255
+Douglas,5,State Senate,19,Stace Nelson,REP,271
+Douglas,TOTAL,State Senate,19,Stace Nelson,REP,1324
+Douglas,1,State Senate,19,Russell Graeff,DEM,27
+Douglas,2,State Senate,19,Russell Graeff,DEM,53
+Douglas,3,State Senate,19,Russell Graeff,DEM,56
+Douglas,4,State Senate,19,Russell Graeff,DEM,67
+Douglas,5,State Senate,19,Russell Graeff,DEM,33
+Douglas,TOTAL,State Senate,19,Russell Graeff,DEM,236
+Douglas,1,State Representative,19,Kent S. Peterson,REP,277
+Douglas,2,State Representative,19,Kent S. Peterson,REP,195
+Douglas,3,State Representative,19,Kent S. Peterson,REP,165
+Douglas,4,State Representative,19,Kent S. Peterson,REP,220
+Douglas,5,State Representative,19,Kent S. Peterson,REP,230
+Douglas,TOTAL,State Representative,19,Kent S. Peterson,REP,1087
+Douglas,1,State Representative,19,Kyle Schoenfish,REP,267
+Douglas,2,State Representative,19,Kyle Schoenfish,REP,232
+Douglas,3,State Representative,19,Kyle Schoenfish,REP,202
+Douglas,4,State Representative,19,Kyle Schoenfish,REP,219
+Douglas,5,State Representative,19,Kyle Schoenfish,REP,253
+Douglas,TOTAL,State Representative,19,Kyle Schoenfish,REP,1173
+Douglas,1,State Representative,19,Melissa R Mentele,DEM,31
+Douglas,2,State Representative,19,Melissa R Mentele,DEM,57
+Douglas,3,State Representative,19,Melissa R Mentele,DEM,56
+Douglas,4,State Representative,19,Melissa R Mentele,DEM,87
+Douglas,5,State Representative,19,Melissa R Mentele,DEM,34
+Douglas,TOTAL,State Representative,19,Melissa R Mentele,DEM,265

@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Moody,1,President,,Donald J. Trump,REP,226
+Moody,2,President,,Donald J. Trump,REP,207
+Moody,3,President,,Donald J. Trump,REP,357
+Moody,34,President,,Donald J. Trump,REP,208
+Moody,4,President,,Donald J. Trump,REP,264
+Moody,5,President,,Donald J. Trump,REP,469
+Moody,TOTAL,President,,Donald J. Trump,REP,1731
+Moody,1,President,,Gary Johnson,LIB,19
+Moody,2,President,,Gary Johnson,LIB,29
+Moody,3,President,,Gary Johnson,LIB,26
+Moody,34,President,,Gary Johnson,LIB,10
+Moody,4,President,,Gary Johnson,LIB,19
+Moody,5,President,,Gary Johnson,LIB,28
+Moody,TOTAL,President,,Gary Johnson,LIB,131
+Moody,1,President,,Hillary Clinton,DEM,258
+Moody,2,President,,Hillary Clinton,DEM,279
+Moody,3,President,,Hillary Clinton,DEM,151
+Moody,34,President,,Hillary Clinton,DEM,109
+Moody,4,President,,Hillary Clinton,DEM,86
+Moody,5,President,,Hillary Clinton,DEM,160
+Moody,TOTAL,President,,Hillary Clinton,DEM,1043
+Moody,1,President,,Darrell L. Castle,CON,7
+Moody,2,President,,Darrell L. Castle,CON,3
+Moody,3,President,,Darrell L. Castle,CON,7
+Moody,34,President,,Darrell L. Castle,CON,4
+Moody,4,President,,Darrell L. Castle,CON,1
+Moody,5,President,,Darrell L. Castle,CON,6
+Moody,TOTAL,President,,Darrell L. Castle,CON,28
+Moody,1,U.S Senate,,John R. Thune,REP,283
+Moody,2,U.S Senate,,John R. Thune,REP,274
+Moody,3,U.S Senate,,John R. Thune,REP,401
+Moody,34,U.S Senate,,John R. Thune,REP,243
+Moody,4,U.S Senate,,John R. Thune,REP,283
+Moody,5,U.S Senate,,John R. Thune,REP,499
+Moody,TOTAL,U.S Senate,,John R. Thune,REP,1983
+Moody,1,U.S Senate,,Jay Williams,DEM,236
+Moody,2,U.S Senate,,Jay Williams,DEM,251
+Moody,3,U.S Senate,,Jay Williams,DEM,147
+Moody,34,U.S Senate,,Jay Williams,DEM,92
+Moody,4,U.S Senate,,Jay Williams,DEM,85
+Moody,5,U.S Senate,,Jay Williams,DEM,159
+Moody,TOTAL,U.S Senate,,Jay Williams,DEM,970
+Moody,1,U.S House,1,Kristi Noem,REP,195
+Moody,2,U.S House,1,Kristi Noem,REP,185
+Moody,3,U.S House,1,Kristi Noem,REP,346
+Moody,34,U.S House,1,Kristi Noem,REP,177
+Moody,4,U.S House,1,Kristi Noem,REP,223
+Moody,5,U.S House,1,Kristi Noem,REP,419
+Moody,TOTAL,U.S House,1,Kristi Noem,REP,1545
+Moody,1,U.S House,1,Paula Hawks,DEM,326
+Moody,2,U.S House,1,Paula Hawks,DEM,337
+Moody,3,U.S House,1,Paula Hawks,DEM,201
+Moody,34,U.S House,1,Paula Hawks,DEM,157
+Moody,4,U.S House,1,Paula Hawks,DEM,149
+Moody,5,U.S House,1,Paula Hawks,DEM,239
+Moody,TOTAL,U.S House,1,Paula Hawks,DEM,1409
+Moody,1,Public Utilities commissioner,,Chris Nelson,REP,298
+Moody,2,Public Utilities commissioner,,Chris Nelson,REP,286
+Moody,3,Public Utilities commissioner,,Chris Nelson,REP,444
+Moody,34,Public Utilities commissioner,,Chris Nelson,REP,248
+Moody,4,Public Utilities commissioner,,Chris Nelson,REP,280
+Moody,5,Public Utilities commissioner,,Chris Nelson,REP,527
+Moody,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2083
+Moody,1,Public Utilities commissioner,,Henry Red Cloud,DEM,214
+Moody,2,Public Utilities commissioner,,Henry Red Cloud,DEM,224
+Moody,3,Public Utilities commissioner,,Henry Red Cloud,DEM,95
+Moody,34,Public Utilities commissioner,,Henry Red Cloud,DEM,77
+Moody,4,Public Utilities commissioner,,Henry Red Cloud,DEM,79
+Moody,5,Public Utilities commissioner,,Henry Red Cloud,DEM,115
+Moody,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,804
+Moody,1,State Senate,8,Jordan Youngberg,REP,163
+Moody,2,State Senate,8,Jordan Youngberg,REP,144
+Moody,3,State Senate,8,Jordan Youngberg,REP,301
+Moody,34,State Senate,8,Jordan Youngberg,REP,149
+Moody,4,State Senate,8,Jordan Youngberg,REP,216
+Moody,5,State Senate,8,Jordan Youngberg,REP,357
+Moody,TOTAL,State Senate,8,Jordan Youngberg,REP,1330
+Moody,1,State Senate,8,Scott Parsley,DEM,358
+Moody,2,State Senate,8,Scott Parsley,DEM,378
+Moody,3,State Senate,8,Scott Parsley,DEM,236
+Moody,34,State Senate,8,Scott Parsley,DEM,177
+Moody,4,State Senate,8,Scott Parsley,DEM,148
+Moody,5,State Senate,8,Scott Parsley,DEM,288
+Moody,TOTAL,State Senate,8,Scott Parsley,DEM,1585
+Moody,1,State Representative,8,Mathew Wollmann,REP,148
+Moody,2,State Representative,8,Mathew Wollmann,REP,130
+Moody,3,State Representative,8,Mathew Wollmann,REP,275
+Moody,34,State Representative,8,Mathew Wollmann,REP,153
+Moody,4,State Representative,8,Mathew Wollmann,REP,179
+Moody,5,State Representative,8,Mathew Wollmann,REP,368
+Moody,TOTAL,State Representative,8,Mathew Wollmann,REP,1253
+Moody,1,State Representative,8,Leslie Heinemann,REP,234
+Moody,2,State Representative,8,Leslie Heinemann,REP,235
+Moody,3,State Representative,8,Leslie Heinemann,REP,370
+Moody,34,State Representative,8,Leslie Heinemann,REP,205
+Moody,4,State Representative,8,Leslie Heinemann,REP,223
+Moody,5,State Representative,8,Leslie Heinemann,REP,386
+Moody,TOTAL,State Representative,8,Leslie Heinemann,REP,1653
+Moody,1,State Representative,8,Jason Unger,DEM,348
+Moody,2,State Representative,8,Jason Unger,DEM,345
+Moody,3,State Representative,8,Jason Unger,DEM,197
+Moody,34,State Representative,8,Jason Unger,DEM,166
+Moody,4,State Representative,8,Jason Unger,DEM,152
+Moody,5,State Representative,8,Jason Unger,DEM,240
+Moody,TOTAL,State Representative,8,Jason Unger,DEM,1448
+Moody,1,State Representative,8,Kory Rawstern,DEM,122
+Moody,2,State Representative,8,Kory Rawstern,DEM,135
+Moody,3,State Representative,8,Kory Rawstern,DEM,91
+Moody,34,State Representative,8,Kory Rawstern,DEM,52
+Moody,4,State Representative,8,Kory Rawstern,DEM,56
+Moody,5,State Representative,8,Kory Rawstern,DEM,122
+Moody,TOTAL,State Representative,8,Kory Rawstern,DEM,578

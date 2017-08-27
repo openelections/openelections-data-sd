@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Hamlin,2,President,,Donald J. Trump,REP,125
+Hamlin,21,President,,Donald J. Trump,REP,483
+Hamlin,22,President,,Donald J. Trump,REP,109
+Hamlin,23,President,,Donald J. Trump,REP,240
+Hamlin,24,President,,Donald J. Trump,REP,471
+Hamlin,25,President,,Donald J. Trump,REP,285
+Hamlin,26,President,,Donald J. Trump,REP,338
+Hamlin,TOTAL,President,,Donald J. Trump,REP,2051
+Hamlin,2,President,,Gary Johnson,LIB,3
+Hamlin,21,President,,Gary Johnson,LIB,32
+Hamlin,22,President,,Gary Johnson,LIB,3
+Hamlin,23,President,,Gary Johnson,LIB,14
+Hamlin,24,President,,Gary Johnson,LIB,29
+Hamlin,25,President,,Gary Johnson,LIB,29
+Hamlin,26,President,,Gary Johnson,LIB,14
+Hamlin,TOTAL,President,,Gary Johnson,LIB,124
+Hamlin,2,President,,Hillary Clinton,DEM,17
+Hamlin,21,President,,Hillary Clinton,DEM,166
+Hamlin,22,President,,Hillary Clinton,DEM,12
+Hamlin,23,President,,Hillary Clinton,DEM,54
+Hamlin,24,President,,Hillary Clinton,DEM,117
+Hamlin,25,President,,Hillary Clinton,DEM,143
+Hamlin,26,President,,Hillary Clinton,DEM,46
+Hamlin,TOTAL,President,,Hillary Clinton,DEM,555
+Hamlin,2,President,,Darrell L. Castle,CON,2
+Hamlin,21,President,,Darrell L. Castle,CON,12
+Hamlin,22,President,,Darrell L. Castle,CON,5
+Hamlin,23,President,,Darrell L. Castle,CON,4
+Hamlin,24,President,,Darrell L. Castle,CON,3
+Hamlin,25,President,,Darrell L. Castle,CON,3
+Hamlin,26,President,,Darrell L. Castle,CON,3
+Hamlin,TOTAL,President,,Darrell L. Castle,CON,32
+Hamlin,2,U.S Senate,,John R. Thune,REP,135
+Hamlin,21,U.S Senate,,John R. Thune,REP,534
+Hamlin,22,U.S Senate,,John R. Thune,REP,117
+Hamlin,23,U.S Senate,,John R. Thune,REP,265
+Hamlin,24,U.S Senate,,John R. Thune,REP,521
+Hamlin,25,U.S Senate,,John R. Thune,REP,321
+Hamlin,26,U.S Senate,,John R. Thune,REP,360
+Hamlin,TOTAL,U.S Senate,,John R. Thune,REP,2253
+Hamlin,2,U.S Senate,,Jay Williams,DEM,14
+Hamlin,21,U.S Senate,,Jay Williams,DEM,159
+Hamlin,22,U.S Senate,,Jay Williams,DEM,9
+Hamlin,23,U.S Senate,,Jay Williams,DEM,53
+Hamlin,24,U.S Senate,,Jay Williams,DEM,111
+Hamlin,25,U.S Senate,,Jay Williams,DEM,149
+Hamlin,26,U.S Senate,,Jay Williams,DEM,41
+Hamlin,TOTAL,U.S Senate,,Jay Williams,DEM,536
+Hamlin,2,U.S House,1,Kristi Noem,REP,127
+Hamlin,21,U.S House,1,Kristi Noem,REP,479
+Hamlin,22,U.S House,1,Kristi Noem,REP,116
+Hamlin,23,U.S House,1,Kristi Noem,REP,246
+Hamlin,24,U.S House,1,Kristi Noem,REP,483
+Hamlin,25,U.S House,1,Kristi Noem,REP,273
+Hamlin,26,U.S House,1,Kristi Noem,REP,338
+Hamlin,TOTAL,U.S House,1,Kristi Noem,REP,2062
+Hamlin,2,U.S House,1,Paula Hawks,DEM,20
+Hamlin,21,U.S House,1,Paula Hawks,DEM,221
+Hamlin,22,U.S House,1,Paula Hawks,DEM,15
+Hamlin,23,U.S House,1,Paula Hawks,DEM,70
+Hamlin,24,U.S House,1,Paula Hawks,DEM,149
+Hamlin,25,U.S House,1,Paula Hawks,DEM,198
+Hamlin,26,U.S House,1,Paula Hawks,DEM,57
+Hamlin,TOTAL,U.S House,1,Paula Hawks,DEM,730
+Hamlin,2,Public Utilities commissioner,,Chris Nelson,REP,135
+Hamlin,21,Public Utilities commissioner,,Chris Nelson,REP,570
+Hamlin,22,Public Utilities commissioner,,Chris Nelson,REP,119
+Hamlin,23,Public Utilities commissioner,,Chris Nelson,REP,269
+Hamlin,24,Public Utilities commissioner,,Chris Nelson,REP,529
+Hamlin,25,Public Utilities commissioner,,Chris Nelson,REP,347
+Hamlin,26,Public Utilities commissioner,,Chris Nelson,REP,369
+Hamlin,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2338
+Hamlin,2,Public Utilities commissioner,,Henry Red Cloud,DEM,8
+Hamlin,21,Public Utilities commissioner,,Henry Red Cloud,DEM,100
+Hamlin,22,Public Utilities commissioner,,Henry Red Cloud,DEM,7
+Hamlin,23,Public Utilities commissioner,,Henry Red Cloud,DEM,34
+Hamlin,24,Public Utilities commissioner,,Henry Red Cloud,DEM,88
+Hamlin,25,Public Utilities commissioner,,Henry Red Cloud,DEM,106
+Hamlin,26,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Hamlin,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,368
+Hamlin,2,State Senate,2,Brock L. Greenfield,REP,125
+Hamlin,21,State Senate,2,Brock L. Greenfield,REP,556
+Hamlin,22,State Senate,2,Brock L. Greenfield,REP,118
+Hamlin,23,State Senate,2,Brock L. Greenfield,REP,237
+Hamlin,24,State Senate,2,Brock L. Greenfield,REP,494
+Hamlin,25,State Senate,2,Brock L. Greenfield,REP,326
+Hamlin,26,State Senate,2,Brock L. Greenfield,REP,337
+Hamlin,TOTAL,State Senate,2,Brock L. Greenfield,REP,2193
+Hamlin,2,State Representative,2,Burt Tulson,REP,120
+Hamlin,21,State Representative,2,Burt Tulson,REP,449
+Hamlin,22,State Representative,2,Burt Tulson,REP,114
+Hamlin,23,State Representative,2,Burt Tulson,REP,254
+Hamlin,24,State Representative,2,Burt Tulson,REP,510
+Hamlin,25,State Representative,2,Burt Tulson,REP,296
+Hamlin,26,State Representative,2,Burt Tulson,REP,335
+Hamlin,TOTAL,State Representative,2,Burt Tulson,REP,2078
+Hamlin,2,State Representative,2,Lana Greenfield,REP,95
+Hamlin,21,State Representative,2,Lana Greenfield,REP,395
+Hamlin,22,State Representative,2,Lana Greenfield,REP,89
+Hamlin,23,State Representative,2,Lana Greenfield,REP,167
+Hamlin,24,State Representative,2,Lana Greenfield,REP,363
+Hamlin,25,State Representative,2,Lana Greenfield,REP,215
+Hamlin,26,State Representative,2,Lana Greenfield,REP,245
+Hamlin,TOTAL,State Representative,2,Lana Greenfield,REP,1569
+Hamlin,2,State Representative,2,John Graham,DEM,27
+Hamlin,21,State Representative,2,John Graham,DEM,206
+Hamlin,22,State Representative,2,John Graham,DEM,9
+Hamlin,23,State Representative,2,John Graham,DEM,74
+Hamlin,24,State Representative,2,John Graham,DEM,130
+Hamlin,25,State Representative,2,John Graham,DEM,172
+Hamlin,26,State Representative,2,John Graham,DEM,58
+Hamlin,TOTAL,State Representative,2,John Graham,DEM,676

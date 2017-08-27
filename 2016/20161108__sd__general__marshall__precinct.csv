@@ -1,0 +1,131 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,A1,President,,Donald J. Trump,REP,122
+Marshall,A2,President,,Donald J. Trump,REP,78
+Marshall,A3,President,,Donald J. Trump,REP,156
+Marshall,A4,President,,Donald J. Trump,REP,137
+Marshall,A5,President,,Donald J. Trump,REP,97
+Marshall,A6,President,,Donald J. Trump,REP,150
+Marshall,A7,President,,Donald J. Trump,REP,100
+Marshall,A8,President,,Donald J. Trump,REP,106
+Marshall,A9,President,,Donald J. Trump,REP,110
+Marshall,TOTAL,President,,Donald J. Trump,REP,1056
+Marshall,A1,President,,Gary Johnson,LIB,16
+Marshall,A2,President,,Gary Johnson,LIB,14
+Marshall,A3,President,,Gary Johnson,LIB,18
+Marshall,A4,President,,Gary Johnson,LIB,13
+Marshall,A5,President,,Gary Johnson,LIB,10
+Marshall,A6,President,,Gary Johnson,LIB,12
+Marshall,A7,President,,Gary Johnson,LIB,9
+Marshall,A8,President,,Gary Johnson,LIB,13
+Marshall,A9,President,,Gary Johnson,LIB,12
+Marshall,TOTAL,President,,Gary Johnson,LIB,117
+Marshall,A1,President,,Hillary Clinton,DEM,90
+Marshall,A2,President,,Hillary Clinton,DEM,67
+Marshall,A3,President,,Hillary Clinton,DEM,96
+Marshall,A4,President,,Hillary Clinton,DEM,125
+Marshall,A5,President,,Hillary Clinton,DEM,66
+Marshall,A6,President,,Hillary Clinton,DEM,115
+Marshall,A7,President,,Hillary Clinton,DEM,62
+Marshall,A8,President,,Hillary Clinton,DEM,71
+Marshall,A9,President,,Hillary Clinton,DEM,62
+Marshall,TOTAL,President,,Hillary Clinton,DEM,754
+Marshall,A1,President,,Darrell L. Castle,CON,2
+Marshall,A2,President,,Darrell L. Castle,CON,2
+Marshall,A3,President,,Darrell L. Castle,CON,5
+Marshall,A4,President,,Darrell L. Castle,CON,2
+Marshall,A5,President,,Darrell L. Castle,CON,0
+Marshall,A6,President,,Darrell L. Castle,CON,4
+Marshall,A7,President,,Darrell L. Castle,CON,1
+Marshall,A8,President,,Darrell L. Castle,CON,0
+Marshall,A9,President,,Darrell L. Castle,CON,4
+Marshall,TOTAL,President,,Darrell L. Castle,CON,20
+Marshall,A1,U.S Senate,,John R. Thune,REP,154
+Marshall,A2,U.S Senate,,John R. Thune,REP,107
+Marshall,A3,U.S Senate,,John R. Thune,REP,200
+Marshall,A4,U.S Senate,,John R. Thune,REP,174
+Marshall,A5,U.S Senate,,John R. Thune,REP,125
+Marshall,A6,U.S Senate,,John R. Thune,REP,191
+Marshall,A7,U.S Senate,,John R. Thune,REP,123
+Marshall,A8,U.S Senate,,John R. Thune,REP,131
+Marshall,A9,U.S Senate,,John R. Thune,REP,136
+Marshall,TOTAL,U.S Senate,,John R. Thune,REP,1341
+Marshall,A1,U.S Senate,,Jay Williams,DEM,75
+Marshall,A2,U.S Senate,,Jay Williams,DEM,56
+Marshall,A3,U.S Senate,,Jay Williams,DEM,79
+Marshall,A4,U.S Senate,,Jay Williams,DEM,102
+Marshall,A5,U.S Senate,,Jay Williams,DEM,52
+Marshall,A6,U.S Senate,,Jay Williams,DEM,97
+Marshall,A7,U.S Senate,,Jay Williams,DEM,55
+Marshall,A8,U.S Senate,,Jay Williams,DEM,60
+Marshall,A9,U.S Senate,,Jay Williams,DEM,53
+Marshall,TOTAL,U.S Senate,,Jay Williams,DEM,629
+Marshall,A1,U.S House,1,Kristi Noem,REP,122
+Marshall,A2,U.S House,1,Kristi Noem,REP,88
+Marshall,A3,U.S House,1,Kristi Noem,REP,162
+Marshall,A4,U.S House,1,Kristi Noem,REP,151
+Marshall,A5,U.S House,1,Kristi Noem,REP,117
+Marshall,A6,U.S House,1,Kristi Noem,REP,164
+Marshall,A7,U.S House,1,Kristi Noem,REP,111
+Marshall,A8,U.S House,1,Kristi Noem,REP,104
+Marshall,A9,U.S House,1,Kristi Noem,REP,101
+Marshall,TOTAL,U.S House,1,Kristi Noem,REP,1120
+Marshall,A1,U.S House,1,Paula Hawks,DEM,103
+Marshall,A2,U.S House,1,Paula Hawks,DEM,74
+Marshall,A3,U.S House,1,Paula Hawks,DEM,117
+Marshall,A4,U.S House,1,Paula Hawks,DEM,131
+Marshall,A5,U.S House,1,Paula Hawks,DEM,59
+Marshall,A6,U.S House,1,Paula Hawks,DEM,125
+Marshall,A7,U.S House,1,Paula Hawks,DEM,66
+Marshall,A8,U.S House,1,Paula Hawks,DEM,91
+Marshall,A9,U.S House,1,Paula Hawks,DEM,85
+Marshall,TOTAL,U.S House,1,Paula Hawks,DEM,851
+Marshall,A1,Public Utilities commissioner,,Chris Nelson,REP,169
+Marshall,A2,Public Utilities commissioner,,Chris Nelson,REP,112
+Marshall,A3,Public Utilities commissioner,,Chris Nelson,REP,202
+Marshall,A4,Public Utilities commissioner,,Chris Nelson,REP,199
+Marshall,A5,Public Utilities commissioner,,Chris Nelson,REP,125
+Marshall,A6,Public Utilities commissioner,,Chris Nelson,REP,217
+Marshall,A7,Public Utilities commissioner,,Chris Nelson,REP,122
+Marshall,A8,Public Utilities commissioner,,Chris Nelson,REP,135
+Marshall,A9,Public Utilities commissioner,,Chris Nelson,REP,140
+Marshall,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1421
+Marshall,A1,Public Utilities commissioner,,Henry Red Cloud,DEM,53
+Marshall,A2,Public Utilities commissioner,,Henry Red Cloud,DEM,43
+Marshall,A3,Public Utilities commissioner,,Henry Red Cloud,DEM,60
+Marshall,A4,Public Utilities commissioner,,Henry Red Cloud,DEM,73
+Marshall,A5,Public Utilities commissioner,,Henry Red Cloud,DEM,44
+Marshall,A6,Public Utilities commissioner,,Henry Red Cloud,DEM,68
+Marshall,A7,Public Utilities commissioner,,Henry Red Cloud,DEM,43
+Marshall,A8,Public Utilities commissioner,,Henry Red Cloud,DEM,51
+Marshall,A9,Public Utilities commissioner,,Henry Red Cloud,DEM,40
+Marshall,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,475
+Marshall,A1,State Senate,1,Jason Frerichs,DEM,139
+Marshall,A2,State Senate,1,Jason Frerichs,DEM,107
+Marshall,A3,State Senate,1,Jason Frerichs,DEM,172
+Marshall,A4,State Senate,1,Jason Frerichs,DEM,200
+Marshall,A5,State Senate,1,Jason Frerichs,DEM,117
+Marshall,A6,State Senate,1,Jason Frerichs,DEM,192
+Marshall,A7,State Senate,1,Jason Frerichs,DEM,123
+Marshall,A8,State Senate,1,Jason Frerichs,DEM,142
+Marshall,A9,State Senate,1,Jason Frerichs,DEM,123
+Marshall,TOTAL,State Senate,1,Jason Frerichs,DEM,1315
+Marshall,A1,State Representative,1,Steven D McCleerey,DEM,83
+Marshall,A2,State Representative,1,Steven D McCleerey,DEM,55
+Marshall,A3,State Representative,1,Steven D McCleerey,DEM,87
+Marshall,A4,State Representative,1,Steven D McCleerey,DEM,83
+Marshall,A5,State Representative,1,Steven D McCleerey,DEM,79
+Marshall,A6,State Representative,1,Steven D McCleerey,DEM,122
+Marshall,A7,State Representative,1,Steven D McCleerey,DEM,72
+Marshall,A8,State Representative,1,Steven D McCleerey,DEM,75
+Marshall,A9,State Representative,1,Steven D McCleerey,DEM,75
+Marshall,TOTAL,State Representative,1,Steven D McCleerey,DEM,731
+Marshall,A1,State Representative,1,Susan Wismer,DEM,147
+Marshall,A2,State Representative,1,Susan Wismer,DEM,116
+Marshall,A3,State Representative,1,Susan Wismer,DEM,187
+Marshall,A4,State Representative,1,Susan Wismer,DEM,200
+Marshall,A5,State Representative,1,Susan Wismer,DEM,112
+Marshall,A6,State Representative,1,Susan Wismer,DEM,168
+Marshall,A7,State Representative,1,Susan Wismer,DEM,97
+Marshall,A8,State Representative,1,Susan Wismer,DEM,153
+Marshall,A9,State Representative,1,Susan Wismer,DEM,121
+Marshall,TOTAL,State Representative,1,Susan Wismer,DEM,1301

@@ -1,0 +1,49 @@
+county,precinct,office,district,candidate,party,votes
+Jones,1,President,,Donald J. Trump,REP,167
+Jones,3,President,,Donald J. Trump,REP,136
+Jones,5,President,,Donald J. Trump,REP,147
+Jones,TOTAL,President,,Donald J. Trump,REP,450
+Jones,1,President,,Gary Johnson,LIB,11
+Jones,3,President,,Gary Johnson,LIB,12
+Jones,5,President,,Gary Johnson,LIB,9
+Jones,TOTAL,President,,Gary Johnson,LIB,32
+Jones,1,President,,Hillary Clinton,DEM,21
+Jones,3,President,,Hillary Clinton,DEM,32
+Jones,5,President,,Hillary Clinton,DEM,16
+Jones,TOTAL,President,,Hillary Clinton,DEM,69
+Jones,1,President,,Darrell L. Castle,CON,1
+Jones,3,President,,Darrell L. Castle,CON,4
+Jones,5,President,,Darrell L. Castle,CON,2
+Jones,TOTAL,President,,Darrell L. Castle,CON,7
+Jones,1,U.S Senate,,John R. Thune,REP,182
+Jones,3,U.S Senate,,John R. Thune,REP,168
+Jones,5,U.S Senate,,John R. Thune,REP,144
+Jones,TOTAL,U.S Senate,,John R. Thune,REP,494
+Jones,1,U.S Senate,,Jay Williams,DEM,19
+Jones,3,U.S Senate,,Jay Williams,DEM,19
+Jones,5,U.S Senate,,Jay Williams,DEM,29
+Jones,TOTAL,U.S Senate,,Jay Williams,DEM,67
+Jones,1,U.S House,1,Kristi Noem,REP,159
+Jones,3,U.S House,1,Kristi Noem,REP,152
+Jones,5,U.S House,1,Kristi Noem,REP,149
+Jones,TOTAL,U.S House,1,Kristi Noem,REP,460
+Jones,1,U.S House,1,Paula Hawks,DEM,41
+Jones,3,U.S House,1,Paula Hawks,DEM,36
+Jones,5,U.S House,1,Paula Hawks,DEM,24
+Jones,TOTAL,U.S House,1,Paula Hawks,DEM,101
+Jones,1,Public Utilities commissioner,,Chris Nelson,REP,178
+Jones,3,Public Utilities commissioner,,Chris Nelson,REP,161
+Jones,5,Public Utilities commissioner,,Chris Nelson,REP,150
+Jones,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,489
+Jones,1,Public Utilities commissioner,,Henry Red Cloud,DEM,20
+Jones,3,Public Utilities commissioner,,Henry Red Cloud,DEM,27
+Jones,5,Public Utilities commissioner,,Henry Red Cloud,DEM,18
+Jones,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,65
+Jones,1,State Senate,26,Troy Helnert,DEM,96
+Jones,3,State Senate,26,Troy Helnert,DEM,90
+Jones,5,State Senate,26,Troy Helnert,DEM,77
+Jones,TOTAL,State Senate,26,Troy Helnert,DEM,263
+Jones,1,State Representative,26B,James Schaefer,REP,165
+Jones,3,State Representative,26B,James Schaefer,REP,152
+Jones,5,State Representative,26B,James Schaefer,REP,137
+Jones,TOTAL,State Representative,26B,James Schaefer,REP,454
