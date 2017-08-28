@@ -1,0 +1,106 @@
+county,precinct,office,district,party,candidate,votes
+McCook,1,President,,REP,Donald J. Trump,322
+McCook,2,President,,REP,Donald J. Trump,102
+McCook,3,President,,REP,Donald J. Trump,383
+McCook,4,President,,REP,Donald J. Trump,379
+McCook,5,President,,REP,Donald J. Trump,377
+McCook,6,President,,REP,Donald J. Trump,231
+McCook,Total,President,,REP,Donald J. Trump,1794
+McCook,1,President,,LIB,Gary Johnson,30
+McCook,2,President,,LIB,Gary Johnson,2
+McCook,3,President,,LIB,Gary Johnson,23
+McCook,4,President,,LIB,Gary Johnson,16
+McCook,5,President,,LIB,Gary Johnson,34
+McCook,6,President,,LIB,Gary Johnson,25
+McCook,Total,President,,LIB,Gary Johnson,130
+McCook,1,President,,DEM,Hillary Clinton,150
+McCook,2,President,,DEM,Hillary Clinton,42
+McCook,3,President,,DEM,Hillary Clinton,126
+McCook,4,President,,DEM,Hillary Clinton,67
+McCook,5,President,,DEM,Hillary Clinton,180
+McCook,6,President,,DEM,Hillary Clinton,58
+McCook,Total,President,,DEM,Hillary Clinton,623
+McCook,1,President,,CON,Darrell L. Castle,6
+McCook,2,President,,CON,Darrell L. Castle,1
+McCook,3,President,,CON,Darrell L. Castle,13
+McCook,4,President,,CON,Darrell L. Castle,3
+McCook,5,President,,CON,Darrell L. Castle,8
+McCook,6,President,,CON,Darrell L. Castle,9
+McCook,Total,President,,CON,Darrell L. Castle,40
+McCook,1,U.S. Senate,,REP,John R. Thune,368
+McCook,2,U.S. Senate,,REP,John R. Thune,100
+McCook,3,U.S. Senate,,REP,John R. Thune,434
+McCook,4,U.S. Senate,,REP,John R. Thune,412
+McCook,5,U.S. Senate,,REP,John R. Thune,444
+McCook,6,U.S. Senate,,REP,John R. Thune,263
+McCook,Total,U.S. Senate,,REP,John R. Thune,2021
+McCook,1,U.S. Senate,,DEM,Jay Williams,147
+McCook,2,U.S. Senate,,DEM,Jay Williams,51
+McCook,3,U.S. Senate,,DEM,Jay Williams,113
+McCook,4,U.S. Senate,,DEM,Jay Williams,62
+McCook,5,U.S. Senate,,DEM,Jay Williams,163
+McCook,6,U.S. Senate,,DEM,Jay Williams,63
+McCook,Total,U.S. Senate,,DEM,Jay Williams,599
+McCook,1,U.S. House,1,REP,Kristi Noem,303
+McCook,2,U.S. House,1,REP,Kristi Noem,88
+McCook,3,U.S. House,1,REP,Kristi Noem,391
+McCook,4,U.S. House,1,REP,Kristi Noem,382
+McCook,5,U.S. House,1,REP,Kristi Noem,389
+McCook,6,U.S. House,1,REP,Kristi Noem,233
+McCook,Total,U.S. House,1,REP,Kristi Noem,1786
+McCook,1,U.S. House,1,DEM,Paula Hawks,214
+McCook,2,U.S. House,1,DEM,Paula Hawks,61
+McCook,3,U.S. House,1,DEM,Paula Hawks,160
+McCook,4,U.S. House,1,DEM,Paula Hawks,92
+McCook,5,U.S. House,1,DEM,Paula Hawks,223
+McCook,6,U.S. House,1,DEM,Paula Hawks,94
+McCook,Total,U.S. House,1,DEM,Paula Hawks,844
+McCook,1,Public Utilities Commissioner,,REP,Chris Nelson,385
+McCook,2,Public Utilities Commissioner,,REP,Chris Nelson,122
+McCook,3,Public Utilities Commissioner,,REP,Chris Nelson,445
+McCook,4,Public Utilities Commissioner,,REP,Chris Nelson,421
+McCook,5,Public Utilities Commissioner,,REP,Chris Nelson,490
+McCook,6,Public Utilities Commissioner,,REP,Chris Nelson,287
+McCook,Total,Public Utilities Commissioner,,REP,Chris Nelson,2150
+McCook,1,Public Utilities Commissioner,,DEM,Henry Red Cloud,104
+McCook,2,Public Utilities Commissioner,,DEM,Henry Red Cloud,25
+McCook,3,Public Utilities Commissioner,,DEM,Henry Red Cloud,92
+McCook,4,Public Utilities Commissioner,,DEM,Henry Red Cloud,35
+McCook,5,Public Utilities Commissioner,,DEM,Henry Red Cloud,105
+McCook,6,Public Utilities Commissioner,,DEM,Henry Red Cloud,32
+McCook,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,393
+McCook,1,State Senate,19,REP,Stace Nelson,350
+McCook,2,State Senate,19,REP,Stace Nelson,112
+McCook,3,State Senate,19,REP,Stace Nelson,401
+McCook,4,State Senate,19,REP,Stace Nelson,420
+McCook,5,State Senate,19,REP,Stace Nelson,423
+McCook,6,State Senate,19,REP,Stace Nelson,234
+McCook,Total,State Senate,19,REP,Stace Nelson,1940
+McCook,1,State Senate,19,DEM,Russell Graeff,139
+McCook,2,State Senate,19,DEM,Russell Graeff,35
+McCook,3,State Senate,19,DEM,Russell Graeff,125
+McCook,4,State Senate,19,DEM,Russell Graeff,39
+McCook,5,State Senate,19,DEM,Russell Graeff,176
+McCook,6,State Senate,19,DEM,Russell Graeff,81
+McCook,Total,State Senate,19,DEM,Russell Graeff,595
+McCook,1,State House,19,REP,Kent Peterson,314
+McCook,2,State House,19,REP,Kent Peterson,103
+McCook,3,State House,19,REP,Kent Peterson,360
+McCook,4,State House,19,REP,Kent Peterson,349
+McCook,5,State House,19,REP,Kent Peterson,478
+McCook,6,State House,19,REP,Kent Peterson,276
+McCook,Total,State House,19,REP,Kent Peterson,1880
+McCook,1,State House,19,REP,Kyle Schoenfish,221
+McCook,2,State House,19,REP,Kyle Schoenfish,60
+McCook,3,State House,19,REP,Kyle Schoenfish,336
+McCook,4,State House,19,REP,Kyle Schoenfish,299
+McCook,5,State House,19,REP,Kyle Schoenfish,247
+McCook,6,State House,19,REP,Kyle Schoenfish,141
+McCook,Total,State House,19,REP,Kyle Schoenfish,1304
+McCook,1,State House,19,DEM,Melissa Mentele,182
+McCook,2,State House,19,DEM,Melissa Mentele,56
+McCook,3,State House,19,DEM,Melissa Mentele,137
+McCook,4,State House,19,DEM,Melissa Mentele,82
+McCook,5,State House,19,DEM,Melissa Mentele,191
+McCook,6,State House,19,DEM,Melissa Mentele,81
+McCook,Total,State House,19,DEM,Melissa Mentele,729
