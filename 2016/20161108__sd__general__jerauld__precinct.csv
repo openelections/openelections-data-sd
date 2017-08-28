@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Jerauld,1,President,,Trump & Pence,REP,286
+Jerauld,2,President,,Trump & Pence,REP,109
+Jerauld,3,President,,Trump & Pence,REP,107
+Jerauld,4,President,,Trump & Pence,REP,71
+Jerauld,5,President,,Trump & Pence,REP,75
+Jerauld,TOTAL,President,,Trump & Pence,REP,648
+Jerauld,1,President,,Johnson ND weld,LIB,21
+Jerauld,2,President,,Johnson ND weld,LIB,5
+Jerauld,3,President,,Johnson ND weld,LIB,2
+Jerauld,4,President,,Johnson ND weld,LIB,6
+Jerauld,5,President,,Johnson ND weld,LIB,2
+Jerauld,TOTAL,President,,Johnson ND weld,LIB,36
+Jerauld,1,President,,Calinton & Kaine,DEM,152
+Jerauld,2,President,,Calinton & Kaine,DEM,32
+Jerauld,3,President,,Calinton & Kaine,DEM,33
+Jerauld,4,President,,Calinton & Kaine,DEM,23
+Jerauld,5,President,,Calinton & Kaine,DEM,24
+Jerauld,TOTAL,President,,Calinton & Kaine,DEM,264
+Jerauld,1,President,,Castle and Bradley,CON,10
+Jerauld,2,President,,Castle and Bradley,CON,2
+Jerauld,3,President,,Castle and Bradley,CON,2
+Jerauld,4,President,,Castle and Bradley,CON,1
+Jerauld,5,President,,Castle and Bradley,CON,4
+Jerauld,TOTAL,President,,Castle and Bradley,CON,19
+Jerauld,1,U.S Senate,,John R. Thune,REP,342
+Jerauld,2,U.S Senate,,John R. Thune,REP,116
+Jerauld,3,U.S Senate,,John R. Thune,REP,109
+Jerauld,4,U.S Senate,,John R. Thune,REP,68
+Jerauld,5,U.S Senate,,John R. Thune,REP,85
+Jerauld,TOTAL,U.S Senate,,John R. Thune,REP,720
+Jerauld,1,U.S Senate,,Jay Williams,DEM,136
+Jerauld,2,U.S Senate,,Jay Williams,DEM,33
+Jerauld,3,U.S Senate,,Jay Williams,DEM,34
+Jerauld,4,U.S Senate,,Jay Williams,DEM,34
+Jerauld,5,U.S Senate,,Jay Williams,DEM,24
+Jerauld,TOTAL,U.S Senate,,Jay Williams,DEM,261
+Jerauld,1,U.S House,1,Kristi Noem,REP,292
+Jerauld,2,U.S House,1,Kristi Noem,REP,103
+Jerauld,3,U.S House,1,Kristi Noem,REP,102
+Jerauld,4,U.S House,1,Kristi Noem,REP,65
+Jerauld,5,U.S House,1,Kristi Noem,REP,76
+Jerauld,TOTAL,U.S House,1,Kristi Noem,REP,638
+Jerauld,1,U.S House,1,Paula Hawks,DEM,187
+Jerauld,2,U.S House,1,Paula Hawks,DEM,46
+Jerauld,3,U.S House,1,Paula Hawks,DEM,40
+Jerauld,4,U.S House,1,Paula Hawks,DEM,39
+Jerauld,5,U.S House,1,Paula Hawks,DEM,33
+Jerauld,TOTAL,U.S House,1,Paula Hawks,DEM,345
+Jerauld,1,Public Utilities commissioner,,Chris Nelson,REP,365
+Jerauld,2,Public Utilities commissioner,,Chris Nelson,REP,115
+Jerauld,3,Public Utilities commissioner,,Chris Nelson,REP,115
+Jerauld,4,Public Utilities commissioner,,Chris Nelson,REP,69
+Jerauld,5,Public Utilities commissioner,,Chris Nelson,REP,85
+Jerauld,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,749
+Jerauld,1,Public Utilities commissioner,,Henry Red Cloud,DEM,98
+Jerauld,2,Public Utilities commissioner,,Henry Red Cloud,DEM,33
+Jerauld,3,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Jerauld,4,Public Utilities commissioner,,Henry Red Cloud,DEM,28
+Jerauld,5,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Jerauld,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,205
+Jerauld,1,State Senate,20,Joshua Klumb,REP,182
+Jerauld,2,State Senate,20,Joshua Klumb,REP,59
+Jerauld,3,State Senate,20,Joshua Klumb,REP,53
+Jerauld,4,State Senate,20,Joshua Klumb,REP,49
+Jerauld,5,State Senate,20,Joshua Klumb,REP,57
+Jerauld,TOTAL,State Senate,20,Joshua Klumb,REP,400
+Jerauld,1,State Senate,20,Quinten L Burg,DEM,298
+Jerauld,2,State Senate,20,Quinten L Burg,DEM,90
+Jerauld,3,State Senate,20,Quinten L Burg,DEM,89
+Jerauld,4,State Senate,20,Quinten L Burg,DEM,56
+Jerauld,5,State Senate,20,Quinten L Burg,DEM,52
+Jerauld,TOTAL,State Senate,20,Quinten L Burg,DEM,585
+Jerauld,1,State Representative,20,Tona Rozan,REP,298
+Jerauld,2,State Representative,20,Tona Rozan,REP,98
+Jerauld,3,State Representative,20,Tona Rozan,REP,81
+Jerauld,4,State Representative,20,Tona Rozan,REP,48
+Jerauld,5,State Representative,20,Tona Rozan,REP,63
+Jerauld,TOTAL,State Representative,20,Tona Rozan,REP,588
+Jerauld,1,State Representative,20,Lance Carson,REP,212
+Jerauld,2,State Representative,20,Lance Carson,REP,73
+Jerauld,3,State Representative,20,Lance Carson,REP,63
+Jerauld,4,State Representative,20,Lance Carson,REP,48
+Jerauld,5,State Representative,20,Lance Carson,REP,58
+Jerauld,TOTAL,State Representative,20,Lance Carson,REP,454
