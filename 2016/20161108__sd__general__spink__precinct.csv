@@ -1,0 +1,140 @@
+county,precinct,office,district,candidate,party,votes
+Spink,1,President,,Donald J. Trump,REP,276
+Spink,3,President,,Donald J. Trump,REP,232
+Spink,4,President,,Donald J. Trump,REP,222
+Spink,5,President,,Donald J. Trump,REP,121
+Spink,6,President,,Donald J. Trump,REP,82
+Spink,7,President,,Donald J. Trump,REP,285
+Spink,8,President,,Donald J. Trump,REP,96
+Spink,9,President,,Donald J. Trump,REP,294
+Spink,10,President,,Donald J. Trump,REP,246
+Spink,TOTAL,President,,Donald J. Trump,REP,1854
+Spink,1,President,,Gary Johnson,LIB,17
+Spink,3,President,,Gary Johnson,LIB,13
+Spink,4,President,,Gary Johnson,LIB,6
+Spink,5,President,,Gary Johnson,LIB,9
+Spink,6,President,,Gary Johnson,LIB,1
+Spink,7,President,,Gary Johnson,LIB,17
+Spink,8,President,,Gary Johnson,LIB,4
+Spink,9,President,,Gary Johnson,LIB,45
+Spink,10,President,,Gary Johnson,LIB,31
+Spink,TOTAL,President,,Gary Johnson,LIB,143
+Spink,1,President,,Hillary Clinton,DEM,96
+Spink,3,President,,Hillary Clinton,DEM,80
+Spink,4,President,,Hillary Clinton,DEM,71
+Spink,5,President,,Hillary Clinton,DEM,69
+Spink,6,President,,Hillary Clinton,DEM,33
+Spink,7,President,,Hillary Clinton,DEM,144
+Spink,8,President,,Hillary Clinton,DEM,42
+Spink,9,President,,Hillary Clinton,DEM,188
+Spink,10,President,,Hillary Clinton,DEM,196
+Spink,TOTAL,President,,Hillary Clinton,DEM,919
+Spink,1,President,,Darrell L. Castle,CON,5
+Spink,3,President,,Darrell L. Castle,CON,2
+Spink,4,President,,Darrell L. Castle,CON,3
+Spink,5,President,,Darrell L. Castle,CON,2
+Spink,6,President,,Darrell L. Castle,CON,0
+Spink,7,President,,Darrell L. Castle,CON,4
+Spink,8,President,,Darrell L. Castle,CON,3
+Spink,9,President,,Darrell L. Castle,CON,12
+Spink,10,President,,Darrell L. Castle,CON,4
+Spink,TOTAL,President,,Darrell L. Castle,CON,35
+Spink,1,U.S Senate,,John R. Thune,REP,320
+Spink,3,U.S Senate,,John R. Thune,REP,247
+Spink,4,U.S Senate,,John R. Thune,REP,243
+Spink,5,U.S Senate,,John R. Thune,REP,139
+Spink,6,U.S Senate,,John R. Thune,REP,90
+Spink,7,U.S Senate,,John R. Thune,REP,334
+Spink,8,U.S Senate,,John R. Thune,REP,101
+Spink,9,U.S Senate,,John R. Thune,REP,379
+Spink,10,U.S Senate,,John R. Thune,REP,324
+Spink,TOTAL,U.S Senate,,John R. Thune,REP,2177
+Spink,1,U.S Senate,,Jay Williams,DEM,90
+Spink,3,U.S Senate,,Jay Williams,DEM,80
+Spink,4,U.S Senate,,Jay Williams,DEM,58
+Spink,5,U.S Senate,,Jay Williams,DEM,65
+Spink,6,U.S Senate,,Jay Williams,DEM,28
+Spink,7,U.S Senate,,Jay Williams,DEM,126
+Spink,8,U.S Senate,,Jay Williams,DEM,43
+Spink,9,U.S Senate,,Jay Williams,DEM,162
+Spink,10,U.S Senate,,Jay Williams,DEM,164
+Spink,TOTAL,U.S Senate,,Jay Williams,DEM,816
+Spink,1,U.S House,1,Kristi Noem,REP,286
+Spink,3,U.S House,1,Kristi Noem,REP,227
+Spink,4,U.S House,1,Kristi Noem,REP,215
+Spink,5,U.S House,1,Kristi Noem,REP,125
+Spink,6,U.S House,1,Kristi Noem,REP,71
+Spink,7,U.S House,1,Kristi Noem,REP,281
+Spink,8,U.S House,1,Kristi Noem,REP,84
+Spink,9,U.S House,1,Kristi Noem,REP,318
+Spink,10,U.S House,1,Kristi Noem,REP,268
+Spink,TOTAL,U.S House,1,Kristi Noem,REP,1875
+Spink,1,U.S House,1,Paula Hawks,DEM,119
+Spink,3,U.S House,1,Paula Hawks,DEM,99
+Spink,4,U.S House,1,Paula Hawks,DEM,87
+Spink,5,U.S House,1,Paula Hawks,DEM,76
+Spink,6,U.S House,1,Paula Hawks,DEM,43
+Spink,7,U.S House,1,Paula Hawks,DEM,179
+Spink,8,U.S House,1,Paula Hawks,DEM,60
+Spink,9,U.S House,1,Paula Hawks,DEM,218
+Spink,10,U.S House,1,Paula Hawks,DEM,221
+Spink,TOTAL,U.S House,1,Paula Hawks,DEM,1102
+Spink,1,Public Utilities commissioner,,Chris Nelson,REP,348
+Spink,3,Public Utilities commissioner,,Chris Nelson,REP,273
+Spink,4,Public Utilities commissioner,,Chris Nelson,REP,252
+Spink,5,Public Utilities commissioner,,Chris Nelson,REP,147
+Spink,6,Public Utilities commissioner,,Chris Nelson,REP,90
+Spink,7,Public Utilities commissioner,,Chris Nelson,REP,360
+Spink,8,Public Utilities commissioner,,Chris Nelson,REP,104
+Spink,9,Public Utilities commissioner,,Chris Nelson,REP,423
+Spink,10,Public Utilities commissioner,,Chris Nelson,REP,264
+Spink,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2261
+Spink,1,Public Utilities commissioner,,Henry Red Cloud,DEM,49
+Spink,3,Public Utilities commissioner,,Henry Red Cloud,DEM,49
+Spink,4,Public Utilities commissioner,,Henry Red Cloud,DEM,39
+Spink,5,Public Utilities commissioner,,Henry Red Cloud,DEM,51
+Spink,6,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Spink,7,Public Utilities commissioner,,Henry Red Cloud,DEM,89
+Spink,8,Public Utilities commissioner,,Henry Red Cloud,DEM,38
+Spink,9,Public Utilities commissioner,,Henry Red Cloud,DEM,111
+Spink,10,Public Utilities commissioner,,Henry Red Cloud,DEM,113
+Spink,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,564
+Spink,1,State Senate,2,Brock L Greenfield,,349
+Spink,4,State Senate,2,Brock L Greenfield,,228
+Spink,5,State Senate,2,Brock L Greenfield,,139
+Spink,6,State Senate,2,Brock L Greenfield,,85
+Spink,7,State Senate,2,Brock L Greenfield,,323
+Spink,8,State Senate,2,Brock L Greenfield,,93
+Spink,9,State Senate,2,Brock L Greenfield,,392
+Spink,10,State Senate,2,Brock L Greenfield,,316
+Spink,TOTAL,State Senate,2,Brock L Greenfield,,1925
+Spink,3,State Senate,23,Justin R Cronin,REP,246
+Spink,1,State Representative,2,Burt Tulson,REP,192
+Spink,4,State Representative,2,Burt Tulson,REP,150
+Spink,5,State Representative,2,Burt Tulson,REP,88
+Spink,6,State Representative,2,Burt Tulson,REP,57
+Spink,7,State Representative,2,Burt Tulson,REP,227
+Spink,8,State Representative,2,Burt Tulson,REP,62
+Spink,9,State Representative,2,Burt Tulson,REP,266
+Spink,10,State Representative,2,Burt Tulson,REP,227
+Spink,TOTAL,State Representative,2,Burt Tulson,REP,1269
+Spink,1,State Representative,2,Lana Greenfield,REP,325
+Spink,4,State Representative,2,Lana Greenfield,REP,188
+Spink,5,State Representative,2,Lana Greenfield,REP,112
+Spink,6,State Representative,2,Lana Greenfield,REP,71
+Spink,7,State Representative,2,Lana Greenfield,REP,261
+Spink,8,State Representative,2,Lana Greenfield,REP,91
+Spink,9,State Representative,2,Lana Greenfield,REP,302
+Spink,10,State Representative,2,Lana Greenfield,REP,263
+Spink,TOTAL,State Representative,2,Lana Greenfield,REP,1613
+Spink,1,State Representative,2,John Graham,DEM,111
+Spink,4,State Representative,2,John Graham,DEM,91
+Spink,5,State Representative,2,John Graham,DEM,83
+Spink,6,State Representative,2,John Graham,DEM,49
+Spink,7,State Representative,2,John Graham,DEM,199
+Spink,8,State Representative,2,John Graham,DEM,58
+Spink,9,State Representative,2,John Graham,DEM,213
+Spink,10,State Representative,2,John Graham,DEM,200
+Spink,TOTAL,State Representative,2,John Graham,DEM,1004
+Spink,3,State Representative,23,Spencer Gosch,REP,202
+Spink,3,State Representative,23,John A Lake,REP,194

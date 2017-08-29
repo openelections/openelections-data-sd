@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Hutchinson,1,President,,Trump & Pence,REP,536
+Hutchinson,2,President,,Trump & Pence,REP,547
+Hutchinson,3,President,,Trump & Pence,REP,120
+Hutchinson,4,President,,Trump & Pence,REP,332
+Hutchinson,5,President,,Trump & Pence,REP,466
+Hutchinson,6,President,,Trump & Pence,REP,350
+Hutchinson,7,President,,Trump & Pence,REP,166
+Hutchinson,TOTAL,President,,Trump & Pence,REP,2517
+Hutchinson,1,President,,Johnson ND weld,LIB,19
+Hutchinson,2,President,,Johnson ND weld,LIB,38
+Hutchinson,3,President,,Johnson ND weld,LIB,0
+Hutchinson,4,President,,Johnson ND weld,LIB,12
+Hutchinson,5,President,,Johnson ND weld,LIB,30
+Hutchinson,6,President,,Johnson ND weld,LIB,10
+Hutchinson,7,President,,Johnson ND weld,LIB,3
+Hutchinson,TOTAL,President,,Johnson ND weld,LIB,112
+Hutchinson,1,President,,Calinton & Kaine,DEM,127
+Hutchinson,2,President,,Calinton & Kaine,DEM,175
+Hutchinson,3,President,,Calinton & Kaine,DEM,21
+Hutchinson,4,President,,Calinton & Kaine,DEM,104
+Hutchinson,5,President,,Calinton & Kaine,DEM,176
+Hutchinson,6,President,,Calinton & Kaine,DEM,68
+Hutchinson,7,President,,Calinton & Kaine,DEM,21
+Hutchinson,TOTAL,President,,Calinton & Kaine,DEM,692
+Hutchinson,1,President,,Castle and Bradley,CON,12
+Hutchinson,2,President,,Castle and Bradley,CON,7
+Hutchinson,3,President,,Castle and Bradley,CON,2
+Hutchinson,4,President,,Castle and Bradley,CON,6
+Hutchinson,5,President,,Castle and Bradley,CON,8
+Hutchinson,6,President,,Castle and Bradley,CON,5
+Hutchinson,7,President,,Castle and Bradley,CON,4
+Hutchinson,TOTAL,President,,Castle and Bradley,CON,44
+Hutchinson,1,U.S Senate,,John R. Thune,REP,587
+Hutchinson,2,U.S Senate,,John R. Thune,REP,643
+Hutchinson,3,U.S Senate,,John R. Thune,REP,121
+Hutchinson,4,U.S Senate,,John R. Thune,REP,354
+Hutchinson,5,U.S Senate,,John R. Thune,REP,549
+Hutchinson,6,U.S Senate,,John R. Thune,REP,360
+Hutchinson,7,U.S Senate,,John R. Thune,REP,165
+Hutchinson,TOTAL,U.S Senate,,John R. Thune,REP,2779
+Hutchinson,1,U.S Senate,,Jay Williams,DEM,116
+Hutchinson,2,U.S Senate,,Jay Williams,DEM,133
+Hutchinson,3,U.S Senate,,Jay Williams,DEM,21
+Hutchinson,4,U.S Senate,,Jay Williams,DEM,100
+Hutchinson,5,U.S Senate,,Jay Williams,DEM,139
+Hutchinson,6,U.S Senate,,Jay Williams,DEM,71
+Hutchinson,7,U.S Senate,,Jay Williams,DEM,29
+Hutchinson,TOTAL,U.S Senate,,Jay Williams,DEM,609
+Hutchinson,1,U.S House,1,Kristi Noem,REP,537
+Hutchinson,2,U.S House,1,Kristi Noem,REP,600
+Hutchinson,3,U.S House,1,Kristi Noem,REP,115
+Hutchinson,4,U.S House,1,Kristi Noem,REP,311
+Hutchinson,5,U.S House,1,Kristi Noem,REP,481
+Hutchinson,6,U.S House,1,Kristi Noem,REP,346
+Hutchinson,7,U.S House,1,Kristi Noem,REP,161
+Hutchinson,TOTAL,U.S House,1,Kristi Noem,REP,2551
+Hutchinson,1,U.S House,1,Paula Hawks,DEM,166
+Hutchinson,2,U.S House,1,Paula Hawks,DEM,177
+Hutchinson,3,U.S House,1,Paula Hawks,DEM,25
+Hutchinson,4,U.S House,1,Paula Hawks,DEM,144
+Hutchinson,5,U.S House,1,Paula Hawks,DEM,201
+Hutchinson,6,U.S House,1,Paula Hawks,DEM,82
+Hutchinson,7,U.S House,1,Paula Hawks,DEM,34
+Hutchinson,TOTAL,U.S House,1,Paula Hawks,DEM,829
+Hutchinson,1,Public Utilities commissioner,,Chris Nelson,REP,611
+Hutchinson,2,Public Utilities commissioner,,Chris Nelson,REP,634
+Hutchinson,3,Public Utilities commissioner,,Chris Nelson,REP,121
+Hutchinson,4,Public Utilities commissioner,,Chris Nelson,REP,389
+Hutchinson,5,Public Utilities commissioner,,Chris Nelson,REP,580
+Hutchinson,6,Public Utilities commissioner,,Chris Nelson,REP,383
+Hutchinson,7,Public Utilities commissioner,,Chris Nelson,REP,167
+Hutchinson,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2885
+Hutchinson,1,Public Utilities commissioner,,Henry Red Cloud,DEM,79
+Hutchinson,2,Public Utilities commissioner,,Henry Red Cloud,DEM,110
+Hutchinson,3,Public Utilities commissioner,,Henry Red Cloud,DEM,17
+Hutchinson,4,Public Utilities commissioner,,Henry Red Cloud,DEM,60
+Hutchinson,5,Public Utilities commissioner,,Henry Red Cloud,DEM,84
+Hutchinson,6,Public Utilities commissioner,,Henry Red Cloud,DEM,47
+Hutchinson,7,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Hutchinson,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,420
+Hutchinson,1,State Senate,19,Stace Nelson,REP,541
+Hutchinson,2,State Senate,19,Stace Nelson,REP,607
+Hutchinson,3,State Senate,19,Stace Nelson,REP,115
+Hutchinson,4,State Senate,19,Stace Nelson,REP,349
+Hutchinson,5,State Senate,19,Stace Nelson,REP,502
+Hutchinson,6,State Senate,19,Stace Nelson,REP,311
+Hutchinson,7,State Senate,19,Stace Nelson,REP,151
+Hutchinson,TOTAL,State Senate,19,Stace Nelson,REP,2576
+Hutchinson,1,State Senate,19,Russell Graeff,DEM,137
+Hutchinson,2,State Senate,19,Russell Graeff,DEM,135
+Hutchinson,3,State Senate,19,Russell Graeff,DEM,27
+Hutchinson,4,State Senate,19,Russell Graeff,DEM,94
+Hutchinson,5,State Senate,19,Russell Graeff,DEM,160
+Hutchinson,6,State Senate,19,Russell Graeff,DEM,104
+Hutchinson,7,State Senate,19,Russell Graeff,DEM,36
+Hutchinson,TOTAL,State Senate,19,Russell Graeff,DEM,693
+Hutchinson,1,State Representative,19,Kent S. Peterson,REP,425
+Hutchinson,2,State Representative,19,Kent S. Peterson,REP,465
+Hutchinson,3,State Representative,19,Kent S. Peterson,REP,102
+Hutchinson,4,State Representative,19,Kent S. Peterson,REP,206
+Hutchinson,5,State Representative,19,Kent S. Peterson,REP,328
+Hutchinson,6,State Representative,19,Kent S. Peterson,REP,280
+Hutchinson,7,State Representative,19,Kent S. Peterson,REP,113
+Hutchinson,TOTAL,State Representative,19,Kent S. Peterson,REP,1919
+Hutchinson,1,State Representative,19,Kyle Schoenfish,REP,557
+Hutchinson,2,State Representative,19,Kyle Schoenfish,REP,574
+Hutchinson,3,State Representative,19,Kyle Schoenfish,REP,114
+Hutchinson,4,State Representative,19,Kyle Schoenfish,REP,351
+Hutchinson,5,State Representative,19,Kyle Schoenfish,REP,567
+Hutchinson,6,State Representative,19,Kyle Schoenfish,REP,338
+Hutchinson,7,State Representative,19,Kyle Schoenfish,REP,159
+Hutchinson,TOTAL,State Representative,19,Kyle Schoenfish,REP,2660
+Hutchinson,1,State Representative,19,Melissa R. Mentele,DEM,131
+Hutchinson,2,State Representative,19,Melissa R. Mentele,DEM,144
+Hutchinson,3,State Representative,19,Melissa R. Mentele,DEM,19
+Hutchinson,4,State Representative,19,Melissa R. Mentele,DEM,120
+Hutchinson,5,State Representative,19,Melissa R. Mentele,DEM,158
+Hutchinson,6,State Representative,19,Melissa R. Mentele,DEM,76
+Hutchinson,7,State Representative,19,Melissa R. Mentele,DEM,38
+Hutchinson,TOTAL,State Representative,19,Melissa R. Mentele,DEM,686
