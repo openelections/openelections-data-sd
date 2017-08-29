@@ -1,0 +1,131 @@
+county,precinct,office,district,candidate,party,votes
+Hand,1(3),President,,Donald J. Trump,REP,208
+Hand,2,President,,Donald J. Trump,REP,60
+Hand,4,President,,Donald J. Trump,REP,42
+Hand,5(8),President,,Donald J. Trump,REP,184
+Hand,6,President,,Donald J. Trump,REP,124
+Hand,7,President,,Donald J. Trump,REP,82
+Hand,9(10),President,,Donald J. Trump,REP,125
+Hand,11,President,,Donald J. Trump,REP,262
+Hand,12,President,,Donald J. Trump,REP,304
+Hand,TOTAL,President,,Donald J. Trump,REP,1391
+Hand,1(3),President,,Gary Johnson,LIB,1
+Hand,2,President,,Gary Johnson,LIB,1
+Hand,4,President,,Gary Johnson,LIB,2
+Hand,5(8),President,,Gary Johnson,LIB,11
+Hand,6,President,,Gary Johnson,LIB,9
+Hand,7,President,,Gary Johnson,LIB,5
+Hand,9(10),President,,Gary Johnson,LIB,3
+Hand,11,President,,Gary Johnson,LIB,15
+Hand,12,President,,Gary Johnson,LIB,29
+Hand,TOTAL,President,,Gary Johnson,LIB,76
+Hand,1(3),President,,Hillary Clinton,DEM,16
+Hand,2,President,,Hillary Clinton,DEM,18
+Hand,4,President,,Hillary Clinton,DEM,9
+Hand,5(8),President,,Hillary Clinton,DEM,23
+Hand,6,President,,Hillary Clinton,DEM,46
+Hand,7,President,,Hillary Clinton,DEM,29
+Hand,9(10),President,,Hillary Clinton,DEM,9
+Hand,11,President,,Hillary Clinton,DEM,86
+Hand,12,President,,Hillary Clinton,DEM,98
+Hand,TOTAL,President,,Hillary Clinton,DEM,334
+Hand,1(3),President,,Darrell L. Castle,CON,2
+Hand,2,President,,Darrell L. Castle,CON,1
+Hand,4,President,,Darrell L. Castle,CON,0
+Hand,5(8),President,,Darrell L. Castle,CON,3
+Hand,6,President,,Darrell L. Castle,CON,0
+Hand,7,President,,Darrell L. Castle,CON,1
+Hand,9(10),President,,Darrell L. Castle,CON,5
+Hand,11,President,,Darrell L. Castle,CON,2
+Hand,12,President,,Darrell L. Castle,CON,3
+Hand,TOTAL,President,,Darrell L. Castle,CON,17
+Hand,1(3),U.S Senate,,John R. Thune,REP,209
+Hand,2,U.S Senate,,John R. Thune,REP,66
+Hand,4,U.S Senate,,John R. Thune,REP,47
+Hand,5(8),U.S Senate,,John R. Thune,REP,202
+Hand,6,U.S Senate,,John R. Thune,REP,128
+Hand,7,U.S Senate,,John R. Thune,REP,88
+Hand,9(10),U.S Senate,,John R. Thune,REP,136
+Hand,11,U.S Senate,,John R. Thune,REP,294
+Hand,12,U.S Senate,,John R. Thune,REP,347
+Hand,TOTAL,U.S Senate,,John R. Thune,REP,1517
+Hand,1(3),U.S Senate,,Jay Williams,DEM,21
+Hand,2,U.S Senate,,Jay Williams,DEM,16
+Hand,4,U.S Senate,,Jay Williams,DEM,5
+Hand,5(8),U.S Senate,,Jay Williams,DEM,27
+Hand,6,U.S Senate,,Jay Williams,DEM,48
+Hand,7,U.S Senate,,Jay Williams,DEM,32
+Hand,9(10),U.S Senate,,Jay Williams,DEM,10
+Hand,11,U.S Senate,,Jay Williams,DEM,83
+Hand,12,U.S Senate,,Jay Williams,DEM,93
+Hand,TOTAL,U.S Senate,,Jay Williams,DEM,335
+Hand,1(3),U.S House,1,Kristi Noem,REP,193
+Hand,2,U.S House,1,Kristi Noem,REP,61
+Hand,4,U.S House,1,Kristi Noem,REP,41
+Hand,5(8),U.S House,1,Kristi Noem,REP,186
+Hand,6,U.S House,1,Kristi Noem,REP,110
+Hand,7,U.S House,1,Kristi Noem,REP,77
+Hand,9(10),U.S House,1,Kristi Noem,REP,133
+Hand,11,U.S House,1,Kristi Noem,REP,264
+Hand,12,U.S House,1,Kristi Noem,REP,316
+Hand,TOTAL,U.S House,1,Kristi Noem,REP,1381
+Hand,1(3),U.S House,1,Paula Hawks,DEM,35
+Hand,2,U.S House,1,Paula Hawks,DEM,21
+Hand,4,U.S House,1,Paula Hawks,DEM,10
+Hand,5(8),U.S House,1,Paula Hawks,DEM,38
+Hand,6,U.S House,1,Paula Hawks,DEM,65
+Hand,7,U.S House,1,Paula Hawks,DEM,40
+Hand,9(10),U.S House,1,Paula Hawks,DEM,13
+Hand,11,U.S House,1,Paula Hawks,DEM,113
+Hand,12,U.S House,1,Paula Hawks,DEM,123
+Hand,TOTAL,U.S House,1,Paula Hawks,DEM,458
+Hand,1(3),Public Utilities commissioner,,Chris Nelson,REP,211
+Hand,2,Public Utilities commissioner,,Chris Nelson,REP,67
+Hand,4,Public Utilities commissioner,,Chris Nelson,REP,49
+Hand,5(8),Public Utilities commissioner,,Chris Nelson,REP,206
+Hand,6,Public Utilities commissioner,,Chris Nelson,REP,131
+Hand,7,Public Utilities commissioner,,Chris Nelson,REP,88
+Hand,9(10),Public Utilities commissioner,,Chris Nelson,REP,131
+Hand,11,Public Utilities commissioner,,Chris Nelson,REP,312
+Hand,12,Public Utilities commissioner,,Chris Nelson,REP,361
+Hand,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1556
+Hand,1(3),Public Utilities commissioner,,Henry Red Cloud,DEM,14
+Hand,2,Public Utilities commissioner,,Henry Red Cloud,DEM,11
+Hand,4,Public Utilities commissioner,,Henry Red Cloud,DEM,2
+Hand,5(8),Public Utilities commissioner,,Henry Red Cloud,DEM,15
+Hand,6,Public Utilities commissioner,,Henry Red Cloud,DEM,35
+Hand,7,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Hand,9(10),Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Hand,11,Public Utilities commissioner,,Henry Red Cloud,DEM,58
+Hand,12,Public Utilities commissioner,,Henry Red Cloud,DEM,62
+Hand,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,230
+Hand,1(3),State Senate,23,Justin R Cronin,REP,183
+Hand,2,State Senate,23,Justin R Cronin,REP,56
+Hand,4,State Senate,23,Justin R Cronin,REP,38
+Hand,5(8),State Senate,23,Justin R Cronin,REP,186
+Hand,6,State Senate,23,Justin R Cronin,REP,118
+Hand,7,State Senate,23,Justin R Cronin,REP,83
+Hand,9(10),State Senate,23,Justin R Cronin,REP,125
+Hand,11,State Senate,23,Justin R Cronin,REP,280
+Hand,12,State Senate,23,Justin R Cronin,REP,325
+Hand,TOTAL,State Senate,23,Justin R Cronin,REP,1394
+Hand,1(3),State Representative,23,Spencer Gosch,REP,151
+Hand,2,State Representative,23,Spencer Gosch,REP,45
+Hand,4,State Representative,23,Spencer Gosch,REP,29
+Hand,5(8),State Representative,23,Spencer Gosch,REP,148
+Hand,6,State Representative,23,Spencer Gosch,REP,89
+Hand,7,State Representative,23,Spencer Gosch,REP,69
+Hand,9(10),State Representative,23,Spencer Gosch,REP,105
+Hand,11,State Representative,23,Spencer Gosch,REP,229
+Hand,12,State Representative,23,Spencer Gosch,REP,258
+Hand,TOTAL,State Representative,23,Spencer Gosch,REP,1123
+Hand,1(3),State Representative,23,John A. Lake,REP,129
+Hand,2,State Representative,23,John A. Lake,REP,42
+Hand,4,State Representative,23,John A. Lake,REP,31
+Hand,5(8),State Representative,23,John A. Lake,REP,102
+Hand,6,State Representative,23,John A. Lake,REP,70
+Hand,7,State Representative,23,John A. Lake,REP,56
+Hand,9(10),State Representative,23,John A. Lake,REP,95
+Hand,11,State Representative,23,John A. Lake,REP,190
+Hand,12,State Representative,23,John A. Lake,REP,239
+Hand,TOTAL,State Representative,23,John A. Lake,REP,954

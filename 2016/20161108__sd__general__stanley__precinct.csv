@@ -1,0 +1,53 @@
+county,precinct,office,district,candidate,party,votes
+Stanley,1,President,,Donald J. Trump,REP,1009
+Stanley,2,President,,Donald J. Trump,REP,57
+Stanley,3,President,,Donald J. Trump,REP,82
+Stanley,TOTAL,President,,Donald J. Trump,REP,1148
+Stanley,1,President,,Gary Johnson,LIB,67
+Stanley,2,President,,Gary Johnson,LIB,3
+Stanley,3,President,,Gary Johnson,LIB,7
+Stanley,TOTAL,President,,Gary Johnson,LIB,77
+Stanley,1,President,,Hillary Clinton,DEM,306
+Stanley,2,President,,Hillary Clinton,DEM,10
+Stanley,3,President,,Hillary Clinton,DEM,13
+Stanley,TOTAL,President,,Hillary Clinton,DEM,329
+Stanley,1,President,,Darrell L. Castle,CON,10
+Stanley,2,President,,Darrell L. Castle,CON,3
+Stanley,3,President,,Darrell L. Castle,CON,0
+Stanley,TOTAL,President,,Darrell L. Castle,CON,13
+Stanley,1,U.S Senate,,John R. Thune,REP,1099
+Stanley,2,U.S Senate,,John R. Thune,REP,65
+Stanley,3,U.S Senate,,John R. Thune,REP,90
+Stanley,TOTAL,U.S Senate,,John R. Thune,REP,1254
+Stanley,1,U.S Senate,,Jay Williams,DEM,283
+Stanley,2,U.S Senate,,Jay Williams,DEM,7
+Stanley,3,U.S Senate,,Jay Williams,DEM,13
+Stanley,TOTAL,U.S Senate,,Jay Williams,DEM,303
+Stanley,1,U.S House,1,Kristi Noem,REP,987
+Stanley,2,U.S House,1,Kristi Noem,REP,60
+Stanley,3,U.S House,1,Kristi Noem,REP,85
+Stanley,TOTAL,U.S House,1,Kristi Noem,REP,1132
+Stanley,1,U.S House,1,Paula Hawks,DEM,404
+Stanley,2,U.S House,1,Paula Hawks,DEM,12
+Stanley,3,U.S House,1,Paula Hawks,DEM,17
+Stanley,TOTAL,U.S House,1,Paula Hawks,DEM,433
+Stanley,1,Public Utilities commissioner,,Chris Nelson,REP,1142
+Stanley,2,Public Utilities commissioner,,Chris Nelson,REP,60
+Stanley,3,Public Utilities commissioner,,Chris Nelson,REP,91
+Stanley,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1293
+Stanley,1,Public Utilities commissioner,,Henry Red Cloud,DEM,225
+Stanley,2,Public Utilities commissioner,,Henry Red Cloud,DEM,10
+Stanley,3,Public Utilities commissioner,,Henry Red Cloud,DEM,12
+Stanley,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,247
+Stanley,1,State Senate,24,Jeff Monroe,REP,1006
+Stanley,2,State Senate,24,Jeff Monroe,REP,55
+Stanley,3,State Senate,24,Jeff Monroe,REP,83
+Stanley,TOTAL,State Senate,24,Jeff Monroe,REP,1144
+Stanley,1,State Representative,24,Mary Duvall,REP,850
+Stanley,2,State Representative,24,Mary Duvall,REP,44
+Stanley,3,State Representative,24,Mary Duvall,REP,68
+Stanley,TOTAL,State Representative,24,Mary Duvall,REP,962
+Stanley,1,State Representative,24,Tim Rounds ,REP,812
+Stanley,2,State Representative,24,Tim Rounds ,REP,45
+Stanley,3,State Representative,24,Tim Rounds ,REP,68
+Stanley,TOTAL,State Representative,24,Tim Rounds ,REP,925
