@@ -1,0 +1,716 @@
+county,precinct,office,district,party,candidate,votes
+Pennington,1-1,President,,REP,Donald J. Trump,900
+Pennington,1-2,President,,REP,Donald J. Trump,1146
+Pennington,1-3,President,,REP,Donald J. Trump,1619
+Pennington,1-4,President,,REP,Donald J. Trump,603
+Pennington,2-1,President,,REP,Donald J. Trump,61
+Pennington,2-2,President,,REP,Donald J. Trump,49
+Pennington,2-3,President,,REP,Donald J. Trump,819
+Pennington,2-4,President,,REP,Donald J. Trump,1189
+Pennington,2-5,President,,REP,Donald J. Trump,91
+Pennington,3-1,President,,REP,Donald J. Trump,377
+Pennington,3-2,President,,REP,Donald J. Trump,2028
+Pennington,3-3,President,,REP,Donald J. Trump,547
+Pennington,3-4,President,,REP,Donald J. Trump,1634
+Pennington,3-5,President,,REP,Donald J. Trump,221
+Pennington,4-1,President,,REP,Donald J. Trump,228
+Pennington,4-2,President,,REP,Donald J. Trump,696
+Pennington,4-3,President,,REP,Donald J. Trump,547
+Pennington,4-4,President,,REP,Donald J. Trump,464
+Pennington,4-5,President,,REP,Donald J. Trump,506
+Pennington,5-1,President,,REP,Donald J. Trump,263
+Pennington,5-2,President,,REP,Donald J. Trump,950
+Pennington,5-3,President,,REP,Donald J. Trump,1249
+Pennington,5-4,President,,REP,Donald J. Trump,672
+Pennington,5-5,President,,REP,Donald J. Trump,215
+Pennington,AW,President,,REP,Donald J. Trump,1830
+Pennington,BE,President,,REP,Donald J. Trump,957
+Pennington,CA,President,,REP,Donald J. Trump,490
+Pennington,CL,President,,REP,Donald J. Trump,272
+Pennington,CR,President,,REP,Donald J. Trump,54
+Pennington,DI,President,,REP,Donald J. Trump,708
+Pennington,EL,President,,REP,Donald J. Trump,305
+Pennington,HC,President,,REP,Donald J. Trump,800
+Pennington,HP,President,,REP,Donald J. Trump,1338
+Pennington,JS,President,,REP,Donald J. Trump,865
+Pennington,KY,President,,REP,Donald J. Trump,387
+Pennington,NH,President,,REP,Donald J. Trump,192
+Pennington,NU,President,,REP,Donald J. Trump,432
+Pennington,QU,President,,REP,Donald J. Trump,180
+Pennington,RH,President,,REP,Donald J. Trump,38
+Pennington,RV,President,,REP,Donald J. Trump,807
+Pennington,VF,President,,REP,Donald J. Trump,1111
+Pennington,VV,President,,REP,Donald J. Trump,722
+Pennington,WL,President,,REP,Donald J. Trump,314
+Pennington,WP,President,,REP,Donald J. Trump,852
+Pennington,WS,President,,REP,Donald J. Trump,76
+Pennington,1-1,President,,LIB,Gary Johnson,123
+Pennington,1-2,President,,LIB,Gary Johnson,146
+Pennington,1-3,President,,LIB,Gary Johnson,135
+Pennington,1-4,President,,LIB,Gary Johnson,52
+Pennington,2-1,President,,LIB,Gary Johnson,7
+Pennington,2-2,President,,LIB,Gary Johnson,9
+Pennington,2-3,President,,LIB,Gary Johnson,119
+Pennington,2-4,President,,LIB,Gary Johnson,233
+Pennington,2-5,President,,LIB,Gary Johnson,21
+Pennington,3-1,President,,LIB,Gary Johnson,59
+Pennington,3-2,President,,LIB,Gary Johnson,182
+Pennington,3-3,President,,LIB,Gary Johnson,39
+Pennington,3-4,President,,LIB,Gary Johnson,218
+Pennington,3-5,President,,LIB,Gary Johnson,20
+Pennington,4-1,President,,LIB,Gary Johnson,37
+Pennington,4-2,President,,LIB,Gary Johnson,111
+Pennington,4-3,President,,LIB,Gary Johnson,44
+Pennington,4-4,President,,LIB,Gary Johnson,108
+Pennington,4-5,President,,LIB,Gary Johnson,66
+Pennington,5-1,President,,LIB,Gary Johnson,42
+Pennington,5-2,President,,LIB,Gary Johnson,172
+Pennington,5-3,President,,LIB,Gary Johnson,155
+Pennington,5-4,President,,LIB,Gary Johnson,141
+Pennington,5-5,President,,LIB,Gary Johnson,14
+Pennington,AW,President,,LIB,Gary Johnson,83
+Pennington,BE,President,,LIB,Gary Johnson,124
+Pennington,CA,President,,LIB,Gary Johnson,31
+Pennington,CL,President,,LIB,Gary Johnson,45
+Pennington,CR,President,,LIB,Gary Johnson,5
+Pennington,DI,President,,LIB,Gary Johnson,66
+Pennington,EL,President,,LIB,Gary Johnson,39
+Pennington,HC,President,,LIB,Gary Johnson,68
+Pennington,HP,President,,LIB,Gary Johnson,79
+Pennington,JS,President,,LIB,Gary Johnson,60
+Pennington,KY,President,,LIB,Gary Johnson,26
+Pennington,NH,President,,LIB,Gary Johnson,23
+Pennington,NU,President,,LIB,Gary Johnson,19
+Pennington,QU,President,,LIB,Gary Johnson,10
+Pennington,RH,President,,LIB,Gary Johnson,5
+Pennington,RV,President,,LIB,Gary Johnson,107
+Pennington,VF,President,,LIB,Gary Johnson,123
+Pennington,VV,President,,LIB,Gary Johnson,82
+Pennington,WL,President,,LIB,Gary Johnson,15
+Pennington,WP,President,,LIB,Gary Johnson,73
+Pennington,WS,President,,LIB,Gary Johnson,3
+Pennington,1-1,President,,DEM,Hillary Clinton,393
+Pennington,1-2,President,,DEM,Hillary Clinton,590
+Pennington,1-3,President,,DEM,Hillary Clinton,734
+Pennington,1-4,President,,DEM,Hillary Clinton,270
+Pennington,2-1,President,,DEM,Hillary Clinton,51
+Pennington,2-2,President,,DEM,Hillary Clinton,20
+Pennington,2-3,President,,DEM,Hillary Clinton,410
+Pennington,2-4,President,,DEM,Hillary Clinton,794
+Pennington,2-5,President,,DEM,Hillary Clinton,88
+Pennington,3-1,President,,DEM,Hillary Clinton,236
+Pennington,3-2,President,,DEM,Hillary Clinton,792
+Pennington,3-3,President,,DEM,Hillary Clinton,275
+Pennington,3-4,President,,DEM,Hillary Clinton,981
+Pennington,3-5,President,,DEM,Hillary Clinton,102
+Pennington,4-1,President,,DEM,Hillary Clinton,149
+Pennington,4-2,President,,DEM,Hillary Clinton,439
+Pennington,4-3,President,,DEM,Hillary Clinton,303
+Pennington,4-4,President,,DEM,Hillary Clinton,402
+Pennington,4-5,President,,DEM,Hillary Clinton,242
+Pennington,5-1,President,,DEM,Hillary Clinton,198
+Pennington,5-2,President,,DEM,Hillary Clinton,644
+Pennington,5-3,President,,DEM,Hillary Clinton,716
+Pennington,5-4,President,,DEM,Hillary Clinton,744
+Pennington,5-5,President,,DEM,Hillary Clinton,115
+Pennington,AW,President,,DEM,Hillary Clinton,898
+Pennington,BE,President,,DEM,Hillary Clinton,293
+Pennington,CA,President,,DEM,Hillary Clinton,68
+Pennington,CL,President,,DEM,Hillary Clinton,137
+Pennington,CR,President,,DEM,Hillary Clinton,4
+Pennington,DI,President,,DEM,Hillary Clinton,215
+Pennington,EL,President,,DEM,Hillary Clinton,105
+Pennington,HC,President,,DEM,Hillary Clinton,272
+Pennington,HP,President,,DEM,Hillary Clinton,384
+Pennington,JS,President,,DEM,Hillary Clinton,348
+Pennington,KY,President,,DEM,Hillary Clinton,125
+Pennington,NH,President,,DEM,Hillary Clinton,65
+Pennington,NU,President,,DEM,Hillary Clinton,100
+Pennington,QU,President,,DEM,Hillary Clinton,20
+Pennington,RH,President,,DEM,Hillary Clinton,25
+Pennington,RV,President,,DEM,Hillary Clinton,317
+Pennington,VF,President,,DEM,Hillary Clinton,335
+Pennington,VV,President,,DEM,Hillary Clinton,273
+Pennington,WL,President,,DEM,Hillary Clinton,58
+Pennington,WP,President,,DEM,Hillary Clinton,340
+Pennington,WS,President,,DEM,Hillary Clinton,4
+Pennington,1-1,President,,CON,Darrell L. Castle,22
+Pennington,1-2,President,,CON,Darrell L. Castle,24
+Pennington,1-3,President,,CON,Darrell L. Castle,29
+Pennington,1-4,President,,CON,Darrell L. Castle,10
+Pennington,2-1,President,,CON,Darrell L. Castle,2
+Pennington,2-2,President,,CON,Darrell L. Castle,1
+Pennington,2-3,President,,CON,Darrell L. Castle,18
+Pennington,2-4,President,,CON,Darrell L. Castle,27
+Pennington,2-5,President,,CON,Darrell L. Castle,3
+Pennington,3-1,President,,CON,Darrell L. Castle,10
+Pennington,3-2,President,,CON,Darrell L. Castle,18
+Pennington,3-3,President,,CON,Darrell L. Castle,7
+Pennington,3-4,President,,CON,Darrell L. Castle,23
+Pennington,3-5,President,,CON,Darrell L. Castle,1
+Pennington,4-1,President,,CON,Darrell L. Castle,8
+Pennington,4-2,President,,CON,Darrell L. Castle,13
+Pennington,4-3,President,,CON,Darrell L. Castle,12
+Pennington,4-4,President,,CON,Darrell L. Castle,23
+Pennington,4-5,President,,CON,Darrell L. Castle,15
+Pennington,5-1,President,,CON,Darrell L. Castle,8
+Pennington,5-2,President,,CON,Darrell L. Castle,16
+Pennington,5-3,President,,CON,Darrell L. Castle,27
+Pennington,5-4,President,,CON,Darrell L. Castle,16
+Pennington,5-5,President,,CON,Darrell L. Castle,8
+Pennington,AW,President,,CON,Darrell L. Castle,26
+Pennington,BE,President,,CON,Darrell L. Castle,9
+Pennington,CA,President,,CON,Darrell L. Castle,8
+Pennington,CL,President,,CON,Darrell L. Castle,1
+Pennington,CR,President,,CON,Darrell L. Castle,0
+Pennington,DI,President,,CON,Darrell L. Castle,8
+Pennington,EL,President,,CON,Darrell L. Castle,2
+Pennington,HC,President,,CON,Darrell L. Castle,10
+Pennington,HP,President,,CON,Darrell L. Castle,15
+Pennington,JS,President,,CON,Darrell L. Castle,15
+Pennington,KY,President,,CON,Darrell L. Castle,4
+Pennington,NH,President,,CON,Darrell L. Castle,7
+Pennington,NU,President,,CON,Darrell L. Castle,5
+Pennington,QU,President,,CON,Darrell L. Castle,1
+Pennington,RH,President,,CON,Darrell L. Castle,1
+Pennington,RV,President,,CON,Darrell L. Castle,19
+Pennington,VF,President,,CON,Darrell L. Castle,18
+Pennington,VV,President,,CON,Darrell L. Castle,17
+Pennington,WL,President,,CON,Darrell L. Castle,5
+Pennington,WP,President,,CON,Darrell L. Castle,13
+Pennington,WS,President,,CON,Darrell L. Castle,1
+Pennington,1-1,U.S. Senate,,REP,John R. Thune,1070
+Pennington,1-2,U.S. Senate,,REP,John R. Thune,1350
+Pennington,1-3,U.S. Senate,,REP,John R. Thune,1886
+Pennington,1-4,U.S. Senate,,REP,John R. Thune,684
+Pennington,2-1,U.S. Senate,,REP,John R. Thune,71
+Pennington,2-2,U.S. Senate,,REP,John R. Thune,57
+Pennington,2-3,U.S. Senate,,REP,John R. Thune,943
+Pennington,2-4,U.S. Senate,,REP,John R. Thune,1413
+Pennington,2-5,U.S. Senate,,REP,John R. Thune,104
+Pennington,3-1,U.S. Senate,,REP,John R. Thune,472
+Pennington,3-2,U.S. Senate,,REP,John R. Thune,2382
+Pennington,3-3,U.S. Senate,,REP,John R. Thune,644
+Pennington,3-4,U.S. Senate,,REP,John R. Thune,1958
+Pennington,3-5,U.S. Senate,,REP,John R. Thune,262
+Pennington,4-1,U.S. Senate,,REP,John R. Thune,265
+Pennington,4-2,U.S. Senate,,REP,John R. Thune,789
+Pennington,4-3,U.S. Senate,,REP,John R. Thune,614
+Pennington,4-4,U.S. Senate,,REP,John R. Thune,555
+Pennington,4-5,U.S. Senate,,REP,John R. Thune,583
+Pennington,5-1,U.S. Senate,,REP,John R. Thune,322
+Pennington,5-2,U.S. Senate,,REP,John R. Thune,1146
+Pennington,5-3,U.S. Senate,,REP,John R. Thune,1473
+Pennington,5-4,U.S. Senate,,REP,John R. Thune,896
+Pennington,5-5,U.S. Senate,,REP,John R. Thune,246
+Pennington,AW,U.S. Senate,,REP,John R. Thune,1809
+Pennington,BE,U.S. Senate,,REP,John R. Thune,1068
+Pennington,CA,U.S. Senate,,REP,John R. Thune,496
+Pennington,CL,U.S. Senate,,REP,John R. Thune,332
+Pennington,CR,U.S. Senate,,REP,John R. Thune,57
+Pennington,DI,U.S. Senate,,REP,John R. Thune,793
+Pennington,EL,U.S. Senate,,REP,John R. Thune,342
+Pennington,HC,U.S. Senate,,REP,John R. Thune,878
+Pennington,HP,U.S. Senate,,REP,John R. Thune,1450
+Pennington,JS,U.S. Senate,,REP,John R. Thune,966
+Pennington,KY,U.S. Senate,,REP,John R. Thune,408
+Pennington,NH,U.S. Senate,,REP,John R. Thune,204
+Pennington,NU,U.S. Senate,,REP,John R. Thune,436
+Pennington,QU,U.S. Senate,,REP,John R. Thune,185
+Pennington,RH,U.S. Senate,,REP,John R. Thune,39
+Pennington,RV,U.S. Senate,,REP,John R. Thune,910
+Pennington,VF,U.S. Senate,,REP,John R. Thune,1199
+Pennington,VV,U.S. Senate,,REP,John R. Thune,810
+Pennington,WL,U.S. Senate,,REP,John R. Thune,334
+Pennington,WP,U.S. Senate,,REP,John R. Thune,990
+Pennington,WS,U.S. Senate,,REP,John R. Thune,76
+Pennington,1-1,U.S. Senate,,DEM,Jay Williams,359
+Pennington,1-2,U.S. Senate,,DEM,Jay Williams,551
+Pennington,1-3,U.S. Senate,,DEM,Jay Williams,626
+Pennington,1-4,U.S. Senate,,DEM,Jay Williams,255
+Pennington,2-1,U.S. Senate,,DEM,Jay Williams,48
+Pennington,2-2,U.S. Senate,,DEM,Jay Williams,21
+Pennington,2-3,U.S. Senate,,DEM,Jay Williams,401
+Pennington,2-4,U.S. Senate,,DEM,Jay Williams,819
+Pennington,2-5,U.S. Senate,,DEM,Jay Williams,92
+Pennington,3-1,U.S. Senate,,DEM,Jay Williams,209
+Pennington,3-2,U.S. Senate,,DEM,Jay Williams,663
+Pennington,3-3,U.S. Senate,,DEM,Jay Williams,213
+Pennington,3-4,U.S. Senate,,DEM,Jay Williams,888
+Pennington,3-5,U.S. Senate,,DEM,Jay Williams,86
+Pennington,4-1,U.S. Senate,,DEM,Jay Williams,151
+Pennington,4-2,U.S. Senate,,DEM,Jay Williams,457
+Pennington,4-3,U.S. Senate,,DEM,Jay Williams,288
+Pennington,4-4,U.S. Senate,,DEM,Jay Williams,435
+Pennington,4-5,U.S. Senate,,DEM,Jay Williams,242
+Pennington,5-1,U.S. Senate,,DEM,Jay Williams,183
+Pennington,5-2,U.S. Senate,,DEM,Jay Williams,620
+Pennington,5-3,U.S. Senate,,DEM,Jay Williams,668
+Pennington,5-4,U.S. Senate,,DEM,Jay Williams,661
+Pennington,5-5,U.S. Senate,,DEM,Jay Williams,109
+Pennington,AW,U.S. Senate,,DEM,Jay Williams,792
+Pennington,BE,U.S. Senate,,DEM,Jay Williams,289
+Pennington,CA,U.S. Senate,,DEM,Jay Williams,96
+Pennington,CL,U.S. Senate,,DEM,Jay Williams,125
+Pennington,CR,U.S. Senate,,DEM,Jay Williams,6
+Pennington,DI,U.S. Senate,,DEM,Jay Williams,201
+Pennington,EL,U.S. Senate,,DEM,Jay Williams,95
+Pennington,HC,U.S. Senate,,DEM,Jay Williams,264
+Pennington,HP,U.S. Senate,,DEM,Jay Williams,330
+Pennington,JS,U.S. Senate,,DEM,Jay Williams,323
+Pennington,KY,U.S. Senate,,DEM,Jay Williams,127
+Pennington,NH,U.S. Senate,,DEM,Jay Williams,78
+Pennington,NU,U.S. Senate,,DEM,Jay Williams,118
+Pennington,QU,U.S. Senate,,DEM,Jay Williams,20
+Pennington,RH,U.S. Senate,,DEM,Jay Williams,30
+Pennington,RV,U.S. Senate,,DEM,Jay Williams,322
+Pennington,VF,U.S. Senate,,DEM,Jay Williams,346
+Pennington,VV,U.S. Senate,,DEM,Jay Williams,270
+Pennington,WL,U.S. Senate,,DEM,Jay Williams,48
+Pennington,WP,U.S. Senate,,DEM,Jay Williams,278
+Pennington,WS,U.S. Senate,,DEM,Jay Williams,4
+Pennington,1-1,U.S. House,1,REP,Kristi Noem,989
+Pennington,1-2,U.S. House,1,REP,Kristi Noem,1234
+Pennington,1-3,U.S. House,1,REP,Kristi Noem,1719
+Pennington,1-4,U.S. House,1,REP,Kristi Noem,638
+Pennington,2-1,U.S. House,1,REP,Kristi Noem,64
+Pennington,2-2,U.S. House,1,REP,Kristi Noem,53
+Pennington,2-3,U.S. House,1,REP,Kristi Noem,878
+Pennington,2-4,U.S. House,1,REP,Kristi Noem,1290
+Pennington,2-5,U.S. House,1,REP,Kristi Noem,94
+Pennington,3-1,U.S. House,1,REP,Kristi Noem,425
+Pennington,3-2,U.S. House,1,REP,Kristi Noem,2218
+Pennington,3-3,U.S. House,1,REP,Kristi Noem,604
+Pennington,3-4,U.S. House,1,REP,Kristi Noem,1796
+Pennington,3-5,U.S. House,1,REP,Kristi Noem,245
+Pennington,4-1,U.S. House,1,REP,Kristi Noem,246
+Pennington,4-2,U.S. House,1,REP,Kristi Noem,729
+Pennington,4-3,U.S. House,1,REP,Kristi Noem,570
+Pennington,4-4,U.S. House,1,REP,Kristi Noem,494
+Pennington,4-5,U.S. House,1,REP,Kristi Noem,551
+Pennington,5-1,U.S. House,1,REP,Kristi Noem,295
+Pennington,5-2,U.S. House,1,REP,Kristi Noem,1048
+Pennington,5-3,U.S. House,1,REP,Kristi Noem,1366
+Pennington,5-4,U.S. House,1,REP,Kristi Noem,774
+Pennington,5-5,U.S. House,1,REP,Kristi Noem,230
+Pennington,AW,U.S. House,1,REP,Kristi Noem,1785
+Pennington,BE,U.S. House,1,REP,Kristi Noem,1010
+Pennington,CA,U.S. House,1,REP,Kristi Noem,496
+Pennington,CL,U.S. House,1,REP,Kristi Noem,301
+Pennington,CR,U.S. House,1,REP,Kristi Noem,54
+Pennington,DI,U.S. House,1,REP,Kristi Noem,752
+Pennington,EL,U.S. House,1,REP,Kristi Noem,332
+Pennington,HC,U.S. House,1,REP,Kristi Noem,847
+Pennington,HP,U.S. House,1,REP,Kristi Noem,1385
+Pennington,JS,U.S. House,1,REP,Kristi Noem,916
+Pennington,KY,U.S. House,1,REP,Kristi Noem,394
+Pennington,NH,U.S. House,1,REP,Kristi Noem,188
+Pennington,NU,U.S. House,1,REP,Kristi Noem,422
+Pennington,QU,U.S. House,1,REP,Kristi Noem,176
+Pennington,RH,U.S. House,1,REP,Kristi Noem,38
+Pennington,RV,U.S. House,1,REP,Kristi Noem,865
+Pennington,VF,U.S. House,1,REP,Kristi Noem,1138
+Pennington,VV,U.S. House,1,REP,Kristi Noem,767
+Pennington,WL,U.S. House,1,REP,Kristi Noem,316
+Pennington,WP,U.S. House,1,REP,Kristi Noem,937
+Pennington,WS,U.S. House,1,REP,Kristi Noem,77
+Pennington,1-1,U.S. House,1,DEM,Paula Hawks,435
+Pennington,1-2,U.S. House,1,DEM,Paula Hawks,658
+Pennington,1-3,U.S. House,1,DEM,Paula Hawks,775
+Pennington,1-4,U.S. House,1,DEM,Paula Hawks,301
+Pennington,2-1,U.S. House,1,DEM,Paula Hawks,54
+Pennington,2-2,U.S. House,1,DEM,Paula Hawks,25
+Pennington,2-3,U.S. House,1,DEM,Paula Hawks,466
+Pennington,2-4,U.S. House,1,DEM,Paula Hawks,941
+Pennington,2-5,U.S. House,1,DEM,Paula Hawks,101
+Pennington,3-1,U.S. House,1,DEM,Paula Hawks,253
+Pennington,3-2,U.S. House,1,DEM,Paula Hawks,842
+Pennington,3-3,U.S. House,1,DEM,Paula Hawks,256
+Pennington,3-4,U.S. House,1,DEM,Paula Hawks,1064
+Pennington,3-5,U.S. House,1,DEM,Paula Hawks,108
+Pennington,4-1,U.S. House,1,DEM,Paula Hawks,173
+Pennington,4-2,U.S. House,1,DEM,Paula Hawks,517
+Pennington,4-3,U.S. House,1,DEM,Paula Hawks,332
+Pennington,4-4,U.S. House,1,DEM,Paula Hawks,492
+Pennington,4-5,U.S. House,1,DEM,Paula Hawks,276
+Pennington,5-1,U.S. House,1,DEM,Paula Hawks,214
+Pennington,5-2,U.S. House,1,DEM,Paula Hawks,718
+Pennington,5-3,U.S. House,1,DEM,Paula Hawks,782
+Pennington,5-4,U.S. House,1,DEM,Paula Hawks,792
+Pennington,5-5,U.S. House,1,DEM,Paula Hawks,121
+Pennington,AW,U.S. House,1,DEM,Paula Hawks,810
+Pennington,BE,U.S. House,1,DEM,Paula Hawks,345
+Pennington,CA,U.S. House,1,DEM,Paula Hawks,103
+Pennington,CL,U.S. House,1,DEM,Paula Hawks,152
+Pennington,CR,U.S. House,1,DEM,Paula Hawks,8
+Pennington,DI,U.S. House,1,DEM,Paula Hawks,250
+Pennington,EL,U.S. House,1,DEM,Paula Hawks,105
+Pennington,HC,U.S. House,1,DEM,Paula Hawks,294
+Pennington,HP,U.S. House,1,DEM,Paula Hawks,406
+Pennington,JS,U.S. House,1,DEM,Paula Hawks,377
+Pennington,KY,U.S. House,1,DEM,Paula Hawks,141
+Pennington,NH,U.S. House,1,DEM,Paula Hawks,96
+Pennington,NU,U.S. House,1,DEM,Paula Hawks,129
+Pennington,QU,U.S. House,1,DEM,Paula Hawks,29
+Pennington,RH,U.S. House,1,DEM,Paula Hawks,30
+Pennington,RV,U.S. House,1,DEM,Paula Hawks,374
+Pennington,VF,U.S. House,1,DEM,Paula Hawks,425
+Pennington,VV,U.S. House,1,DEM,Paula Hawks,312
+Pennington,WL,U.S. House,1,DEM,Paula Hawks,72
+Pennington,WP,U.S. House,1,DEM,Paula Hawks,342
+Pennington,WS,U.S. House,1,DEM,Paula Hawks,6
+Pennington,1-1,Public Utilities Commissioner,,REP,Chris Nelson,1018
+Pennington,1-2,Public Utilities Commissioner,,REP,Chris Nelson,1331
+Pennington,1-3,Public Utilities Commissioner,,REP,Chris Nelson,1828
+Pennington,1-4,Public Utilities Commissioner,,REP,Chris Nelson,688
+Pennington,2-1,Public Utilities Commissioner,,REP,Chris Nelson,63
+Pennington,2-2,Public Utilities Commissioner,,REP,Chris Nelson,54
+Pennington,2-3,Public Utilities Commissioner,,REP,Chris Nelson,871
+Pennington,2-4,Public Utilities Commissioner,,REP,Chris Nelson,1310
+Pennington,2-5,Public Utilities Commissioner,,REP,Chris Nelson,91
+Pennington,3-1,Public Utilities Commissioner,,REP,Chris Nelson,463
+Pennington,3-2,Public Utilities Commissioner,,REP,Chris Nelson,2348
+Pennington,3-3,Public Utilities Commissioner,,REP,Chris Nelson,633
+Pennington,3-4,Public Utilities Commissioner,,REP,Chris Nelson,1987
+Pennington,3-5,Public Utilities Commissioner,,REP,Chris Nelson,262
+Pennington,4-1,Public Utilities Commissioner,,REP,Chris Nelson,243
+Pennington,4-2,Public Utilities Commissioner,,REP,Chris Nelson,744
+Pennington,4-3,Public Utilities Commissioner,,REP,Chris Nelson,586
+Pennington,4-4,Public Utilities Commissioner,,REP,Chris Nelson,502
+Pennington,4-5,Public Utilities Commissioner,,REP,Chris Nelson,572
+Pennington,5-1,Public Utilities Commissioner,,REP,Chris Nelson,318
+Pennington,5-2,Public Utilities Commissioner,,REP,Chris Nelson,1121
+Pennington,5-3,Public Utilities Commissioner,,REP,Chris Nelson,1494
+Pennington,5-4,Public Utilities Commissioner,,REP,Chris Nelson,866
+Pennington,5-5,Public Utilities Commissioner,,REP,Chris Nelson,260
+Pennington,AW,Public Utilities Commissioner,,REP,Chris Nelson,1622
+Pennington,BE,Public Utilities Commissioner,,REP,Chris Nelson,981
+Pennington,CA,Public Utilities Commissioner,,REP,Chris Nelson,490
+Pennington,CL,Public Utilities Commissioner,,REP,Chris Nelson,318
+Pennington,CR,Public Utilities Commissioner,,REP,Chris Nelson,50
+Pennington,DI,Public Utilities Commissioner,,REP,Chris Nelson,779
+Pennington,EL,Public Utilities Commissioner,,REP,Chris Nelson,306
+Pennington,HC,Public Utilities Commissioner,,REP,Chris Nelson,824
+Pennington,HP,Public Utilities Commissioner,,REP,Chris Nelson,1430
+Pennington,JS,Public Utilities Commissioner,,REP,Chris Nelson,981
+Pennington,KY,Public Utilities Commissioner,,REP,Chris Nelson,393
+Pennington,NH,Public Utilities Commissioner,,REP,Chris Nelson,198
+Pennington,NU,Public Utilities Commissioner,,REP,Chris Nelson,435
+Pennington,QU,Public Utilities Commissioner,,REP,Chris Nelson,178
+Pennington,RH,Public Utilities Commissioner,,REP,Chris Nelson,39
+Pennington,RV,Public Utilities Commissioner,,REP,Chris Nelson,913
+Pennington,VF,Public Utilities Commissioner,,REP,Chris Nelson,1155
+Pennington,VV,Public Utilities Commissioner,,REP,Chris Nelson,757
+Pennington,WL,Public Utilities Commissioner,,REP,Chris Nelson,322
+Pennington,WP,Public Utilities Commissioner,,REP,Chris Nelson,993
+Pennington,WS,Public Utilities Commissioner,,REP,Chris Nelson,75
+Pennington,1-1,Public Utilities Commissioner,,DEM,Henry Red Cloud,353
+Pennington,1-2,Public Utilities Commissioner,,DEM,Henry Red Cloud,514
+Pennington,1-3,Public Utilities Commissioner,,DEM,Henry Red Cloud,565
+Pennington,1-4,Public Utilities Commissioner,,DEM,Henry Red Cloud,210
+Pennington,2-1,Public Utilities Commissioner,,DEM,Henry Red Cloud,51
+Pennington,2-2,Public Utilities Commissioner,,DEM,Henry Red Cloud,25
+Pennington,2-3,Public Utilities Commissioner,,DEM,Henry Red Cloud,410
+Pennington,2-4,Public Utilities Commissioner,,DEM,Henry Red Cloud,836
+Pennington,2-5,Public Utilities Commissioner,,DEM,Henry Red Cloud,96
+Pennington,3-1,Public Utilities Commissioner,,DEM,Henry Red Cloud,193
+Pennington,3-2,Public Utilities Commissioner,,DEM,Henry Red Cloud,589
+Pennington,3-3,Public Utilities Commissioner,,DEM,Henry Red Cloud,202
+Pennington,3-4,Public Utilities Commissioner,,DEM,Henry Red Cloud,781
+Pennington,3-5,Public Utilities Commissioner,,DEM,Henry Red Cloud,80
+Pennington,4-1,Public Utilities Commissioner,,DEM,Henry Red Cloud,167
+Pennington,4-2,Public Utilities Commissioner,,DEM,Henry Red Cloud,467
+Pennington,4-3,Public Utilities Commissioner,,DEM,Henry Red Cloud,283
+Pennington,4-4,Public Utilities Commissioner,,DEM,Henry Red Cloud,459
+Pennington,4-5,Public Utilities Commissioner,,DEM,Henry Red Cloud,215
+Pennington,5-1,Public Utilities Commissioner,,DEM,Henry Red Cloud,175
+Pennington,5-2,Public Utilities Commissioner,,DEM,Henry Red Cloud,580
+Pennington,5-3,Public Utilities Commissioner,,DEM,Henry Red Cloud,566
+Pennington,5-4,Public Utilities Commissioner,,DEM,Henry Red Cloud,640
+Pennington,5-5,Public Utilities Commissioner,,DEM,Henry Red Cloud,85
+Pennington,AW,Public Utilities Commissioner,,DEM,Henry Red Cloud,767
+Pennington,BE,Public Utilities Commissioner,,DEM,Henry Red Cloud,306
+Pennington,CA,Public Utilities Commissioner,,DEM,Henry Red Cloud,81
+Pennington,CL,Public Utilities Commissioner,,DEM,Henry Red Cloud,123
+Pennington,CR,Public Utilities Commissioner,,DEM,Henry Red Cloud,8
+Pennington,DI,Public Utilities Commissioner,,DEM,Henry Red Cloud,199
+Pennington,EL,Public Utilities Commissioner,,DEM,Henry Red Cloud,99
+Pennington,HC,Public Utilities Commissioner,,DEM,Henry Red Cloud,280
+Pennington,HP,Public Utilities Commissioner,,DEM,Henry Red Cloud,298
+Pennington,JS,Public Utilities Commissioner,,DEM,Henry Red Cloud,284
+Pennington,KY,Public Utilities Commissioner,,DEM,Henry Red Cloud,122
+Pennington,NH,Public Utilities Commissioner,,DEM,Henry Red Cloud,72
+Pennington,NU,Public Utilities Commissioner,,DEM,Henry Red Cloud,97
+Pennington,QU,Public Utilities Commissioner,,DEM,Henry Red Cloud,18
+Pennington,RH,Public Utilities Commissioner,,DEM,Henry Red Cloud,27
+Pennington,RV,Public Utilities Commissioner,,DEM,Henry Red Cloud,268
+Pennington,VF,Public Utilities Commissioner,,DEM,Henry Red Cloud,324
+Pennington,VV,Public Utilities Commissioner,,DEM,Henry Red Cloud,269
+Pennington,WL,Public Utilities Commissioner,,DEM,Henry Red Cloud,49
+Pennington,WP,Public Utilities Commissioner,,DEM,Henry Red Cloud,251
+Pennington,WS,Public Utilities Commissioner,,DEM,Henry Red Cloud,6
+Pennington,CA,State Senate,27,DEM,Kevin Killer,15
+Pennington,CR,State Senate,27,DEM,Kevin Killer,8
+Pennington,QU,State Senate,27,DEM,Kevin Killer,50
+Pennington,EL,State Senate,29,REP,Gary L. Cammack,267
+Pennington,EL,State Senate,29,IND,LeRoy Kindler,110
+Pennington,CA,State Senate,30,REP,Lance Russell,405
+Pennington,HC,State Senate,30,REP,Lance Russell,788
+Pennington,HR,State Senate,30,REP,Lance Russell,1280
+Pennington,KY,State Senate,30,REP,Lance Russell,378
+Pennington,NU,State Senate,30,REP,Lance Russell,401
+Pennington,RH,State Senate,30,REP,Lance Russell,39
+Pennington,WL,State Senate,30,REP,Lance Russell,290
+Pennington,WS,State Senate,30,REP,Lance Russell,75
+Pennington,CA,State Senate,30,DEM,Karla R. LaRive,87
+Pennington,HC,State Senate,30,DEM,Karla R. LaRive,305
+Pennington,HR,State Senate,30,DEM,Karla R. LaRive,379
+Pennington,KY,State Senate,30,DEM,Karla R. LaRive,135
+Pennington,NU,State Senate,30,DEM,Karla R. LaRive,126
+Pennington,RH,State Senate,30,DEM,Karla R. LaRive,22
+Pennington,WL,State Senate,30,DEM,Karla R. LaRive,72
+Pennington,WS,State Senate,30,DEM,Karla R. LaRive,6
+Pennington,1-1,State Senate,32,REP,Alan D. Solano,1013
+Pennington,1-2,State Senate,32,REP,Alan D. Solano,1301
+Pennington,1-3,State Senate,32,REP,Alan D. Solano,1774
+Pennington,2-4,State Senate,32,REP,Alan D. Solano,1301
+Pennington,2-5,State Senate,32,REP,Alan D. Solano,95
+Pennington,3-1,State Senate,32,REP,Alan D. Solano,409
+Pennington,5-4,State Senate,32,REP,Alan D. Solano,827
+Pennington,HR,State Senate,32,REP,Alan D. Solano,44
+Pennington,1-1,State Senate,32,DEM,David A. Hubbard,357
+Pennington,1-2,State Senate,32,DEM,David A. Hubbard,542
+Pennington,1-3,State Senate,32,DEM,David A. Hubbard,622
+Pennington,2-4,State Senate,32,DEM,David A. Hubbard,813
+Pennington,2-5,State Senate,32,DEM,David A. Hubbard,93
+Pennington,3-1,State Senate,32,DEM,David A. Hubbard,241
+Pennington,5-4,State Senate,32,DEM,David A. Hubbard,678
+Pennington,HR,State Senate,32,DEM,David A. Hubbard,13
+Pennington,2-2,State Senate,33,REP,Phil Jensen,49
+Pennington,3-5,State Senate,33,REP,Phil Jensen,185
+Pennington,4-3,State Senate,33,REP,Phil Jensen,475
+Pennington,4-4,State Senate,33,REP,Phil Jensen,423
+Pennington,4-5,State Senate,33,REP,Phil Jensen,461
+Pennington,5-5,State Senate,33,REP,Phil Jensen,192
+Pennington,AW,State Senate,33,REP,Phil Jensen,1722
+Pennington,CL,State Senate,33,REP,Phil Jensen,240
+Pennington,DT,State Senate,33,REP,Phil Jensen,627
+Pennington,JS,State Senate,33,REP,Phil Jensen,759
+Pennington,NH,State Senate,33,REP,Phil Jensen,176
+Pennington,WP,State Senate,33,REP,Phil Jensen,756
+Pennington,2-2,State Senate,33,DEM,Haven Stuck,27
+Pennington,3-5,State Senate,33,DEM,Haven Stuck,154
+Pennington,4-3,State Senate,33,DEM,Haven Stuck,392
+Pennington,4-4,State Senate,33,DEM,Haven Stuck,531
+Pennington,4-5,State Senate,33,DEM,Haven Stuck,332
+Pennington,5-5,State Senate,33,DEM,Haven Stuck,148
+Pennington,AW,State Senate,33,DEM,Haven Stuck,752
+Pennington,CL,State Senate,33,DEM,Haven Stuck,203
+Pennington,DT,State Senate,33,DEM,Haven Stuck,355
+Pennington,JS,State Senate,33,DEM,Haven Stuck,503
+Pennington,NH,State Senate,33,DEM,Haven Stuck,92
+Pennington,WP,State Senate,33,DEM,Haven Stuck,496
+Pennington,2-1,State Senate,34,REP,Jeffrey D. Partridge,58
+Pennington,3-2,State Senate,34,REP,Jeffrey D. Partridge,2104
+Pennington,3-3,State Senate,34,REP,Jeffrey D. Partridge,568
+Pennington,3-4,State Senate,34,REP,Jeffrey D. Partridge,1745
+Pennington,4-1,State Senate,34,REP,Jeffrey D. Partridge,232
+Pennington,5-1,State Senate,34,REP,Jeffrey D. Partridge,273
+Pennington,5-2,State Senate,34,REP,Jeffrey D. Partridge,994
+Pennington,5-3,State Senate,34,REP,Jeffrey D. Partridge,1318
+Pennington,2-1,State Senate,34,DEM,Jay C. Shultz,55
+Pennington,3-2,State Senate,34,DEM,Jay C. Shultz,811
+Pennington,3-3,State Senate,34,DEM,Jay C. Shultz,253
+Pennington,3-4,State Senate,34,DEM,Jay C. Shultz,1010
+Pennington,4-1,State Senate,34,DEM,Jay C. Shultz,164
+Pennington,5-1,State Senate,34,DEM,Jay C. Shultz,201
+Pennington,5-2,State Senate,34,DEM,Jay C. Shultz,676
+Pennington,5-3,State Senate,34,DEM,Jay C. Shultz,719
+Pennington,1-4,State Senate,35,REP,Terri L. Haverly,663
+Pennington,2-3,State Senate,35,REP,Terri L. Haverly,883
+Pennington,4-2,State Senate,35,REP,Terri L. Haverly,763
+Pennington,BE,State Senate,35,REP,Terri L. Haverly,997
+Pennington,RV,State Senate,35,REP,Terri L. Haverly,892
+Pennington,VF,State Senate,35,REP,Terri L. Haverly,1148
+Pennington,VV,State Senate,35,REP,Terri L. Haverly,791
+Pennington,CA,State House,27,REP,Elizabeth May,58
+Pennington,CR,State House,27,REP,Elizabeth May,48
+Pennington,QU,State House,27,REP,Elizabeth May,145
+Pennington,CA,State House,27,REP,Steve Livermont,54
+Pennington,CR,State House,27,REP,Steve Livermont,42
+Pennington,QU,State House,27,REP,Steve Livermont,163
+Pennington,CA,State House,27,DEM,Red Dawn Foster,4
+Pennington,CR,State House,27,DEM,Red Dawn Foster,2
+Pennington,QU,State House,27,DEM,Red Dawn Foster,10
+Pennington,CA,State House,27,DEM,Jim Bradford,10
+Pennington,CR,State House,27,DEM,Jim Bradford,4
+Pennington,QU,State House,27,DEM,Jim Bradford,23
+Pennington,CA,State House,27,IND,Everette L.. McKinley,8
+Pennington,CR,State House,27,IND,Everette L.. McKinley,6
+Pennington,QU,State House,27,IND,Everette L.. McKinley,17
+Pennington,EL,State House,29,REP,Larry Rhoden,248
+Pennington,EL,State House,29,REP,Thomas J. Brunner,156
+Pennington,CA,State House,30,REP,Julie Frye-Mueller,352
+Pennington,HO,State House,30,REP,Julie Frye-Mueller,653
+Pennington,HR,State House,30,REP,Julie Frye-Mueller,1155
+Pennington,KY,State House,30,REP,Julie Frye-Mueller,339
+Pennington,NU,State House,30,REP,Julie Frye-Mueller,360
+Pennington,RH,State House,30,REP,Julie Frye-Mueller,38
+Pennington,WL,State House,30,REP,Julie Frye-Mueller,260
+Pennington,WS,State House,30,REP,Julie Frye-Mueller,63
+Pennington,CA,State House,30,REP,Tim R. Goodwin,338
+Pennington,HO,State House,30,REP,Tim R. Goodwin,734
+Pennington,HR,State House,30,REP,Tim R. Goodwin,1145
+Pennington,KY,State House,30,REP,Tim R. Goodwin,332
+Pennington,NU,State House,30,REP,Tim R. Goodwin,363
+Pennington,RH,State House,30,REP,Tim R. Goodwin,32
+Pennington,WL,State House,30,REP,Tim R. Goodwin,238
+Pennington,WS,State House,30,REP,Tim R. Goodwin,57
+Pennington,CA,State House,30,DEM,Kristine Ina Winter,70
+Pennington,HO,State House,30,DEM,Kristine Ina Winter,242
+Pennington,HR,State House,30,DEM,Kristine Ina Winter,337
+Pennington,KY,State House,30,DEM,Kristine Ina Winter,107
+Pennington,NU,State House,30,DEM,Kristine Ina Winter,97
+Pennington,RH,State House,30,DEM,Kristine Ina Winter,24
+Pennington,WL,State House,30,DEM,Kristine Ina Winter,67
+Pennington,WS,State House,30,DEM,Kristine Ina Winter,5
+Pennington,CA,State House,30,DEM,Sandy Arseneault,72
+Pennington,HO,State House,30,DEM,Sandy Arseneault,280
+Pennington,HR,State House,30,DEM,Sandy Arseneault,327
+Pennington,KY,State House,30,DEM,Sandy Arseneault,111
+Pennington,NU,State House,30,DEM,Sandy Arseneault,98
+Pennington,RH,State House,30,DEM,Sandy Arseneault,25
+Pennington,WL,State House,30,DEM,Sandy Arseneault,58
+Pennington,WS,State House,30,DEM,Sandy Arseneault,10
+Pennington,1-1,State House,32,REP,Kristin A. Conzet,839
+Pennington,1-2,State House,32,REP,Kristin A. Conzet,1022
+Pennington,1-3,State House,32,REP,Kristin A. Conzet,1475
+Pennington,2-4,State House,32,REP,Kristin A. Conzet,971
+Pennington,2-5,State House,32,REP,Kristin A. Conzet,83
+Pennington,3-1,State House,32,REP,Kristin A. Conzet,325
+Pennington,5-4,State House,32,REP,Kristin A. Conzet,664
+Pennington,HR,State House,32,REP,Kristin A. Conzet,40
+Pennington,1-1,State House,32,REP,Sean McPherson,777
+Pennington,1-2,State House,32,REP,Sean McPherson,943
+Pennington,1-3,State House,32,REP,Sean McPherson,1332
+Pennington,2-4,State House,32,REP,Sean McPherson,977
+Pennington,2-5,State House,32,REP,Sean McPherson,73
+Pennington,3-1,State House,32,REP,Sean McPherson,330
+Pennington,5-4,State House,32,REP,Sean McPherson,599
+Pennington,HR,State House,32,REP,Sean McPherson,37
+Pennington,1-1,State House,32,DEM,Nik Aberle,290
+Pennington,1-2,State House,32,DEM,Nik Aberle,378
+Pennington,1-3,State House,32,DEM,Nik Aberle,489
+Pennington,2-4,State House,32,DEM,Nik Aberle,591
+Pennington,2-5,State House,32,DEM,Nik Aberle,65
+Pennington,3-1,State House,32,DEM,Nik Aberle,150
+Pennington,5-4,State House,32,DEM,Nik Aberle,495
+Pennington,HR,State House,32,DEM,Nik Aberle,7
+Pennington,1-1,State House,32,DEM,Susan Kelts,465
+Pennington,1-2,State House,32,DEM,Susan Kelts,737
+Pennington,1-3,State House,32,DEM,Susan Kelts,922
+Pennington,2-4,State House,32,DEM,Susan Kelts,982
+Pennington,2-5,State House,32,DEM,Susan Kelts,91
+Pennington,3-1,State House,32,DEM,Susan Kelts,293
+Pennington,5-4,State House,32,DEM,Susan Kelts,837
+Pennington,HR,State House,32,DEM,Susan Kelts,14
+Pennington,2-2,State House,33,REP,Taffy Howard,40
+Pennington,3-5,State House,33,REP,Taffy Howard,202
+Pennington,4-3,State House,33,REP,Taffy Howard,399
+Pennington,4-4,State House,33,REP,Taffy Howard,355
+Pennington,4-5,State House,33,REP,Taffy Howard,410
+Pennington,5-5,State House,33,REP,Taffy Howard,199
+Pennington,AW,State House,33,REP,Taffy Howard,1553
+Pennington,CL,State House,33,REP,Taffy Howard,252
+Pennington,DT,State House,33,REP,Taffy Howard,606
+Pennington,JS,State House,33,REP,Taffy Howard,732
+Pennington,NH,State House,33,REP,Taffy Howard,148
+Pennington,WP,State House,33,REP,Taffy Howard,781
+Pennington,2-2,State House,33,REP,David Johnson,42
+Pennington,3-5,State House,33,REP,David Johnson,233
+Pennington,4-3,State House,33,REP,David Johnson,543
+Pennington,4-4,State House,33,REP,David Johnson,492
+Pennington,4-5,State House,33,REP,David Johnson,489
+Pennington,5-5,State House,33,REP,David Johnson,235
+Pennington,AW,State House,33,REP,David Johnson,1556
+Pennington,CL,State House,33,REP,David Johnson,283
+Pennington,DT,State House,33,REP,David Johnson,717
+Pennington,JS,State House,33,REP,David Johnson,877
+Pennington,NH,State House,33,REP,David Johnson,166
+Pennington,WP,State House,33,REP,David Johnson,892
+Pennington,2-2,State House,33,DEM,Ethan Marsland,19
+Pennington,3-5,State House,33,DEM,Ethan Marsland,76
+Pennington,4-3,State House,33,DEM,Ethan Marsland,230
+Pennington,4-4,State House,33,DEM,Ethan Marsland,360
+Pennington,4-5,State House,33,DEM,Ethan Marsland,180
+Pennington,5-5,State House,33,DEM,Ethan Marsland,75
+Pennington,AW,State House,33,DEM,Ethan Marsland,670
+Pennington,CL,State House,33,DEM,Ethan Marsland,94
+Pennington,DT,State House,33,DEM,Ethan Marsland,139
+Pennington,JS,State House,33,DEM,Ethan Marsland,219
+Pennington,NH,State House,33,DEM,Ethan Marsland,67
+Pennington,WP,State House,33,DEM,Ethan Marsland,244
+Pennington,2-2,State House,33,DEM,Jim Hadd,19
+Pennington,3-5,State House,33,DEM,Jim Hadd,81
+Pennington,4-3,State House,33,DEM,Jim Hadd,249
+Pennington,4-4,State House,33,DEM,Jim Hadd,324
+Pennington,4-5,State House,33,DEM,Jim Hadd,225
+Pennington,5-5,State House,33,DEM,Jim Hadd,94
+Pennington,AW,State House,33,DEM,Jim Hadd,677
+Pennington,CL,State House,33,DEM,Jim Hadd,121
+Pennington,DT,State House,33,DEM,Jim Hadd,230
+Pennington,JS,State House,33,DEM,Jim Hadd,335
+Pennington,NH,State House,33,DEM,Jim Hadd,65
+Pennington,WP,State House,33,DEM,Jim Hadd,281
+Pennington,2-1,State House,34,REP,Craig Tieszen,61
+Pennington,3-2,State House,34,REP,Craig Tieszen,2169
+Pennington,3-3,State House,34,REP,Craig Tieszen,576
+Pennington,3-4,State House,34,REP,Craig Tieszen,1834
+Pennington,4-1,State House,34,REP,Craig Tieszen,221
+Pennington,5-1,State House,34,REP,Craig Tieszen,262
+Pennington,5-2,State House,34,REP,Craig Tieszen,1032
+Pennington,5-3,State House,34,REP,Craig Tieszen,1407
+Pennington,2-1,State House,34,REP,Dan Dryden,45
+Pennington,3-2,State House,34,REP,Dan Dryden,1619
+Pennington,3-3,State House,34,REP,Dan Dryden,427
+Pennington,3-4,State House,34,REP,Dan Dryden,1325
+Pennington,4-1,State House,34,REP,Dan Dryden,165
+Pennington,5-1,State House,34,REP,Dan Dryden,217
+Pennington,5-2,State House,34,REP,Dan Dryden,725
+Pennington,5-3,State House,34,REP,Dan Dryden,967
+Pennington,2-1,State House,34,DEM,Steve Stenson,53
+Pennington,3-2,State House,34,DEM,Steve Stenson,739
+Pennington,3-3,State House,34,DEM,Steve Stenson,242
+Pennington,3-4,State House,34,DEM,Steve Stenson,956
+Pennington,4-1,State House,34,DEM,Steve Stenson,156
+Pennington,5-1,State House,34,DEM,Steve Stenson,179
+Pennington,5-2,State House,34,DEM,Steve Stenson,645
+Pennington,5-3,State House,34,DEM,Steve Stenson,700
+Pennington,1-4,State House,35,REP,Lynne DiSanto,537
+Pennington,2-3,State House,35,REP,Lynne DiSanto,727
+Pennington,4-2,State House,35,REP,Lynne DiSanto,576
+Pennington,BE,State House,35,REP,Lynne DiSanto,776
+Pennington,RV,State House,35,REP,Lynne DiSanto,737
+Pennington,VF,State House,35,REP,Lynne DiSanto,946
+Pennington,VV,State House,35,REP,Lynne DiSanto,656
+Pennington,1-4,State House,35,REP,"Blaine ""Chip"" Campbell",477
+Pennington,2-3,State House,35,REP,"Blaine ""Chip"" Campbell",601
+Pennington,4-2,State House,35,REP,"Blaine ""Chip"" Campbell",523
+Pennington,BE,State House,35,REP,"Blaine ""Chip"" Campbell",698
+Pennington,RV,State House,35,REP,"Blaine ""Chip"" Campbell",615
+Pennington,VF,State House,35,REP,"Blaine ""Chip"" Campbell",816
+Pennington,VV,State House,35,REP,"Blaine ""Chip"" Campbell",550
+Pennington,1-4,State House,35,DEM,Dave Freytag,259
+Pennington,2-3,State House,35,DEM,Dave Freytag,434
+Pennington,4-2,State House,35,DEM,Dave Freytag,456
+Pennington,BE,State House,35,DEM,Dave Freytag,333
+Pennington,RV,State House,35,DEM,Dave Freytag,363
+Pennington,VF,State House,35,DEM,Dave Freytag,370
+Pennington,VV,State House,35,DEM,Dave Freytag,313
+Pennington,1-4,State House,35,DEM,Michael T. Hanson,210
+Pennington,2-3,State House,35,DEM,Michael T. Hanson,351
+Pennington,4-2,State House,35,DEM,Michael T. Hanson,392
+Pennington,BE,State House,35,DEM,Michael T. Hanson,271
+Pennington,RV,State House,35,DEM,Michael T. Hanson,245
+Pennington,VF,State House,35,DEM,Michael T. Hanson,287
+Pennington,VV,State House,35,DEM,Michael T. Hanson,239
