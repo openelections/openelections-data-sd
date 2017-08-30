@@ -1,0 +1,145 @@
+county,precinct,office,district,candidate,party,votes
+Turner,1,President,,Donald J. Trump,REP,621
+Turner,2,President,,Donald J. Trump,REP,664
+Turner,3,President,,Donald J. Trump,REP,242
+Turner,4,President,,Donald J. Trump,REP,204
+Turner,5,President,,Donald J. Trump,REP,384
+Turner,6,President,,Donald J. Trump,REP,332
+Turner,7,President,,Donald J. Trump,REP,102
+Turner,8,President,,Donald J. Trump,REP,388
+Turner,TOTAL,President,,Donald J. Trump,REP,2937
+Turner,1,President,,Gary Johnson,LIB,35
+Turner,2,President,,Gary Johnson,LIB,58
+Turner,3,President,,Gary Johnson,LIB,12
+Turner,4,President,,Gary Johnson,LIB,10
+Turner,5,President,,Gary Johnson,LIB,23
+Turner,6,President,,Gary Johnson,LIB,30
+Turner,7,President,,Gary Johnson,LIB,18
+Turner,8,President,,Gary Johnson,LIB,30
+Turner,TOTAL,President,,Gary Johnson,LIB,216
+Turner,1,President,,Hillary Clinton,DEM,163
+Turner,2,President,,Hillary Clinton,DEM,208
+Turner,3,President,,Hillary Clinton,DEM,64
+Turner,4,President,,Hillary Clinton,DEM,60
+Turner,5,President,,Hillary Clinton,DEM,139
+Turner,6,President,,Hillary Clinton,DEM,135
+Turner,7,President,,Hillary Clinton,DEM,53
+Turner,8,President,,Hillary Clinton,DEM,139
+Turner,TOTAL,President,,Hillary Clinton,DEM,961
+Turner,1,President,,Darrell L. Castle,CON,12
+Turner,2,President,,Darrell L. Castle,CON,4
+Turner,3,President,,Darrell L. Castle,CON,1
+Turner,4,President,,Darrell L. Castle,CON,5
+Turner,5,President,,Darrell L. Castle,CON,4
+Turner,6,President,,Darrell L. Castle,CON,6
+Turner,7,President,,Darrell L. Castle,CON,1
+Turner,8,President,,Darrell L. Castle,CON,3
+Turner,TOTAL,President,,Darrell L. Castle,CON,36
+Turner,1,U.S. Senate,,John R. Thune,REP,669
+Turner,2,U.S. Senate,,John R. Thune,REP,752
+Turner,3,U.S. Senate,,John R. Thune,REP,267
+Turner,4,U.S. Senate,,John R. Thune,REP,227
+Turner,5,U.S. Senate,,John R. Thune,REP,432
+Turner,6,U.S. Senate,,John R. Thune,REP,360
+Turner,7,U.S. Senate,,John R. Thune,REP,131
+Turner,8,U.S. Senate,,John R. Thune,REP,451
+Turner,TOTAL,U.S. Senate,,John R. Thune,REP,3289
+Turner,1,U.S. Senate,,Jay Williams,DEM,168
+Turner,2,U.S. Senate,,Jay Williams,DEM,190
+Turner,3,U.S. Senate,,Jay Williams,DEM,58
+Turner,4,U.S. Senate,,Jay Williams,DEM,53
+Turner,5,U.S. Senate,,Jay Williams,DEM,112
+Turner,6,U.S. Senate,,Jay Williams,DEM,129
+Turner,7,U.S. Senate,,Jay Williams,DEM,45
+Turner,8,U.S. Senate,,Jay Williams,DEM,116
+Turner,TOTAL,U.S. Senate,,Jay Williams,DEM,871
+Turner,1,U.S. House,1,Kristi Noem,REP,614
+Turner,2,U.S. House,1,Kristi Noem,REP,688
+Turner,3,U.S. House,1,Kristi Noem,REP,244
+Turner,4,U.S. House,1,Kristi Noem,REP,202
+Turner,5,U.S. House,1,Kristi Noem,REP,377
+Turner,6,U.S. House,1,Kristi Noem,REP,312
+Turner,7,U.S. House,1,Kristi Noem,REP,117
+Turner,8,U.S. House,1,Kristi Noem,REP,405
+Turner,TOTAL,U.S. House,1,Kristi Noem,REP,2959
+Turner,1,U.S. House,1,Paula Hawks,DEM,225
+Turner,2,U.S. House,1,Paula Hawks,DEM,260
+Turner,3,U.S. House,1,Paula Hawks,DEM,79
+Turner,4,U.S. House,1,Paula Hawks,DEM,77
+Turner,5,U.S. House,1,Paula Hawks,DEM,170
+Turner,6,U.S. House,1,Paula Hawks,DEM,184
+Turner,7,U.S. House,1,Paula Hawks,DEM,57
+Turner,8,U.S. House,1,Paula Hawks,DEM,167
+Turner,TOTAL,U.S. House,1,Paula Hawks,DEM,1219
+Turner,1,Public Utilities commissioner,,Chris Nelson,REP,690
+Turner,2,Public Utilities commissioner,,Chris Nelson,REP,771
+Turner,3,Public Utilities commissioner,,Chris Nelson,REP,273
+Turner,4,Public Utilities commissioner,,Chris Nelson,REP,224
+Turner,5,Public Utilities commissioner,,Chris Nelson,REP,437
+Turner,6,Public Utilities commissioner,,Chris Nelson,REP,402
+Turner,7,Public Utilities commissioner,,Chris Nelson,REP,136
+Turner,8,Public Utilities commissioner,,Chris Nelson,REP,449
+Turner,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,3382
+Turner,1,Public Utilities commissioner,,Henry Red Cloud,DEM,132
+Turner,2,Public Utilities commissioner,,Henry Red Cloud,DEM,145
+Turner,3,Public Utilities commissioner,,Henry Red Cloud,DEM,44
+Turner,4,Public Utilities commissioner,,Henry Red Cloud,DEM,44
+Turner,5,Public Utilities commissioner,,Henry Red Cloud,DEM,102
+Turner,6,Public Utilities commissioner,,Henry Red Cloud,DEM,78
+Turner,7,Public Utilities commissioner,,Henry Red Cloud,DEM,32
+Turner,8,Public Utilities commissioner,,Henry Red Cloud,DEM,101
+Turner,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,678
+Turner,1,State Senate,17,Arthur Rusch,REP,450
+Turner,2,State Senate,17,Arthur Rusch,REP,412
+Turner,3,State Senate,17,Arthur Rusch,REP,174
+Turner,4,State Senate,17,Arthur Rusch,REP,166
+Turner,5,State Senate,17,Arthur Rusch,REP,273
+Turner,6,State Senate,17,Arthur Rusch,REP,225
+Turner,7,State Senate,17,Arthur Rusch,REP,75
+Turner,8,State Senate,17,Arthur Rusch,REP,304
+Turner,TOTAL,State Senate,17,Arthur Rusch,REP,2079
+Turner,1,State Senate,17,Shane Merrill,DEM,367
+Turner,2,State Senate,17,Shane Merrill,DEM,517
+Turner,3,State Senate,17,Shane Merrill,DEM,133
+Turner,4,State Senate,17,Shane Merrill,DEM,105
+Turner,5,State Senate,17,Shane Merrill,DEM,265
+Turner,6,State Senate,17,Shane Merrill,DEM,250
+Turner,7,State Senate,17,Shane Merrill,DEM,94
+Turner,8,State Senate,17,Shane Merrill,DEM,243
+Turner,TOTAL,State Senate,17,Shane Merrill,DEM,1974
+Turner,1,State Representative,17,Debble Pease,REP,425
+Turner,2,State Representative,17,Debble Pease,REP,490
+Turner,3,State Representative,17,Debble Pease,REP,175
+Turner,4,State Representative,17,Debble Pease,REP,149
+Turner,5,State Representative,17,Debble Pease,REP,281
+Turner,6,State Representative,17,Debble Pease,REP,228
+Turner,7,State Representative,17,Debble Pease,REP,76
+Turner,8,State Representative,17,Debble Pease,REP,357
+Turner,TOTAL,State Representative,17,Debble Pease,REP,2181
+Turner,1,State Representative,17,Nancy Ramussen,REP,567
+Turner,2,State Representative,17,Nancy Ramussen,REP,631
+Turner,3,State Representative,17,Nancy Ramussen,REP,231
+Turner,4,State Representative,17,Nancy Ramussen,REP,190
+Turner,5,State Representative,17,Nancy Ramussen,REP,363
+Turner,6,State Representative,17,Nancy Ramussen,REP,273
+Turner,7,State Representative,17,Nancy Ramussen,REP,104
+Turner,8,State Representative,17,Nancy Ramussen,REP,328
+Turner,TOTAL,State Representative,17,Nancy Ramussen,REP,2687
+Turner,1,State Representative,17,Mark Winegar,DEM,174
+Turner,2,State Representative,17,Mark Winegar,DEM,219
+Turner,3,State Representative,17,Mark Winegar,DEM,61
+Turner,4,State Representative,17,Mark Winegar,DEM,60
+Turner,5,State Representative,17,Mark Winegar,DEM,133
+Turner,6,State Representative,17,Mark Winegar,DEM,150
+Turner,7,State Representative,17,Mark Winegar,DEM,42
+Turner,8,State Representative,17,Mark Winegar,DEM,114
+Turner,TOTAL,State Representative,17,Mark Winegar,DEM,953
+Turner,1,State Representative,17,Ray Ring,DEM,251
+Turner,2,State Representative,17,Ray Ring,DEM,274
+Turner,3,State Representative,17,Ray Ring,DEM,72
+Turner,4,State Representative,17,Ray Ring,DEM,74
+Turner,5,State Representative,17,Ray Ring,DEM,193
+Turner,6,State Representative,17,Ray Ring,DEM,206
+Turner,7,State Representative,17,Ray Ring,DEM,74
+Turner,8,State Representative,17,Ray Ring,DEM,181
+Turner,TOTAL,State Representative,17,Ray Ring,DEM,1325
