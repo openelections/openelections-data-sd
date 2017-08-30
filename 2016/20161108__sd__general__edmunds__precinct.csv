@@ -1,0 +1,92 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,Mina Area,President,,Trump & Pence,REP,321
+Edmunds,Ipswich City,President,,Trump & Pence,REP,282
+Edmunds,Ipswich Rural,President,,Trump & Pence,REP,241
+Edmunds,Roscoe Area,President,,Trump & Pence,REP,183
+Edmunds,Bowdle Area,President,,Trump & Pence,REP,295
+Edmunds,Hosmer Area,President,,Trump & Pence,REP,111
+Edmunds,TOTAL,President,,Trump & Pence,REP,1433
+Edmunds,Mina Area,President,,Johnson ND weld,LIB,15
+Edmunds,Ipswich City,President,,Johnson ND weld,LIB,17
+Edmunds,Ipswich Rural,President,,Johnson ND weld,LIB,9
+Edmunds,Roscoe Area,President,,Johnson ND weld,LIB,25
+Edmunds,Bowdle Area,President,,Johnson ND weld,LIB,12
+Edmunds,Hosmer Area,President,,Johnson ND weld,LIB,8
+Edmunds,TOTAL,President,,Johnson ND weld,LIB,86
+Edmunds,Mina Area,President,,Calinton & Kaine,DEM,98
+Edmunds,Ipswich City,President,,Calinton & Kaine,DEM,84
+Edmunds,Ipswich Rural,President,,Calinton & Kaine,DEM,48
+Edmunds,Roscoe Area,President,,Calinton & Kaine,DEM,58
+Edmunds,Bowdle Area,President,,Calinton & Kaine,DEM,53
+Edmunds,Hosmer Area,President,,Calinton & Kaine,DEM,39
+Edmunds,TOTAL,President,,Calinton & Kaine,DEM,380
+Edmunds,Mina Area,President,,Castle and Bradley,CON,2
+Edmunds,Ipswich City,President,,Castle and Bradley,CON,7
+Edmunds,Ipswich Rural,President,,Castle and Bradley,CON,3
+Edmunds,Roscoe Area,President,,Castle and Bradley,CON,3
+Edmunds,Bowdle Area,President,,Castle and Bradley,CON,4
+Edmunds,Hosmer Area,President,,Castle and Bradley,CON,0
+Edmunds,TOTAL,President,,Castle and Bradley,CON,19
+Edmunds,Mina Area,U.S Senate,,John R. Thune,REP,339
+Edmunds,Ipswich City,U.S Senate,,John R. Thune,REP,302
+Edmunds,Ipswich Rural,U.S Senate,,John R. Thune,REP,249
+Edmunds,Roscoe Area,U.S Senate,,John R. Thune,REP,193
+Edmunds,Bowdle Area,U.S Senate,,John R. Thune,REP,316
+Edmunds,Hosmer Area,U.S Senate,,John R. Thune,REP,118
+Edmunds,TOTAL,U.S Senate,,John R. Thune,REP,1517
+Edmunds,Mina Area,U.S Senate,,Jay Williams,DEM,94
+Edmunds,Ipswich City,U.S Senate,,Jay Williams,DEM,86
+Edmunds,Ipswich Rural,U.S Senate,,Jay Williams,DEM,52
+Edmunds,Roscoe Area,U.S Senate,,Jay Williams,DEM,73
+Edmunds,Bowdle Area,U.S Senate,,Jay Williams,DEM,53
+Edmunds,Hosmer Area,U.S Senate,,Jay Williams,DEM,38
+Edmunds,TOTAL,U.S Senate,,Jay Williams,DEM,396
+Edmunds,Mina Area,U.S House,1,Kristi Noem,REP,302
+Edmunds,Ipswich City,U.S House,1,Kristi Noem,REP,285
+Edmunds,Ipswich Rural,U.S House,1,Kristi Noem,REP,226
+Edmunds,Roscoe Area,U.S House,1,Kristi Noem,REP,180
+Edmunds,Bowdle Area,U.S House,1,Kristi Noem,REP,294
+Edmunds,Hosmer Area,U.S House,1,Kristi Noem,REP,107
+Edmunds,TOTAL,U.S House,1,Kristi Noem,REP,1394
+Edmunds,Mina Area,U.S House,1,Paula Hawks,DEM,127
+Edmunds,Ipswich City,U.S House,1,Paula Hawks,DEM,105
+Edmunds,Ipswich Rural,U.S House,1,Paula Hawks,DEM,74
+Edmunds,Roscoe Area,U.S House,1,Paula Hawks,DEM,88
+Edmunds,Bowdle Area,U.S House,1,Paula Hawks,DEM,75
+Edmunds,Hosmer Area,U.S House,1,Paula Hawks,DEM,51
+Edmunds,TOTAL,U.S House,1,Paula Hawks,DEM,520
+Edmunds,Mina Area,Public Utilities commissioner,,Chris Nelson,REP,352
+Edmunds,Ipswich City,Public Utilities commissioner,,Chris Nelson,REP,311
+Edmunds,Ipswich Rural,Public Utilities commissioner,,Chris Nelson,REP,264
+Edmunds,Roscoe Area,Public Utilities commissioner,,Chris Nelson,REP,213
+Edmunds,Bowdle Area,Public Utilities commissioner,,Chris Nelson,REP,313
+Edmunds,Hosmer Area,Public Utilities commissioner,,Chris Nelson,REP,129
+Edmunds,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,1582
+Edmunds,Mina Area,Public Utilities commissioner,,Henry Red Cloud,DEM,66
+Edmunds,Ipswich City,Public Utilities commissioner,,Henry Red Cloud,DEM,60
+Edmunds,Ipswich Rural,Public Utilities commissioner,,Henry Red Cloud,DEM,26
+Edmunds,Roscoe Area,Public Utilities commissioner,,Henry Red Cloud,DEM,40
+Edmunds,Bowdle Area,Public Utilities commissioner,,Henry Red Cloud,DEM,37
+Edmunds,Hosmer Area,Public Utilities commissioner,,Henry Red Cloud,DEM,25
+Edmunds,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,254
+Edmunds,Mina Area,State Senate,23,Justin R Cronin,REP,284
+Edmunds,Ipswich City,State Senate,23,Justin R Cronin,REP,266
+Edmunds,Ipswich Rural,State Senate,23,Justin R Cronin,REP,222
+Edmunds,Roscoe Area,State Senate,23,Justin R Cronin,REP,195
+Edmunds,Bowdle Area,State Senate,23,Justin R Cronin,REP,284
+Edmunds,Hosmer Area,State Senate,23,Justin R Cronin,REP,114
+Edmunds,TOTAL,State Senate,23,Justin R Cronin,REP,1365
+Edmunds,Mina Area,State Representative,23,Spencer Gosch,REP,263
+Edmunds,Ipswich City,State Representative,23,Spencer Gosch,REP,223
+Edmunds,Ipswich Rural,State Representative,23,Spencer Gosch,REP,179
+Edmunds,Roscoe Area,State Representative,23,Spencer Gosch,REP,176
+Edmunds,Bowdle Area,State Representative,23,Spencer Gosch,REP,267
+Edmunds,Hosmer Area,State Representative,23,Spencer Gosch,REP,104
+Edmunds,TOTAL,State Representative,23,Spencer Gosch,REP,1212
+Edmunds,Mina Area,State Representative,23,John A Lake,REP,204
+Edmunds,Ipswich City,State Representative,23,John A Lake,REP,185
+Edmunds,Ipswich Rural,State Representative,23,John A Lake,REP,159
+Edmunds,Roscoe Area,State Representative,23,John A Lake,REP,128
+Edmunds,Bowdle Area,State Representative,23,John A Lake,REP,204
+Edmunds,Hosmer Area,State Representative,23,John A Lake,REP,67
+Edmunds,TOTAL,State Representative,23,John A Lake,REP,947
