@@ -1,0 +1,33 @@
+county,precinct,office,district,party,candidate,votes
+Buffalo,1,President,,REP,Donald J. Trump,92
+Buffalo,2,President,,REP,Donald J. Trump,42
+Buffalo,3,President,,REP,Donald J. Trump,37
+Buffalo,Total,President,,REP,Donald J. Trump,171
+Buffalo,1,President,,LIB,Gary Johnson,3
+Buffalo,2,President,,LIB,Gary Johnson,0
+Buffalo,3,President,,LIB,Gary Johnson,15
+Buffalo,Total,President,,LIB,Gary Johnson,18
+Buffalo,1,President,,DEM,Hillary Clinton,21
+Buffalo,2,President,,DEM,Hillary Clinton,38
+Buffalo,3,President,,DEM,Hillary Clinton,237
+Buffalo,Total,President,,DEM,Hillary Clinton,296
+Buffalo,1,President,,CON,Darrell L. Castle,0
+Buffalo,2,President,,CON,Darrell L. Castle,1
+Buffalo,3,President,,CON,Darrell L. Castle,4
+Buffalo,Total,President,,CON,Darrell L. Castle,5
+Buffalo,1,U.S. Senate,,REP,John R. Thune,91
+Buffalo,2,U.S. Senate,,REP,John R. Thune,50
+Buffalo,3,U.S. Senate,,REP,John R. Thune,91
+Buffalo,Total,U.S. Senate,,REP,John R. Thune,232
+Buffalo,1,U.S. Senate,,DEM,Jay Williams,26
+Buffalo,2,U.S. Senate,,DEM,Jay Williams,32
+Buffalo,3,U.S. Senate,,DEM,Jay Williams,199
+Buffalo,Total,U.S. Senate,,DEM,Jay Williams,257
+Buffalo,1,U.S. House,1,REP,Kristi Noem,90
+Buffalo,2,U.S. House,1,REP,Kristi Noem,43
+Buffalo,3,U.S. House,1,REP,Kristi Noem,67
+Buffalo,Total,U.S. House,1,REP,Kristi Noem,200
+Buffalo,1,U.S. House,1,DEM,Paula Hawks,26
+Buffalo,2,U.S. House,1,DEM,Paula Hawks,40
+Buffalo,3,U.S. House,1,DEM,Paula Hawks,224
+Buffalo,Total,U.S. House,1,DEM,Paula Hawks,290
