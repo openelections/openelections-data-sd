@@ -59,66 +59,66 @@ Day,12,President,,Darrell L. Castle,CON,2
 Day,13,President,,Darrell L. Castle,CON,1
 Day,14,President,,Darrell L. Castle,CON,2
 Day,TOTAL,President,,Darrell L. Castle,CON,30
-Day,1,U.S Senate,,John R. Thune,REP,179
-Day,2,U.S Senate,,John R. Thune,REP,189
-Day,3,U.S Senate,,John R. Thune,REP,106
-Day,4,U.S Senate,,John R. Thune,REP,135
-Day,5,U.S Senate,,John R. Thune,REP,118
-Day,6,U.S Senate,,John R. Thune,REP,139
-Day,7,U.S Senate,,John R. Thune,REP,117
-Day,8,U.S Senate,,John R. Thune,REP,84
-Day,9,U.S Senate,,John R. Thune,REP,139
-Day,10,U.S Senate,,John R. Thune,REP,93
-Day,11,U.S Senate,,John R. Thune,REP,127
-Day,12,U.S Senate,,John R. Thune,REP,114
-Day,13,U.S Senate,,John R. Thune,REP,113
-Day,14,U.S Senate,,John R. Thune,REP,162
-Day,TOTAL,U.S Senate,,John R. Thune,REP,1815
-Day,1,U.S Senate,,Jay Williams,DEM,86
-Day,2,U.S Senate,,Jay Williams,DEM,90
-Day,3,U.S Senate,,Jay Williams,DEM,51
-Day,4,U.S Senate,,Jay Williams,DEM,58
-Day,5,U.S Senate,,Jay Williams,DEM,69
-Day,6,U.S Senate,,Jay Williams,DEM,115
-Day,7,U.S Senate,,Jay Williams,DEM,55
-Day,8,U.S Senate,,Jay Williams,DEM,53
-Day,9,U.S Senate,,Jay Williams,DEM,54
-Day,10,U.S Senate,,Jay Williams,DEM,17
-Day,11,U.S Senate,,Jay Williams,DEM,76
-Day,12,U.S Senate,,Jay Williams,DEM,74
-Day,13,U.S Senate,,Jay Williams,DEM,81
-Day,14,U.S Senate,,Jay Williams,DEM,83
-Day,TOTAL,U.S Senate,,Jay Williams,DEM,962
-Day,1,U.S House,1,Kristi Noem,REP,166
-Day,2,U.S House,1,Kristi Noem,REP,153
-Day,3,U.S House,1,Kristi Noem,REP,89
-Day,4,U.S House,1,Kristi Noem,REP,118
-Day,5,U.S House,1,Kristi Noem,REP,103
-Day,6,U.S House,1,Kristi Noem,REP,113
-Day,7,U.S House,1,Kristi Noem,REP,107
-Day,8,U.S House,1,Kristi Noem,REP,73
-Day,9,U.S House,1,Kristi Noem,REP,131
-Day,10,U.S House,1,Kristi Noem,REP,75
-Day,11,U.S House,1,Kristi Noem,REP,108
-Day,12,U.S House,1,Kristi Noem,REP,100
-Day,13,U.S House,1,Kristi Noem,REP,98
-Day,14,U.S House,1,Kristi Noem,REP,146
-Day,TOTAL,U.S House,1,Kristi Noem,REP,1580
-Day,1,U.S House,1,Paula Hawks,DEM,101
-Day,2,U.S House,1,Paula Hawks,DEM,123
-Day,3,U.S House,1,Paula Hawks,DEM,67
-Day,4,U.S House,1,Paula Hawks,DEM,75
-Day,5,U.S House,1,Paula Hawks,DEM,85
-Day,6,U.S House,1,Paula Hawks,DEM,140
-Day,7,U.S House,1,Paula Hawks,DEM,68
-Day,8,U.S House,1,Paula Hawks,DEM,61
-Day,9,U.S House,1,Paula Hawks,DEM,62
-Day,10,U.S House,1,Paula Hawks,DEM,34
-Day,11,U.S House,1,Paula Hawks,DEM,93
-Day,12,U.S House,1,Paula Hawks,DEM,89
-Day,13,U.S House,1,Paula Hawks,DEM,95
-Day,14,U.S House,1,Paula Hawks,DEM,99
-Day,TOTAL,U.S House,1,Paula Hawks,DEM,1192
+Day,1,U.S. Senate,,John R. Thune,REP,179
+Day,2,U.S. Senate,,John R. Thune,REP,189
+Day,3,U.S. Senate,,John R. Thune,REP,106
+Day,4,U.S. Senate,,John R. Thune,REP,135
+Day,5,U.S. Senate,,John R. Thune,REP,118
+Day,6,U.S. Senate,,John R. Thune,REP,139
+Day,7,U.S. Senate,,John R. Thune,REP,117
+Day,8,U.S. Senate,,John R. Thune,REP,84
+Day,9,U.S. Senate,,John R. Thune,REP,139
+Day,10,U.S. Senate,,John R. Thune,REP,93
+Day,11,U.S. Senate,,John R. Thune,REP,127
+Day,12,U.S. Senate,,John R. Thune,REP,114
+Day,13,U.S. Senate,,John R. Thune,REP,113
+Day,14,U.S. Senate,,John R. Thune,REP,162
+Day,TOTAL,U.S. Senate,,John R. Thune,REP,1815
+Day,1,U.S. Senate,,Jay Williams,DEM,86
+Day,2,U.S. Senate,,Jay Williams,DEM,90
+Day,3,U.S. Senate,,Jay Williams,DEM,51
+Day,4,U.S. Senate,,Jay Williams,DEM,58
+Day,5,U.S. Senate,,Jay Williams,DEM,69
+Day,6,U.S. Senate,,Jay Williams,DEM,115
+Day,7,U.S. Senate,,Jay Williams,DEM,55
+Day,8,U.S. Senate,,Jay Williams,DEM,53
+Day,9,U.S. Senate,,Jay Williams,DEM,54
+Day,10,U.S. Senate,,Jay Williams,DEM,17
+Day,11,U.S. Senate,,Jay Williams,DEM,76
+Day,12,U.S. Senate,,Jay Williams,DEM,74
+Day,13,U.S. Senate,,Jay Williams,DEM,81
+Day,14,U.S. Senate,,Jay Williams,DEM,83
+Day,TOTAL,U.S. Senate,,Jay Williams,DEM,962
+Day,1,U.S. House,1,Kristi Noem,REP,166
+Day,2,U.S. House,1,Kristi Noem,REP,153
+Day,3,U.S. House,1,Kristi Noem,REP,89
+Day,4,U.S. House,1,Kristi Noem,REP,118
+Day,5,U.S. House,1,Kristi Noem,REP,103
+Day,6,U.S. House,1,Kristi Noem,REP,113
+Day,7,U.S. House,1,Kristi Noem,REP,107
+Day,8,U.S. House,1,Kristi Noem,REP,73
+Day,9,U.S. House,1,Kristi Noem,REP,131
+Day,10,U.S. House,1,Kristi Noem,REP,75
+Day,11,U.S. House,1,Kristi Noem,REP,108
+Day,12,U.S. House,1,Kristi Noem,REP,100
+Day,13,U.S. House,1,Kristi Noem,REP,98
+Day,14,U.S. House,1,Kristi Noem,REP,146
+Day,TOTAL,U.S. House,1,Kristi Noem,REP,1580
+Day,1,U.S. House,1,Paula Hawks,DEM,101
+Day,2,U.S. House,1,Paula Hawks,DEM,123
+Day,3,U.S. House,1,Paula Hawks,DEM,67
+Day,4,U.S. House,1,Paula Hawks,DEM,75
+Day,5,U.S. House,1,Paula Hawks,DEM,85
+Day,6,U.S. House,1,Paula Hawks,DEM,140
+Day,7,U.S. House,1,Paula Hawks,DEM,68
+Day,8,U.S. House,1,Paula Hawks,DEM,61
+Day,9,U.S. House,1,Paula Hawks,DEM,62
+Day,10,U.S. House,1,Paula Hawks,DEM,34
+Day,11,U.S. House,1,Paula Hawks,DEM,93
+Day,12,U.S. House,1,Paula Hawks,DEM,89
+Day,13,U.S. House,1,Paula Hawks,DEM,95
+Day,14,U.S. House,1,Paula Hawks,DEM,99
+Day,TOTAL,U.S. House,1,Paula Hawks,DEM,1192
 Day,1,Public Utilities commissioner,,Chris Nelson,REP,197
 Day,2,Public Utilities commissioner,,Chris Nelson,REP,199
 Day,3,Public Utilities commissioner,,Chris Nelson,REP,121
