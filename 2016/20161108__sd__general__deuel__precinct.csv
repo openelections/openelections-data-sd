@@ -1,0 +1,155 @@
+county,precinct,office,district,party,candidate,votes
+Deuel,1,U.S. Senate,,REP,John R. Thune,110
+Deuel,3,U.S. Senate,,REP,John R. Thune,223
+Deuel,4,U.S. Senate,,REP,John R. Thune,138
+Deuel,5,U.S. Senate,,REP,John R. Thune,118
+Deuel,6,U.S. Senate,,REP,John R. Thune,147
+Deuel,7,U.S. Senate,,REP,John R. Thune,142
+Deuel,8,U.S. Senate,,REP,John R. Thune,184
+Deuel,9,U.S. Senate,,REP,John R. Thune,218
+Deuel,10,U.S. Senate,,REP,John R. Thune,136
+Deuel,11,U.S. Senate,,REP,John R. Thune,147
+Deuel,Total,U.S. Senate,,REP,John R. Thune,1563
+Deuel,1,U.S. Senate,,DEM,Jay Williams,39
+Deuel,3,U.S. Senate,,DEM,Jay Williams,73
+Deuel,4,U.S. Senate,,DEM,Jay Williams,48
+Deuel,5,U.S. Senate,,DEM,Jay Williams,59
+Deuel,6,U.S. Senate,,DEM,Jay Williams,49
+Deuel,7,U.S. Senate,,DEM,Jay Williams,45
+Deuel,8,U.S. Senate,,DEM,Jay Williams,69
+Deuel,9,U.S. Senate,,DEM,Jay Williams,62
+Deuel,10,U.S. Senate,,DEM,Jay Williams,35
+Deuel,11,U.S. Senate,,DEM,Jay Williams,55
+Deuel,Total,U.S. Senate,,DEM,Jay Williams,534
+Deuel,1,President,,REP,Donald J. Trump,90
+Deuel,3,President,,REP,Donald J. Trump,202
+Deuel,4,President,,REP,Donald J. Trump,105
+Deuel,5,President,,REP,Donald J. Trump,99
+Deuel,6,President,,REP,Donald J. Trump,112
+Deuel,7,President,,REP,Donald J. Trump,140
+Deuel,8,President,,REP,Donald J. Trump,168
+Deuel,9,President,,REP,Donald J. Trump,207
+Deuel,10,President,,REP,Donald J. Trump,111
+Deuel,11,President,,REP,Donald J. Trump,132
+Deuel,Total,President,,REP,Donald J. Trump,1366
+Deuel,1,President,,LIB,Gary Johnson,13
+Deuel,3,President,,LIB,Gary Johnson,15
+Deuel,4,President,,LIB,Gary Johnson,13
+Deuel,5,President,,LIB,Gary Johnson,16
+Deuel,6,President,,LIB,Gary Johnson,13
+Deuel,7,President,,LIB,Gary Johnson,6
+Deuel,8,President,,LIB,Gary Johnson,9
+Deuel,9,President,,LIB,Gary Johnson,13
+Deuel,10,President,,LIB,Gary Johnson,7
+Deuel,11,President,,LIB,Gary Johnson,12
+Deuel,Total,President,,LIB,Gary Johnson,117
+Deuel,1,President,,DEM,Hillary Clinton,43
+Deuel,3,President,,DEM,Hillary Clinton,76
+Deuel,4,President,,DEM,Hillary Clinton,65
+Deuel,5,President,,DEM,Hillary Clinton,58
+Deuel,6,President,,DEM,Hillary Clinton,61
+Deuel,7,President,,DEM,Hillary Clinton,37
+Deuel,8,President,,DEM,Hillary Clinton,71
+Deuel,9,President,,DEM,Hillary Clinton,53
+Deuel,10,President,,DEM,Hillary Clinton,50
+Deuel,11,President,,DEM,Hillary Clinton,56
+Deuel,Total,President,,DEM,Hillary Clinton,570
+Deuel,1,President,,CON,Darrell L. Castle,1
+Deuel,3,President,,CON,Darrell L. Castle,2
+Deuel,4,President,,CON,Darrell L. Castle,2
+Deuel,5,President,,CON,Darrell L. Castle,3
+Deuel,6,President,,CON,Darrell L. Castle,4
+Deuel,7,President,,CON,Darrell L. Castle,3
+Deuel,8,President,,CON,Darrell L. Castle,6
+Deuel,9,President,,CON,Darrell L. Castle,3
+Deuel,10,President,,CON,Darrell L. Castle,1
+Deuel,11,President,,CON,Darrell L. Castle,2
+Deuel,Total,President,,CON,Darrell L. Castle,27
+Deuel,1,Public Utilities commissioner,,REP,Chris Nelson,112
+Deuel,3,Public Utilities commissioner,,REP,Chris Nelson,231
+Deuel,4,Public Utilities commissioner,,REP,Chris Nelson,146
+Deuel,5,Public Utilities commissioner,,REP,Chris Nelson,139
+Deuel,6,Public Utilities commissioner,,REP,Chris Nelson,153
+Deuel,7,Public Utilities commissioner,,REP,Chris Nelson,157
+Deuel,8,Public Utilities commissioner,,REP,Chris Nelson,193
+Deuel,9,Public Utilities commissioner,,REP,Chris Nelson,225
+Deuel,10,Public Utilities commissioner,,REP,Chris Nelson,143
+Deuel,11,Public Utilities commissioner,,REP,Chris Nelson,151
+Deuel,Total,Public Utilities commissioner,,REP,Chris Nelson,1650
+Deuel,1,Public Utilities commissioner,,DEM,Henry Red Cloud,25
+Deuel,3,Public Utilities commissioner,,DEM,Henry Red Cloud,59
+Deuel,4,Public Utilities commissioner,,DEM,Henry Red Cloud,30
+Deuel,5,Public Utilities commissioner,,DEM,Henry Red Cloud,36
+Deuel,6,Public Utilities commissioner,,DEM,Henry Red Cloud,37
+Deuel,7,Public Utilities commissioner,,DEM,Henry Red Cloud,26
+Deuel,8,Public Utilities commissioner,,DEM,Henry Red Cloud,58
+Deuel,9,Public Utilities commissioner,,DEM,Henry Red Cloud,48
+Deuel,10,Public Utilities commissioner,,DEM,Henry Red Cloud,25
+Deuel,11,Public Utilities commissioner,,DEM,Henry Red Cloud,47
+Deuel,Total,Public Utilities commissioner,,DEM,Henry Red Cloud,391
+Deuel,1,U.S. House,1,REP,Kristi Noem,97
+Deuel,3,U.S. House,1,REP,Kristi Noem,202
+Deuel,4,U.S. House,1,REP,Kristi Noem,125
+Deuel,5,U.S. House,1,REP,Kristi Noem,104
+Deuel,6,U.S. House,1,REP,Kristi Noem,130
+Deuel,7,U.S. House,1,REP,Kristi Noem,133
+Deuel,8,U.S. House,1,REP,Kristi Noem,163
+Deuel,9,U.S. House,1,REP,Kristi Noem,196
+Deuel,10,U.S. House,1,REP,Kristi Noem,123
+Deuel,11,U.S. House,1,REP,Kristi Noem,128
+Deuel,Total,U.S. House,1,REP,Kristi Noem,1401
+Deuel,1,U.S. House,1,DEM,Paula Hawks,52
+Deuel,3,U.S. House,1,DEM,Paula Hawks,90
+Deuel,4,U.S. House,1,DEM,Paula Hawks,62
+Deuel,5,U.S. House,1,DEM,Paula Hawks,74
+Deuel,6,U.S. House,1,DEM,Paula Hawks,66
+Deuel,7,U.S. House,1,DEM,Paula Hawks,55
+Deuel,8,U.S. House,1,DEM,Paula Hawks,90
+Deuel,9,U.S. House,1,DEM,Paula Hawks,86
+Deuel,10,U.S. House,1,DEM,Paula Hawks,52
+Deuel,11,U.S. House,1,DEM,Paula Hawks,72
+Deuel,Total,U.S. House,1,DEM,Paula Hawks,699
+Deuel,1,State House,4,REP,John Mills,57
+Deuel,3,State House,4,REP,John Mills,173
+Deuel,4,State House,4,REP,John Mills,91
+Deuel,5,State House,4,REP,John Mills,83
+Deuel,6,State House,4,REP,John Mills,87
+Deuel,7,State House,4,REP,John Mills,110
+Deuel,8,State House,4,REP,John Mills,138
+Deuel,9,State House,4,REP,John Mills,169
+Deuel,10,State House,4,REP,John Mills,108
+Deuel,11,State House,4,REP,John Mills,108
+Deuel,Total,State House,4,REP,John Mills,1124
+Deuel,1,State House,4,REP,Jason W. Kettwig,61
+Deuel,3,State House,4,REP,Jason W. Kettwig,150
+Deuel,4,State House,4,REP,Jason W. Kettwig,87
+Deuel,5,State House,4,REP,Jason W. Kettwig,77
+Deuel,6,State House,4,REP,Jason W. Kettwig,92
+Deuel,7,State House,4,REP,Jason W. Kettwig,104
+Deuel,8,State House,4,REP,Jason W. Kettwig,111
+Deuel,9,State House,4,REP,Jason W. Kettwig,149
+Deuel,10,State House,4,REP,Jason W. Kettwig,101
+Deuel,11,State House,4,REP,Jason W. Kettwig,85
+Deuel,Total,State House,4,REP,Jason W. Kettwig,1017
+Deuel,1,State House,4,DEM,Matt Rosdahl,53
+Deuel,3,State House,4,DEM,Matt Rosdahl,79
+Deuel,4,State House,4,DEM,Matt Rosdahl,79
+Deuel,5,State House,4,DEM,Matt Rosdahl,84
+Deuel,6,State House,4,DEM,Matt Rosdahl,72
+Deuel,7,State House,4,DEM,Matt Rosdahl,41
+Deuel,8,State House,4,DEM,Matt Rosdahl,74
+Deuel,9,State House,4,DEM,Matt Rosdahl,76
+Deuel,10,State House,4,DEM,Matt Rosdahl,41
+Deuel,11,State House,4,DEM,Matt Rosdahl,73
+Deuel,Total,State House,4,DEM,Matt Rosdahl,672
+Deuel,1,State House,4,DEM,Peggy Schuelke,75
+Deuel,3,State House,4,DEM,Peggy Schuelke,106
+Deuel,4,State House,4,DEM,Peggy Schuelke,69
+Deuel,5,State House,4,DEM,Peggy Schuelke,72
+Deuel,6,State House,4,DEM,Peggy Schuelke,80
+Deuel,7,State House,4,DEM,Peggy Schuelke,71
+Deuel,8,State House,4,DEM,Peggy Schuelke,109
+Deuel,9,State House,4,DEM,Peggy Schuelke,86
+Deuel,10,State House,4,DEM,Peggy Schuelke,43
+Deuel,11,State House,4,DEM,Peggy Schuelke,85
+Deuel,Total,State House,4,DEM,Peggy Schuelke,796
