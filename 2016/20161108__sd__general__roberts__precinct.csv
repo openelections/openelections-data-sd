@@ -1,170 +1,170 @@
 county,precinct,office,district,candidate,party,votes
-Robert,1,President,,Donald J. Trump,REP,113
-Robert,2,President,,Donald J. Trump,REP,303
-Robert,3,President,,Donald J. Trump,REP,104
-Robert,4,President,,Donald J. Trump,REP,53
-Robert,5,President,,Donald J. Trump,REP,157
-Robert,6(7),President,,Donald J. Trump,REP,358
-Robert,8,President,,Donald J. Trump,REP,56
-Robert,9,President,,Donald J. Trump,REP,278
-Robert,10,President,,Donald J. Trump,REP,76
-Robert,11,President,,Donald J. Trump,REP,381
-Robert,12 (14),President,,Donald J. Trump,REP,140
-Robert,13,President,,Donald J. Trump,REP,125
-Robert,TOTAL,President,,Donald J. Trump,REP,2144
-Robert,1,President,,Gary Johnson,LIB,6
-Robert,2,President,,Gary Johnson,LIB,19
-Robert,3,President,,Gary Johnson,LIB,8
-Robert,4,President,,Gary Johnson,LIB,7
-Robert,5,President,,Gary Johnson,LIB,12
-Robert,6(7),President,,Gary Johnson,LIB,28
-Robert,8,President,,Gary Johnson,LIB,6
-Robert,9,President,,Gary Johnson,LIB,19
-Robert,10,President,,Gary Johnson,LIB,1
-Robert,11,President,,Gary Johnson,LIB,31
-Robert,12 (14),President,,Gary Johnson,LIB,16
-Robert,13,President,,Gary Johnson,LIB,11
-Robert,TOTAL,President,,Gary Johnson,LIB,164
-Robert,1,President,,Hillary Clinton,DEM,49
-Robert,2,President,,Hillary Clinton,DEM,110
-Robert,3,President,,Hillary Clinton,DEM,62
-Robert,4,President,,Hillary Clinton,DEM,24
-Robert,5,President,,Hillary Clinton,DEM,208
-Robert,6(7),President,,Hillary Clinton,DEM,143
-Robert,8,President,,Hillary Clinton,DEM,48
-Robert,9,President,,Hillary Clinton,DEM,145
-Robert,10,President,,Hillary Clinton,DEM,126
-Robert,11,President,,Hillary Clinton,DEM,319
-Robert,12 (14),President,,Hillary Clinton,DEM,157
-Robert,13,President,,Hillary Clinton,DEM,149
-Robert,TOTAL,President,,Hillary Clinton,DEM,1540
-Robert,1,President,,Darrell L. Castle,CON,1
-Robert,2,President,,Darrell L. Castle,CON,9
-Robert,3,President,,Darrell L. Castle,CON,1
-Robert,4,President,,Darrell L. Castle,CON,0
-Robert,5,President,,Darrell L. Castle,CON,5
-Robert,6(7),President,,Darrell L. Castle,CON,5
-Robert,8,President,,Darrell L. Castle,CON,1
-Robert,9,President,,Darrell L. Castle,CON,5
-Robert,10,President,,Darrell L. Castle,CON,2
-Robert,11,President,,Darrell L. Castle,CON,6
-Robert,12 (14),President,,Darrell L. Castle,CON,1
-Robert,13,President,,Darrell L. Castle,CON,5
-Robert,TOTAL,President,,Darrell L. Castle,CON,41
-Robert,1,U.S. Senate,,John R. Thune,REP,136
-Robert,2,U.S. Senate,,John R. Thune,REP,332
-Robert,3,U.S. Senate,,John R. Thune,REP,126
-Robert,4,U.S. Senate,,John R. Thune,REP,47
-Robert,5,U.S. Senate,,John R. Thune,REP,200
-Robert,6(7),U.S. Senate,,John R. Thune,REP,406
-Robert,8,U.S. Senate,,John R. Thune,REP,66
-Robert,9,U.S. Senate,,John R. Thune,REP,336
-Robert,10,U.S. Senate,,John R. Thune,REP,93
-Robert,11,U.S. Senate,,John R. Thune,REP,458
-Robert,12 (14),U.S. Senate,,John R. Thune,REP,184
-Robert,13,U.S. Senate,,John R. Thune,REP,166
-Robert,TOTAL,U.S. Senate,,John R. Thune,REP,2550
-Robert,1,U.S. Senate,,Jay Williams,DEM,36
-Robert,2,U.S. Senate,,Jay Williams,DEM,111
-Robert,3,U.S. Senate,,Jay Williams,DEM,60
-Robert,4,U.S. Senate,,Jay Williams,DEM,35
-Robert,5,U.S. Senate,,Jay Williams,DEM,184
-Robert,6(7),U.S. Senate,,Jay Williams,DEM,132
-Robert,8,U.S. Senate,,Jay Williams,DEM,47
-Robert,9,U.S. Senate,,Jay Williams,DEM,111
-Robert,10,U.S. Senate,,Jay Williams,DEM,119
-Robert,11,U.S. Senate,,Jay Williams,DEM,278
-Robert,12 (14),U.S. Senate,,Jay Williams,DEM,143
-Robert,13,U.S. Senate,,Jay Williams,DEM,120
-Robert,TOTAL,U.S. Senate,,Jay Williams,DEM,1376
-Robert,1,U.S. House,1,Kristi Noem,REP,106
-Robert,2,U.S. House,1,Kristi Noem,REP,307
-Robert,3,U.S. House,1,Kristi Noem,REP,106
-Robert,4,U.S. House,1,Kristi Noem,REP,46
-Robert,5,U.S. House,1,Kristi Noem,REP,167
-Robert,6(7),U.S. House,1,Kristi Noem,REP,369
-Robert,8,U.S. House,1,Kristi Noem,REP,60
-Robert,9,U.S. House,1,Kristi Noem,REP,282
-Robert,10,U.S. House,1,Kristi Noem,REP,75
-Robert,11,U.S. House,1,Kristi Noem,REP,402
-Robert,12 (14),U.S. House,1,Kristi Noem,REP,149
-Robert,13,U.S. House,1,Kristi Noem,REP,131
-Robert,TOTAL,U.S. House,1,Kristi Noem,REP,2200
-Robert,1,U.S. House,1,Paula Hawks,DEM,64
-Robert,2,U.S. House,1,Paula Hawks,DEM,135
-Robert,3,U.S. House,1,Paula Hawks,DEM,79
-Robert,4,U.S. House,1,Paula Hawks,DEM,39
-Robert,5,U.S. House,1,Paula Hawks,DEM,218
-Robert,6(7),U.S. House,1,Paula Hawks,DEM,164
-Robert,8,U.S. House,1,Paula Hawks,DEM,52
-Robert,9,U.S. House,1,Paula Hawks,DEM,170
-Robert,10,U.S. House,1,Paula Hawks,DEM,136
-Robert,11,U.S. House,1,Paula Hawks,DEM,336
-Robert,12 (14),U.S. House,1,Paula Hawks,DEM,175
-Robert,13,U.S. House,1,Paula Hawks,DEM,159
-Robert,TOTAL,U.S. House,1,Paula Hawks,DEM,1727
-Robert,1,Public Utilities commissioner,,Chris Nelson,REP,141
-Robert,2,Public Utilities commissioner,,Chris Nelson,REP,351
-Robert,3,Public Utilities commissioner,,Chris Nelson,REP,128
-Robert,4,Public Utilities commissioner,,Chris Nelson,REP,54
-Robert,5,Public Utilities commissioner,,Chris Nelson,REP,186
-Robert,6(7),Public Utilities commissioner,,Chris Nelson,REP,396
-Robert,8,Public Utilities commissioner,,Chris Nelson,REP,74
-Robert,9,Public Utilities commissioner,,Chris Nelson,REP,336
-Robert,10,Public Utilities commissioner,,Chris Nelson,REP,71
-Robert,11,Public Utilities commissioner,,Chris Nelson,REP,452
-Robert,12 (14),Public Utilities commissioner,,Chris Nelson,REP,180
-Robert,13,Public Utilities commissioner,,Chris Nelson,REP,162
-Robert,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2531
-Robert,1,Public Utilities commissioner,,Henry Red Cloud,DEM,24
-Robert,2,Public Utilities commissioner,,Henry Red Cloud,DEM,79
-Robert,3,Public Utilities commissioner,,Henry Red Cloud,DEM,45
-Robert,4,Public Utilities commissioner,,Henry Red Cloud,DEM,23
-Robert,5,Public Utilities commissioner,,Henry Red Cloud,DEM,191
-Robert,6(7),Public Utilities commissioner,,Henry Red Cloud,DEM,114
-Robert,8,Public Utilities commissioner,,Henry Red Cloud,DEM,36
-Robert,9,Public Utilities commissioner,,Henry Red Cloud,DEM,98
-Robert,10,Public Utilities commissioner,,Henry Red Cloud,DEM,135
-Robert,11,Public Utilities commissioner,,Henry Red Cloud,DEM,264
-Robert,12 (14),Public Utilities commissioner,,Henry Red Cloud,DEM,136
-Robert,13,Public Utilities commissioner,,Henry Red Cloud,DEM,121
-Robert,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,1266
-Robert,1,State Senate,1,Jason Frerichs,DEM,129
-Robert,2,State Senate,1,Jason Frerichs,DEM,280
-Robert,3,State Senate,1,Jason Frerichs,DEM,134
-Robert,4,State Senate,1,Jason Frerichs,DEM,61
-Robert,5,State Senate,1,Jason Frerichs,DEM,281
-Robert,6(7),State Senate,1,Jason Frerichs,DEM,346
-Robert,8,State Senate,1,Jason Frerichs,DEM,82
-Robert,9,State Senate,1,Jason Frerichs,DEM,350
-Robert,10,State Senate,1,Jason Frerichs,DEM,154
-Robert,11,State Senate,1,Jason Frerichs,DEM,522
-Robert,12 (14),State Senate,1,Jason Frerichs,DEM,244
-Robert,13,State Senate,1,Jason Frerichs,DEM,209
-Robert,TOTAL,State Senate,1,Jason Frerichs,DEM,2792
-Robert,1,State Representative,1,Steven McCleerey,DEM,98
-Robert,2,State Representative,1,Steven McCleerey,DEM,158
-Robert,3,State Representative,1,Steven McCleerey,DEM,110
-Robert,4,State Representative,1,Steven McCleerey,DEM,34
-Robert,5,State Representative,1,Steven McCleerey,DEM,197
-Robert,6(7),State Representative,1,Steven McCleerey,DEM,218
-Robert,8,State Representative,1,Steven McCleerey,DEM,51
-Robert,9,State Representative,1,Steven McCleerey,DEM,182
-Robert,10,State Representative,1,Steven McCleerey,DEM,100
-Robert,11,State Representative,1,Steven McCleerey,DEM,374
-Robert,12 (14),State Representative,1,Steven McCleerey,DEM,174
-Robert,13,State Representative,1,Steven McCleerey,DEM,168
-Robert,TOTAL,State Representative,1,Steven McCleerey,DEM,1864
-Robert,1,State Representative,1,Susan Wismer,DEM,100
-Robert,2,State Representative,1,Susan Wismer,DEM,172
-Robert,3,State Representative,1,Susan Wismer,DEM,87
-Robert,4,State Representative,1,Susan Wismer,DEM,41
-Robert,5,State Representative,1,Susan Wismer,DEM,198
-Robert,6(7),State Representative,1,Susan Wismer,DEM,247
-Robert,8,State Representative,1,Susan Wismer,DEM,62
-Robert,9,State Representative,1,Susan Wismer,DEM,216
-Robert,10,State Representative,1,Susan Wismer,DEM,125
-Robert,11,State Representative,1,Susan Wismer,DEM,387
-Robert,12 (14),State Representative,1,Susan Wismer,DEM,182
-Robert,13,State Representative,1,Susan Wismer,DEM,149
+Roberts,1,President,,Donald J. Trump,REP,113
+Roberts,2,President,,Donald J. Trump,REP,303
+Roberts,3,President,,Donald J. Trump,REP,104
+Roberts,4,President,,Donald J. Trump,REP,53
+Roberts,5,President,,Donald J. Trump,REP,157
+Roberts,6(7),President,,Donald J. Trump,REP,358
+Roberts,8,President,,Donald J. Trump,REP,56
+Roberts,9,President,,Donald J. Trump,REP,278
+Roberts,10,President,,Donald J. Trump,REP,76
+Roberts,11,President,,Donald J. Trump,REP,381
+Roberts,12 (14),President,,Donald J. Trump,REP,140
+Roberts,13,President,,Donald J. Trump,REP,125
+Roberts,TOTAL,President,,Donald J. Trump,REP,2144
+Roberts,1,President,,Gary Johnson,LIB,6
+Roberts,2,President,,Gary Johnson,LIB,19
+Roberts,3,President,,Gary Johnson,LIB,8
+Roberts,4,President,,Gary Johnson,LIB,7
+Roberts,5,President,,Gary Johnson,LIB,12
+Roberts,6(7),President,,Gary Johnson,LIB,28
+Roberts,8,President,,Gary Johnson,LIB,6
+Roberts,9,President,,Gary Johnson,LIB,19
+Roberts,10,President,,Gary Johnson,LIB,1
+Roberts,11,President,,Gary Johnson,LIB,31
+Roberts,12 (14),President,,Gary Johnson,LIB,16
+Roberts,13,President,,Gary Johnson,LIB,11
+Roberts,TOTAL,President,,Gary Johnson,LIB,164
+Roberts,1,President,,Hillary Clinton,DEM,49
+Roberts,2,President,,Hillary Clinton,DEM,110
+Roberts,3,President,,Hillary Clinton,DEM,62
+Roberts,4,President,,Hillary Clinton,DEM,24
+Roberts,5,President,,Hillary Clinton,DEM,208
+Roberts,6(7),President,,Hillary Clinton,DEM,143
+Roberts,8,President,,Hillary Clinton,DEM,48
+Roberts,9,President,,Hillary Clinton,DEM,145
+Roberts,10,President,,Hillary Clinton,DEM,126
+Roberts,11,President,,Hillary Clinton,DEM,319
+Roberts,12 (14),President,,Hillary Clinton,DEM,157
+Roberts,13,President,,Hillary Clinton,DEM,149
+Roberts,TOTAL,President,,Hillary Clinton,DEM,1540
+Roberts,1,President,,Darrell L. Castle,CON,1
+Roberts,2,President,,Darrell L. Castle,CON,9
+Roberts,3,President,,Darrell L. Castle,CON,1
+Roberts,4,President,,Darrell L. Castle,CON,0
+Roberts,5,President,,Darrell L. Castle,CON,5
+Roberts,6(7),President,,Darrell L. Castle,CON,5
+Roberts,8,President,,Darrell L. Castle,CON,1
+Roberts,9,President,,Darrell L. Castle,CON,5
+Roberts,10,President,,Darrell L. Castle,CON,2
+Roberts,11,President,,Darrell L. Castle,CON,6
+Roberts,12 (14),President,,Darrell L. Castle,CON,1
+Roberts,13,President,,Darrell L. Castle,CON,5
+Roberts,TOTAL,President,,Darrell L. Castle,CON,41
+Roberts,1,U.S. Senate,,John R. Thune,REP,136
+Roberts,2,U.S. Senate,,John R. Thune,REP,332
+Roberts,3,U.S. Senate,,John R. Thune,REP,126
+Roberts,4,U.S. Senate,,John R. Thune,REP,47
+Roberts,5,U.S. Senate,,John R. Thune,REP,200
+Roberts,6(7),U.S. Senate,,John R. Thune,REP,406
+Roberts,8,U.S. Senate,,John R. Thune,REP,66
+Roberts,9,U.S. Senate,,John R. Thune,REP,336
+Roberts,10,U.S. Senate,,John R. Thune,REP,93
+Roberts,11,U.S. Senate,,John R. Thune,REP,458
+Roberts,12 (14),U.S. Senate,,John R. Thune,REP,184
+Roberts,13,U.S. Senate,,John R. Thune,REP,166
+Roberts,TOTAL,U.S. Senate,,John R. Thune,REP,2550
+Roberts,1,U.S. Senate,,Jay Williams,DEM,36
+Roberts,2,U.S. Senate,,Jay Williams,DEM,111
+Roberts,3,U.S. Senate,,Jay Williams,DEM,60
+Roberts,4,U.S. Senate,,Jay Williams,DEM,35
+Roberts,5,U.S. Senate,,Jay Williams,DEM,184
+Roberts,6(7),U.S. Senate,,Jay Williams,DEM,132
+Roberts,8,U.S. Senate,,Jay Williams,DEM,47
+Roberts,9,U.S. Senate,,Jay Williams,DEM,111
+Roberts,10,U.S. Senate,,Jay Williams,DEM,119
+Roberts,11,U.S. Senate,,Jay Williams,DEM,278
+Roberts,12 (14),U.S. Senate,,Jay Williams,DEM,143
+Roberts,13,U.S. Senate,,Jay Williams,DEM,120
+Roberts,TOTAL,U.S. Senate,,Jay Williams,DEM,1376
+Roberts,1,U.S. House,1,Kristi Noem,REP,106
+Roberts,2,U.S. House,1,Kristi Noem,REP,307
+Roberts,3,U.S. House,1,Kristi Noem,REP,106
+Roberts,4,U.S. House,1,Kristi Noem,REP,46
+Roberts,5,U.S. House,1,Kristi Noem,REP,167
+Roberts,6(7),U.S. House,1,Kristi Noem,REP,369
+Roberts,8,U.S. House,1,Kristi Noem,REP,60
+Roberts,9,U.S. House,1,Kristi Noem,REP,282
+Roberts,10,U.S. House,1,Kristi Noem,REP,75
+Roberts,11,U.S. House,1,Kristi Noem,REP,402
+Roberts,12 (14),U.S. House,1,Kristi Noem,REP,149
+Roberts,13,U.S. House,1,Kristi Noem,REP,131
+Roberts,TOTAL,U.S. House,1,Kristi Noem,REP,2200
+Roberts,1,U.S. House,1,Paula Hawks,DEM,64
+Roberts,2,U.S. House,1,Paula Hawks,DEM,135
+Roberts,3,U.S. House,1,Paula Hawks,DEM,79
+Roberts,4,U.S. House,1,Paula Hawks,DEM,39
+Roberts,5,U.S. House,1,Paula Hawks,DEM,218
+Roberts,6(7),U.S. House,1,Paula Hawks,DEM,164
+Roberts,8,U.S. House,1,Paula Hawks,DEM,52
+Roberts,9,U.S. House,1,Paula Hawks,DEM,170
+Roberts,10,U.S. House,1,Paula Hawks,DEM,136
+Roberts,11,U.S. House,1,Paula Hawks,DEM,336
+Roberts,12 (14),U.S. House,1,Paula Hawks,DEM,175
+Roberts,13,U.S. House,1,Paula Hawks,DEM,159
+Roberts,TOTAL,U.S. House,1,Paula Hawks,DEM,1727
+Roberts,1,Public Utilities commissioner,,Chris Nelson,REP,141
+Roberts,2,Public Utilities commissioner,,Chris Nelson,REP,351
+Roberts,3,Public Utilities commissioner,,Chris Nelson,REP,128
+Roberts,4,Public Utilities commissioner,,Chris Nelson,REP,54
+Roberts,5,Public Utilities commissioner,,Chris Nelson,REP,186
+Roberts,6(7),Public Utilities commissioner,,Chris Nelson,REP,396
+Roberts,8,Public Utilities commissioner,,Chris Nelson,REP,74
+Roberts,9,Public Utilities commissioner,,Chris Nelson,REP,336
+Roberts,10,Public Utilities commissioner,,Chris Nelson,REP,71
+Roberts,11,Public Utilities commissioner,,Chris Nelson,REP,452
+Roberts,12 (14),Public Utilities commissioner,,Chris Nelson,REP,180
+Roberts,13,Public Utilities commissioner,,Chris Nelson,REP,162
+Roberts,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2531
+Roberts,1,Public Utilities commissioner,,Henry Red Cloud,DEM,24
+Roberts,2,Public Utilities commissioner,,Henry Red Cloud,DEM,79
+Roberts,3,Public Utilities commissioner,,Henry Red Cloud,DEM,45
+Roberts,4,Public Utilities commissioner,,Henry Red Cloud,DEM,23
+Roberts,5,Public Utilities commissioner,,Henry Red Cloud,DEM,191
+Roberts,6(7),Public Utilities commissioner,,Henry Red Cloud,DEM,114
+Roberts,8,Public Utilities commissioner,,Henry Red Cloud,DEM,36
+Roberts,9,Public Utilities commissioner,,Henry Red Cloud,DEM,98
+Roberts,10,Public Utilities commissioner,,Henry Red Cloud,DEM,135
+Roberts,11,Public Utilities commissioner,,Henry Red Cloud,DEM,264
+Roberts,12 (14),Public Utilities commissioner,,Henry Red Cloud,DEM,136
+Roberts,13,Public Utilities commissioner,,Henry Red Cloud,DEM,121
+Roberts,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,1266
+Roberts,1,State Senate,1,Jason Frerichs,DEM,129
+Roberts,2,State Senate,1,Jason Frerichs,DEM,280
+Roberts,3,State Senate,1,Jason Frerichs,DEM,134
+Roberts,4,State Senate,1,Jason Frerichs,DEM,61
+Roberts,5,State Senate,1,Jason Frerichs,DEM,281
+Roberts,6(7),State Senate,1,Jason Frerichs,DEM,346
+Roberts,8,State Senate,1,Jason Frerichs,DEM,82
+Roberts,9,State Senate,1,Jason Frerichs,DEM,350
+Roberts,10,State Senate,1,Jason Frerichs,DEM,154
+Roberts,11,State Senate,1,Jason Frerichs,DEM,522
+Roberts,12 (14),State Senate,1,Jason Frerichs,DEM,244
+Roberts,13,State Senate,1,Jason Frerichs,DEM,209
+Roberts,TOTAL,State Senate,1,Jason Frerichs,DEM,2792
+Roberts,1,State Representative,1,Steven McCleerey,DEM,98
+Roberts,2,State Representative,1,Steven McCleerey,DEM,158
+Roberts,3,State Representative,1,Steven McCleerey,DEM,110
+Roberts,4,State Representative,1,Steven McCleerey,DEM,34
+Roberts,5,State Representative,1,Steven McCleerey,DEM,197
+Roberts,6(7),State Representative,1,Steven McCleerey,DEM,218
+Roberts,8,State Representative,1,Steven McCleerey,DEM,51
+Roberts,9,State Representative,1,Steven McCleerey,DEM,182
+Roberts,10,State Representative,1,Steven McCleerey,DEM,100
+Roberts,11,State Representative,1,Steven McCleerey,DEM,374
+Roberts,12 (14),State Representative,1,Steven McCleerey,DEM,174
+Roberts,13,State Representative,1,Steven McCleerey,DEM,168
+Roberts,TOTAL,State Representative,1,Steven McCleerey,DEM,1864
+Roberts,1,State Representative,1,Susan Wismer,DEM,100
+Roberts,2,State Representative,1,Susan Wismer,DEM,172
+Roberts,3,State Representative,1,Susan Wismer,DEM,87
+Roberts,4,State Representative,1,Susan Wismer,DEM,41
+Roberts,5,State Representative,1,Susan Wismer,DEM,198
+Roberts,6(7),State Representative,1,Susan Wismer,DEM,247
+Roberts,8,State Representative,1,Susan Wismer,DEM,62
+Roberts,9,State Representative,1,Susan Wismer,DEM,216
+Roberts,10,State Representative,1,Susan Wismer,DEM,125
+Roberts,11,State Representative,1,Susan Wismer,DEM,387
+Roberts,12 (14),State Representative,1,Susan Wismer,DEM,182
+Roberts,13,State Representative,1,Susan Wismer,DEM,149
 ,TOTAL,State Representative,1,Susan Wismer,DEM,1966
