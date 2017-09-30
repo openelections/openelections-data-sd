@@ -1,0 +1,93 @@
+county,precinct,office,district,candidate,party,votes
+Bon Homme,1,President,,Donald J. Trump,REP,439
+Bon Homme,2,President,,Donald J. Trump,REP,371
+Bon Homme,3,President,,Donald J. Trump,REP,471
+Bon Homme,4,President,,Donald J. Trump,REP,337
+Bon Homme,5,President,,Donald J. Trump,REP,487
+Bon Homme,TOTAL,President,,Donald J. Trump,REP,2105
+Bon Homme,1,President,,Gary Johnson,LIB,29
+Bon Homme,2,President,,Gary Johnson,LIB,16
+Bon Homme,3,President,,Gary Johnson,LIB,30
+Bon Homme,4,President,,Gary Johnson,LIB,32
+Bon Homme,5,President,,Gary Johnson,LIB,22
+Bon Homme,TOTAL,President,,Gary Johnson,LIB,129
+Bon Homme,1,President,,Hillary Clinton,DEM,105
+Bon Homme,2,President,,Hillary Clinton,DEM,108
+Bon Homme,3,President,,Hillary Clinton,DEM,208
+Bon Homme,4,President,,Hillary Clinton,DEM,156
+Bon Homme,5,President,,Hillary Clinton,DEM,127
+Bon Homme,TOTAL,President,,Hillary Clinton,DEM,704
+Bon Homme,1,President,,Darrell L. Castle,CON,6
+Bon Homme,2,President,,Darrell L. Castle,CON,11
+Bon Homme,3,President,,Darrell L. Castle,CON,8
+Bon Homme,4,President,,Darrell L. Castle,CON,6
+Bon Homme,5,President,,Darrell L. Castle,CON,5
+Bon Homme,TOTAL,President,,Darrell L. Castle,CON,36
+Bon Homme,1,U.S Senate,,John R. Thune,REP,470
+Bon Homme,2,U.S Senate,,John R. Thune,REP,407
+Bon Homme,3,U.S Senate,,John R. Thune,REP,500
+Bon Homme,4,U.S Senate,,John R. Thune,REP,388
+Bon Homme,5,U.S Senate,,John R. Thune,REP,488
+Bon Homme,TOTAL,U.S Senate,,John R. Thune,REP,2253
+Bon Homme,1,U.S Senate,,Jay Williams,DEM,114
+Bon Homme,2,U.S Senate,,Jay Williams,DEM,105
+Bon Homme,3,U.S Senate,,Jay Williams,DEM,224
+Bon Homme,4,U.S Senate,,Jay Williams,DEM,178
+Bon Homme,5,U.S Senate,,Jay Williams,DEM,149
+Bon Homme,TOTAL,U.S Senate,,Jay Williams,DEM,770
+Bon Homme,1,U.S House,1,Kristi Noem,REP,412
+Bon Homme,2,U.S House,1,Kristi Noem,REP,362
+Bon Homme,3,U.S House,1,Kristi Noem,REP,430
+Bon Homme,4,U.S House,1,Kristi Noem,REP,295
+Bon Homme,5,U.S House,1,Kristi Noem,REP,443
+Bon Homme,TOTAL,U.S House,1,Kristi Noem,REP,1942
+Bon Homme,1,U.S House,1,Paula Hawks,DEM,170
+Bon Homme,2,U.S House,1,Paula Hawks,DEM,144
+Bon Homme,3,U.S House,1,Paula Hawks,DEM,295
+Bon Homme,4,U.S House,1,Paula Hawks,DEM,247
+Bon Homme,5,U.S House,1,Paula Hawks,DEM,190
+Bon Homme,TOTAL,U.S House,1,Paula Hawks,DEM,1046
+Bon Homme,1,Public Utilities commissioner,,Chris Nelson,REP,496
+Bon Homme,2,Public Utilities commissioner,,Chris Nelson,REP,425
+Bon Homme,3,Public Utilities commissioner,,Chris Nelson,REP,570
+Bon Homme,4,Public Utilities commissioner,,Chris Nelson,REP,426
+Bon Homme,5,Public Utilities commissioner,,Chris Nelson,REP,498
+Bon Homme,TOTAL,Public Utilities commissioner,,Chris Nelson,REP,2415
+Bon Homme,1,Public Utilities commissioner,,Henry Red Cloud,DEM,69
+Bon Homme,2,Public Utilities commissioner,,Henry Red Cloud,DEM,75
+Bon Homme,3,Public Utilities commissioner,,Henry Red Cloud,DEM,125
+Bon Homme,4,Public Utilities commissioner,,Henry Red Cloud,DEM,96
+Bon Homme,5,Public Utilities commissioner,,Henry Red Cloud,DEM,112
+Bon Homme,TOTAL,Public Utilities commissioner,,Henry Red Cloud,DEM,477
+Bon Homme,1,State Senate,19,Stace Nelson,REP,420
+Bon Homme,3,State Senate,19,Stace Nelson,REP,475
+Bon Homme,4,State Senate,19,Stace Nelson,REP,336
+Bon Homme,TOTAL,State Senate,19,Stace Nelson,REP,1231
+Bon Homme,1,State Senate,19,Russell Graeff,DEM,143
+Bon Homme,3,State Senate,19,Russell Graeff,DEM,206
+Bon Homme,4,State Senate,19,Russell Graeff,DEM,178
+Bon Homme,TOTAL,State Senate,19,Russell Graeff,DEM,527
+Bon Homme,2,State Senate,21,Billie Sutton,DEM,361
+Bon Homme,5,State Senate,21,Billie Sutton,DEM,427
+Bon Homme,TOTAL,State Senate,21,Billie Sutton,DEM,788
+Bon Homme,1,State Representative,19,Kent S. Peterson,REP,311
+Bon Homme,3,State Representative,19,Kent S. Peterson,REP,344
+Bon Homme,4,State Representative,19,Kent S. Peterson,REP,233
+Bon Homme,TOTAL,State Representative,19,Kent S. Peterson,REP,888
+Bon Homme,1,State Representative,19,Kyle Schoenfish,REP,489
+Bon Homme,3,State Representative,19,Kyle Schoenfish,REP,479
+Bon Homme,4,State Representative,19,Kyle Schoenfish,REP,363
+Bon Homme,TOTAL,State Representative,19,Kyle Schoenfish,REP,1331
+Bon Homme,1,State Representative,19,Melissa R Mentele,DEM,136
+Bon Homme,3,State Representative,19,Melissa R Mentele,DEM,232
+Bon Homme,4,State Representative,19,Melissa R Mentele,DEM,187
+Bon Homme,TOTAL,State Representative,19,Melissa R Mentele,DEM,555
+Bon Homme,2,State Representative,21,Lee Qualm,REP,323
+Bon Homme,5,State Representative,21,Lee Qualm,REP,405
+Bon Homme,TOTAL,State Representative,21,Lee Qualm,REP,728
+Bon Homme,2,State Representative,21,Gary Burrus,DEM,137
+Bon Homme,5,State Representative,21,Gary Burrus,DEM,182
+Bon Homme,TOTAL,State Representative,21,Gary Burrus,DEM,319
+Bon Homme,2,State Representative,21,Julie Bartling,DEM,231
+Bon Homme,5,State Representative,21,Julie Bartling,DEM,263
+Bon Homme,TOTAL,State Representative,21,Julie Bartling,DEM,494
