@@ -1,0 +1,53 @@
+county,precinct,office,district,party,candidate,votes
+Potter,Absentee Precinct,President,,REP,Donald J. Trump,201
+Potter,Gettysburg Legion Annex,President,,REP,Donald J. Trump,601
+Potter,Hoven American Legion,President,,REP,Donald J. Trump,269
+Potter,Total,President,,REP,Donald J. Trump,"1,071"
+Potter,Absentee Precinct,President,,LIB,Gary Johnson,13
+Potter,Gettysburg Legion Annex,President,,LIB,Gary Johnson,22
+Potter,Hoven American Legion,President,,LIB,Gary Johnson,5
+Potter,Total,President,,LIB,Gary Johnson,40
+Potter,Absentee Precinct,President,,DEM,Hillary Clinton,61
+Potter,Gettysburg Legion Annex,President,,DEM,Hillary Clinton,117
+Potter,Hoven American Legion,President,,DEM,Hillary Clinton,37
+Potter,Total,President,,DEM,Hillary Clinton,215
+Potter,Absentee Precinct,President,,CON,Darrell L. Castle,4
+Potter,Gettysburg Legion Annex,President,,CON,Darrell L. Castle,3
+Potter,Hoven American Legion,President,,CON,Darrell L. Castle,4
+Potter,Total,President,,CON,Darrell L. Castle,11
+Potter,Absentee Precinct,U.S. Senate,,REP,John R. Thune,211
+Potter,Gettysburg Legion Annex,U.S. Senate,,REP,John R. Thune,597
+Potter,Hoven American Legion,U.S. Senate,,REP,John R. Thune,279
+Potter,Total,U.S. Senate,,REP,John R. Thune,"1,087"
+Potter,Absentee Precinct,U.S. Senate,,DEM,Jay Williams,69
+Potter,Gettysburg Legion Annex,U.S. Senate,,DEM,Jay Williams,142
+Potter,Hoven American Legion,U.S. Senate,,DEM,Jay Williams,42
+Potter,Total,U.S. Senate,,DEM,Jay Williams,253
+Potter,Absentee Precinct,U.S. House,1,REP,Kristi Noem,212
+Potter,Gettysburg Legion Annex,U.S. House,1,REP,Kristi Noem,594
+Potter,Hoven American Legion,U.S. House,1,REP,Kristi Noem,270
+Potter,Total,U.S. House,1,REP,Kristi Noem,"1,076"
+Potter,Absentee Precinct,U.S. House,1,DEM,Paula Hawks,64
+Potter,Gettysburg Legion Annex,U.S. House,1,DEM,Paula Hawks,156
+Potter,Hoven American Legion,U.S. House,1,DEM,Paula Hawks,48
+Potter,Total,U.S. House,1,DEM,Paula Hawks,268
+Potter,Absentee Precinct,Public Utilities Commissioner,,REP,Chris Nelson,219
+Potter,Gettysburg Legion Annex,Public Utilities Commissioner,,REP,Chris Nelson,649
+Potter,Hoven American Legion,Public Utilities Commissioner,,REP,Chris Nelson,298
+Potter,Total,Public Utilities Commissioner,,REP,Chris Nelson,"1,166"
+Potter,Absentee Precinct,Public Utilities Commissioner,,DEM,Henry Red Cloud,45
+Potter,Gettysburg Legion Annex,Public Utilities Commissioner,,DEM,Henry Red Cloud,79
+Potter,Hoven American Legion,Public Utilities Commissioner,,DEM,Henry Red Cloud,15
+Potter,Total,Public Utilities Commissioner,,DEM,Henry Red Cloud,139
+Potter,Absentee Precinct,State Senate,23,REP,Justin R. Cronin,214
+Potter,Gettysburg Legion Annex,State Senate,23,REP,Justin R. Cronin,636
+Potter,Hoven American Legion,State Senate,23,REP,Justin R. Cronin,272
+Potter,Total,State Senate,23,REP,Justin R. Cronin,"1,122"
+Potter,Absentee Precinct,State Representative,23,REP,Spencer Gosch,106
+Potter,Gettysburg Legion Annex,State Representative,23,REP,Spencer Gosch,291
+Potter,Hoven American Legion,State Representative,23,REP,Spencer Gosch,150
+Potter,Total,State Representative,23,REP,Spencer Gosch,547
+Potter,Absentee Precinct,State Representative,23,REP,John A. Lake,229
+Potter,Gettysburg Legion Annex,State Representative,23,REP,John A. Lake,682
+Potter,Hoven American Legion,State Representative,23,REP,John A. Lake,250
+Potter,Total,State Representative,23,REP,John A. Lake,"1,161"
