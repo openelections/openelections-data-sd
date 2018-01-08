@@ -8,7 +8,7 @@ This repository contains CSV files with South Dakota election results converted 
 | year  | general  | primary  |
 |---|---|---|
 | 2016  | [done](https://github.com/openelections/openelections-data-sd/blob/master/2016/20161108__sd__general__precinct.csv)  |  [working](https://github.com/openelections/openelections-data-sd/issues/3) |
-| 2014 |  [not started](https://github.com/openelections/openelections-data-sd/issues/7) | not started |
+| 2014 |  [working](https://github.com/openelections/openelections-data-sd/issues/7) | not started |
 | 2012 | [not started](https://github.com/openelections/openelections-data-sd/issues/8) | not started |
 | 2010 | not started | not started |
 | 2008 | not started | not started |
