@@ -4848,17 +4848,17 @@ Hutchinson,5,State Representative,19,Melissa R. Mentele,DEM,158
 Hutchinson,6,State Representative,19,Melissa R. Mentele,DEM,76
 Hutchinson,7,State Representative,19,Melissa R. Mentele,DEM,38
 Hutchinson,TOTAL,State Representative,19,Melissa R. Mentele,DEM,686
-Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Republican,Donald J. Trump,543
-Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Libertarian,Gary Johnson,17
-Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Democratic,Hillary Clinton,125
-Hyde,Hyde County Memorial Auditorium - Main Arena,President,,,Darrell L. Castle,5
-Hyde,Hyde County Memorial Auditorium - Main Arena,U.S. House,1,Republican,Kristi Noem,518
-Hyde,Hyde County Memorial Auditorium - Main Arena,U.S. House,1,Democratic,Paula Hawks,176
-Hyde,Hyde County Memorial Auditorium - Main Arena,Public Utilities Commissioner,,Republican,Chris Nelson,580
-Hyde,Hyde County Memorial Auditorium - Main Arena,Public Utilities Commissioner,,Democratic,Henry Red Cloud,95
-Hyde,Hyde County Memorial Auditorium - Main Arena,State Senate,24,Republican,Jeff Monroe,532
-Hyde,Hyde County Memorial Auditorium - Main Arena,State House,24,Republican,Mary Duvall,409
-Hyde,Hyde County Memorial Auditorium - Main Arena,State House,24,Republican,Tim Rounds,451
+Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Donald J. Trump,REP,543
+Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Gary Johnson,LIB,17
+Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Hillary Clinton,DEM,125
+Hyde,Hyde County Memorial Auditorium - Main Arena,President,,Darrell L. Castle,CON,5
+Hyde,Hyde County Memorial Auditorium - Main Arena,U.S. House,1,Kristi Noem,REP,518
+Hyde,Hyde County Memorial Auditorium - Main Arena,U.S. House,1,Paula Hawks,DEM,176
+Hyde,Hyde County Memorial Auditorium - Main Arena,Public Utilities Commissioner,,Chris Nelson,REP,580
+Hyde,Hyde County Memorial Auditorium - Main Arena,Public Utilities Commissioner,,Henry Red Cloud,DEM,95
+Hyde,Hyde County Memorial Auditorium - Main Arena,State Senate,24,Jeff Monroe,REP,532
+Hyde,Hyde County Memorial Auditorium - Main Arena,State House,24,Mary Duvall,REP,409
+Hyde,Hyde County Memorial Auditorium - Main Arena,State House,24,Tim Rounds,REP,451
 Jackson,1,President,,Donald J. Trump,REP,39
 Jackson,2,President,,Donald J. Trump,REP,94
 Jackson,3,President,,Donald J. Trump,REP,219
