@@ -1,0 +1,217 @@
+county,precinct,office,district,party,candidate,votes
+Butte,6,President,,REP,Donald J. Trump,48
+Butte,8 (13-14),President,,REP,Donald J. Trump,442
+Butte,11,President,,REP,Donald J. Trump,63
+Butte,12,President,,REP,Donald J. Trump,79
+Butte,16,President,,REP,Donald J. Trump,570
+Butte,17,President,,REP,Donald J. Trump,301
+Butte,18,President,,REP,Donald J. Trump,87
+Butte,20,President,,REP,Donald J. Trump,181
+Butte,21,President,,REP,Donald J. Trump,177
+Butte,22,President,,REP,Donald J. Trump,132
+Butte,23,President,,REP,Donald J. Trump,174
+Butte,24,President,,REP,Donald J. Trump,251
+Butte,25,President,,REP,Donald J. Trump,230
+Butte,26,President,,REP,Donald J. Trump,184
+Butte,27,President,,REP,Donald J. Trump,185
+Butte,28,President,,REP,Donald J. Trump,253
+Butte,,President,,REP,Donald J. Trump,3357
+Butte,6,President,,LIB,Gary Johnson,0
+Butte,8 (13-14),President,,LIB,Gary Johnson,21
+Butte,11,President,,LIB,Gary Johnson,0
+Butte,12,President,,LIB,Gary Johnson,3
+Butte,16,President,,LIB,Gary Johnson,36
+Butte,17,President,,LIB,Gary Johnson,19
+Butte,18,President,,LIB,Gary Johnson,9
+Butte,20,President,,LIB,Gary Johnson,12
+Butte,21,President,,LIB,Gary Johnson,16
+Butte,22,President,,LIB,Gary Johnson,9
+Butte,23,President,,LIB,Gary Johnson,16
+Butte,24,President,,LIB,Gary Johnson,19
+Butte,25,President,,LIB,Gary Johnson,17
+Butte,26,President,,LIB,Gary Johnson,27
+Butte,27,President,,LIB,Gary Johnson,19
+Butte,28,President,,LIB,Gary Johnson,23
+Butte,,President,,LIB,Gary Johnson,246
+Butte,6,President,,DEM,Hillary Clinton,1
+Butte,8 (13-14),President,,DEM,Hillary Clinton,50
+Butte,11,President,,DEM,Hillary Clinton,8
+Butte,12,President,,DEM,Hillary Clinton,15
+Butte,16,President,,DEM,Hillary Clinton,84
+Butte,17,President,,DEM,Hillary Clinton,51
+Butte,18,President,,DEM,Hillary Clinton,23
+Butte,20,President,,DEM,Hillary Clinton,48
+Butte,21,President,,DEM,Hillary Clinton,37
+Butte,22,President,,DEM,Hillary Clinton,42
+Butte,23,President,,DEM,Hillary Clinton,40
+Butte,24,President,,DEM,Hillary Clinton,74
+Butte,25,President,,DEM,Hillary Clinton,63
+Butte,26,President,,DEM,Hillary Clinton,35
+Butte,27,President,,DEM,Hillary Clinton,42
+Butte,28,President,,DEM,Hillary Clinton,83
+Butte,,President,,DEM,Hillary Clinton,696
+Butte,6,President,,CON,Darrell L. Castle,0
+Butte,8 (13-14),President,,CON,Darrell L. Castle,3
+Butte,11,President,,CON,Darrell L. Castle,0
+Butte,12,President,,CON,Darrell L. Castle,1
+Butte,16,President,,CON,Darrell L. Castle,7
+Butte,17,President,,CON,Darrell L. Castle,2
+Butte,18,President,,CON,Darrell L. Castle,1
+Butte,20,President,,CON,Darrell L. Castle,2
+Butte,21,President,,CON,Darrell L. Castle,6
+Butte,22,President,,CON,Darrell L. Castle,1
+Butte,23,President,,CON,Darrell L. Castle,3
+Butte,24,President,,CON,Darrell L. Castle,7
+Butte,25,President,,CON,Darrell L. Castle,5
+Butte,26,President,,CON,Darrell L. Castle,6
+Butte,27,President,,CON,Darrell L. Castle,2
+Butte,28,President,,CON,Darrell L. Castle,6
+Butte,,President,,CON,Darrell L. Castle,52
+Butte,6,U.S. Senate,,REP,John R. Thune,46
+Butte,8 (13-14),U.S. Senate,,REP,John R. Thune,437
+Butte,11,U.S. Senate,,REP,John R. Thune,63
+Butte,12,U.S. Senate,,REP,John R. Thune,86
+Butte,16,U.S. Senate,,REP,John R. Thune,588
+Butte,17,U.S. Senate,,REP,John R. Thune,318
+Butte,18,U.S. Senate,,REP,John R. Thune,94
+Butte,20,U.S. Senate,,REP,John R. Thune,188
+Butte,21,U.S. Senate,,REP,John R. Thune,179
+Butte,22,U.S. Senate,,REP,John R. Thune,134
+Butte,23,U.S. Senate,,REP,John R. Thune,185
+Butte,24,U.S. Senate,,REP,John R. Thune,275
+Butte,25,U.S. Senate,,REP,John R. Thune,264
+Butte,26,U.S. Senate,,REP,John R. Thune,196
+Butte,27,U.S. Senate,,REP,John R. Thune,207
+Butte,28,U.S. Senate,,REP,John R. Thune,286
+Butte,,U.S. Senate,,REP,John R. Thune,3546
+Butte,6,U.S. Senate,,DEM,Jay Williams,4
+Butte,8 (13-14),U.S. Senate,,DEM,Jay Williams,71
+Butte,11,U.S. Senate,,DEM,Jay Williams,6
+Butte,12,U.S. Senate,,DEM,Jay Williams,11
+Butte,16,U.S. Senate,,DEM,Jay Williams,102
+Butte,17,U.S. Senate,,DEM,Jay Williams,53
+Butte,18,U.S. Senate,,DEM,Jay Williams,28
+Butte,20,U.S. Senate,,DEM,Jay Williams,50
+Butte,21,U.S. Senate,,DEM,Jay Williams,50
+Butte,22,U.S. Senate,,DEM,Jay Williams,49
+Butte,23,U.S. Senate,,DEM,Jay Williams,43
+Butte,24,U.S. Senate,,DEM,Jay Williams,71
+Butte,25,U.S. Senate,,DEM,Jay Williams,46
+Butte,26,U.S. Senate,,DEM,Jay Williams,52
+Butte,27,U.S. Senate,,DEM,Jay Williams,39
+Butte,28,U.S. Senate,,DEM,Jay Williams,83
+Butte,,U.S. Senate,,DEM,Jay Williams,758
+Butte,6,U.S. House,1,REP,Kristi Noem,46
+Butte,8 (13-14),U.S. House,1,REP,Kristi Noem,417
+Butte,11,U.S. House,1,REP,Kristi Noem,63
+Butte,12,U.S. House,1,REP,Kristi Noem,72
+Butte,16,U.S. House,1,REP,Kristi Noem,571
+Butte,17,U.S. House,1,REP,Kristi Noem,308
+Butte,18,U.S. House,1,REP,Kristi Noem,86
+Butte,20,U.S. House,1,REP,Kristi Noem,175
+Butte,21,U.S. House,1,REP,Kristi Noem,175
+Butte,22,U.S. House,1,REP,Kristi Noem,129
+Butte,23,U.S. House,1,REP,Kristi Noem,183
+Butte,24,U.S. House,1,REP,Kristi Noem,266
+Butte,25,U.S. House,1,REP,Kristi Noem,257
+Butte,26,U.S. House,1,REP,Kristi Noem,183
+Butte,27,U.S. House,1,REP,Kristi Noem,197
+Butte,28,U.S. House,1,REP,Kristi Noem,279
+Butte,,U.S. House,1,REP,Kristi Noem,3407
+Butte,6,U.S. House,1,DEM,Paula Hawks,4
+Butte,8 (13-14),U.S. House,1,DEM,Paula Hawks,94
+Butte,11,U.S. House,1,DEM,Paula Hawks,9
+Butte,12,U.S. House,1,DEM,Paula Hawks,21
+Butte,16,U.S. House,1,DEM,Paula Hawks,118
+Butte,17,U.S. House,1,DEM,Paula Hawks,66
+Butte,18,U.S. House,1,DEM,Paula Hawks,34
+Butte,20,U.S. House,1,DEM,Paula Hawks,61
+Butte,21,U.S. House,1,DEM,Paula Hawks,53
+Butte,22,U.S. House,1,DEM,Paula Hawks,51
+Butte,23,U.S. House,1,DEM,Paula Hawks,45
+Butte,24,U.S. House,1,DEM,Paula Hawks,81
+Butte,25,U.S. House,1,DEM,Paula Hawks,57
+Butte,26,U.S. House,1,DEM,Paula Hawks,63
+Butte,27,U.S. House,1,DEM,Paula Hawks,51
+Butte,28,U.S. House,1,DEM,Paula Hawks,87
+Butte,,U.S. House,1,DEM,Paula Hawks,895
+Butte,6,Public Utilities Commissioner,,REP,Chris Nelson,44
+Butte,8 (13-14),Public Utilities Commissioner,,REP,Chris Nelson,447
+Butte,11,Public Utilities Commissioner,,REP,Chris Nelson,63
+Butte,12,Public Utilities Commissioner,,REP,Chris Nelson,79
+Butte,16,Public Utilities Commissioner,,REP,Chris Nelson,590
+Butte,17,Public Utilities Commissioner,,REP,Chris Nelson,308
+Butte,18,Public Utilities Commissioner,,REP,Chris Nelson,91
+Butte,20,Public Utilities Commissioner,,REP,Chris Nelson,189
+Butte,21,Public Utilities Commissioner,,REP,Chris Nelson,176
+Butte,22,Public Utilities Commissioner,,REP,Chris Nelson,131
+Butte,23,Public Utilities Commissioner,,REP,Chris Nelson,188
+Butte,24,Public Utilities Commissioner,,REP,Chris Nelson,275
+Butte,25,Public Utilities Commissioner,,REP,Chris Nelson,262
+Butte,26,Public Utilities Commissioner,,REP,Chris Nelson,199
+Butte,27,Public Utilities Commissioner,,REP,Chris Nelson,204
+Butte,28,Public Utilities Commissioner,,REP,Chris Nelson,296
+Butte,,Public Utilities Commissioner,,REP,Chris Nelson,3542
+Butte,6,Public Utilities Commissioner,,DEM,Henry Red Cloud,3
+Butte,8 (13-14),Public Utilities Commissioner,,DEM,Henry Red Cloud,58
+Butte,11,Public Utilities Commissioner,,DEM,Henry Red Cloud,7
+Butte,12,Public Utilities Commissioner,,DEM,Henry Red Cloud,18
+Butte,16,Public Utilities Commissioner,,DEM,Henry Red Cloud,89
+Butte,17,Public Utilities Commissioner,,DEM,Henry Red Cloud,51
+Butte,18,Public Utilities Commissioner,,DEM,Henry Red Cloud,27
+Butte,20,Public Utilities Commissioner,,DEM,Henry Red Cloud,45
+Butte,21,Public Utilities Commissioner,,DEM,Henry Red Cloud,48
+Butte,22,Public Utilities Commissioner,,DEM,Henry Red Cloud,48
+Butte,23,Public Utilities Commissioner,,DEM,Henry Red Cloud,34
+Butte,24,Public Utilities Commissioner,,DEM,Henry Red Cloud,60
+Butte,25,Public Utilities Commissioner,,DEM,Henry Red Cloud,39
+Butte,26,Public Utilities Commissioner,,DEM,Henry Red Cloud,42
+Butte,27,Public Utilities Commissioner,,DEM,Henry Red Cloud,36
+Butte,28,Public Utilities Commissioner,,DEM,Henry Red Cloud,56
+Butte,,Public Utilities Commissioner,,DEM,Henry Red Cloud,661
+Butte,6,State Senate,28,REP,Ryan M. Maher,41
+Butte,8 (13-14),State Senate,29,REP,Gary L. Cammack,308
+Butte,11,State Senate,28,REP,Ryan M. Maher,56
+Butte,12,State Senate,29,REP,Gary L. Cammack,67
+Butte,16,State Senate,28,REP,Ryan M. Maher,548
+Butte,17,State Senate,28,REP,Ryan M. Maher,284
+Butte,18,State Senate,29,REP,Gary L. Cammack,63
+Butte,20,State Senate,29,REP,Gary L. Cammack,128
+Butte,21,State Senate,28,REP,Ryan M. Maher,177
+Butte,22,State Senate,28,REP,Ryan M. Maher,128
+Butte,23,State Senate,28,REP,Ryan M. Maher,171
+Butte,24,State Senate,28,REP,Ryan M. Maher,249
+Butte,25,State Senate,28,REP,Ryan M. Maher,249
+Butte,26,State Senate,28,REP,Ryan M. Maher,184
+Butte,27,State Senate,28,REP,Ryan M. Maher,186
+Butte,28,State Senate,28,REP,Ryan M. Maher,272
+Butte,,State Senate,28,REP,Ryan M. Maher,2545
+Butte,,State Senate,29,REP,Gary L. Cammack,566
+Butte,8 (13-14),State Senate,29,IND,LeRoy Kindler,204
+Butte,12,State Senate,29,IND,LeRoy Kindler,26
+Butte,18,State Senate,29,IND,LeRoy Kindler,52
+Butte,20,State Senate,29,IND,LeRoy Kindler,108
+Butte,,State Senate,29,IND,LeRoy Kindler,390
+Butte,6,State House,28B,REP,Sam Marty,44
+Butte,8 (13-14),State House,29,REP,Larry Rhoden,340
+Butte,11,State House,28B,REP,Sam Marty,57
+Butte,12,State House,29,REP,Larry Rhoden,53
+Butte,16,State House,28B,REP,Sam Marty,545
+Butte,17,State House,28B,REP,Sam Marty,278
+Butte,18,State House,29,REP,Larry Rhoden,62
+Butte,20,State House,29,REP,Larry Rhoden,154
+Butte,21,State House,28B,REP,Sam Marty,172
+Butte,22,State House,28B,REP,Sam Marty,127
+Butte,23,State House,28B,REP,Sam Marty,168
+Butte,24,State House,28B,REP,Sam Marty,245
+Butte,25,State House,28B,REP,Sam Marty,232
+Butte,26,State House,28B,REP,Sam Marty,182
+Butte,27,State House,28B,REP,Sam Marty,187
+Butte,28,State House,28B,REP,Sam Marty,261
+Butte,,State House,28B,REP,Sam Marty,2498
+Butte,,State House,29,REP,Larry Rhoden,609
+Butte,8 (13-14),State House,29,REP,Thomas J. Brunner,265
+Butte,12,State House,29,REP,Thomas J. Brunner,71
+Butte,18,State House,29,REP,Thomas J. Brunner,80
+Butte,20,State House,29,REP,Thomas J. Brunner,97
+Butte,,State House,29,REP,Thomas J. Brunner,513
