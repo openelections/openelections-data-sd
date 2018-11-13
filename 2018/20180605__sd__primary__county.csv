@@ -1,0 +1,473 @@
+county,office,district,party,candidate,votes
+Aurora,U.S. House,1,REP,Neal Tapio,95
+Beadle,U.S. House,1,REP,Neal Tapio,343
+Bennett,U.S. House,1,REP,Neal Tapio,100
+Bon Homme,U.S. House,1,REP,Neal Tapio,323
+Brookings,U.S. House,1,REP,Neal Tapio,537
+Brown,U.S. House,1,REP,Neal Tapio,1007
+Brule,U.S. House,1,REP,Neal Tapio,138
+Buffalo,U.S. House,1,REP,Neal Tapio,22
+Butte,U.S. House,1,REP,Neal Tapio,410
+Campbell,U.S. House,1,REP,Neal Tapio,94
+Charles Mix,U.S. House,1,REP,Neal Tapio,243
+Clark,U.S. House,1,REP,Neal Tapio,202
+Clay,U.S. House,1,REP,Neal Tapio,171
+Codington,U.S. House,1,REP,Neal Tapio,1235
+Corson,U.S. House,1,REP,Neal Tapio,30
+Custer,U.S. House,1,REP,Neal Tapio,515
+Davison,U.S. House,1,REP,Neal Tapio,427
+Day,U.S. House,1,REP,Neal Tapio,159
+Deuel,U.S. House,1,REP,Neal Tapio,192
+Dewey,U.S. House,1,REP,Neal Tapio,43
+Douglas,U.S. House,1,REP,Neal Tapio,257
+Edmunds,U.S. House,1,REP,Neal Tapio,116
+Fall River,U.S. House,1,REP,Neal Tapio,360
+Faulk,U.S. House,1,REP,Neal Tapio,193
+Grant,U.S. House,1,REP,Neal Tapio,266
+Gregory,U.S. House,1,REP,Neal Tapio,182
+Haakon,U.S. House,1,REP,Neal Tapio,113
+Hamlin,U.S. House,1,REP,Neal Tapio,509
+Hand,U.S. House,1,REP,Neal Tapio,186
+Hanson,U.S. House,1,REP,Neal Tapio,106
+Harding,U.S. House,1,REP,Neal Tapio,79
+Hughes,U.S. House,1,REP,Neal Tapio,571
+Hutchinson,U.S. House,1,REP,Neal Tapio,428
+Hyde,U.S. House,1,REP,Neal Tapio,90
+Jackson,U.S. House,1,REP,Neal Tapio,90
+Jerauld,U.S. House,1,REP,Neal Tapio,80
+Jones,U.S. House,1,REP,Neal Tapio,65
+Kingsbury,U.S. House,1,REP,Neal Tapio,270
+Lake,U.S. House,1,REP,Neal Tapio,280
+Lawrence,U.S. House,1,REP,Neal Tapio,773
+Lincoln,U.S. House,1,REP,Neal Tapio,1209
+Lyman,U.S. House,1,REP,Neal Tapio,147
+Marshall,U.S. House,1,REP,Neal Tapio,117
+McCook,U.S. House,1,REP,Neal Tapio,206
+McPherson,U.S. House,1,REP,Neal Tapio,99
+Meade,U.S. House,1,REP,Neal Tapio,985
+Mellette,U.S. House,1,REP,Neal Tapio,48
+Miner,U.S. House,1,REP,Neal Tapio,68
+Minnehaha,U.S. House,1,REP,Neal Tapio,3277
+Moody,U.S. House,1,REP,Neal Tapio,124
+Oglala Lakota,U.S. House,1,REP,Neal Tapio,29
+Pennington,U.S. House,1,REP,Neal Tapio,3463
+Perkins,U.S. House,1,REP,Neal Tapio,119
+Potter,U.S. House,1,REP,Neal Tapio,146
+Roberts,U.S. House,1,REP,Neal Tapio,221
+Sanborn,U.S. House,1,REP,Neal Tapio,94
+Spink,U.S. House,1,REP,Neal Tapio,262
+Stanley,U.S. House,1,REP,Neal Tapio,119
+Sully,U.S. House,1,REP,Neal Tapio,95
+Todd,U.S. House,1,REP,Neal Tapio,69
+Tripp,U.S. House,1,REP,Neal Tapio,390
+Turner,U.S. House,1,REP,Neal Tapio,335
+Union,U.S. House,1,REP,Neal Tapio,173
+Walworth,U.S. House,1,REP,Neal Tapio,262
+Yankton,U.S. House,1,REP,Neal Tapio,668
+Ziebach,U.S. House,1,REP,Neal Tapio,15
+Aurora,U.S. House,1,REP,Shantel Krebs,93
+Beadle,U.S. House,1,REP,Shantel Krebs,415
+Bennett,U.S. House,1,REP,Shantel Krebs,118
+Bon Homme,U.S. House,1,REP,Shantel Krebs,333
+Brookings,U.S. House,1,REP,Shantel Krebs,713
+Brown,U.S. House,1,REP,Shantel Krebs,1446
+Brule,U.S. House,1,REP,Shantel Krebs,174
+Buffalo,U.S. House,1,REP,Shantel Krebs,21
+Butte,U.S. House,1,REP,Shantel Krebs,453
+Campbell,U.S. House,1,REP,Shantel Krebs,98
+Charles Mix,U.S. House,1,REP,Shantel Krebs,255
+Clark,U.S. House,1,REP,Shantel Krebs,136
+Clay,U.S. House,1,REP,Shantel Krebs,210
+Codington,U.S. House,1,REP,Shantel Krebs,929
+Corson,U.S. House,1,REP,Shantel Krebs,44
+Custer,U.S. House,1,REP,Shantel Krebs,511
+Davison,U.S. House,1,REP,Shantel Krebs,354
+Day,U.S. House,1,REP,Shantel Krebs,216
+Deuel,U.S. House,1,REP,Shantel Krebs,158
+Dewey,U.S. House,1,REP,Shantel Krebs,95
+Douglas,U.S. House,1,REP,Shantel Krebs,139
+Edmunds,U.S. House,1,REP,Shantel Krebs,168
+Fall River,U.S. House,1,REP,Shantel Krebs,432
+Faulk,U.S. House,1,REP,Shantel Krebs,270
+Grant,U.S. House,1,REP,Shantel Krebs,248
+Gregory,U.S. House,1,REP,Shantel Krebs,165
+Haakon,U.S. House,1,REP,Shantel Krebs,147
+Hamlin,U.S. House,1,REP,Shantel Krebs,315
+Hand,U.S. House,1,REP,Shantel Krebs,215
+Hanson,U.S. House,1,REP,Shantel Krebs,86
+Harding,U.S. House,1,REP,Shantel Krebs,143
+Hughes,U.S. House,1,REP,Shantel Krebs,1139
+Hutchinson,U.S. House,1,REP,Shantel Krebs,290
+Hyde,U.S. House,1,REP,Shantel Krebs,81
+Jackson,U.S. House,1,REP,Shantel Krebs,136
+Jerauld,U.S. House,1,REP,Shantel Krebs,88
+Jones,U.S. House,1,REP,Shantel Krebs,111
+Kingsbury,U.S. House,1,REP,Shantel Krebs,394
+Lake,U.S. House,1,REP,Shantel Krebs,422
+Lawrence,U.S. House,1,REP,Shantel Krebs,920
+Lincoln,U.S. House,1,REP,Shantel Krebs,1850
+Lyman,U.S. House,1,REP,Shantel Krebs,173
+Marshall,U.S. House,1,REP,Shantel Krebs,140
+McCook,U.S. House,1,REP,Shantel Krebs,176
+McPherson,U.S. House,1,REP,Shantel Krebs,186
+Meade,U.S. House,1,REP,Shantel Krebs,1250
+Mellette,U.S. House,1,REP,Shantel Krebs,52
+Miner,U.S. House,1,REP,Shantel Krebs,62
+Minnehaha,U.S. House,1,REP,Shantel Krebs,4418
+Moody,U.S. House,1,REP,Shantel Krebs,163
+Oglala Lakota,U.S. House,1,REP,Shantel Krebs,27
+Pennington,U.S. House,1,REP,Shantel Krebs,5022
+Perkins,U.S. House,1,REP,Shantel Krebs,211
+Potter,U.S. House,1,REP,Shantel Krebs,202
+Roberts,U.S. House,1,REP,Shantel Krebs,179
+Sanborn,U.S. House,1,REP,Shantel Krebs,85
+Spink,U.S. House,1,REP,Shantel Krebs,382
+Stanley,U.S. House,1,REP,Shantel Krebs,197
+Sully,U.S. House,1,REP,Shantel Krebs,100
+Todd,U.S. House,1,REP,Shantel Krebs,67
+Tripp,U.S. House,1,REP,Shantel Krebs,215
+Turner,U.S. House,1,REP,Shantel Krebs,339
+Union,U.S. House,1,REP,Shantel Krebs,408
+Walworth,U.S. House,1,REP,Shantel Krebs,251
+Yankton,U.S. House,1,REP,Shantel Krebs,673
+Ziebach,U.S. House,1,REP,Shantel Krebs,42
+Aurora,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",179
+Beadle,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",661
+Bennett,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",95
+Bon Homme,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",491
+Brookings,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1300
+Brown,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1699
+Brule,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",276
+Buffalo,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",32
+Butte,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",733
+Campbell,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",212
+Charles Mix,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",370
+Clark,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",260
+Clay,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",428
+Codington,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1828
+Corson,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",96
+Custer,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",703
+Davison,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1536
+Day,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",263
+Deuel,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",323
+Dewey,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",116
+Douglas,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",379
+Edmunds,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",221
+Fall River,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",492
+Faulk,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",306
+Grant,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",399
+Gregory,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",279
+Haakon,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",238
+Hamlin,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",628
+Hand,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",341
+Hanson,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",199
+Harding,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",124
+Hughes,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",2361
+Hutchinson,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",636
+Hyde,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",144
+Jackson,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",167
+Jerauld,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",159
+Jones,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",171
+Kingsbury,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",557
+Lake,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",703
+Lawrence,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1536
+Lincoln,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",3032
+Lyman,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",288
+Marshall,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",210
+McCook,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",326
+McPherson,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",223
+Meade,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1894
+Mellette,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",95
+Miner,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",97
+Minnehaha,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",6933
+Moody,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",221
+Oglala Lakota,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",26
+Pennington,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",6463
+Perkins,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",222
+Potter,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",392
+Roberts,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",369
+Sanborn,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",135
+Spink,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",531
+Stanley,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",345
+Sully,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",198
+Todd,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",95
+Tripp,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",340
+Turner,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",621
+Union,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",686
+Walworth,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",488
+Yankton,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",1164
+Ziebach,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",85
+Aurora,Governor,,REP,Marty Jackley,89
+Beadle,Governor,,REP,Marty Jackley,615
+Bennett,Governor,,REP,Marty Jackley,98
+Bon Homme,Governor,,REP,Marty Jackley,381
+Brookings,Governor,,REP,Marty Jackley,1129
+Brown,Governor,,REP,Marty Jackley,1940
+Brule,Governor,,REP,Marty Jackley,217
+Buffalo,Governor,,REP,Marty Jackley,29
+Butte,Governor,,REP,Marty Jackley,808
+Campbell,Governor,,REP,Marty Jackley,172
+Charles Mix,Governor,,REP,Marty Jackley,204
+Clark,Governor,,REP,Marty Jackley,225
+Clay,Governor,,REP,Marty Jackley,341
+Codington,Governor,,REP,Marty Jackley,1577
+Corson,Governor,,REP,Marty Jackley,90
+Custer,Governor,,REP,Marty Jackley,763
+Davison,Governor,,REP,Marty Jackley,956
+Day,Governor,,REP,Marty Jackley,240
+Deuel,Governor,,REP,Marty Jackley,241
+Dewey,Governor,,REP,Marty Jackley,127
+Douglas,Governor,,REP,Marty Jackley,178
+Edmunds,Governor,,REP,Marty Jackley,200
+Fall River,Governor,,REP,Marty Jackley,498
+Faulk,Governor,,REP,Marty Jackley,340
+Grant,Governor,,REP,Marty Jackley,321
+Gregory,Governor,,REP,Marty Jackley,183
+Haakon,Governor,,REP,Marty Jackley,214
+Hamlin,Governor,,REP,Marty Jackley,454
+Hand,Governor,,REP,Marty Jackley,351
+Hanson,Governor,,REP,Marty Jackley,116
+Harding,Governor,,REP,Marty Jackley,150
+Hughes,Governor,,REP,Marty Jackley,2401
+Hutchinson,Governor,,REP,Marty Jackley,436
+Hyde,Governor,,REP,Marty Jackley,118
+Jackson,Governor,,REP,Marty Jackley,156
+Jerauld,Governor,,REP,Marty Jackley,99
+Jones,Governor,,REP,Marty Jackley,140
+Kingsbury,Governor,,REP,Marty Jackley,533
+Lake,Governor,,REP,Marty Jackley,765
+Lawrence,Governor,,REP,Marty Jackley,1668
+Lincoln,Governor,,REP,Marty Jackley,2599
+Lyman,Governor,,REP,Marty Jackley,236
+Marshall,Governor,,REP,Marty Jackley,206
+McCook,Governor,,REP,Marty Jackley,225
+McPherson,Governor,,REP,Marty Jackley,232
+Meade,Governor,,REP,Marty Jackley,2364
+Mellette,Governor,,REP,Marty Jackley,87
+Miner,Governor,,REP,Marty Jackley,89
+Minnehaha,Governor,,REP,Marty Jackley,6281
+Moody,Governor,,REP,Marty Jackley,204
+Oglala Lakota,Governor,,REP,Marty Jackley,28
+Pennington,Governor,,REP,Marty Jackley,7989
+Perkins,Governor,,REP,Marty Jackley,228
+Potter,Governor,,REP,Marty Jackley,318
+Roberts,Governor,,REP,Marty Jackley,336
+Sanborn,Governor,,REP,Marty Jackley,83
+Spink,Governor,,REP,Marty Jackley,509
+Stanley,Governor,,REP,Marty Jackley,316
+Sully,Governor,,REP,Marty Jackley,195
+Todd,Governor,,REP,Marty Jackley,107
+Tripp,Governor,,REP,Marty Jackley,383
+Turner,Governor,,REP,Marty Jackley,483
+Union,Governor,,REP,Marty Jackley,483
+Walworth,Governor,,REP,Marty Jackley,431
+Yankton,Governor,,REP,Marty Jackley,1141
+Ziebach,Governor,,REP,Marty Jackley,58
+Aurora,Governor,,REP,Kristi Noem,277
+Beadle,Governor,,REP,Kristi Noem,818
+Bennett,Governor,,REP,Kristi Noem,226
+Bon Homme,Governor,,REP,Kristi Noem,814
+Brookings,Governor,,REP,Kristi Noem,1448
+Brown,Governor,,REP,Kristi Noem,2288
+Brule,Governor,,REP,Kristi Noem,386
+Buffalo,Governor,,REP,Kristi Noem,48
+Butte,Governor,,REP,Kristi Noem,804
+Campbell,Governor,,REP,Kristi Noem,254
+Charles Mix,Governor,,REP,Kristi Noem,678
+Clark,Governor,,REP,Kristi Noem,388
+Clay,Governor,,REP,Kristi Noem,490
+Codington,Governor,,REP,Kristi Noem,2496
+Corson,Governor,,REP,Kristi Noem,86
+Custer,Governor,,REP,Kristi Noem,1028
+Davison,Governor,,REP,Kristi Noem,1359
+Day,Governor,,REP,Kristi Noem,396
+Deuel,Governor,,REP,Kristi Noem,446
+Dewey,Governor,,REP,Kristi Noem,142
+Douglas,Governor,,REP,Kristi Noem,609
+Edmunds,Governor,,REP,Kristi Noem,305
+Fall River,Governor,,REP,Kristi Noem,846
+Faulk,Governor,,REP,Kristi Noem,466
+Grant,Governor,,REP,Kristi Noem,610
+Gregory,Governor,,REP,Kristi Noem,457
+Haakon,Governor,,REP,Kristi Noem,296
+Hamlin,Governor,,REP,Kristi Noem,1064
+Hand,Governor,,REP,Kristi Noem,404
+Hanson,Governor,,REP,Kristi Noem,276
+Harding,Governor,,REP,Kristi Noem,199
+Hughes,Governor,,REP,Kristi Noem,1665
+Hutchinson,Governor,,REP,Kristi Noem,944
+Hyde,Governor,,REP,Kristi Noem,201
+Jackson,Governor,,REP,Kristi Noem,254
+Jerauld,Governor,,REP,Kristi Noem,226
+Jones,Governor,,REP,Kristi Noem,217
+Kingsbury,Governor,,REP,Kristi Noem,707
+Lake,Governor,,REP,Kristi Noem,656
+Lawrence,Governor,,REP,Kristi Noem,1609
+Lincoln,Governor,,REP,Kristi Noem,3565
+Lyman,Governor,,REP,Kristi Noem,382
+Marshall,Governor,,REP,Kristi Noem,270
+McCook,Governor,,REP,Kristi Noem,497
+McPherson,Governor,,REP,Kristi Noem,291
+Meade,Governor,,REP,Kristi Noem,1893
+Mellette,Governor,,REP,Kristi Noem,112
+Miner,Governor,,REP,Kristi Noem,144
+Minnehaha,Governor,,REP,Kristi Noem,8476
+Moody,Governor,,REP,Kristi Noem,312
+Oglala Lakota,Governor,,REP,Kristi Noem,55
+Pennington,Governor,,REP,Kristi Noem,7486
+Perkins,Governor,,REP,Kristi Noem,334
+Potter,Governor,,REP,Kristi Noem,445
+Roberts,Governor,,REP,Kristi Noem,474
+Sanborn,Governor,,REP,Kristi Noem,230
+Spink,Governor,,REP,Kristi Noem,687
+Stanley,Governor,,REP,Kristi Noem,345
+Sully,Governor,,REP,Kristi Noem,206
+Todd,Governor,,REP,Kristi Noem,131
+Tripp,Governor,,REP,Kristi Noem,578
+Turner,Governor,,REP,Kristi Noem,821
+Union,Governor,,REP,Kristi Noem,867
+Walworth,Governor,,REP,Kristi Noem,612
+Yankton,Governor,,REP,Kristi Noem,1422
+Ziebach,Governor,,REP,Kristi Noem,80
+Brown,State Senate,1,DEM,Allison Renville,20
+Day,State Senate,1,DEM,Allison Renville,47
+Marshall,State Senate,1,DEM,Allison Renville,37
+Roberts,State Senate,1,DEM,Allison Renville,144
+Brown,State Senate,1,DEM,Susan M. Wismer,105
+Day,State Senate,1,DEM,Susan M. Wismer,318
+Marshall,State Senate,1,DEM,Susan M. Wismer,487
+Roberts,State Senate,1,DEM,Susan M. Wismer,293
+Brown,State Senate,1,DEM,Thomas Bisek,18
+Day,State Senate,1,DEM,Thomas Bisek,65
+Marshall,State Senate,1,DEM,Thomas Bisek,52
+Roberts,State Senate,1,DEM,Thomas Bisek,136
+Codington,State Senate,5,REP,Lee Schoenbeck,1982
+Codington,State Senate,5,REP,Byron I. Callies,1379
+Minnehaha,State Senate,9,REP,Lora Hubbel,479
+Minnehaha,State Senate,9,REP,Wayne H. Steinhauer,766
+Minnehaha,State Senate,10,REP,Margaret Sutton,72
+Minnehaha,State Senate,10,REP,Spencer Wrightsman,538
+Minnehaha,State Senate,14,REP,Deb Soholt,1535
+Minnehaha,State Senate,14,REP,Tyler Swanger,951
+Minnehaha,State Senate,25,REP,Kris K. Langer,1228
+Minnehaha,State Senate,25,REP,Dale Barnhart,674
+Bennett,State Senate,27,DEM,Jim Bradford,97
+Haakon,State Senate,27,DEM,Jim Bradford,30
+Jackson,State Senate,27,DEM,Jim Bradford,43
+Oglala Lakota,State Senate,27,DEM,Jim Bradford,318
+Pennington,State Senate,27,DEM,Jim Bradford,14
+Bennett,State Senate,27,DEM,Red Dawn Foster,60
+Haakon,State Senate,27,DEM,Red Dawn Foster,9
+Jackson,State Senate,27,DEM,Red Dawn Foster,42
+Oglala Lakota,State Senate,27,DEM,Red Dawn Foster,512
+Pennington,State Senate,27,DEM,Red Dawn Foster,5
+Butte,State Senate,29,REP,Billy D. Kluck,259
+Meade,State Senate,29,REP,Billy D. Kluck,1533
+Pennington,State Senate,29,REP,Billy D. Kluck,32
+Butte,State Senate,29,REP,Gary L. Cammack,159
+Meade,State Senate,29,REP,Gary L. Cammack,1729
+Pennington,State Senate,29,REP,Gary L. Cammack,22
+Meade,State Senate,33,REP,Phil Jensen,412
+Pennington,State Senate,33,REP,Phil Jensen,1662
+Meade,State Senate,33,REP,Amanda Scott,279
+Pennington,State Senate,33,REP,Amanda Scott,1171
+Pennington,State Senate,35,REP,Lynne DiSanto,1303
+Pennington,State Senate,35,REP,Ryan Smith,697
+Brown,State House,1,DEM,Robert Whitmyre,46
+Day,State House,1,DEM,Robert Whitmyre,306
+Marshall,State House,1,DEM,Robert Whitmyre,147
+Roberts,State House,1,DEM,Robert Whitmyre,171
+Brown,State House,1,DEM,H. Paul Dennert,124
+Day,State House,1,DEM,H. Paul Dennert,148
+Marshall,State House,1,DEM,H. Paul Dennert,380
+Roberts,State House,1,DEM,H. Paul Dennert,175
+Brown,State House,1,DEM,Steven D. McCleerey,55
+Day,State House,1,DEM,Steven D. McCleerey,170
+Marshall,State House,1,DEM,Steven D. McCleerey,288
+Roberts,State House,1,DEM,Steven D. McCleerey,434
+Lincoln,State House,13,REP,Sue Peterson,1144
+Minnehaha,State House,13,REP,Sue Peterson,957
+Lincoln,State House,13,REP,Rex Rolfing,793
+Minnehaha,State House,13,REP,Rex Rolfing,737
+Lincoln,State House,13,REP,Amber Mauricio,402
+Minnehaha,State House,13,REP,Amber Mauricio,441
+Minnehaha,State House,14,REP,Tom Holmes,1351
+Minnehaha,State House,14,REP,R. Shawn Tornow,947
+Minnehaha,State House,14,REP,Larry P. Zikmund,1782
+Minnehaha,State House,15,DEM,Linda Duba,292
+Minnehaha,State House,15,DEM,Patrick A. Kirschman,278
+Minnehaha,State House,15,DEM,Jamie Smith,334
+Minnehaha,State House,15,DEM,Josh Reinfeld,206
+Bon Homme,State House,19,REP,Kyle Schoenfish,420
+Douglas,State House,19,REP,Kyle Schoenfish,486
+Hanson,State House,19,REP,Kyle Schoenfish,197
+Hutchinson,State House,19,REP,Kyle Schoenfish,985
+McCook,State House,19,REP,Kyle Schoenfish,305
+Bon Homme,State House,19,REP,Kent Peterson,255
+Douglas,State House,19,REP,Kent Peterson,313
+Hanson,State House,19,REP,Kent Peterson,166
+Hutchinson,State House,19,REP,Kent Peterson,562
+McCook,State House,19,REP,Kent Peterson,461
+Bon Homme,State House,19,REP,Michael Boyle,273
+Douglas,State House,19,REP,Michael Boyle,365
+Hanson,State House,19,REP,Michael Boyle,170
+Hutchinson,State House,19,REP,Michael Boyle,566
+McCook,State House,19,REP,Michael Boyle,256
+Bon Homme,State House,21,DEM,Brian L. Jorgensen,44
+Charles Mix,State House,21,DEM,Brian L. Jorgensen,215
+Gregory,State House,21,DEM,Brian L. Jorgensen,100
+Tripp,State House,21,DEM,Brian L. Jorgensen,95
+Bon Homme,State House,21,DEM,Faith Spotted Eagle,32
+Charles Mix,State House,21,DEM,Faith Spotted Eagle,138
+Gregory,State House,21,DEM,Faith Spotted Eagle,41
+Tripp,State House,21,DEM,Faith Spotted Eagle,33
+Bon Homme,State House,21,DEM,Anna Kerner Andersson,50
+Charles Mix,State House,21,DEM,Anna Kerner Andersson,186
+Gregory,State House,21,DEM,Anna Kerner Andersson,165
+Tripp,State House,21,DEM,Anna Kerner Andersson,54
+Hughes,State House,24,REP,Roxanne Weber,1260
+Hyde,State House,24,REP,Roxanne Weber,81
+Stanley,State House,24,REP,Roxanne Weber,205
+Sully,State House,24,REP,Roxanne Weber,103
+Hughes,State House,24,REP,Mary Duvall,3045
+Hyde,State House,24,REP,Mary Duvall,196
+Stanley,State House,24,REP,Mary Duvall,455
+Sully,State House,24,REP,Mary Duvall,252
+Hughes,State House,24,REP,Tim Rounds,2566
+Hyde,State House,24,REP,Tim Rounds,194
+Stanley,State House,24,REP,Tim Rounds,398
+Sully,State House,24,REP,Tim Rounds,258
+Minnehaha,State House,25,REP,Jon Hansen,1450
+Minnehaha,State House,25,REP,Tamera R. Enalls,751
+Minnehaha,State House,25,REP,Tom Pischke,1277
+Mellette,State House,26A,DEM,"Troy ""Luke"" Lunderman",35
+Todd,State House,26A,DEM,"Troy ""Luke"" Lunderman",199
+Mellette,State House,26A,DEM,Shawn Bordeaux,41
+Todd,State House,26A,DEM,Shawn Bordeaux,317
+Bennett,State House,27,DEM,Margaret Ross,80
+Haakon,State House,27,DEM,Margaret Ross,31
+Jackson,State House,27,DEM,Margaret Ross,37
+Oglala Lakota,State House,27,DEM,Margaret Ross,410
+Pennington,State House,27,DEM,Margaret Ross,13
+Bennett,State House,27,DEM,Nicole Littlewhiteman,53
+Haakon,State House,27,DEM,Nicole Littlewhiteman,12
+Jackson,State House,27,DEM,Nicole Littlewhiteman,29
+Oglala Lakota,State House,27,DEM,Nicole Littlewhiteman,280
+Pennington,State House,27,DEM,Nicole Littlewhiteman,7
+Bennett,State House,27,DEM,Peri Pourier,51
+Haakon,State House,27,DEM,Peri Pourier,14
+Jackson,State House,27,DEM,Peri Pourier,35
+Oglala Lakota,State House,27,DEM,Peri Pourier,433
+Pennington,State House,27,DEM,Peri Pourier,9
+Pennington,State House,32,REP,Sean McPherson,1550
+Pennington,State House,32,REP,Ed Randazzo,1141
+Pennington,State House,32,REP,Scyller J. Borglum,1706
+Meade,State House,33,REP,Melanie Torno,265
+Pennington,State House,33,REP,Melanie Torno,947
+Meade,State House,33,REP,Taffy Howard,414
+Pennington,State House,33,REP,Taffy Howard,1769
+Meade,State House,33,REP,David Johnson,429
+Pennington,State House,33,REP,David Johnson,1786
+Pennington,State House,34,REP,Jess Olson,1751
+Pennington,State House,34,REP,Janette McIntyre,1507
+Pennington,State House,34,REP,Michael G. Diedrich,2546
