@@ -18,6 +18,7 @@ This repository contains CSV files with South Dakota election results converted 
 
 | year  | general  | primary  |
 |---|---|---|
+| 2018 |  not started | done |
 | 2016 |  not started | not started |
 | 2012 | not started | not started |
 | 2010 | not started | not started |
