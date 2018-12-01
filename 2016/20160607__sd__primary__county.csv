@@ -1,0 +1,561 @@
+county,precinct,office,district,Candidate,party,Votes
+South Dakota,Aurora,President,,Bernie Sanders,DEM,132
+South Dakota,Beadle,President,,Bernie Sanders,DEM,373
+South Dakota,Bennett,President,,Bernie Sanders,DEM,95
+South Dakota,Bon Homme,President,,Bernie Sanders,DEM,197
+South Dakota,Brookings,President,,Bernie Sanders,DEM,901
+South Dakota,Brown,President,,Bernie Sanders,DEM,"1,138"
+South Dakota,Brule,President,,Bernie Sanders,DEM,219
+South Dakota,Buffalo,President,,Bernie Sanders,DEM,71
+South Dakota,Butte,President,,Bernie Sanders,DEM,285
+South Dakota,Campbell,President,,Bernie Sanders,DEM,26
+South Dakota,Charles Mix,President,,Bernie Sanders,DEM,277
+South Dakota,Clark,President,,Bernie Sanders,DEM,86
+South Dakota,Clay,President,,Bernie Sanders,DEM,609
+South Dakota,Codington,President,,Bernie Sanders,DEM,645
+South Dakota,Corson,President,,Bernie Sanders,DEM,148
+South Dakota,Custer,President,,Bernie Sanders,DEM,276
+South Dakota,Davison,President,,Bernie Sanders,DEM,440
+South Dakota,Day,President,,Bernie Sanders,DEM,203
+South Dakota,Deuel,President,,Bernie Sanders,DEM,111
+South Dakota,Dewey,President,,Bernie Sanders,DEM,342
+South Dakota,Douglas,President,,Bernie Sanders,DEM,37
+South Dakota,Edmunds,President,,Bernie Sanders,DEM,155
+South Dakota,Fall River,President,,Bernie Sanders,DEM,304
+South Dakota,Faulk,President,,Bernie Sanders,DEM,78
+South Dakota,Grant,President,,Bernie Sanders,DEM,419
+South Dakota,Gregory,President,,Bernie Sanders,DEM,164
+South Dakota,Haakon,President,,Bernie Sanders,DEM,53
+South Dakota,Hamlin,President,,Bernie Sanders,DEM,125
+South Dakota,Hand,President,,Bernie Sanders,DEM,98
+South Dakota,Hanson,President,,Bernie Sanders,DEM,83
+South Dakota,Harding,President,,Bernie Sanders,DEM,40
+South Dakota,Hughes,President,,Bernie Sanders,DEM,489
+South Dakota,Hutchinson,President,,Bernie Sanders,DEM,125
+South Dakota,Hyde,President,,Bernie Sanders,DEM,26
+South Dakota,Jackson,President,,Bernie Sanders,DEM,69
+South Dakota,Jerauld,President,,Bernie Sanders,DEM,65
+South Dakota,Jones,President,,Bernie Sanders,DEM,31
+South Dakota,Kingsbury,President,,Bernie Sanders,DEM,164
+South Dakota,Lake,President,,Bernie Sanders,DEM,456
+South Dakota,Lawrence,President,,Bernie Sanders,DEM,941
+South Dakota,Lincoln,President,,Bernie Sanders,DEM,"1,152"
+South Dakota,Lyman,President,,Bernie Sanders,DEM,115
+South Dakota,Marshall,President,,Bernie Sanders,DEM,169
+South Dakota,McCook,President,,Bernie Sanders,DEM,132
+South Dakota,McPherson,President,,Bernie Sanders,DEM,46
+South Dakota,Meade,President,,Bernie Sanders,DEM,696
+South Dakota,Mellette,President,,Bernie Sanders,DEM,76
+South Dakota,Miner,President,,Bernie Sanders,DEM,84
+South Dakota,Minnehaha,President,,Bernie Sanders,DEM,"5,290"
+South Dakota,Moody,President,,Bernie Sanders,DEM,207
+South Dakota,Oglala Lakota,President,,Bernie Sanders,DEM,574
+South Dakota,Pennington,President,,Bernie Sanders,DEM,"3,996"
+South Dakota,Perkins,President,,Bernie Sanders,DEM,93
+South Dakota,Potter,President,,Bernie Sanders,DEM,54
+South Dakota,Roberts,President,,Bernie Sanders,DEM,397
+South Dakota,Sanborn,President,,Bernie Sanders,DEM,45
+South Dakota,Spink,President,,Bernie Sanders,DEM,201
+South Dakota,Stanley,President,,Bernie Sanders,DEM,102
+South Dakota,Sully,President,,Bernie Sanders,DEM,51
+South Dakota,Todd,President,,Bernie Sanders,DEM,524
+South Dakota,Tripp,President,,Bernie Sanders,DEM,147
+South Dakota,Turner,President,,Bernie Sanders,DEM,178
+South Dakota,Union,President,,Bernie Sanders,DEM,306
+South Dakota,Walworth,President,,Bernie Sanders,DEM,116
+South Dakota,Yankton,President,,Bernie Sanders,DEM,580
+South Dakota,Ziebach,President,,Bernie Sanders,DEM,137
+South Dakota,Total,President,,Bernie Sanders,DEM,"25,959"
+South Dakota,Aurora,President,,Hillary Clinton,DEM,150
+South Dakota,Beadle,President,,Hillary Clinton,DEM,501
+South Dakota,Bennett,President,,Hillary Clinton,DEM,74
+South Dakota,Bon Homme,President,,Hillary Clinton,DEM,225
+South Dakota,Brookings,President,,Hillary Clinton,DEM,955
+South Dakota,Brown,President,,Hillary Clinton,DEM,"1,369"
+South Dakota,Brule,President,,Hillary Clinton,DEM,182
+South Dakota,Buffalo,President,,Hillary Clinton,DEM,110
+South Dakota,Butte,President,,Hillary Clinton,DEM,167
+South Dakota,Campbell,President,,Hillary Clinton,DEM,20
+South Dakota,Charles Mix,President,,Hillary Clinton,DEM,293
+South Dakota,Clark,President,,Hillary Clinton,DEM,112
+South Dakota,Clay,President,,Hillary Clinton,DEM,623
+South Dakota,Codington,President,,Hillary Clinton,DEM,828
+South Dakota,Corson,President,,Hillary Clinton,DEM,115
+South Dakota,Custer,President,,Hillary Clinton,DEM,245
+South Dakota,Davison,President,,Hillary Clinton,DEM,542
+South Dakota,Day,President,,Hillary Clinton,DEM,343
+South Dakota,Deuel,President,,Hillary Clinton,DEM,162
+South Dakota,Dewey,President,,Hillary Clinton,DEM,181
+South Dakota,Douglas,President,,Hillary Clinton,DEM,48
+South Dakota,Edmunds,President,,Hillary Clinton,DEM,170
+South Dakota,Fall River,President,,Hillary Clinton,DEM,207
+South Dakota,Faulk,President,,Hillary Clinton,DEM,86
+South Dakota,Grant,President,,Hillary Clinton,DEM,528
+South Dakota,Gregory,President,,Hillary Clinton,DEM,179
+South Dakota,Haakon,President,,Hillary Clinton,DEM,23
+South Dakota,Hamlin,President,,Hillary Clinton,DEM,181
+South Dakota,Hand,President,,Hillary Clinton,DEM,105
+South Dakota,Hanson,President,,Hillary Clinton,DEM,97
+South Dakota,Harding,President,,Hillary Clinton,DEM,14
+South Dakota,Hughes,President,,Hillary Clinton,DEM,528
+South Dakota,Hutchinson,President,,Hillary Clinton,DEM,151
+South Dakota,Hyde,President,,Hillary Clinton,DEM,40
+South Dakota,Jackson,President,,Hillary Clinton,DEM,59
+South Dakota,Jerauld,President,,Hillary Clinton,DEM,96
+South Dakota,Jones,President,,Hillary Clinton,DEM,20
+South Dakota,Kingsbury,President,,Hillary Clinton,DEM,201
+South Dakota,Lake,President,,Hillary Clinton,DEM,484
+South Dakota,Lawrence,President,,Hillary Clinton,DEM,705
+South Dakota,Lincoln,President,,Hillary Clinton,DEM,"1,436"
+South Dakota,Lyman,President,,Hillary Clinton,DEM,115
+South Dakota,Marshall,President,,Hillary Clinton,DEM,287
+South Dakota,McCook,President,,Hillary Clinton,DEM,214
+South Dakota,McPherson,President,,Hillary Clinton,DEM,47
+South Dakota,Meade,President,,Hillary Clinton,DEM,530
+South Dakota,Mellette,President,,Hillary Clinton,DEM,50
+South Dakota,Miner,President,,Hillary Clinton,DEM,109
+South Dakota,liinnehaha,President,,Hillary Clinton,DEM,"6,018"
+South Dakota,Moody,President,,Hillary Clinton,DEM,262
+South Dakota,Oglala Lakota,President,,Hillary Clinton,DEM,426
+South Dakota,Pennington,President,,Hillary Clinton,DEM,3384
+South Dakota,Perkins,President,,Hillary Clinton,DEM,43
+South Dakota,Potter,President,,Hillary Clinton,DEM,59
+South Dakota,Roberts,President,,Hillary Clinton,DEM,392
+South Dakota,Sanborn,President,,Hillary Clinton,DEM,66
+South Dakota,Spink,President,,Hillary Clinton,DEM,283
+South Dakota,Stanley,President,,Hillary Clinton,DEM,95
+South Dakota,Sully,President,,Hillary Clinton,DEM,37
+South Dakota,Todd,President,,Hillary Clinton,DEM,408
+South Dakota,Tripp,President,,Hillary Clinton,DEM,136
+South Dakota,Turner,President,,Hillary Clinton,DEM,232
+South Dakota,Union,President,,Hillary Clinton,DEM,380
+South Dakota,Walworth,President,,Hillary Clinton,DEM,121
+South Dakota,Yankton,President,,Hillary Clinton,DEM,706
+South Dakota,Riebach,President,,Hillary Clinton,DEM,92
+South Dakota,Total,President,,Hillary Clinton,DEM,"27,047"
+South Dakota,Aurora,President,,John R. Kasich,REP,27
+South Dakota,Beadle,President,,John R. Kasich,REP,108
+South Dakota,Bennett,President,,John R. Kasich,REP,29
+South Dakota,Bon Homme,President,,John R. Kasich,REP,71
+South Dakota,Brookings,President,,John R. Kasich,REP,375
+South Dakota,Brown,President,,John R. Kasich,REP,371
+South Dakota,Brule,President,,John R. Kasich,REP,58
+South Dakota,Buffalo,President,,John R. Kasich,REP,5
+South Dakota,Butte,President,,John R. Kasich,REP,191
+South Dakota,Campbell,President,,John R. Kasich,REP,43
+South Dakota,Charles Mix,President,,John R. Kasich,REP,58
+South Dakota,Clark,President,,John R. Kasich,REP,53
+South Dakota,Clay,President,,John R. Kasich,REP,143
+South Dakota,Codington,President,,John R. Kasich,REP,381
+South Dakota,Corson,President,,John R. Kasich,REP,15
+South Dakota,Custer,President,,John R. Kasich,REP,195
+South Dakota,Davison,President,,John R. Kasich,REP,214
+South Dakota,Day,President,,John R. Kasich,REP,46
+South Dakota,Deuel,President,,John R. Kasich,REP,60
+South Dakota,Dewey,President,,John R. Kasich,REP,22
+South Dakota,Douglas,President,,John R. Kasich,REP,68
+South Dakota,Edmunds,President,,John R. Kasich,REP,58
+South Dakota,Fall River,President,,John R. Kasich,REP,168
+South Dakota,Faulk,President,,John R. Kasich,REP,26
+South Dakota,Grant,President,,John R. Kasich,REP,211
+South Dakota,Gregory,President,,John R. Kasich,REP,41
+South Dakota,Haakon,President,,John R. Kasich,REP,39
+South Dakota,Hamlin,President,,John R. Kasich,REP,119
+South Dakota,Hand,President,,John R. Kasich,REP,77
+South Dakota,Hanson,President,,John R. Kasich,REP,43
+South Dakota,Harding,President,,John R. Kasich,REP,31
+South Dakota,Hughes,President,,John R. Kasich,REP,601
+South Dakota,Hutchinson,President,,John R. Kasich,REP,150
+South Dakota,Hyde,President,,John R. Kasich,REP,15
+South Dakota,Jackson,President,,John R. Kasich,REP,32
+South Dakota,Jerauld,President,,John R. Kasich,REP,30
+South Dakota,Jones,President,,John R. Kasich,REP,28
+South Dakota,Kingsbury,President,,John R. Kasich,REP,117
+South Dakota,Lake,President,,John R. Kasich,REP,171
+South Dakota,Lawrence,President,,John R. Kasich,REP,453
+South Dakota,Lincoln,President,,John R. Kasich,REP,523
+South Dakota,Lyman,President,,John R. Kasich,REP,75
+South Dakota,Marshall,President,,John R. Kasich,REP,60
+South Dakota,McCook,President,,John R. Kasich,REP,80
+South Dakota,McPherson,President,,John R. Kasich,REP,75
+South Dakota,Meade,President,,John R. Kasich,REP,426
+South Dakota,Mellette,President,,John R. Kasich,REP,12
+South Dakota,Miner,President,,John R. Kasich,REP,26
+South Dakota,liinnehaha,President,,John R. Kasich,REP,"1,598"
+South Dakota,Moody,President,,John R. Kasich,REP,52
+South Dakota,Oglala Lakota,President,,John R. Kasich,REP,17
+South Dakota,Pennington,President,,John R. Kasich,REP,"1,800"
+South Dakota,Perkins,President,,John R. Kasich,REP,62
+South Dakota,Potter,President,,John R. Kasich,REP,69
+South Dakota,Roberts,President,,John R. Kasich,REP,53
+South Dakota,Sanborn,President,,John R. Kasich,REP,16
+South Dakota,Spink,President,,John R. Kasich,REP,63
+South Dakota,Stanley,President,,John R. Kasich,REP,83
+South Dakota,Sully,President,,John R. Kasich,REP,23
+South Dakota,Todd,President,,John R. Kasich,REP,26
+South Dakota,Tripp,President,,John R. Kasich,REP,55
+South Dakota,Turner,President,,John R. Kasich,REP,76
+South Dakota,Union,President,,John R. Kasich,REP,140
+South Dakota,Walworth,President,,John R. Kasich,REP,112
+South Dakota,Yankton,President,,John R. Kasich,REP,184
+South Dakota,Riebach,President,,John R. Kasich,REP,11
+South Dakota,Total,President,,John R. Kasich,REP,"10,660"
+South Dakota,Aurora,President,,Ted Cruz,REP,50
+South Dakota,Beadle,President,,Ted Cruz,REP,140
+South Dakota,Bennett,President,,Ted Cruz,REP,30
+South Dakota,Bon Homme,President,,Ted Cruz,REP,94
+South Dakota,Brookings,President,,Ted Cruz,REP,319
+South Dakota,Brown,President,,Ted Cruz,REP,397
+South Dakota,Brule,President,,Ted Cruz,REP,61
+South Dakota,Buffalo,President,,Ted Cruz,REP,6
+South Dakota,Butte,President,,Ted Cruz,REP,246
+South Dakota,Campbell,President,,Ted Cruz,REP,52
+South Dakota,Charles Mix,President,,Ted Cruz,REP,113
+South Dakota,Clark,President,,Ted Cruz,REP,50
+South Dakota,Clay,President,,Ted Cruz,REP,102
+South Dakota,Codington,President,,Ted Cruz,REP,336
+South Dakota,Corson,President,,Ted Cruz,REP,37
+South Dakota,Custer,President,,Ted Cruz,REP,226
+South Dakota,Davison,President,,Ted Cruz,REP,163
+South Dakota,Day,President,,Ted Cruz,REP,48
+South Dakota,Deuel,President,,Ted Cruz,REP,59
+South Dakota,Dewey,President,,Ted Cruz,REP,32
+South Dakota,Douglas,President,,Ted Cruz,REP,82
+South Dakota,Edmunds,President,,Ted Cruz,REP,75
+South Dakota,Fall River,President,,Ted Cruz,REP,211
+South Dakota,Faulk,President,,Ted Cruz,REP,53
+South Dakota,Grant,President,,Ted Cruz,REP,188
+South Dakota,Gregory,President,,Ted Cruz,REP,60
+South Dakota,Haakon,President,,Ted Cruz,REP,58
+South Dakota,Hamlin,President,,Ted Cruz,REP,196
+South Dakota,Hand,President,,Ted Cruz,REP,93
+South Dakota,Hanson,President,,Ted Cruz,REP,63
+South Dakota,Harding,President,,Ted Cruz,REP,56
+South Dakota,Hughes,President,,Ted Cruz,REP,355
+South Dakota,Hutchinson,President,,Ted Cruz,REP,194
+South Dakota,Hyde,President,,Ted Cruz,REP,21
+South Dakota,Jackson,President,,Ted Cruz,REP,26
+South Dakota,Jerauld,President,,Ted Cruz,REP,31
+South Dakota,Jones,President,,Ted Cruz,REP,33
+South Dakota,Kingsbury,President,,Ted Cruz,REP,100
+South Dakota,Lake,President,,Ted Cruz,REP,156
+South Dakota,Lawrence,President,,Ted Cruz,REP,372
+South Dakota,Lincoln,President,,Ted Cruz,REP,587
+South Dakota,Lyman,President,,Ted Cruz,REP,73
+South Dakota,Marshall,President,,Ted Cruz,REP,42
+South Dakota,McCook,President,,Ted Cruz,REP,101
+South Dakota,McPherson,President,,Ted Cruz,REP,90
+South Dakota,Meade,President,,Ted Cruz,REP,498
+South Dakota,Mellette,President,,Ted Cruz,REP,8
+South Dakota,Miner,President,,Ted Cruz,REP,29
+South Dakota,liinnehaha,President,,Ted Cruz,REP,"1,701"
+South Dakota,Moody,President,,Ted Cruz,REP,72
+South Dakota,Oglala Lakota,President,,Ted Cruz,REP,11
+South Dakota,Pennington,President,,Ted Cruz,REP,"1,929"
+South Dakota,Perkins,President,,Ted Cruz,REP,108
+South Dakota,Potter,President,,Ted Cruz,REP,108
+South Dakota,Roberts,President,,Ted Cruz,REP,61
+South Dakota,Sanborn,President,,Ted Cruz,REP,28
+South Dakota,Spink,President,,Ted Cruz,REP,82
+South Dakota,Stanley,President,,Ted Cruz,REP,45
+South Dakota,Sully,President,,Ted Cruz,REP,43
+South Dakota,Todd,President,,Ted Cruz,REP,54
+South Dakota,Tripp,President,,Ted Cruz,REP,74
+South Dakota,Turner,President,,Ted Cruz,REP,110
+South Dakota,Union,President,,Ted Cruz,REP,161
+South Dakota,Walworth,President,,Ted Cruz,REP,142
+South Dakota,Yankton,President,,Ted Cruz,REP,186
+South Dakota,Riebach,President,,Ted Cruz,REP,25
+South Dakota,Total,President,,Ted Cruz,REP,"11,352"
+South Dakota,Aurora,President,,Donald J. Trump,REP,136
+South Dakota,Beadle,President,,Donald J. Trump,REP,454
+South Dakota,Bennett,President,,Donald J. Trump,REP,179
+South Dakota,Bon Homme,President,,Donald J. Trump,REP,343
+South Dakota,Brookings,President,,Donald J. Trump,REP,915
+South Dakota,Brown,President,,Donald J. Trump,REP,"1,407"
+South Dakota,Brule,President,,Donald J. Trump,REP,245
+South Dakota,Buffalo,President,,Donald J. Trump,REP,37
+South Dakota,Butte,President,,Donald J. Trump,REP,11074
+South Dakota,Campbell,President,,Donald J. Trump,REP,355
+South Dakota,Charles Mix,President,,Donald J. Trump,REP,404
+South Dakota,Clark,President,,Donald J. Trump,REP,179
+South Dakota,Clay,President,,Donald J. Trump,REP,320
+South Dakota,Codington,President,,Donald J. Trump,REP,"1,473"
+South Dakota,Corson,President,,Donald J. Trump,REP,126
+South Dakota,Custer,President,,Donald J. Trump,REP,"1,068"
+South Dakota,Davison,President,,Donald J. Trump,REP,808
+South Dakota,Day,President,,Donald J. Trump,REP,249
+South Dakota,Deuel,President,,Donald J. Trump,REP,141
+South Dakota,Dewey,President,,Donald J. Trump,REP,178
+South Dakota,Douglas,President,,Donald J. Trump,REP,262
+South Dakota,Edmunds,President,,Donald J. Trump,REP,426
+South Dakota,Fall River,President,,Donald J. Trump,REP,923
+South Dakota,Faulk,President,,Donald J. Trump,REP,216
+South Dakota,Grant,President,,Donald J. Trump,REP,850
+South Dakota,Gregory,President,,Donald J. Trump,REP,341
+South Dakota,Haakon,President,,Donald J. Trump,REP,397
+South Dakota,Hamlin,President,,Donald J. Trump,REP,489
+South Dakota,Hand,President,,Donald J. Trump,REP,385
+South Dakota,Hanson,President,,Donald J. Trump,REP,305
+South Dakota,Harding,President,,Donald J. Trump,REP,298
+South Dakota,Hughes,President,,Donald J. Trump,REP,"1,606"
+South Dakota,Hutchinson,President,,Donald J. Trump,REP,622
+South Dakota,Hyde,President,,Donald J. Trump,REP,96
+South Dakota,Jackson,President,,Donald J. Trump,REP,153
+South Dakota,Jerauld,President,,Donald J. Trump,REP,90
+South Dakota,Jones,President,,Donald J. Trump,REP,175
+South Dakota,Kingsbury,President,,Donald J. Trump,REP,421
+South Dakota,Lake,President,,Donald J. Trump,REP,619
+South Dakota,Lawrence,President,,Donald J. Trump,REP,"1,801"
+South Dakota,Lincoln,President,,Donald J. Trump,REP,"1,760"
+South Dakota,Lyman,President,,Donald J. Trump,REP,432
+South Dakota,Marshall,President,,Donald J. Trump,REP,163
+South Dakota,McCook,President,,Donald J. Trump,REP,320
+South Dakota,McPherson,President,,Donald J. Trump,REP,340
+South Dakota,Meade,President,,Donald J. Trump,REP,"2,205"
+South Dakota,Mellette,President,,Donald J. Trump,REP,87
+South Dakota,Miner,President,,Donald J. Trump,REP,98
+South Dakota,Minnehaha,President,,Donald J. Trump,REP,"5,206"
+South Dakota,Moody,President,,Donald J. Trump,REP,196
+South Dakota,Oglala Lakota,President,,Donald J. Trump,REP,48
+South Dakota,Pennington,President,,Donald J. Trump,REP,"8,162"
+South Dakota,Perkins,President,,Donald J. Trump,REP,441
+South Dakota,Potter,President,,Donald J. Trump,REP,579
+South Dakota,Roberts,President,,Donald J. Trump,REP,286
+South Dakota,Sanborn,President,,Donald J. Trump,REP,122
+South Dakota,Spink,President,,Donald J. Trump,REP,302
+South Dakota,Stanley,President,,Donald J. Trump,REP,352
+South Dakota,Sully,President,,Donald J. Trump,REP,133
+South Dakota,Todd,President,,Donald J. Trump,REP,90
+South Dakota,Tripp,President,,Donald J. Trump,REP,452
+South Dakota,Turner,President,,Donald J. Trump,REP,384
+South Dakota,Union,President,,Donald J. Trump,REP,644
+South Dakota,Walworth,President,,Donald J. Trump,REP,774
+South Dakota,Yankton,President,,Donald J. Trump,REP,646
+South Dakota,Ziebach,President,,Donald J. Trump,REP,79
+South Dakota,Total,President,,Donald J. Trump,REP,"44,857"
+South Dakota,Codington,State Senate,5,Roger Solum,REP,926
+South Dakota,Total,State Senate,5,Roger Solum,REP,926
+South Dakota,Codington,State Senate,5,Neal Tapio,REP,"1,102"
+South Dakota,Total,State Senate,5,Neal Tapio,REP,"1,102"
+South Dakota,Brookings,State Senate,7,Larry Tidemann,REP,713
+South Dakota,Total,State Senate,7,Larry Tidemann,REP,713
+South Dakota,Brookings,State Senate,7,Doug  Post,REP,486
+South Dakota,Total,State Senate,7,Doug  Post,REP,486
+South Dakota,Minnehaha,State Senate,9,Deb Peters,REP,569
+South Dakota,Total,State Senate,9,Deb Peters,REP,569
+South Dakota,Minnehaha,State Senate,9,Lora  Hubbel,REP,441
+South Dakota,Total,State Senate,9,Lora  Hubbel,REP,441
+South Dakota,Minnehaha,State Senate,15,Reynold F. Nesiba,DEM,697
+South Dakota,Total,State Senate,15,Reynold F. Nesiba,DEM,697
+South Dakota,Minnehaha,State Senate,15,Patrick A.Kirschman,DEM,533
+South Dakota,Total,State Senate,15,Patrick A.Kirschman,DEM,533
+South Dakota,Bon Homme,State Senate,19,Stace Nelson,REP,143
+South Dakota,Douglas,State Senate,19,Stace Nelson,REP,262
+South Dakota,Hanson,State Senate,19,Stace Nelson,REP,323
+South Dakota,Hutchinson,State Senate,19,Stace Nelson,REP,461
+South Dakota,McCook,State Senate,19,Stace Nelson,REP,363
+South Dakota,Total,State Senate,19,Stace Nelson,REP,"1,552"
+South Dakota,Bon Homme,State Senate,19,Caleb  Finck,REP,172
+South Dakota,Douglas,State Senate,19,Caleb  Finck,REP,184
+South Dakota,Hanson,State Senate,19,Caleb  Finck,REP,73
+South Dakota,Hutchinson,State Senate,19,Caleb  Finck,REP,551
+South Dakota,McCook,State Senate,19,Caleb  Finck,REP,157
+South Dakota,Total,State Senate,19,Caleb  Finck,REP,"1,137"
+South Dakota,Butte,State Senate,28,Ryan M. Maher ,REP,856
+South Dakota,Corson,State Senate,28,Ryan M. Maher ,REP,167
+South Dakota,Dewey,State Senate,28,Ryan M. Maher ,REP,221
+South Dakota,Harding,State Senate,28,Ryan M. Maher ,REP,355
+South Dakota,Perkins,State Senate,28,Ryan M. Maher ,REP,598
+South Dakota,Ziebach,State Senate,28,Ryan M. Maher ,REP,110
+South Dakota,Total,State Senate,28,Ryan M. Maher ,REP,"2,307"
+South Dakota,Butte,State Senate,28,Steven W. Ritch,REP,243
+South Dakota,Corson,State Senate,28,Steven W. Ritch,REP,16
+South Dakota,Dewey,State Senate,28,Steven W. Ritch,REP,21
+South Dakota,Harding,State Senate,28,Steven W. Ritch,REP,36
+South Dakota,Perkins,State Senate,28,Steven W. Ritch,REP,41
+South Dakota,Ziebach,State Senate,28,Steven W. Ritch,REP,11
+South Dakota,Total,State Senate,28,Steven W. Ritch,REP,368
+South Dakota,Custer,State Senate,30,Lance Russell,REP,885
+South Dakota,Fall River,State Senate,30,Lance Russell,REP,787
+South Dakota,Pennington,State Senate,30,Lance Russell,REP,724
+South Dakota,Total,State Senate,30,Lance Russell,REP,"2,396"
+South Dakota,Custer,State Senate,30,Bruce Rampelberg,REP,546
+South Dakota,Fall River,State Senate,30,Bruce Rampelberg,REP,561
+South Dakota,Pennington,State Senate,30,Bruce Rampelberg,REP,544
+South Dakota,Total,State Senate,30,Bruce Rampelberg,REP,"1,651"
+South Dakota,Pennington,State Senate,32,Alan D. Solano  ,REP,"1,495"
+South Dakota,Total,State Senate,32,Alan D. Solano  ,REP,"1,495"
+South Dakota,Pennington,State Senate,32,Richard  Kriebel,REP,919
+South Dakota,Total,State Senate,32,Richard  Kriebel,REP,919
+South Dakota,Meade,State Senate,32,Phil Jensen,REP,438
+South Dakota,Pennington,State Senate,33,Phil Jensen,REP,"1,616"
+South Dakota,Total,State Senate,33,Phil Jensen,REP,"2,054"
+South Dakota,Meade,State Senate,33,Jacqueline Sly,REP,214
+South Dakota,Pennington,State Senate,33,Jacqueline Sly,REP,"1,122"
+South Dakota,Total,State Senate,33,Jacqueline Sly,REP,"1,336"
+South Dakota,Pennington,State Senate,34,Jeffrey D. Partridge,REP,"1,742"
+South Dakota,Total,State Senate,34,Jeffrey D. Partridge,REP,"1,742"
+South Dakota,Pennington,State Senate,34,Janette McIntyre,REP,"1,496"
+South Dakota,Total,State Senate,34,Janette McIntyre,REP,"1,496"
+South Dakota,Pennington,State Senate,35,Terri L. Haverly,REP,912
+South Dakota,Total,State Senate,35,Terri L. Haverly,REP,912
+South Dakota,Pennington,State Senate,35,Tina   Mulally,REP,746
+South Dakota,Total,State Senate,35,Tina   Mulally,REP,746
+South Dakota,Brown,State Representative,3,Drew  Dennert  ,REP,"1,031"
+South Dakota,Total,State Representative,3,Drew  Dennert  ,REP,"1,031"
+South Dakota,Brown,State Representative,3,Daniel  Kaiser,REP,"1,255"
+South Dakota,Total,State Representative,3,Daniel  Kaiser,REP,"1,255"
+South Dakota,Brown,State Representative,3,Todd  Kolden,REP,489
+South Dakota,Total,State Representative,3,Todd  Kolden,REP,489
+South Dakota,Minnehaha,State Representative,11,Dave Landry,REP,550
+South Dakota,Total,State Representative,11,Dave Landry,REP,550
+South Dakota,Minnehaha,State Representative,11,Chris Karr,REP,608
+South Dakota,Total,State Representative,11,Chris Karr,REP,608
+South Dakota,Minnehaha,State Representative,11,Mark K Wiliadsen,REP,632
+South Dakota,Total,State Representative,11,Mark K Wiliadsen,REP,632
+South Dakota,Minnehaha,State Representative,14,Tom   Holmes ,REP,858
+South Dakota,Total,State Representative,14,Tom   Holmes ,REP,858
+South Dakota,Minnehaha,State Representative,14,Larry P. Zikmund ,REP,"1,046"
+South Dakota,Total,State Representative,14,Larry P. Zikmund ,REP,"1,046"
+South Dakota,Minnehaha,State Representative,14,Dave Zimbeck,REP,668
+South Dakota,Total,State Representative,14,Dave Zimbeck,REP,668
+South Dakota,Lincoln,State Representative,16,Kevin D. Jensen,REP,514
+South Dakota,Union,State Representative,16,Kevin D. Jensen,REP,360
+South Dakota,Total,State Representative,16,Kevin D. Jensen,REP,874
+South Dakota,Lincoln,State Representative,16,David L.Anderson,REP,713
+South Dakota,Union,State Representative,16,David L.Anderson,REP,453
+South Dakota,Total,State Representative,16,David L.Anderson,REP,"1,166"
+South Dakota,Lincoln,State Representative,16,"William ""Bill"" Shorma",REP,250
+South Dakota,Union,State Representative,16,"William ""Bill"" Shorma",REP,589
+South Dakota,Total,State Representative,16,"William ""Bill"" Shorma",REP,839
+South Dakota,Yankton,State Representative,18,Christopher P. Svarstad,DEM,326
+South Dakota,Total,State Representative,18,Christopher P. Svarstad,DEM,326
+South Dakota,Yankton,State Representative,18,David Allen,DEM,692
+South Dakota,Total,State Representative,18,David Allen,DEM,692
+South Dakota,Yankton,State Representative,18,Peter Rossiter,DEM,605
+South Dakota,Total,State Representative,18,Peter Rossiter,DEM,605
+South Dakota,Bon Hemme,State Representative,19,ReGina L Osborn,REP,53
+South Dakota,Douglas,State Representative,19,ReGina L Osborn,REP,77
+South Dakota,Hanson,State Representative,19,ReGina L Osborn,REP,141
+South Dakota,Hutchinson,State Representative,19,ReGina L Osborn,REP,113
+South Dakota,McCook,State Representative,19,ReGina L Osborn,REP,106
+South Dakota,Total,State Representative,19,ReGina L Osborn,REP,490
+South Dakota,Bon Hemme,State Representative,19,Kent S. Peterson,REP,196
+South Dakota,Douglas,State Representative,19,Kent S. Peterson,REP,268
+South Dakota,Hanson,State Representative,19,Kent S. Peterson,REP,184
+South Dakota,Hutchinson,State Representative,19,Kent S. Peterson,REP,614
+South Dakota,McCook,State Representative,19,Kent S. Peterson,REP,387
+South Dakota,Total,State Representative,19,Kent S. Peterson,REP,"1,649"
+South Dakota,Bon Hemme,State Representative,19,Kyle Schoenfish,REP,278
+South Dakota,Douglas,State Representative,19,Kyle Schoenfish,REP,343
+South Dakota,Hanson,State Representative,19,Kyle Schoenfish,REP,221
+South Dakota,Hutchinson,State Representative,19,Kyle Schoenfish,REP,881
+South Dakota,McCook,State Representative,19,Kyle Schoenfish,REP,260
+South Dakota,Total,State Representative,19,Kyle Schoenfish,REP,"1,983"
+South Dakota,Beadle,State Representative,22,Carmen Dannenbrinq,DEM,422
+South Dakota,Kingsbury,State Representative,22,Carmen Dannenbrinq,DEM,238
+South Dakota,Total,State Representative,22,Carmen Dannenbrinq,DEM,660
+South Dakota,Beadle,State Representative,22,Joan Wollschlager,DEM,466
+South Dakota,Kingsbury,State Representative,22,Joan Wollschlager,DEM,261
+South Dakota,Total,State Representative,22,Joan Wollschlager,DEM,727
+South Dakota,Beadle,State Representative,22,Darrell  Raschke,DEM,445
+South Dakota,Kingsbury,State Representative,22,Darrell  Raschke,DEM,68
+South Dakota,Total,State Representative,22,Darrell  Raschke,DEM,513
+South Dakota,Campbell,State Representative,23,Dick Werner,REP,291
+South Dakota,Edmunds,State Representative,23,Dick Werner,REP,262
+South Dakota,Faulk,State Representative,23,Dick Werner,REP,167
+South Dakota,Hand,State Representative,23,Dick Werner,REP,264
+South Dakota,McPherson,State Representative,23,Dick Werner,REP,254
+South Dakota,Potter,State Representative,23,Dick Werner,REP,71
+South Dakota,Spink,State Representative,23,Dick Werner,REP,60
+South Dakota,Walworth,State Representative,23,Dick Werner,REP,238
+South Dakota,Total,State Representative,23,Dick Werner,REP,"1,607"
+South Dakota,Campbell,State Representative,23,John A. Lake  ,REP,155
+South Dakota,Edmunds,State Representative,23,John A. Lake  ,REP,239
+South Dakota,Faulk,State Representative,23,John A. Lake  ,REP,227
+South Dakota,Hand,State Representative,23,John A. Lake  ,REP,320
+South Dakota,McPherson,State Representative,23,John A. Lake  ,REP,178
+South Dakota,Potter,State Representative,23,John A. Lake  ,REP,801
+South Dakota,Spink,State Representative,23,John A. Lake  ,REP,55
+South Dakota,Walworth,State Representative,23,John A. Lake  ,REP,491
+South Dakota,Total,State Representative,23,John A. Lake  ,REP,"2,466"
+South Dakota,Campbell,State Representative,23,Spencer Gosch,REP,188
+South Dakota,Edmunds,State Representative,23,Spencer Gosch,REP,241
+South Dakota,Faulk,State Representative,23,Spencer Gosch,REP,86
+South Dakota,Hand,State Representative,23,Spencer Gosch,REP,229
+South Dakota,McPherson,State Representative,23,Spencer Gosch,REP,282
+South Dakota,Potter,State Representative,23,Spencer Gosch,REP,201
+South Dakota,Spink,State Representative,23,Spencer Gosch,REP,18
+South Dakota,Walworth,State Representative,23,Spencer Gosch,REP,890
+South Dakota,Total,State Representative,23,Spencer Gosch,REP,"2,135"
+South Dakota,Campbell,State Representative,23,Charles B. Hoffman,REP,245
+South Dakota,Edmunds,State Representative,23,Charles B. Hoffman,REP,287
+South Dakota,Faulk,State Representative,23,Charles B. Hoffman,REP,91
+South Dakota,Hand,State Representative,23,Charles B. Hoffman,REP,114
+South Dakota,McPherson,State Representative,23,Charles B. Hoffman,REP,423
+South Dakota,Potter,State Representative,23,Charles B. Hoffman,REP,187
+South Dakota,Spink,State Representative,23,Charles B. Hoffman,REP,18
+South Dakota,Walworth,State Representative,23,Charles B. Hoffman,REP,341
+South Dakota,Total,State Representative,23,Charles B. Hoffman,REP,"1,706"
+South Dakota,Minnehaha,State Representative,25,David Haagenson,DEM,419
+South Dakota,Total,State Representative,25,David Haagenson,DEM,419
+South Dakota,Minnehaha,State Representative,25,Dan Ahlers,DEM,918
+South Dakota,Total,State Representative,25,Dan Ahlers,DEM,918
+South Dakota,Minnehaha,State Representative,25,Ryan Paul Tellberq,DEM,299
+South Dakota,Total,State Representative,25,Ryan Paul Tellberq,DEM,299
+South Dakota,Minnehaha,State Representative,25,Roger Hunt,DEM,765
+South Dakota,Total,State Representative,25,Roger Hunt,DEM,765
+South Dakota,Minnehaha,State Representative,25,Courtney Ecklund,DEM,602
+South Dakota,Total,State Representative,25,Courtney Ecklund,DEM,602
+South Dakota,Minnehaha,State Representative,25,Tom Pischke,DEM,643
+South Dakota,Total,State Representative,25,Tom Pischke,DEM,643
+South Dakota,Butte,State Representative,28B,Sam  Marty,REP,737
+South Dakota,Harding,State Representative,28B,Sam  Marty,REP,322
+South Dakota,Perkins,State Representative,28B,Sam  Marty,REP,472
+South Dakota,Total,State Representative,28B,Sam  Marty,REP,"1,531"
+South Dakota,Butte,State Representative,28B,Karen L Wagner,REP,488
+South Dakota,Harding,State Representative,28B,Karen L Wagner,REP,79
+South Dakota,Perkins,State Representative,28B,Karen L Wagner,REP,165
+South Dakota,Total,State Representative,28B,Karen L Wagner,REP,732
+South Dakota,Custer,State Representative,30,Julie Frye Mueller,REP,541
+South Dakota,Fall River,State Representative,30,Julie Frye Mueller,REP,437
+South Dakota,Pennington,State Representative,30,Julie Frye Mueller,REP,482
+South Dakota,Total,State Representative,30,Julie Frye Mueller,REP,"1,460"
+South Dakota,Custer,State Representative,30,Marilyn J Oakes,REP,538
+South Dakota,Fall River,State Representative,30,Marilyn J Oakes,REP,331
+South Dakota,Pennington,State Representative,30,Marilyn J Oakes,REP,338
+South Dakota,Total,State Representative,30,Marilyn J Oakes,REP,"1,207"
+South Dakota,Custer,State Representative,30,Richard  Mounce,REP,470
+South Dakota,Fall River,State Representative,30,Richard  Mounce,REP,547
+South Dakota,Pennington,State Representative,30,Richard  Mounce,REP,428
+South Dakota,Total,State Representative,30,Richard  Mounce,REP,"1,445"
+South Dakota,Custer,State Representative,30,Travis Lasseter,REP,438
+South Dakota,Fall River,State Representative,30,Travis Lasseter,REP,408
+South Dakota,Pennington,State Representative,30,Travis Lasseter,REP,384
+South Dakota,Total,State Representative,30,Travis Lasseter,REP,"1,230"
+South Dakota,Custer,State Representative,30,Tim R. Goodwin,REP,574
+South Dakota,Fall River,State Representative,30,Tim R. Goodwin,REP,414
+South Dakota,Pennington,State Representative,30,Tim R. Goodwin,REP,520
+South Dakota,Total,State Representative,30,Tim R. Goodwin,REP,"1,508"
+South Dakota,Lawrence,State Representative,31,Timothy R.Johns,REP,"1,789"
+South Dakota,Total,State Representative,31,Timothy R.Johns,REP,"1,789"
+South Dakota,Lawrence,State Representative,31,Charles M. Turbiville,REP,"1,558"
+South Dakota,Total,State Representative,31,Charles M. Turbiville,REP,"1,558"
+South Dakota,Lawrence,State Representative,31,Michael E. Weyrich,REP,"1,000"
+South Dakota,Total,State Representative,31,Michael E. Weyrich,REP,"1,000"
+South Dakota,Pennington,State Representative,32,Craig Ericks,REP,"1,147"
+South Dakota,Total,State Representative,32,Craig Ericks,REP,"1,147"
+South Dakota,Pennington,State Representative,32,Sean McPherson,REP,1.372
+South Dakota,Total,State Representative,32,Sean McPherson,REP,"1,372"
+South Dakota,Pennington,State Representative,32,Kristin A. Conzet,REP,"1,245"
+South Dakota,Total,State Representative,32,Kristin A. Conzet,REP,"1,245"
+South Dakota,Meade,State Representative,33,Taffy Howard  ,REP,313
+South Dakota,Pennington,State Representative,33,Taffy Howard  ,REP,"1,479"
+South Dakota,Total,State Representative,33,Taffy Howard  ,REP,"1,792"
+South Dakota,Meade,State Representative,33,David  Johnson,REP,460
+South Dakota,Pennington,State Representative,33,David  Johnson,REP,"1,775"
+South Dakota,Total,State Representative,33,David  Johnson,REP,"2,235"
+South Dakota,Meade,State Representative,33,Mike Buckingham,REP,214
+South Dakota,Pennington,State Representative,33,Mike Buckingham,REP,885
+South Dakota,Total,State Representative,33,Mike Buckingham,REP,"1,099"
