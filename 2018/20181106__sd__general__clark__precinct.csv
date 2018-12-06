@@ -1,0 +1,326 @@
+county,precinct,office,district,party,candidate,votes
+Clark,1,U.S. House,1,LIB,George D. Hendrickson,0
+Clark,2,U.S. House,1,LIB,George D. Hendrickson,3
+Clark,3,U.S. House,1,LIB,George D. Hendrickson,3
+Clark,4,U.S. House,1,LIB,George D. Hendrickson,0
+Clark,5,U.S. House,1,LIB,George D. Hendrickson,2
+Clark,6,U.S. House,1,LIB,George D. Hendrickson,1
+Clark,7,U.S. House,1,LIB,George D. Hendrickson,1
+Clark,8,U.S. House,1,LIB,George D. Hendrickson,0
+Clark,9,U.S. House,1,LIB,George D. Hendrickson,1
+Clark,10,U.S. House,1,LIB,George D. Hendrickson,0
+Clark,11,U.S. House,1,LIB,George D. Hendrickson,0
+Clark,12,U.S. House,1,LIB,George D. Hendrickson,1
+Clark,13,U.S. House,1,LIB,George D. Hendrickson,1
+Clark,1,U.S. House,1,REP,Dusty Johnson,90
+Clark,2,U.S. House,1,REP,Dusty Johnson,112
+Clark,3,U.S. House,1,REP,Dusty Johnson,81
+Clark,4,U.S. House,1,REP,Dusty Johnson,81
+Clark,5,U.S. House,1,REP,Dusty Johnson,84
+Clark,6,U.S. House,1,REP,Dusty Johnson,52
+Clark,7,U.S. House,1,REP,Dusty Johnson,75
+Clark,8,U.S. House,1,REP,Dusty Johnson,83
+Clark,9,U.S. House,1,REP,Dusty Johnson,73
+Clark,10,U.S. House,1,REP,Dusty Johnson,66
+Clark,11,U.S. House,1,REP,Dusty Johnson,88
+Clark,12,U.S. House,1,REP,Dusty Johnson,97
+Clark,13,U.S. House,1,REP,Dusty Johnson,168
+Clark,1,U.S. House,1,DEM,Tim Bjorkman,44
+Clark,2,U.S. House,1,DEM,Tim Bjorkman,35
+Clark,3,U.S. House,1,DEM,Tim Bjorkman,15
+Clark,4,U.S. House,1,DEM,Tim Bjorkman,30
+Clark,5,U.S. House,1,DEM,Tim Bjorkman,27
+Clark,6,U.S. House,1,DEM,Tim Bjorkman,13
+Clark,7,U.S. House,1,DEM,Tim Bjorkman,35
+Clark,8,U.S. House,1,DEM,Tim Bjorkman,40
+Clark,9,U.S. House,1,DEM,Tim Bjorkman,7
+Clark,10,U.S. House,1,DEM,Tim Bjorkman,46
+Clark,11,U.S. House,1,DEM,Tim Bjorkman,49
+Clark,12,U.S. House,1,DEM,Tim Bjorkman,52
+Clark,13,U.S. House,1,DEM,Tim Bjorkman,59
+Clark,1,U.S. House,1,IND,Ron Wieczorek,6
+Clark,2,U.S. House,1,IND,Ron Wieczorek,4
+Clark,3,U.S. House,1,IND,Ron Wieczorek,0
+Clark,4,U.S. House,1,IND,Ron Wieczorek,2
+Clark,5,U.S. House,1,IND,Ron Wieczorek,0
+Clark,6,U.S. House,1,IND,Ron Wieczorek,1
+Clark,7,U.S. House,1,IND,Ron Wieczorek,4
+Clark,8,U.S. House,1,IND,Ron Wieczorek,3
+Clark,9,U.S. House,1,IND,Ron Wieczorek,3
+Clark,10,U.S. House,1,IND,Ron Wieczorek,0
+Clark,11,U.S. House,1,IND,Ron Wieczorek,6
+Clark,12,U.S. House,1,IND,Ron Wieczorek,1
+Clark,13,U.S. House,1,IND,Ron Wieczorek,4
+Clark,1,Governor,,LIB,Kurt Evans,2
+Clark,2,Governor,,LIB,Kurt Evans,3
+Clark,3,Governor,,LIB,Kurt Evans,1
+Clark,4,Governor,,LIB,Kurt Evans,3
+Clark,5,Governor,,LIB,Kurt Evans,1
+Clark,6,Governor,,LIB,Kurt Evans,1
+Clark,7,Governor,,LIB,Kurt Evans,0
+Clark,8,Governor,,LIB,Kurt Evans,2
+Clark,9,Governor,,LIB,Kurt Evans,0
+Clark,10,Governor,,LIB,Kurt Evans,0
+Clark,11,Governor,,LIB,Kurt Evans,1
+Clark,12,Governor,,LIB,Kurt Evans,1
+Clark,13,Governor,,LIB,Kurt Evans,2
+Clark,1,Governor,,REP,Kristi Noem,74
+Clark,2,Governor,,REP,Kristi Noem,88
+Clark,3,Governor,,REP,Kristi Noem,56
+Clark,4,Governor,,REP,Kristi Noem,62
+Clark,5,Governor,,REP,Kristi Noem,63
+Clark,6,Governor,,REP,Kristi Noem,29
+Clark,7,Governor,,REP,Kristi Noem,62
+Clark,8,Governor,,REP,Kristi Noem,59
+Clark,9,Governor,,REP,Kristi Noem,62
+Clark,10,Governor,,REP,Kristi Noem,44
+Clark,11,Governor,,REP,Kristi Noem,71
+Clark,12,Governor,,REP,Kristi Noem,86
+Clark,13,Governor,,REP,Kristi Noem,123
+Clark,1,Governor,,DEM,Billie Sutton,66
+Clark,2,Governor,,DEM,Billie Sutton,65
+Clark,3,Governor,,DEM,Billie Sutton,42
+Clark,4,Governor,,DEM,Billie Sutton,48
+Clark,5,Governor,,DEM,Billie Sutton,50
+Clark,6,Governor,,DEM,Billie Sutton,38
+Clark,7,Governor,,DEM,Billie Sutton,54
+Clark,8,Governor,,DEM,Billie Sutton,68
+Clark,9,Governor,,DEM,Billie Sutton,22
+Clark,10,Governor,,DEM,Billie Sutton,66
+Clark,11,Governor,,DEM,Billie Sutton,73
+Clark,12,Governor,,DEM,Billie Sutton,68
+Clark,13,Governor,,DEM,Billie Sutton,108
+Clark,1,Secretary of State,,REP,Steve Barnett,92
+Clark,2,Secretary of State,,REP,Steve Barnett,101
+Clark,3,Secretary of State,,REP,Steve Barnett,69
+Clark,4,Secretary of State,,REP,Steve Barnett,77
+Clark,5,Secretary of State,,REP,Steve Barnett,80
+Clark,6,Secretary of State,,REP,Steve Barnett,49
+Clark,7,Secretary of State,,REP,Steve Barnett,84
+Clark,8,Secretary of State,,REP,Steve Barnett,89
+Clark,9,Secretary of State,,REP,Steve Barnett,70
+Clark,10,Secretary of State,,REP,Steve Barnett,68
+Clark,11,Secretary of State,,REP,Steve Barnett,84
+Clark,12,Secretary of State,,REP,Steve Barnett,101
+Clark,13,Secretary of State,,REP,Steve Barnett,163
+Clark,1,Secretary of State,,DEM,Alexandra Frederick,45
+Clark,2,Secretary of State,,DEM,Alexandra Frederick,45
+Clark,3,Secretary of State,,DEM,Alexandra Frederick,30
+Clark,4,Secretary of State,,DEM,Alexandra Frederick,34
+Clark,5,Secretary of State,,DEM,Alexandra Frederick,28
+Clark,6,Secretary of State,,DEM,Alexandra Frederick,17
+Clark,7,Secretary of State,,DEM,Alexandra Frederick,28
+Clark,8,Secretary of State,,DEM,Alexandra Frederick,32
+Clark,9,Secretary of State,,DEM,Alexandra Frederick,12
+Clark,10,Secretary of State,,DEM,Alexandra Frederick,39
+Clark,11,Secretary of State,,DEM,Alexandra Frederick,52
+Clark,12,Secretary of State,,DEM,Alexandra Frederick,43
+Clark,13,Secretary of State,,DEM,Alexandra Frederick,55
+Clark,1,Attorney General,,REP,Jason Ravnsborg,78
+Clark,2,Attorney General,,REP,Jason Ravnsborg,82
+Clark,3,Attorney General,,REP,Jason Ravnsborg,63
+Clark,4,Attorney General,,REP,Jason Ravnsborg,72
+Clark,5,Attorney General,,REP,Jason Ravnsborg,69
+Clark,6,Attorney General,,REP,Jason Ravnsborg,40
+Clark,7,Attorney General,,REP,Jason Ravnsborg,70
+Clark,8,Attorney General,,REP,Jason Ravnsborg,79
+Clark,9,Attorney General,,REP,Jason Ravnsborg,49
+Clark,10,Attorney General,,REP,Jason Ravnsborg,49
+Clark,11,Attorney General,,REP,Jason Ravnsborg,84
+Clark,12,Attorney General,,REP,Jason Ravnsborg,87
+Clark,13,Attorney General,,REP,Jason Ravnsborg,139
+Clark,1,Attorney General,,DEM,Randy Seiler,60
+Clark,2,Attorney General,,DEM,Randy Seiler,61
+Clark,3,Attorney General,,DEM,Randy Seiler,32
+Clark,4,Attorney General,,DEM,Randy Seiler,37
+Clark,5,Attorney General,,DEM,Randy Seiler,37
+Clark,6,Attorney General,,DEM,Randy Seiler,26
+Clark,7,Attorney General,,DEM,Randy Seiler,40
+Clark,8,Attorney General,,DEM,Randy Seiler,41
+Clark,9,Attorney General,,DEM,Randy Seiler,35
+Clark,10,Attorney General,,DEM,Randy Seiler,58
+Clark,11,Attorney General,,DEM,Randy Seiler,52
+Clark,12,Attorney General,,DEM,Randy Seiler,59
+Clark,13,Attorney General,,DEM,Randy Seiler,85
+Clark,1,State Auditor,,REP,Rich Sattgast,86
+Clark,2,State Auditor,,REP,Rich Sattgast,103
+Clark,3,State Auditor,,REP,Rich Sattgast,75
+Clark,4,State Auditor,,REP,Rich Sattgast,75
+Clark,5,State Auditor,,REP,Rich Sattgast,72
+Clark,6,State Auditor,,REP,Rich Sattgast,46
+Clark,7,State Auditor,,REP,Rich Sattgast,81
+Clark,8,State Auditor,,REP,Rich Sattgast,89
+Clark,9,State Auditor,,REP,Rich Sattgast,65
+Clark,10,State Auditor,,REP,Rich Sattgast,69
+Clark,11,State Auditor,,REP,Rich Sattgast,83
+Clark,12,State Auditor,,REP,Rich Sattgast,93
+Clark,13,State Auditor,,REP,Rich Sattgast,158
+Clark,1,State Auditor,,DEM,Tom Cool,43
+Clark,2,State Auditor,,DEM,Tom Cool,37
+Clark,3,State Auditor,,DEM,Tom Cool,20
+Clark,4,State Auditor,,DEM,Tom Cool,36
+Clark,5,State Auditor,,DEM,Tom Cool,31
+Clark,6,State Auditor,,DEM,Tom Cool,17
+Clark,7,State Auditor,,DEM,Tom Cool,29
+Clark,8,State Auditor,,DEM,Tom Cool,27
+Clark,9,State Auditor,,DEM,Tom Cool,11
+Clark,10,State Auditor,,DEM,Tom Cool,35
+Clark,11,State Auditor,,DEM,Tom Cool,49
+Clark,12,State Auditor,,DEM,Tom Cool,49
+Clark,13,State Auditor,,DEM,Tom Cool,56
+Clark,1,State Treasurer,,REP,Josh Haeder,84
+Clark,2,State Treasurer,,REP,Josh Haeder,93
+Clark,3,State Treasurer,,REP,Josh Haeder,70
+Clark,4,State Treasurer,,REP,Josh Haeder,73
+Clark,5,State Treasurer,,REP,Josh Haeder,70
+Clark,6,State Treasurer,,REP,Josh Haeder,47
+Clark,7,State Treasurer,,REP,Josh Haeder,80
+Clark,8,State Treasurer,,REP,Josh Haeder,83
+Clark,9,State Treasurer,,REP,Josh Haeder,67
+Clark,10,State Treasurer,,REP,Josh Haeder,65
+Clark,11,State Treasurer,,REP,Josh Haeder,78
+Clark,12,State Treasurer,,REP,Josh Haeder,88
+Clark,13,State Treasurer,,REP,Josh Haeder,143
+Clark,1,State Treasurer,,DEM,Aaron Matson,44
+Clark,2,State Treasurer,,DEM,Aaron Matson,44
+Clark,3,State Treasurer,,DEM,Aaron Matson,23
+Clark,4,State Treasurer,,DEM,Aaron Matson,36
+Clark,5,State Treasurer,,DEM,Aaron Matson,33
+Clark,6,State Treasurer,,DEM,Aaron Matson,14
+Clark,7,State Treasurer,,DEM,Aaron Matson,31
+Clark,8,State Treasurer,,DEM,Aaron Matson,35
+Clark,9,State Treasurer,,DEM,Aaron Matson,14
+Clark,10,State Treasurer,,DEM,Aaron Matson,40
+Clark,11,State Treasurer,,DEM,Aaron Matson,55
+Clark,12,State Treasurer,,DEM,Aaron Matson,47
+Clark,13,State Treasurer,,DEM,Aaron Matson,64
+Clark,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,80
+Clark,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,93
+Clark,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,63
+Clark,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,76
+Clark,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,67
+Clark,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,43
+Clark,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,67
+Clark,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,81
+Clark,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,63
+Clark,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,60
+Clark,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,77
+Clark,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,88
+Clark,13,Commissioner of School and Public Lands,,REP,Ryan Brunner,147
+Clark,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,49
+Clark,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,44
+Clark,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,30
+Clark,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,31
+Clark,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,30
+Clark,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,19
+Clark,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,35
+Clark,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,37
+Clark,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,10
+Clark,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,42
+Clark,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,50
+Clark,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,49
+Clark,13,Commissioner of School and Public Lands,,DEM,Woody Hauser,60
+Clark,1,Public Utilities Commissioner,,REP,Kristie Fiegen,82
+Clark,2,Public Utilities Commissioner,,REP,Kristie Fiegen,94
+Clark,3,Public Utilities Commissioner,,REP,Kristie Fiegen,64
+Clark,4,Public Utilities Commissioner,,REP,Kristie Fiegen,72
+Clark,5,Public Utilities Commissioner,,REP,Kristie Fiegen,66
+Clark,6,Public Utilities Commissioner,,REP,Kristie Fiegen,42
+Clark,7,Public Utilities Commissioner,,REP,Kristie Fiegen,78
+Clark,8,Public Utilities Commissioner,,REP,Kristie Fiegen,90
+Clark,9,Public Utilities Commissioner,,REP,Kristie Fiegen,61
+Clark,10,Public Utilities Commissioner,,REP,Kristie Fiegen,65
+Clark,11,Public Utilities Commissioner,,REP,Kristie Fiegen,73
+Clark,12,Public Utilities Commissioner,,REP,Kristie Fiegen,86
+Clark,13,Public Utilities Commissioner,,REP,Kristie Fiegen,156
+Clark,1,Public Utilities Commissioner,,DEM,Wayne Frederick,49
+Clark,2,Public Utilities Commissioner,,DEM,Wayne Frederick,45
+Clark,3,Public Utilities Commissioner,,DEM,Wayne Frederick,31
+Clark,4,Public Utilities Commissioner,,DEM,Wayne Frederick,36
+Clark,5,Public Utilities Commissioner,,DEM,Wayne Frederick,37
+Clark,6,Public Utilities Commissioner,,DEM,Wayne Frederick,20
+Clark,7,Public Utilities Commissioner,,DEM,Wayne Frederick,30
+Clark,8,Public Utilities Commissioner,,DEM,Wayne Frederick,32
+Clark,9,Public Utilities Commissioner,,DEM,Wayne Frederick,12
+Clark,10,Public Utilities Commissioner,,DEM,Wayne Frederick,38
+Clark,11,Public Utilities Commissioner,,DEM,Wayne Frederick,58
+Clark,12,Public Utilities Commissioner,,DEM,Wayne Frederick,51
+Clark,13,Public Utilities Commissioner,,DEM,Wayne Frederick,57
+Clark,1,State Senate,21,REP,Rocky Dale Blare,85
+Clark,2,State Senate,21,REP,Rocky Dale Blare,105
+Clark,3,State Senate,21,REP,Rocky Dale Blare,72
+Clark,4,State Senate,21,REP,Rocky Dale Blare,79
+Clark,5,State Senate,21,REP,Rocky Dale Blare,69
+Clark,6,State Senate,21,REP,Rocky Dale Blare,47
+Clark,7,State Senate,21,REP,Rocky Dale Blare,82
+Clark,8,State Senate,21,REP,Rocky Dale Blare,95
+Clark,9,State Senate,21,REP,Rocky Dale Blare,70
+Clark,10,State Senate,21,REP,Rocky Dale Blare,73
+Clark,11,State Senate,21,REP,Rocky Dale Blare,83
+Clark,12,State Senate,21,REP,Rocky Dale Blare,102
+Clark,13,State Senate,21,REP,Rocky Dale Blare,145
+Clark,1,State Senate,21,DEM,Julie Bartling,52
+Clark,2,State Senate,21,DEM,Julie Bartling,38
+Clark,3,State Senate,21,DEM,Julie Bartling,23
+Clark,4,State Senate,21,DEM,Julie Bartling,32
+Clark,5,State Senate,21,DEM,Julie Bartling,38
+Clark,6,State Senate,21,DEM,Julie Bartling,20
+Clark,7,State Senate,21,DEM,Julie Bartling,30
+Clark,8,State Senate,21,DEM,Julie Bartling,31
+Clark,9,State Senate,21,DEM,Julie Bartling,12
+Clark,10,State Senate,21,DEM,Julie Bartling,34
+Clark,11,State Senate,21,DEM,Julie Bartling,52
+Clark,12,State Senate,21,DEM,Julie Bartling,48
+Clark,13,State Senate,21,DEM,Julie Bartling,77
+Clark,1,State House,21,REP,Caleb Finck,62
+Clark,2,State House,21,REP,Caleb Finck,62
+Clark,3,State House,21,REP,Caleb Finck,46
+Clark,4,State House,21,REP,Caleb Finck,57
+Clark,5,State House,21,REP,Caleb Finck,50
+Clark,6,State House,21,REP,Caleb Finck,32
+Clark,7,State House,21,REP,Caleb Finck,55
+Clark,8,State House,21,REP,Caleb Finck,61
+Clark,9,State House,21,REP,Caleb Finck,40
+Clark,10,State House,21,REP,Caleb Finck,34
+Clark,11,State House,21,REP,Caleb Finck,52
+Clark,12,State House,21,REP,Caleb Finck,70
+Clark,13,State House,21,REP,Caleb Finck,114
+Clark,1,State House,21,REP,Lee Qualm,64
+Clark,2,State House,21,REP,Lee Qualm,92
+Clark,3,State House,21,REP,Lee Qualm,64
+Clark,4,State House,21,REP,Lee Qualm,66
+Clark,5,State House,21,REP,Lee Qualm,63
+Clark,6,State House,21,REP,Lee Qualm,45
+Clark,7,State House,21,REP,Lee Qualm,72
+Clark,8,State House,21,REP,Lee Qualm,81
+Clark,9,State House,21,REP,Lee Qualm,68
+Clark,10,State House,21,REP,Lee Qualm,65
+Clark,11,State House,21,REP,Lee Qualm,75
+Clark,12,State House,21,REP,Lee Qualm,89
+Clark,13,State House,21,REP,Lee Qualm,130
+Clark,1,State House,21,DEM,Faith Spotted Eagle,65
+Clark,2,State House,21,DEM,Faith Spotted Eagle,51
+Clark,3,State House,21,DEM,Faith Spotted Eagle,42
+Clark,4,State House,21,DEM,Faith Spotted Eagle,42
+Clark,5,State House,21,DEM,Faith Spotted Eagle,36
+Clark,6,State House,21,DEM,Faith Spotted Eagle,20
+Clark,7,State House,21,DEM,Faith Spotted Eagle,40
+Clark,8,State House,21,DEM,Faith Spotted Eagle,35
+Clark,9,State House,21,DEM,Faith Spotted Eagle,10
+Clark,10,State House,21,DEM,Faith Spotted Eagle,47
+Clark,11,State House,21,DEM,Faith Spotted Eagle,57
+Clark,12,State House,21,DEM,Faith Spotted Eagle,49
+Clark,13,State House,21,DEM,Faith Spotted Eagle,82
+Clark,1,State House,21,DEM,Anna Kerner Andersson,43
+Clark,2,State House,21,DEM,Anna Kerner Andersson,38
+Clark,3,State House,21,DEM,Anna Kerner Andersson,18
+Clark,4,State House,21,DEM,Anna Kerner Andersson,26
+Clark,5,State House,21,DEM,Anna Kerner Andersson,24
+Clark,6,State House,21,DEM,Anna Kerner Andersson,16
+Clark,7,State House,21,DEM,Anna Kerner Andersson,30
+Clark,8,State House,21,DEM,Anna Kerner Andersson,31
+Clark,9,State House,21,DEM,Anna Kerner Andersson,13
+Clark,10,State House,21,DEM,Anna Kerner Andersson,39
+Clark,11,State House,21,DEM,Anna Kerner Andersson,42
+Clark,12,State House,21,DEM,Anna Kerner Andersson,34
+Clark,13,State House,21,DEM,Anna Kerner Andersson,58
