@@ -1,0 +1,76 @@
+votes,district,candidate,office,county,party,precinct
+Gregory,1,U.S. House,1,LIB,George D. Hendrickson,3
+Gregory,2,U.S. House,1,LIB,George D. Hendrickson,8
+Gregory,3,U.S. House,1,LIB,George D. Hendrickson,2
+Gregory,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",699
+Gregory,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",521
+Gregory,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",264
+Gregory,1,U.S. House,1,DEM,Tim Bjorkman,254
+Gregory,2,U.S. House,1,DEM,Tim Bjorkman,240
+Gregory,3,U.S. House,1,DEM,Tim Bjorkman,92
+Gregory,1,U.S. House,1,IND,Ron Wieczorek,17
+Gregory,2,U.S. House,1,IND,Ron Wieczorek,18
+Gregory,3,U.S. House,1,IND,Ron Wieczorek,4
+Gregory,1,Governor,,LIB,Kurt Evans,8
+Gregory,2,Governor,,LIB,Kurt Evans,8
+Gregory,3,Governor,,LIB,Kurt Evans,1
+Gregory,1,Governor,,REP,Kristi Noem,513
+Gregory,2,Governor,,REP,Kristi Noem,356
+Gregory,3,Governor,,REP,Kristi Noem,238
+Gregory,1,Governor,,DEM,Billie Sutton,457
+Gregory,2,Governor,,DEM,Billie Sutton,446
+Gregory,3,Governor,,DEM,Billie Sutton,126
+Gregory,1,Secretary of State,,REP,Steve Barnett,699
+Gregory,2,Secretary of State,,REP,Steve Barnett,561
+Gregory,3,Secretary of State,,REP,Steve Barnett,258
+Gregory,1,Secretary of State,,DEM,Alexandra Frederick,224
+Gregory,2,Secretary of State,,DEM,Alexandra Frederick,203
+Gregory,3,Secretary of State,,DEM,Alexandra Frederick,78
+Gregory,1,Attorney General,,REP,Jason Ravnsborg,571
+Gregory,2,Attorney General,,REP,Jason Ravnsborg,436
+Gregory,3,Attorney General,,REP,Jason Ravnsborg,232
+Gregory,1,Attorney General,,DEM,Randy Seiler,354
+Gregory,2,Attorney General,,DEM,Randy Seiler,317
+Gregory,3,Attorney General,,DEM,Randy Seiler,106
+Gregory,1,State Auditor,,REP,Rich Sattgast,653
+Gregory,2,State Auditor,,REP,Rich Sattgast,507
+Gregory,3,State Auditor,,REP,Rich Sattgast,246
+Gregory,1,State Auditor,,DEM,Tom Cool,258
+Gregory,2,State Auditor,,DEM,Tom Cool,236
+Gregory,3,State Auditor,,DEM,Tom Cool,85
+Gregory,1,State Treasurer,,REP,Josh Haeder,613
+Gregory,2,State Treasurer,,REP,Josh Haeder,489
+Gregory,3,State Treasurer,,REP,Josh Haeder,228
+Gregory,1,State Treasurer,,DEM,Aaron Matson,286
+Gregory,2,State Treasurer,,DEM,Aaron Matson,252
+Gregory,3,State Treasurer,,DEM,Aaron Matson,86
+Gregory,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,617
+Gregory,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,488
+Gregory,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,234
+Gregory,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,272
+Gregory,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,250
+Gregory,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,79
+Gregory,1,Public Utilities Commissioner,,REP,Kristie Fiegen,637
+Gregory,2,Public Utilities Commissioner,,REP,Kristie Fiegen,515
+Gregory,3,Public Utilities Commissioner,,REP,Kristie Fiegen,230
+Gregory,1,Public Utilities Commissioner,,DEM,Wayne Frederick,257
+Gregory,2,Public Utilities Commissioner,,DEM,Wayne Frederick,218
+Gregory,3,Public Utilities Commissioner,,DEM,Wayne Frederick,78
+Gregory,1,State Senate,21,REP,Rocky Dale Blare,492
+Gregory,2,State Senate,21,REP,Rocky Dale Blare,381
+Gregory,3,State Senate,21,REP,Rocky Dale Blare,193
+Gregory,1,State Senate,21,DEM,Julie Bartling,473
+Gregory,2,State Senate,21,DEM,Julie Bartling,416
+Gregory,3,State Senate,21,DEM,Julie Bartling,162
+Gregory,1,State House,21,REP,Caleb Finck,492
+Gregory,2,State House,21,REP,Caleb Finck,377
+Gregory,3,State House,21,REP,Caleb Finck,199
+Gregory,1,State House,21,REP,Lee Qualm,577
+Gregory,2,State House,21,REP,Lee Qualm,471
+Gregory,3,State House,21,REP,Lee Qualm,237
+Gregory,1,State House,21,DEM,Faith Spotted Eagle,140
+Gregory,2,State House,21,DEM,Faith Spotted Eagle,127
+Gregory,3,State House,21,DEM,Faith Spotted Eagle,58
+Gregory,1,State House,21,DEM,Anna Kerner Andersson,420
+Gregory,2,State House,21,DEM,Anna Kerner Andersson,373
+Gregory,3,State House,21,DEM,Anna Kerner Andersson,110
