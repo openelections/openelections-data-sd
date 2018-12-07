@@ -1,0 +1,76 @@
+county,precinct,office,district,party,candidate,votes
+Stanley,1,U.S. House,1,LIB,George D. Hendrickson,15
+Stanley,2,U.S. House,1,LIB,George D. Hendrickson,0
+Stanley,3,U.S. House,1,LIB,George D. Hendrickson,0
+Stanley,1,U.S. House,1,REP,Dusty Johnson,911
+Stanley,2,U.S. House,1,REP,Dusty Johnson,51
+Stanley,3,U.S. House,1,REP,Dusty Johnson,80
+Stanley,1,U.S. House,1,DEM,Tim Bjorkman,352
+Stanley,2,U.S. House,1,DEM,Tim Bjorkman,10
+Stanley,3,U.S. House,1,DEM,Tim Bjorkman,15
+Stanley,1,U.S. House,1,IND,Ron Wieczorek,41
+Stanley,2,U.S. House,1,IND,Ron Wieczorek,4
+Stanley,3,U.S. House,1,IND,Ron Wieczorek,0
+Stanley,1,Governor,,LIB,Kurt Evans,20
+Stanley,2,Governor,,LIB,Kurt Evans,1
+Stanley,3,Governor,,LIB,Kurt Evans,0
+Stanley,1,Governor,,REP,Kristi Noem,650
+Stanley,2,Governor,,REP,Kristi Noem,48
+Stanley,3,Governor,,REP,Kristi Noem,64
+Stanley,1,Governor,,DEM,Billie Sutton,655
+Stanley,2,Governor,,DEM,Billie Sutton,18
+Stanley,3,Governor,,DEM,Billie Sutton,31
+Stanley,1,Secretary of State,,REP,Steve Barnett,989
+Stanley,2,Secretary of State,,REP,Steve Barnett,60
+Stanley,3,Secretary of State,,REP,Steve Barnett,77
+Stanley,1,Secretary of State,,DEM,Alexandra Frederick,311
+Stanley,2,Secretary of State,,DEM,Alexandra Frederick,5
+Stanley,3,Secretary of State,,DEM,Alexandra Frederick,13
+Stanley,1,Attorney General,,REP,Jason Ravnsborg,544
+Stanley,2,Attorney General,,REP,Jason Ravnsborg,45
+Stanley,3,Attorney General,,REP,Jason Ravnsborg,39
+Stanley,1,Attorney General,,DEM,Randy Seiler,769
+Stanley,2,Attorney General,,DEM,Randy Seiler,19
+Stanley,3,Attorney General,,DEM,Randy Seiler,50
+Stanley,1,State Auditor,,REP,Rich Sattgast,963
+Stanley,2,State Auditor,,REP,Rich Sattgast,57
+Stanley,3,State Auditor,,REP,Rich Sattgast,74
+Stanley,1,State Auditor,,DEM,Tom Cool,317
+Stanley,2,State Auditor,,DEM,Tom Cool,7
+Stanley,3,State Auditor,,DEM,Tom Cool,13
+Stanley,1,State Treasurer,,REP,Josh Haeder,890
+Stanley,2,State Treasurer,,REP,Josh Haeder,56
+Stanley,3,State Treasurer,,REP,Josh Haeder,72
+Stanley,1,State Treasurer,,DEM,Aaron Matson,348
+Stanley,2,State Treasurer,,DEM,Aaron Matson,7
+Stanley,3,State Treasurer,,DEM,Aaron Matson,18
+Stanley,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,894
+Stanley,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,52
+Stanley,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,68
+Stanley,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,341
+Stanley,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,9
+Stanley,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,19
+Stanley,1,Public Utilities Commissioner,,REP,Kristie Fiegen,902
+Stanley,2,Public Utilities Commissioner,,REP,Kristie Fiegen,49
+Stanley,3,Public Utilities Commissioner,,REP,Kristie Fiegen,76
+Stanley,1,Public Utilities Commissioner,,DEM,Wayne Frederick,342
+Stanley,2,Public Utilities Commissioner,,DEM,Wayne Frederick,14
+Stanley,3,Public Utilities Commissioner,,DEM,Wayne Frederick,14
+Stanley,1,State Senate,24,REP,Jeff Monroe,855
+Stanley,2,State Senate,24,REP,Jeff Monroe,56
+Stanley,3,State Senate,24,REP,Jeff Monroe,74
+Stanley,1,State Senate,24,DEM,Amanda Bachmann,417
+Stanley,2,State Senate,24,DEM,Amanda Bachmann,6
+Stanley,3,State Senate,24,DEM,Amanda Bachmann,20
+Stanley,1,State House,24,REP,Tim Rounds,790
+Stanley,2,State House,24,REP,Tim Rounds,49
+Stanley,3,State House,24,REP,Tim Rounds,66
+Stanley,1,State House,24,REP,Mary Duvall,854
+Stanley,2,State House,24,REP,Mary Duvall,50
+Stanley,3,State House,24,REP,Mary Duvall,74
+Stanley,1,State House,24,DEM,Terry Keller,415
+Stanley,2,State House,24,DEM,Terry Keller,10
+Stanley,3,State House,24,DEM,Terry Keller,18
+Stanley,1,State House,24,DEM,Brian Watterson,260
+Stanley,2,State House,24,DEM,Brian Watterson,9
+Stanley,3,State House,24,DEM,Brian Watterson,11
