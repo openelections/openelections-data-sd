@@ -1,0 +1,201 @@
+votes,district,candidate,office,county,party,precinct
+Jackson,1,U.S. House,1,LIB,George D. Hendrickson,0
+Jackson,2,U.S. House,1,LIB,George D. Hendrickson,0
+Jackson,3,U.S. House,1,LIB,George D. Hendrickson,2
+Jackson,4,U.S. House,1,LIB,George D. Hendrickson,1
+Jackson,5,U.S. House,1,LIB,George D. Hendrickson,1
+Jackson,6,U.S. House,1,LIB,George D. Hendrickson,1
+Jackson,7,U.S. House,1,LIB,George D. Hendrickson,2
+Jackson,8,U.S. House,1,LIB,George D. Hendrickson,0
+Jackson,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",31
+Jackson,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",78
+Jackson,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",154
+Jackson,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",94
+Jackson,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",56
+Jackson,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",73
+Jackson,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",48
+Jackson,8,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",41
+Jackson,1,U.S. House,1,DEM,Tim Bjorkman,2
+Jackson,2,U.S. House,1,DEM,Tim Bjorkman,16
+Jackson,3,U.S. House,1,DEM,Tim Bjorkman,46
+Jackson,4,U.S. House,1,DEM,Tim Bjorkman,24
+Jackson,5,U.S. House,1,DEM,Tim Bjorkman,13
+Jackson,6,U.S. House,1,DEM,Tim Bjorkman,29
+Jackson,7,U.S. House,1,DEM,Tim Bjorkman,204
+Jackson,8,U.S. House,1,DEM,Tim Bjorkman,36
+Jackson,1,U.S. House,1,IND,Ron Wieczorek,0
+Jackson,2,U.S. House,1,IND,Ron Wieczorek,1
+Jackson,3,U.S. House,1,IND,Ron Wieczorek,4
+Jackson,4,U.S. House,1,IND,Ron Wieczorek,7
+Jackson,5,U.S. House,1,IND,Ron Wieczorek,1
+Jackson,6,U.S. House,1,IND,Ron Wieczorek,0
+Jackson,7,U.S. House,1,IND,Ron Wieczorek,5
+Jackson,8,U.S. House,1,IND,Ron Wieczorek,2
+Jackson,1,Governor,,LIB,Kurt Evans,0
+Jackson,2,Governor,,LIB,Kurt Evans,0
+Jackson,3,Governor,,LIB,Kurt Evans,4
+Jackson,4,Governor,,LIB,Kurt Evans,4
+Jackson,5,Governor,,LIB,Kurt Evans,4
+Jackson,6,Governor,,LIB,Kurt Evans,3
+Jackson,7,Governor,,LIB,Kurt Evans,4
+Jackson,8,Governor,,LIB,Kurt Evans,1
+Jackson,1,Governor,,REP,Kristi Noem,30
+Jackson,2,Governor,,REP,Kristi Noem,73
+Jackson,3,Governor,,REP,Kristi Noem,146
+Jackson,4,Governor,,REP,Kristi Noem,77
+Jackson,5,Governor,,REP,Kristi Noem,47
+Jackson,6,Governor,,REP,Kristi Noem,62
+Jackson,7,Governor,,REP,Kristi Noem,46
+Jackson,8,Governor,,REP,Kristi Noem,32
+Jackson,1,Governor,,DEM,Billie Sutton,2
+Jackson,2,Governor,,DEM,Billie Sutton,23
+Jackson,3,Governor,,DEM,Billie Sutton,64
+Jackson,4,Governor,,DEM,Billie Sutton,47
+Jackson,5,Governor,,DEM,Billie Sutton,20
+Jackson,6,Governor,,DEM,Billie Sutton,41
+Jackson,7,Governor,,DEM,Billie Sutton,211
+Jackson,8,Governor,,DEM,Billie Sutton,46
+Jackson,1,Secretary of State,,REP,Steve Barnett,30
+Jackson,2,Secretary of State,,REP,Steve Barnett,72
+Jackson,3,Secretary of State,,REP,Steve Barnett,172
+Jackson,4,Secretary of State,,REP,Steve Barnett,101
+Jackson,5,Secretary of State,,REP,Steve Barnett,62
+Jackson,6,Secretary of State,,REP,Steve Barnett,75
+Jackson,7,Secretary of State,,REP,Steve Barnett,44
+Jackson,8,Secretary of State,,REP,Steve Barnett,47
+Jackson,1,Secretary of State,,DEM,Alexandra Frederick,3
+Jackson,2,Secretary of State,,DEM,Alexandra Frederick,17
+Jackson,3,Secretary of State,,DEM,Alexandra Frederick,28
+Jackson,4,Secretary of State,,DEM,Alexandra Frederick,23
+Jackson,5,Secretary of State,,DEM,Alexandra Frederick,7
+Jackson,6,Secretary of State,,DEM,Alexandra Frederick,28
+Jackson,7,Secretary of State,,DEM,Alexandra Frederick,214
+Jackson,8,Secretary of State,,DEM,Alexandra Frederick,32
+Jackson,1,Attorney General,,REP,Jason Ravnsborg,30
+Jackson,2,Attorney General,,REP,Jason Ravnsborg,68
+Jackson,3,Attorney General,,REP,Jason Ravnsborg,149
+Jackson,4,Attorney General,,REP,Jason Ravnsborg,85
+Jackson,5,Attorney General,,REP,Jason Ravnsborg,60
+Jackson,6,Attorney General,,REP,Jason Ravnsborg,68
+Jackson,7,Attorney General,,REP,Jason Ravnsborg,39
+Jackson,8,Attorney General,,REP,Jason Ravnsborg,32
+Jackson,1,Attorney General,,DEM,Randy Seiler,3
+Jackson,2,Attorney General,,DEM,Randy Seiler,20
+Jackson,3,Attorney General,,DEM,Randy Seiler,52
+Jackson,4,Attorney General,,DEM,Randy Seiler,40
+Jackson,5,Attorney General,,DEM,Randy Seiler,9
+Jackson,6,Attorney General,,DEM,Randy Seiler,36
+Jackson,7,Attorney General,,DEM,Randy Seiler,218
+Jackson,8,Attorney General,,DEM,Randy Seiler,47
+Jackson,1,State Auditor,,REP,Rich Sattgast,28
+Jackson,2,State Auditor,,REP,Rich Sattgast,67
+Jackson,3,State Auditor,,REP,Rich Sattgast,167
+Jackson,4,State Auditor,,REP,Rich Sattgast,98
+Jackson,5,State Auditor,,REP,Rich Sattgast,59
+Jackson,6,State Auditor,,REP,Rich Sattgast,70
+Jackson,7,State Auditor,,REP,Rich Sattgast,42
+Jackson,8,State Auditor,,REP,Rich Sattgast,37
+Jackson,1,State Auditor,,DEM,Tom Cool,4
+Jackson,2,State Auditor,,DEM,Tom Cool,18
+Jackson,3,State Auditor,,DEM,Tom Cool,33
+Jackson,4,State Auditor,,DEM,Tom Cool,22
+Jackson,5,State Auditor,,DEM,Tom Cool,8
+Jackson,6,State Auditor,,DEM,Tom Cool,31
+Jackson,7,State Auditor,,DEM,Tom Cool,208
+Jackson,8,State Auditor,,DEM,Tom Cool,39
+Jackson,1,State Treasurer,,REP,Josh Haeder,28
+Jackson,2,State Treasurer,,REP,Josh Haeder,71
+Jackson,3,State Treasurer,,REP,Josh Haeder,161
+Jackson,4,State Treasurer,,REP,Josh Haeder,98
+Jackson,5,State Treasurer,,REP,Josh Haeder,62
+Jackson,6,State Treasurer,,REP,Josh Haeder,67
+Jackson,7,State Treasurer,,REP,Josh Haeder,43
+Jackson,8,State Treasurer,,REP,Josh Haeder,36
+Jackson,1,State Treasurer,,DEM,Aaron Matson,4
+Jackson,2,State Treasurer,,DEM,Aaron Matson,16
+Jackson,3,State Treasurer,,DEM,Aaron Matson,32
+Jackson,4,State Treasurer,,DEM,Aaron Matson,25
+Jackson,5,State Treasurer,,DEM,Aaron Matson,7
+Jackson,6,State Treasurer,,DEM,Aaron Matson,34
+Jackson,7,State Treasurer,,DEM,Aaron Matson,208
+Jackson,8,State Treasurer,,DEM,Aaron Matson,41
+Jackson,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,28
+Jackson,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,74
+Jackson,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,168
+Jackson,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,99
+Jackson,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,60
+Jackson,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,70
+Jackson,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,43
+Jackson,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,38
+Jackson,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,4
+Jackson,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,16
+Jackson,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,27
+Jackson,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,23
+Jackson,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,10
+Jackson,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,32
+Jackson,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,211
+Jackson,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,40
+Jackson,1,Public Utilities Commissioner,,REP,Kristie Fiegen,28
+Jackson,2,Public Utilities Commissioner,,REP,Kristie Fiegen,71
+Jackson,3,Public Utilities Commissioner,,REP,Kristie Fiegen,164
+Jackson,4,Public Utilities Commissioner,,REP,Kristie Fiegen,97
+Jackson,5,Public Utilities Commissioner,,REP,Kristie Fiegen,60
+Jackson,6,Public Utilities Commissioner,,REP,Kristie Fiegen,69
+Jackson,7,Public Utilities Commissioner,,REP,Kristie Fiegen,39
+Jackson,8,Public Utilities Commissioner,,REP,Kristie Fiegen,46
+Jackson,1,Public Utilities Commissioner,,DEM,Wayne Frederick,3
+Jackson,2,Public Utilities Commissioner,,DEM,Wayne Frederick,15
+Jackson,3,Public Utilities Commissioner,,DEM,Wayne Frederick,31
+Jackson,4,Public Utilities Commissioner,,DEM,Wayne Frederick,24
+Jackson,5,Public Utilities Commissioner,,DEM,Wayne Frederick,8
+Jackson,6,Public Utilities Commissioner,,DEM,Wayne Frederick,32
+Jackson,7,Public Utilities Commissioner,,DEM,Wayne Frederick,214
+Jackson,8,Public Utilities Commissioner,,DEM,Wayne Frederick,29
+Jackson,1,State Senate,27,REP,Bill Hines,29
+Jackson,2,State Senate,27,REP,Bill Hines,77
+Jackson,3,State Senate,27,REP,Bill Hines,180
+Jackson,4,State Senate,27,REP,Bill Hines,95
+Jackson,5,State Senate,27,REP,Bill Hines,64
+Jackson,6,State Senate,27,REP,Bill Hines,73
+Jackson,7,State Senate,27,REP,Bill Hines,43
+Jackson,8,State Senate,27,REP,Bill Hines,48
+Jackson,1,State Senate,27,DEM,Red Dawn Foster,3
+Jackson,2,State Senate,27,DEM,Red Dawn Foster,13
+Jackson,3,State Senate,27,DEM,Red Dawn Foster,23
+Jackson,4,State Senate,27,DEM,Red Dawn Foster,29
+Jackson,5,State Senate,27,DEM,Red Dawn Foster,6
+Jackson,6,State Senate,27,DEM,Red Dawn Foster,32
+Jackson,7,State Senate,27,DEM,Red Dawn Foster,217
+Jackson,8,State Senate,27,DEM,Red Dawn Foster,30
+Jackson,1,State House,27,REP,Steve Livermont,25
+Jackson,2,State House,27,REP,Steve Livermont,75
+Jackson,3,State House,27,REP,Steve Livermont,190
+Jackson,4,State House,27,REP,Steve Livermont,98
+Jackson,5,State House,27,REP,Steve Livermont,65
+Jackson,6,State House,27,REP,Steve Livermont,82
+Jackson,7,State House,27,REP,Steve Livermont,51
+Jackson,8,State House,27,REP,Steve Livermont,50
+Jackson,1,State House,27,REP,Elizabeth May,28
+Jackson,2,State House,27,REP,Elizabeth May,70
+Jackson,3,State House,27,REP,Elizabeth May,174
+Jackson,4,State House,27,REP,Elizabeth May,104
+Jackson,5,State House,27,REP,Elizabeth May,62
+Jackson,6,State House,27,REP,Elizabeth May,72
+Jackson,7,State House,27,REP,Elizabeth May,53
+Jackson,8,State House,27,REP,Elizabeth May,51
+Jackson,1,State House,27,DEM,Margaret Ross,3
+Jackson,2,State House,27,DEM,Margaret Ross,15
+Jackson,3,State House,27,DEM,Margaret Ross,17
+Jackson,4,State House,27,DEM,Margaret Ross,15
+Jackson,5,State House,27,DEM,Margaret Ross,5
+Jackson,6,State House,27,DEM,Margaret Ross,21
+Jackson,7,State House,27,DEM,Margaret Ross,159
+Jackson,8,State House,27,DEM,Margaret Ross,20
+Jackson,1,State House,27,DEM,Peri Pourier,1
+Jackson,2,State House,27,DEM,Peri Pourier,15
+Jackson,3,State House,27,DEM,Peri Pourier,14
+Jackson,4,State House,27,DEM,Peri Pourier,21
+Jackson,5,State House,27,DEM,Peri Pourier,3
+Jackson,6,State House,27,DEM,Peri Pourier,25
+Jackson,7,State House,27,DEM,Peri Pourier,170
+Jackson,8,State House,27,DEM,Peri Pourier,25

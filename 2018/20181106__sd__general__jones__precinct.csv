@@ -1,0 +1,70 @@
+votes,district,candidate,office,county,party,precinct
+Jones,1,U.S. House,1,LIB,George D. Hendrickson,5
+Jones,3,U.S. House,1,LIB,George D. Hendrickson,4
+Jones,5,U.S. House,1,LIB,George D. Hendrickson,2
+Jones,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",155
+Jones,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",137
+Jones,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",128
+Jones,1,U.S. House,1,DEM,Tim Bjorkman,33
+Jones,3,U.S. House,1,DEM,Tim Bjorkman,35
+Jones,5,U.S. House,1,DEM,Tim Bjorkman,26
+Jones,1,U.S. House,1,IND,Ron Wieczorek,7
+Jones,3,U.S. House,1,IND,Ron Wieczorek,8
+Jones,5,U.S. House,1,IND,Ron Wieczorek,2
+Jones,1,Governor,,LIB,Kurt Evans,7
+Jones,3,Governor,,LIB,Kurt Evans,5
+Jones,5,Governor,,LIB,Kurt Evans,0
+Jones,1,Governor,,REP,Kristi Noem,130
+Jones,3,Governor,,REP,Kristi Noem,110
+Jones,5,Governor,,REP,Kristi Noem,121
+Jones,1,Governor,,DEM,Billie Sutton,64
+Jones,3,Governor,,DEM,Billie Sutton,69
+Jones,5,Governor,,DEM,Billie Sutton,40
+Jones,1,Secretary of State,,REP,Steve Barnett,153
+Jones,3,Secretary of State,,REP,Steve Barnett,152
+Jones,5,Secretary of State,,REP,Steve Barnett,134
+Jones,1,Secretary of State,,DEM,Alexandra Frederick,35
+Jones,3,Secretary of State,,DEM,Alexandra Frederick,29
+Jones,5,Secretary of State,,DEM,Alexandra Frederick,22
+Jones,1,Attorney General,,REP,Jason Ravnsborg,142
+Jones,3,Attorney General,,REP,Jason Ravnsborg,130
+Jones,5,Attorney General,,REP,Jason Ravnsborg,118
+Jones,1,Attorney General,,DEM,Randy Seiler,47
+Jones,3,Attorney General,,DEM,Randy Seiler,46
+Jones,5,Attorney General,,DEM,Randy Seiler,37
+Jones,1,State Auditor,,REP,Rich Sattgast,151
+Jones,3,State Auditor,,REP,Rich Sattgast,145
+Jones,5,State Auditor,,REP,Rich Sattgast,132
+Jones,1,State Auditor,,DEM,Tom Cool,36
+Jones,3,State Auditor,,DEM,Tom Cool,25
+Jones,5,State Auditor,,DEM,Tom Cool,22
+Jones,1,State Treasurer,,REP,Josh Haeder,150
+Jones,3,State Treasurer,,REP,Josh Haeder,138
+Jones,5,State Treasurer,,REP,Josh Haeder,126
+Jones,1,State Treasurer,,DEM,Aaron Matson,34
+Jones,3,State Treasurer,,DEM,Aaron Matson,30
+Jones,5,State Treasurer,,DEM,Aaron Matson,27
+Jones,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,149
+Jones,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,142
+Jones,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,123
+Jones,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,33
+Jones,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,25
+Jones,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,28
+Jones,1,Public Utilities Commissioner,,REP,Kristie Fiegen,157
+Jones,3,Public Utilities Commissioner,,REP,Kristie Fiegen,139
+Jones,5,Public Utilities Commissioner,,REP,Kristie Fiegen,128
+Jones,1,Public Utilities Commissioner,,DEM,Wayne Frederick,30
+Jones,3,Public Utilities Commissioner,,DEM,Wayne Frederick,32
+Jones,5,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Jones,1,State Senate,26,REP,Joel Koskan,143
+Jones,3,State Senate,26,REP,Joel Koskan,129
+Jones,5,State Senate,26,REP,Joel Koskan,122
+Jones,1,State Senate,26,DEM,Troy Heinert,52
+Jones,3,State Senate,26,DEM,Troy Heinert,48
+Jones,5,State Senate,26,DEM,Troy Heinert,35
+Jones,1,State House,26B,REP,Rebecca Reimer,146
+Jones,3,State House,26B,REP,Rebecca Reimer,135
+Jones,5,State House,26B,REP,Rebecca Reimer,116
+Jones,1,State House,26B,DEM,Debra Smith,35
+Jones,3,State House,26B,DEM,Debra Smith,30
+Jones,5,State House,26B,DEM,Debra Smith,37

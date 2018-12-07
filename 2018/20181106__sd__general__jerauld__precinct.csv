@@ -1,0 +1,126 @@
+votes,district,candidate,office,county,party,precinct
+Jerauld,1,U.S. House,1,LIB,George D. Hendrickson,3
+Jerauld,2,U.S. House,1,LIB,George D. Hendrickson,2
+Jerauld,3,U.S. House,1,LIB,George D. Hendrickson,2
+Jerauld,4,U.S. House,1,LIB,George D. Hendrickson,0
+Jerauld,5,U.S. House,1,LIB,George D. Hendrickson,1
+Jerauld,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",264
+Jerauld,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",94
+Jerauld,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",90
+Jerauld,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",48
+Jerauld,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",71
+Jerauld,1,U.S. House,1,DEM,Tim Bjorkman,164
+Jerauld,2,U.S. House,1,DEM,Tim Bjorkman,47
+Jerauld,3,U.S. House,1,DEM,Tim Bjorkman,37
+Jerauld,4,U.S. House,1,DEM,Tim Bjorkman,31
+Jerauld,5,U.S. House,1,DEM,Tim Bjorkman,33
+Jerauld,1,U.S. House,1,IND,Ron Wieczorek,11
+Jerauld,2,U.S. House,1,IND,Ron Wieczorek,1
+Jerauld,3,U.S. House,1,IND,Ron Wieczorek,3
+Jerauld,4,U.S. House,1,IND,Ron Wieczorek,1
+Jerauld,5,U.S. House,1,IND,Ron Wieczorek,4
+Jerauld,1,Governor,,LIB,Kurt Evans,6
+Jerauld,2,Governor,,LIB,Kurt Evans,0
+Jerauld,3,Governor,,LIB,Kurt Evans,3
+Jerauld,4,Governor,,LIB,Kurt Evans,0
+Jerauld,5,Governor,,LIB,Kurt Evans,3
+Jerauld,1,Governor,,REP,Kristi Noem,217
+Jerauld,2,Governor,,REP,Kristi Noem,90
+Jerauld,3,Governor,,REP,Kristi Noem,75
+Jerauld,4,Governor,,REP,Kristi Noem,41
+Jerauld,5,Governor,,REP,Kristi Noem,55
+Jerauld,1,Governor,,DEM,Billie Sutton,225
+Jerauld,2,Governor,,DEM,Billie Sutton,59
+Jerauld,3,Governor,,DEM,Billie Sutton,55
+Jerauld,4,Governor,,DEM,Billie Sutton,42
+Jerauld,5,Governor,,DEM,Billie Sutton,52
+Jerauld,1,Secretary of State,,REP,Steve Barnett,278
+Jerauld,2,Secretary of State,,REP,Steve Barnett,106
+Jerauld,3,Secretary of State,,REP,Steve Barnett,91
+Jerauld,4,Secretary of State,,REP,Steve Barnett,52
+Jerauld,5,Secretary of State,,REP,Steve Barnett,72
+Jerauld,1,Secretary of State,,DEM,Alexandra Frederick,140
+Jerauld,2,Secretary of State,,DEM,Alexandra Frederick,37
+Jerauld,3,Secretary of State,,DEM,Alexandra Frederick,37
+Jerauld,4,Secretary of State,,DEM,Alexandra Frederick,27
+Jerauld,5,Secretary of State,,DEM,Alexandra Frederick,28
+Jerauld,1,Attorney General,,REP,Jason Ravnsborg,219
+Jerauld,2,Attorney General,,REP,Jason Ravnsborg,80
+Jerauld,3,Attorney General,,REP,Jason Ravnsborg,73
+Jerauld,4,Attorney General,,REP,Jason Ravnsborg,44
+Jerauld,5,Attorney General,,REP,Jason Ravnsborg,59
+Jerauld,1,Attorney General,,DEM,Randy Seiler,205
+Jerauld,2,Attorney General,,DEM,Randy Seiler,62
+Jerauld,3,Attorney General,,DEM,Randy Seiler,49
+Jerauld,4,Attorney General,,DEM,Randy Seiler,33
+Jerauld,5,Attorney General,,DEM,Randy Seiler,43
+Jerauld,1,State Auditor,,REP,Rich Sattgast,275
+Jerauld,2,State Auditor,,REP,Rich Sattgast,103
+Jerauld,3,State Auditor,,REP,Rich Sattgast,94
+Jerauld,4,State Auditor,,REP,Rich Sattgast,48
+Jerauld,5,State Auditor,,REP,Rich Sattgast,67
+Jerauld,1,State Auditor,,DEM,Tom Cool,140
+Jerauld,2,State Auditor,,DEM,Tom Cool,37
+Jerauld,3,State Auditor,,DEM,Tom Cool,31
+Jerauld,4,State Auditor,,DEM,Tom Cool,26
+Jerauld,5,State Auditor,,DEM,Tom Cool,30
+Jerauld,1,State Treasurer,,REP,Josh Haeder,277
+Jerauld,2,State Treasurer,,REP,Josh Haeder,106
+Jerauld,3,State Treasurer,,REP,Josh Haeder,98
+Jerauld,4,State Treasurer,,REP,Josh Haeder,47
+Jerauld,5,State Treasurer,,REP,Josh Haeder,67
+Jerauld,1,State Treasurer,,DEM,Aaron Matson,145
+Jerauld,2,State Treasurer,,DEM,Aaron Matson,34
+Jerauld,3,State Treasurer,,DEM,Aaron Matson,26
+Jerauld,4,State Treasurer,,DEM,Aaron Matson,30
+Jerauld,5,State Treasurer,,DEM,Aaron Matson,31
+Jerauld,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,249
+Jerauld,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,98
+Jerauld,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,73
+Jerauld,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,41
+Jerauld,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,61
+Jerauld,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,160
+Jerauld,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,40
+Jerauld,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,45
+Jerauld,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,33
+Jerauld,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,32
+Jerauld,1,Public Utilities Commissioner,,REP,Kristie Fiegen,275
+Jerauld,2,Public Utilities Commissioner,,REP,Kristie Fiegen,106
+Jerauld,3,Public Utilities Commissioner,,REP,Kristie Fiegen,75
+Jerauld,4,Public Utilities Commissioner,,REP,Kristie Fiegen,49
+Jerauld,5,Public Utilities Commissioner,,REP,Kristie Fiegen,65
+Jerauld,1,Public Utilities Commissioner,,DEM,Wayne Frederick,141
+Jerauld,2,Public Utilities Commissioner,,DEM,Wayne Frederick,37
+Jerauld,3,Public Utilities Commissioner,,DEM,Wayne Frederick,43
+Jerauld,4,Public Utilities Commissioner,,DEM,Wayne Frederick,26
+Jerauld,5,Public Utilities Commissioner,,DEM,Wayne Frederick,30
+Jerauld,1,State Senate,20,REP,Joshua Klumb,281
+Jerauld,2,State Senate,20,REP,Joshua Klumb,103
+Jerauld,3,State Senate,20,REP,Joshua Klumb,90
+Jerauld,4,State Senate,20,REP,Joshua Klumb,49
+Jerauld,5,State Senate,20,REP,Joshua Klumb,70
+Jerauld,1,State Senate,20,DEM,Dan Miller,145
+Jerauld,2,State Senate,20,DEM,Dan Miller,39
+Jerauld,3,State Senate,20,DEM,Dan Miller,32
+Jerauld,4,State Senate,20,DEM,Dan Miller,27
+Jerauld,5,State Senate,20,DEM,Dan Miller,28
+Jerauld,1,State House,20,REP,Paul R. Miskimins,230
+Jerauld,2,State House,20,REP,Paul R. Miskimins,80
+Jerauld,3,State House,20,REP,Paul R. Miskimins,61
+Jerauld,4,State House,20,REP,Paul R. Miskimins,37
+Jerauld,5,State House,20,REP,Paul R. Miskimins,57
+Jerauld,1,State House,20,REP,Lance Koth,232
+Jerauld,2,State House,20,REP,Lance Koth,88
+Jerauld,3,State House,20,REP,Lance Koth,58
+Jerauld,4,State House,20,REP,Lance Koth,39
+Jerauld,5,State House,20,REP,Lance Koth,64
+Jerauld,1,State House,20,DEM,Ione Klinger,145
+Jerauld,2,State House,20,DEM,Ione Klinger,49
+Jerauld,3,State House,20,DEM,Ione Klinger,21
+Jerauld,4,State House,20,DEM,Ione Klinger,27
+Jerauld,5,State House,20,DEM,Ione Klinger,29
+Jerauld,1,State House,20,DEM,James Schorzmann,160
+Jerauld,2,State House,20,DEM,James Schorzmann,54
+Jerauld,3,State House,20,DEM,James Schorzmann,79
+Jerauld,4,State House,20,DEM,James Schorzmann,28
+Jerauld,5,State House,20,DEM,James Schorzmann,30
