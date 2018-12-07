@@ -1,0 +1,131 @@
+county,precinct,office,district,party,candidate,votes
+Douglas,1,U.S. House,1,LIB,George D. Hendrickson,2
+Douglas,2,U.S. House,1,LIB,George D. Hendrickson,0
+Douglas,3,U.S. House,1,LIB,George D. Hendrickson,4
+Douglas,4,U.S. House,1,LIB,George D. Hendrickson,5
+Douglas,5,U.S. House,1,LIB,George D. Hendrickson,2
+Douglas,1,U.S. House,1,REP,Dusty Johnson,288
+Douglas,2,U.S. House,1,REP,Dusty Johnson,227
+Douglas,3,U.S. House,1,REP,Dusty Johnson,182
+Douglas,4,U.S. House,1,REP,Dusty Johnson,203
+Douglas,5,U.S. House,1,REP,Dusty Johnson,262
+Douglas,1,U.S. House,1,DEM,Tim Bjorkman,42
+Douglas,2,U.S. House,1,DEM,Tim Bjorkman,53
+Douglas,3,U.S. House,1,DEM,Tim Bjorkman,58
+Douglas,4,U.S. House,1,DEM,Tim Bjorkman,72
+Douglas,5,U.S. House,1,DEM,Tim Bjorkman,40
+Douglas,1,U.S. House,1,IND,Ron Wieczorek,14
+Douglas,2,U.S. House,1,IND,Ron Wieczorek,8
+Douglas,3,U.S. House,1,IND,Ron Wieczorek,9
+Douglas,4,U.S. House,1,IND,Ron Wieczorek,14
+Douglas,5,U.S. House,1,IND,Ron Wieczorek,9
+Douglas,1,Governor,,LIB,Kurt Evans,4
+Douglas,2,Governor,,LIB,Kurt Evans,4
+Douglas,3,Governor,,LIB,Kurt Evans,2
+Douglas,4,Governor,,LIB,Kurt Evans,1
+Douglas,5,Governor,,LIB,Kurt Evans,2
+Douglas,1,Governor,,REP,Kristi Noem,288
+Douglas,2,Governor,,REP,Kristi Noem,204
+Douglas,3,Governor,,REP,Kristi Noem,182
+Douglas,4,Governor,,REP,Kristi Noem,192
+Douglas,5,Governor,,REP,Kristi Noem,254
+Douglas,1,Governor,,DEM,Billie Sutton,42
+Douglas,2,Governor,,DEM,Billie Sutton,87
+Douglas,3,Governor,,DEM,Billie Sutton,70
+Douglas,4,Governor,,DEM,Billie Sutton,106
+Douglas,5,Governor,,DEM,Billie Sutton,58
+Douglas,1,Secretary of State,,REP,Steve Barnett,311
+Douglas,2,Secretary of State,,REP,Steve Barnett,246
+Douglas,3,Secretary of State,,REP,Steve Barnett,204
+Douglas,4,Secretary of State,,REP,Steve Barnett,229
+Douglas,5,Secretary of State,,REP,Steve Barnett,276
+Douglas,1,Secretary of State,,DEM,Alexandra Frederick,27
+Douglas,2,Secretary of State,,DEM,Alexandra Frederick,36
+Douglas,3,Secretary of State,,DEM,Alexandra Frederick,36
+Douglas,4,Secretary of State,,DEM,Alexandra Frederick,47
+Douglas,5,Secretary of State,,DEM,Alexandra Frederick,26
+Douglas,1,Attorney General,,REP,Jason Ravnsborg,292
+Douglas,2,Attorney General,,REP,Jason Ravnsborg,208
+Douglas,3,Attorney General,,REP,Jason Ravnsborg,184
+Douglas,4,Attorney General,,REP,Jason Ravnsborg,189
+Douglas,5,Attorney General,,REP,Jason Ravnsborg,243
+Douglas,1,Attorney General,,DEM,Randy Seiler,46
+Douglas,2,Attorney General,,DEM,Randy Seiler,73
+Douglas,3,Attorney General,,DEM,Randy Seiler,57
+Douglas,4,Attorney General,,DEM,Randy Seiler,94
+Douglas,5,Attorney General,,DEM,Randy Seiler,57
+Douglas,1,State Auditor,,REP,Rich Sattgast,296
+Douglas,2,State Auditor,,REP,Rich Sattgast,224
+Douglas,3,State Auditor,,REP,Rich Sattgast,198
+Douglas,4,State Auditor,,REP,Rich Sattgast,224
+Douglas,5,State Auditor,,REP,Rich Sattgast,265
+Douglas,1,State Auditor,,DEM,Tom Cool,36
+Douglas,2,State Auditor,,DEM,Tom Cool,43
+Douglas,3,State Auditor,,DEM,Tom Cool,44
+Douglas,4,State Auditor,,DEM,Tom Cool,56
+Douglas,5,State Auditor,,DEM,Tom Cool,28
+Douglas,1,State Treasurer,,REP,Josh Haeder,290
+Douglas,2,State Treasurer,,REP,Josh Haeder,217
+Douglas,3,State Treasurer,,REP,Josh Haeder,174
+Douglas,4,State Treasurer,,REP,Josh Haeder,208
+Douglas,5,State Treasurer,,REP,Josh Haeder,246
+Douglas,1,State Treasurer,,DEM,Aaron Matson,36
+Douglas,2,State Treasurer,,DEM,Aaron Matson,54
+Douglas,3,State Treasurer,,DEM,Aaron Matson,66
+Douglas,4,State Treasurer,,DEM,Aaron Matson,63
+Douglas,5,State Treasurer,,DEM,Aaron Matson,40
+Douglas,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,296
+Douglas,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,227
+Douglas,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,197
+Douglas,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,206
+Douglas,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,260
+Douglas,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,31
+Douglas,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,44
+Douglas,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,40
+Douglas,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,58
+Douglas,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,28
+Douglas,1,Public Utilities Commissioner,,REP,Kristie Fiegen,295
+Douglas,2,Public Utilities Commissioner,,REP,Kristie Fiegen,233
+Douglas,3,Public Utilities Commissioner,,REP,Kristie Fiegen,197
+Douglas,4,Public Utilities Commissioner,,REP,Kristie Fiegen,221
+Douglas,5,Public Utilities Commissioner,,REP,Kristie Fiegen,264
+Douglas,1,Public Utilities Commissioner,,DEM,Wayne Frederick,31
+Douglas,2,Public Utilities Commissioner,,DEM,Wayne Frederick,40
+Douglas,3,Public Utilities Commissioner,,DEM,Wayne Frederick,40
+Douglas,4,Public Utilities Commissioner,,DEM,Wayne Frederick,51
+Douglas,5,Public Utilities Commissioner,,DEM,Wayne Frederick,27
+Douglas,1,State Senate,19,REP,Stace Nelson,301
+Douglas,2,State Senate,19,REP,Stace Nelson,233
+Douglas,3,State Senate,19,REP,Stace Nelson,200
+Douglas,4,State Senate,19,REP,Stace Nelson,224
+Douglas,5,State Senate,19,REP,Stace Nelson,278
+Douglas,1,State Senate,19,DEM,Ardon Wek,30
+Douglas,2,State Senate,19,DEM,Ardon Wek,50
+Douglas,3,State Senate,19,DEM,Ardon Wek,44
+Douglas,4,State Senate,19,DEM,Ardon Wek,59
+Douglas,5,State Senate,19,DEM,Ardon Wek,31
+Douglas,1,State House,19,REP,Kent Peterson,268
+Douglas,2,State House,19,REP,Kent Peterson,195
+Douglas,3,State House,19,REP,Kent Peterson,173
+Douglas,4,State House,19,REP,Kent Peterson,189
+Douglas,5,State House,19,REP,Kent Peterson,229
+Douglas,1,State House,19,REP,Kyle Schoenfish,250
+Douglas,2,State House,19,REP,Kyle Schoenfish,222
+Douglas,3,State House,19,REP,Kyle Schoenfish,159
+Douglas,4,State House,19,REP,Kyle Schoenfish,207
+Douglas,5,State House,19,REP,Kyle Schoenfish,236
+Douglas,1,State House,19,DEM,John C. Koch,30
+Douglas,2,State House,19,DEM,John C. Koch,40
+Douglas,3,State House,19,DEM,John C. Koch,35
+Douglas,4,State House,19,DEM,John C. Koch,47
+Douglas,5,State House,19,DEM,John C. Koch,29
+Douglas,1,State House,19,IND,Alison Bowers,15
+Douglas,2,State House,19,IND,Alison Bowers,14
+Douglas,3,State House,19,IND,Alison Bowers,20
+Douglas,4,State House,19,IND,Alison Bowers,33
+Douglas,5,State House,19,IND,Alison Bowers,18
+Douglas,1,State House,19,IND,Roger Hofer,37
+Douglas,2,State House,19,IND,Roger Hofer,30
+Douglas,3,State House,19,IND,Roger Hofer,32
+Douglas,4,State House,19,IND,Roger Hofer,31
+Douglas,5,State House,19,IND,Roger Hofer,46
