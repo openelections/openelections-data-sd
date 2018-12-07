@@ -1,0 +1,176 @@
+county,precinct,office,district,party,candidate,votes
+Faulk,1,U.S. House,1,LIB,George D. Hendrickson,2
+Faulk,2,U.S. House,1,LIB,George D. Hendrickson,2
+Faulk,3,U.S. House,1,LIB,George D. Hendrickson,2
+Faulk,4,U.S. House,1,LIB,George D. Hendrickson,1
+Faulk,5,U.S. House,1,LIB,George D. Hendrickson,0
+Faulk,6,U.S. House,1,LIB,George D. Hendrickson,3
+Faulk,7,U.S. House,1,LIB,George D. Hendrickson,5
+Faulk,1,U.S. House,1,REP,Dusty Johnson,124
+Faulk,2,U.S. House,1,REP,Dusty Johnson,86
+Faulk,3,U.S. House,1,REP,Dusty Johnson,91
+Faulk,4,U.S. House,1,REP,Dusty Johnson,75
+Faulk,5,U.S. House,1,REP,Dusty Johnson,71
+Faulk,6,U.S. House,1,REP,Dusty Johnson,163
+Faulk,7,U.S. House,1,REP,Dusty Johnson,170
+Faulk,1,U.S. House,1,DEM,Tim Bjorkman,52
+Faulk,2,U.S. House,1,DEM,Tim Bjorkman,18
+Faulk,3,U.S. House,1,DEM,Tim Bjorkman,23
+Faulk,4,U.S. House,1,DEM,Tim Bjorkman,20
+Faulk,5,U.S. House,1,DEM,Tim Bjorkman,25
+Faulk,6,U.S. House,1,DEM,Tim Bjorkman,46
+Faulk,7,U.S. House,1,DEM,Tim Bjorkman,71
+Faulk,1,U.S. House,1,IND,Ron Wieczorek,2
+Faulk,2,U.S. House,1,IND,Ron Wieczorek,3
+Faulk,3,U.S. House,1,IND,Ron Wieczorek,2
+Faulk,4,U.S. House,1,IND,Ron Wieczorek,1
+Faulk,5,U.S. House,1,IND,Ron Wieczorek,0
+Faulk,6,U.S. House,1,IND,Ron Wieczorek,2
+Faulk,7,U.S. House,1,IND,Ron Wieczorek,5
+Faulk,1,Governor,,LIB,Kurt Evans,2
+Faulk,2,Governor,,LIB,Kurt Evans,0
+Faulk,3,Governor,,LIB,Kurt Evans,0
+Faulk,4,Governor,,LIB,Kurt Evans,1
+Faulk,5,Governor,,LIB,Kurt Evans,0
+Faulk,6,Governor,,LIB,Kurt Evans,3
+Faulk,7,Governor,,LIB,Kurt Evans,7
+Faulk,1,Governor,,REP,Kristi Noem,114
+Faulk,2,Governor,,REP,Kristi Noem,82
+Faulk,3,Governor,,REP,Kristi Noem,80
+Faulk,4,Governor,,REP,Kristi Noem,71
+Faulk,5,Governor,,REP,Kristi Noem,60
+Faulk,6,Governor,,REP,Kristi Noem,133
+Faulk,7,Governor,,REP,Kristi Noem,134
+Faulk,1,Governor,,DEM,Billie Sutton,69
+Faulk,2,Governor,,DEM,Billie Sutton,30
+Faulk,3,Governor,,DEM,Billie Sutton,36
+Faulk,4,Governor,,DEM,Billie Sutton,26
+Faulk,5,Governor,,DEM,Billie Sutton,37
+Faulk,6,Governor,,DEM,Billie Sutton,81
+Faulk,7,Governor,,DEM,Billie Sutton,109
+Faulk,1,Secretary of State,,REP,Steve Barnett,134
+Faulk,2,Secretary of State,,REP,Steve Barnett,95
+Faulk,3,Secretary of State,,REP,Steve Barnett,99
+Faulk,4,Secretary of State,,REP,Steve Barnett,78
+Faulk,5,Secretary of State,,REP,Steve Barnett,73
+Faulk,6,Secretary of State,,REP,Steve Barnett,169
+Faulk,7,Secretary of State,,REP,Steve Barnett,189
+Faulk,1,Secretary of State,,DEM,Alexandra Frederick,40
+Faulk,2,Secretary of State,,DEM,Alexandra Frederick,10
+Faulk,3,Secretary of State,,DEM,Alexandra Frederick,18
+Faulk,4,Secretary of State,,DEM,Alexandra Frederick,19
+Faulk,5,Secretary of State,,DEM,Alexandra Frederick,20
+Faulk,6,Secretary of State,,DEM,Alexandra Frederick,43
+Faulk,7,Secretary of State,,DEM,Alexandra Frederick,51
+Faulk,1,Attorney General,,REP,Jason Ravnsborg,129
+Faulk,2,Attorney General,,REP,Jason Ravnsborg,88
+Faulk,3,Attorney General,,REP,Jason Ravnsborg,86
+Faulk,4,Attorney General,,REP,Jason Ravnsborg,68
+Faulk,5,Attorney General,,REP,Jason Ravnsborg,69
+Faulk,6,Attorney General,,REP,Jason Ravnsborg,163
+Faulk,7,Attorney General,,REP,Jason Ravnsborg,156
+Faulk,1,Attorney General,,DEM,Randy Seiler,43
+Faulk,2,Attorney General,,DEM,Randy Seiler,18
+Faulk,3,Attorney General,,DEM,Randy Seiler,29
+Faulk,4,Attorney General,,DEM,Randy Seiler,28
+Faulk,5,Attorney General,,DEM,Randy Seiler,20
+Faulk,6,Attorney General,,DEM,Randy Seiler,52
+Faulk,7,Attorney General,,DEM,Randy Seiler,77
+Faulk,1,State Auditor,,REP,Rich Sattgast,122
+Faulk,2,State Auditor,,REP,Rich Sattgast,93
+Faulk,3,State Auditor,,REP,Rich Sattgast,89
+Faulk,4,State Auditor,,REP,Rich Sattgast,72
+Faulk,5,State Auditor,,REP,Rich Sattgast,71
+Faulk,6,State Auditor,,REP,Rich Sattgast,166
+Faulk,7,State Auditor,,REP,Rich Sattgast,170
+Faulk,1,State Auditor,,DEM,Tom Cool,44
+Faulk,2,State Auditor,,DEM,Tom Cool,11
+Faulk,3,State Auditor,,DEM,Tom Cool,26
+Faulk,4,State Auditor,,DEM,Tom Cool,22
+Faulk,5,State Auditor,,DEM,Tom Cool,19
+Faulk,6,State Auditor,,DEM,Tom Cool,42
+Faulk,7,State Auditor,,DEM,Tom Cool,64
+Faulk,1,State Treasurer,,REP,Josh Haeder,125
+Faulk,2,State Treasurer,,REP,Josh Haeder,85
+Faulk,3,State Treasurer,,REP,Josh Haeder,89
+Faulk,4,State Treasurer,,REP,Josh Haeder,71
+Faulk,5,State Treasurer,,REP,Josh Haeder,67
+Faulk,6,State Treasurer,,REP,Josh Haeder,155
+Faulk,7,State Treasurer,,REP,Josh Haeder,170
+Faulk,1,State Treasurer,,DEM,Aaron Matson,40
+Faulk,2,State Treasurer,,DEM,Aaron Matson,14
+Faulk,3,State Treasurer,,DEM,Aaron Matson,23
+Faulk,4,State Treasurer,,DEM,Aaron Matson,23
+Faulk,5,State Treasurer,,DEM,Aaron Matson,21
+Faulk,6,State Treasurer,,DEM,Aaron Matson,48
+Faulk,7,State Treasurer,,DEM,Aaron Matson,56
+Faulk,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,123
+Faulk,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,90
+Faulk,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,92
+Faulk,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,73
+Faulk,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,68
+Faulk,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,152
+Faulk,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,162
+Faulk,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,43
+Faulk,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,11
+Faulk,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,20
+Faulk,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,20
+Faulk,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,20
+Faulk,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,49
+Faulk,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,61
+Faulk,1,Public Utilities Commissioner,,REP,Kristie Fiegen,124
+Faulk,2,Public Utilities Commissioner,,REP,Kristie Fiegen,86
+Faulk,3,Public Utilities Commissioner,,REP,Kristie Fiegen,91
+Faulk,4,Public Utilities Commissioner,,REP,Kristie Fiegen,72
+Faulk,5,Public Utilities Commissioner,,REP,Kristie Fiegen,70
+Faulk,6,Public Utilities Commissioner,,REP,Kristie Fiegen,166
+Faulk,7,Public Utilities Commissioner,,REP,Kristie Fiegen,166
+Faulk,1,Public Utilities Commissioner,,DEM,Wayne Frederick,43
+Faulk,2,Public Utilities Commissioner,,DEM,Wayne Frederick,12
+Faulk,3,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Faulk,4,Public Utilities Commissioner,,DEM,Wayne Frederick,21
+Faulk,5,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Faulk,6,Public Utilities Commissioner,,DEM,Wayne Frederick,38
+Faulk,7,Public Utilities Commissioner,,DEM,Wayne Frederick,56
+Faulk,1,State Senate,23,REP,Justin R. Cronin,133
+Faulk,2,State Senate,23,REP,Justin R. Cronin,97
+Faulk,3,State Senate,23,REP,Justin R. Cronin,102
+Faulk,4,State Senate,23,REP,Justin R. Cronin,80
+Faulk,5,State Senate,23,REP,Justin R. Cronin,77
+Faulk,6,State Senate,23,REP,Justin R. Cronin,178
+Faulk,7,State Senate,23,REP,Justin R. Cronin,193
+Faulk,1,State Senate,23,DEM,Joe Yracheta,36
+Faulk,2,State Senate,23,DEM,Joe Yracheta,8
+Faulk,3,State Senate,23,DEM,Joe Yracheta,13
+Faulk,4,State Senate,23,DEM,Joe Yracheta,16
+Faulk,5,State Senate,23,DEM,Joe Yracheta,13
+Faulk,6,State Senate,23,DEM,Joe Yracheta,32
+Faulk,7,State Senate,23,DEM,Joe Yracheta,43
+Faulk,1,State House,23,REP,Spencer Gosch,118
+Faulk,2,State House,23,REP,Spencer Gosch,78
+Faulk,3,State House,23,REP,Spencer Gosch,85
+Faulk,4,State House,23,REP,Spencer Gosch,64
+Faulk,5,State House,23,REP,Spencer Gosch,59
+Faulk,6,State House,23,REP,Spencer Gosch,144
+Faulk,7,State House,23,REP,Spencer Gosch,152
+Faulk,1,State House,23,REP,John A. Lake,109
+Faulk,2,State House,23,REP,John A. Lake,82
+Faulk,3,State House,23,REP,John A. Lake,99
+Faulk,4,State House,23,REP,John A. Lake,68
+Faulk,5,State House,23,REP,John A. Lake,68
+Faulk,6,State House,23,REP,John A. Lake,155
+Faulk,7,State House,23,REP,John A. Lake,164
+Faulk,1,State House,23,DEM,Eleanor Iverson,42
+Faulk,2,State House,23,DEM,Eleanor Iverson,15
+Faulk,3,State House,23,DEM,Eleanor Iverson,12
+Faulk,4,State House,23,DEM,Eleanor Iverson,18
+Faulk,5,State House,23,DEM,Eleanor Iverson,19
+Faulk,6,State House,23,DEM,Eleanor Iverson,47
+Faulk,7,State House,23,DEM,Eleanor Iverson,49
+Faulk,1,State House,23,DEM,Margaret Ann Walsh,40
+Faulk,2,State House,23,DEM,Margaret Ann Walsh,9
+Faulk,3,State House,23,DEM,Margaret Ann Walsh,15
+Faulk,4,State House,23,DEM,Margaret Ann Walsh,22
+Faulk,5,State House,23,DEM,Margaret Ann Walsh,20
+Faulk,6,State House,23,DEM,Margaret Ann Walsh,41
+Faulk,7,State House,23,DEM,Margaret Ann Walsh,52
