@@ -1,0 +1,151 @@
+votes,district,candidate,office,county,party,precinct
+Edmunds,1,U.S. House,1,LIB,George D. Hendrickson,3
+Edmunds,2,U.S. House,1,LIB,George D. Hendrickson,3
+Edmunds,3,U.S. House,1,LIB,George D. Hendrickson,1
+Edmunds,4,U.S. House,1,LIB,George D. Hendrickson,1
+Edmunds,5,U.S. House,1,LIB,George D. Hendrickson,3
+Edmunds,6,U.S. House,1,LIB,George D. Hendrickson,3
+Edmunds,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",286
+Edmunds,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",224
+Edmunds,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",181
+Edmunds,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",125
+Edmunds,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",239
+Edmunds,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",92
+Edmunds,1,U.S. House,1,DEM,Tim Bjorkman,116
+Edmunds,2,U.S. House,1,DEM,Tim Bjorkman,95
+Edmunds,3,U.S. House,1,DEM,Tim Bjorkman,66
+Edmunds,4,U.S. House,1,DEM,Tim Bjorkman,87
+Edmunds,5,U.S. House,1,DEM,Tim Bjorkman,78
+Edmunds,6,U.S. House,1,DEM,Tim Bjorkman,46
+Edmunds,1,U.S. House,1,IND,Ron Wieczorek,10
+Edmunds,2,U.S. House,1,IND,Ron Wieczorek,5
+Edmunds,3,U.S. House,1,IND,Ron Wieczorek,7
+Edmunds,4,U.S. House,1,IND,Ron Wieczorek,3
+Edmunds,5,U.S. House,1,IND,Ron Wieczorek,9
+Edmunds,6,U.S. House,1,IND,Ron Wieczorek,2
+Edmunds,1,Governor,,LIB,Kurt Evans,5
+Edmunds,2,Governor,,LIB,Kurt Evans,6
+Edmunds,3,Governor,,LIB,Kurt Evans,2
+Edmunds,4,Governor,,LIB,Kurt Evans,0
+Edmunds,5,Governor,,LIB,Kurt Evans,3
+Edmunds,6,Governor,,LIB,Kurt Evans,3
+Edmunds,1,Governor,,REP,Kristi Noem,258
+Edmunds,2,Governor,,REP,Kristi Noem,180
+Edmunds,3,Governor,,REP,Kristi Noem,167
+Edmunds,4,Governor,,REP,Kristi Noem,123
+Edmunds,5,Governor,,REP,Kristi Noem,211
+Edmunds,6,Governor,,REP,Kristi Noem,79
+Edmunds,1,Governor,,DEM,Billie Sutton,154
+Edmunds,2,Governor,,DEM,Billie Sutton,143
+Edmunds,3,Governor,,DEM,Billie Sutton,95
+Edmunds,4,Governor,,DEM,Billie Sutton,99
+Edmunds,5,Governor,,DEM,Billie Sutton,118
+Edmunds,6,Governor,,DEM,Billie Sutton,62
+Edmunds,1,Secretary of State,,REP,Steve Barnett,308
+Edmunds,2,Secretary of State,,REP,Steve Barnett,243
+Edmunds,3,Secretary of State,,REP,Steve Barnett,189
+Edmunds,4,Secretary of State,,REP,Steve Barnett,148
+Edmunds,5,Secretary of State,,REP,Steve Barnett,272
+Edmunds,6,Secretary of State,,REP,Steve Barnett,98
+Edmunds,1,Secretary of State,,DEM,Alexandra Frederick,99
+Edmunds,2,Secretary of State,,DEM,Alexandra Frederick,76
+Edmunds,3,Secretary of State,,DEM,Alexandra Frederick,54
+Edmunds,4,Secretary of State,,DEM,Alexandra Frederick,58
+Edmunds,5,Secretary of State,,DEM,Alexandra Frederick,47
+Edmunds,6,Secretary of State,,DEM,Alexandra Frederick,38
+Edmunds,1,Attorney General,,REP,Jason Ravnsborg,256
+Edmunds,2,Attorney General,,REP,Jason Ravnsborg,197
+Edmunds,3,Attorney General,,REP,Jason Ravnsborg,161
+Edmunds,4,Attorney General,,REP,Jason Ravnsborg,109
+Edmunds,5,Attorney General,,REP,Jason Ravnsborg,213
+Edmunds,6,Attorney General,,REP,Jason Ravnsborg,80
+Edmunds,1,Attorney General,,DEM,Randy Seiler,149
+Edmunds,2,Attorney General,,DEM,Randy Seiler,121
+Edmunds,3,Attorney General,,DEM,Randy Seiler,79
+Edmunds,4,Attorney General,,DEM,Randy Seiler,95
+Edmunds,5,Attorney General,,DEM,Randy Seiler,109
+Edmunds,6,Attorney General,,DEM,Randy Seiler,54
+Edmunds,1,State Auditor,,REP,Rich Sattgast,292
+Edmunds,2,State Auditor,,REP,Rich Sattgast,202
+Edmunds,3,State Auditor,,REP,Rich Sattgast,172
+Edmunds,4,State Auditor,,REP,Rich Sattgast,124
+Edmunds,5,State Auditor,,REP,Rich Sattgast,246
+Edmunds,6,State Auditor,,REP,Rich Sattgast,88
+Edmunds,1,State Auditor,,DEM,Tom Cool,101
+Edmunds,2,State Auditor,,DEM,Tom Cool,103
+Edmunds,3,State Auditor,,DEM,Tom Cool,57
+Edmunds,4,State Auditor,,DEM,Tom Cool,70
+Edmunds,5,State Auditor,,DEM,Tom Cool,63
+Edmunds,6,State Auditor,,DEM,Tom Cool,41
+Edmunds,1,State Treasurer,,REP,Josh Haeder,274
+Edmunds,2,State Treasurer,,REP,Josh Haeder,206
+Edmunds,3,State Treasurer,,REP,Josh Haeder,169
+Edmunds,4,State Treasurer,,REP,Josh Haeder,124
+Edmunds,5,State Treasurer,,REP,Josh Haeder,242
+Edmunds,6,State Treasurer,,REP,Josh Haeder,85
+Edmunds,1,State Treasurer,,DEM,Aaron Matson,115
+Edmunds,2,State Treasurer,,DEM,Aaron Matson,93
+Edmunds,3,State Treasurer,,DEM,Aaron Matson,61
+Edmunds,4,State Treasurer,,DEM,Aaron Matson,74
+Edmunds,5,State Treasurer,,DEM,Aaron Matson,67
+Edmunds,6,State Treasurer,,DEM,Aaron Matson,41
+Edmunds,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,268
+Edmunds,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,201
+Edmunds,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,161
+Edmunds,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,125
+Edmunds,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,240
+Edmunds,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,83
+Edmunds,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,119
+Edmunds,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,96
+Edmunds,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,61
+Edmunds,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,70
+Edmunds,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,68
+Edmunds,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,43
+Edmunds,1,Public Utilities Commissioner,,REP,Kristie Fiegen,289
+Edmunds,2,Public Utilities Commissioner,,REP,Kristie Fiegen,205
+Edmunds,3,Public Utilities Commissioner,,REP,Kristie Fiegen,176
+Edmunds,4,Public Utilities Commissioner,,REP,Kristie Fiegen,124
+Edmunds,5,Public Utilities Commissioner,,REP,Kristie Fiegen,245
+Edmunds,6,Public Utilities Commissioner,,REP,Kristie Fiegen,96
+Edmunds,1,Public Utilities Commissioner,,DEM,Wayne Frederick,101
+Edmunds,2,Public Utilities Commissioner,,DEM,Wayne Frederick,97
+Edmunds,3,Public Utilities Commissioner,,DEM,Wayne Frederick,55
+Edmunds,4,Public Utilities Commissioner,,DEM,Wayne Frederick,68
+Edmunds,5,Public Utilities Commissioner,,DEM,Wayne Frederick,64
+Edmunds,6,Public Utilities Commissioner,,DEM,Wayne Frederick,31
+Edmunds,1,State Senate,23,REP,Justin R. Cronin,293
+Edmunds,2,State Senate,23,REP,Justin R. Cronin,232
+Edmunds,3,State Senate,23,REP,Justin R. Cronin,189
+Edmunds,4,State Senate,23,REP,Justin R. Cronin,140
+Edmunds,5,State Senate,23,REP,Justin R. Cronin,271
+Edmunds,6,State Senate,23,REP,Justin R. Cronin,98
+Edmunds,1,State Senate,23,DEM,Joe Yracheta,100
+Edmunds,2,State Senate,23,DEM,Joe Yracheta,70
+Edmunds,3,State Senate,23,DEM,Joe Yracheta,47
+Edmunds,4,State Senate,23,DEM,Joe Yracheta,52
+Edmunds,5,State Senate,23,DEM,Joe Yracheta,43
+Edmunds,6,State Senate,23,DEM,Joe Yracheta,35
+Edmunds,1,State House,23,REP,Spencer Gosch,276
+Edmunds,2,State House,23,REP,Spencer Gosch,204
+Edmunds,3,State House,23,REP,Spencer Gosch,173
+Edmunds,4,State House,23,REP,Spencer Gosch,140
+Edmunds,5,State House,23,REP,Spencer Gosch,267
+Edmunds,6,State House,23,REP,Spencer Gosch,102
+Edmunds,1,State House,23,REP,John A. Lake,233
+Edmunds,2,State House,23,REP,John A. Lake,186
+Edmunds,3,State House,23,REP,John A. Lake,147
+Edmunds,4,State House,23,REP,John A. Lake,107
+Edmunds,5,State House,23,REP,John A. Lake,219
+Edmunds,6,State House,23,REP,John A. Lake,69
+Edmunds,1,State House,23,DEM,Eleanor Iverson,104
+Edmunds,2,State House,23,DEM,Eleanor Iverson,82
+Edmunds,3,State House,23,DEM,Eleanor Iverson,50
+Edmunds,4,State House,23,DEM,Eleanor Iverson,54
+Edmunds,5,State House,23,DEM,Eleanor Iverson,50
+Edmunds,6,State House,23,DEM,Eleanor Iverson,30
+Edmunds,1,State House,23,DEM,Margaret Ann Walsh,104
+Edmunds,2,State House,23,DEM,Margaret Ann Walsh,77
+Edmunds,3,State House,23,DEM,Margaret Ann Walsh,47
+Edmunds,4,State House,23,DEM,Margaret Ann Walsh,48
+Edmunds,5,State House,23,DEM,Margaret Ann Walsh,42
+Edmunds,6,State House,23,DEM,Margaret Ann Walsh,34

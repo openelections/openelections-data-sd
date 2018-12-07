@@ -1,0 +1,469 @@
+votes,district,candidate,office,county,party,precinct
+Grant,11,U.S. House,1,LIB,George D. Hendrickson,8
+Grant,12,U.S. House,1,LIB,George D. Hendrickson,1
+Grant,21,U.S. House,1,LIB,George D. Hendrickson,7
+Grant,22,U.S. House,1,LIB,George D. Hendrickson,8
+Grant,31,U.S. House,1,LIB,George D. Hendrickson,0
+Grant,32,U.S. House,1,LIB,George D. Hendrickson,2
+Grant,33,U.S. House,1,LIB,George D. Hendrickson,2
+Grant,41,U.S. House,1,LIB,George D. Hendrickson,3
+Grant,42,U.S. House,1,LIB,George D. Hendrickson,2
+Grant,43,U.S. House,1,LIB,George D. Hendrickson,3
+Grant,44,U.S. House,1,LIB,George D. Hendrickson,1
+Grant,45,U.S. House,1,LIB,George D. Hendrickson,6
+Grant,46,U.S. House,1,LIB,George D. Hendrickson,3
+Grant,47,U.S. House,1,LIB,George D. Hendrickson,1
+Grant,49,U.S. House,1,LIB,George D. Hendrickson,4
+Grant,52,U.S. House,1,LIB,George D. Hendrickson,5
+Grant,53,U.S. House,1,LIB,George D. Hendrickson,0
+Grant,54,U.S. House,1,LIB,George D. Hendrickson,4
+Grant,11,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",180
+Grant,12,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",44
+Grant,21,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",57
+Grant,22,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",227
+Grant,31,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",33
+Grant,32,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",60
+Grant,33,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",243
+Grant,41,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",126
+Grant,42,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",185
+Grant,43,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",237
+Grant,44,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",82
+Grant,45,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",99
+Grant,46,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",131
+Grant,47,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",167
+Grant,49,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",67
+Grant,52,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",48
+Grant,53,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",31
+Grant,54,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",104
+Grant,11,U.S. House,1,DEM,Tim Bjorkman,72
+Grant,12,U.S. House,1,DEM,Tim Bjorkman,15
+Grant,21,U.S. House,1,DEM,Tim Bjorkman,26
+Grant,22,U.S. House,1,DEM,Tim Bjorkman,108
+Grant,31,U.S. House,1,DEM,Tim Bjorkman,22
+Grant,32,U.S. House,1,DEM,Tim Bjorkman,31
+Grant,33,U.S. House,1,DEM,Tim Bjorkman,115
+Grant,41,U.S. House,1,DEM,Tim Bjorkman,89
+Grant,42,U.S. House,1,DEM,Tim Bjorkman,70
+Grant,43,U.S. House,1,DEM,Tim Bjorkman,104
+Grant,44,U.S. House,1,DEM,Tim Bjorkman,33
+Grant,45,U.S. House,1,DEM,Tim Bjorkman,48
+Grant,46,U.S. House,1,DEM,Tim Bjorkman,59
+Grant,47,U.S. House,1,DEM,Tim Bjorkman,36
+Grant,49,U.S. House,1,DEM,Tim Bjorkman,28
+Grant,52,U.S. House,1,DEM,Tim Bjorkman,17
+Grant,53,U.S. House,1,DEM,Tim Bjorkman,15
+Grant,54,U.S. House,1,DEM,Tim Bjorkman,57
+Grant,11,U.S. House,1,IND,Ron Wieczorek,9
+Grant,12,U.S. House,1,IND,Ron Wieczorek,1
+Grant,21,U.S. House,1,IND,Ron Wieczorek,1
+Grant,22,U.S. House,1,IND,Ron Wieczorek,8
+Grant,31,U.S. House,1,IND,Ron Wieczorek,2
+Grant,32,U.S. House,1,IND,Ron Wieczorek,0
+Grant,33,U.S. House,1,IND,Ron Wieczorek,3
+Grant,41,U.S. House,1,IND,Ron Wieczorek,7
+Grant,42,U.S. House,1,IND,Ron Wieczorek,8
+Grant,43,U.S. House,1,IND,Ron Wieczorek,6
+Grant,44,U.S. House,1,IND,Ron Wieczorek,2
+Grant,45,U.S. House,1,IND,Ron Wieczorek,4
+Grant,46,U.S. House,1,IND,Ron Wieczorek,5
+Grant,47,U.S. House,1,IND,Ron Wieczorek,1
+Grant,49,U.S. House,1,IND,Ron Wieczorek,0
+Grant,52,U.S. House,1,IND,Ron Wieczorek,2
+Grant,53,U.S. House,1,IND,Ron Wieczorek,1
+Grant,54,U.S. House,1,IND,Ron Wieczorek,3
+Grant,11,Governor,,LIB,Kurt Evans,9
+Grant,12,Governor,,LIB,Kurt Evans,1
+Grant,21,Governor,,LIB,Kurt Evans,5
+Grant,22,Governor,,LIB,Kurt Evans,4
+Grant,31,Governor,,LIB,Kurt Evans,2
+Grant,32,Governor,,LIB,Kurt Evans,0
+Grant,33,Governor,,LIB,Kurt Evans,2
+Grant,41,Governor,,LIB,Kurt Evans,5
+Grant,42,Governor,,LIB,Kurt Evans,1
+Grant,43,Governor,,LIB,Kurt Evans,7
+Grant,44,Governor,,LIB,Kurt Evans,0
+Grant,45,Governor,,LIB,Kurt Evans,5
+Grant,46,Governor,,LIB,Kurt Evans,0
+Grant,47,Governor,,LIB,Kurt Evans,1
+Grant,49,Governor,,LIB,Kurt Evans,2
+Grant,52,Governor,,LIB,Kurt Evans,4
+Grant,53,Governor,,LIB,Kurt Evans,0
+Grant,54,Governor,,LIB,Kurt Evans,4
+Grant,11,Governor,,REP,Kristi Noem,149
+Grant,12,Governor,,REP,Kristi Noem,32
+Grant,21,Governor,,REP,Kristi Noem,47
+Grant,22,Governor,,REP,Kristi Noem,188
+Grant,31,Governor,,REP,Kristi Noem,27
+Grant,32,Governor,,REP,Kristi Noem,54
+Grant,33,Governor,,REP,Kristi Noem,200
+Grant,41,Governor,,REP,Kristi Noem,106
+Grant,42,Governor,,REP,Kristi Noem,167
+Grant,43,Governor,,REP,Kristi Noem,218
+Grant,44,Governor,,REP,Kristi Noem,76
+Grant,45,Governor,,REP,Kristi Noem,71
+Grant,46,Governor,,REP,Kristi Noem,107
+Grant,47,Governor,,REP,Kristi Noem,128
+Grant,49,Governor,,REP,Kristi Noem,58
+Grant,52,Governor,,REP,Kristi Noem,37
+Grant,53,Governor,,REP,Kristi Noem,28
+Grant,54,Governor,,REP,Kristi Noem,87
+Grant,11,Governor,,DEM,Billie Sutton,117
+Grant,12,Governor,,DEM,Billie Sutton,29
+Grant,21,Governor,,DEM,Billie Sutton,40
+Grant,22,Governor,,DEM,Billie Sutton,162
+Grant,31,Governor,,DEM,Billie Sutton,28
+Grant,32,Governor,,DEM,Billie Sutton,39
+Grant,33,Governor,,DEM,Billie Sutton,167
+Grant,41,Governor,,DEM,Billie Sutton,116
+Grant,42,Governor,,DEM,Billie Sutton,102
+Grant,43,Governor,,DEM,Billie Sutton,127
+Grant,44,Governor,,DEM,Billie Sutton,44
+Grant,45,Governor,,DEM,Billie Sutton,84
+Grant,46,Governor,,DEM,Billie Sutton,90
+Grant,47,Governor,,DEM,Billie Sutton,77
+Grant,49,Governor,,DEM,Billie Sutton,40
+Grant,52,Governor,,DEM,Billie Sutton,31
+Grant,53,Governor,,DEM,Billie Sutton,19
+Grant,54,Governor,,DEM,Billie Sutton,76
+Grant,11,Secretary of State,,REP,Steve Barnett,180
+Grant,12,Secretary of State,,REP,Steve Barnett,42
+Grant,21,Secretary of State,,REP,Steve Barnett,63
+Grant,22,Secretary of State,,REP,Steve Barnett,225
+Grant,31,Secretary of State,,REP,Steve Barnett,38
+Grant,32,Secretary of State,,REP,Steve Barnett,62
+Grant,33,Secretary of State,,REP,Steve Barnett,254
+Grant,41,Secretary of State,,REP,Steve Barnett,122
+Grant,42,Secretary of State,,REP,Steve Barnett,187
+Grant,43,Secretary of State,,REP,Steve Barnett,241
+Grant,44,Secretary of State,,REP,Steve Barnett,85
+Grant,45,Secretary of State,,REP,Steve Barnett,96
+Grant,46,Secretary of State,,REP,Steve Barnett,138
+Grant,47,Secretary of State,,REP,Steve Barnett,159
+Grant,49,Secretary of State,,REP,Steve Barnett,62
+Grant,52,Secretary of State,,REP,Steve Barnett,45
+Grant,53,Secretary of State,,REP,Steve Barnett,31
+Grant,54,Secretary of State,,REP,Steve Barnett,104
+Grant,11,Secretary of State,,DEM,Alexandra Frederick,76
+Grant,12,Secretary of State,,DEM,Alexandra Frederick,19
+Grant,21,Secretary of State,,DEM,Alexandra Frederick,21
+Grant,22,Secretary of State,,DEM,Alexandra Frederick,105
+Grant,31,Secretary of State,,DEM,Alexandra Frederick,18
+Grant,32,Secretary of State,,DEM,Alexandra Frederick,27
+Grant,33,Secretary of State,,DEM,Alexandra Frederick,98
+Grant,41,Secretary of State,,DEM,Alexandra Frederick,90
+Grant,42,Secretary of State,,DEM,Alexandra Frederick,66
+Grant,43,Secretary of State,,DEM,Alexandra Frederick,93
+Grant,44,Secretary of State,,DEM,Alexandra Frederick,28
+Grant,45,Secretary of State,,DEM,Alexandra Frederick,48
+Grant,46,Secretary of State,,DEM,Alexandra Frederick,52
+Grant,47,Secretary of State,,DEM,Alexandra Frederick,37
+Grant,49,Secretary of State,,DEM,Alexandra Frederick,32
+Grant,52,Secretary of State,,DEM,Alexandra Frederick,22
+Grant,53,Secretary of State,,DEM,Alexandra Frederick,14
+Grant,54,Secretary of State,,DEM,Alexandra Frederick,54
+Grant,11,Attorney General,,REP,Jason Ravnsborg,166
+Grant,12,Attorney General,,REP,Jason Ravnsborg,42
+Grant,21,Attorney General,,REP,Jason Ravnsborg,59
+Grant,22,Attorney General,,REP,Jason Ravnsborg,197
+Grant,31,Attorney General,,REP,Jason Ravnsborg,35
+Grant,32,Attorney General,,REP,Jason Ravnsborg,59
+Grant,33,Attorney General,,REP,Jason Ravnsborg,209
+Grant,41,Attorney General,,REP,Jason Ravnsborg,109
+Grant,42,Attorney General,,REP,Jason Ravnsborg,167
+Grant,43,Attorney General,,REP,Jason Ravnsborg,216
+Grant,44,Attorney General,,REP,Jason Ravnsborg,72
+Grant,45,Attorney General,,REP,Jason Ravnsborg,82
+Grant,46,Attorney General,,REP,Jason Ravnsborg,117
+Grant,47,Attorney General,,REP,Jason Ravnsborg,142
+Grant,49,Attorney General,,REP,Jason Ravnsborg,62
+Grant,52,Attorney General,,REP,Jason Ravnsborg,38
+Grant,53,Attorney General,,REP,Jason Ravnsborg,27
+Grant,54,Attorney General,,REP,Jason Ravnsborg,91
+Grant,11,Attorney General,,DEM,Randy Seiler,94
+Grant,12,Attorney General,,DEM,Randy Seiler,18
+Grant,21,Attorney General,,DEM,Randy Seiler,31
+Grant,22,Attorney General,,DEM,Randy Seiler,131
+Grant,31,Attorney General,,DEM,Randy Seiler,21
+Grant,32,Attorney General,,DEM,Randy Seiler,30
+Grant,33,Attorney General,,DEM,Randy Seiler,142
+Grant,41,Attorney General,,DEM,Randy Seiler,103
+Grant,42,Attorney General,,DEM,Randy Seiler,89
+Grant,43,Attorney General,,DEM,Randy Seiler,121
+Grant,44,Attorney General,,DEM,Randy Seiler,41
+Grant,45,Attorney General,,DEM,Randy Seiler,61
+Grant,46,Attorney General,,DEM,Randy Seiler,74
+Grant,47,Attorney General,,DEM,Randy Seiler,53
+Grant,49,Attorney General,,DEM,Randy Seiler,32
+Grant,52,Attorney General,,DEM,Randy Seiler,30
+Grant,53,Attorney General,,DEM,Randy Seiler,17
+Grant,54,Attorney General,,DEM,Randy Seiler,68
+Grant,11,State Auditor,,REP,Rich Sattgast,176
+Grant,12,State Auditor,,REP,Rich Sattgast,45
+Grant,21,State Auditor,,REP,Rich Sattgast,59
+Grant,22,State Auditor,,REP,Rich Sattgast,216
+Grant,31,State Auditor,,REP,Rich Sattgast,34
+Grant,32,State Auditor,,REP,Rich Sattgast,59
+Grant,33,State Auditor,,REP,Rich Sattgast,236
+Grant,41,State Auditor,,REP,Rich Sattgast,116
+Grant,42,State Auditor,,REP,Rich Sattgast,182
+Grant,43,State Auditor,,REP,Rich Sattgast,230
+Grant,44,State Auditor,,REP,Rich Sattgast,82
+Grant,45,State Auditor,,REP,Rich Sattgast,92
+Grant,46,State Auditor,,REP,Rich Sattgast,127
+Grant,47,State Auditor,,REP,Rich Sattgast,145
+Grant,49,State Auditor,,REP,Rich Sattgast,65
+Grant,52,State Auditor,,REP,Rich Sattgast,42
+Grant,53,State Auditor,,REP,Rich Sattgast,28
+Grant,54,State Auditor,,REP,Rich Sattgast,102
+Grant,11,State Auditor,,DEM,Tom Cool,76
+Grant,12,State Auditor,,DEM,Tom Cool,17
+Grant,21,State Auditor,,DEM,Tom Cool,23
+Grant,22,State Auditor,,DEM,Tom Cool,106
+Grant,31,State Auditor,,DEM,Tom Cool,22
+Grant,32,State Auditor,,DEM,Tom Cool,26
+Grant,33,State Auditor,,DEM,Tom Cool,106
+Grant,41,State Auditor,,DEM,Tom Cool,85
+Grant,42,State Auditor,,DEM,Tom Cool,67
+Grant,43,State Auditor,,DEM,Tom Cool,95
+Grant,44,State Auditor,,DEM,Tom Cool,25
+Grant,45,State Auditor,,DEM,Tom Cool,46
+Grant,46,State Auditor,,DEM,Tom Cool,55
+Grant,47,State Auditor,,DEM,Tom Cool,46
+Grant,49,State Auditor,,DEM,Tom Cool,25
+Grant,52,State Auditor,,DEM,Tom Cool,22
+Grant,53,State Auditor,,DEM,Tom Cool,12
+Grant,54,State Auditor,,DEM,Tom Cool,50
+Grant,11,State Treasurer,,REP,Josh Haeder,168
+Grant,12,State Treasurer,,REP,Josh Haeder,42
+Grant,21,State Treasurer,,REP,Josh Haeder,57
+Grant,22,State Treasurer,,REP,Josh Haeder,209
+Grant,31,State Treasurer,,REP,Josh Haeder,29
+Grant,32,State Treasurer,,REP,Josh Haeder,57
+Grant,33,State Treasurer,,REP,Josh Haeder,228
+Grant,41,State Treasurer,,REP,Josh Haeder,105
+Grant,42,State Treasurer,,REP,Josh Haeder,175
+Grant,43,State Treasurer,,REP,Josh Haeder,226
+Grant,44,State Treasurer,,REP,Josh Haeder,78
+Grant,45,State Treasurer,,REP,Josh Haeder,82
+Grant,46,State Treasurer,,REP,Josh Haeder,119
+Grant,47,State Treasurer,,REP,Josh Haeder,145
+Grant,49,State Treasurer,,REP,Josh Haeder,59
+Grant,52,State Treasurer,,REP,Josh Haeder,43
+Grant,53,State Treasurer,,REP,Josh Haeder,28
+Grant,54,State Treasurer,,REP,Josh Haeder,91
+Grant,11,State Treasurer,,DEM,Aaron Matson,81
+Grant,12,State Treasurer,,DEM,Aaron Matson,19
+Grant,21,State Treasurer,,DEM,Aaron Matson,27
+Grant,22,State Treasurer,,DEM,Aaron Matson,107
+Grant,31,State Treasurer,,DEM,Aaron Matson,26
+Grant,32,State Treasurer,,DEM,Aaron Matson,28
+Grant,33,State Treasurer,,DEM,Aaron Matson,114
+Grant,41,State Treasurer,,DEM,Aaron Matson,98
+Grant,42,State Treasurer,,DEM,Aaron Matson,70
+Grant,43,State Treasurer,,DEM,Aaron Matson,102
+Grant,44,State Treasurer,,DEM,Aaron Matson,32
+Grant,45,State Treasurer,,DEM,Aaron Matson,55
+Grant,46,State Treasurer,,DEM,Aaron Matson,67
+Grant,47,State Treasurer,,DEM,Aaron Matson,41
+Grant,49,State Treasurer,,DEM,Aaron Matson,28
+Grant,52,State Treasurer,,DEM,Aaron Matson,21
+Grant,53,State Treasurer,,DEM,Aaron Matson,14
+Grant,54,State Treasurer,,DEM,Aaron Matson,57
+Grant,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,166
+Grant,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,41
+Grant,21,Commissioner of School and Public Lands,,REP,Ryan Brunner,61
+Grant,22,Commissioner of School and Public Lands,,REP,Ryan Brunner,205
+Grant,31,Commissioner of School and Public Lands,,REP,Ryan Brunner,32
+Grant,32,Commissioner of School and Public Lands,,REP,Ryan Brunner,54
+Grant,33,Commissioner of School and Public Lands,,REP,Ryan Brunner,229
+Grant,41,Commissioner of School and Public Lands,,REP,Ryan Brunner,108
+Grant,42,Commissioner of School and Public Lands,,REP,Ryan Brunner,173
+Grant,43,Commissioner of School and Public Lands,,REP,Ryan Brunner,226
+Grant,44,Commissioner of School and Public Lands,,REP,Ryan Brunner,74
+Grant,45,Commissioner of School and Public Lands,,REP,Ryan Brunner,84
+Grant,46,Commissioner of School and Public Lands,,REP,Ryan Brunner,120
+Grant,47,Commissioner of School and Public Lands,,REP,Ryan Brunner,146
+Grant,49,Commissioner of School and Public Lands,,REP,Ryan Brunner,61
+Grant,52,Commissioner of School and Public Lands,,REP,Ryan Brunner,42
+Grant,53,Commissioner of School and Public Lands,,REP,Ryan Brunner,29
+Grant,54,Commissioner of School and Public Lands,,REP,Ryan Brunner,94
+Grant,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,80
+Grant,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,19
+Grant,21,Commissioner of School and Public Lands,,DEM,Woody Hauser,22
+Grant,22,Commissioner of School and Public Lands,,DEM,Woody Hauser,110
+Grant,31,Commissioner of School and Public Lands,,DEM,Woody Hauser,22
+Grant,32,Commissioner of School and Public Lands,,DEM,Woody Hauser,27
+Grant,33,Commissioner of School and Public Lands,,DEM,Woody Hauser,111
+Grant,41,Commissioner of School and Public Lands,,DEM,Woody Hauser,91
+Grant,42,Commissioner of School and Public Lands,,DEM,Woody Hauser,70
+Grant,43,Commissioner of School and Public Lands,,DEM,Woody Hauser,99
+Grant,44,Commissioner of School and Public Lands,,DEM,Woody Hauser,29
+Grant,45,Commissioner of School and Public Lands,,DEM,Woody Hauser,53
+Grant,46,Commissioner of School and Public Lands,,DEM,Woody Hauser,64
+Grant,47,Commissioner of School and Public Lands,,DEM,Woody Hauser,42
+Grant,49,Commissioner of School and Public Lands,,DEM,Woody Hauser,27
+Grant,52,Commissioner of School and Public Lands,,DEM,Woody Hauser,22
+Grant,53,Commissioner of School and Public Lands,,DEM,Woody Hauser,13
+Grant,54,Commissioner of School and Public Lands,,DEM,Woody Hauser,57
+Grant,11,Public Utilities Commissioner,,REP,Kristie Fiegen,164
+Grant,12,Public Utilities Commissioner,,REP,Kristie Fiegen,46
+Grant,21,Public Utilities Commissioner,,REP,Kristie Fiegen,59
+Grant,22,Public Utilities Commissioner,,REP,Kristie Fiegen,224
+Grant,31,Public Utilities Commissioner,,REP,Kristie Fiegen,35
+Grant,32,Public Utilities Commissioner,,REP,Kristie Fiegen,56
+Grant,33,Public Utilities Commissioner,,REP,Kristie Fiegen,241
+Grant,41,Public Utilities Commissioner,,REP,Kristie Fiegen,112
+Grant,42,Public Utilities Commissioner,,REP,Kristie Fiegen,186
+Grant,43,Public Utilities Commissioner,,REP,Kristie Fiegen,229
+Grant,44,Public Utilities Commissioner,,REP,Kristie Fiegen,78
+Grant,45,Public Utilities Commissioner,,REP,Kristie Fiegen,88
+Grant,46,Public Utilities Commissioner,,REP,Kristie Fiegen,129
+Grant,47,Public Utilities Commissioner,,REP,Kristie Fiegen,155
+Grant,49,Public Utilities Commissioner,,REP,Kristie Fiegen,66
+Grant,52,Public Utilities Commissioner,,REP,Kristie Fiegen,44
+Grant,53,Public Utilities Commissioner,,REP,Kristie Fiegen,30
+Grant,54,Public Utilities Commissioner,,REP,Kristie Fiegen,95
+Grant,11,Public Utilities Commissioner,,DEM,Wayne Frederick,82
+Grant,12,Public Utilities Commissioner,,DEM,Wayne Frederick,15
+Grant,21,Public Utilities Commissioner,,DEM,Wayne Frederick,25
+Grant,22,Public Utilities Commissioner,,DEM,Wayne Frederick,101
+Grant,31,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Grant,32,Public Utilities Commissioner,,DEM,Wayne Frederick,28
+Grant,33,Public Utilities Commissioner,,DEM,Wayne Frederick,100
+Grant,41,Public Utilities Commissioner,,DEM,Wayne Frederick,92
+Grant,42,Public Utilities Commissioner,,DEM,Wayne Frederick,68
+Grant,43,Public Utilities Commissioner,,DEM,Wayne Frederick,99
+Grant,44,Public Utilities Commissioner,,DEM,Wayne Frederick,33
+Grant,45,Public Utilities Commissioner,,DEM,Wayne Frederick,49
+Grant,46,Public Utilities Commissioner,,DEM,Wayne Frederick,62
+Grant,47,Public Utilities Commissioner,,DEM,Wayne Frederick,30
+Grant,49,Public Utilities Commissioner,,DEM,Wayne Frederick,24
+Grant,52,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Grant,53,Public Utilities Commissioner,,DEM,Wayne Frederick,11
+Grant,54,Public Utilities Commissioner,,DEM,Wayne Frederick,58
+Grant,11,State Senate,4,REP,John Wiik,184
+Grant,12,State Senate,4,REP,John Wiik,47
+Grant,21,State Senate,4,REP,John Wiik,65
+Grant,22,State Senate,4,REP,John Wiik,226
+Grant,31,State Senate,4,REP,John Wiik,37
+Grant,32,State Senate,4,REP,John Wiik,62
+Grant,33,State Senate,4,REP,John Wiik,244
+Grant,41,State Senate,4,REP,John Wiik,119
+Grant,42,State Senate,4,REP,John Wiik,198
+Grant,43,State Senate,4,REP,John Wiik,226
+Grant,44,State Senate,4,REP,John Wiik,77
+Grant,45,State Senate,4,REP,John Wiik,94
+Grant,46,State Senate,4,REP,John Wiik,135
+Grant,47,State Senate,4,REP,John Wiik,147
+Grant,49,State Senate,4,REP,John Wiik,66
+Grant,52,State Senate,4,REP,John Wiik,42
+Grant,53,State Senate,4,REP,John Wiik,29
+Grant,54,State Senate,4,REP,John Wiik,94
+Grant,11,State Senate,4,DEM,Dennis Evenson,83
+Grant,12,State Senate,4,DEM,Dennis Evenson,15
+Grant,21,State Senate,4,DEM,Dennis Evenson,22
+Grant,22,State Senate,4,DEM,Dennis Evenson,117
+Grant,31,State Senate,4,DEM,Dennis Evenson,16
+Grant,32,State Senate,4,DEM,Dennis Evenson,28
+Grant,33,State Senate,4,DEM,Dennis Evenson,110
+Grant,41,State Senate,4,DEM,Dennis Evenson,100
+Grant,42,State Senate,4,DEM,Dennis Evenson,69
+Grant,43,State Senate,4,DEM,Dennis Evenson,115
+Grant,44,State Senate,4,DEM,Dennis Evenson,31
+Grant,45,State Senate,4,DEM,Dennis Evenson,57
+Grant,46,State Senate,4,DEM,Dennis Evenson,60
+Grant,47,State Senate,4,DEM,Dennis Evenson,53
+Grant,49,State Senate,4,DEM,Dennis Evenson,27
+Grant,52,State Senate,4,DEM,Dennis Evenson,29
+Grant,53,State Senate,4,DEM,Dennis Evenson,14
+Grant,54,State Senate,4,DEM,Dennis Evenson,68
+Grant,11,State House,4,LIB,Daryl Lamar Root,15
+Grant,12,State House,4,LIB,Daryl Lamar Root,0
+Grant,21,State House,4,LIB,Daryl Lamar Root,5
+Grant,22,State House,4,LIB,Daryl Lamar Root,12
+Grant,31,State House,4,LIB,Daryl Lamar Root,1
+Grant,32,State House,4,LIB,Daryl Lamar Root,3
+Grant,33,State House,4,LIB,Daryl Lamar Root,7
+Grant,41,State House,4,LIB,Daryl Lamar Root,10
+Grant,42,State House,4,LIB,Daryl Lamar Root,6
+Grant,43,State House,4,LIB,Daryl Lamar Root,8
+Grant,44,State House,4,LIB,Daryl Lamar Root,3
+Grant,45,State House,4,LIB,Daryl Lamar Root,4
+Grant,46,State House,4,LIB,Daryl Lamar Root,3
+Grant,47,State House,4,LIB,Daryl Lamar Root,4
+Grant,49,State House,4,LIB,Daryl Lamar Root,1
+Grant,52,State House,4,LIB,Daryl Lamar Root,8
+Grant,53,State House,4,LIB,Daryl Lamar Root,0
+Grant,54,State House,4,LIB,Daryl Lamar Root,8
+Grant,11,State House,4,REP,Fred Deutsch,152
+Grant,12,State House,4,REP,Fred Deutsch,45
+Grant,21,State House,4,REP,Fred Deutsch,53
+Grant,22,State House,4,REP,Fred Deutsch,203
+Grant,31,State House,4,REP,Fred Deutsch,32
+Grant,32,State House,4,REP,Fred Deutsch,59
+Grant,33,State House,4,REP,Fred Deutsch,224
+Grant,41,State House,4,REP,Fred Deutsch,103
+Grant,42,State House,4,REP,Fred Deutsch,179
+Grant,43,State House,4,REP,Fred Deutsch,222
+Grant,44,State House,4,REP,Fred Deutsch,74
+Grant,45,State House,4,REP,Fred Deutsch,87
+Grant,46,State House,4,REP,Fred Deutsch,125
+Grant,47,State House,4,REP,Fred Deutsch,135
+Grant,49,State House,4,REP,Fred Deutsch,50
+Grant,52,State House,4,REP,Fred Deutsch,38
+Grant,53,State House,4,REP,Fred Deutsch,24
+Grant,54,State House,4,REP,Fred Deutsch,80
+Grant,11,State House,4,REP,John Mills,139
+Grant,12,State House,4,REP,John Mills,34
+Grant,21,State House,4,REP,John Mills,55
+Grant,22,State House,4,REP,John Mills,170
+Grant,31,State House,4,REP,John Mills,25
+Grant,32,State House,4,REP,John Mills,46
+Grant,33,State House,4,REP,John Mills,194
+Grant,41,State House,4,REP,John Mills,95
+Grant,42,State House,4,REP,John Mills,149
+Grant,43,State House,4,REP,John Mills,165
+Grant,44,State House,4,REP,John Mills,56
+Grant,45,State House,4,REP,John Mills,75
+Grant,46,State House,4,REP,John Mills,114
+Grant,47,State House,4,REP,John Mills,121
+Grant,49,State House,4,REP,John Mills,42
+Grant,52,State House,4,REP,John Mills,30
+Grant,53,State House,4,REP,John Mills,19
+Grant,54,State House,4,REP,John Mills,79
+Grant,11,State House,4,DEM,Jim Chilson,62
+Grant,12,State House,4,DEM,Jim Chilson,13
+Grant,21,State House,4,DEM,Jim Chilson,18
+Grant,22,State House,4,DEM,Jim Chilson,89
+Grant,31,State House,4,DEM,Jim Chilson,15
+Grant,32,State House,4,DEM,Jim Chilson,17
+Grant,33,State House,4,DEM,Jim Chilson,88
+Grant,41,State House,4,DEM,Jim Chilson,70
+Grant,42,State House,4,DEM,Jim Chilson,62
+Grant,43,State House,4,DEM,Jim Chilson,76
+Grant,44,State House,4,DEM,Jim Chilson,32
+Grant,45,State House,4,DEM,Jim Chilson,45
+Grant,46,State House,4,DEM,Jim Chilson,48
+Grant,47,State House,4,DEM,Jim Chilson,34
+Grant,49,State House,4,DEM,Jim Chilson,20
+Grant,52,State House,4,DEM,Jim Chilson,19
+Grant,53,State House,4,DEM,Jim Chilson,12
+Grant,54,State House,4,DEM,Jim Chilson,46
+Grant,11,State House,4,DEM,Kathy Tyler,104
+Grant,12,State House,4,DEM,Kathy Tyler,18
+Grant,21,State House,4,DEM,Kathy Tyler,36
+Grant,22,State House,4,DEM,Kathy Tyler,140
+Grant,31,State House,4,DEM,Kathy Tyler,30
+Grant,32,State House,4,DEM,Kathy Tyler,36
+Grant,33,State House,4,DEM,Kathy Tyler,141
+Grant,41,State House,4,DEM,Kathy Tyler,114
+Grant,42,State House,4,DEM,Kathy Tyler,89
+Grant,43,State House,4,DEM,Kathy Tyler,136
+Grant,44,State House,4,DEM,Kathy Tyler,36
+Grant,45,State House,4,DEM,Kathy Tyler,74
+Grant,46,State House,4,DEM,Kathy Tyler,74
+Grant,47,State House,4,DEM,Kathy Tyler,75
+Grant,49,State House,4,DEM,Kathy Tyler,42
+Grant,52,State House,4,DEM,Kathy Tyler,32
+Grant,53,State House,4,DEM,Kathy Tyler,20
+Grant,54,State House,4,DEM,Kathy Tyler,75

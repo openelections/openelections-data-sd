@@ -1,0 +1,323 @@
+votes,district,candidate,office,county,party,precinct
+Day,1,U.S. House,1,LIB,George D. Hendrickson,6
+Day,2,U.S. House,1,LIB,George D. Hendrickson,3
+Day,3,U.S. House,1,LIB,George D. Hendrickson,0
+Day,4,U.S. House,1,LIB,George D. Hendrickson,4
+Day,5,U.S. House,1,LIB,George D. Hendrickson,2
+Day,6,U.S. House,1,LIB,George D. Hendrickson,2
+Day,7,U.S. House,1,LIB,George D. Hendrickson,4
+Day,8,U.S. House,1,LIB,George D. Hendrickson,2
+Day,9,U.S. House,1,LIB,George D. Hendrickson,0
+Day,10,U.S. House,1,LIB,George D. Hendrickson,1
+Day,11,U.S. House,1,LIB,George D. Hendrickson,4
+Day,12,U.S. House,1,LIB,George D. Hendrickson,4
+Day,13,U.S. House,1,LIB,George D. Hendrickson,3
+Day,14,U.S. House,1,LIB,George D. Hendrickson,1
+Day,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",141
+Day,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",153
+Day,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",89
+Day,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",110
+Day,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",95
+Day,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",139
+Day,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",101
+Day,8,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",77
+Day,9,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",132
+Day,10,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",54
+Day,11,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",103
+Day,12,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",111
+Day,13,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",100
+Day,14,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",136
+Day,1,U.S. House,1,DEM,Tim Bjorkman,95
+Day,2,U.S. House,1,DEM,Tim Bjorkman,91
+Day,3,U.S. House,1,DEM,Tim Bjorkman,69
+Day,4,U.S. House,1,DEM,Tim Bjorkman,65
+Day,5,U.S. House,1,DEM,Tim Bjorkman,74
+Day,6,U.S. House,1,DEM,Tim Bjorkman,113
+Day,7,U.S. House,1,DEM,Tim Bjorkman,70
+Day,8,U.S. House,1,DEM,Tim Bjorkman,53
+Day,9,U.S. House,1,DEM,Tim Bjorkman,57
+Day,10,U.S. House,1,DEM,Tim Bjorkman,34
+Day,11,U.S. House,1,DEM,Tim Bjorkman,87
+Day,12,U.S. House,1,DEM,Tim Bjorkman,91
+Day,13,U.S. House,1,DEM,Tim Bjorkman,88
+Day,14,U.S. House,1,DEM,Tim Bjorkman,85
+Day,1,U.S. House,1,IND,Ron Wieczorek,2
+Day,2,U.S. House,1,IND,Ron Wieczorek,6
+Day,3,U.S. House,1,IND,Ron Wieczorek,4
+Day,4,U.S. House,1,IND,Ron Wieczorek,2
+Day,5,U.S. House,1,IND,Ron Wieczorek,10
+Day,6,U.S. House,1,IND,Ron Wieczorek,7
+Day,7,U.S. House,1,IND,Ron Wieczorek,7
+Day,8,U.S. House,1,IND,Ron Wieczorek,2
+Day,9,U.S. House,1,IND,Ron Wieczorek,1
+Day,10,U.S. House,1,IND,Ron Wieczorek,1
+Day,11,U.S. House,1,IND,Ron Wieczorek,13
+Day,12,U.S. House,1,IND,Ron Wieczorek,4
+Day,13,U.S. House,1,IND,Ron Wieczorek,3
+Day,14,U.S. House,1,IND,Ron Wieczorek,6
+Day,1,Governor,,LIB,Kurt Evans,3
+Day,2,Governor,,LIB,Kurt Evans,4
+Day,3,Governor,,LIB,Kurt Evans,3
+Day,4,Governor,,LIB,Kurt Evans,2
+Day,5,Governor,,LIB,Kurt Evans,5
+Day,6,Governor,,LIB,Kurt Evans,0
+Day,7,Governor,,LIB,Kurt Evans,1
+Day,8,Governor,,LIB,Kurt Evans,2
+Day,9,Governor,,LIB,Kurt Evans,2
+Day,10,Governor,,LIB,Kurt Evans,2
+Day,11,Governor,,LIB,Kurt Evans,9
+Day,12,Governor,,LIB,Kurt Evans,3
+Day,13,Governor,,LIB,Kurt Evans,1
+Day,14,Governor,,LIB,Kurt Evans,2
+Day,1,Governor,,REP,Kristi Noem,128
+Day,2,Governor,,REP,Kristi Noem,112
+Day,3,Governor,,REP,Kristi Noem,76
+Day,4,Governor,,REP,Kristi Noem,86
+Day,5,Governor,,REP,Kristi Noem,76
+Day,6,Governor,,REP,Kristi Noem,106
+Day,7,Governor,,REP,Kristi Noem,85
+Day,8,Governor,,REP,Kristi Noem,56
+Day,9,Governor,,REP,Kristi Noem,105
+Day,10,Governor,,REP,Kristi Noem,42
+Day,11,Governor,,REP,Kristi Noem,73
+Day,12,Governor,,REP,Kristi Noem,78
+Day,13,Governor,,REP,Kristi Noem,83
+Day,14,Governor,,REP,Kristi Noem,101
+Day,1,Governor,,DEM,Billie Sutton,122
+Day,2,Governor,,DEM,Billie Sutton,143
+Day,3,Governor,,DEM,Billie Sutton,86
+Day,4,Governor,,DEM,Billie Sutton,101
+Day,5,Governor,,DEM,Billie Sutton,103
+Day,6,Governor,,DEM,Billie Sutton,160
+Day,7,Governor,,DEM,Billie Sutton,99
+Day,8,Governor,,DEM,Billie Sutton,77
+Day,9,Governor,,DEM,Billie Sutton,84
+Day,10,Governor,,DEM,Billie Sutton,46
+Day,11,Governor,,DEM,Billie Sutton,135
+Day,12,Governor,,DEM,Billie Sutton,131
+Day,13,Governor,,DEM,Billie Sutton,114
+Day,14,Governor,,DEM,Billie Sutton,130
+Day,1,Secretary of State,,REP,Steve Barnett,151
+Day,2,Secretary of State,,REP,Steve Barnett,150
+Day,3,Secretary of State,,REP,Steve Barnett,102
+Day,4,Secretary of State,,REP,Steve Barnett,124
+Day,5,Secretary of State,,REP,Steve Barnett,99
+Day,6,Secretary of State,,REP,Steve Barnett,136
+Day,7,Secretary of State,,REP,Steve Barnett,113
+Day,8,Secretary of State,,REP,Steve Barnett,74
+Day,9,Secretary of State,,REP,Steve Barnett,120
+Day,10,Secretary of State,,REP,Steve Barnett,55
+Day,11,Secretary of State,,REP,Steve Barnett,114
+Day,12,Secretary of State,,REP,Steve Barnett,107
+Day,13,Secretary of State,,REP,Steve Barnett,105
+Day,14,Secretary of State,,REP,Steve Barnett,136
+Day,1,Secretary of State,,DEM,Alexandra Frederick,87
+Day,2,Secretary of State,,DEM,Alexandra Frederick,88
+Day,3,Secretary of State,,DEM,Alexandra Frederick,54
+Day,4,Secretary of State,,DEM,Alexandra Frederick,47
+Day,5,Secretary of State,,DEM,Alexandra Frederick,73
+Day,6,Secretary of State,,DEM,Alexandra Frederick,123
+Day,7,Secretary of State,,DEM,Alexandra Frederick,65
+Day,8,Secretary of State,,DEM,Alexandra Frederick,59
+Day,9,Secretary of State,,DEM,Alexandra Frederick,55
+Day,10,Secretary of State,,DEM,Alexandra Frederick,32
+Day,11,Secretary of State,,DEM,Alexandra Frederick,82
+Day,12,Secretary of State,,DEM,Alexandra Frederick,95
+Day,13,Secretary of State,,DEM,Alexandra Frederick,83
+Day,14,Secretary of State,,DEM,Alexandra Frederick,80
+Day,1,Attorney General,,REP,Jason Ravnsborg,128
+Day,2,Attorney General,,REP,Jason Ravnsborg,115
+Day,3,Attorney General,,REP,Jason Ravnsborg,78
+Day,4,Attorney General,,REP,Jason Ravnsborg,77
+Day,5,Attorney General,,REP,Jason Ravnsborg,83
+Day,6,Attorney General,,REP,Jason Ravnsborg,105
+Day,7,Attorney General,,REP,Jason Ravnsborg,91
+Day,8,Attorney General,,REP,Jason Ravnsborg,56
+Day,9,Attorney General,,REP,Jason Ravnsborg,111
+Day,10,Attorney General,,REP,Jason Ravnsborg,44
+Day,11,Attorney General,,REP,Jason Ravnsborg,85
+Day,12,Attorney General,,REP,Jason Ravnsborg,89
+Day,13,Attorney General,,REP,Jason Ravnsborg,85
+Day,14,Attorney General,,REP,Jason Ravnsborg,111
+Day,1,Attorney General,,DEM,Randy Seiler,105
+Day,2,Attorney General,,DEM,Randy Seiler,126
+Day,3,Attorney General,,DEM,Randy Seiler,79
+Day,4,Attorney General,,DEM,Randy Seiler,92
+Day,5,Attorney General,,DEM,Randy Seiler,90
+Day,6,Attorney General,,DEM,Randy Seiler,148
+Day,7,Attorney General,,DEM,Randy Seiler,84
+Day,8,Attorney General,,DEM,Randy Seiler,73
+Day,9,Attorney General,,DEM,Randy Seiler,67
+Day,10,Attorney General,,DEM,Randy Seiler,44
+Day,11,Attorney General,,DEM,Randy Seiler,118
+Day,12,Attorney General,,DEM,Randy Seiler,114
+Day,13,Attorney General,,DEM,Randy Seiler,100
+Day,14,Attorney General,,DEM,Randy Seiler,102
+Day,1,State Auditor,,REP,Rich Sattgast,133
+Day,2,State Auditor,,REP,Rich Sattgast,142
+Day,3,State Auditor,,REP,Rich Sattgast,87
+Day,4,State Auditor,,REP,Rich Sattgast,112
+Day,5,State Auditor,,REP,Rich Sattgast,95
+Day,6,State Auditor,,REP,Rich Sattgast,127
+Day,7,State Auditor,,REP,Rich Sattgast,103
+Day,8,State Auditor,,REP,Rich Sattgast,69
+Day,9,State Auditor,,REP,Rich Sattgast,114
+Day,10,State Auditor,,REP,Rich Sattgast,56
+Day,11,State Auditor,,REP,Rich Sattgast,105
+Day,12,State Auditor,,REP,Rich Sattgast,98
+Day,13,State Auditor,,REP,Rich Sattgast,98
+Day,14,State Auditor,,REP,Rich Sattgast,124
+Day,1,State Auditor,,DEM,Tom Cool,88
+Day,2,State Auditor,,DEM,Tom Cool,89
+Day,3,State Auditor,,DEM,Tom Cool,59
+Day,4,State Auditor,,DEM,Tom Cool,47
+Day,5,State Auditor,,DEM,Tom Cool,70
+Day,6,State Auditor,,DEM,Tom Cool,122
+Day,7,State Auditor,,DEM,Tom Cool,65
+Day,8,State Auditor,,DEM,Tom Cool,59
+Day,9,State Auditor,,DEM,Tom Cool,49
+Day,10,State Auditor,,DEM,Tom Cool,31
+Day,11,State Auditor,,DEM,Tom Cool,90
+Day,12,State Auditor,,DEM,Tom Cool,96
+Day,13,State Auditor,,DEM,Tom Cool,79
+Day,14,State Auditor,,DEM,Tom Cool,80
+Day,1,State Treasurer,,REP,Josh Haeder,119
+Day,2,State Treasurer,,REP,Josh Haeder,140
+Day,3,State Treasurer,,REP,Josh Haeder,87
+Day,4,State Treasurer,,REP,Josh Haeder,98
+Day,5,State Treasurer,,REP,Josh Haeder,84
+Day,6,State Treasurer,,REP,Josh Haeder,120
+Day,7,State Treasurer,,REP,Josh Haeder,95
+Day,8,State Treasurer,,REP,Josh Haeder,65
+Day,9,State Treasurer,,REP,Josh Haeder,105
+Day,10,State Treasurer,,REP,Josh Haeder,53
+Day,11,State Treasurer,,REP,Josh Haeder,82
+Day,12,State Treasurer,,REP,Josh Haeder,92
+Day,13,State Treasurer,,REP,Josh Haeder,90
+Day,14,State Treasurer,,REP,Josh Haeder,118
+Day,1,State Treasurer,,DEM,Aaron Matson,102
+Day,2,State Treasurer,,DEM,Aaron Matson,94
+Day,3,State Treasurer,,DEM,Aaron Matson,61
+Day,4,State Treasurer,,DEM,Aaron Matson,58
+Day,5,State Treasurer,,DEM,Aaron Matson,76
+Day,6,State Treasurer,,DEM,Aaron Matson,124
+Day,7,State Treasurer,,DEM,Aaron Matson,71
+Day,8,State Treasurer,,DEM,Aaron Matson,62
+Day,9,State Treasurer,,DEM,Aaron Matson,53
+Day,10,State Treasurer,,DEM,Aaron Matson,33
+Day,11,State Treasurer,,DEM,Aaron Matson,104
+Day,12,State Treasurer,,DEM,Aaron Matson,101
+Day,13,State Treasurer,,DEM,Aaron Matson,86
+Day,14,State Treasurer,,DEM,Aaron Matson,84
+Day,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,127
+Day,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,132
+Day,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,78
+Day,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,94
+Day,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,90
+Day,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,120
+Day,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,99
+Day,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,59
+Day,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,107
+Day,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,56
+Day,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,83
+Day,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,100
+Day,13,Commissioner of School and Public Lands,,REP,Ryan Brunner,82
+Day,14,Commissioner of School and Public Lands,,REP,Ryan Brunner,118
+Day,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,93
+Day,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,97
+Day,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,67
+Day,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,62
+Day,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,71
+Day,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,121
+Day,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,71
+Day,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,63
+Day,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,50
+Day,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,32
+Day,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,102
+Day,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,96
+Day,13,Commissioner of School and Public Lands,,DEM,Woody Hauser,91
+Day,14,Commissioner of School and Public Lands,,DEM,Woody Hauser,79
+Day,1,Public Utilities Commissioner,,REP,Kristie Fiegen,125
+Day,2,Public Utilities Commissioner,,REP,Kristie Fiegen,134
+Day,3,Public Utilities Commissioner,,REP,Kristie Fiegen,92
+Day,4,Public Utilities Commissioner,,REP,Kristie Fiegen,98
+Day,5,Public Utilities Commissioner,,REP,Kristie Fiegen,86
+Day,6,Public Utilities Commissioner,,REP,Kristie Fiegen,120
+Day,7,Public Utilities Commissioner,,REP,Kristie Fiegen,95
+Day,8,Public Utilities Commissioner,,REP,Kristie Fiegen,66
+Day,9,Public Utilities Commissioner,,REP,Kristie Fiegen,110
+Day,10,Public Utilities Commissioner,,REP,Kristie Fiegen,53
+Day,11,Public Utilities Commissioner,,REP,Kristie Fiegen,92
+Day,12,Public Utilities Commissioner,,REP,Kristie Fiegen,102
+Day,13,Public Utilities Commissioner,,REP,Kristie Fiegen,86
+Day,14,Public Utilities Commissioner,,REP,Kristie Fiegen,126
+Day,1,Public Utilities Commissioner,,DEM,Wayne Frederick,101
+Day,2,Public Utilities Commissioner,,DEM,Wayne Frederick,94
+Day,3,Public Utilities Commissioner,,DEM,Wayne Frederick,56
+Day,4,Public Utilities Commissioner,,DEM,Wayne Frederick,56
+Day,5,Public Utilities Commissioner,,DEM,Wayne Frederick,76
+Day,6,Public Utilities Commissioner,,DEM,Wayne Frederick,124
+Day,7,Public Utilities Commissioner,,DEM,Wayne Frederick,74
+Day,8,Public Utilities Commissioner,,DEM,Wayne Frederick,62
+Day,9,Public Utilities Commissioner,,DEM,Wayne Frederick,49
+Day,10,Public Utilities Commissioner,,DEM,Wayne Frederick,33
+Day,11,Public Utilities Commissioner,,DEM,Wayne Frederick,95
+Day,12,Public Utilities Commissioner,,DEM,Wayne Frederick,91
+Day,13,Public Utilities Commissioner,,DEM,Wayne Frederick,84
+Day,14,Public Utilities Commissioner,,DEM,Wayne Frederick,75
+Day,1,State Senate,1,DEM,Susan M. Wismer,134
+Day,2,State Senate,1,DEM,Susan M. Wismer,144
+Day,3,State Senate,1,DEM,Susan M. Wismer,90
+Day,4,State Senate,1,DEM,Susan M. Wismer,104
+Day,5,State Senate,1,DEM,Susan M. Wismer,95
+Day,6,State Senate,1,DEM,Susan M. Wismer,153
+Day,7,State Senate,1,DEM,Susan M. Wismer,112
+Day,8,State Senate,1,DEM,Susan M. Wismer,72
+Day,9,State Senate,1,DEM,Susan M. Wismer,83
+Day,10,State Senate,1,DEM,Susan M. Wismer,55
+Day,11,State Senate,1,DEM,Susan M. Wismer,138
+Day,12,State Senate,1,DEM,Susan M. Wismer,135
+Day,13,State Senate,1,DEM,Susan M. Wismer,115
+Day,14,State Senate,1,DEM,Susan M. Wismer,136
+Day,1,State House,1,REP,Tamara St John,110
+Day,2,State House,1,REP,Tamara St John,116
+Day,3,State House,1,REP,Tamara St John,80
+Day,4,State House,1,REP,Tamara St John,90
+Day,5,State House,1,REP,Tamara St John,86
+Day,6,State House,1,REP,Tamara St John,133
+Day,7,State House,1,REP,Tamara St John,87
+Day,8,State House,1,REP,Tamara St John,54
+Day,9,State House,1,REP,Tamara St John,96
+Day,10,State House,1,REP,Tamara St John,37
+Day,11,State House,1,REP,Tamara St John,89
+Day,12,State House,1,REP,Tamara St John,75
+Day,13,State House,1,REP,Tamara St John,85
+Day,14,State House,1,REP,Tamara St John,113
+Day,1,State House,1,DEM,H. Paul Dennert,84
+Day,2,State House,1,DEM,H. Paul Dennert,96
+Day,3,State House,1,DEM,H. Paul Dennert,59
+Day,4,State House,1,DEM,H. Paul Dennert,70
+Day,5,State House,1,DEM,H. Paul Dennert,55
+Day,6,State House,1,DEM,H. Paul Dennert,93
+Day,7,State House,1,DEM,H. Paul Dennert,75
+Day,8,State House,1,DEM,H. Paul Dennert,67
+Day,9,State House,1,DEM,H. Paul Dennert,56
+Day,10,State House,1,DEM,H. Paul Dennert,52
+Day,11,State House,1,DEM,H. Paul Dennert,94
+Day,12,State House,1,DEM,H. Paul Dennert,117
+Day,13,State House,1,DEM,H. Paul Dennert,74
+Day,14,State House,1,DEM,H. Paul Dennert,106
+Day,1,State House,1,DEM,Steven D. McCleery,95
+Day,2,State House,1,DEM,Steven D. McCleery,103
+Day,3,State House,1,DEM,Steven D. McCleery,55
+Day,4,State House,1,DEM,Steven D. McCleery,74
+Day,5,State House,1,DEM,Steven D. McCleery,70
+Day,6,State House,1,DEM,Steven D. McCleery,98
+Day,7,State House,1,DEM,Steven D. McCleery,71
+Day,8,State House,1,DEM,Steven D. McCleery,58
+Day,9,State House,1,DEM,Steven D. McCleery,54
+Day,10,State House,1,DEM,Steven D. McCleery,40
+Day,11,State House,1,DEM,Steven D. McCleery,91
+Day,12,State House,1,DEM,Steven D. McCleery,74
+Day,13,State House,1,DEM,Steven D. McCleery,83
+Day,14,State House,1,DEM,Steven D. McCleery,79

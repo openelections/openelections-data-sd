@@ -66,8 +66,8 @@ with open(tabula_file) as csvfile:
                     candidates.append({
                         'name': 'Unknown Candidate #{0}'.format(n),
                         'party': 'PARTY{0}'.format(n),
-                        'office': 'Uknown Office #{0}'.format(n),
-                        'district': 'DIST{0}'.format(n),
+                        'office': 'Uknown Office #{0}'.format(race_index),
+                        'district': 'DIST{0}'.format(race_index),
                         'votes': [],
                     })
                 candidates[cand_index]['votes'].append(row[i + 1])
