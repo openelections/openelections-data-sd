@@ -1,0 +1,326 @@
+county,precinct,office,district,party,candidate,votes
+Charles Mix,1,U.S. House,1,LIB,George D. Hendrickson,6
+Charles Mix,2,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,3,U.S. House,1,LIB,George D. Hendrickson,4
+Charles Mix,4,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,5,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,6,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,7,U.S. House,1,LIB,George D. Hendrickson,3
+Charles Mix,8,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,9,U.S. House,1,LIB,George D. Hendrickson,2
+Charles Mix,10,U.S. House,1,LIB,George D. Hendrickson,1
+Charles Mix,11,U.S. House,1,LIB,George D. Hendrickson,7
+Charles Mix,12,U.S. House,1,LIB,George D. Hendrickson,1
+Charles Mix,13,U.S. House,1,LIB,George D. Hendrickson,1
+Charles Mix,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",265
+Charles Mix,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",92
+Charles Mix,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",229
+Charles Mix,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",74
+Charles Mix,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",182
+Charles Mix,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",69
+Charles Mix,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",77
+Charles Mix,8,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",122
+Charles Mix,9,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",293
+Charles Mix,10,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",127
+Charles Mix,11,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",458
+Charles Mix,12,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",58
+Charles Mix,13,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",39
+Charles Mix,1,U.S. House,1,DEM,Tim Bjorkman,170
+Charles Mix,2,U.S. House,1,DEM,Tim Bjorkman,87
+Charles Mix,3,U.S. House,1,DEM,Tim Bjorkman,253
+Charles Mix,4,U.S. House,1,DEM,Tim Bjorkman,107
+Charles Mix,5,U.S. House,1,DEM,Tim Bjorkman,166
+Charles Mix,6,U.S. House,1,DEM,Tim Bjorkman,143
+Charles Mix,7,U.S. House,1,DEM,Tim Bjorkman,43
+Charles Mix,8,U.S. House,1,DEM,Tim Bjorkman,43
+Charles Mix,9,U.S. House,1,DEM,Tim Bjorkman,76
+Charles Mix,10,U.S. House,1,DEM,Tim Bjorkman,16
+Charles Mix,11,U.S. House,1,DEM,Tim Bjorkman,152
+Charles Mix,12,U.S. House,1,DEM,Tim Bjorkman,36
+Charles Mix,13,U.S. House,1,DEM,Tim Bjorkman,27
+Charles Mix,1,U.S. House,1,IND,Ron Wieczorek,18
+Charles Mix,2,U.S. House,1,IND,Ron Wieczorek,5
+Charles Mix,3,U.S. House,1,IND,Ron Wieczorek,12
+Charles Mix,4,U.S. House,1,IND,Ron Wieczorek,5
+Charles Mix,5,U.S. House,1,IND,Ron Wieczorek,7
+Charles Mix,6,U.S. House,1,IND,Ron Wieczorek,9
+Charles Mix,7,U.S. House,1,IND,Ron Wieczorek,0
+Charles Mix,8,U.S. House,1,IND,Ron Wieczorek,3
+Charles Mix,9,U.S. House,1,IND,Ron Wieczorek,10
+Charles Mix,10,U.S. House,1,IND,Ron Wieczorek,1
+Charles Mix,11,U.S. House,1,IND,Ron Wieczorek,13
+Charles Mix,12,U.S. House,1,IND,Ron Wieczorek,5
+Charles Mix,13,U.S. House,1,IND,Ron Wieczorek,3
+Charles Mix,1,Governor,,LIB,Kurt Evans,3
+Charles Mix,2,Governor,,LIB,Kurt Evans,2
+Charles Mix,3,Governor,,LIB,Kurt Evans,7
+Charles Mix,4,Governor,,LIB,Kurt Evans,3
+Charles Mix,5,Governor,,LIB,Kurt Evans,3
+Charles Mix,6,Governor,,LIB,Kurt Evans,4
+Charles Mix,7,Governor,,LIB,Kurt Evans,2
+Charles Mix,8,Governor,,LIB,Kurt Evans,2
+Charles Mix,9,Governor,,LIB,Kurt Evans,3
+Charles Mix,10,Governor,,LIB,Kurt Evans,0
+Charles Mix,11,Governor,,LIB,Kurt Evans,9
+Charles Mix,12,Governor,,LIB,Kurt Evans,0
+Charles Mix,13,Governor,,LIB,Kurt Evans,0
+Charles Mix,1,Governor,,REP,Kristi Noem,219
+Charles Mix,2,Governor,,REP,Kristi Noem,74
+Charles Mix,3,Governor,,REP,Kristi Noem,151
+Charles Mix,4,Governor,,REP,Kristi Noem,44
+Charles Mix,5,Governor,,REP,Kristi Noem,146
+Charles Mix,6,Governor,,REP,Kristi Noem,44
+Charles Mix,7,Governor,,REP,Kristi Noem,62
+Charles Mix,8,Governor,,REP,Kristi Noem,96
+Charles Mix,9,Governor,,REP,Kristi Noem,245
+Charles Mix,10,Governor,,REP,Kristi Noem,115
+Charles Mix,11,Governor,,REP,Kristi Noem,388
+Charles Mix,12,Governor,,REP,Kristi Noem,39
+Charles Mix,13,Governor,,REP,Kristi Noem,38
+Charles Mix,1,Governor,,DEM,Billie Sutton,235
+Charles Mix,2,Governor,,DEM,Billie Sutton,110
+Charles Mix,3,Governor,,DEM,Billie Sutton,351
+Charles Mix,4,Governor,,DEM,Billie Sutton,146
+Charles Mix,5,Governor,,DEM,Billie Sutton,213
+Charles Mix,6,Governor,,DEM,Billie Sutton,177
+Charles Mix,7,Governor,,DEM,Billie Sutton,61
+Charles Mix,8,Governor,,DEM,Billie Sutton,74
+Charles Mix,9,Governor,,DEM,Billie Sutton,139
+Charles Mix,10,Governor,,DEM,Billie Sutton,29
+Charles Mix,11,Governor,,DEM,Billie Sutton,227
+Charles Mix,12,Governor,,DEM,Billie Sutton,61
+Charles Mix,13,Governor,,DEM,Billie Sutton,30
+Charles Mix,1,Secretary of State,,REP,Steve Barnett,296
+Charles Mix,2,Secretary of State,,REP,Steve Barnett,103
+Charles Mix,3,Secretary of State,,REP,Steve Barnett,241
+Charles Mix,4,Secretary of State,,REP,Steve Barnett,73
+Charles Mix,5,Secretary of State,,REP,Steve Barnett,197
+Charles Mix,6,Secretary of State,,REP,Steve Barnett,76
+Charles Mix,7,Secretary of State,,REP,Steve Barnett,72
+Charles Mix,8,Secretary of State,,REP,Steve Barnett,129
+Charles Mix,9,Secretary of State,,REP,Steve Barnett,312
+Charles Mix,10,Secretary of State,,REP,Steve Barnett,131
+Charles Mix,11,Secretary of State,,REP,Steve Barnett,480
+Charles Mix,12,Secretary of State,,REP,Steve Barnett,65
+Charles Mix,13,Secretary of State,,REP,Steve Barnett,43
+Charles Mix,1,Secretary of State,,DEM,Alexandra Frederick,153
+Charles Mix,2,Secretary of State,,DEM,Alexandra Frederick,79
+Charles Mix,3,Secretary of State,,DEM,Alexandra Frederick,249
+Charles Mix,4,Secretary of State,,DEM,Alexandra Frederick,115
+Charles Mix,5,Secretary of State,,DEM,Alexandra Frederick,153
+Charles Mix,6,Secretary of State,,DEM,Alexandra Frederick,145
+Charles Mix,7,Secretary of State,,DEM,Alexandra Frederick,47
+Charles Mix,8,Secretary of State,,DEM,Alexandra Frederick,37
+Charles Mix,9,Secretary of State,,DEM,Alexandra Frederick,61
+Charles Mix,10,Secretary of State,,DEM,Alexandra Frederick,13
+Charles Mix,11,Secretary of State,,DEM,Alexandra Frederick,124
+Charles Mix,12,Secretary of State,,DEM,Alexandra Frederick,35
+Charles Mix,13,Secretary of State,,DEM,Alexandra Frederick,27
+Charles Mix,1,Attorney General,,REP,Jason Ravnsborg,231
+Charles Mix,2,Attorney General,,REP,Jason Ravnsborg,86
+Charles Mix,3,Attorney General,,REP,Jason Ravnsborg,192
+Charles Mix,4,Attorney General,,REP,Jason Ravnsborg,62
+Charles Mix,5,Attorney General,,REP,Jason Ravnsborg,147
+Charles Mix,6,Attorney General,,REP,Jason Ravnsborg,65
+Charles Mix,7,Attorney General,,REP,Jason Ravnsborg,67
+Charles Mix,8,Attorney General,,REP,Jason Ravnsborg,104
+Charles Mix,9,Attorney General,,REP,Jason Ravnsborg,269
+Charles Mix,10,Attorney General,,REP,Jason Ravnsborg,120
+Charles Mix,11,Attorney General,,REP,Jason Ravnsborg,415
+Charles Mix,12,Attorney General,,REP,Jason Ravnsborg,46
+Charles Mix,13,Attorney General,,REP,Jason Ravnsborg,35
+Charles Mix,1,Attorney General,,DEM,Randy Seiler,221
+Charles Mix,2,Attorney General,,DEM,Randy Seiler,93
+Charles Mix,3,Attorney General,,DEM,Randy Seiler,300
+Charles Mix,4,Attorney General,,DEM,Randy Seiler,124
+Charles Mix,5,Attorney General,,DEM,Randy Seiler,204
+Charles Mix,6,Attorney General,,DEM,Randy Seiler,155
+Charles Mix,7,Attorney General,,DEM,Randy Seiler,52
+Charles Mix,8,Attorney General,,DEM,Randy Seiler,61
+Charles Mix,9,Attorney General,,DEM,Randy Seiler,106
+Charles Mix,10,Attorney General,,DEM,Randy Seiler,20
+Charles Mix,11,Attorney General,,DEM,Randy Seiler,197
+Charles Mix,12,Attorney General,,DEM,Randy Seiler,52
+Charles Mix,13,Attorney General,,DEM,Randy Seiler,34
+Charles Mix,1,State Auditor,,REP,Rich Sattgast,265
+Charles Mix,2,State Auditor,,REP,Rich Sattgast,85
+Charles Mix,3,State Auditor,,REP,Rich Sattgast,207
+Charles Mix,4,State Auditor,,REP,Rich Sattgast,58
+Charles Mix,5,State Auditor,,REP,Rich Sattgast,180
+Charles Mix,6,State Auditor,,REP,Rich Sattgast,69
+Charles Mix,7,State Auditor,,REP,Rich Sattgast,68
+Charles Mix,8,State Auditor,,REP,Rich Sattgast,123
+Charles Mix,9,State Auditor,,REP,Rich Sattgast,257
+Charles Mix,10,State Auditor,,REP,Rich Sattgast,117
+Charles Mix,11,State Auditor,,REP,Rich Sattgast,406
+Charles Mix,12,State Auditor,,REP,Rich Sattgast,55
+Charles Mix,13,State Auditor,,REP,Rich Sattgast,39
+Charles Mix,1,State Auditor,,DEM,Tom Cool,166
+Charles Mix,2,State Auditor,,DEM,Tom Cool,88
+Charles Mix,3,State Auditor,,DEM,Tom Cool,271
+Charles Mix,4,State Auditor,,DEM,Tom Cool,119
+Charles Mix,5,State Auditor,,DEM,Tom Cool,165
+Charles Mix,6,State Auditor,,DEM,Tom Cool,147
+Charles Mix,7,State Auditor,,DEM,Tom Cool,44
+Charles Mix,8,State Auditor,,DEM,Tom Cool,41
+Charles Mix,9,State Auditor,,DEM,Tom Cool,107
+Charles Mix,10,State Auditor,,DEM,Tom Cool,25
+Charles Mix,11,State Auditor,,DEM,Tom Cool,187
+Charles Mix,12,State Auditor,,DEM,Tom Cool,40
+Charles Mix,13,State Auditor,,DEM,Tom Cool,29
+Charles Mix,1,State Treasurer,,REP,Josh Haeder,251
+Charles Mix,2,State Treasurer,,REP,Josh Haeder,81
+Charles Mix,3,State Treasurer,,REP,Josh Haeder,189
+Charles Mix,4,State Treasurer,,REP,Josh Haeder,60
+Charles Mix,5,State Treasurer,,REP,Josh Haeder,166
+Charles Mix,6,State Treasurer,,REP,Josh Haeder,65
+Charles Mix,7,State Treasurer,,REP,Josh Haeder,62
+Charles Mix,8,State Treasurer,,REP,Josh Haeder,110
+Charles Mix,9,State Treasurer,,REP,Josh Haeder,286
+Charles Mix,10,State Treasurer,,REP,Josh Haeder,122
+Charles Mix,11,State Treasurer,,REP,Josh Haeder,458
+Charles Mix,12,State Treasurer,,REP,Josh Haeder,49
+Charles Mix,13,State Treasurer,,REP,Josh Haeder,35
+Charles Mix,1,State Treasurer,,DEM,Aaron Matson,178
+Charles Mix,2,State Treasurer,,DEM,Aaron Matson,93
+Charles Mix,3,State Treasurer,,DEM,Aaron Matson,276
+Charles Mix,4,State Treasurer,,DEM,Aaron Matson,116
+Charles Mix,5,State Treasurer,,DEM,Aaron Matson,177
+Charles Mix,6,State Treasurer,,DEM,Aaron Matson,152
+Charles Mix,7,State Treasurer,,DEM,Aaron Matson,52
+Charles Mix,8,State Treasurer,,DEM,Aaron Matson,47
+Charles Mix,9,State Treasurer,,DEM,Aaron Matson,70
+Charles Mix,10,State Treasurer,,DEM,Aaron Matson,17
+Charles Mix,11,State Treasurer,,DEM,Aaron Matson,121
+Charles Mix,12,State Treasurer,,DEM,Aaron Matson,47
+Charles Mix,13,State Treasurer,,DEM,Aaron Matson,31
+Charles Mix,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,261
+Charles Mix,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,93
+Charles Mix,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,204
+Charles Mix,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,64
+Charles Mix,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,176
+Charles Mix,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,66
+Charles Mix,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,66
+Charles Mix,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,116
+Charles Mix,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,295
+Charles Mix,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,127
+Charles Mix,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,453
+Charles Mix,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,58
+Charles Mix,13,Commissioner of School and Public Lands,,REP,Ryan Brunner,40
+Charles Mix,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,164
+Charles Mix,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,80
+Charles Mix,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,259
+Charles Mix,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,114
+Charles Mix,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,163
+Charles Mix,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,149
+Charles Mix,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,48
+Charles Mix,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,41
+Charles Mix,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,63
+Charles Mix,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,11
+Charles Mix,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,125
+Charles Mix,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,35
+Charles Mix,13,Commissioner of School and Public Lands,,DEM,Woody Hauser,26
+Charles Mix,1,Public Utilities Commissioner,,REP,Kristie Fiegen,289
+Charles Mix,2,Public Utilities Commissioner,,REP,Kristie Fiegen,99
+Charles Mix,3,Public Utilities Commissioner,,REP,Kristie Fiegen,220
+Charles Mix,4,Public Utilities Commissioner,,REP,Kristie Fiegen,69
+Charles Mix,5,Public Utilities Commissioner,,REP,Kristie Fiegen,181
+Charles Mix,6,Public Utilities Commissioner,,REP,Kristie Fiegen,68
+Charles Mix,7,Public Utilities Commissioner,,REP,Kristie Fiegen,78
+Charles Mix,8,Public Utilities Commissioner,,REP,Kristie Fiegen,117
+Charles Mix,9,Public Utilities Commissioner,,REP,Kristie Fiegen,286
+Charles Mix,10,Public Utilities Commissioner,,REP,Kristie Fiegen,127
+Charles Mix,11,Public Utilities Commissioner,,REP,Kristie Fiegen,473
+Charles Mix,12,Public Utilities Commissioner,,REP,Kristie Fiegen,52
+Charles Mix,13,Public Utilities Commissioner,,REP,Kristie Fiegen,36
+Charles Mix,1,Public Utilities Commissioner,,DEM,Wayne Frederick,146
+Charles Mix,2,Public Utilities Commissioner,,DEM,Wayne Frederick,76
+Charles Mix,3,Public Utilities Commissioner,,DEM,Wayne Frederick,256
+Charles Mix,4,Public Utilities Commissioner,,DEM,Wayne Frederick,111
+Charles Mix,5,Public Utilities Commissioner,,DEM,Wayne Frederick,159
+Charles Mix,6,Public Utilities Commissioner,,DEM,Wayne Frederick,144
+Charles Mix,7,Public Utilities Commissioner,,DEM,Wayne Frederick,38
+Charles Mix,8,Public Utilities Commissioner,,DEM,Wayne Frederick,34
+Charles Mix,9,Public Utilities Commissioner,,DEM,Wayne Frederick,61
+Charles Mix,10,Public Utilities Commissioner,,DEM,Wayne Frederick,10
+Charles Mix,11,Public Utilities Commissioner,,DEM,Wayne Frederick,103
+Charles Mix,12,Public Utilities Commissioner,,DEM,Wayne Frederick,39
+Charles Mix,13,Public Utilities Commissioner,,DEM,Wayne Frederick,29
+Charles Mix,1,State Senate,21,REP,Rocky Dale Blare,201
+Charles Mix,2,State Senate,21,REP,Rocky Dale Blare,61
+Charles Mix,3,State Senate,21,REP,Rocky Dale Blare,141
+Charles Mix,4,State Senate,21,REP,Rocky Dale Blare,48
+Charles Mix,5,State Senate,21,REP,Rocky Dale Blare,138
+Charles Mix,6,State Senate,21,REP,Rocky Dale Blare,46
+Charles Mix,7,State Senate,21,REP,Rocky Dale Blare,55
+Charles Mix,8,State Senate,21,REP,Rocky Dale Blare,76
+Charles Mix,9,State Senate,21,REP,Rocky Dale Blare,245
+Charles Mix,10,State Senate,21,REP,Rocky Dale Blare,111
+Charles Mix,11,State Senate,21,REP,Rocky Dale Blare,362
+Charles Mix,12,State Senate,21,REP,Rocky Dale Blare,31
+Charles Mix,13,State Senate,21,REP,Rocky Dale Blare,33
+Charles Mix,1,State Senate,21,DEM,Julie Bartling,248
+Charles Mix,2,State Senate,21,DEM,Julie Bartling,120
+Charles Mix,3,State Senate,21,DEM,Julie Bartling,344
+Charles Mix,4,State Senate,21,DEM,Julie Bartling,139
+Charles Mix,5,State Senate,21,DEM,Julie Bartling,218
+Charles Mix,6,State Senate,21,DEM,Julie Bartling,173
+Charles Mix,7,State Senate,21,DEM,Julie Bartling,62
+Charles Mix,8,State Senate,21,DEM,Julie Bartling,93
+Charles Mix,9,State Senate,21,DEM,Julie Bartling,134
+Charles Mix,10,State Senate,21,DEM,Julie Bartling,32
+Charles Mix,11,State Senate,21,DEM,Julie Bartling,245
+Charles Mix,12,State Senate,21,DEM,Julie Bartling,66
+Charles Mix,13,State Senate,21,DEM,Julie Bartling,36
+Charles Mix,1,State House,21,REP,Caleb Finck,237
+Charles Mix,2,State House,21,REP,Caleb Finck,70
+Charles Mix,3,State House,21,REP,Caleb Finck,165
+Charles Mix,4,State House,21,REP,Caleb Finck,54
+Charles Mix,5,State House,21,REP,Caleb Finck,153
+Charles Mix,6,State House,21,REP,Caleb Finck,64
+Charles Mix,7,State House,21,REP,Caleb Finck,65
+Charles Mix,8,State House,21,REP,Caleb Finck,88
+Charles Mix,9,State House,21,REP,Caleb Finck,245
+Charles Mix,10,State House,21,REP,Caleb Finck,74
+Charles Mix,11,State House,21,REP,Caleb Finck,396
+Charles Mix,12,State House,21,REP,Caleb Finck,43
+Charles Mix,13,State House,21,REP,Caleb Finck,28
+Charles Mix,1,State House,21,REP,Lee Qualm,281
+Charles Mix,2,State House,21,REP,Lee Qualm,104
+Charles Mix,3,State House,21,REP,Lee Qualm,218
+Charles Mix,4,State House,21,REP,Lee Qualm,70
+Charles Mix,5,State House,21,REP,Lee Qualm,193
+Charles Mix,6,State House,21,REP,Lee Qualm,84
+Charles Mix,7,State House,21,REP,Lee Qualm,72
+Charles Mix,8,State House,21,REP,Lee Qualm,126
+Charles Mix,9,State House,21,REP,Lee Qualm,271
+Charles Mix,10,State House,21,REP,Lee Qualm,128
+Charles Mix,11,State House,21,REP,Lee Qualm,448
+Charles Mix,12,State House,21,REP,Lee Qualm,66
+Charles Mix,13,State House,21,REP,Lee Qualm,37
+Charles Mix,1,State House,21,DEM,Faith Spotted Eagle,128
+Charles Mix,2,State House,21,DEM,Faith Spotted Eagle,46
+Charles Mix,3,State House,21,DEM,Faith Spotted Eagle,210
+Charles Mix,4,State House,21,DEM,Faith Spotted Eagle,85
+Charles Mix,5,State House,21,DEM,Faith Spotted Eagle,116
+Charles Mix,6,State House,21,DEM,Faith Spotted Eagle,109
+Charles Mix,7,State House,21,DEM,Faith Spotted Eagle,30
+Charles Mix,8,State House,21,DEM,Faith Spotted Eagle,24
+Charles Mix,9,State House,21,DEM,Faith Spotted Eagle,50
+Charles Mix,10,State House,21,DEM,Faith Spotted Eagle,7
+Charles Mix,11,State House,21,DEM,Faith Spotted Eagle,85
+Charles Mix,12,State House,21,DEM,Faith Spotted Eagle,17
+Charles Mix,13,State House,21,DEM,Faith Spotted Eagle,18
+Charles Mix,1,State House,21,DEM,Anna Kerner Andersson,128
+Charles Mix,2,State House,21,DEM,Anna Kerner Andersson,77
+Charles Mix,3,State House,21,DEM,Anna Kerner Andersson,190
+Charles Mix,4,State House,21,DEM,Anna Kerner Andersson,79
+Charles Mix,5,State House,21,DEM,Anna Kerner Andersson,118
+Charles Mix,6,State House,21,DEM,Anna Kerner Andersson,102
+Charles Mix,7,State House,21,DEM,Anna Kerner Andersson,49
+Charles Mix,8,State House,21,DEM,Anna Kerner Andersson,50
+Charles Mix,9,State House,21,DEM,Anna Kerner Andersson,82
+Charles Mix,10,State House,21,DEM,Anna Kerner Andersson,16
+Charles Mix,11,State House,21,DEM,Anna Kerner Andersson,147
+Charles Mix,12,State House,21,DEM,Anna Kerner Andersson,41
+Charles Mix,13,State House,21,DEM,Anna Kerner Andersson,26

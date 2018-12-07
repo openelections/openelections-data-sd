@@ -1,0 +1,261 @@
+county,precinct,office,district,party,candidate,votes
+Custer,1,U.S. House,1,LIB,George D. Hendrickson,9
+Custer,2,U.S. House,1,LIB,George D. Hendrickson,4
+Custer,3,U.S. House,1,LIB,George D. Hendrickson,2
+Custer,4,U.S. House,1,LIB,George D. Hendrickson,3
+Custer,5,U.S. House,1,LIB,George D. Hendrickson,11
+Custer,6,U.S. House,1,LIB,George D. Hendrickson,7
+Custer,7,U.S. House,1,LIB,George D. Hendrickson,3
+Custer,8,U.S. House,1,LIB,George D. Hendrickson,7
+Custer,9,U.S. House,1,LIB,George D. Hendrickson,14
+Custer,10,U.S. House,1,LIB,George D. Hendrickson,2
+Custer,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",633
+Custer,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",110
+Custer,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",99
+Custer,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",230
+Custer,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",387
+Custer,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",210
+Custer,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",125
+Custer,8,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",255
+Custer,9,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",796
+Custer,10,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",99
+Custer,1,U.S. House,1,DEM,Tim Bjorkman,187
+Custer,2,U.S. House,1,DEM,Tim Bjorkman,26
+Custer,3,U.S. House,1,DEM,Tim Bjorkman,56
+Custer,4,U.S. House,1,DEM,Tim Bjorkman,102
+Custer,5,U.S. House,1,DEM,Tim Bjorkman,199
+Custer,6,U.S. House,1,DEM,Tim Bjorkman,112
+Custer,7,U.S. House,1,DEM,Tim Bjorkman,65
+Custer,8,U.S. House,1,DEM,Tim Bjorkman,160
+Custer,9,U.S. House,1,DEM,Tim Bjorkman,342
+Custer,10,U.S. House,1,DEM,Tim Bjorkman,24
+Custer,1,U.S. House,1,IND,Ron Wieczorek,16
+Custer,2,U.S. House,1,IND,Ron Wieczorek,1
+Custer,3,U.S. House,1,IND,Ron Wieczorek,10
+Custer,4,U.S. House,1,IND,Ron Wieczorek,7
+Custer,5,U.S. House,1,IND,Ron Wieczorek,13
+Custer,6,U.S. House,1,IND,Ron Wieczorek,10
+Custer,7,U.S. House,1,IND,Ron Wieczorek,8
+Custer,8,U.S. House,1,IND,Ron Wieczorek,8
+Custer,9,U.S. House,1,IND,Ron Wieczorek,25
+Custer,10,U.S. House,1,IND,Ron Wieczorek,1
+Custer,1,Governor,,LIB,Kurt Evans,9
+Custer,2,Governor,,LIB,Kurt Evans,4
+Custer,3,Governor,,LIB,Kurt Evans,4
+Custer,4,Governor,,LIB,Kurt Evans,3
+Custer,5,Governor,,LIB,Kurt Evans,20
+Custer,6,Governor,,LIB,Kurt Evans,6
+Custer,7,Governor,,LIB,Kurt Evans,9
+Custer,8,Governor,,LIB,Kurt Evans,7
+Custer,9,Governor,,LIB,Kurt Evans,11
+Custer,10,Governor,,LIB,Kurt Evans,0
+Custer,1,Governor,,REP,Kristi Noem,590
+Custer,2,Governor,,REP,Kristi Noem,97
+Custer,3,Governor,,REP,Kristi Noem,97
+Custer,4,Governor,,REP,Kristi Noem,223
+Custer,5,Governor,,REP,Kristi Noem,369
+Custer,6,Governor,,REP,Kristi Noem,207
+Custer,7,Governor,,REP,Kristi Noem,118
+Custer,8,Governor,,REP,Kristi Noem,233
+Custer,9,Governor,,REP,Kristi Noem,763
+Custer,10,Governor,,REP,Kristi Noem,92
+Custer,1,Governor,,DEM,Billie Sutton,254
+Custer,2,Governor,,DEM,Billie Sutton,41
+Custer,3,Governor,,DEM,Billie Sutton,70
+Custer,4,Governor,,DEM,Billie Sutton,120
+Custer,5,Governor,,DEM,Billie Sutton,226
+Custer,6,Governor,,DEM,Billie Sutton,130
+Custer,7,Governor,,DEM,Billie Sutton,76
+Custer,8,Governor,,DEM,Billie Sutton,194
+Custer,9,Governor,,DEM,Billie Sutton,402
+Custer,10,Governor,,DEM,Billie Sutton,34
+Custer,1,Secretary of State,,REP,Steve Barnett,656
+Custer,2,Secretary of State,,REP,Steve Barnett,114
+Custer,3,Secretary of State,,REP,Steve Barnett,107
+Custer,4,Secretary of State,,REP,Steve Barnett,240
+Custer,5,Secretary of State,,REP,Steve Barnett,421
+Custer,6,Secretary of State,,REP,Steve Barnett,226
+Custer,7,Secretary of State,,REP,Steve Barnett,137
+Custer,8,Secretary of State,,REP,Steve Barnett,271
+Custer,9,Secretary of State,,REP,Steve Barnett,830
+Custer,10,Secretary of State,,REP,Steve Barnett,100
+Custer,1,Secretary of State,,DEM,Alexandra Frederick,174
+Custer,2,Secretary of State,,DEM,Alexandra Frederick,24
+Custer,3,Secretary of State,,DEM,Alexandra Frederick,60
+Custer,4,Secretary of State,,DEM,Alexandra Frederick,94
+Custer,5,Secretary of State,,DEM,Alexandra Frederick,170
+Custer,6,Secretary of State,,DEM,Alexandra Frederick,110
+Custer,7,Secretary of State,,DEM,Alexandra Frederick,61
+Custer,8,Secretary of State,,DEM,Alexandra Frederick,145
+Custer,9,Secretary of State,,DEM,Alexandra Frederick,326
+Custer,10,Secretary of State,,DEM,Alexandra Frederick,21
+Custer,1,Attorney General,,REP,Jason Ravnsborg,612
+Custer,2,Attorney General,,REP,Jason Ravnsborg,106
+Custer,3,Attorney General,,REP,Jason Ravnsborg,96
+Custer,4,Attorney General,,REP,Jason Ravnsborg,222
+Custer,5,Attorney General,,REP,Jason Ravnsborg,399
+Custer,6,Attorney General,,REP,Jason Ravnsborg,205
+Custer,7,Attorney General,,REP,Jason Ravnsborg,130
+Custer,8,Attorney General,,REP,Jason Ravnsborg,250
+Custer,9,Attorney General,,REP,Jason Ravnsborg,774
+Custer,10,Attorney General,,REP,Jason Ravnsborg,98
+Custer,1,Attorney General,,DEM,Randy Seiler,225
+Custer,2,Attorney General,,DEM,Randy Seiler,31
+Custer,3,Attorney General,,DEM,Randy Seiler,69
+Custer,4,Attorney General,,DEM,Randy Seiler,113
+Custer,5,Attorney General,,DEM,Randy Seiler,200
+Custer,6,Attorney General,,DEM,Randy Seiler,132
+Custer,7,Attorney General,,DEM,Randy Seiler,69
+Custer,8,Attorney General,,DEM,Randy Seiler,165
+Custer,9,Attorney General,,DEM,Randy Seiler,382
+Custer,10,Attorney General,,DEM,Randy Seiler,26
+Custer,1,State Auditor,,REP,Rich Sattgast,646
+Custer,2,State Auditor,,REP,Rich Sattgast,112
+Custer,3,State Auditor,,REP,Rich Sattgast,101
+Custer,4,State Auditor,,REP,Rich Sattgast,233
+Custer,5,State Auditor,,REP,Rich Sattgast,405
+Custer,6,State Auditor,,REP,Rich Sattgast,225
+Custer,7,State Auditor,,REP,Rich Sattgast,133
+Custer,8,State Auditor,,REP,Rich Sattgast,274
+Custer,9,State Auditor,,REP,Rich Sattgast,812
+Custer,10,State Auditor,,REP,Rich Sattgast,101
+Custer,1,State Auditor,,DEM,Tom Cool,176
+Custer,2,State Auditor,,DEM,Tom Cool,24
+Custer,3,State Auditor,,DEM,Tom Cool,64
+Custer,4,State Auditor,,DEM,Tom Cool,91
+Custer,5,State Auditor,,DEM,Tom Cool,171
+Custer,6,State Auditor,,DEM,Tom Cool,107
+Custer,7,State Auditor,,DEM,Tom Cool,63
+Custer,8,State Auditor,,DEM,Tom Cool,137
+Custer,9,State Auditor,,DEM,Tom Cool,320
+Custer,10,State Auditor,,DEM,Tom Cool,23
+Custer,1,State Treasurer,,REP,Josh Haeder,633
+Custer,2,State Treasurer,,REP,Josh Haeder,111
+Custer,3,State Treasurer,,REP,Josh Haeder,105
+Custer,4,State Treasurer,,REP,Josh Haeder,231
+Custer,5,State Treasurer,,REP,Josh Haeder,399
+Custer,6,State Treasurer,,REP,Josh Haeder,224
+Custer,7,State Treasurer,,REP,Josh Haeder,127
+Custer,8,State Treasurer,,REP,Josh Haeder,269
+Custer,9,State Treasurer,,REP,Josh Haeder,803
+Custer,10,State Treasurer,,REP,Josh Haeder,100
+Custer,1,State Treasurer,,DEM,Aaron Matson,188
+Custer,2,State Treasurer,,DEM,Aaron Matson,25
+Custer,3,State Treasurer,,DEM,Aaron Matson,58
+Custer,4,State Treasurer,,DEM,Aaron Matson,93
+Custer,5,State Treasurer,,DEM,Aaron Matson,176
+Custer,6,State Treasurer,,DEM,Aaron Matson,108
+Custer,7,State Treasurer,,DEM,Aaron Matson,68
+Custer,8,State Treasurer,,DEM,Aaron Matson,137
+Custer,9,State Treasurer,,DEM,Aaron Matson,320
+Custer,10,State Treasurer,,DEM,Aaron Matson,23
+Custer,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,650
+Custer,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,113
+Custer,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,103
+Custer,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,227
+Custer,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,402
+Custer,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,222
+Custer,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,133
+Custer,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,263
+Custer,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,796
+Custer,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,100
+Custer,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,173
+Custer,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,23
+Custer,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,61
+Custer,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,93
+Custer,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,173
+Custer,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,112
+Custer,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,63
+Custer,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,147
+Custer,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,327
+Custer,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,24
+Custer,1,Public Utilities Commissioner,,REP,Kristie Fiegen,637
+Custer,2,Public Utilities Commissioner,,REP,Kristie Fiegen,109
+Custer,3,Public Utilities Commissioner,,REP,Kristie Fiegen,105
+Custer,4,Public Utilities Commissioner,,REP,Kristie Fiegen,227
+Custer,5,Public Utilities Commissioner,,REP,Kristie Fiegen,412
+Custer,6,Public Utilities Commissioner,,REP,Kristie Fiegen,223
+Custer,7,Public Utilities Commissioner,,REP,Kristie Fiegen,129
+Custer,8,Public Utilities Commissioner,,REP,Kristie Fiegen,266
+Custer,9,Public Utilities Commissioner,,REP,Kristie Fiegen,790
+Custer,10,Public Utilities Commissioner,,REP,Kristie Fiegen,96
+Custer,1,Public Utilities Commissioner,,DEM,Wayne Frederick,172
+Custer,2,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Custer,3,Public Utilities Commissioner,,DEM,Wayne Frederick,60
+Custer,4,Public Utilities Commissioner,,DEM,Wayne Frederick,92
+Custer,5,Public Utilities Commissioner,,DEM,Wayne Frederick,162
+Custer,6,Public Utilities Commissioner,,DEM,Wayne Frederick,108
+Custer,7,Public Utilities Commissioner,,DEM,Wayne Frederick,60
+Custer,8,Public Utilities Commissioner,,DEM,Wayne Frederick,132
+Custer,9,Public Utilities Commissioner,,DEM,Wayne Frederick,320
+Custer,10,Public Utilities Commissioner,,DEM,Wayne Frederick,28
+Custer,1,State Senate,30,LIB,A. Gideon Oakes,156
+Custer,2,State Senate,30,LIB,A. Gideon Oakes,25
+Custer,3,State Senate,30,LIB,A. Gideon Oakes,25
+Custer,4,State Senate,30,LIB,A. Gideon Oakes,55
+Custer,5,State Senate,30,LIB,A. Gideon Oakes,129
+Custer,6,State Senate,30,LIB,A. Gideon Oakes,72
+Custer,7,State Senate,30,LIB,A. Gideon Oakes,46
+Custer,8,State Senate,30,LIB,A. Gideon Oakes,85
+Custer,9,State Senate,30,LIB,A. Gideon Oakes,214
+Custer,10,State Senate,30,LIB,A. Gideon Oakes,17
+Custer,1,State Senate,30,REP,Lance Steven Russell,504
+Custer,2,State Senate,30,REP,Lance Steven Russell,93
+Custer,3,State Senate,30,REP,Lance Steven Russell,85
+Custer,4,State Senate,30,REP,Lance Steven Russell,188
+Custer,5,State Senate,30,REP,Lance Steven Russell,300
+Custer,6,State Senate,30,REP,Lance Steven Russell,160
+Custer,7,State Senate,30,REP,Lance Steven Russell,98
+Custer,8,State Senate,30,REP,Lance Steven Russell,198
+Custer,9,State Senate,30,REP,Lance Steven Russell,628
+Custer,10,State Senate,30,REP,Lance Steven Russell,86
+Custer,1,State Senate,30,DEM,Kristine Ina Winter,163
+Custer,2,State Senate,30,DEM,Kristine Ina Winter,18
+Custer,3,State Senate,30,DEM,Kristine Ina Winter,58
+Custer,4,State Senate,30,DEM,Kristine Ina Winter,95
+Custer,5,State Senate,30,DEM,Kristine Ina Winter,163
+Custer,6,State Senate,30,DEM,Kristine Ina Winter,108
+Custer,7,State Senate,30,DEM,Kristine Ina Winter,53
+Custer,8,State Senate,30,DEM,Kristine Ina Winter,133
+Custer,9,State Senate,30,DEM,Kristine Ina Winter,311
+Custer,10,State Senate,30,DEM,Kristine Ina Winter,21
+Custer,1,State House,30,REP,Timothy Ray Goodwin,524
+Custer,2,State House,30,REP,Timothy Ray Goodwin,96
+Custer,3,State House,30,REP,Timothy Ray Goodwin,97
+Custer,4,State House,30,REP,Timothy Ray Goodwin,208
+Custer,5,State House,30,REP,Timothy Ray Goodwin,379
+Custer,6,State House,30,REP,Timothy Ray Goodwin,201
+Custer,7,State House,30,REP,Timothy Ray Goodwin,110
+Custer,8,State House,30,REP,Timothy Ray Goodwin,243
+Custer,9,State House,30,REP,Timothy Ray Goodwin,753
+Custer,10,State House,30,REP,Timothy Ray Goodwin,91
+Custer,1,State House,30,DEM,Julie Frye-Mueller,542
+Custer,2,State House,30,DEM,Julie Frye-Mueller,101
+Custer,3,State House,30,DEM,Julie Frye-Mueller,82
+Custer,4,State House,30,DEM,Julie Frye-Mueller,193
+Custer,5,State House,30,DEM,Julie Frye-Mueller,346
+Custer,6,State House,30,DEM,Julie Frye-Mueller,193
+Custer,7,State House,30,DEM,Julie Frye-Mueller,103
+Custer,8,State House,30,DEM,Julie Frye-Mueller,208
+Custer,9,State House,30,DEM,Julie Frye-Mueller,687
+Custer,10,State House,30,DEM,Julie Frye-Mueller,83
+Custer,1,State House,30,REP,Karen McGregor,187
+Custer,2,State House,30,REP,Karen McGregor,31
+Custer,3,State House,30,REP,Karen McGregor,56
+Custer,4,State House,30,REP,Karen McGregor,85
+Custer,5,State House,30,REP,Karen McGregor,167
+Custer,6,State House,30,REP,Karen McGregor,103
+Custer,7,State House,30,REP,Karen McGregor,62
+Custer,8,State House,30,REP,Karen McGregor,128
+Custer,9,State House,30,REP,Karen McGregor,306
+Custer,10,State House,30,REP,Karen McGregor,24
+Custer,1,State House,30,DEM,Whitney Raver,149
+Custer,2,State House,30,DEM,Whitney Raver,18
+Custer,3,State House,30,DEM,Whitney Raver,50
+Custer,4,State House,30,DEM,Whitney Raver,80
+Custer,5,State House,30,DEM,Whitney Raver,158
+Custer,6,State House,30,DEM,Whitney Raver,112
+Custer,7,State House,30,DEM,Whitney Raver,60
+Custer,8,State House,30,DEM,Whitney Raver,138
+Custer,9,State House,30,DEM,Whitney Raver,290
+Custer,10,State House,30,DEM,Whitney Raver,21
