@@ -1,0 +1,261 @@
+county,precinct,office,district,party,candidate,votes
+Deuel,1,U.S. House,1,LIB,George D. Hendrickson,3
+Deuel,3,U.S. House,1,LIB,George D. Hendrickson,4
+Deuel,4,U.S. House,1,LIB,George D. Hendrickson,1
+Deuel,5,U.S. House,1,LIB,George D. Hendrickson,1
+Deuel,6,U.S. House,1,LIB,George D. Hendrickson,1
+Deuel,7,U.S. House,1,LIB,George D. Hendrickson,4
+Deuel,8,U.S. House,1,LIB,George D. Hendrickson,6
+Deuel,9,U.S. House,1,LIB,George D. Hendrickson,3
+Deuel,10,U.S. House,1,LIB,George D. Hendrickson,1
+Deuel,11,U.S. House,1,LIB,George D. Hendrickson,3
+Deuel,1,U.S. House,1,REP,Dusty Johnson,84
+Deuel,3,U.S. House,1,REP,Dusty Johnson,199
+Deuel,4,U.S. House,1,REP,Dusty Johnson,96
+Deuel,5,U.S. House,1,REP,Dusty Johnson,101
+Deuel,6,U.S. House,1,REP,Dusty Johnson,116
+Deuel,7,U.S. House,1,REP,Dusty Johnson,100
+Deuel,8,U.S. House,1,REP,Dusty Johnson,175
+Deuel,9,U.S. House,1,REP,Dusty Johnson,183
+Deuel,10,U.S. House,1,REP,Dusty Johnson,106
+Deuel,11,U.S. House,1,REP,Dusty Johnson,112
+Deuel,1,U.S. House,1,DEM,Tim Bjorkman,52
+Deuel,3,U.S. House,1,DEM,Tim Bjorkman,69
+Deuel,4,U.S. House,1,DEM,Tim Bjorkman,58
+Deuel,5,U.S. House,1,DEM,Tim Bjorkman,69
+Deuel,6,U.S. House,1,DEM,Tim Bjorkman,54
+Deuel,7,U.S. House,1,DEM,Tim Bjorkman,50
+Deuel,8,U.S. House,1,DEM,Tim Bjorkman,71
+Deuel,9,U.S. House,1,DEM,Tim Bjorkman,76
+Deuel,10,U.S. House,1,DEM,Tim Bjorkman,52
+Deuel,11,U.S. House,1,DEM,Tim Bjorkman,73
+Deuel,1,U.S. House,1,IND,Ron Wieczorek,1
+Deuel,3,U.S. House,1,IND,Ron Wieczorek,7
+Deuel,4,U.S. House,1,IND,Ron Wieczorek,5
+Deuel,5,U.S. House,1,IND,Ron Wieczorek,1
+Deuel,6,U.S. House,1,IND,Ron Wieczorek,3
+Deuel,7,U.S. House,1,IND,Ron Wieczorek,7
+Deuel,8,U.S. House,1,IND,Ron Wieczorek,8
+Deuel,9,U.S. House,1,IND,Ron Wieczorek,5
+Deuel,10,U.S. House,1,IND,Ron Wieczorek,2
+Deuel,11,U.S. House,1,IND,Ron Wieczorek,7
+Deuel,1,Governor,,LIB,Kurt Evans,1
+Deuel,3,Governor,,LIB,Kurt Evans,3
+Deuel,4,Governor,,LIB,Kurt Evans,3
+Deuel,5,Governor,,LIB,Kurt Evans,2
+Deuel,6,Governor,,LIB,Kurt Evans,2
+Deuel,7,Governor,,LIB,Kurt Evans,4
+Deuel,8,Governor,,LIB,Kurt Evans,10
+Deuel,9,Governor,,LIB,Kurt Evans,8
+Deuel,10,Governor,,LIB,Kurt Evans,3
+Deuel,11,Governor,,LIB,Kurt Evans,7
+Deuel,1,Governor,,REP,Kristi Noem,74
+Deuel,3,Governor,,REP,Kristi Noem,177
+Deuel,4,Governor,,REP,Kristi Noem,80
+Deuel,5,Governor,,REP,Kristi Noem,69
+Deuel,6,Governor,,REP,Kristi Noem,91
+Deuel,7,Governor,,REP,Kristi Noem,90
+Deuel,8,Governor,,REP,Kristi Noem,146
+Deuel,9,Governor,,REP,Kristi Noem,146
+Deuel,10,Governor,,REP,Kristi Noem,95
+Deuel,11,Governor,,REP,Kristi Noem,85
+Deuel,1,Governor,,DEM,Billie Sutton,67
+Deuel,3,Governor,,DEM,Billie Sutton,97
+Deuel,4,Governor,,DEM,Billie Sutton,82
+Deuel,5,Governor,,DEM,Billie Sutton,100
+Deuel,6,Governor,,DEM,Billie Sutton,83
+Deuel,7,Governor,,DEM,Billie Sutton,71
+Deuel,8,Governor,,DEM,Billie Sutton,105
+Deuel,9,Governor,,DEM,Billie Sutton,118
+Deuel,10,Governor,,DEM,Billie Sutton,64
+Deuel,11,Governor,,DEM,Billie Sutton,106
+Deuel,1,Secretary of State,,REP,Steve Barnett,85
+Deuel,3,Secretary of State,,REP,Steve Barnett,197
+Deuel,4,Secretary of State,,REP,Steve Barnett,100
+Deuel,5,Secretary of State,,REP,Steve Barnett,98
+Deuel,6,Secretary of State,,REP,Steve Barnett,117
+Deuel,7,Secretary of State,,REP,Steve Barnett,101
+Deuel,8,Secretary of State,,REP,Steve Barnett,176
+Deuel,9,Secretary of State,,REP,Steve Barnett,200
+Deuel,10,Secretary of State,,REP,Steve Barnett,114
+Deuel,11,Secretary of State,,REP,Steve Barnett,112
+Deuel,1,Secretary of State,,DEM,Alexandra Frederick,49
+Deuel,3,Secretary of State,,DEM,Alexandra Frederick,69
+Deuel,4,Secretary of State,,DEM,Alexandra Frederick,54
+Deuel,5,Secretary of State,,DEM,Alexandra Frederick,70
+Deuel,6,Secretary of State,,DEM,Alexandra Frederick,50
+Deuel,7,Secretary of State,,DEM,Alexandra Frederick,41
+Deuel,8,Secretary of State,,DEM,Alexandra Frederick,77
+Deuel,9,Secretary of State,,DEM,Alexandra Frederick,58
+Deuel,10,Secretary of State,,DEM,Alexandra Frederick,42
+Deuel,11,Secretary of State,,DEM,Alexandra Frederick,74
+Deuel,1,Attorney General,,REP,Jason Ravnsborg,71
+Deuel,3,Attorney General,,REP,Jason Ravnsborg,176
+Deuel,4,Attorney General,,REP,Jason Ravnsborg,89
+Deuel,5,Attorney General,,REP,Jason Ravnsborg,78
+Deuel,6,Attorney General,,REP,Jason Ravnsborg,84
+Deuel,7,Attorney General,,REP,Jason Ravnsborg,90
+Deuel,8,Attorney General,,REP,Jason Ravnsborg,157
+Deuel,9,Attorney General,,REP,Jason Ravnsborg,154
+Deuel,10,Attorney General,,REP,Jason Ravnsborg,96
+Deuel,11,Attorney General,,REP,Jason Ravnsborg,107
+Deuel,1,Attorney General,,DEM,Randy Seiler,63
+Deuel,3,Attorney General,,DEM,Randy Seiler,93
+Deuel,4,Attorney General,,DEM,Randy Seiler,62
+Deuel,5,Attorney General,,DEM,Randy Seiler,87
+Deuel,6,Attorney General,,DEM,Randy Seiler,80
+Deuel,7,Attorney General,,DEM,Randy Seiler,60
+Deuel,8,Attorney General,,DEM,Randy Seiler,99
+Deuel,9,Attorney General,,DEM,Randy Seiler,104
+Deuel,10,Attorney General,,DEM,Randy Seiler,57
+Deuel,11,Attorney General,,DEM,Randy Seiler,82
+Deuel,1,State Auditor,,REP,Rich Sattgast,78
+Deuel,3,State Auditor,,REP,Rich Sattgast,184
+Deuel,4,State Auditor,,REP,Rich Sattgast,92
+Deuel,5,State Auditor,,REP,Rich Sattgast,97
+Deuel,6,State Auditor,,REP,Rich Sattgast,110
+Deuel,7,State Auditor,,REP,Rich Sattgast,99
+Deuel,8,State Auditor,,REP,Rich Sattgast,166
+Deuel,9,State Auditor,,REP,Rich Sattgast,183
+Deuel,10,State Auditor,,REP,Rich Sattgast,110
+Deuel,11,State Auditor,,REP,Rich Sattgast,111
+Deuel,1,State Auditor,,DEM,Tom Cool,45
+Deuel,3,State Auditor,,DEM,Tom Cool,75
+Deuel,4,State Auditor,,DEM,Tom Cool,50
+Deuel,5,State Auditor,,DEM,Tom Cool,67
+Deuel,6,State Auditor,,DEM,Tom Cool,57
+Deuel,7,State Auditor,,DEM,Tom Cool,42
+Deuel,8,State Auditor,,DEM,Tom Cool,79
+Deuel,9,State Auditor,,DEM,Tom Cool,69
+Deuel,10,State Auditor,,DEM,Tom Cool,43
+Deuel,11,State Auditor,,DEM,Tom Cool,73
+Deuel,1,State Treasurer,,REP,Josh Haeder,76
+Deuel,3,State Treasurer,,REP,Josh Haeder,179
+Deuel,4,State Treasurer,,REP,Josh Haeder,90
+Deuel,5,State Treasurer,,REP,Josh Haeder,96
+Deuel,6,State Treasurer,,REP,Josh Haeder,95
+Deuel,7,State Treasurer,,REP,Josh Haeder,95
+Deuel,8,State Treasurer,,REP,Josh Haeder,170
+Deuel,9,State Treasurer,,REP,Josh Haeder,174
+Deuel,10,State Treasurer,,REP,Josh Haeder,102
+Deuel,11,State Treasurer,,REP,Josh Haeder,100
+Deuel,1,State Treasurer,,DEM,Aaron Matson,52
+Deuel,3,State Treasurer,,DEM,Aaron Matson,81
+Deuel,4,State Treasurer,,DEM,Aaron Matson,53
+Deuel,5,State Treasurer,,DEM,Aaron Matson,63
+Deuel,6,State Treasurer,,DEM,Aaron Matson,64
+Deuel,7,State Treasurer,,DEM,Aaron Matson,45
+Deuel,8,State Treasurer,,DEM,Aaron Matson,74
+Deuel,9,State Treasurer,,DEM,Aaron Matson,76
+Deuel,10,State Treasurer,,DEM,Aaron Matson,46
+Deuel,11,State Treasurer,,DEM,Aaron Matson,87
+Deuel,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,77
+Deuel,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,176
+Deuel,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,92
+Deuel,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,87
+Deuel,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,90
+Deuel,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,96
+Deuel,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,160
+Deuel,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,170
+Deuel,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,104
+Deuel,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,114
+Deuel,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,48
+Deuel,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,72
+Deuel,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,49
+Deuel,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,69
+Deuel,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,65
+Deuel,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,45
+Deuel,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,76
+Deuel,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,69
+Deuel,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,47
+Deuel,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,71
+Deuel,1,Public Utilities Commissioner,,REP,Kristie Fiegen,69
+Deuel,3,Public Utilities Commissioner,,REP,Kristie Fiegen,198
+Deuel,4,Public Utilities Commissioner,,REP,Kristie Fiegen,95
+Deuel,5,Public Utilities Commissioner,,REP,Kristie Fiegen,102
+Deuel,6,Public Utilities Commissioner,,REP,Kristie Fiegen,110
+Deuel,7,Public Utilities Commissioner,,REP,Kristie Fiegen,106
+Deuel,8,Public Utilities Commissioner,,REP,Kristie Fiegen,167
+Deuel,9,Public Utilities Commissioner,,REP,Kristie Fiegen,187
+Deuel,10,Public Utilities Commissioner,,REP,Kristie Fiegen,106
+Deuel,11,Public Utilities Commissioner,,REP,Kristie Fiegen,112
+Deuel,1,Public Utilities Commissioner,,DEM,Wayne Frederick,58
+Deuel,3,Public Utilities Commissioner,,DEM,Wayne Frederick,60
+Deuel,4,Public Utilities Commissioner,,DEM,Wayne Frederick,51
+Deuel,5,Public Utilities Commissioner,,DEM,Wayne Frederick,64
+Deuel,6,Public Utilities Commissioner,,DEM,Wayne Frederick,51
+Deuel,7,Public Utilities Commissioner,,DEM,Wayne Frederick,41
+Deuel,8,Public Utilities Commissioner,,DEM,Wayne Frederick,82
+Deuel,9,Public Utilities Commissioner,,DEM,Wayne Frederick,69
+Deuel,10,Public Utilities Commissioner,,DEM,Wayne Frederick,46
+Deuel,11,Public Utilities Commissioner,,DEM,Wayne Frederick,73
+Deuel,1,State Senate,4,REP,John Wilk,74
+Deuel,3,State Senate,4,REP,John Wilk,179
+Deuel,4,State Senate,4,REP,John Wilk,68
+Deuel,5,State Senate,4,REP,John Wilk,66
+Deuel,6,State Senate,4,REP,John Wilk,89
+Deuel,7,State Senate,4,REP,John Wilk,88
+Deuel,8,State Senate,4,REP,John Wilk,155
+Deuel,9,State Senate,4,REP,John Wilk,164
+Deuel,10,State Senate,4,REP,John Wilk,91
+Deuel,11,State Senate,4,REP,John Wilk,101
+Deuel,1,State Senate,4,DEM,Dennis Evenson,61
+Deuel,3,State Senate,4,DEM,Dennis Evenson,91
+Deuel,4,State Senate,4,DEM,Dennis Evenson,94
+Deuel,5,State Senate,4,DEM,Dennis Evenson,107
+Deuel,6,State Senate,4,DEM,Dennis Evenson,80
+Deuel,7,State Senate,4,DEM,Dennis Evenson,68
+Deuel,8,State Senate,4,DEM,Dennis Evenson,100
+Deuel,9,State Senate,4,DEM,Dennis Evenson,107
+Deuel,10,State Senate,4,DEM,Dennis Evenson,66
+Deuel,11,State Senate,4,DEM,Dennis Evenson,96
+Deuel,1,State House,4,LIB,Daryl Lamar Root,5
+Deuel,3,State House,4,LIB,Daryl Lamar Root,10
+Deuel,4,State House,4,LIB,Daryl Lamar Root,17
+Deuel,5,State House,4,LIB,Daryl Lamar Root,8
+Deuel,6,State House,4,LIB,Daryl Lamar Root,16
+Deuel,7,State House,4,LIB,Daryl Lamar Root,8
+Deuel,8,State House,4,LIB,Daryl Lamar Root,15
+Deuel,9,State House,4,LIB,Daryl Lamar Root,17
+Deuel,10,State House,4,LIB,Daryl Lamar Root,9
+Deuel,11,State House,4,LIB,Daryl Lamar Root,7
+Deuel,1,State House,4,REP,Fred Deutsch,70
+Deuel,3,State House,4,REP,Fred Deutsch,188
+Deuel,4,State House,4,REP,Fred Deutsch,80
+Deuel,5,State House,4,REP,Fred Deutsch,95
+Deuel,6,State House,4,REP,Fred Deutsch,96
+Deuel,7,State House,4,REP,Fred Deutsch,84
+Deuel,8,State House,4,REP,Fred Deutsch,157
+Deuel,9,State House,4,REP,Fred Deutsch,159
+Deuel,10,State House,4,REP,Fred Deutsch,97
+Deuel,11,State House,4,REP,Fred Deutsch,104
+Deuel,1,State House,4,REP,John Mills,67
+Deuel,3,State House,4,REP,John Mills,146
+Deuel,4,State House,4,REP,John Mills,77
+Deuel,5,State House,4,REP,John Mills,72
+Deuel,6,State House,4,REP,John Mills,94
+Deuel,7,State House,4,REP,John Mills,81
+Deuel,8,State House,4,REP,John Mills,132
+Deuel,9,State House,4,REP,John Mills,148
+Deuel,10,State House,4,REP,John Mills,92
+Deuel,11,State House,4,REP,John Mills,97
+Deuel,1,State House,4,DEM,Jim Chilson,41
+Deuel,3,State House,4,DEM,Jim Chilson,48
+Deuel,4,State House,4,DEM,Jim Chilson,38
+Deuel,5,State House,4,DEM,Jim Chilson,48
+Deuel,6,State House,4,DEM,Jim Chilson,34
+Deuel,7,State House,4,DEM,Jim Chilson,39
+Deuel,8,State House,4,DEM,Jim Chilson,50
+Deuel,9,State House,4,DEM,Jim Chilson,50
+Deuel,10,State House,4,DEM,Jim Chilson,39
+Deuel,11,State House,4,DEM,Jim Chilson,59
+Deuel,1,State House,4,DEM,Kathy Tyler,63
+Deuel,3,State House,4,DEM,Kathy Tyler,98
+Deuel,4,State House,4,DEM,Kathy Tyler,75
+Deuel,5,State House,4,DEM,Kathy Tyler,90
+Deuel,6,State House,4,DEM,Kathy Tyler,71
+Deuel,7,State House,4,DEM,Kathy Tyler,68
+Deuel,8,State House,4,DEM,Kathy Tyler,95
+Deuel,9,State House,4,DEM,Kathy Tyler,98
+Deuel,10,State House,4,DEM,Kathy Tyler,54
+Deuel,11,State House,4,DEM,Kathy Tyler,94
