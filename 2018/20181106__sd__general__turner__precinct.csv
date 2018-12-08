@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes
+Turner,1,U.S. House,1,LIB,George D. Hendrickson,11
+Turner,2,U.S. House,1,LIB,George D. Hendrickson,10
+Turner,3,U.S. House,1,LIB,George D. Hendrickson,1
+Turner,4,U.S. House,1,LIB,George D. Hendrickson,3
+Turner,5,U.S. House,1,LIB,George D. Hendrickson,7
+Turner,6,U.S. House,1,LIB,George D. Hendrickson,5
+Turner,7,U.S. House,1,LIB,George D. Hendrickson,1
+Turner,8,U.S. House,1,LIB,George D. Hendrickson,9
+Turner,1,U.S. House,1,REP,Dusty Johnson,451
+Turner,2,U.S. House,1,REP,Dusty Johnson,539
+Turner,3,U.S. House,1,REP,Dusty Johnson,192
+Turner,4,U.S. House,1,REP,Dusty Johnson,199
+Turner,5,U.S. House,1,REP,Dusty Johnson,340
+Turner,6,U.S. House,1,REP,Dusty Johnson,288
+Turner,7,U.S. House,1,REP,Dusty Johnson,94
+Turner,8,U.S. House,1,REP,Dusty Johnson,364
+Turner,1,U.S. House,1,DEM,Tim Bjorkman,284
+Turner,2,U.S. House,1,DEM,Tim Bjorkman,277
+Turner,3,U.S. House,1,DEM,Tim Bjorkman,88
+Turner,4,U.S. House,1,DEM,Tim Bjorkman,96
+Turner,5,U.S. House,1,DEM,Tim Bjorkman,164
+Turner,6,U.S. House,1,DEM,Tim Bjorkman,145
+Turner,7,U.S. House,1,DEM,Tim Bjorkman,70
+Turner,8,U.S. House,1,DEM,Tim Bjorkman,138
+Turner,1,U.S. House,1,IND,Ron Wieczorek,16
+Turner,2,U.S. House,1,IND,Ron Wieczorek,20
+Turner,3,U.S. House,1,IND,Ron Wieczorek,5
+Turner,4,U.S. House,1,IND,Ron Wieczorek,2
+Turner,5,U.S. House,1,IND,Ron Wieczorek,8
+Turner,6,U.S. House,1,IND,Ron Wieczorek,4
+Turner,7,U.S. House,1,IND,Ron Wieczorek,4
+Turner,8,U.S. House,1,IND,Ron Wieczorek,11
+Turner,1,Governor,,LIB,Kurt Evans,11
+Turner,2,Governor,,LIB,Kurt Evans,11
+Turner,3,Governor,,LIB,Kurt Evans,2
+Turner,4,Governor,,LIB,Kurt Evans,2
+Turner,5,Governor,,LIB,Kurt Evans,6
+Turner,6,Governor,,LIB,Kurt Evans,1
+Turner,7,Governor,,LIB,Kurt Evans,0
+Turner,8,Governor,,LIB,Kurt Evans,6
+Turner,1,Governor,,REP,Kristi Noem,471
+Turner,2,Governor,,REP,Kristi Noem,481
+Turner,3,Governor,,REP,Kristi Noem,182
+Turner,4,Governor,,REP,Kristi Noem,198
+Turner,5,Governor,,REP,Kristi Noem,290
+Turner,6,Governor,,REP,Kristi Noem,251
+Turner,7,Governor,,REP,Kristi Noem,75
+Turner,8,Governor,,REP,Kristi Noem,324
+Turner,1,Governor,,DEM,Billie Sutton,280
+Turner,2,Governor,,DEM,Billie Sutton,354
+Turner,3,Governor,,DEM,Billie Sutton,101
+Turner,4,Governor,,DEM,Billie Sutton,102
+Turner,5,Governor,,DEM,Billie Sutton,226
+Turner,6,Governor,,DEM,Billie Sutton,198
+Turner,7,Governor,,DEM,Billie Sutton,97
+Turner,8,Governor,,DEM,Billie Sutton,198
+Turner,1,Secretary of State,,REP,Steve Barnett,548
+Turner,2,Secretary of State,,REP,Steve Barnett,606
+Turner,3,Secretary of State,,REP,Steve Barnett,204
+Turner,4,Secretary of State,,REP,Steve Barnett,211
+Turner,5,Secretary of State,,REP,Steve Barnett,356
+Turner,6,Secretary of State,,REP,Steve Barnett,321
+Turner,7,Secretary of State,,REP,Steve Barnett,98
+Turner,8,Secretary of State,,REP,Steve Barnett,386
+Turner,1,Secretary of State,,DEM,Alexandra Frederick,172
+Turner,2,Secretary of State,,DEM,Alexandra Frederick,208
+Turner,3,Secretary of State,,DEM,Alexandra Frederick,68
+Turner,4,Secretary of State,,DEM,Alexandra Frederick,74
+Turner,5,Secretary of State,,DEM,Alexandra Frederick,134
+Turner,6,Secretary of State,,DEM,Alexandra Frederick,109
+Turner,7,Secretary of State,,DEM,Alexandra Frederick,63
+Turner,8,Secretary of State,,DEM,Alexandra Frederick,118
+Turner,1,Attorney General,,REP,Jason Ravnsborg,483
+Turner,2,Attorney General,,REP,Jason Ravnsborg,518
+Turner,3,Attorney General,,REP,Jason Ravnsborg,182
+Turner,4,Attorney General,,REP,Jason Ravnsborg,179
+Turner,5,Attorney General,,REP,Jason Ravnsborg,309
+Turner,6,Attorney General,,REP,Jason Ravnsborg,271
+Turner,7,Attorney General,,REP,Jason Ravnsborg,81
+Turner,8,Attorney General,,REP,Jason Ravnsborg,325
+Turner,1,Attorney General,,DEM,Randy Seiler,240
+Turner,2,Attorney General,,DEM,Randy Seiler,293
+Turner,3,Attorney General,,DEM,Randy Seiler,86
+Turner,4,Attorney General,,DEM,Randy Seiler,104
+Turner,5,Attorney General,,DEM,Randy Seiler,181
+Turner,6,Attorney General,,DEM,Randy Seiler,157
+Turner,7,Attorney General,,DEM,Randy Seiler,82
+Turner,8,Attorney General,,DEM,Randy Seiler,182
+Turner,1,State Auditor,,REP,Rich Sattgast,510
+Turner,2,State Auditor,,REP,Rich Sattgast,569
+Turner,3,State Auditor,,REP,Rich Sattgast,191
+Turner,4,State Auditor,,REP,Rich Sattgast,198
+Turner,5,State Auditor,,REP,Rich Sattgast,332
+Turner,6,State Auditor,,REP,Rich Sattgast,295
+Turner,7,State Auditor,,REP,Rich Sattgast,96
+Turner,8,State Auditor,,REP,Rich Sattgast,367
+Turner,1,State Auditor,,DEM,Tom Cool,178
+Turner,2,State Auditor,,DEM,Tom Cool,218
+Turner,3,State Auditor,,DEM,Tom Cool,68
+Turner,4,State Auditor,,DEM,Tom Cool,72
+Turner,5,State Auditor,,DEM,Tom Cool,136
+Turner,6,State Auditor,,DEM,Tom Cool,117
+Turner,7,State Auditor,,DEM,Tom Cool,60
+Turner,8,State Auditor,,DEM,Tom Cool,124
+Turner,1,State Treasurer,,REP,Josh Haeder,502
+Turner,2,State Treasurer,,REP,Josh Haeder,540
+Turner,3,State Treasurer,,REP,Josh Haeder,185
+Turner,4,State Treasurer,,REP,Josh Haeder,197
+Turner,5,State Treasurer,,REP,Josh Haeder,314
+Turner,6,State Treasurer,,REP,Josh Haeder,284
+Turner,7,State Treasurer,,REP,Josh Haeder,92
+Turner,8,State Treasurer,,REP,Josh Haeder,336
+Turner,1,State Treasurer,,DEM,Aaron Matson,184
+Turner,2,State Treasurer,,DEM,Aaron Matson,241
+Turner,3,State Treasurer,,DEM,Aaron Matson,71
+Turner,4,State Treasurer,,DEM,Aaron Matson,75
+Turner,5,State Treasurer,,DEM,Aaron Matson,152
+Turner,6,State Treasurer,,DEM,Aaron Matson,122
+Turner,7,State Treasurer,,DEM,Aaron Matson,65
+Turner,8,State Treasurer,,DEM,Aaron Matson,148
+Turner,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,491
+Turner,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,538
+Turner,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,173
+Turner,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,192
+Turner,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,331
+Turner,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,274
+Turner,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,84
+Turner,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,331
+Turner,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,200
+Turner,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,242
+Turner,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,81
+Turner,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,73
+Turner,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,144
+Turner,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,137
+Turner,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,76
+Turner,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,167
+Turner,1,Public Utilities Commissioner,,REP,Kristie Fiegen,555
+Turner,2,Public Utilities Commissioner,,REP,Kristie Fiegen,640
+Turner,3,Public Utilities Commissioner,,REP,Kristie Fiegen,206
+Turner,4,Public Utilities Commissioner,,REP,Kristie Fiegen,201
+Turner,5,Public Utilities Commissioner,,REP,Kristie Fiegen,380
+Turner,6,Public Utilities Commissioner,,REP,Kristie Fiegen,332
+Turner,7,Public Utilities Commissioner,,REP,Kristie Fiegen,103
+Turner,8,Public Utilities Commissioner,,REP,Kristie Fiegen,375
+Turner,1,Public Utilities Commissioner,,DEM,Wayne Frederick,156
+Turner,2,Public Utilities Commissioner,,DEM,Wayne Frederick,183
+Turner,3,Public Utilities Commissioner,,DEM,Wayne Frederick,65
+Turner,4,Public Utilities Commissioner,,DEM,Wayne Frederick,69
+Turner,5,Public Utilities Commissioner,,DEM,Wayne Frederick,112
+Turner,6,Public Utilities Commissioner,,DEM,Wayne Frederick,91
+Turner,7,Public Utilities Commissioner,,DEM,Wayne Frederick,54
+Turner,8,Public Utilities Commissioner,,DEM,Wayne Frederick,116
+Turner,1,State Senate,17,REP,Arthur Rusch,498
+Turner,2,State Senate,17,REP,Arthur Rusch,475
+Turner,3,State Senate,17,REP,Arthur Rusch,182
+Turner,4,State Senate,17,REP,Arthur Rusch,190
+Turner,5,State Senate,17,REP,Arthur Rusch,317
+Turner,6,State Senate,17,REP,Arthur Rusch,289
+Turner,7,State Senate,17,REP,Arthur Rusch,96
+Turner,8,State Senate,17,REP,Arthur Rusch,372
+Turner,1,State Senate,17,DEM,Howard Grinager,221
+Turner,2,State Senate,17,DEM,Howard Grinager,332
+Turner,3,State Senate,17,DEM,Howard Grinager,76
+Turner,4,State Senate,17,DEM,Howard Grinager,79
+Turner,5,State Senate,17,DEM,Howard Grinager,172
+Turner,6,State Senate,17,DEM,Howard Grinager,134
+Turner,7,State Senate,17,DEM,Howard Grinager,61
+Turner,8,State Senate,17,DEM,Howard Grinager,121
+Turner,1,State House,17,LIB,Gregory Baldwin,97
+Turner,2,State House,17,LIB,Gregory Baldwin,110
+Turner,3,State House,17,LIB,Gregory Baldwin,37
+Turner,4,State House,17,LIB,Gregory Baldwin,35
+Turner,5,State House,17,LIB,Gregory Baldwin,55
+Turner,6,State House,17,LIB,Gregory Baldwin,50
+Turner,7,State House,17,LIB,Gregory Baldwin,17
+Turner,8,State House,17,LIB,Gregory Baldwin,60
+Turner,1,State House,17,REP,Nancy Rasmussen,514
+Turner,2,State House,17,REP,Nancy Rasmussen,587
+Turner,3,State House,17,REP,Nancy Rasmussen,194
+Turner,4,State House,17,REP,Nancy Rasmussen,205
+Turner,5,State House,17,REP,Nancy Rasmussen,345
+Turner,6,State House,17,REP,Nancy Rasmussen,298
+Turner,7,State House,17,REP,Nancy Rasmussen,92
+Turner,8,State House,17,REP,Nancy Rasmussen,351
+Turner,1,State House,17,DEM,Ray Ring,293
+Turner,2,State House,17,DEM,Ray Ring,321
+Turner,3,State House,17,DEM,Ray Ring,87
+Turner,4,State House,17,DEM,Ray Ring,102
+Turner,5,State House,17,DEM,Ray Ring,230
+Turner,6,State House,17,DEM,Ray Ring,182
+Turner,7,State House,17,DEM,Ray Ring,91
+Turner,8,State House,17,DEM,Ray Ring,210
+Turner,1,State House,17,DEM,John A. Gors,171
+Turner,2,State House,17,DEM,John A. Gors,231
+Turner,3,State House,17,DEM,John A. Gors,78
+Turner,4,State House,17,DEM,John A. Gors,66
+Turner,5,State House,17,DEM,John A. Gors,158
+Turner,6,State House,17,DEM,John A. Gors,147
+Turner,7,State House,17,DEM,John A. Gors,64
+Turner,8,State House,17,DEM,John A. Gors,156

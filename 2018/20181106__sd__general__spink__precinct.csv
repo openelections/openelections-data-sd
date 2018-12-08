@@ -1,0 +1,226 @@
+county,precinct,office,district,party,candidate,votes
+Spink,1,U.S. House,1,LIB,George D. Hendrickson,2
+Spink,3,U.S. House,1,LIB,George D. Hendrickson,1
+Spink,4,U.S. House,1,LIB,George D. Hendrickson,1
+Spink,5,U.S. House,1,LIB,George D. Hendrickson,1
+Spink,6,U.S. House,1,LIB,George D. Hendrickson,2
+Spink,7,U.S. House,1,LIB,George D. Hendrickson,2
+Spink,8,U.S. House,1,LIB,George D. Hendrickson,2
+Spink,9,U.S. House,1,LIB,George D. Hendrickson,10
+Spink,10,U.S. House,1,LIB,George D. Hendrickson,5
+Spink,1,U.S. House,1,REP,Dusty Johnson,277
+Spink,3,U.S. House,1,REP,Dusty Johnson,199
+Spink,4,U.S. House,1,REP,Dusty Johnson,185
+Spink,5,U.S. House,1,REP,Dusty Johnson,122
+Spink,6,U.S. House,1,REP,Dusty Johnson,66
+Spink,7,U.S. House,1,REP,Dusty Johnson,263
+Spink,8,U.S. House,1,REP,Dusty Johnson,84
+Spink,9,U.S. House,1,REP,Dusty Johnson,267
+Spink,10,U.S. House,1,REP,Dusty Johnson,273
+Spink,1,U.S. House,1,DEM,Tim Bjorkman,102
+Spink,3,U.S. House,1,DEM,Tim Bjorkman,102
+Spink,4,U.S. House,1,DEM,Tim Bjorkman,83
+Spink,5,U.S. House,1,DEM,Tim Bjorkman,72
+Spink,6,U.S. House,1,DEM,Tim Bjorkman,33
+Spink,7,U.S. House,1,DEM,Tim Bjorkman,147
+Spink,8,U.S. House,1,DEM,Tim Bjorkman,56
+Spink,9,U.S. House,1,DEM,Tim Bjorkman,193
+Spink,10,U.S. House,1,DEM,Tim Bjorkman,170
+Spink,1,U.S. House,1,IND,Ron Wieczorek,8
+Spink,3,U.S. House,1,IND,Ron Wieczorek,6
+Spink,4,U.S. House,1,IND,Ron Wieczorek,4
+Spink,5,U.S. House,1,IND,Ron Wieczorek,7
+Spink,6,U.S. House,1,IND,Ron Wieczorek,3
+Spink,7,U.S. House,1,IND,Ron Wieczorek,8
+Spink,8,U.S. House,1,IND,Ron Wieczorek,2
+Spink,9,U.S. House,1,IND,Ron Wieczorek,10
+Spink,10,U.S. House,1,IND,Ron Wieczorek,12
+Spink,1,Governor,,LIB,Kurt Evans,3
+Spink,3,Governor,,LIB,Kurt Evans,3
+Spink,4,Governor,,LIB,Kurt Evans,5
+Spink,5,Governor,,LIB,Kurt Evans,2
+Spink,6,Governor,,LIB,Kurt Evans,1
+Spink,7,Governor,,LIB,Kurt Evans,4
+Spink,8,Governor,,LIB,Kurt Evans,1
+Spink,9,Governor,,LIB,Kurt Evans,6
+Spink,10,Governor,,LIB,Kurt Evans,12
+Spink,1,Governor,,REP,Kristi Noem,238
+Spink,3,Governor,,REP,Kristi Noem,165
+Spink,4,Governor,,REP,Kristi Noem,148
+Spink,5,Governor,,REP,Kristi Noem,104
+Spink,6,Governor,,REP,Kristi Noem,45
+Spink,7,Governor,,REP,Kristi Noem,221
+Spink,8,Governor,,REP,Kristi Noem,69
+Spink,9,Governor,,REP,Kristi Noem,182
+Spink,10,Governor,,REP,Kristi Noem,204
+Spink,1,Governor,,DEM,Billie Sutton,151
+Spink,3,Governor,,DEM,Billie Sutton,142
+Spink,4,Governor,,DEM,Billie Sutton,120
+Spink,5,Governor,,DEM,Billie Sutton,101
+Spink,6,Governor,,DEM,Billie Sutton,58
+Spink,7,Governor,,DEM,Billie Sutton,199
+Spink,8,Governor,,DEM,Billie Sutton,75
+Spink,9,Governor,,DEM,Billie Sutton,294
+Spink,10,Governor,,DEM,Billie Sutton,254
+Spink,1,Secretary of State,,REP,Steve Barnett,287
+Spink,3,Secretary of State,,REP,Steve Barnett,221
+Spink,4,Secretary of State,,REP,Steve Barnett,196
+Spink,5,Secretary of State,,REP,Steve Barnett,135
+Spink,6,Secretary of State,,REP,Steve Barnett,63
+Spink,7,Secretary of State,,REP,Steve Barnett,279
+Spink,8,Secretary of State,,REP,Steve Barnett,96
+Spink,9,Secretary of State,,REP,Steve Barnett,284
+Spink,10,Secretary of State,,REP,Steve Barnett,283
+Spink,1,Secretary of State,,DEM,Alexandra Frederick,91
+Spink,3,Secretary of State,,DEM,Alexandra Frederick,84
+Spink,4,Secretary of State,,DEM,Alexandra Frederick,66
+Spink,5,Secretary of State,,DEM,Alexandra Frederick,67
+Spink,6,Secretary of State,,DEM,Alexandra Frederick,36
+Spink,7,Secretary of State,,DEM,Alexandra Frederick,128
+Spink,8,Secretary of State,,DEM,Alexandra Frederick,45
+Spink,9,Secretary of State,,DEM,Alexandra Frederick,181
+Spink,10,Secretary of State,,DEM,Alexandra Frederick,166
+Spink,1,Attorney General,,REP,Jason Ravnsborg,254
+Spink,3,Attorney General,,REP,Jason Ravnsborg,180
+Spink,4,Attorney General,,REP,Jason Ravnsborg,152
+Spink,5,Attorney General,,REP,Jason Ravnsborg,97
+Spink,6,Attorney General,,REP,Jason Ravnsborg,56
+Spink,7,Attorney General,,REP,Jason Ravnsborg,224
+Spink,8,Attorney General,,REP,Jason Ravnsborg,72
+Spink,9,Attorney General,,REP,Jason Ravnsborg,211
+Spink,10,Attorney General,,REP,Jason Ravnsborg,230
+Spink,1,Attorney General,,DEM,Randy Seiler,132
+Spink,3,Attorney General,,DEM,Randy Seiler,126
+Spink,4,Attorney General,,DEM,Randy Seiler,104
+Spink,5,Attorney General,,DEM,Randy Seiler,98
+Spink,6,Attorney General,,DEM,Randy Seiler,43
+Spink,7,Attorney General,,DEM,Randy Seiler,188
+Spink,8,Attorney General,,DEM,Randy Seiler,66
+Spink,9,Attorney General,,DEM,Randy Seiler,253
+Spink,10,Attorney General,,DEM,Randy Seiler,214
+Spink,1,State Auditor,,REP,Rich Sattgast,285
+Spink,3,State Auditor,,REP,Rich Sattgast,209
+Spink,4,State Auditor,,REP,Rich Sattgast,176
+Spink,5,State Auditor,,REP,Rich Sattgast,118
+Spink,6,State Auditor,,REP,Rich Sattgast,63
+Spink,7,State Auditor,,REP,Rich Sattgast,259
+Spink,8,State Auditor,,REP,Rich Sattgast,89
+Spink,9,State Auditor,,REP,Rich Sattgast,263
+Spink,10,State Auditor,,REP,Rich Sattgast,274
+Spink,1,State Auditor,,DEM,Tom Cool,93
+Spink,3,State Auditor,,DEM,Tom Cool,92
+Spink,4,State Auditor,,DEM,Tom Cool,77
+Spink,5,State Auditor,,DEM,Tom Cool,72
+Spink,6,State Auditor,,DEM,Tom Cool,33
+Spink,7,State Auditor,,DEM,Tom Cool,141
+Spink,8,State Auditor,,DEM,Tom Cool,43
+Spink,9,State Auditor,,DEM,Tom Cool,188
+Spink,10,State Auditor,,DEM,Tom Cool,169
+Spink,1,State Treasurer,,REP,Josh Haeder,262
+Spink,3,State Treasurer,,REP,Josh Haeder,213
+Spink,4,State Treasurer,,REP,Josh Haeder,169
+Spink,5,State Treasurer,,REP,Josh Haeder,123
+Spink,6,State Treasurer,,REP,Josh Haeder,49
+Spink,7,State Treasurer,,REP,Josh Haeder,234
+Spink,8,State Treasurer,,REP,Josh Haeder,76
+Spink,9,State Treasurer,,REP,Josh Haeder,236
+Spink,10,State Treasurer,,REP,Josh Haeder,253
+Spink,1,State Treasurer,,DEM,Aaron Matson,110
+Spink,3,State Treasurer,,DEM,Aaron Matson,88
+Spink,4,State Treasurer,,DEM,Aaron Matson,81
+Spink,5,State Treasurer,,DEM,Aaron Matson,71
+Spink,6,State Treasurer,,DEM,Aaron Matson,43
+Spink,7,State Treasurer,,DEM,Aaron Matson,165
+Spink,8,State Treasurer,,DEM,Aaron Matson,56
+Spink,9,State Treasurer,,DEM,Aaron Matson,213
+Spink,10,State Treasurer,,DEM,Aaron Matson,180
+Spink,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,263
+Spink,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,189
+Spink,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,167
+Spink,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,107
+Spink,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,51
+Spink,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,248
+Spink,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,76
+Spink,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,232
+Spink,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,244
+Spink,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,104
+Spink,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,107
+Spink,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,84
+Spink,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,77
+Spink,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,40
+Spink,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,149
+Spink,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,56
+Spink,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,213
+Spink,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,188
+Spink,1,Public Utilities Commissioner,,REP,Kristie Fiegen,269
+Spink,3,Public Utilities Commissioner,,REP,Kristie Fiegen,212
+Spink,4,Public Utilities Commissioner,,REP,Kristie Fiegen,179
+Spink,5,Public Utilities Commissioner,,REP,Kristie Fiegen,118
+Spink,6,Public Utilities Commissioner,,REP,Kristie Fiegen,56
+Spink,7,Public Utilities Commissioner,,REP,Kristie Fiegen,257
+Spink,8,Public Utilities Commissioner,,REP,Kristie Fiegen,84
+Spink,9,Public Utilities Commissioner,,REP,Kristie Fiegen,264
+Spink,10,Public Utilities Commissioner,,REP,Kristie Fiegen,266
+Spink,1,Public Utilities Commissioner,,DEM,Wayne Frederick,104
+Spink,3,Public Utilities Commissioner,,DEM,Wayne Frederick,86
+Spink,4,Public Utilities Commissioner,,DEM,Wayne Frederick,75
+Spink,5,Public Utilities Commissioner,,DEM,Wayne Frederick,69
+Spink,6,Public Utilities Commissioner,,DEM,Wayne Frederick,40
+Spink,7,Public Utilities Commissioner,,DEM,Wayne Frederick,139
+Spink,8,Public Utilities Commissioner,,DEM,Wayne Frederick,51
+Spink,9,Public Utilities Commissioner,,DEM,Wayne Frederick,191
+Spink,10,Public Utilities Commissioner,,DEM,Wayne Frederick,175
+Spink,1,State Senate,2,REP,Brock L. Greenfield,315
+Spink,3,State Senate,23,REP,Justin R. Cronin,205
+Spink,4,State Senate,2,REP,Brock L. Greenfield,192
+Spink,5,State Senate,2,REP,Brock L. Greenfield,130
+Spink,6,State Senate,2,REP,Brock L. Greenfield,59
+Spink,7,State Senate,2,REP,Brock L. Greenfield,265
+Spink,8,State Senate,2,REP,Brock L. Greenfield,93
+Spink,9,State Senate,2,REP,Brock L. Greenfield,249
+Spink,10,State Senate,2,REP,Brock L. Greenfield,258
+Spink,1,State Senate,2,DEM,Paul Register,71
+Spink,3,State Senate,23,DEM,Joe Yracheta,84
+Spink,4,State Senate,2,DEM,Paul Register,70
+Spink,5,State Senate,2,DEM,Paul Register,68
+Spink,6,State Senate,2,DEM,Paul Register,39
+Spink,7,State Senate,2,DEM,Paul Register,140
+Spink,8,State Senate,2,DEM,Paul Register,51
+Spink,9,State Senate,2,DEM,Paul Register,205
+Spink,10,State Senate,2,DEM,Paul Register,184
+Spink,1,State House,2,REP,Kaleb W. Weis,156
+Spink,3,State House,23,REP,Spencer Gosch,187
+Spink,4,State House,2,REP,Kaleb W. Weis,122
+Spink,5,State House,2,REP,Kaleb W. Weis,62
+Spink,6,State House,2,REP,Kaleb W. Weis,36
+Spink,7,State House,2,REP,Kaleb W. Weis,195
+Spink,8,State House,2,REP,Kaleb W. Weis,51
+Spink,9,State House,2,REP,Kaleb W. Weis,192
+Spink,10,State House,2,REP,Kaleb W. Weis,192
+Spink,1,State House,2,REP,Lana J. Greenfield,280
+Spink,3,State House,23,REP,John A. Lake,164
+Spink,4,State House,2,REP,Lana J. Greenfield,160
+Spink,5,State House,2,REP,Lana J. Greenfield,105
+Spink,6,State House,2,REP,Lana J. Greenfield,43
+Spink,7,State House,2,REP,Lana J. Greenfield,225
+Spink,8,State House,2,REP,Lana J. Greenfield,86
+Spink,9,State House,2,REP,Lana J. Greenfield,222
+Spink,10,State House,2,REP,Lana J. Greenfield,212
+Spink,1,State House,2,DEM,Jenae Hansen,145
+Spink,3,State House,23,DEM,Eleanor Iverson,89
+Spink,4,State House,2,DEM,Jenae Hansen,117
+Spink,5,State House,2,DEM,Jenae Hansen,103
+Spink,6,State House,2,DEM,Jenae Hansen,57
+Spink,7,State House,2,DEM,Jenae Hansen,207
+Spink,8,State House,2,DEM,Jenae Hansen,71
+Spink,9,State House,2,DEM,Jenae Hansen,244
+Spink,10,State House,2,DEM,Jenae Hansen,235
+Spink,1,State House,2,DEM,Mike McHugh,87
+Spink,3,State House,23,DEM,Margaret Ann Walsh,86
+Spink,4,State House,2,DEM,Mike McHugh,74
+Spink,5,State House,2,DEM,Mike McHugh,58
+Spink,6,State House,2,DEM,Mike McHugh,33
+Spink,7,State House,2,DEM,Mike McHugh,126
+Spink,8,State House,2,DEM,Mike McHugh,37
+Spink,9,State House,2,DEM,Mike McHugh,175
+Spink,10,State House,2,DEM,Mike McHugh,160

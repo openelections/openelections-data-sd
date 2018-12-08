@@ -1,0 +1,251 @@
+county,precinct,office,district,party,candidate,votes
+Walworth,1,U.S. House,1,LIB,George D. Hendrickson,0
+Walworth,2,U.S. House,1,LIB,George D. Hendrickson,3
+Walworth,3,U.S. House,1,LIB,George D. Hendrickson,6
+Walworth,4,U.S. House,1,LIB,George D. Hendrickson,4
+Walworth,5,U.S. House,1,LIB,George D. Hendrickson,3
+Walworth,6,U.S. House,1,LIB,George D. Hendrickson,7
+Walworth,7,U.S. House,1,LIB,George D. Hendrickson,3
+Walworth,8,U.S. House,1,LIB,George D. Hendrickson,2
+Walworth,9,U.S. House,1,LIB,George D. Hendrickson,0
+Walworth,10,U.S. House,1,LIB,George D. Hendrickson,0
+Walworth,1,U.S. House,1,REP,Dusty Johnson,111
+Walworth,2,U.S. House,1,REP,Dusty Johnson,114
+Walworth,3,U.S. House,1,REP,Dusty Johnson,322
+Walworth,4,U.S. House,1,REP,Dusty Johnson,91
+Walworth,5,U.S. House,1,REP,Dusty Johnson,194
+Walworth,6,U.S. House,1,REP,Dusty Johnson,308
+Walworth,7,U.S. House,1,REP,Dusty Johnson,284
+Walworth,8,U.S. House,1,REP,Dusty Johnson,61
+Walworth,9,U.S. House,1,REP,Dusty Johnson,51
+Walworth,10,U.S. House,1,REP,Dusty Johnson,112
+Walworth,1,U.S. House,1,DEM,Tim Bjorkman,20
+Walworth,2,U.S. House,1,DEM,Tim Bjorkman,35
+Walworth,3,U.S. House,1,DEM,Tim Bjorkman,64
+Walworth,4,U.S. House,1,DEM,Tim Bjorkman,44
+Walworth,5,U.S. House,1,DEM,Tim Bjorkman,96
+Walworth,6,U.S. House,1,DEM,Tim Bjorkman,116
+Walworth,7,U.S. House,1,DEM,Tim Bjorkman,105
+Walworth,8,U.S. House,1,DEM,Tim Bjorkman,15
+Walworth,9,U.S. House,1,DEM,Tim Bjorkman,14
+Walworth,10,U.S. House,1,DEM,Tim Bjorkman,19
+Walworth,1,U.S. House,1,IND,Ron Wieczorek,5
+Walworth,2,U.S. House,1,IND,Ron Wieczorek,3
+Walworth,3,U.S. House,1,IND,Ron Wieczorek,2
+Walworth,4,U.S. House,1,IND,Ron Wieczorek,1
+Walworth,5,U.S. House,1,IND,Ron Wieczorek,7
+Walworth,6,U.S. House,1,IND,Ron Wieczorek,11
+Walworth,7,U.S. House,1,IND,Ron Wieczorek,5
+Walworth,8,U.S. House,1,IND,Ron Wieczorek,1
+Walworth,9,U.S. House,1,IND,Ron Wieczorek,1
+Walworth,10,U.S. House,1,IND,Ron Wieczorek,4
+Walworth,1,Governor,,LIB,Kurt Evans,1
+Walworth,2,Governor,,LIB,Kurt Evans,5
+Walworth,3,Governor,,LIB,Kurt Evans,8
+Walworth,4,Governor,,LIB,Kurt Evans,7
+Walworth,5,Governor,,LIB,Kurt Evans,3
+Walworth,6,Governor,,LIB,Kurt Evans,7
+Walworth,7,Governor,,LIB,Kurt Evans,3
+Walworth,8,Governor,,LIB,Kurt Evans,3
+Walworth,9,Governor,,LIB,Kurt Evans,1
+Walworth,10,Governor,,LIB,Kurt Evans,1
+Walworth,1,Governor,,REP,Kristi Noem,101
+Walworth,2,Governor,,REP,Kristi Noem,94
+Walworth,3,Governor,,REP,Kristi Noem,276
+Walworth,4,Governor,,REP,Kristi Noem,84
+Walworth,5,Governor,,REP,Kristi Noem,175
+Walworth,6,Governor,,REP,Kristi Noem,274
+Walworth,7,Governor,,REP,Kristi Noem,257
+Walworth,8,Governor,,REP,Kristi Noem,61
+Walworth,9,Governor,,REP,Kristi Noem,44
+Walworth,10,Governor,,REP,Kristi Noem,102
+Walworth,1,Governor,,DEM,Billie Sutton,32
+Walworth,2,Governor,,DEM,Billie Sutton,55
+Walworth,3,Governor,,DEM,Billie Sutton,113
+Walworth,4,Governor,,DEM,Billie Sutton,53
+Walworth,5,Governor,,DEM,Billie Sutton,125
+Walworth,6,Governor,,DEM,Billie Sutton,161
+Walworth,7,Governor,,DEM,Billie Sutton,140
+Walworth,8,Governor,,DEM,Billie Sutton,17
+Walworth,9,Governor,,DEM,Billie Sutton,23
+Walworth,10,Governor,,DEM,Billie Sutton,33
+Walworth,1,Secretary of State,,REP,Steve Barnett,123
+Walworth,2,Secretary of State,,REP,Steve Barnett,133
+Walworth,3,Secretary of State,,REP,Steve Barnett,337
+Walworth,4,Secretary of State,,REP,Steve Barnett,103
+Walworth,5,Secretary of State,,REP,Steve Barnett,200
+Walworth,6,Secretary of State,,REP,Steve Barnett,317
+Walworth,7,Secretary of State,,REP,Steve Barnett,303
+Walworth,8,Secretary of State,,REP,Steve Barnett,65
+Walworth,9,Secretary of State,,REP,Steve Barnett,51
+Walworth,10,Secretary of State,,REP,Steve Barnett,120
+Walworth,1,Secretary of State,,DEM,Alexandra Frederick,13
+Walworth,2,Secretary of State,,DEM,Alexandra Frederick,15
+Walworth,3,Secretary of State,,DEM,Alexandra Frederick,47
+Walworth,4,Secretary of State,,DEM,Alexandra Frederick,33
+Walworth,5,Secretary of State,,DEM,Alexandra Frederick,93
+Walworth,6,Secretary of State,,DEM,Alexandra Frederick,110
+Walworth,7,Secretary of State,,DEM,Alexandra Frederick,88
+Walworth,8,Secretary of State,,DEM,Alexandra Frederick,12
+Walworth,9,Secretary of State,,DEM,Alexandra Frederick,10
+Walworth,10,Secretary of State,,DEM,Alexandra Frederick,14
+Walworth,1,Attorney General,,REP,Jason Ravnsborg,100
+Walworth,2,Attorney General,,REP,Jason Ravnsborg,97
+Walworth,3,Attorney General,,REP,Jason Ravnsborg,280
+Walworth,4,Attorney General,,REP,Jason Ravnsborg,96
+Walworth,5,Attorney General,,REP,Jason Ravnsborg,155
+Walworth,6,Attorney General,,REP,Jason Ravnsborg,243
+Walworth,7,Attorney General,,REP,Jason Ravnsborg,217
+Walworth,8,Attorney General,,REP,Jason Ravnsborg,55
+Walworth,9,Attorney General,,REP,Jason Ravnsborg,48
+Walworth,10,Attorney General,,REP,Jason Ravnsborg,89
+Walworth,1,Attorney General,,DEM,Randy Seiler,35
+Walworth,2,Attorney General,,DEM,Randy Seiler,53
+Walworth,3,Attorney General,,DEM,Randy Seiler,103
+Walworth,4,Attorney General,,DEM,Randy Seiler,44
+Walworth,5,Attorney General,,DEM,Randy Seiler,139
+Walworth,6,Attorney General,,DEM,Randy Seiler,183
+Walworth,7,Attorney General,,DEM,Randy Seiler,176
+Walworth,8,Attorney General,,DEM,Randy Seiler,22
+Walworth,9,Attorney General,,DEM,Randy Seiler,19
+Walworth,10,Attorney General,,DEM,Randy Seiler,45
+Walworth,1,State Auditor,,REP,Rich Sattgast,108
+Walworth,2,State Auditor,,REP,Rich Sattgast,118
+Walworth,3,State Auditor,,REP,Rich Sattgast,306
+Walworth,4,State Auditor,,REP,Rich Sattgast,97
+Walworth,5,State Auditor,,REP,Rich Sattgast,186
+Walworth,6,State Auditor,,REP,Rich Sattgast,293
+Walworth,7,State Auditor,,REP,Rich Sattgast,291
+Walworth,8,State Auditor,,REP,Rich Sattgast,62
+Walworth,9,State Auditor,,REP,Rich Sattgast,51
+Walworth,10,State Auditor,,REP,Rich Sattgast,113
+Walworth,1,State Auditor,,DEM,Tom Cool,24
+Walworth,2,State Auditor,,DEM,Tom Cool,28
+Walworth,3,State Auditor,,DEM,Tom Cool,63
+Walworth,4,State Auditor,,DEM,Tom Cool,39
+Walworth,5,State Auditor,,DEM,Tom Cool,101
+Walworth,6,State Auditor,,DEM,Tom Cool,120
+Walworth,7,State Auditor,,DEM,Tom Cool,90
+Walworth,8,State Auditor,,DEM,Tom Cool,12
+Walworth,9,State Auditor,,DEM,Tom Cool,12
+Walworth,10,State Auditor,,DEM,Tom Cool,17
+Walworth,1,State Treasurer,,REP,Josh Haeder,113
+Walworth,2,State Treasurer,,REP,Josh Haeder,120
+Walworth,3,State Treasurer,,REP,Josh Haeder,308
+Walworth,4,State Treasurer,,REP,Josh Haeder,92
+Walworth,5,State Treasurer,,REP,Josh Haeder,196
+Walworth,6,State Treasurer,,REP,Josh Haeder,305
+Walworth,7,State Treasurer,,REP,Josh Haeder,286
+Walworth,8,State Treasurer,,REP,Josh Haeder,59
+Walworth,9,State Treasurer,,REP,Josh Haeder,49
+Walworth,10,State Treasurer,,REP,Josh Haeder,110
+Walworth,1,State Treasurer,,DEM,Aaron Matson,19
+Walworth,2,State Treasurer,,DEM,Aaron Matson,27
+Walworth,3,State Treasurer,,DEM,Aaron Matson,58
+Walworth,4,State Treasurer,,DEM,Aaron Matson,38
+Walworth,5,State Treasurer,,DEM,Aaron Matson,94
+Walworth,6,State Treasurer,,DEM,Aaron Matson,117
+Walworth,7,State Treasurer,,DEM,Aaron Matson,95
+Walworth,8,State Treasurer,,DEM,Aaron Matson,14
+Walworth,9,State Treasurer,,DEM,Aaron Matson,12
+Walworth,10,State Treasurer,,DEM,Aaron Matson,18
+Walworth,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,111
+Walworth,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,120
+Walworth,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,306
+Walworth,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,91
+Walworth,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,186
+Walworth,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,305
+Walworth,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,277
+Walworth,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,56
+Walworth,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,48
+Walworth,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,109
+Walworth,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,21
+Walworth,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,23
+Walworth,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,62
+Walworth,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,38
+Walworth,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,100
+Walworth,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,113
+Walworth,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,99
+Walworth,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,16
+Walworth,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,13
+Walworth,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,18
+Walworth,1,Public Utilities Commissioner,,REP,Kristie Fiegen,108
+Walworth,2,Public Utilities Commissioner,,REP,Kristie Fiegen,119
+Walworth,3,Public Utilities Commissioner,,REP,Kristie Fiegen,313
+Walworth,4,Public Utilities Commissioner,,REP,Kristie Fiegen,91
+Walworth,5,Public Utilities Commissioner,,REP,Kristie Fiegen,192
+Walworth,6,Public Utilities Commissioner,,REP,Kristie Fiegen,309
+Walworth,7,Public Utilities Commissioner,,REP,Kristie Fiegen,290
+Walworth,8,Public Utilities Commissioner,,REP,Kristie Fiegen,62
+Walworth,9,Public Utilities Commissioner,,REP,Kristie Fiegen,52
+Walworth,10,Public Utilities Commissioner,,REP,Kristie Fiegen,110
+Walworth,1,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Walworth,2,Public Utilities Commissioner,,DEM,Wayne Frederick,22
+Walworth,3,Public Utilities Commissioner,,DEM,Wayne Frederick,50
+Walworth,4,Public Utilities Commissioner,,DEM,Wayne Frederick,38
+Walworth,5,Public Utilities Commissioner,,DEM,Wayne Frederick,97
+Walworth,6,Public Utilities Commissioner,,DEM,Wayne Frederick,111
+Walworth,7,Public Utilities Commissioner,,DEM,Wayne Frederick,92
+Walworth,8,Public Utilities Commissioner,,DEM,Wayne Frederick,14
+Walworth,9,Public Utilities Commissioner,,DEM,Wayne Frederick,10
+Walworth,10,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Walworth,1,State Senate,23,REP,Justin R. Cronin,122
+Walworth,2,State Senate,23,REP,Justin R. Cronin,124
+Walworth,3,State Senate,23,REP,Justin R. Cronin,337
+Walworth,4,State Senate,23,REP,Justin R. Cronin,110
+Walworth,5,State Senate,23,REP,Justin R. Cronin,212
+Walworth,6,State Senate,23,REP,Justin R. Cronin,330
+Walworth,7,State Senate,23,REP,Justin R. Cronin,316
+Walworth,8,State Senate,23,REP,Justin R. Cronin,73
+Walworth,9,State Senate,23,REP,Justin R. Cronin,55
+Walworth,10,State Senate,23,REP,Justin R. Cronin,121
+Walworth,1,State Senate,23,DEM,Joe Yracheta,10
+Walworth,2,State Senate,23,DEM,Joe Yracheta,23
+Walworth,3,State Senate,23,DEM,Joe Yracheta,47
+Walworth,4,State Senate,23,DEM,Joe Yracheta,27
+Walworth,5,State Senate,23,DEM,Joe Yracheta,81
+Walworth,6,State Senate,23,DEM,Joe Yracheta,93
+Walworth,7,State Senate,23,DEM,Joe Yracheta,72
+Walworth,8,State Senate,23,DEM,Joe Yracheta,6
+Walworth,9,State Senate,23,DEM,Joe Yracheta,11
+Walworth,10,State Senate,23,DEM,Joe Yracheta,12
+Walworth,1,State House,23,REP,Spencer Gosch,120
+Walworth,2,State House,23,REP,Spencer Gosch,131
+Walworth,3,State House,23,REP,Spencer Gosch,357
+Walworth,4,State House,23,REP,Spencer Gosch,109
+Walworth,5,State House,23,REP,Spencer Gosch,218
+Walworth,6,State House,23,REP,Spencer Gosch,328
+Walworth,7,State House,23,REP,Spencer Gosch,318
+Walworth,8,State House,23,REP,Spencer Gosch,68
+Walworth,9,State House,23,REP,Spencer Gosch,62
+Walworth,10,State House,23,REP,Spencer Gosch,116
+Walworth,1,State House,23,REP,John A. Lake,108
+Walworth,2,State House,23,REP,John A. Lake,113
+Walworth,3,State House,23,REP,John A. Lake,285
+Walworth,4,State House,23,REP,John A. Lake,80
+Walworth,5,State House,23,REP,John A. Lake,164
+Walworth,6,State House,23,REP,John A. Lake,235
+Walworth,7,State House,23,REP,John A. Lake,255
+Walworth,8,State House,23,REP,John A. Lake,64
+Walworth,9,State House,23,REP,John A. Lake,46
+Walworth,10,State House,23,REP,John A. Lake,101
+Walworth,1,State House,23,DEM,Eleanor Iverson,10
+Walworth,2,State House,23,DEM,Eleanor Iverson,24
+Walworth,3,State House,23,DEM,Eleanor Iverson,42
+Walworth,4,State House,23,DEM,Eleanor Iverson,33
+Walworth,5,State House,23,DEM,Eleanor Iverson,66
+Walworth,6,State House,23,DEM,Eleanor Iverson,93
+Walworth,7,State House,23,DEM,Eleanor Iverson,73
+Walworth,8,State House,23,DEM,Eleanor Iverson,8
+Walworth,9,State House,23,DEM,Eleanor Iverson,9
+Walworth,10,State House,23,DEM,Eleanor Iverson,16
+Walworth,1,State House,23,DEM,Margaret Ann Walsh,11
+Walworth,2,State House,23,DEM,Margaret Ann Walsh,17
+Walworth,3,State House,23,DEM,Margaret Ann Walsh,35
+Walworth,4,State House,23,DEM,Margaret Ann Walsh,27
+Walworth,5,State House,23,DEM,Margaret Ann Walsh,67
+Walworth,6,State House,23,DEM,Margaret Ann Walsh,87
+Walworth,7,State House,23,DEM,Margaret Ann Walsh,65
+Walworth,8,State House,23,DEM,Margaret Ann Walsh,5
+Walworth,9,State House,23,DEM,Margaret Ann Walsh,6
+Walworth,10,State House,23,DEM,Margaret Ann Walsh,9

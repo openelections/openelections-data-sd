@@ -1,0 +1,326 @@
+county,precinct,office,district,party,candidate,votes
+Union,1,U.S. House,1,LIB,George D. Hendrickson,0
+Union,2,U.S. House,1,LIB,George D. Hendrickson,3
+Union,3,U.S. House,1,LIB,George D. Hendrickson,17
+Union,4,U.S. House,1,LIB,George D. Hendrickson,6
+Union,5,U.S. House,1,LIB,George D. Hendrickson,8
+Union,6,U.S. House,1,LIB,George D. Hendrickson,4
+Union,7,U.S. House,1,LIB,George D. Hendrickson,2
+Union,8,U.S. House,1,LIB,George D. Hendrickson,5
+Union,9,U.S. House,1,LIB,George D. Hendrickson,4
+Union,10,U.S. House,1,LIB,George D. Hendrickson,6
+Union,11,U.S. House,1,LIB,George D. Hendrickson,8
+Union,12,U.S. House,1,LIB,George D. Hendrickson,10
+Union,13,U.S. House,1,LIB,George D. Hendrickson,13
+Union,1,U.S. House,1,REP,Dusty Johnson,194
+Union,2,U.S. House,1,REP,Dusty Johnson,196
+Union,3,U.S. House,1,REP,Dusty Johnson,364
+Union,4,U.S. House,1,REP,Dusty Johnson,178
+Union,5,U.S. House,1,REP,Dusty Johnson,247
+Union,6,U.S. House,1,REP,Dusty Johnson,308
+Union,7,U.S. House,1,REP,Dusty Johnson,342
+Union,8,U.S. House,1,REP,Dusty Johnson,257
+Union,9,U.S. House,1,REP,Dusty Johnson,208
+Union,10,U.S. House,1,REP,Dusty Johnson,289
+Union,11,U.S. House,1,REP,Dusty Johnson,342
+Union,12,U.S. House,1,REP,Dusty Johnson,549
+Union,13,U.S. House,1,REP,Dusty Johnson,808
+Union,1,U.S. House,1,DEM,Tim Bjorkman,97
+Union,2,U.S. House,1,DEM,Tim Bjorkman,147
+Union,3,U.S. House,1,DEM,Tim Bjorkman,215
+Union,4,U.S. House,1,DEM,Tim Bjorkman,116
+Union,5,U.S. House,1,DEM,Tim Bjorkman,178
+Union,6,U.S. House,1,DEM,Tim Bjorkman,252
+Union,7,U.S. House,1,DEM,Tim Bjorkman,115
+Union,8,U.S. House,1,DEM,Tim Bjorkman,119
+Union,9,U.S. House,1,DEM,Tim Bjorkman,132
+Union,10,U.S. House,1,DEM,Tim Bjorkman,174
+Union,11,U.S. House,1,DEM,Tim Bjorkman,161
+Union,12,U.S. House,1,DEM,Tim Bjorkman,166
+Union,13,U.S. House,1,DEM,Tim Bjorkman,280
+Union,1,U.S. House,1,IND,Ron Wieczorek,4
+Union,2,U.S. House,1,IND,Ron Wieczorek,5
+Union,3,U.S. House,1,IND,Ron Wieczorek,14
+Union,4,U.S. House,1,IND,Ron Wieczorek,6
+Union,5,U.S. House,1,IND,Ron Wieczorek,5
+Union,6,U.S. House,1,IND,Ron Wieczorek,6
+Union,7,U.S. House,1,IND,Ron Wieczorek,4
+Union,8,U.S. House,1,IND,Ron Wieczorek,2
+Union,9,U.S. House,1,IND,Ron Wieczorek,9
+Union,10,U.S. House,1,IND,Ron Wieczorek,11
+Union,11,U.S. House,1,IND,Ron Wieczorek,12
+Union,12,U.S. House,1,IND,Ron Wieczorek,10
+Union,13,U.S. House,1,IND,Ron Wieczorek,11
+Union,1,Governor,,LIB,Kurt Evans,2
+Union,2,Governor,,LIB,Kurt Evans,4
+Union,3,Governor,,LIB,Kurt Evans,18
+Union,4,Governor,,LIB,Kurt Evans,3
+Union,5,Governor,,LIB,Kurt Evans,5
+Union,6,Governor,,LIB,Kurt Evans,4
+Union,7,Governor,,LIB,Kurt Evans,1
+Union,8,Governor,,LIB,Kurt Evans,2
+Union,9,Governor,,LIB,Kurt Evans,3
+Union,10,Governor,,LIB,Kurt Evans,3
+Union,11,Governor,,LIB,Kurt Evans,5
+Union,12,Governor,,LIB,Kurt Evans,11
+Union,13,Governor,,LIB,Kurt Evans,12
+Union,1,Governor,,REP,Kristi Noem,188
+Union,2,Governor,,REP,Kristi Noem,174
+Union,3,Governor,,REP,Kristi Noem,320
+Union,4,Governor,,REP,Kristi Noem,165
+Union,5,Governor,,REP,Kristi Noem,232
+Union,6,Governor,,REP,Kristi Noem,281
+Union,7,Governor,,REP,Kristi Noem,339
+Union,8,Governor,,REP,Kristi Noem,227
+Union,9,Governor,,REP,Kristi Noem,201
+Union,10,Governor,,REP,Kristi Noem,285
+Union,11,Governor,,REP,Kristi Noem,324
+Union,12,Governor,,REP,Kristi Noem,536
+Union,13,Governor,,REP,Kristi Noem,796
+Union,1,Governor,,DEM,Billie Sutton,105
+Union,2,Governor,,DEM,Billie Sutton,172
+Union,3,Governor,,DEM,Billie Sutton,285
+Union,4,Governor,,DEM,Billie Sutton,137
+Union,5,Governor,,DEM,Billie Sutton,207
+Union,6,Governor,,DEM,Billie Sutton,292
+Union,7,Governor,,DEM,Billie Sutton,126
+Union,8,Governor,,DEM,Billie Sutton,163
+Union,9,Governor,,DEM,Billie Sutton,153
+Union,10,Governor,,DEM,Billie Sutton,202
+Union,11,Governor,,DEM,Billie Sutton,202
+Union,12,Governor,,DEM,Billie Sutton,192
+Union,13,Governor,,DEM,Billie Sutton,308
+Union,1,Secretary of State,,REP,Steve Barnett,203
+Union,2,Secretary of State,,REP,Steve Barnett,211
+Union,3,Secretary of State,,REP,Steve Barnett,374
+Union,4,Secretary of State,,REP,Steve Barnett,193
+Union,5,Secretary of State,,REP,Steve Barnett,271
+Union,6,Secretary of State,,REP,Steve Barnett,369
+Union,7,Secretary of State,,REP,Steve Barnett,342
+Union,8,Secretary of State,,REP,Steve Barnett,261
+Union,9,Secretary of State,,REP,Steve Barnett,212
+Union,10,Secretary of State,,REP,Steve Barnett,292
+Union,11,Secretary of State,,REP,Steve Barnett,335
+Union,12,Secretary of State,,REP,Steve Barnett,567
+Union,13,Secretary of State,,REP,Steve Barnett,814
+Union,1,Secretary of State,,DEM,Alexandra Frederick,83
+Union,2,Secretary of State,,DEM,Alexandra Frederick,124
+Union,3,Secretary of State,,DEM,Alexandra Frederick,231
+Union,4,Secretary of State,,DEM,Alexandra Frederick,103
+Union,5,Secretary of State,,DEM,Alexandra Frederick,150
+Union,6,Secretary of State,,DEM,Alexandra Frederick,178
+Union,7,Secretary of State,,DEM,Alexandra Frederick,119
+Union,8,Secretary of State,,DEM,Alexandra Frederick,108
+Union,9,Secretary of State,,DEM,Alexandra Frederick,132
+Union,10,Secretary of State,,DEM,Alexandra Frederick,181
+Union,11,Secretary of State,,DEM,Alexandra Frederick,179
+Union,12,Secretary of State,,DEM,Alexandra Frederick,165
+Union,13,Secretary of State,,DEM,Alexandra Frederick,287
+Union,1,Attorney General,,REP,Jason Ravnsborg,192
+Union,2,Attorney General,,REP,Jason Ravnsborg,189
+Union,3,Attorney General,,REP,Jason Ravnsborg,358
+Union,4,Attorney General,,REP,Jason Ravnsborg,170
+Union,5,Attorney General,,REP,Jason Ravnsborg,244
+Union,6,Attorney General,,REP,Jason Ravnsborg,288
+Union,7,Attorney General,,REP,Jason Ravnsborg,337
+Union,8,Attorney General,,REP,Jason Ravnsborg,230
+Union,9,Attorney General,,REP,Jason Ravnsborg,189
+Union,10,Attorney General,,REP,Jason Ravnsborg,270
+Union,11,Attorney General,,REP,Jason Ravnsborg,330
+Union,12,Attorney General,,REP,Jason Ravnsborg,545
+Union,13,Attorney General,,REP,Jason Ravnsborg,802
+Union,1,Attorney General,,DEM,Randy Seiler,93
+Union,2,Attorney General,,DEM,Randy Seiler,149
+Union,3,Attorney General,,DEM,Randy Seiler,238
+Union,4,Attorney General,,DEM,Randy Seiler,126
+Union,5,Attorney General,,DEM,Randy Seiler,185
+Union,6,Attorney General,,DEM,Randy Seiler,261
+Union,7,Attorney General,,DEM,Randy Seiler,120
+Union,8,Attorney General,,DEM,Randy Seiler,142
+Union,9,Attorney General,,DEM,Randy Seiler,155
+Union,10,Attorney General,,DEM,Randy Seiler,199
+Union,11,Attorney General,,DEM,Randy Seiler,185
+Union,12,Attorney General,,DEM,Randy Seiler,180
+Union,13,Attorney General,,DEM,Randy Seiler,293
+Union,1,State Auditor,,REP,Rich Sattgast,196
+Union,2,State Auditor,,REP,Rich Sattgast,193
+Union,3,State Auditor,,REP,Rich Sattgast,369
+Union,4,State Auditor,,REP,Rich Sattgast,183
+Union,5,State Auditor,,REP,Rich Sattgast,258
+Union,6,State Auditor,,REP,Rich Sattgast,359
+Union,7,State Auditor,,REP,Rich Sattgast,336
+Union,8,State Auditor,,REP,Rich Sattgast,247
+Union,9,State Auditor,,REP,Rich Sattgast,205
+Union,10,State Auditor,,REP,Rich Sattgast,279
+Union,11,State Auditor,,REP,Rich Sattgast,335
+Union,12,State Auditor,,REP,Rich Sattgast,549
+Union,13,State Auditor,,REP,Rich Sattgast,805
+Union,1,State Auditor,,DEM,Tom Cool,83
+Union,2,State Auditor,,DEM,Tom Cool,134
+Union,3,State Auditor,,DEM,Tom Cool,226
+Union,4,State Auditor,,DEM,Tom Cool,108
+Union,5,State Auditor,,DEM,Tom Cool,158
+Union,6,State Auditor,,DEM,Tom Cool,177
+Union,7,State Auditor,,DEM,Tom Cool,114
+Union,8,State Auditor,,DEM,Tom Cool,114
+Union,9,State Auditor,,DEM,Tom Cool,131
+Union,10,State Auditor,,DEM,Tom Cool,185
+Union,11,State Auditor,,DEM,Tom Cool,178
+Union,12,State Auditor,,DEM,Tom Cool,166
+Union,13,State Auditor,,DEM,Tom Cool,281
+Union,1,State Treasurer,,REP,Josh Haeder,194
+Union,2,State Treasurer,,REP,Josh Haeder,203
+Union,3,State Treasurer,,REP,Josh Haeder,353
+Union,4,State Treasurer,,REP,Josh Haeder,183
+Union,5,State Treasurer,,REP,Josh Haeder,258
+Union,6,State Treasurer,,REP,Josh Haeder,342
+Union,7,State Treasurer,,REP,Josh Haeder,334
+Union,8,State Treasurer,,REP,Josh Haeder,248
+Union,9,State Treasurer,,REP,Josh Haeder,206
+Union,10,State Treasurer,,REP,Josh Haeder,281
+Union,11,State Treasurer,,REP,Josh Haeder,333
+Union,12,State Treasurer,,REP,Josh Haeder,560
+Union,13,State Treasurer,,REP,Josh Haeder,816
+Union,1,State Treasurer,,DEM,Aaron Matson,86
+Union,2,State Treasurer,,DEM,Aaron Matson,128
+Union,3,State Treasurer,,DEM,Aaron Matson,238
+Union,4,State Treasurer,,DEM,Aaron Matson,108
+Union,5,State Treasurer,,DEM,Aaron Matson,155
+Union,6,State Treasurer,,DEM,Aaron Matson,193
+Union,7,State Treasurer,,DEM,Aaron Matson,117
+Union,8,State Treasurer,,DEM,Aaron Matson,114
+Union,9,State Treasurer,,DEM,Aaron Matson,133
+Union,10,State Treasurer,,DEM,Aaron Matson,183
+Union,11,State Treasurer,,DEM,Aaron Matson,175
+Union,12,State Treasurer,,DEM,Aaron Matson,164
+Union,13,State Treasurer,,DEM,Aaron Matson,272
+Union,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,200
+Union,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,195
+Union,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,350
+Union,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,197
+Union,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,283
+Union,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,377
+Union,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,330
+Union,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,248
+Union,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,200
+Union,10,Commissioner of School and Public Lands,,REP,Ryan Brunner,272
+Union,11,Commissioner of School and Public Lands,,REP,Ryan Brunner,329
+Union,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,550
+Union,13,Commissioner of School and Public Lands,,REP,Ryan Brunner,799
+Union,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,83
+Union,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,142
+Union,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,239
+Union,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,96
+Union,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,139
+Union,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,172
+Union,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,118
+Union,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,111
+Union,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,138
+Union,10,Commissioner of School and Public Lands,,DEM,Woody Hauser,190
+Union,11,Commissioner of School and Public Lands,,DEM,Woody Hauser,176
+Union,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,172
+Union,13,Commissioner of School and Public Lands,,DEM,Woody Hauser,284
+Union,1,Public Utilities Commissioner,,REP,Kristie Fiegen,198
+Union,2,Public Utilities Commissioner,,REP,Kristie Fiegen,207
+Union,3,Public Utilities Commissioner,,REP,Kristie Fiegen,372
+Union,4,Public Utilities Commissioner,,REP,Kristie Fiegen,184
+Union,5,Public Utilities Commissioner,,REP,Kristie Fiegen,273
+Union,6,Public Utilities Commissioner,,REP,Kristie Fiegen,379
+Union,7,Public Utilities Commissioner,,REP,Kristie Fiegen,339
+Union,8,Public Utilities Commissioner,,REP,Kristie Fiegen,261
+Union,9,Public Utilities Commissioner,,REP,Kristie Fiegen,207
+Union,10,Public Utilities Commissioner,,REP,Kristie Fiegen,286
+Union,11,Public Utilities Commissioner,,REP,Kristie Fiegen,345
+Union,12,Public Utilities Commissioner,,REP,Kristie Fiegen,555
+Union,13,Public Utilities Commissioner,,REP,Kristie Fiegen,802
+Union,1,Public Utilities Commissioner,,DEM,Wayne Frederick,79
+Union,2,Public Utilities Commissioner,,DEM,Wayne Frederick,126
+Union,3,Public Utilities Commissioner,,DEM,Wayne Frederick,219
+Union,4,Public Utilities Commissioner,,DEM,Wayne Frederick,102
+Union,5,Public Utilities Commissioner,,DEM,Wayne Frederick,143
+Union,6,Public Utilities Commissioner,,DEM,Wayne Frederick,148
+Union,7,Public Utilities Commissioner,,DEM,Wayne Frederick,113
+Union,8,Public Utilities Commissioner,,DEM,Wayne Frederick,99
+Union,9,Public Utilities Commissioner,,DEM,Wayne Frederick,134
+Union,10,Public Utilities Commissioner,,DEM,Wayne Frederick,175
+Union,11,Public Utilities Commissioner,,DEM,Wayne Frederick,161
+Union,12,Public Utilities Commissioner,,DEM,Wayne Frederick,159
+Union,13,Public Utilities Commissioner,,DEM,Wayne Frederick,274
+Union,1,State Senate,16,REP,Jim Bolin,202
+Union,2,State Senate,16,REP,Jim Bolin,223
+Union,3,State Senate,16,REP,Jim Bolin,360
+Union,4,State Senate,16,REP,Jim Bolin,173
+Union,5,State Senate,16,REP,Jim Bolin,264
+Union,6,State Senate,16,REP,Jim Bolin,333
+Union,7,State Senate,16,REP,Jim Bolin,329
+Union,8,State Senate,16,REP,Jim Bolin,264
+Union,9,State Senate,16,REP,Jim Bolin,207
+Union,10,State Senate,16,REP,Jim Bolin,292
+Union,11,State Senate,16,REP,Jim Bolin,348
+Union,12,State Senate,16,REP,Jim Bolin,553
+Union,13,State Senate,16,REP,Jim Bolin,807
+Union,1,State Senate,16,DEM,Elizabeth Merrigan,88
+Union,2,State Senate,16,DEM,Elizabeth Merrigan,123
+Union,3,State Senate,16,DEM,Elizabeth Merrigan,245
+Union,4,State Senate,16,DEM,Elizabeth Merrigan,128
+Union,5,State Senate,16,DEM,Elizabeth Merrigan,163
+Union,6,State Senate,16,DEM,Elizabeth Merrigan,216
+Union,7,State Senate,16,DEM,Elizabeth Merrigan,129
+Union,8,State Senate,16,DEM,Elizabeth Merrigan,115
+Union,9,State Senate,16,DEM,Elizabeth Merrigan,140
+Union,10,State Senate,16,DEM,Elizabeth Merrigan,183
+Union,11,State Senate,16,DEM,Elizabeth Merrigan,173
+Union,12,State Senate,16,DEM,Elizabeth Merrigan,176
+Union,13,State Senate,16,DEM,Elizabeth Merrigan,287
+Union,1,State House,16,REP,Kevin D. Jensen,189
+Union,2,State House,16,REP,Kevin D. Jensen,188
+Union,3,State House,16,REP,Kevin D. Jensen,322
+Union,4,State House,16,REP,Kevin D. Jensen,172
+Union,5,State House,16,REP,Kevin D. Jensen,240
+Union,6,State House,16,REP,Kevin D. Jensen,304
+Union,7,State House,16,REP,Kevin D. Jensen,320
+Union,8,State House,16,REP,Kevin D. Jensen,230
+Union,9,State House,16,REP,Kevin D. Jensen,178
+Union,10,State House,16,REP,Kevin D. Jensen,273
+Union,11,State House,16,REP,Kevin D. Jensen,315
+Union,12,State House,16,REP,Kevin D. Jensen,530
+Union,13,State House,16,REP,Kevin D. Jensen,773
+Union,1,State House,16,REP,David L. Anderson,180
+Union,2,State House,16,REP,David L. Anderson,167
+Union,3,State House,16,REP,David L. Anderson,308
+Union,4,State House,16,REP,David L. Anderson,167
+Union,5,State House,16,REP,David L. Anderson,224
+Union,6,State House,16,REP,David L. Anderson,313
+Union,7,State House,16,REP,David L. Anderson,284
+Union,8,State House,16,REP,David L. Anderson,204
+Union,9,State House,16,REP,David L. Anderson,171
+Union,10,State House,16,REP,David L. Anderson,222
+Union,11,State House,16,REP,David L. Anderson,266
+Union,12,State House,16,REP,David L. Anderson,475
+Union,13,State House,16,REP,David L. Anderson,662
+Union,1,State House,16,DEM,Mike Steinbrecher,73
+Union,2,State House,16,DEM,Mike Steinbrecher,112
+Union,3,State House,16,DEM,Mike Steinbrecher,235
+Union,4,State House,16,DEM,Mike Steinbrecher,109
+Union,5,State House,16,DEM,Mike Steinbrecher,146
+Union,6,State House,16,DEM,Mike Steinbrecher,176
+Union,7,State House,16,DEM,Mike Steinbrecher,121
+Union,8,State House,16,DEM,Mike Steinbrecher,124
+Union,9,State House,16,DEM,Mike Steinbrecher,145
+Union,10,State House,16,DEM,Mike Steinbrecher,165
+Union,11,State House,16,DEM,Mike Steinbrecher,160
+Union,12,State House,16,DEM,Mike Steinbrecher,164
+Union,13,State House,16,DEM,Mike Steinbrecher,269
+Union,1,State House,16,DEM,Chad Skiles,72
+Union,2,State House,16,DEM,Chad Skiles,118
+Union,3,State House,16,DEM,Chad Skiles,189
+Union,4,State House,16,DEM,Chad Skiles,100
+Union,5,State House,16,DEM,Chad Skiles,146
+Union,6,State House,16,DEM,Chad Skiles,183
+Union,7,State House,16,DEM,Chad Skiles,104
+Union,8,State House,16,DEM,Chad Skiles,94
+Union,9,State House,16,DEM,Chad Skiles,124
+Union,10,State House,16,DEM,Chad Skiles,156
+Union,11,State House,16,DEM,Chad Skiles,160
+Union,12,State House,16,DEM,Chad Skiles,155
+Union,13,State House,16,DEM,Chad Skiles,250

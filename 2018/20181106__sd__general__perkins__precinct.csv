@@ -1,0 +1,231 @@
+county,precinct,office,district,party,candidate,votes
+Perkins,1,U.S. House,1,LIB,George D. Hendrickson,5
+Perkins,2,U.S. House,1,LIB,George D. Hendrickson,2
+Perkins,3,U.S. House,1,LIB,George D. Hendrickson,3
+Perkins,4,U.S. House,1,LIB,George D. Hendrickson,0
+Perkins,5,U.S. House,1,LIB,George D. Hendrickson,1
+Perkins,6,U.S. House,1,LIB,George D. Hendrickson,1
+Perkins,7,U.S. House,1,LIB,George D. Hendrickson,4
+Perkins,8,U.S. House,1,LIB,George D. Hendrickson,1
+Perkins,9,U.S. House,1,LIB,George D. Hendrickson,1
+Perkins,12,U.S. House,1,LIB,George D. Hendrickson,3
+Perkins,1,U.S. House,1,REP,Dusty Johnson,142
+Perkins,2,U.S. House,1,REP,Dusty Johnson,67
+Perkins,3,U.S. House,1,REP,Dusty Johnson,202
+Perkins,4,U.S. House,1,REP,Dusty Johnson,36
+Perkins,5,U.S. House,1,REP,Dusty Johnson,94
+Perkins,6,U.S. House,1,REP,Dusty Johnson,88
+Perkins,7,U.S. House,1,REP,Dusty Johnson,91
+Perkins,8,U.S. House,1,REP,Dusty Johnson,48
+Perkins,9,U.S. House,1,REP,Dusty Johnson,59
+Perkins,12,U.S. House,1,REP,Dusty Johnson,237
+Perkins,1,U.S. House,1,DEM,Tim Bjorkman,60
+Perkins,2,U.S. House,1,DEM,Tim Bjorkman,16
+Perkins,3,U.S. House,1,DEM,Tim Bjorkman,45
+Perkins,4,U.S. House,1,DEM,Tim Bjorkman,11
+Perkins,5,U.S. House,1,DEM,Tim Bjorkman,14
+Perkins,6,U.S. House,1,DEM,Tim Bjorkman,15
+Perkins,7,U.S. House,1,DEM,Tim Bjorkman,7
+Perkins,8,U.S. House,1,DEM,Tim Bjorkman,3
+Perkins,9,U.S. House,1,DEM,Tim Bjorkman,9
+Perkins,12,U.S. House,1,DEM,Tim Bjorkman,44
+Perkins,1,U.S. House,1,IND,Ron Wieczorek,2
+Perkins,2,U.S. House,1,IND,Ron Wieczorek,1
+Perkins,3,U.S. House,1,IND,Ron Wieczorek,5
+Perkins,4,U.S. House,1,IND,Ron Wieczorek,4
+Perkins,5,U.S. House,1,IND,Ron Wieczorek,1
+Perkins,6,U.S. House,1,IND,Ron Wieczorek,0
+Perkins,7,U.S. House,1,IND,Ron Wieczorek,0
+Perkins,8,U.S. House,1,IND,Ron Wieczorek,0
+Perkins,9,U.S. House,1,IND,Ron Wieczorek,3
+Perkins,12,U.S. House,1,IND,Ron Wieczorek,8
+Perkins,1,Governor,,LIB,Kurt Evans,3
+Perkins,2,Governor,,LIB,Kurt Evans,2
+Perkins,3,Governor,,LIB,Kurt Evans,4
+Perkins,4,Governor,,LIB,Kurt Evans,1
+Perkins,5,Governor,,LIB,Kurt Evans,3
+Perkins,6,Governor,,LIB,Kurt Evans,0
+Perkins,7,Governor,,LIB,Kurt Evans,6
+Perkins,8,Governor,,LIB,Kurt Evans,1
+Perkins,9,Governor,,LIB,Kurt Evans,1
+Perkins,12,Governor,,LIB,Kurt Evans,2
+Perkins,1,Governor,,REP,Kristi Noem,141
+Perkins,2,Governor,,REP,Kristi Noem,59
+Perkins,3,Governor,,REP,Kristi Noem,192
+Perkins,4,Governor,,REP,Kristi Noem,39
+Perkins,5,Governor,,REP,Kristi Noem,91
+Perkins,6,Governor,,REP,Kristi Noem,69
+Perkins,7,Governor,,REP,Kristi Noem,79
+Perkins,8,Governor,,REP,Kristi Noem,38
+Perkins,9,Governor,,REP,Kristi Noem,51
+Perkins,12,Governor,,REP,Kristi Noem,194
+Perkins,1,Governor,,DEM,Billie Sutton,70
+Perkins,2,Governor,,DEM,Billie Sutton,26
+Perkins,3,Governor,,DEM,Billie Sutton,60
+Perkins,4,Governor,,DEM,Billie Sutton,12
+Perkins,5,Governor,,DEM,Billie Sutton,17
+Perkins,6,Governor,,DEM,Billie Sutton,35
+Perkins,7,Governor,,DEM,Billie Sutton,18
+Perkins,8,Governor,,DEM,Billie Sutton,14
+Perkins,9,Governor,,DEM,Billie Sutton,19
+Perkins,12,Governor,,DEM,Billie Sutton,97
+Perkins,1,Secretary of State,,REP,Steve Barnett,141
+Perkins,2,Secretary of State,,REP,Steve Barnett,67
+Perkins,3,Secretary of State,,REP,Steve Barnett,195
+Perkins,4,Secretary of State,,REP,Steve Barnett,39
+Perkins,5,Secretary of State,,REP,Steve Barnett,97
+Perkins,6,Secretary of State,,REP,Steve Barnett,87
+Perkins,7,Secretary of State,,REP,Steve Barnett,93
+Perkins,8,Secretary of State,,REP,Steve Barnett,49
+Perkins,9,Secretary of State,,REP,Steve Barnett,62
+Perkins,12,Secretary of State,,REP,Steve Barnett,227
+Perkins,1,Secretary of State,,DEM,Alexandra Frederick,61
+Perkins,2,Secretary of State,,DEM,Alexandra Frederick,13
+Perkins,3,Secretary of State,,DEM,Alexandra Frederick,46
+Perkins,4,Secretary of State,,DEM,Alexandra Frederick,8
+Perkins,5,Secretary of State,,DEM,Alexandra Frederick,10
+Perkins,6,Secretary of State,,DEM,Alexandra Frederick,14
+Perkins,7,Secretary of State,,DEM,Alexandra Frederick,5
+Perkins,8,Secretary of State,,DEM,Alexandra Frederick,2
+Perkins,9,Secretary of State,,DEM,Alexandra Frederick,7
+Perkins,12,Secretary of State,,DEM,Alexandra Frederick,51
+Perkins,1,Attorney General,,REP,Jason Ravnsborg,115
+Perkins,2,Attorney General,,REP,Jason Ravnsborg,65
+Perkins,3,Attorney General,,REP,Jason Ravnsborg,172
+Perkins,4,Attorney General,,REP,Jason Ravnsborg,35
+Perkins,5,Attorney General,,REP,Jason Ravnsborg,92
+Perkins,6,Attorney General,,REP,Jason Ravnsborg,77
+Perkins,7,Attorney General,,REP,Jason Ravnsborg,87
+Perkins,8,Attorney General,,REP,Jason Ravnsborg,39
+Perkins,9,Attorney General,,REP,Jason Ravnsborg,59
+Perkins,12,Attorney General,,REP,Jason Ravnsborg,204
+Perkins,1,Attorney General,,DEM,Randy Seiler,86
+Perkins,2,Attorney General,,DEM,Randy Seiler,17
+Perkins,3,Attorney General,,DEM,Randy Seiler,71
+Perkins,4,Attorney General,,DEM,Randy Seiler,17
+Perkins,5,Attorney General,,DEM,Randy Seiler,16
+Perkins,6,Attorney General,,DEM,Randy Seiler,25
+Perkins,7,Attorney General,,DEM,Randy Seiler,12
+Perkins,8,Attorney General,,DEM,Randy Seiler,9
+Perkins,9,Attorney General,,DEM,Randy Seiler,9
+Perkins,12,Attorney General,,DEM,Randy Seiler,76
+Perkins,1,State Auditor,,REP,Rich Sattgast,128
+Perkins,2,State Auditor,,REP,Rich Sattgast,64
+Perkins,3,State Auditor,,REP,Rich Sattgast,195
+Perkins,4,State Auditor,,REP,Rich Sattgast,39
+Perkins,5,State Auditor,,REP,Rich Sattgast,95
+Perkins,6,State Auditor,,REP,Rich Sattgast,82
+Perkins,7,State Auditor,,REP,Rich Sattgast,88
+Perkins,8,State Auditor,,REP,Rich Sattgast,43
+Perkins,9,State Auditor,,REP,Rich Sattgast,64
+Perkins,12,State Auditor,,REP,Rich Sattgast,219
+Perkins,1,State Auditor,,DEM,Tom Cool,64
+Perkins,2,State Auditor,,DEM,Tom Cool,15
+Perkins,3,State Auditor,,DEM,Tom Cool,42
+Perkins,4,State Auditor,,DEM,Tom Cool,7
+Perkins,5,State Auditor,,DEM,Tom Cool,10
+Perkins,6,State Auditor,,DEM,Tom Cool,16
+Perkins,7,State Auditor,,DEM,Tom Cool,10
+Perkins,8,State Auditor,,DEM,Tom Cool,3
+Perkins,9,State Auditor,,DEM,Tom Cool,6
+Perkins,12,State Auditor,,DEM,Tom Cool,53
+Perkins,1,State Treasurer,,REP,Josh Haeder,135
+Perkins,2,State Treasurer,,REP,Josh Haeder,65
+Perkins,3,State Treasurer,,REP,Josh Haeder,195
+Perkins,4,State Treasurer,,REP,Josh Haeder,40
+Perkins,5,State Treasurer,,REP,Josh Haeder,96
+Perkins,6,State Treasurer,,REP,Josh Haeder,79
+Perkins,7,State Treasurer,,REP,Josh Haeder,89
+Perkins,8,State Treasurer,,REP,Josh Haeder,40
+Perkins,9,State Treasurer,,REP,Josh Haeder,62
+Perkins,12,State Treasurer,,REP,Josh Haeder,209
+Perkins,1,State Treasurer,,DEM,Aaron Matson,61
+Perkins,2,State Treasurer,,DEM,Aaron Matson,14
+Perkins,3,State Treasurer,,DEM,Aaron Matson,45
+Perkins,4,State Treasurer,,DEM,Aaron Matson,8
+Perkins,5,State Treasurer,,DEM,Aaron Matson,11
+Perkins,6,State Treasurer,,DEM,Aaron Matson,17
+Perkins,7,State Treasurer,,DEM,Aaron Matson,6
+Perkins,8,State Treasurer,,DEM,Aaron Matson,6
+Perkins,9,State Treasurer,,DEM,Aaron Matson,6
+Perkins,12,State Treasurer,,DEM,Aaron Matson,61
+Perkins,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,137
+Perkins,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,67
+Perkins,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,188
+Perkins,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,41
+Perkins,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,92
+Perkins,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,80
+Perkins,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,93
+Perkins,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,47
+Perkins,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,57
+Perkins,12,Commissioner of School and Public Lands,,REP,Ryan Brunner,219
+Perkins,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,56
+Perkins,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,16
+Perkins,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,52
+Perkins,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,7
+Perkins,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,15
+Perkins,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,17
+Perkins,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,5
+Perkins,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,2
+Perkins,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,12
+Perkins,12,Commissioner of School and Public Lands,,DEM,Woody Hauser,57
+Perkins,1,Public Utilities Commissioner,,REP,Kristie Fiegen,134
+Perkins,2,Public Utilities Commissioner,,REP,Kristie Fiegen,62
+Perkins,3,Public Utilities Commissioner,,REP,Kristie Fiegen,193
+Perkins,4,Public Utilities Commissioner,,REP,Kristie Fiegen,38
+Perkins,5,Public Utilities Commissioner,,REP,Kristie Fiegen,95
+Perkins,6,Public Utilities Commissioner,,REP,Kristie Fiegen,77
+Perkins,7,Public Utilities Commissioner,,REP,Kristie Fiegen,87
+Perkins,8,Public Utilities Commissioner,,REP,Kristie Fiegen,42
+Perkins,9,Public Utilities Commissioner,,REP,Kristie Fiegen,61
+Perkins,12,Public Utilities Commissioner,,REP,Kristie Fiegen,214
+Perkins,1,Public Utilities Commissioner,,DEM,Wayne Frederick,59
+Perkins,2,Public Utilities Commissioner,,DEM,Wayne Frederick,15
+Perkins,3,Public Utilities Commissioner,,DEM,Wayne Frederick,44
+Perkins,4,Public Utilities Commissioner,,DEM,Wayne Frederick,7
+Perkins,5,Public Utilities Commissioner,,DEM,Wayne Frederick,12
+Perkins,6,Public Utilities Commissioner,,DEM,Wayne Frederick,20
+Perkins,7,Public Utilities Commissioner,,DEM,Wayne Frederick,10
+Perkins,8,Public Utilities Commissioner,,DEM,Wayne Frederick,4
+Perkins,9,Public Utilities Commissioner,,DEM,Wayne Frederick,9
+Perkins,12,Public Utilities Commissioner,,DEM,Wayne Frederick,53
+Perkins,1,State Senate,28,REP,Ryan M. Maher,165
+Perkins,2,State Senate,28,REP,Ryan M. Maher,76
+Perkins,3,State Senate,28,REP,Ryan M. Maher,224
+Perkins,4,State Senate,28,REP,Ryan M. Maher,48
+Perkins,5,State Senate,28,REP,Ryan M. Maher,101
+Perkins,6,State Senate,28,REP,Ryan M. Maher,99
+Perkins,7,State Senate,28,REP,Ryan M. Maher,97
+Perkins,8,State Senate,28,REP,Ryan M. Maher,51
+Perkins,9,State Senate,28,REP,Ryan M. Maher,68
+Perkins,12,State Senate,28,REP,Ryan M. Maher,264
+Perkins,1,State Senate,28,DEM,Alli Moran,44
+Perkins,2,State Senate,28,DEM,Alli Moran,9
+Perkins,3,State Senate,28,DEM,Alli Moran,28
+Perkins,4,State Senate,28,DEM,Alli Moran,3
+Perkins,5,State Senate,28,DEM,Alli Moran,8
+Perkins,6,State Senate,28,DEM,Alli Moran,5
+Perkins,7,State Senate,28,DEM,Alli Moran,5
+Perkins,8,State Senate,28,DEM,Alli Moran,2
+Perkins,9,State Senate,28,DEM,Alli Moran,4
+Perkins,12,State Senate,28,DEM,Alli Moran,30
+Perkins,1,State House,28B,LIB,Jason D. Hill,37
+Perkins,2,State House,28B,LIB,Jason D. Hill,7
+Perkins,3,State House,28B,LIB,Jason D. Hill,29
+Perkins,4,State House,28B,LIB,Jason D. Hill,4
+Perkins,5,State House,28B,LIB,Jason D. Hill,9
+Perkins,6,State House,28B,LIB,Jason D. Hill,11
+Perkins,7,State House,28B,LIB,Jason D. Hill,6
+Perkins,8,State House,28B,LIB,Jason D. Hill,2
+Perkins,9,State House,28B,LIB,Jason D. Hill,3
+Perkins,12,State House,28B,LIB,Jason D. Hill,27
+Perkins,1,State House,28B,REP,Sam Marty,152
+Perkins,2,State House,28B,REP,Sam Marty,76
+Perkins,3,State House,28B,REP,Sam Marty,212
+Perkins,4,State House,28B,REP,Sam Marty,46
+Perkins,5,State House,28B,REP,Sam Marty,91
+Perkins,6,State House,28B,REP,Sam Marty,91
+Perkins,7,State House,28B,REP,Sam Marty,95
+Perkins,8,State House,28B,REP,Sam Marty,45
+Perkins,9,State House,28B,REP,Sam Marty,66
+Perkins,12,State House,28B,REP,Sam Marty,256

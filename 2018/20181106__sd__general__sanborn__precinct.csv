@@ -1,0 +1,101 @@
+county,precinct,office,district,party,candidate,votes
+Sanborn,1,U.S. House,1,LIB,George D. Hendrickson,3
+Sanborn,2,U.S. House,1,LIB,George D. Hendrickson,4
+Sanborn,4,U.S. House,1,LIB,George D. Hendrickson,1
+Sanborn,5,U.S. House,1,LIB,George D. Hendrickson,3
+Sanborn,1,U.S. House,1,REP,Dusty Johnson,155
+Sanborn,2,U.S. House,1,REP,Dusty Johnson,192
+Sanborn,4,U.S. House,1,REP,Dusty Johnson,178
+Sanborn,5,U.S. House,1,REP,Dusty Johnson,153
+Sanborn,1,U.S. House,1,DEM,Tim Bjorkman,59
+Sanborn,2,U.S. House,1,DEM,Tim Bjorkman,95
+Sanborn,4,U.S. House,1,DEM,Tim Bjorkman,67
+Sanborn,5,U.S. House,1,DEM,Tim Bjorkman,71
+Sanborn,1,U.S. House,1,IND,Ron Wieczorek,7
+Sanborn,2,U.S. House,1,IND,Ron Wieczorek,13
+Sanborn,4,U.S. House,1,IND,Ron Wieczorek,10
+Sanborn,5,U.S. House,1,IND,Ron Wieczorek,6
+Sanborn,1,Governor,,LIB,Kurt Evans,2
+Sanborn,2,Governor,,LIB,Kurt Evans,6
+Sanborn,4,Governor,,LIB,Kurt Evans,7
+Sanborn,5,Governor,,LIB,Kurt Evans,1
+Sanborn,1,Governor,,REP,Kristi Noem,133
+Sanborn,2,Governor,,REP,Kristi Noem,172
+Sanborn,4,Governor,,REP,Kristi Noem,149
+Sanborn,5,Governor,,REP,Kristi Noem,139
+Sanborn,1,Governor,,DEM,Billie Sutton,91
+Sanborn,2,Governor,,DEM,Billie Sutton,129
+Sanborn,4,Governor,,DEM,Billie Sutton,104
+Sanborn,5,Governor,,DEM,Billie Sutton,95
+Sanborn,1,Secretary of State,,REP,Steve Barnett,177
+Sanborn,2,Secretary of State,,REP,Steve Barnett,213
+Sanborn,4,Secretary of State,,REP,Steve Barnett,185
+Sanborn,5,Secretary of State,,REP,Steve Barnett,163
+Sanborn,1,Secretary of State,,DEM,Alexandra Frederick,34
+Sanborn,2,Secretary of State,,DEM,Alexandra Frederick,74
+Sanborn,4,Secretary of State,,DEM,Alexandra Frederick,60
+Sanborn,5,Secretary of State,,DEM,Alexandra Frederick,65
+Sanborn,1,Attorney General,,REP,Jason Ravnsborg,140
+Sanborn,2,Attorney General,,REP,Jason Ravnsborg,173
+Sanborn,4,Attorney General,,REP,Jason Ravnsborg,156
+Sanborn,5,Attorney General,,REP,Jason Ravnsborg,137
+Sanborn,1,Attorney General,,DEM,Randy Seiler,75
+Sanborn,2,Attorney General,,DEM,Randy Seiler,120
+Sanborn,4,Attorney General,,DEM,Randy Seiler,89
+Sanborn,5,Attorney General,,DEM,Randy Seiler,89
+Sanborn,1,State Auditor,,REP,Rich Sattgast,164
+Sanborn,2,State Auditor,,REP,Rich Sattgast,203
+Sanborn,4,State Auditor,,REP,Rich Sattgast,185
+Sanborn,5,State Auditor,,REP,Rich Sattgast,159
+Sanborn,1,State Auditor,,DEM,Tom Cool,40
+Sanborn,2,State Auditor,,DEM,Tom Cool,76
+Sanborn,4,State Auditor,,DEM,Tom Cool,52
+Sanborn,5,State Auditor,,DEM,Tom Cool,65
+Sanborn,1,State Treasurer,,REP,Josh Haeder,151
+Sanborn,2,State Treasurer,,REP,Josh Haeder,198
+Sanborn,4,State Treasurer,,REP,Josh Haeder,176
+Sanborn,5,State Treasurer,,REP,Josh Haeder,163
+Sanborn,1,State Treasurer,,DEM,Aaron Matson,50
+Sanborn,2,State Treasurer,,DEM,Aaron Matson,81
+Sanborn,4,State Treasurer,,DEM,Aaron Matson,68
+Sanborn,5,State Treasurer,,DEM,Aaron Matson,61
+Sanborn,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,149
+Sanborn,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,194
+Sanborn,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,162
+Sanborn,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,144
+Sanborn,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,44
+Sanborn,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,73
+Sanborn,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,68
+Sanborn,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,68
+Sanborn,1,Public Utilities Commissioner,,REP,Kristie Fiegen,160
+Sanborn,2,Public Utilities Commissioner,,REP,Kristie Fiegen,205
+Sanborn,4,Public Utilities Commissioner,,REP,Kristie Fiegen,186
+Sanborn,5,Public Utilities Commissioner,,REP,Kristie Fiegen,165
+Sanborn,1,Public Utilities Commissioner,,DEM,Wayne Frederick,41
+Sanborn,2,Public Utilities Commissioner,,DEM,Wayne Frederick,77
+Sanborn,4,Public Utilities Commissioner,,DEM,Wayne Frederick,53
+Sanborn,5,Public Utilities Commissioner,,DEM,Wayne Frederick,56
+Sanborn,1,State Senate,8,REP,Jordan Youngberg,149
+Sanborn,2,State Senate,8,REP,Jordan Youngberg,198
+Sanborn,4,State Senate,8,REP,Jordan Youngberg,188
+Sanborn,5,State Senate,8,REP,Jordan Youngberg,178
+Sanborn,1,State Senate,8,DEM,Scott Parsley,61
+Sanborn,2,State Senate,8,DEM,Scott Parsley,87
+Sanborn,4,State Senate,8,DEM,Scott Parsley,62
+Sanborn,5,State Senate,8,DEM,Scott Parsley,55
+Sanborn,1,State House,8,REP,Marli Wiese,137
+Sanborn,2,State House,8,REP,Marli Wiese,171
+Sanborn,4,State House,8,REP,Marli Wiese,164
+Sanborn,5,State House,8,REP,Marli Wiese,149
+Sanborn,1,State House,8,REP,Randy Gross,131
+Sanborn,2,State House,8,REP,Randy Gross,171
+Sanborn,4,State House,8,REP,Randy Gross,158
+Sanborn,5,State House,8,REP,Randy Gross,138
+Sanborn,1,State House,8,DEM,Chris Francis,43
+Sanborn,2,State House,8,DEM,Chris Francis,67
+Sanborn,4,State House,8,DEM,Chris Francis,49
+Sanborn,5,State House,8,DEM,Chris Francis,55
+Sanborn,1,State House,8,DEM,Jason Unger,57
+Sanborn,2,State House,8,DEM,Jason Unger,89
+Sanborn,4,State House,8,DEM,Jason Unger,68
+Sanborn,5,State House,8,DEM,Jason Unger,63
