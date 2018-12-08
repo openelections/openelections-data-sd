@@ -1,0 +1,151 @@
+votes,district,candidate,office,county,party,precinct
+Haakon,1,U.S. House,1,LIB,George D. Hendrickson,5
+Haakon,4,U.S. House,1,LIB,George D. Hendrickson,2
+Haakon,16,U.S. House,1,LIB,George D. Hendrickson,2
+Haakon,17,U.S. House,1,LIB,George D. Hendrickson,2
+Haakon,19,U.S. House,1,LIB,George D. Hendrickson,2
+Haakon,20,U.S. House,1,LIB,George D. Hendrickson,0
+Haakon,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",73
+Haakon,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",111
+Haakon,16,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",164
+Haakon,17,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",147
+Haakon,19,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",155
+Haakon,20,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",146
+Haakon,1,U.S. House,1,DEM,Tim Bjorkman,13
+Haakon,4,U.S. House,1,DEM,Tim Bjorkman,12
+Haakon,16,U.S. House,1,DEM,Tim Bjorkman,18
+Haakon,17,U.S. House,1,DEM,Tim Bjorkman,29
+Haakon,19,U.S. House,1,DEM,Tim Bjorkman,26
+Haakon,20,U.S. House,1,DEM,Tim Bjorkman,19
+Haakon,1,U.S. House,1,IND,Ron Wieczorek,0
+Haakon,4,U.S. House,1,IND,Ron Wieczorek,2
+Haakon,16,U.S. House,1,IND,Ron Wieczorek,3
+Haakon,17,U.S. House,1,IND,Ron Wieczorek,2
+Haakon,19,U.S. House,1,IND,Ron Wieczorek,3
+Haakon,20,U.S. House,1,IND,Ron Wieczorek,4
+Haakon,1,Governor,,LIB,Kurt Evans,2
+Haakon,4,Governor,,LIB,Kurt Evans,1
+Haakon,16,Governor,,LIB,Kurt Evans,4
+Haakon,17,Governor,,LIB,Kurt Evans,4
+Haakon,19,Governor,,LIB,Kurt Evans,2
+Haakon,20,Governor,,LIB,Kurt Evans,2
+Haakon,1,Governor,,REP,Kristi Noem,62
+Haakon,4,Governor,,REP,Kristi Noem,103
+Haakon,16,Governor,,REP,Kristi Noem,154
+Haakon,17,Governor,,REP,Kristi Noem,136
+Haakon,19,Governor,,REP,Kristi Noem,143
+Haakon,20,Governor,,REP,Kristi Noem,136
+Haakon,1,Governor,,DEM,Billie Sutton,27
+Haakon,4,Governor,,DEM,Billie Sutton,23
+Haakon,16,Governor,,DEM,Billie Sutton,27
+Haakon,17,Governor,,DEM,Billie Sutton,42
+Haakon,19,Governor,,DEM,Billie Sutton,44
+Haakon,20,Governor,,DEM,Billie Sutton,33
+Haakon,1,Secretary of State,,REP,Steve Barnett,83
+Haakon,4,Secretary of State,,REP,Steve Barnett,119
+Haakon,16,Secretary of State,,REP,Steve Barnett,162
+Haakon,17,Secretary of State,,REP,Steve Barnett,158
+Haakon,19,Secretary of State,,REP,Steve Barnett,158
+Haakon,20,Secretary of State,,REP,Steve Barnett,152
+Haakon,1,Secretary of State,,DEM,Alexandra Frederick,8
+Haakon,4,Secretary of State,,DEM,Alexandra Frederick,8
+Haakon,16,Secretary of State,,DEM,Alexandra Frederick,21
+Haakon,17,Secretary of State,,DEM,Alexandra Frederick,20
+Haakon,19,Secretary of State,,DEM,Alexandra Frederick,24
+Haakon,20,Secretary of State,,DEM,Alexandra Frederick,13
+Haakon,1,Attorney General,,REP,Jason Ravnsborg,74
+Haakon,4,Attorney General,,REP,Jason Ravnsborg,107
+Haakon,16,Attorney General,,REP,Jason Ravnsborg,146
+Haakon,17,Attorney General,,REP,Jason Ravnsborg,137
+Haakon,19,Attorney General,,REP,Jason Ravnsborg,141
+Haakon,20,Attorney General,,REP,Jason Ravnsborg,137
+Haakon,1,Attorney General,,DEM,Randy Seiler,16
+Haakon,4,Attorney General,,DEM,Randy Seiler,17
+Haakon,16,Attorney General,,DEM,Randy Seiler,30
+Haakon,17,Attorney General,,DEM,Randy Seiler,39
+Haakon,19,Attorney General,,DEM,Randy Seiler,45
+Haakon,20,Attorney General,,DEM,Randy Seiler,29
+Haakon,1,State Auditor,,REP,Rich Sattgast,73
+Haakon,4,State Auditor,,REP,Rich Sattgast,114
+Haakon,16,State Auditor,,REP,Rich Sattgast,159
+Haakon,17,State Auditor,,REP,Rich Sattgast,148
+Haakon,19,State Auditor,,REP,Rich Sattgast,154
+Haakon,20,State Auditor,,REP,Rich Sattgast,144
+Haakon,1,State Auditor,,DEM,Tom Cool,14
+Haakon,4,State Auditor,,DEM,Tom Cool,7
+Haakon,16,State Auditor,,DEM,Tom Cool,18
+Haakon,17,State Auditor,,DEM,Tom Cool,24
+Haakon,19,State Auditor,,DEM,Tom Cool,26
+Haakon,20,State Auditor,,DEM,Tom Cool,19
+Haakon,1,State Treasurer,,REP,Josh Haeder,78
+Haakon,4,State Treasurer,,REP,Josh Haeder,114
+Haakon,16,State Treasurer,,REP,Josh Haeder,155
+Haakon,17,State Treasurer,,REP,Josh Haeder,146
+Haakon,19,State Treasurer,,REP,Josh Haeder,151
+Haakon,20,State Treasurer,,REP,Josh Haeder,142
+Haakon,1,State Treasurer,,DEM,Aaron Matson,10
+Haakon,4,State Treasurer,,DEM,Aaron Matson,8
+Haakon,16,State Treasurer,,DEM,Aaron Matson,19
+Haakon,17,State Treasurer,,DEM,Aaron Matson,26
+Haakon,19,State Treasurer,,DEM,Aaron Matson,29
+Haakon,20,State Treasurer,,DEM,Aaron Matson,18
+Haakon,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,82
+Haakon,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,114
+Haakon,16,Commissioner of School and Public Lands,,REP,Ryan Brunner,156
+Haakon,17,Commissioner of School and Public Lands,,REP,Ryan Brunner,148
+Haakon,19,Commissioner of School and Public Lands,,REP,Ryan Brunner,156
+Haakon,20,Commissioner of School and Public Lands,,REP,Ryan Brunner,148
+Haakon,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,6
+Haakon,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,7
+Haakon,16,Commissioner of School and Public Lands,,DEM,Woody Hauser,19
+Haakon,17,Commissioner of School and Public Lands,,DEM,Woody Hauser,21
+Haakon,19,Commissioner of School and Public Lands,,DEM,Woody Hauser,28
+Haakon,20,Commissioner of School and Public Lands,,DEM,Woody Hauser,11
+Haakon,1,Public Utilities Commissioner,,REP,Kristie Fiegen,79
+Haakon,4,Public Utilities Commissioner,,REP,Kristie Fiegen,113
+Haakon,16,Public Utilities Commissioner,,REP,Kristie Fiegen,152
+Haakon,17,Public Utilities Commissioner,,REP,Kristie Fiegen,147
+Haakon,19,Public Utilities Commissioner,,REP,Kristie Fiegen,155
+Haakon,20,Public Utilities Commissioner,,REP,Kristie Fiegen,142
+Haakon,1,Public Utilities Commissioner,,DEM,Wayne Frederick,7
+Haakon,4,Public Utilities Commissioner,,DEM,Wayne Frederick,11
+Haakon,16,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Haakon,17,Public Utilities Commissioner,,DEM,Wayne Frederick,24
+Haakon,19,Public Utilities Commissioner,,DEM,Wayne Frederick,26
+Haakon,20,Public Utilities Commissioner,,DEM,Wayne Frederick,14
+Haakon,1,State Senate,27,REP,Bill Hines,85
+Haakon,4,State Senate,27,REP,Bill Hines,119
+Haakon,16,State Senate,27,REP,Bill Hines,159
+Haakon,17,State Senate,27,REP,Bill Hines,150
+Haakon,19,State Senate,27,REP,Bill Hines,164
+Haakon,20,State Senate,27,REP,Bill Hines,156
+Haakon,1,State Senate,27,DEM,Red Dawn Foster,4
+Haakon,4,State Senate,27,DEM,Red Dawn Foster,6
+Haakon,16,State Senate,27,DEM,Red Dawn Foster,18
+Haakon,17,State Senate,27,DEM,Red Dawn Foster,16
+Haakon,19,State Senate,27,DEM,Red Dawn Foster,21
+Haakon,20,State Senate,27,DEM,Red Dawn Foster,10
+Haakon,1,State House,27,REP,Steve Livermont,79
+Haakon,4,State House,27,REP,Steve Livermont,118
+Haakon,16,State House,27,REP,Steve Livermont,165
+Haakon,17,State House,27,REP,Steve Livermont,158
+Haakon,19,State House,27,REP,Steve Livermont,161
+Haakon,20,State House,27,REP,Steve Livermont,144
+Haakon,1,State House,27,REP,Elizabeth May,73
+Haakon,4,State House,27,REP,Elizabeth May,112
+Haakon,16,State House,27,REP,Elizabeth May,143
+Haakon,17,State House,27,REP,Elizabeth May,137
+Haakon,19,State House,27,REP,Elizabeth May,151
+Haakon,20,State House,27,REP,Elizabeth May,133
+Haakon,1,State House,27,DEM,Margaret Moss,6
+Haakon,4,State House,27,DEM,Margaret Moss,7
+Haakon,16,State House,27,DEM,Margaret Moss,15
+Haakon,17,State House,27,DEM,Margaret Moss,16
+Haakon,19,State House,27,DEM,Margaret Moss,26
+Haakon,20,State House,27,DEM,Margaret Moss,12
+Haakon,1,State House,27,DEM,Peri Pourier,5
+Haakon,4,State House,27,DEM,Peri Pourier,4
+Haakon,16,State House,27,DEM,Peri Pourier,12
+Haakon,17,State House,27,DEM,Peri Pourier,9
+Haakon,19,State House,27,DEM,Peri Pourier,12
+Haakon,20,State House,27,DEM,Peri Pourier,7
