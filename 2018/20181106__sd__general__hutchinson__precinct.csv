@@ -1,0 +1,183 @@
+votes,district,candidate,office,county,party,precinct
+Hutchinson,1,U.S. House,1,LIB,George D. Hendrickson,7
+Hutchinson,2,U.S. House,1,LIB,George D. Hendrickson,9
+Hutchinson,3,U.S. House,1,LIB,George D. Hendrickson,0
+Hutchinson,4,U.S. House,1,LIB,George D. Hendrickson,1
+Hutchinson,5,U.S. House,1,LIB,George D. Hendrickson,6
+Hutchinson,6,U.S. House,1,LIB,George D. Hendrickson,2
+Hutchinson,7,U.S. House,1,LIB,George D. Hendrickson,0
+Hutchinson,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",477
+Hutchinson,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",435
+Hutchinson,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",86
+Hutchinson,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",382
+Hutchinson,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",436
+Hutchinson,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",303
+Hutchinson,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",162
+Hutchinson,1,U.S. House,1,DEM,Tim Bjorkman,176
+Hutchinson,2,U.S. House,1,DEM,Tim Bjorkman,250
+Hutchinson,3,U.S. House,1,DEM,Tim Bjorkman,41
+Hutchinson,4,U.S. House,1,DEM,Tim Bjorkman,113
+Hutchinson,5,U.S. House,1,DEM,Tim Bjorkman,194
+Hutchinson,6,U.S. House,1,DEM,Tim Bjorkman,71
+Hutchinson,7,U.S. House,1,DEM,Tim Bjorkman,38
+Hutchinson,1,U.S. House,1,IND,Ron Wieczorek,13
+Hutchinson,2,U.S. House,1,IND,Ron Wieczorek,12
+Hutchinson,3,U.S. House,1,IND,Ron Wieczorek,3
+Hutchinson,4,U.S. House,1,IND,Ron Wieczorek,11
+Hutchinson,5,U.S. House,1,IND,Ron Wieczorek,23
+Hutchinson,6,U.S. House,1,IND,Ron Wieczorek,13
+Hutchinson,7,U.S. House,1,IND,Ron Wieczorek,6
+Hutchinson,1,Governor,,LIB,Kurt Evans,10
+Hutchinson,2,Governor,,LIB,Kurt Evans,5
+Hutchinson,3,Governor,,LIB,Kurt Evans,1
+Hutchinson,4,Governor,,LIB,Kurt Evans,3
+Hutchinson,5,Governor,,LIB,Kurt Evans,6
+Hutchinson,6,Governor,,LIB,Kurt Evans,2
+Hutchinson,7,Governor,,LIB,Kurt Evans,1
+Hutchinson,1,Governor,,REP,Kristi Noem,472
+Hutchinson,2,Governor,,REP,Kristi Noem,457
+Hutchinson,3,Governor,,REP,Kristi Noem,97
+Hutchinson,4,Governor,,REP,Kristi Noem,313
+Hutchinson,5,Governor,,REP,Kristi Noem,350
+Hutchinson,6,Governor,,REP,Kristi Noem,255
+Hutchinson,7,Governor,,REP,Kristi Noem,138
+Hutchinson,1,Governor,,DEM,Billie Sutton,199
+Hutchinson,2,Governor,,DEM,Billie Sutton,250
+Hutchinson,3,Governor,,DEM,Billie Sutton,32
+Hutchinson,4,Governor,,DEM,Billie Sutton,195
+Hutchinson,5,Governor,,DEM,Billie Sutton,305
+Hutchinson,6,Governor,,DEM,Billie Sutton,133
+Hutchinson,7,Governor,,DEM,Billie Sutton,66
+Hutchinson,1,Secretary of State,,REP,Steve Barnett,533
+Hutchinson,2,Secretary of State,,REP,Steve Barnett,518
+Hutchinson,3,Secretary of State,,REP,Steve Barnett,101
+Hutchinson,4,Secretary of State,,REP,Steve Barnett,390
+Hutchinson,5,Secretary of State,,REP,Steve Barnett,456
+Hutchinson,6,Secretary of State,,REP,Steve Barnett,317
+Hutchinson,7,Secretary of State,,REP,Steve Barnett,175
+Hutchinson,1,Secretary of State,,DEM,Alexandra Frederick,115
+Hutchinson,2,Secretary of State,,DEM,Alexandra Frederick,155
+Hutchinson,3,Secretary of State,,DEM,Alexandra Frederick,20
+Hutchinson,4,Secretary of State,,DEM,Alexandra Frederick,97
+Hutchinson,5,Secretary of State,,DEM,Alexandra Frederick,168
+Hutchinson,6,Secretary of State,,DEM,Alexandra Frederick,61
+Hutchinson,7,Secretary of State,,DEM,Alexandra Frederick,24
+Hutchinson,1,Attorney General,,REP,Jason Ravnsborg,471
+Hutchinson,2,Attorney General,,REP,Jason Ravnsborg,458
+Hutchinson,3,Attorney General,,REP,Jason Ravnsborg,95
+Hutchinson,4,Attorney General,,REP,Jason Ravnsborg,273
+Hutchinson,5,Attorney General,,REP,Jason Ravnsborg,363
+Hutchinson,6,Attorney General,,REP,Jason Ravnsborg,274
+Hutchinson,7,Attorney General,,REP,Jason Ravnsborg,151
+Hutchinson,1,Attorney General,,DEM,Randy Seiler,181
+Hutchinson,2,Attorney General,,DEM,Randy Seiler,218
+Hutchinson,3,Attorney General,,DEM,Randy Seiler,32
+Hutchinson,4,Attorney General,,DEM,Randy Seiler,224
+Hutchinson,5,Attorney General,,DEM,Randy Seiler,268
+Hutchinson,6,Attorney General,,DEM,Randy Seiler,106
+Hutchinson,7,Attorney General,,DEM,Randy Seiler,50
+Hutchinson,1,State Auditor,,REP,Rich Sattgast,499
+Hutchinson,2,State Auditor,,REP,Rich Sattgast,483
+Hutchinson,3,State Auditor,,REP,Rich Sattgast,99
+Hutchinson,4,State Auditor,,REP,Rich Sattgast,346
+Hutchinson,5,State Auditor,,REP,Rich Sattgast,415
+Hutchinson,6,State Auditor,,REP,Rich Sattgast,308
+Hutchinson,7,State Auditor,,REP,Rich Sattgast,164
+Hutchinson,1,State Auditor,,DEM,Tom Cool,121
+Hutchinson,2,State Auditor,,DEM,Tom Cool,166
+Hutchinson,3,State Auditor,,DEM,Tom Cool,24
+Hutchinson,4,State Auditor,,DEM,Tom Cool,120
+Hutchinson,5,State Auditor,,DEM,Tom Cool,187
+Hutchinson,6,State Auditor,,DEM,Tom Cool,60
+Hutchinson,7,State Auditor,,DEM,Tom Cool,23
+Hutchinson,1,State Treasurer,,REP,Josh Haeder,490
+Hutchinson,2,State Treasurer,,REP,Josh Haeder,472
+Hutchinson,3,State Treasurer,,REP,Josh Haeder,96
+Hutchinson,4,State Treasurer,,REP,Josh Haeder,350
+Hutchinson,5,State Treasurer,,REP,Josh Haeder,393
+Hutchinson,6,State Treasurer,,REP,Josh Haeder,274
+Hutchinson,7,State Treasurer,,REP,Josh Haeder,159
+Hutchinson,1,State Treasurer,,DEM,Aaron Matson,134
+Hutchinson,2,State Treasurer,,DEM,Aaron Matson,175
+Hutchinson,3,State Treasurer,,DEM,Aaron Matson,23
+Hutchinson,4,State Treasurer,,DEM,Aaron Matson,123
+Hutchinson,5,State Treasurer,,DEM,Aaron Matson,202
+Hutchinson,6,State Treasurer,,DEM,Aaron Matson,95
+Hutchinson,7,State Treasurer,,DEM,Aaron Matson,30
+Hutchinson,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,486
+Hutchinson,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,468
+Hutchinson,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,91
+Hutchinson,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,349
+Hutchinson,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,400
+Hutchinson,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,301
+Hutchinson,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,158
+Hutchinson,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,131
+Hutchinson,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,178
+Hutchinson,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,26
+Hutchinson,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,113
+Hutchinson,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,192
+Hutchinson,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,66
+Hutchinson,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,25
+Hutchinson,1,Public Utilities Commissioner,,REP,Kristie Fiegen,512
+Hutchinson,2,Public Utilities Commissioner,,REP,Kristie Fiegen,502
+Hutchinson,3,Public Utilities Commissioner,,REP,Kristie Fiegen,92
+Hutchinson,4,Public Utilities Commissioner,,REP,Kristie Fiegen,388
+Hutchinson,5,Public Utilities Commissioner,,REP,Kristie Fiegen,466
+Hutchinson,6,Public Utilities Commissioner,,REP,Kristie Fiegen,310
+Hutchinson,7,Public Utilities Commissioner,,REP,Kristie Fiegen,164
+Hutchinson,1,Public Utilities Commissioner,,DEM,Wayne Frederick,115
+Hutchinson,2,Public Utilities Commissioner,,DEM,Wayne Frederick,158
+Hutchinson,3,Public Utilities Commissioner,,DEM,Wayne Frederick,25
+Hutchinson,4,Public Utilities Commissioner,,DEM,Wayne Frederick,89
+Hutchinson,5,Public Utilities Commissioner,,DEM,Wayne Frederick,145
+Hutchinson,6,Public Utilities Commissioner,,DEM,Wayne Frederick,62
+Hutchinson,7,Public Utilities Commissioner,,DEM,Wayne Frederick,26
+Hutchinson,1,State Senate,19,REP,Stace Nelson,451
+Hutchinson,2,State Senate,19,REP,Stace Nelson,456
+Hutchinson,3,State Senate,19,REP,Stace Nelson,93
+Hutchinson,4,State Senate,19,REP,Stace Nelson,382
+Hutchinson,5,State Senate,19,REP,Stace Nelson,444
+Hutchinson,6,State Senate,19,REP,Stace Nelson,255
+Hutchinson,7,State Senate,19,REP,Stace Nelson,147
+Hutchinson,1,State Senate,19,DEM,Ardon Wek,204
+Hutchinson,2,State Senate,19,DEM,Ardon Wek,238
+Hutchinson,3,State Senate,19,DEM,Ardon Wek,32
+Hutchinson,4,State Senate,19,DEM,Ardon Wek,102
+Hutchinson,5,State Senate,19,DEM,Ardon Wek,194
+Hutchinson,6,State Senate,19,DEM,Ardon Wek,123
+Hutchinson,7,State Senate,19,DEM,Ardon Wek,51
+Hutchinson,1,State House,19,REP,Kent Peterson,430
+Hutchinson,2,State House,19,REP,Kent Peterson,416
+Hutchinson,3,State House,19,REP,Kent Peterson,71
+Hutchinson,4,State House,19,REP,Kent Peterson,272
+Hutchinson,5,State House,19,REP,Kent Peterson,357
+Hutchinson,6,State House,19,REP,Kent Peterson,263
+Hutchinson,7,State House,19,REP,Kent Peterson,147
+Hutchinson,1,State House,19,REP,Kyle Schoenfish,476
+Hutchinson,2,State House,19,REP,Kyle Schoenfish,446
+Hutchinson,3,State House,19,REP,Kyle Schoenfish,83
+Hutchinson,4,State House,19,REP,Kyle Schoenfish,360
+Hutchinson,5,State House,19,REP,Kyle Schoenfish,485
+Hutchinson,6,State House,19,REP,Kyle Schoenfish,298
+Hutchinson,7,State House,19,REP,Kyle Schoenfish,145
+Hutchinson,1,State House,19,DEM,John C. Koch,86
+Hutchinson,2,State House,19,DEM,John C. Koch,111
+Hutchinson,3,State House,19,DEM,John C. Koch,15
+Hutchinson,4,State House,19,DEM,John C. Koch,88
+Hutchinson,5,State House,19,DEM,John C. Koch,146
+Hutchinson,6,State House,19,DEM,John C. Koch,44
+Hutchinson,7,State House,19,DEM,John C. Koch,23
+Hutchinson,1,State House,19,IND,Alison Bowers,70
+Hutchinson,2,State House,19,IND,Alison Bowers,84
+Hutchinson,3,State House,19,IND,Alison Bowers,7
+Hutchinson,4,State House,19,IND,Alison Bowers,48
+Hutchinson,5,State House,19,IND,Alison Bowers,66
+Hutchinson,6,State House,19,IND,Alison Bowers,33
+Hutchinson,7,State House,19,IND,Alison Bowers,11
+Hutchinson,1,State House,19,IND,Roger Hofer,122
+Hutchinson,2,State House,19,IND,Roger Hofer,157
+Hutchinson,3,State House,19,IND,Roger Hofer,35
+Hutchinson,4,State House,19,IND,Roger Hofer,76
+Hutchinson,5,State House,19,IND,Roger Hofer,65
+Hutchinson,6,State House,19,IND,Roger Hofer,31
+Hutchinson,7,State House,19,IND,Roger Hofer,27
