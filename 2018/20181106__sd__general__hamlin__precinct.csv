@@ -1,0 +1,176 @@
+votes,district,candidate,office,county,party,precinct
+Hamlin,2,U.S. House,1,LIB,George D. Hendrickson,0
+Hamlin,21,U.S. House,1,LIB,George D. Hendrickson,7
+Hamlin,22,U.S. House,1,LIB,George D. Hendrickson,3
+Hamlin,23,U.S. House,1,LIB,George D. Hendrickson,3
+Hamlin,24,U.S. House,1,LIB,George D. Hendrickson,6
+Hamlin,25,U.S. House,1,LIB,George D. Hendrickson,5
+Hamlin,26,U.S. House,1,LIB,George D. Hendrickson,3
+Hamlin,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",117
+Hamlin,21,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",464
+Hamlin,22,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",110
+Hamlin,23,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",218
+Hamlin,24,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",451
+Hamlin,25,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",267
+Hamlin,26,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",312
+Hamlin,2,U.S. House,1,DEM,Tim Bjorkman,22
+Hamlin,21,U.S. House,1,DEM,Tim Bjorkman,211
+Hamlin,22,U.S. House,1,DEM,Tim Bjorkman,15
+Hamlin,23,U.S. House,1,DEM,Tim Bjorkman,67
+Hamlin,24,U.S. House,1,DEM,Tim Bjorkman,154
+Hamlin,25,U.S. House,1,DEM,Tim Bjorkman,175
+Hamlin,26,U.S. House,1,DEM,Tim Bjorkman,51
+Hamlin,2,U.S. House,1,IND,Ron Wieczorek,0
+Hamlin,21,U.S. House,1,IND,Ron Wieczorek,12
+Hamlin,22,U.S. House,1,IND,Ron Wieczorek,0
+Hamlin,23,U.S. House,1,IND,Ron Wieczorek,3
+Hamlin,24,U.S. House,1,IND,Ron Wieczorek,12
+Hamlin,25,U.S. House,1,IND,Ron Wieczorek,15
+Hamlin,26,U.S. House,1,IND,Ron Wieczorek,5
+Hamlin,2,Governor,,LIB,Kurt Evans,0
+Hamlin,21,Governor,,LIB,Kurt Evans,4
+Hamlin,22,Governor,,LIB,Kurt Evans,3
+Hamlin,23,Governor,,LIB,Kurt Evans,4
+Hamlin,24,Governor,,LIB,Kurt Evans,5
+Hamlin,25,Governor,,LIB,Kurt Evans,9
+Hamlin,26,Governor,,LIB,Kurt Evans,4
+Hamlin,2,Governor,,REP,Kristi Noem,104
+Hamlin,21,Governor,,REP,Kristi Noem,430
+Hamlin,22,Governor,,REP,Kristi Noem,109
+Hamlin,23,Governor,,REP,Kristi Noem,188
+Hamlin,24,Governor,,REP,Kristi Noem,429
+Hamlin,25,Governor,,REP,Kristi Noem,221
+Hamlin,26,Governor,,REP,Kristi Noem,283
+Hamlin,2,Governor,,DEM,Billie Sutton,33
+Hamlin,21,Governor,,DEM,Billie Sutton,270
+Hamlin,22,Governor,,DEM,Billie Sutton,16
+Hamlin,23,Governor,,DEM,Billie Sutton,101
+Hamlin,24,Governor,,DEM,Billie Sutton,191
+Hamlin,25,Governor,,DEM,Billie Sutton,237
+Hamlin,26,Governor,,DEM,Billie Sutton,75
+Hamlin,2,Secretary of State,,REP,Steve Barnett,123
+Hamlin,21,Secretary of State,,REP,Steve Barnett,480
+Hamlin,22,Secretary of State,,REP,Steve Barnett,113
+Hamlin,23,Secretary of State,,REP,Steve Barnett,217
+Hamlin,24,Secretary of State,,REP,Steve Barnett,470
+Hamlin,25,Secretary of State,,REP,Steve Barnett,286
+Hamlin,26,Secretary of State,,REP,Steve Barnett,320
+Hamlin,2,Secretary of State,,DEM,Alexandra Frederick,14
+Hamlin,21,Secretary of State,,DEM,Alexandra Frederick,167
+Hamlin,22,Secretary of State,,DEM,Alexandra Frederick,11
+Hamlin,23,Secretary of State,,DEM,Alexandra Frederick,61
+Hamlin,24,Secretary of State,,DEM,Alexandra Frederick,143
+Hamlin,25,Secretary of State,,DEM,Alexandra Frederick,154
+Hamlin,26,Secretary of State,,DEM,Alexandra Frederick,31
+Hamlin,2,Attorney General,,REP,Jason Ravnsborg,111
+Hamlin,21,Attorney General,,REP,Jason Ravnsborg,425
+Hamlin,22,Attorney General,,REP,Jason Ravnsborg,108
+Hamlin,23,Attorney General,,REP,Jason Ravnsborg,202
+Hamlin,24,Attorney General,,REP,Jason Ravnsborg,440
+Hamlin,25,Attorney General,,REP,Jason Ravnsborg,226
+Hamlin,26,Attorney General,,REP,Jason Ravnsborg,297
+Hamlin,2,Attorney General,,DEM,Randy Seiler,24
+Hamlin,21,Attorney General,,DEM,Randy Seiler,235
+Hamlin,22,Attorney General,,DEM,Randy Seiler,16
+Hamlin,23,Attorney General,,DEM,Randy Seiler,75
+Hamlin,24,Attorney General,,DEM,Randy Seiler,166
+Hamlin,25,Attorney General,,DEM,Randy Seiler,209
+Hamlin,26,Attorney General,,DEM,Randy Seiler,56
+Hamlin,2,State Auditor,,REP,Rich Sattgast,123
+Hamlin,21,State Auditor,,REP,Rich Sattgast,469
+Hamlin,22,State Auditor,,REP,Rich Sattgast,107
+Hamlin,23,State Auditor,,REP,Rich Sattgast,220
+Hamlin,24,State Auditor,,REP,Rich Sattgast,452
+Hamlin,25,State Auditor,,REP,Rich Sattgast,267
+Hamlin,26,State Auditor,,REP,Rich Sattgast,307
+Hamlin,2,State Auditor,,DEM,Tom Cool,12
+Hamlin,21,State Auditor,,DEM,Tom Cool,166
+Hamlin,22,State Auditor,,DEM,Tom Cool,12
+Hamlin,23,State Auditor,,DEM,Tom Cool,55
+Hamlin,24,State Auditor,,DEM,Tom Cool,144
+Hamlin,25,State Auditor,,DEM,Tom Cool,159
+Hamlin,26,State Auditor,,DEM,Tom Cool,35
+Hamlin,2,State Treasurer,,REP,Josh Haeder,118
+Hamlin,21,State Treasurer,,REP,Josh Haeder,451
+Hamlin,22,State Treasurer,,REP,Josh Haeder,107
+Hamlin,23,State Treasurer,,REP,Josh Haeder,218
+Hamlin,24,State Treasurer,,REP,Josh Haeder,443
+Hamlin,25,State Treasurer,,REP,Josh Haeder,260
+Hamlin,26,State Treasurer,,REP,Josh Haeder,292
+Hamlin,2,State Treasurer,,DEM,Aaron Matson,15
+Hamlin,21,State Treasurer,,DEM,Aaron Matson,187
+Hamlin,22,State Treasurer,,DEM,Aaron Matson,12
+Hamlin,23,State Treasurer,,DEM,Aaron Matson,56
+Hamlin,24,State Treasurer,,DEM,Aaron Matson,143
+Hamlin,25,State Treasurer,,DEM,Aaron Matson,161
+Hamlin,26,State Treasurer,,DEM,Aaron Matson,38
+Hamlin,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,112
+Hamlin,21,Commissioner of School and Public Lands,,REP,Ryan Brunner,448
+Hamlin,22,Commissioner of School and Public Lands,,REP,Ryan Brunner,106
+Hamlin,23,Commissioner of School and Public Lands,,REP,Ryan Brunner,204
+Hamlin,24,Commissioner of School and Public Lands,,REP,Ryan Brunner,446
+Hamlin,25,Commissioner of School and Public Lands,,REP,Ryan Brunner,260
+Hamlin,26,Commissioner of School and Public Lands,,REP,Ryan Brunner,289
+Hamlin,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,21
+Hamlin,21,Commissioner of School and Public Lands,,DEM,Woody Hauser,176
+Hamlin,22,Commissioner of School and Public Lands,,DEM,Woody Hauser,12
+Hamlin,23,Commissioner of School and Public Lands,,DEM,Woody Hauser,66
+Hamlin,24,Commissioner of School and Public Lands,,DEM,Woody Hauser,135
+Hamlin,25,Commissioner of School and Public Lands,,DEM,Woody Hauser,155
+Hamlin,26,Commissioner of School and Public Lands,,DEM,Woody Hauser,43
+Hamlin,2,Public Utilities Commissioner,,REP,Kristie Fiegen,116
+Hamlin,21,Public Utilities Commissioner,,REP,Kristie Fiegen,463
+Hamlin,22,Public Utilities Commissioner,,REP,Kristie Fiegen,105
+Hamlin,23,Public Utilities Commissioner,,REP,Kristie Fiegen,217
+Hamlin,24,Public Utilities Commissioner,,REP,Kristie Fiegen,450
+Hamlin,25,Public Utilities Commissioner,,REP,Kristie Fiegen,275
+Hamlin,26,Public Utilities Commissioner,,REP,Kristie Fiegen,292
+Hamlin,2,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Hamlin,21,Public Utilities Commissioner,,DEM,Wayne Frederick,177
+Hamlin,22,Public Utilities Commissioner,,DEM,Wayne Frederick,10
+Hamlin,23,Public Utilities Commissioner,,DEM,Wayne Frederick,55
+Hamlin,24,Public Utilities Commissioner,,DEM,Wayne Frederick,142
+Hamlin,25,Public Utilities Commissioner,,DEM,Wayne Frederick,152
+Hamlin,26,Public Utilities Commissioner,,DEM,Wayne Frederick,44
+Hamlin,2,State Senate,2,REP,Brock L. Greenfield,114
+Hamlin,21,State Senate,2,REP,Brock L. Greenfield,496
+Hamlin,22,State Senate,2,REP,Brock L. Greenfield,117
+Hamlin,23,State Senate,2,REP,Brock L. Greenfield,223
+Hamlin,24,State Senate,2,REP,Brock L. Greenfield,456
+Hamlin,25,State Senate,2,REP,Brock L. Greenfield,283
+Hamlin,26,State Senate,2,REP,Brock L. Greenfield,309
+Hamlin,2,State Senate,2,DEM,Paul Register,23
+Hamlin,21,State Senate,2,DEM,Paul Register,177
+Hamlin,22,State Senate,2,DEM,Paul Register,10
+Hamlin,23,State Senate,2,DEM,Paul Register,66
+Hamlin,24,State Senate,2,DEM,Paul Register,152
+Hamlin,25,State Senate,2,DEM,Paul Register,158
+Hamlin,26,State Senate,2,DEM,Paul Register,49
+Hamlin,2,State House,2,REP,Kaleb W. Weis,98
+Hamlin,21,State House,2,REP,Kaleb W. Weis,365
+Hamlin,22,State House,2,REP,Kaleb W. Weis,91
+Hamlin,23,State House,2,REP,Kaleb W. Weis,169
+Hamlin,24,State House,2,REP,Kaleb W. Weis,362
+Hamlin,25,State House,2,REP,Kaleb W. Weis,187
+Hamlin,26,State House,2,REP,Kaleb W. Weis,258
+Hamlin,2,State House,2,REP,Lana J. Greenfield,98
+Hamlin,21,State House,2,REP,Lana J. Greenfield,430
+Hamlin,22,State House,2,REP,Lana J. Greenfield,99
+Hamlin,23,State House,2,REP,Lana J. Greenfield,198
+Hamlin,24,State House,2,REP,Lana J. Greenfield,400
+Hamlin,25,State House,2,REP,Lana J. Greenfield,243
+Hamlin,26,State House,2,REP,Lana J. Greenfield,254
+Hamlin,2,State House,2,DEM,Jenae Hansen,25
+Hamlin,21,State House,2,DEM,Jenae Hansen,209
+Hamlin,22,State House,2,DEM,Jenae Hansen,17
+Hamlin,23,State House,2,DEM,Jenae Hansen,67
+Hamlin,24,State House,2,DEM,Jenae Hansen,150
+Hamlin,25,State House,2,DEM,Jenae Hansen,191
+Hamlin,26,State House,2,DEM,Jenae Hansen,48
+Hamlin,2,State House,2,DEM,Mike McHugh,20
+Hamlin,21,State House,2,DEM,Mike McHugh,163
+Hamlin,22,State House,2,DEM,Mike McHugh,14
+Hamlin,23,State House,2,DEM,Mike McHugh,56
+Hamlin,24,State House,2,DEM,Mike McHugh,141
+Hamlin,25,State House,2,DEM,Mike McHugh,146
+Hamlin,26,State House,2,DEM,Mike McHugh,44
