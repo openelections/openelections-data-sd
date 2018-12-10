@@ -1,0 +1,185 @@
+votes,district,candidate,office,county,party,precinct
+Harding,1,U.S. House,1,LIB,George D. Hendrickson,4
+Harding,2,U.S. House,1,LIB,George D. Hendrickson,2
+Harding,3,U.S. House,1,LIB,George D. Hendrickson,2
+Harding,5,U.S. House,1,LIB,George D. Hendrickson,0
+Harding,6,U.S. House,1,LIB,George D. Hendrickson,0
+Harding,7,U.S. House,1,LIB,George D. Hendrickson,1
+Harding,8,U.S. House,1,LIB,George D. Hendrickson,0
+Harding,9,U.S. House,1,LIB,George D. Hendrickson,0
+Harding,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",113
+Harding,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",73
+Harding,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",40
+Harding,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",90
+Harding,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",32
+Harding,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",64
+Harding,8,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",52
+Harding,9,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",104
+Harding,1,U.S. House,1,DEM,Tim Bjorkman,23
+Harding,2,U.S. House,1,DEM,Tim Bjorkman,26
+Harding,3,U.S. House,1,DEM,Tim Bjorkman,6
+Harding,5,U.S. House,1,DEM,Tim Bjorkman,12
+Harding,6,U.S. House,1,DEM,Tim Bjorkman,1
+Harding,7,U.S. House,1,DEM,Tim Bjorkman,11
+Harding,8,U.S. House,1,DEM,Tim Bjorkman,6
+Harding,9,U.S. House,1,DEM,Tim Bjorkman,9
+Harding,1,U.S. House,1,IND,Ron Wieczorek,2
+Harding,2,U.S. House,1,IND,Ron Wieczorek,2
+Harding,3,U.S. House,1,IND,Ron Wieczorek,0
+Harding,5,U.S. House,1,IND,Ron Wieczorek,2
+Harding,6,U.S. House,1,IND,Ron Wieczorek,1
+Harding,7,U.S. House,1,IND,Ron Wieczorek,1
+Harding,8,U.S. House,1,IND,Ron Wieczorek,1
+Harding,9,U.S. House,1,IND,Ron Wieczorek,2
+Harding,1,Governor,,LIB,Kurt Evans,1
+Harding,2,Governor,,LIB,Kurt Evans,1
+Harding,3,Governor,,LIB,Kurt Evans,0
+Harding,5,Governor,,LIB,Kurt Evans,1
+Harding,6,Governor,,LIB,Kurt Evans,1
+Harding,7,Governor,,LIB,Kurt Evans,1
+Harding,8,Governor,,LIB,Kurt Evans,0
+Harding,9,Governor,,LIB,Kurt Evans,2
+Harding,1,Governor,,REP,Kristi Noem,107
+Harding,2,Governor,,REP,Kristi Noem,54
+Harding,3,Governor,,REP,Kristi Noem,40
+Harding,5,Governor,,REP,Kristi Noem,72
+Harding,6,Governor,,REP,Kristi Noem,25
+Harding,7,Governor,,REP,Kristi Noem,59
+Harding,8,Governor,,REP,Kristi Noem,48
+Harding,9,Governor,,REP,Kristi Noem,100
+Harding,1,Governor,,DEM,Billie Sutton,34
+Harding,2,Governor,,DEM,Billie Sutton,49
+Harding,3,Governor,,DEM,Billie Sutton,8
+Harding,5,Governor,,DEM,Billie Sutton,33
+Harding,6,Governor,,DEM,Billie Sutton,8
+Harding,7,Governor,,DEM,Billie Sutton,17
+Harding,8,Governor,,DEM,Billie Sutton,12
+Harding,9,Governor,,DEM,Billie Sutton,13
+Harding,1,Secretary of State,,REP,Steve Barnett,123
+Harding,2,Secretary of State,,REP,Steve Barnett,85
+Harding,3,Secretary of State,,REP,Steve Barnett,43
+Harding,5,Secretary of State,,REP,Steve Barnett,93
+Harding,6,Secretary of State,,REP,Steve Barnett,32
+Harding,7,Secretary of State,,REP,Steve Barnett,71
+Harding,8,Secretary of State,,REP,Steve Barnett,53
+Harding,9,Secretary of State,,REP,Steve Barnett,112
+Harding,1,Secretary of State,,DEM,Alexandra Frederick,15
+Harding,2,Secretary of State,,DEM,Alexandra Frederick,14
+Harding,3,Secretary of State,,DEM,Alexandra Frederick,4
+Harding,5,Secretary of State,,DEM,Alexandra Frederick,7
+Harding,6,Secretary of State,,DEM,Alexandra Frederick,2
+Harding,7,Secretary of State,,DEM,Alexandra Frederick,6
+Harding,8,Secretary of State,,DEM,Alexandra Frederick,5
+Harding,9,Secretary of State,,DEM,Alexandra Frederick,3
+Harding,1,Attorney General,,REP,Jason Ravnsborg,110
+Harding,2,Attorney General,,REP,Jason Ravnsborg,66
+Harding,3,Attorney General,,REP,Jason Ravnsborg,40
+Harding,5,Attorney General,,REP,Jason Ravnsborg,79
+Harding,6,Attorney General,,REP,Jason Ravnsborg,33
+Harding,7,Attorney General,,REP,Jason Ravnsborg,68
+Harding,8,Attorney General,,REP,Jason Ravnsborg,49
+Harding,9,Attorney General,,REP,Jason Ravnsborg,105
+Harding,1,Attorney General,,DEM,Randy Seiler,25
+Harding,2,Attorney General,,DEM,Randy Seiler,30
+Harding,3,Attorney General,,DEM,Randy Seiler,6
+Harding,5,Attorney General,,DEM,Randy Seiler,21
+Harding,6,Attorney General,,DEM,Randy Seiler,1
+Harding,7,Attorney General,,DEM,Randy Seiler,8
+Harding,8,Attorney General,,DEM,Randy Seiler,9
+Harding,9,Attorney General,,DEM,Randy Seiler,10
+Harding,1,State Auditor,,REP,Rich Sattgast,115
+Harding,2,State Auditor,,REP,Rich Sattgast,79
+Harding,3,State Auditor,,REP,Rich Sattgast,40
+Harding,5,State Auditor,,REP,Rich Sattgast,91
+Harding,6,State Auditor,,REP,Rich Sattgast,32
+Harding,7,State Auditor,,REP,Rich Sattgast,72
+Harding,8,State Auditor,,REP,Rich Sattgast,52
+Harding,9,State Auditor,,REP,Rich Sattgast,104
+Harding,1,State Auditor,,DEM,Tom Cool,18
+Harding,2,State Auditor,,DEM,Tom Cool,14
+Harding,3,State Auditor,,DEM,Tom Cool,5
+Harding,5,State Auditor,,DEM,Tom Cool,8
+Harding,6,State Auditor,,DEM,Tom Cool,1
+Harding,7,State Auditor,,DEM,Tom Cool,5
+Harding,8,State Auditor,,DEM,Tom Cool,6
+Harding,9,State Auditor,,DEM,Tom Cool,9
+Harding,1,State Treasurer,,REP,Josh Haeder,112
+Harding,2,State Treasurer,,REP,Josh Haeder,77
+Harding,3,State Treasurer,,REP,Josh Haeder,38
+Harding,5,State Treasurer,,REP,Josh Haeder,89
+Harding,6,State Treasurer,,REP,Josh Haeder,34
+Harding,7,State Treasurer,,REP,Josh Haeder,67
+Harding,8,State Treasurer,,REP,Josh Haeder,52
+Harding,9,State Treasurer,,REP,Josh Haeder,106
+Harding,1,State Treasurer,,DEM,Aaron Matson,20
+Harding,2,State Treasurer,,DEM,Aaron Matson,18
+Harding,3,State Treasurer,,DEM,Aaron Matson,6
+Harding,5,State Treasurer,,DEM,Aaron Matson,10
+Harding,6,State Treasurer,,DEM,Aaron Matson,0
+Harding,7,State Treasurer,,DEM,Aaron Matson,9
+Harding,8,State Treasurer,,DEM,Aaron Matson,6
+Harding,9,State Treasurer,,DEM,Aaron Matson,6
+Harding,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,119
+Harding,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,89
+Harding,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,41
+Harding,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,92
+Harding,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,31
+Harding,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,69
+Harding,8,Commissioner of School and Public Lands,,REP,Ryan Brunner,53
+Harding,9,Commissioner of School and Public Lands,,REP,Ryan Brunner,112
+Harding,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,17
+Harding,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,12
+Harding,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,4
+Harding,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,12
+Harding,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,2
+Harding,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,8
+Harding,8,Commissioner of School and Public Lands,,DEM,Woody Hauser,5
+Harding,9,Commissioner of School and Public Lands,,DEM,Woody Hauser,3
+Harding,1,Public Utilities Commissioner,,REP,Kristie Fiegen,115
+Harding,2,Public Utilities Commissioner,,REP,Kristie Fiegen,78
+Harding,3,Public Utilities Commissioner,,REP,Kristie Fiegen,39
+Harding,5,Public Utilities Commissioner,,REP,Kristie Fiegen,91
+Harding,6,Public Utilities Commissioner,,REP,Kristie Fiegen,32
+Harding,7,Public Utilities Commissioner,,REP,Kristie Fiegen,69
+Harding,8,Public Utilities Commissioner,,REP,Kristie Fiegen,51
+Harding,9,Public Utilities Commissioner,,REP,Kristie Fiegen,109
+Harding,1,Public Utilities Commissioner,,DEM,Wayne Frederick,17
+Harding,2,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Harding,3,Public Utilities Commissioner,,DEM,Wayne Frederick,6
+Harding,5,Public Utilities Commissioner,,DEM,Wayne Frederick,10
+Harding,6,Public Utilities Commissioner,,DEM,Wayne Frederick,1
+Harding,7,Public Utilities Commissioner,,DEM,Wayne Frederick,8
+Harding,8,Public Utilities Commissioner,,DEM,Wayne Frederick,6
+Harding,9,Public Utilities Commissioner,,DEM,Wayne Frederick,5
+Harding,1,State Senate,28,REP,Ryan M. Maher,122
+Harding,2,State Senate,28,REP,Ryan M. Maher,97
+Harding,3,State Senate,28,REP,Ryan M. Maher,45
+Harding,5,State Senate,28,REP,Ryan M. Maher,103
+Harding,6,State Senate,28,REP,Ryan M. Maher,33
+Harding,7,State Senate,28,REP,Ryan M. Maher,75
+Harding,8,State Senate,28,REP,Ryan M. Maher,57
+Harding,9,State Senate,28,REP,Ryan M. Maher,112
+Harding,1,State Senate,28,DEM,Alli Moran,16
+Harding,2,State Senate,28,DEM,Alli Moran,7
+Harding,3,State Senate,28,DEM,Alli Moran,3
+Harding,5,State Senate,28,DEM,Alli Moran,5
+Harding,6,State Senate,28,DEM,Alli Moran,1
+Harding,7,State Senate,28,DEM,Alli Moran,2
+Harding,8,State Senate,28,DEM,Alli Moran,3
+Harding,9,State Senate,28,DEM,Alli Moran,4
+Harding,1,State House,28B,LIB,Jason D. Hill,13
+Harding,2,State House,28B,LIB,Jason D. Hill,11
+Harding,3,State House,28B,LIB,Jason D. Hill,1
+Harding,5,State House,28B,LIB,Jason D. Hill,8
+Harding,6,State House,28B,LIB,Jason D. Hill,0
+Harding,7,State House,28B,LIB,Jason D. Hill,5
+Harding,8,State House,28B,LIB,Jason D. Hill,2
+Harding,9,State House,28B,LIB,Jason D. Hill,7
+Harding,1,State House,28B,REP,Sam Marty,123
+Harding,2,State House,28B,REP,Sam Marty,92
+Harding,3,State House,28B,REP,Sam Marty,45
+Harding,5,State House,28B,REP,Sam Marty,99
+Harding,6,State House,28B,REP,Sam Marty,34
+Harding,7,State House,28B,REP,Sam Marty,72
+Harding,8,State House,28B,REP,Sam Marty,58
+Harding,9,State House,28B,REP,Sam Marty,108

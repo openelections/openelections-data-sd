@@ -1,0 +1,131 @@
+votes,district,candidate,office,county,party,precinct
+Hanson,1,U.S. House,1,LIB,George D. Hendrickson,1
+Hanson,2,U.S. House,1,LIB,George D. Hendrickson,3
+Hanson,3,U.S. House,1,LIB,George D. Hendrickson,0
+Hanson,4,U.S. House,1,LIB,George D. Hendrickson,3
+Hanson,5,U.S. House,1,LIB,George D. Hendrickson,0
+Hanson,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",354
+Hanson,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",200
+Hanson,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",170
+Hanson,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",208
+Hanson,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",90
+Hanson,1,U.S. House,1,DEM,Tim Bjorkman,220
+Hanson,2,U.S. House,1,DEM,Tim Bjorkman,149
+Hanson,3,U.S. House,1,DEM,Tim Bjorkman,86
+Hanson,4,U.S. House,1,DEM,Tim Bjorkman,51
+Hanson,5,U.S. House,1,DEM,Tim Bjorkman,30
+Hanson,1,U.S. House,1,IND,Ron Wieczorek,8
+Hanson,2,U.S. House,1,IND,Ron Wieczorek,5
+Hanson,3,U.S. House,1,IND,Ron Wieczorek,11
+Hanson,4,U.S. House,1,IND,Ron Wieczorek,5
+Hanson,5,U.S. House,1,IND,Ron Wieczorek,2
+Hanson,1,Governor,,LIB,Kurt Evans,8
+Hanson,2,Governor,,LIB,Kurt Evans,2
+Hanson,3,Governor,,LIB,Kurt Evans,3
+Hanson,4,Governor,,LIB,Kurt Evans,5
+Hanson,5,Governor,,LIB,Kurt Evans,0
+Hanson,1,Governor,,REP,Kristi Noem,358
+Hanson,2,Governor,,REP,Kristi Noem,176
+Hanson,3,Governor,,REP,Kristi Noem,145
+Hanson,4,Governor,,REP,Kristi Noem,185
+Hanson,5,Governor,,REP,Kristi Noem,81
+Hanson,1,Governor,,DEM,Billie Sutton,216
+Hanson,2,Governor,,DEM,Billie Sutton,185
+Hanson,3,Governor,,DEM,Billie Sutton,124
+Hanson,4,Governor,,DEM,Billie Sutton,79
+Hanson,5,Governor,,DEM,Billie Sutton,43
+Hanson,1,Secretary of State,,REP,Steve Barnett,397
+Hanson,2,Secretary of State,,REP,Steve Barnett,225
+Hanson,3,Secretary of State,,REP,Steve Barnett,179
+Hanson,4,Secretary of State,,REP,Steve Barnett,223
+Hanson,5,Secretary of State,,REP,Steve Barnett,95
+Hanson,1,Secretary of State,,DEM,Alexandra Frederick,165
+Hanson,2,Secretary of State,,DEM,Alexandra Frederick,110
+Hanson,3,Secretary of State,,DEM,Alexandra Frederick,65
+Hanson,4,Secretary of State,,DEM,Alexandra Frederick,38
+Hanson,5,Secretary of State,,DEM,Alexandra Frederick,21
+Hanson,1,Attorney General,,REP,Jason Ravnsborg,371
+Hanson,2,Attorney General,,REP,Jason Ravnsborg,187
+Hanson,3,Attorney General,,REP,Jason Ravnsborg,150
+Hanson,4,Attorney General,,REP,Jason Ravnsborg,185
+Hanson,5,Attorney General,,REP,Jason Ravnsborg,86
+Hanson,1,Attorney General,,DEM,Randy Seiler,198
+Hanson,2,Attorney General,,DEM,Randy Seiler,151
+Hanson,3,Attorney General,,DEM,Randy Seiler,101
+Hanson,4,Attorney General,,DEM,Randy Seiler,75
+Hanson,5,Attorney General,,DEM,Randy Seiler,32
+Hanson,1,State Auditor,,REP,Rich Sattgast,366
+Hanson,2,State Auditor,,REP,Rich Sattgast,207
+Hanson,3,State Auditor,,REP,Rich Sattgast,171
+Hanson,4,State Auditor,,REP,Rich Sattgast,209
+Hanson,5,State Auditor,,REP,Rich Sattgast,86
+Hanson,1,State Auditor,,DEM,Tom Cool,183
+Hanson,2,State Auditor,,DEM,Tom Cool,114
+Hanson,3,State Auditor,,DEM,Tom Cool,66
+Hanson,4,State Auditor,,DEM,Tom Cool,40
+Hanson,5,State Auditor,,DEM,Tom Cool,27
+Hanson,1,State Treasurer,,REP,Josh Haeder,363
+Hanson,2,State Treasurer,,REP,Josh Haeder,199
+Hanson,3,State Treasurer,,REP,Josh Haeder,167
+Hanson,4,State Treasurer,,REP,Josh Haeder,200
+Hanson,5,State Treasurer,,REP,Josh Haeder,86
+Hanson,1,State Treasurer,,DEM,Aaron Matson,183
+Hanson,2,State Treasurer,,DEM,Aaron Matson,123
+Hanson,3,State Treasurer,,DEM,Aaron Matson,64
+Hanson,4,State Treasurer,,DEM,Aaron Matson,49
+Hanson,5,State Treasurer,,DEM,Aaron Matson,27
+Hanson,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,359
+Hanson,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,204
+Hanson,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,154
+Hanson,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,195
+Hanson,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,85
+Hanson,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,180
+Hanson,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,116
+Hanson,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,73
+Hanson,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,50
+Hanson,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,26
+Hanson,1,Public Utilities Commissioner,,REP,Kristie Fiegen,378
+Hanson,2,Public Utilities Commissioner,,REP,Kristie Fiegen,227
+Hanson,3,Public Utilities Commissioner,,REP,Kristie Fiegen,174
+Hanson,4,Public Utilities Commissioner,,REP,Kristie Fiegen,207
+Hanson,5,Public Utilities Commissioner,,REP,Kristie Fiegen,92
+Hanson,1,Public Utilities Commissioner,,DEM,Wayne Frederick,165
+Hanson,2,Public Utilities Commissioner,,DEM,Wayne Frederick,105
+Hanson,3,Public Utilities Commissioner,,DEM,Wayne Frederick,60
+Hanson,4,Public Utilities Commissioner,,DEM,Wayne Frederick,44
+Hanson,5,Public Utilities Commissioner,,DEM,Wayne Frederick,21
+Hanson,1,State Senate,19,REP,Stace Nelson,422
+Hanson,2,State Senate,19,REP,Stace Nelson,292
+Hanson,3,State Senate,19,REP,Stace Nelson,245
+Hanson,4,State Senate,19,REP,Stace Nelson,229
+Hanson,5,State Senate,19,REP,Stace Nelson,106
+Hanson,1,State Senate,19,DEM,Ardon Wek,147
+Hanson,2,State Senate,19,DEM,Ardon Wek,66
+Hanson,3,State Senate,19,DEM,Ardon Wek,25
+Hanson,4,State Senate,19,DEM,Ardon Wek,32
+Hanson,5,State Senate,19,DEM,Ardon Wek,16
+Hanson,1,State House,19,REP,Kent Peterson,362
+Hanson,2,State House,19,REP,Kent Peterson,179
+Hanson,3,State House,19,REP,Kent Peterson,138
+Hanson,4,State House,19,REP,Kent Peterson,177
+Hanson,5,State House,19,REP,Kent Peterson,67
+Hanson,1,State House,19,REP,Kyle Schoenfish,351
+Hanson,2,State House,19,REP,Kyle Schoenfish,205
+Hanson,3,State House,19,REP,Kyle Schoenfish,140
+Hanson,4,State House,19,REP,Kyle Schoenfish,171
+Hanson,5,State House,19,REP,Kyle Schoenfish,72
+Hanson,1,State House,19,DEM,John C. Koch,157
+Hanson,2,State House,19,DEM,John C. Koch,94
+Hanson,3,State House,19,DEM,John C. Koch,48
+Hanson,4,State House,19,DEM,John C. Koch,36
+Hanson,5,State House,19,DEM,John C. Koch,21
+Hanson,1,State House,19,IND,Alison Bowers,87
+Hanson,2,State House,19,IND,Alison Bowers,71
+Hanson,3,State House,19,IND,Alison Bowers,46
+Hanson,4,State House,19,IND,Alison Bowers,28
+Hanson,5,State House,19,IND,Alison Bowers,10
+Hanson,1,State House,19,IND,Roger Hofer,42
+Hanson,2,State House,19,IND,Roger Hofer,49
+Hanson,3,State House,19,IND,Roger Hofer,58
+Hanson,4,State House,19,IND,Roger Hofer,36
+Hanson,5,State House,19,IND,Roger Hofer,17
