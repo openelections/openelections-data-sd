@@ -1,0 +1,251 @@
+county,precinct,office,district,party,candidate,vote
+Oglala Lakota,Batesland,US House,,Lbt,George Hendrickson,3
+Oglala Lakota,Cuny Table,US House,,Lbt,George Hendrickson,0
+Oglala Lakota,Kyle,US House,,Lbt,George Hendrickson,13
+Oglala Lakota,Manderson,US House,,Lbt,George Hendrickson,1
+Oglala Lakota,Oglala,US House,,Lbt,George Hendrickson,7
+Oglala Lakota,Pine Ridge 1,US House,,Lbt,George Hendrickson,7
+Oglala Lakota,Pine Ridge 3,US House,,Lbt,George Hendrickson,8
+Oglala Lakota,Porcupine,US House,,Lbt,George Hendrickson,6
+Oglala Lakota,Rockyford,US House,,Lbt,George Hendrickson,3
+Oglala Lakota,OGLALA SD,US House,,Lbt,George Hendrickson,48
+Oglala Lakota,Batesland,US House,,Rep,Dusty Johnson,36
+Oglala Lakota,Cuny Table,US House,,Rep,Dusty Johnson,23
+Oglala Lakota,Kyle,US House,,Rep,Dusty Johnson,63
+Oglala Lakota,Manderson,US House,,Rep,Dusty Johnson,18
+Oglala Lakota,Oglala,US House,,Rep,Dusty Johnson,51
+Oglala Lakota,Pine Ridge 1,US House,,Rep,Dusty Johnson,46
+Oglala Lakota,Pine Ridge 3,US House,,Rep,Dusty Johnson,48
+Oglala Lakota,Porcupine,US House,,Rep,Dusty Johnson,34
+Oglala Lakota,Rockyford,US House,,Rep,Dusty Johnson,17
+Oglala Lakota,OGLALA SD,US House,,Rep,Dusty Johnson,336
+Oglala Lakota,Batesland,US House,,Rep,Tim Bjorkman,113
+Oglala Lakota,Cuny Table,US House,,Dem,Tim Bjorkman,39
+Oglala Lakota,Kyle,US House,,Dem,Tim Bjorkman,427
+Oglala Lakota,Manderson,US House,,Dem,Tim Bjorkman,132
+Oglala Lakota,Oglala,US House,,Dem,Tim Bjorkman,336
+Oglala Lakota,Pine Ridge 1,US House,,Dem,Tim Bjorkman,539
+Oglala Lakota,Pine Ridge 3,US House,,Dem,Tim Bjorkman,411
+Oglala Lakota,Porcupine,US House,,Dem,Tim Bjorkman,389
+Oglala Lakota,Rockyford,US House,,Dem,Tim Bjorkman,87
+Oglala Lakota,OGLALA SD,US House,,Dem,Tim Bjorkman,"2,473"
+Oglala Lakota,Batesland,US House,,Ind,Ron Wieczorek,3
+Oglala Lakota,Cuny Table,US House,,Ind,Ron Wieczorek,2
+Oglala Lakota,Kyle,US House,,Ind,Ron Wieczorek,13
+Oglala Lakota,Manderson,US House,,Ind,Ron Wieczorek,13
+Oglala Lakota,Oglala,US House,,Ind,Ron Wieczorek,17
+Oglala Lakota,Pine Ridge 1,US House,,Ind,Ron Wieczorek,23
+Oglala Lakota,Pine Ridge 3,US House,,Ind,Ron Wieczorek,10
+Oglala Lakota,Porcupine,US House,,Ind,Ron Wieczorek,17
+Oglala Lakota,Rockyford,US House,,Ind,Ron Wieczorek,6
+Oglala Lakota,OGLALA SD,US House,,Ind,Ron Wieczorek,104
+Oglala Lakota,Batesland,Governor,,Lbt,Kurt Evans,1
+Oglala Lakota,Cuny Table,Governor,,Lbt,Kurt Evans,0
+Oglala Lakota,Kyle,Governor,,Lbt,Kurt Evans,11
+Oglala Lakota,Manderson,Governor,,Lbt,Kurt Evans,2
+Oglala Lakota,Oglala,Governor,,Lbt,Kurt Evans,5
+Oglala Lakota,Pine Ridge 1,Governor,,Lbt,Kurt Evans,10
+Oglala Lakota,Pine Ridge 3,Governor,,Lbt,Kurt Evans,4
+Oglala Lakota,Porcupine,Governor,,Lbt,Kurt Evans,8
+Oglala Lakota,Rockyford,Governor,,Lbt,Kurt Evans,3
+Oglala Lakota,OGLALA SD,Governor,,Lbt,Kurt Evans,44
+Oglala Lakota,Batesland,Governor,,Rep,Kristi Noem,37
+Oglala Lakota,Cuny Table,Governor,,Rep,Kristi Noem,17
+Oglala Lakota,Kyle,Governor,,Rep,Kristi Noem,31
+Oglala Lakota,Manderson,Governor,,Rep,Kristi Noem,11
+Oglala Lakota,Oglala,Governor,,Rep,Kristi Noem,34
+Oglala Lakota,Pine Ridge 1,Governor,,Rep,Kristi Noem,22
+Oglala Lakota,Pine Ridge 3,Governor,,Rep,Kristi Noem,33
+Oglala Lakota,Porcupine,Governor,,Rep,Kristi Noem,17
+Oglala Lakota,Rockyford,Governor,,Rep,Kristi Noem,12
+Oglala Lakota,OGLALA SD,Governor,,Rep,Kristi Noem,214
+Oglala Lakota,Batesland,Governor,,Dem,Billie Sutton,120
+Oglala Lakota,Cuny Table,Governor,,Dem,Billie Sutton,47
+Oglala Lakota,Kyle,Governor,,Dem,Billie Sutton,486
+Oglala Lakota,Manderson,Governor,,Dem,Billie Sutton,156
+Oglala Lakota,Oglala,Governor,,Dem,Billie Sutton,383
+Oglala Lakota,Pine Ridge 1,Governor,,Dem,Billie Sutton,605
+Oglala Lakota,Pine Ridge 3,Governor,,Dem,Billie Sutton,443
+Oglala Lakota,Porcupine,Governor,,Dem,Billie Sutton,437
+Oglala Lakota,Rockyford,Governor,,Dem,Billie Sutton,101
+Oglala Lakota,OGLALA SD,Governor,,Dem,Billie Sutton,"2,778"
+Oglala Lakota,Batesland,Secretary of State,,Rep,Steve Barnett,37
+Oglala Lakota,Cuny Table,Secretary of State,,Rep,Steve Barnett,19
+Oglala Lakota,Kyle,Secretary of State,,Rep,Steve Barnett,44
+Oglala Lakota,Manderson,Secretary of State,,Rep,Steve Barnett,12
+Oglala Lakota,Oglala,Secretary of State,,Rep,Steve Barnett,33
+Oglala Lakota,Pine Ridge 1,Secretary of State,,Rep,Steve Barnett,33
+Oglala Lakota,Pine Ridge 3,Secretary of State,,Rep,Steve Barnett,42
+Oglala Lakota,Porcupine,Secretary of State,,Rep,Steve Barnett,32
+Oglala Lakota,Rockyford,Secretary of State,,Rep,Steve Barnett,24
+Oglala Lakota,OGLALA SD,Secretary of State,,Rep,Steve Barnett,276
+Oglala Lakota,Batesland,Secretary of State,,Dem,Alexandra Frederick,118
+Oglala Lakota,Cuny Table,Secretary of State,,Dem,Alexandra Frederick,46
+Oglala Lakota,Kyle,Secretary of State,,Dem,Alexandra Frederick,464
+Oglala Lakota,Manderson,Secretary of State,,Dem,Alexandra Frederick,150
+Oglala Lakota,Oglala,Secretary of State,,Dem,Alexandra Frederick,384
+Oglala Lakota,Pine Ridge 1,Secretary of State,,Dem,Alexandra Frederick,587
+Oglala Lakota,Pine Ridge 3,Secretary of State,,Dem,Alexandra Frederick,433
+Oglala Lakota,Porcupine,Secretary of State,,Dem,Alexandra Frederick,418
+Oglala Lakota,Rockyford,Secretary of State,,Dem,Alexandra Frederick,92
+Oglala Lakota,OGLALA SD,Secretary of State,,Dem,Alexandra Frederick,"2,692"
+Oglala Lakota,Batesland,Attorney General,,Rep,Jason Ravnsborg,40
+Oglala Lakota,Cuny Table,Attorney General,,Rep,Jason Ravnsborg,20
+Oglala Lakota,Kyle,Attorney General,,Rep,Jason Ravnsborg,32
+Oglala Lakota,Manderson,Attorney General,,Rep,Jason Ravnsborg,12
+Oglala Lakota,Oglala,Attorney General,,Rep,Jason Ravnsborg,36
+Oglala Lakota,Pine Ridge 1,Attorney General,,Rep,Jason Ravnsborg,29
+Oglala Lakota,Pine Ridge 3,Attorney General,,Rep,Jason Ravnsborg,31
+Oglala Lakota,Porcupine,Attorney General,,Rep,Jason Ravnsborg,23
+Oglala Lakota,Rockyford,Attorney General,,Rep,Jason Ravnsborg,16
+Oglala Lakota,OGLALA SD,Attorney General,,Rep,Jason Ravnsborg,239
+Oglala Lakota,Batesland,Attorney General,,Dem,Randy Seiler,114
+Oglala Lakota,Cuny Table,Attorney General,,Dem,Randy Seiler,44
+Oglala Lakota,Kyle,Attorney General,,Dem,Randy Seiler,481
+Oglala Lakota,Manderson,Attorney General,,Dem,Randy Seiler,148
+Oglala Lakota,Oglala,Attorney General,,Dem,Randy Seiler,377
+Oglala Lakota,Pine Ridge 1,Attorney General,,Dem,Randy Seiler,591
+Oglala Lakota,Pine Ridge 3,Attorney General,,Dem,Randy Seiler,443
+Oglala Lakota,Porcupine,Attorney General,,Dem,Randy Seiler,429
+Oglala Lakota,Rockyford,Attorney General,,Dem,Randy Seiler,99
+Oglala Lakota,OGLALA SD,Attorney General,,Dem,Randy Seiler,"2,726"
+Oglala Lakota,Batesland,State Auditor,,Rep,Rich Sattgast,36
+Oglala Lakota,Cuny Table,State Auditor,,Rep,Rich Sattgast,22
+Oglala Lakota,Kyle,State Auditor,,Rep,Rich Sattgast,41
+Oglala Lakota,Manderson,State Auditor,,Rep,Rich Sattgast,9
+Oglala Lakota,Oglala,State Auditor,,Rep,Rich Sattgast,33
+Oglala Lakota,Pine Ridge 1,State Auditor,,Rep,Rich Sattgast,30
+Oglala Lakota,Pine Ridge 3,State Auditor,,Rep,Rich Sattgast,34
+Oglala Lakota,Porcupine,State Auditor,,Rep,Rich Sattgast,24
+Oglala Lakota,Rockyford,State Auditor,,Rep,Rich Sattgast,18
+Oglala Lakota,OGLALA SD,State Auditor,,Rep,Rich Sattgast,247
+Oglala Lakota,Batesland,State Auditor,,Dem,Tom Cool,118
+Oglala Lakota,Cuny Table,State Auditor,,Dem,Tom Cool,39
+Oglala Lakota,Kyle,State Auditor,,Dem,Tom Cool,464
+Oglala Lakota,Manderson,State Auditor,,Dem,Tom Cool,149
+Oglala Lakota,Oglala,State Auditor,,Dem,Tom Cool,369
+Oglala Lakota,Pine Ridge 1,State Auditor,,Dem,Tom Cool,584
+Oglala Lakota,Pine Ridge 3,State Auditor,,Dem,Tom Cool,440
+Oglala Lakota,Porcupine,State Auditor,,Dem,Tom Cool,419
+Oglala Lakota,Rockyford,State Auditor,,Dem,Tom Cool,96
+Oglala Lakota,OGLALA SD,State Auditor,,Dem,Tom Cool,"2,678"
+Oglala Lakota,Batesland,State Treasurer,,Rep,Josh Haeder,35
+Oglala Lakota,Cuny Table,State Treasurer,,Rep,Josh Haeder,21
+Oglala Lakota,Kyle,State Treasurer,,Rep,Josh Haeder,35
+Oglala Lakota,Manderson,State Treasurer,,Rep,Josh Haeder,12
+Oglala Lakota,Oglala,State Treasurer,,Rep,Josh Haeder,31
+Oglala Lakota,Pine Ridge 1,State Treasurer,,Rep,Josh Haeder,30
+Oglala Lakota,Pine Ridge 3,State Treasurer,,Rep,Josh Haeder,40
+Oglala Lakota,Porcupine,State Treasurer,,Rep,Josh Haeder,25
+Oglala Lakota,Rockyford,State Treasurer,,Rep,Josh Haeder,18
+Oglala Lakota,OGLALA SD,State Treasurer,,Rep,Josh Haeder,247
+Oglala Lakota,Batesland,State Treasurer,,Dem,Aaron  Matson ,120
+Oglala Lakota,Cuny Table,State Treasurer,,Dem,Aaron  Matson ,40
+Oglala Lakota,Kyle,State Treasurer,,Dem,Aaron  Matson ,461
+Oglala Lakota,Manderson,State Treasurer,,Dem,Aaron  Matson ,149
+Oglala Lakota,Oglala,State Treasurer,,Dem,Aaron  Matson ,377
+Oglala Lakota,Pine Ridge 1,State Treasurer,,Dem,Aaron  Matson ,580
+Oglala Lakota,Pine Ridge 3,State Treasurer,,Dem,Aaron  Matson ,435
+Oglala Lakota,Porcupine,State Treasurer,,Dem,Aaron  Matson ,420
+Oglala Lakota,Rockyford,State Treasurer,,Dem,Aaron  Matson ,97
+Oglala Lakota,OGLALA SD,State Treasurer,,Dem,Aaron  Matson ,"2,679"
+Oglala Lakota,Batesland,School and Lands,,Rep,Ryan Brunner,36
+Oglala Lakota,Cuny Table,School and Lands,,Rep,Ryan Brunner,19
+Oglala Lakota,Kyle,School and Lands,,Rep,Ryan Brunner,41
+Oglala Lakota,Manderson,School and Lands,,Rep,Ryan Brunner,11
+Oglala Lakota,Oglala,School and Lands,,Rep,Ryan Brunner,34
+Oglala Lakota,Pine Ridge 1,School and Lands,,Rep,Ryan Brunner,28
+Oglala Lakota,Pine Ridge 3,School and Lands,,Rep,Ryan Brunner,32
+Oglala Lakota,Porcupine,School and Lands,,Rep,Ryan Brunner,30
+Oglala Lakota,Rockyford,School and Lands,,Rep,Ryan Brunner,19
+Oglala Lakota,OGLALA SD,School and Lands,,Rep,Ryan Brunner,250
+Oglala Lakota,Batesland,School and Lands,,Dem,Woody Houser,120
+Oglala Lakota,Cuny Table,School and Lands,,Dem,Woody Houser,45
+Oglala Lakota,Kyle,School and Lands,,Dem,Woody Houser,463
+Oglala Lakota,Manderson,School and Lands,,Dem,Woody Houser,152
+Oglala Lakota,Oglala,School and Lands,,Dem,Woody Houser,374
+Oglala Lakota,Pine Ridge 1,School and Lands,,Dem,Woody Houser,579
+Oglala Lakota,Pine Ridge 3,School and Lands,,Dem,Woody Houser,445
+Oglala Lakota,Porcupine,School and Lands,,Dem,Woody Houser,414
+Oglala Lakota,Rockyford,School and Lands,,Dem,Woody Houser,96
+Oglala Lakota,OGLALA SD,School and Lands,,Dem,Woody Houser,"2,688"
+Oglala Lakota,Batesland,Public Utilities Commissioner,,Rep,Kristie Fiegen,40
+Oglala Lakota,Cuny Table,Public Utilities Commissioner,,Rep,Kristie Fiegen,21
+Oglala Lakota,Kyle,Public Utilities Commissioner,,Rep,Kristie Fiegen,39
+Oglala Lakota,Manderson,Public Utilities Commissioner,,Rep,Kristie Fiegen,14
+Oglala Lakota,Oglala,Public Utilities Commissioner,,Rep,Kristie Fiegen,39
+Oglala Lakota,Pine Ridge 1,Public Utilities Commissioner,,Rep,Kristie Fiegen,30
+Oglala Lakota,Pine Ridge 3,Public Utilities Commissioner,,Rep,Kristie Fiegen,38
+Oglala Lakota,Porcupine,Public Utilities Commissioner,,Rep,Kristie Fiegen,23
+Oglala Lakota,Rockyford,Public Utilities Commissioner,,Rep,Kristie Fiegen,22
+Oglala Lakota,OGLALA SD,Public Utilities Commissioner,,Rep,Kristie Fiegen,266
+Oglala Lakota,Batesland,Public Utilities Commissioner,,Dem,Wayne Frederick,115
+Oglala Lakota,Cuny Table,Public Utilities Commissioner,,Dem,Wayne Frederick,41
+Oglala Lakota,Kyle,Public Utilities Commissioner,,Dem,Wayne Frederick,465
+Oglala Lakota,Manderson,Public Utilities Commissioner,,Dem,Wayne Frederick,150
+Oglala Lakota,Oglala,Public Utilities Commissioner,,Dem,Wayne Frederick,371
+Oglala Lakota,Pine Ridge 1,Public Utilities Commissioner,,Dem,Wayne Frederick,581
+Oglala Lakota,Pine Ridge 3,Public Utilities Commissioner,,Dem,Wayne Frederick,437
+Oglala Lakota,Porcupine,Public Utilities Commissioner,,Dem,Wayne Frederick,418
+Oglala Lakota,Rockyford,Public Utilities Commissioner,,Dem,Wayne Frederick,91
+Oglala Lakota,OGLALA SD,Public Utilities Commissioner,,Dem,Wayne Frederick,"2,669"
+Oglala Lakota,Batesland,State Senator,27,Rep,Bill  Hines,39
+Oglala Lakota,Cuny Table,State Senator,27,Rep,Bill  Hines,18
+Oglala Lakota,Kyle,State Senator,27,Rep,Bill  Hines,37
+Oglala Lakota,Manderson,State Senator,27,Rep,Bill  Hines,8
+Oglala Lakota,Oglala,State Senator,27,Rep,Bill  Hines,26
+Oglala Lakota,Pine Ridge 1,State Senator,27,Rep,Bill  Hines,20
+Oglala Lakota,Pine Ridge 3,State Senator,27,Rep,Bill  Hines,29
+Oglala Lakota,Porcupine,State Senator,27,Rep,Bill  Hines,24
+Oglala Lakota,Rockyford,State Senator,27,Rep,Bill  Hines,18
+Oglala Lakota,OGLALA SD,State Senator,27,Rep,Bill  Hines,219
+Oglala Lakota,Batesland,State Senator,27,Dem,Red Dawn Foster,119
+Oglala Lakota,Cuny Table,State Senator,27,Dem,Red Dawn Foster,46
+Oglala Lakota,Kyle,State Senator,27,Dem,Red Dawn Foster,483
+Oglala Lakota,Manderson,State Senator,27,Dem,Red Dawn Foster,157
+Oglala Lakota,Oglala,State Senator,27,Dem,Red Dawn Foster,390
+Oglala Lakota,Pine Ridge 1,State Senator,27,Dem,Red Dawn Foster,608
+Oglala Lakota,Pine Ridge 3,State Senator,27,Dem,Red Dawn Foster,455
+Oglala Lakota,Porcupine,State Senator,27,Dem,Red Dawn Foster,425
+Oglala Lakota,Rockyford,State Senator,27,Dem,Red Dawn Foster,97
+Oglala Lakota,OGLALA SD,State Senator,27,Dem,Red Dawn Foster,"2,780"
+Oglala Lakota,Batesland,State House,27,Rep,Steve Livermont,42
+Oglala Lakota,Cuny Table,State House,27,Rep,Steve Livermont,16
+Oglala Lakota,Kyle,State House,27,Rep,Steve Livermont,50
+Oglala Lakota,Manderson,State House,27,Rep,Steve Livermont,9
+Oglala Lakota,Oglala,State House,27,Rep,Steve Livermont,28
+Oglala Lakota,Pine Ridge 1,State House,27,Rep,Steve Livermont,25
+Oglala Lakota,Pine Ridge 3,State House,27,Rep,Steve Livermont,26
+Oglala Lakota,Porcupine,State House,27,Rep,Steve Livermont,22
+Oglala Lakota,Rockyford,State House,27,Rep,Steve Livermont,20
+Oglala Lakota,OGLALA SD,State House,27,Rep,Steve Livermont,238
+Oglala Lakota,Batesland,State House,27,Rep,Elizabeth May,39
+Oglala Lakota,Cuny Table,State House,27,Rep,Elizabeth May,19
+Oglala Lakota,Kyle,State House,27,Rep,Elizabeth May,113
+Oglala Lakota,Manderson,State House,27,Rep,Elizabeth May,16
+Oglala Lakota,Oglala,State House,27,Rep,Elizabeth May,27
+Oglala Lakota,Pine Ridge 1,State House,27,Rep,Elizabeth May,25
+Oglala Lakota,Pine Ridge 3,State House,27,Rep,Elizabeth May,40
+Oglala Lakota,Porcupine,State House,27,Rep,Elizabeth May,39
+Oglala Lakota,Rockyford,State House,27,Rep,Elizabeth May,24
+Oglala Lakota,OGLALA SD,State House,27,Rep,Elizabeth May,342
+Oglala Lakota,Batesland,State House,27,Dem,Margaret Ross,98
+Oglala Lakota,Cuny Table,State House,27,Dem,Margaret Ross,44
+Oglala Lakota,Kyle,State House,27,Dem,Margaret Ross,334
+Oglala Lakota,Manderson,State House,27,Dem,Margaret Ross,106
+Oglala Lakota,Oglala,State House,27,Dem,Margaret Ross,306
+Oglala Lakota,Pine Ridge 1,State House,27,Dem,Margaret Ross,404
+Oglala Lakota,Pine Ridge 3,State House,27,Dem,Margaret Ross,317
+Oglala Lakota,Porcupine,State House,27,Dem,Margaret Ross,333
+Oglala Lakota,Rockyford,State House,27,Dem,Margaret Ross,72
+Oglala Lakota,OGLALA SD,State House,27,Dem,Margaret Ross,"2,014"
+Oglala Lakota,Batesland,State House,27,Dem,Peri  Pourier,96
+Oglala Lakota,Cuny Table,State House,27,Dem,Peri  Pourier,30
+Oglala Lakota,Kyle,State House,27,Dem,Peri  Pourier,355
+Oglala Lakota,Manderson,State House,27,Dem,Peri  Pourier,118
+Oglala Lakota,Oglala,State House,27,Dem,Peri  Pourier,279
+Oglala Lakota,Pine Ridge 1,State House,27,Dem,Peri  Pourier,522
+Oglala Lakota,Pine Ridge 3,State House,27,Dem,Peri  Pourier,371
+Oglala Lakota,Porcupine,State House,27,Dem,Peri  Pourier,337
+Oglala Lakota,Rockyford,State House,27,Dem,Peri  Pourier,80
+Oglala Lakota,OGLALA SD,State House,27,Dem,Peri  Pourier,"2,188"
