@@ -1,0 +1,151 @@
+votes,district,candidate,office,county,party,precinct
+McPherson,1,U.S. House,1,LIB,George D. Hendrickson,3
+McPherson,2,U.S. House,1,LIB,George D. Hendrickson,2
+McPherson,3,U.S. House,1,LIB,George D. Hendrickson,0
+McPherson,4,U.S. House,1,LIB,George D. Hendrickson,1
+McPherson,5,U.S. House,1,LIB,George D. Hendrickson,6
+McPherson,6,U.S. House,1,LIB,George D. Hendrickson,2
+McPherson,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",148
+McPherson,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",161
+McPherson,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",31
+McPherson,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",161
+McPherson,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",157
+McPherson,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",140
+McPherson,1,U.S. House,1,DEM,Tim Bjorkman,35
+McPherson,2,U.S. House,1,DEM,Tim Bjorkman,52
+McPherson,3,U.S. House,1,DEM,Tim Bjorkman,8
+McPherson,4,U.S. House,1,DEM,Tim Bjorkman,41
+McPherson,5,U.S. House,1,DEM,Tim Bjorkman,37
+McPherson,6,U.S. House,1,DEM,Tim Bjorkman,43
+McPherson,1,U.S. House,1,IND,Ron Wieczorek,1
+McPherson,2,U.S. House,1,IND,Ron Wieczorek,5
+McPherson,3,U.S. House,1,IND,Ron Wieczorek,1
+McPherson,4,U.S. House,1,IND,Ron Wieczorek,5
+McPherson,5,U.S. House,1,IND,Ron Wieczorek,3
+McPherson,6,U.S. House,1,IND,Ron Wieczorek,4
+McPherson,1,Governor,,LIB,Kurt Evans,3
+McPherson,2,Governor,,LIB,Kurt Evans,4
+McPherson,3,Governor,,LIB,Kurt Evans,0
+McPherson,4,Governor,,LIB,Kurt Evans,2
+McPherson,5,Governor,,LIB,Kurt Evans,4
+McPherson,6,Governor,,LIB,Kurt Evans,3
+McPherson,1,Governor,,REP,Kristi Noem,134
+McPherson,2,Governor,,REP,Kristi Noem,150
+McPherson,3,Governor,,REP,Kristi Noem,34
+McPherson,4,Governor,,REP,Kristi Noem,144
+McPherson,5,Governor,,REP,Kristi Noem,146
+McPherson,6,Governor,,REP,Kristi Noem,121
+McPherson,1,Governor,,DEM,Billie Sutton,53
+McPherson,2,Governor,,DEM,Billie Sutton,69
+McPherson,3,Governor,,DEM,Billie Sutton,5
+McPherson,4,Governor,,DEM,Billie Sutton,62
+McPherson,5,Governor,,DEM,Billie Sutton,55
+McPherson,6,Governor,,DEM,Billie Sutton,65
+McPherson,1,Secretary of State,,REP,Steve Barnett,155
+McPherson,2,Secretary of State,,REP,Steve Barnett,184
+McPherson,3,Secretary of State,,REP,Steve Barnett,34
+McPherson,4,Secretary of State,,REP,Steve Barnett,173
+McPherson,5,Secretary of State,,REP,Steve Barnett,176
+McPherson,6,Secretary of State,,REP,Steve Barnett,154
+McPherson,1,Secretary of State,,DEM,Alexandra Frederick,31
+McPherson,2,Secretary of State,,DEM,Alexandra Frederick,35
+McPherson,3,Secretary of State,,DEM,Alexandra Frederick,5
+McPherson,4,Secretary of State,,DEM,Alexandra Frederick,30
+McPherson,5,Secretary of State,,DEM,Alexandra Frederick,25
+McPherson,6,Secretary of State,,DEM,Alexandra Frederick,30
+McPherson,1,Attorney General,,REP,Jason Ravnsborg,149
+McPherson,2,Attorney General,,REP,Jason Ravnsborg,162
+McPherson,3,Attorney General,,REP,Jason Ravnsborg,32
+McPherson,4,Attorney General,,REP,Jason Ravnsborg,147
+McPherson,5,Attorney General,,REP,Jason Ravnsborg,152
+McPherson,6,Attorney General,,REP,Jason Ravnsborg,129
+McPherson,1,Attorney General,,DEM,Randy Seiler,36
+McPherson,2,Attorney General,,DEM,Randy Seiler,54
+McPherson,3,Attorney General,,DEM,Randy Seiler,7
+McPherson,4,Attorney General,,DEM,Randy Seiler,52
+McPherson,5,Attorney General,,DEM,Randy Seiler,49
+McPherson,6,Attorney General,,DEM,Randy Seiler,53
+McPherson,1,State Auditor,,REP,Rich Sattgast,149
+McPherson,2,State Auditor,,REP,Rich Sattgast,173
+McPherson,3,State Auditor,,REP,Rich Sattgast,36
+McPherson,4,State Auditor,,REP,Rich Sattgast,166
+McPherson,5,State Auditor,,REP,Rich Sattgast,165
+McPherson,6,State Auditor,,REP,Rich Sattgast,142
+McPherson,1,State Auditor,,DEM,Tom Cool,38
+McPherson,2,State Auditor,,DEM,Tom Cool,43
+McPherson,3,State Auditor,,DEM,Tom Cool,2
+McPherson,4,State Auditor,,DEM,Tom Cool,30
+McPherson,5,State Auditor,,DEM,Tom Cool,28
+McPherson,6,State Auditor,,DEM,Tom Cool,35
+McPherson,1,State Treasurer,,REP,Josh Haeder,142
+McPherson,2,State Treasurer,,REP,Josh Haeder,170
+McPherson,3,State Treasurer,,REP,Josh Haeder,34
+McPherson,4,State Treasurer,,REP,Josh Haeder,161
+McPherson,5,State Treasurer,,REP,Josh Haeder,168
+McPherson,6,State Treasurer,,REP,Josh Haeder,138
+McPherson,1,State Treasurer,,DEM,Aaron Matson,45
+McPherson,2,State Treasurer,,DEM,Aaron Matson,44
+McPherson,3,State Treasurer,,DEM,Aaron Matson,5
+McPherson,4,State Treasurer,,DEM,Aaron Matson,32
+McPherson,5,State Treasurer,,DEM,Aaron Matson,24
+McPherson,6,State Treasurer,,DEM,Aaron Matson,35
+McPherson,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,148
+McPherson,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,168
+McPherson,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,35
+McPherson,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,157
+McPherson,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,163
+McPherson,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,139
+McPherson,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,40
+McPherson,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,43
+McPherson,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,4
+McPherson,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,38
+McPherson,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,31
+McPherson,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,34
+McPherson,1,Public Utilities Commissioner,,REP,Kristie Fiegen,146
+McPherson,2,Public Utilities Commissioner,,REP,Kristie Fiegen,167
+McPherson,3,Public Utilities Commissioner,,REP,Kristie Fiegen,32
+McPherson,4,Public Utilities Commissioner,,REP,Kristie Fiegen,163
+McPherson,5,Public Utilities Commissioner,,REP,Kristie Fiegen,165
+McPherson,6,Public Utilities Commissioner,,REP,Kristie Fiegen,143
+McPherson,1,Public Utilities Commissioner,,DEM,Wayne Frederick,39
+McPherson,2,Public Utilities Commissioner,,DEM,Wayne Frederick,43
+McPherson,3,Public Utilities Commissioner,,DEM,Wayne Frederick,5
+McPherson,4,Public Utilities Commissioner,,DEM,Wayne Frederick,32
+McPherson,5,Public Utilities Commissioner,,DEM,Wayne Frederick,26
+McPherson,6,Public Utilities Commissioner,,DEM,Wayne Frederick,32
+McPherson,1,State Senate,23,REP,Justin R. Cronin,147
+McPherson,2,State Senate,23,REP,Justin R. Cronin,186
+McPherson,3,State Senate,23,REP,Justin R. Cronin,35
+McPherson,4,State Senate,23,REP,Justin R. Cronin,174
+McPherson,5,State Senate,23,REP,Justin R. Cronin,171
+McPherson,6,State Senate,23,REP,Justin R. Cronin,156
+McPherson,1,State Senate,23,DEM,Joe Yracheta,38
+McPherson,2,State Senate,23,DEM,Joe Yracheta,26
+McPherson,3,State Senate,23,DEM,Joe Yracheta,3
+McPherson,4,State Senate,23,DEM,Joe Yracheta,30
+McPherson,5,State Senate,23,DEM,Joe Yracheta,23
+McPherson,6,State Senate,23,DEM,Joe Yracheta,26
+McPherson,1,State House,23,REP,Spencer Gosch,145
+McPherson,2,State House,23,REP,Spencer Gosch,172
+McPherson,3,State House,23,REP,Spencer Gosch,33
+McPherson,4,State House,23,REP,Spencer Gosch,163
+McPherson,5,State House,23,REP,Spencer Gosch,169
+McPherson,6,State House,23,REP,Spencer Gosch,144
+McPherson,1,State House,23,REP,John A. Lake,131
+McPherson,2,State House,23,REP,John A. Lake,150
+McPherson,3,State House,23,REP,John A. Lake,29
+McPherson,4,State House,23,REP,John A. Lake,132
+McPherson,5,State House,23,REP,John A. Lake,134
+McPherson,6,State House,23,REP,John A. Lake,120
+McPherson,1,State House,23,DEM,Eleanor Iverson,43
+McPherson,2,State House,23,DEM,Eleanor Iverson,37
+McPherson,3,State House,23,DEM,Eleanor Iverson,3
+McPherson,4,State House,23,DEM,Eleanor Iverson,29
+McPherson,5,State House,23,DEM,Eleanor Iverson,25
+McPherson,6,State House,23,DEM,Eleanor Iverson,25
+McPherson,1,State House,23,DEM,Margaret Ann Walsh,39
+McPherson,2,State House,23,DEM,Margaret Ann Walsh,34
+McPherson,3,State House,23,DEM,Margaret Ann Walsh,4
+McPherson,4,State House,23,DEM,Margaret Ann Walsh,32
+McPherson,5,State House,23,DEM,Margaret Ann Walsh,27
+McPherson,6,State House,23,DEM,Margaret Ann Walsh,29

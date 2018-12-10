@@ -1,0 +1,151 @@
+votes,district,candidate,office,county,party,precinct
+Moody,1,U.S. House,1,LIB,George D. Hendrickson,8
+Moody,2,U.S. House,1,LIB,George D. Hendrickson,7
+Moody,3,U.S. House,1,LIB,George D. Hendrickson,6
+Moody,34,U.S. House,1,LIB,George D. Hendrickson,4
+Moody,4,U.S. House,1,LIB,George D. Hendrickson,5
+Moody,5,U.S. House,1,LIB,George D. Hendrickson,11
+Moody,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",217
+Moody,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",207
+Moody,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",348
+Moody,34,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",203
+Moody,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",221
+Moody,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",426
+Moody,1,U.S. House,1,DEM,Tim Bjorkman,268
+Moody,2,U.S. House,1,DEM,Tim Bjorkman,277
+Moody,3,U.S. House,1,DEM,Tim Bjorkman,143
+Moody,34,U.S. House,1,DEM,Tim Bjorkman,116
+Moody,4,U.S. House,1,DEM,Tim Bjorkman,113
+Moody,5,U.S. House,1,DEM,Tim Bjorkman,173
+Moody,1,U.S. House,1,IND,Ron Wieczorek,17
+Moody,2,U.S. House,1,IND,Ron Wieczorek,10
+Moody,3,U.S. House,1,IND,Ron Wieczorek,16
+Moody,34,U.S. House,1,IND,Ron Wieczorek,3
+Moody,4,U.S. House,1,IND,Ron Wieczorek,9
+Moody,5,U.S. House,1,IND,Ron Wieczorek,17
+Moody,1,Governor,,LIB,Kurt Evans,11
+Moody,2,Governor,,LIB,Kurt Evans,3
+Moody,3,Governor,,LIB,Kurt Evans,13
+Moody,34,Governor,,LIB,Kurt Evans,3
+Moody,4,Governor,,LIB,Kurt Evans,4
+Moody,5,Governor,,LIB,Kurt Evans,10
+Moody,1,Governor,,REP,Kristi Noem,165
+Moody,2,Governor,,REP,Kristi Noem,162
+Moody,3,Governor,,REP,Kristi Noem,276
+Moody,34,Governor,,REP,Kristi Noem,174
+Moody,4,Governor,,REP,Kristi Noem,194
+Moody,5,Governor,,REP,Kristi Noem,369
+Moody,1,Governor,,DEM,Billie Sutton,344
+Moody,2,Governor,,DEM,Billie Sutton,341
+Moody,3,Governor,,DEM,Billie Sutton,225
+Moody,34,Governor,,DEM,Billie Sutton,149
+Moody,4,Governor,,DEM,Billie Sutton,154
+Moody,5,Governor,,DEM,Billie Sutton,256
+Moody,1,Secretary of State,,REP,Steve Barnett,218
+Moody,2,Secretary of State,,REP,Steve Barnett,212
+Moody,3,Secretary of State,,REP,Steve Barnett,340
+Moody,34,Secretary of State,,REP,Steve Barnett,220
+Moody,4,Secretary of State,,REP,Steve Barnett,228
+Moody,5,Secretary of State,,REP,Steve Barnett,415
+Moody,1,Secretary of State,,DEM,Alexandra Frederick,277
+Moody,2,Secretary of State,,DEM,Alexandra Frederick,268
+Moody,3,Secretary of State,,DEM,Alexandra Frederick,151
+Moody,34,Secretary of State,,DEM,Alexandra Frederick,96
+Moody,4,Secretary of State,,DEM,Alexandra Frederick,99
+Moody,5,Secretary of State,,DEM,Alexandra Frederick,176
+Moody,1,Attorney General,,REP,Jason Ravnsborg,179
+Moody,2,Attorney General,,REP,Jason Ravnsborg,183
+Moody,3,Attorney General,,REP,Jason Ravnsborg,303
+Moody,34,Attorney General,,REP,Jason Ravnsborg,162
+Moody,4,Attorney General,,REP,Jason Ravnsborg,194
+Moody,5,Attorney General,,REP,Jason Ravnsborg,377
+Moody,1,Attorney General,,DEM,Randy Seiler,323
+Moody,2,Attorney General,,DEM,Randy Seiler,300
+Moody,3,Attorney General,,DEM,Randy Seiler,192
+Moody,34,Attorney General,,DEM,Randy Seiler,152
+Moody,4,Attorney General,,DEM,Randy Seiler,139
+Moody,5,Attorney General,,DEM,Randy Seiler,220
+Moody,1,State Auditor,,REP,Rich Sattgast,210
+Moody,2,State Auditor,,REP,Rich Sattgast,206
+Moody,3,State Auditor,,REP,Rich Sattgast,320
+Moody,34,State Auditor,,REP,Rich Sattgast,201
+Moody,4,State Auditor,,REP,Rich Sattgast,212
+Moody,5,State Auditor,,REP,Rich Sattgast,403
+Moody,1,State Auditor,,DEM,Tom Cool,268
+Moody,2,State Auditor,,DEM,Tom Cool,265
+Moody,3,State Auditor,,DEM,Tom Cool,150
+Moody,34,State Auditor,,DEM,Tom Cool,106
+Moody,4,State Auditor,,DEM,Tom Cool,110
+Moody,5,State Auditor,,DEM,Tom Cool,170
+Moody,1,State Treasurer,,REP,Josh Haeder,196
+Moody,2,State Treasurer,,REP,Josh Haeder,191
+Moody,3,State Treasurer,,REP,Josh Haeder,292
+Moody,34,State Treasurer,,REP,Josh Haeder,179
+Moody,4,State Treasurer,,REP,Josh Haeder,209
+Moody,5,State Treasurer,,REP,Josh Haeder,381
+Moody,1,State Treasurer,,DEM,Aaron Matson,286
+Moody,2,State Treasurer,,DEM,Aaron Matson,279
+Moody,3,State Treasurer,,DEM,Aaron Matson,177
+Moody,34,State Treasurer,,DEM,Aaron Matson,121
+Moody,4,State Treasurer,,DEM,Aaron Matson,112
+Moody,5,State Treasurer,,DEM,Aaron Matson,188
+Moody,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,202
+Moody,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,192
+Moody,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,297
+Moody,34,Commissioner of School and Public Lands,,REP,Ryan Brunner,193
+Moody,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,209
+Moody,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,392
+Moody,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,277
+Moody,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,275
+Moody,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,158
+Moody,34,Commissioner of School and Public Lands,,DEM,Woody Hauser,112
+Moody,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,114
+Moody,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,183
+Moody,1,Public Utilities Commissioner,,REP,Kristie Fiegen,217
+Moody,2,Public Utilities Commissioner,,REP,Kristie Fiegen,218
+Moody,3,Public Utilities Commissioner,,REP,Kristie Fiegen,352
+Moody,34,Public Utilities Commissioner,,REP,Kristie Fiegen,214
+Moody,4,Public Utilities Commissioner,,REP,Kristie Fiegen,235
+Moody,5,Public Utilities Commissioner,,REP,Kristie Fiegen,435
+Moody,1,Public Utilities Commissioner,,DEM,Wayne Frederick,264
+Moody,2,Public Utilities Commissioner,,DEM,Wayne Frederick,255
+Moody,3,Public Utilities Commissioner,,DEM,Wayne Frederick,131
+Moody,34,Public Utilities Commissioner,,DEM,Wayne Frederick,94
+Moody,4,Public Utilities Commissioner,,DEM,Wayne Frederick,95
+Moody,5,Public Utilities Commissioner,,DEM,Wayne Frederick,160
+Moody,1,State Senate,8,REP,Jordan Youngberg,186
+Moody,2,State Senate,8,REP,Jordan Youngberg,157
+Moody,3,State Senate,8,REP,Jordan Youngberg,310
+Moody,34,State Senate,8,REP,Jordan Youngberg,173
+Moody,4,State Senate,8,REP,Jordan Youngberg,207
+Moody,5,State Senate,8,REP,Jordan Youngberg,385
+Moody,1,State Senate,8,DEM,Scott Parsley,324
+Moody,2,State Senate,8,DEM,Scott Parsley,337
+Moody,3,State Senate,8,DEM,Scott Parsley,190
+Moody,34,State Senate,8,DEM,Scott Parsley,148
+Moody,4,State Senate,8,DEM,Scott Parsley,133
+Moody,5,State Senate,8,DEM,Scott Parsley,235
+Moody,1,State House,8,REP,Marli Wiese,164
+Moody,2,State House,8,REP,Marli Wiese,163
+Moody,3,State House,8,REP,Marli Wiese,287
+Moody,34,State House,8,REP,Marli Wiese,165
+Moody,4,State House,8,REP,Marli Wiese,195
+Moody,5,State House,8,REP,Marli Wiese,383
+Moody,1,State House,8,REP,Randy Gross,199
+Moody,2,State House,8,REP,Randy Gross,159
+Moody,3,State House,8,REP,Randy Gross,308
+Moody,34,State House,8,REP,Randy Gross,200
+Moody,4,State House,8,REP,Randy Gross,205
+Moody,5,State House,8,REP,Randy Gross,395
+Moody,1,State House,8,DEM,Chris Francis,145
+Moody,2,State House,8,DEM,Chris Francis,151
+Moody,3,State House,8,DEM,Chris Francis,102
+Moody,34,State House,8,DEM,Chris Francis,63
+Moody,4,State House,8,DEM,Chris Francis,59
+Moody,5,State House,8,DEM,Chris Francis,122
+Moody,1,State House,8,DEM,Jason Unger,342
+Moody,2,State House,8,DEM,Jason Unger,330
+Moody,3,State House,8,DEM,Jason Unger,185
+Moody,34,State House,8,DEM,Jason Unger,150
+Moody,4,State House,8,DEM,Jason Unger,130
+Moody,5,State House,8,DEM,Jason Unger,209

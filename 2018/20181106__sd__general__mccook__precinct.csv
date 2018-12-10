@@ -1,0 +1,157 @@
+votes,district,candidate,office,county,party,precinct
+McCook,1,U.S. House,1,LIB,George D. Hendrickson,3
+McCook,2,U.S. House,1,LIB,George D. Hendrickson,1
+McCook,3,U.S. House,1,LIB,George D. Hendrickson,4
+McCook,4,U.S. House,1,LIB,George D. Hendrickson,2
+McCook,5,U.S. House,1,LIB,George D. Hendrickson,8
+McCook,6,U.S. House,1,LIB,George D. Hendrickson,2
+McCook,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",247
+McCook,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",75
+McCook,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",262
+McCook,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",264
+McCook,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",329
+McCook,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",196
+McCook,1,U.S. House,1,DEM,Tim Bjorkman,214
+McCook,2,U.S. House,1,DEM,Tim Bjorkman,59
+McCook,3,U.S. House,1,DEM,Tim Bjorkman,255
+McCook,4,U.S. House,1,DEM,Tim Bjorkman,166
+McCook,5,U.S. House,1,DEM,Tim Bjorkman,242
+McCook,6,U.S. House,1,DEM,Tim Bjorkman,111
+McCook,1,U.S. House,1,IND,Ron Wieczorek,11
+McCook,2,U.S. House,1,IND,Ron Wieczorek,6
+McCook,3,U.S. House,1,IND,Ron Wieczorek,8
+McCook,4,U.S. House,1,IND,Ron Wieczorek,3
+McCook,5,U.S. House,1,IND,Ron Wieczorek,7
+McCook,6,U.S. House,1,IND,Ron Wieczorek,9
+McCook,1,Governor,,LIB,Kurt Evans,7
+McCook,2,Governor,,LIB,Kurt Evans,4
+McCook,3,Governor,,LIB,Kurt Evans,12
+McCook,4,Governor,,LIB,Kurt Evans,6
+McCook,5,Governor,,LIB,Kurt Evans,6
+McCook,6,Governor,,LIB,Kurt Evans,4
+McCook,1,Governor,,REP,Kristi Noem,243
+McCook,2,Governor,,REP,Kristi Noem,65
+McCook,3,Governor,,REP,Kristi Noem,294
+McCook,4,Governor,,REP,Kristi Noem,312
+McCook,5,Governor,,REP,Kristi Noem,284
+McCook,6,Governor,,REP,Kristi Noem,177
+McCook,1,Governor,,DEM,Billie Sutton,231
+McCook,2,Governor,,DEM,Billie Sutton,72
+McCook,3,Governor,,DEM,Billie Sutton,220
+McCook,4,Governor,,DEM,Billie Sutton,121
+McCook,5,Governor,,DEM,Billie Sutton,300
+McCook,6,Governor,,DEM,Billie Sutton,139
+McCook,1,Secretary of State,,REP,Steve Barnett,302
+McCook,2,Secretary of State,,REP,Steve Barnett,89
+McCook,3,Secretary of State,,REP,Steve Barnett,356
+McCook,4,Secretary of State,,REP,Steve Barnett,342
+McCook,5,Secretary of State,,REP,Steve Barnett,371
+McCook,6,Secretary of State,,REP,Steve Barnett,233
+McCook,1,Secretary of State,,DEM,Alexandra Frederick,157
+McCook,2,Secretary of State,,DEM,Alexandra Frederick,45
+McCook,3,Secretary of State,,DEM,Alexandra Frederick,135
+McCook,4,Secretary of State,,DEM,Alexandra Frederick,69
+McCook,5,Secretary of State,,DEM,Alexandra Frederick,186
+McCook,6,Secretary of State,,DEM,Alexandra Frederick,74
+McCook,1,Attorney General,,REP,Jason Ravnsborg,260
+McCook,2,Attorney General,,REP,Jason Ravnsborg,69
+McCook,3,Attorney General,,REP,Jason Ravnsborg,294
+McCook,4,Attorney General,,REP,Jason Ravnsborg,296
+McCook,5,Attorney General,,REP,Jason Ravnsborg,303
+McCook,6,Attorney General,,REP,Jason Ravnsborg,198
+McCook,1,Attorney General,,DEM,Randy Seiler,200
+McCook,2,Attorney General,,DEM,Randy Seiler,68
+McCook,3,Attorney General,,DEM,Randy Seiler,204
+McCook,4,Attorney General,,DEM,Randy Seiler,115
+McCook,5,Attorney General,,DEM,Randy Seiler,249
+McCook,6,Attorney General,,DEM,Randy Seiler,111
+McCook,1,State Auditor,,REP,Rich Sattgast,277
+McCook,2,State Auditor,,REP,Rich Sattgast,81
+McCook,3,State Auditor,,REP,Rich Sattgast,357
+McCook,4,State Auditor,,REP,Rich Sattgast,329
+McCook,5,State Auditor,,REP,Rich Sattgast,346
+McCook,6,State Auditor,,REP,Rich Sattgast,217
+McCook,1,State Auditor,,DEM,Tom Cool,167
+McCook,2,State Auditor,,DEM,Tom Cool,48
+McCook,3,State Auditor,,DEM,Tom Cool,116
+McCook,4,State Auditor,,DEM,Tom Cool,75
+McCook,5,State Auditor,,DEM,Tom Cool,187
+McCook,6,State Auditor,,DEM,Tom Cool,82
+McCook,1,State Treasurer,,REP,Josh Haeder,260
+McCook,2,State Treasurer,,REP,Josh Haeder,75
+McCook,3,State Treasurer,,REP,Josh Haeder,321
+McCook,4,State Treasurer,,REP,Josh Haeder,316
+McCook,5,State Treasurer,,REP,Josh Haeder,322
+McCook,6,State Treasurer,,REP,Josh Haeder,198
+McCook,1,State Treasurer,,DEM,Aaron Matson,176
+McCook,2,State Treasurer,,DEM,Aaron Matson,52
+McCook,3,State Treasurer,,DEM,Aaron Matson,150
+McCook,4,State Treasurer,,DEM,Aaron Matson,80
+McCook,5,State Treasurer,,DEM,Aaron Matson,204
+McCook,6,State Treasurer,,DEM,Aaron Matson,92
+McCook,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,265
+McCook,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,74
+McCook,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,320
+McCook,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,317
+McCook,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,328
+McCook,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,205
+McCook,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,166
+McCook,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,53
+McCook,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,144
+McCook,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,75
+McCook,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,193
+McCook,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,83
+McCook,1,Public Utilities Commissioner,,REP,Kristie Fiegen,302
+McCook,2,Public Utilities Commissioner,,REP,Kristie Fiegen,86
+McCook,3,Public Utilities Commissioner,,REP,Kristie Fiegen,367
+McCook,4,Public Utilities Commissioner,,REP,Kristie Fiegen,322
+McCook,5,Public Utilities Commissioner,,REP,Kristie Fiegen,358
+McCook,6,Public Utilities Commissioner,,REP,Kristie Fiegen,235
+McCook,1,Public Utilities Commissioner,,DEM,Wayne Frederick,145
+McCook,2,Public Utilities Commissioner,,DEM,Wayne Frederick,44
+McCook,3,Public Utilities Commissioner,,DEM,Wayne Frederick,121
+McCook,4,Public Utilities Commissioner,,DEM,Wayne Frederick,75
+McCook,5,Public Utilities Commissioner,,DEM,Wayne Frederick,179
+McCook,6,Public Utilities Commissioner,,DEM,Wayne Frederick,62
+McCook,1,State Senate,19,REP,Stace Nelson,323
+McCook,2,State Senate,19,REP,Stace Nelson,108
+McCook,3,State Senate,19,REP,Stace Nelson,373
+McCook,4,State Senate,19,REP,Stace Nelson,371
+McCook,5,State Senate,19,REP,Stace Nelson,394
+McCook,6,State Senate,19,REP,Stace Nelson,226
+McCook,1,State Senate,19,DEM,Ardon Wek,135
+McCook,2,State Senate,19,DEM,Ardon Wek,31
+McCook,3,State Senate,19,DEM,Ardon Wek,132
+McCook,4,State Senate,19,DEM,Ardon Wek,47
+McCook,5,State Senate,19,DEM,Ardon Wek,175
+McCook,6,State Senate,19,DEM,Ardon Wek,80
+McCook,1,State House,19,REP,Kent Peterson,288
+McCook,2,State House,19,REP,Kent Peterson,92
+McCook,3,State House,19,REP,Kent Peterson,301
+McCook,4,State House,19,REP,Kent Peterson,265
+McCook,5,State House,19,REP,Kent Peterson,431
+McCook,6,State House,19,REP,Kent Peterson,241
+McCook,1,State House,19,REP,Kyle Schoenfish,223
+McCook,2,State House,19,REP,Kyle Schoenfish,55
+McCook,3,State House,19,REP,Kyle Schoenfish,284
+McCook,4,State House,19,REP,Kyle Schoenfish,197
+McCook,5,State House,19,REP,Kyle Schoenfish,246
+McCook,6,State House,19,REP,Kyle Schoenfish,138
+McCook,1,State House,19,DEM,John C. Koch,138
+McCook,2,State House,19,DEM,John C. Koch,43
+McCook,3,State House,19,DEM,John C. Koch,121
+McCook,4,State House,19,DEM,John C. Koch,54
+McCook,5,State House,19,DEM,John C. Koch,183
+McCook,6,State House,19,DEM,John C. Koch,65
+McCook,1,State House,19,IND,Alison Bowers,71
+McCook,2,State House,19,IND,Alison Bowers,10
+McCook,3,State House,19,IND,Alison Bowers,63
+McCook,4,State House,19,IND,Alison Bowers,25
+McCook,5,State House,19,IND,Alison Bowers,54
+McCook,6,State House,19,IND,Alison Bowers,33
+McCook,1,State House,19,IND,Roger Hofer,86
+McCook,2,State House,19,IND,Roger Hofer,31
+McCook,3,State House,19,IND,Roger Hofer,90
+McCook,4,State House,19,IND,Roger Hofer,185
+McCook,5,State House,19,IND,Roger Hofer,76
+McCook,6,State House,19,IND,Roger Hofer,51

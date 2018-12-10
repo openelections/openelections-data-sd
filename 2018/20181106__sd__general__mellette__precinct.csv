@@ -1,0 +1,89 @@
+votes,district,candidate,office,county,party,precinct
+Mellette,2,U.S. House,1,LIB,George D. Hendrickson,8
+Mellette,3,U.S. House,1,LIB,George D. Hendrickson,5
+Mellette,5,U.S. House,1,LIB,George D. Hendrickson,5
+Mellette,6,U.S. House,1,LIB,George D. Hendrickson,4
+Mellette,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",104
+Mellette,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",90
+Mellette,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",78
+Mellette,6,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",86
+Mellette,2,U.S. House,1,DEM,Tim Bjorkman,85
+Mellette,3,U.S. House,1,DEM,Tim Bjorkman,46
+Mellette,5,U.S. House,1,DEM,Tim Bjorkman,108
+Mellette,6,U.S. House,1,DEM,Tim Bjorkman,64
+Mellette,2,U.S. House,1,IND,Ron Wieczorek,5
+Mellette,3,U.S. House,1,IND,Ron Wieczorek,1
+Mellette,5,U.S. House,1,IND,Ron Wieczorek,6
+Mellette,6,U.S. House,1,IND,Ron Wieczorek,4
+Mellette,2,Governor,,LIB,Kurt Evans,5
+Mellette,3,Governor,,LIB,Kurt Evans,2
+Mellette,5,Governor,,LIB,Kurt Evans,7
+Mellette,6,Governor,,LIB,Kurt Evans,3
+Mellette,2,Governor,,REP,Kristi Noem,86
+Mellette,3,Governor,,REP,Kristi Noem,83
+Mellette,5,Governor,,REP,Kristi Noem,66
+Mellette,6,Governor,,REP,Kristi Noem,64
+Mellette,2,Governor,,DEM,Billie Sutton,113
+Mellette,3,Governor,,DEM,Billie Sutton,57
+Mellette,5,Governor,,DEM,Billie Sutton,134
+Mellette,6,Governor,,DEM,Billie Sutton,91
+Mellette,2,Secretary of State,,REP,Steve Barnett,108
+Mellette,3,Secretary of State,,REP,Steve Barnett,98
+Mellette,5,Secretary of State,,REP,Steve Barnett,92
+Mellette,6,Secretary of State,,REP,Steve Barnett,85
+Mellette,2,Secretary of State,,DEM,Alexandra Frederick,89
+Mellette,3,Secretary of State,,DEM,Alexandra Frederick,40
+Mellette,5,Secretary of State,,DEM,Alexandra Frederick,103
+Mellette,6,Secretary of State,,DEM,Alexandra Frederick,70
+Mellette,2,Attorney General,,REP,Jason Ravnsborg,96
+Mellette,3,Attorney General,,REP,Jason Ravnsborg,87
+Mellette,5,Attorney General,,REP,Jason Ravnsborg,86
+Mellette,6,Attorney General,,REP,Jason Ravnsborg,77
+Mellette,2,Attorney General,,DEM,Randy Seiler,101
+Mellette,3,Attorney General,,DEM,Randy Seiler,51
+Mellette,5,Attorney General,,DEM,Randy Seiler,109
+Mellette,6,Attorney General,,DEM,Randy Seiler,72
+Mellette,2,State Auditor,,REP,Rich Sattgast,101
+Mellette,3,State Auditor,,REP,Rich Sattgast,94
+Mellette,5,State Auditor,,REP,Rich Sattgast,87
+Mellette,6,State Auditor,,REP,Rich Sattgast,83
+Mellette,2,State Auditor,,DEM,Tom Cool,85
+Mellette,3,State Auditor,,DEM,Tom Cool,42
+Mellette,5,State Auditor,,DEM,Tom Cool,102
+Mellette,6,State Auditor,,DEM,Tom Cool,70
+Mellette,2,State Treasurer,,REP,Josh Haeder,97
+Mellette,3,State Treasurer,,REP,Josh Haeder,96
+Mellette,5,State Treasurer,,REP,Josh Haeder,88
+Mellette,6,State Treasurer,,REP,Josh Haeder,80
+Mellette,2,State Treasurer,,DEM,Aaron Matson,93
+Mellette,3,State Treasurer,,DEM,Aaron Matson,39
+Mellette,5,State Treasurer,,DEM,Aaron Matson,101
+Mellette,6,State Treasurer,,DEM,Aaron Matson,69
+Mellette,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,101
+Mellette,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,82
+Mellette,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,85
+Mellette,6,Commissioner of School and Public Lands,,REP,Ryan Brunner,83
+Mellette,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,87
+Mellette,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,49
+Mellette,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,106
+Mellette,6,Commissioner of School and Public Lands,,DEM,Woody Hauser,63
+Mellette,2,Public Utilities Commissioner,,REP,Kristie Fiegen,94
+Mellette,3,Public Utilities Commissioner,,REP,Kristie Fiegen,90
+Mellette,5,Public Utilities Commissioner,,REP,Kristie Fiegen,83
+Mellette,6,Public Utilities Commissioner,,REP,Kristie Fiegen,76
+Mellette,2,Public Utilities Commissioner,,DEM,Wayne Frederick,102
+Mellette,3,Public Utilities Commissioner,,DEM,Wayne Frederick,45
+Mellette,5,Public Utilities Commissioner,,DEM,Wayne Frederick,114
+Mellette,6,Public Utilities Commissioner,,DEM,Wayne Frederick,75
+Mellette,2,State Senate,26,REP,Joel Koskan,88
+Mellette,3,State Senate,26,REP,Joel Koskan,85
+Mellette,5,State Senate,26,REP,Joel Koskan,89
+Mellette,6,State Senate,26,REP,Joel Koskan,77
+Mellette,2,State Senate,26,DEM,Troy Heinert,117
+Mellette,3,State Senate,26,DEM,Troy Heinert,50
+Mellette,5,State Senate,26,DEM,Troy Heinert,113
+Mellette,6,State Senate,26,DEM,Troy Heinert,77
+Mellette,2,State House,26A,DEM,Shawn Bordeaux,114
+Mellette,3,State House,26A,DEM,Shawn Bordeaux,65
+Mellette,5,State House,26A,DEM,Shawn Bordeaux,127
+Mellette,6,State House,26A,DEM,Shawn Bordeaux,87
