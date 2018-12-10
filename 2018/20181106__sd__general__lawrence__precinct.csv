@@ -1,0 +1,276 @@
+county,precinct,office,district,party,candidate,votes
+Lawrence,Precinct-01,US House,,Lbt,George Hendrickson,25
+Lawrence,Precinct-02,US House,,Lbt,George Hendrickson,23
+Lawrence,Precinct-03,US House,,Lbt,George Hendrickson,23
+Lawrence,Precinct-04,US House,,Lbt,George Hendrickson,18
+Lawrence,Precinct-05,US House,,Lbt,George Hendrickson,12
+Lawrence,Precinct-06,US House,,Lbt,George Hendrickson,6
+Lawrence,Precinct-07,US House,,Lbt,George Hendrickson,9
+Lawrence,Precinct-08,US House,,Lbt,George Hendrickson,6
+Lawrence,Precinct-09,US House,,Lbt,George Hendrickson,18
+Lawrence,Precinct-10,US House,,Lbt,George Hendrickson,26
+Lawrence,Absentee Precinct,US House,,Lbt,George Hendrickson,50
+Lawrence,Precinct-01,US House,,Rep,Dusty Johnson,468
+Lawrence,Precinct-02,US House,,Rep,Dusty Johnson,588
+Lawrence,Precinct-03,US House,,Rep,Dusty Johnson,710
+Lawrence,Precinct-04,US House,,Rep,Dusty Johnson,405
+Lawrence,Precinct-05,US House,,Rep,Dusty Johnson,165
+Lawrence,Precinct-06,US House,,Rep,Dusty Johnson,99
+Lawrence,Precinct-07,US House,,Rep,Dusty Johnson,290
+Lawrence,Precinct-08,US House,,Rep,Dusty Johnson,110
+Lawrence,Precinct-09,US House,,Rep,Dusty Johnson,440
+Lawrence,Precinct-10,US House,,Rep,Dusty Johnson,993
+Lawrence,Absentee Precinct,US House,,Rep,Dusty Johnson,"2,600"
+Lawrence,Precinct-01,US House,,Dem,Tim Bjorkman,292
+Lawrence,Precinct-02,US House,,Dem,Tim Bjorkman,265
+Lawrence,Precinct-03,US House,,Dem,Tim Bjorkman,338
+Lawrence,Precinct-04,US House,,Dem,Tim Bjorkman,245
+Lawrence,Precinct-05,US House,,Dem,Tim Bjorkman,118
+Lawrence,Precinct-06,US House,,Dem,Tim Bjorkman,50
+Lawrence,Precinct-07,US House,,Dem,Tim Bjorkman,135
+Lawrence,Precinct-08,US House,,Dem,Tim Bjorkman,28
+Lawrence,Precinct-09,US House,,Dem,Tim Bjorkman,113
+Lawrence,Precinct-10,US House,,Dem,Tim Bjorkman,323
+Lawrence,Absentee Precinct,US House,,Dem,Tim Bjorkman,"1,582"
+Lawrence,Precinct-01,US House,,Ind,Ron Wieczorek,23
+Lawrence,Precinct-02,US House,,Ind,Ron Wieczorek,22
+Lawrence,Precinct-03,US House,,Ind,Ron Wieczorek,26
+Lawrence,Precinct-04,US House,,Ind,Ron Wieczorek,26
+Lawrence,Precinct-05,US House,,Ind,Ron Wieczorek,14
+Lawrence,Precinct-06,US House,,Ind,Ron Wieczorek,13
+Lawrence,Precinct-07,US House,,Ind,Ron Wieczorek,15
+Lawrence,Precinct-08,US House,,Ind,Ron Wieczorek,0
+Lawrence,Precinct-09,US House,,Ind,Ron Wieczorek,16
+Lawrence,Precinct-10,US House,,Ind,Ron Wieczorek,25
+Lawrence,Absentee Precinct,US House,,Ind,Ron Wieczorek,91
+Lawrence,Precinct-01,Governor,,Lbt,Kurt Evans,16
+Lawrence,Precinct-02,Governor,,Lbt,Kurt Evans,21
+Lawrence,Precinct-03,Governor,,Lbt,Kurt Evans,22
+Lawrence,Precinct-04,Governor,,Lbt,Kurt Evans,35
+Lawrence,Precinct-05,Governor,,Lbt,Kurt Evans,14
+Lawrence,Precinct-06,Governor,,Lbt,Kurt Evans,7
+Lawrence,Precinct-07,Governor,,Lbt,Kurt Evans,10
+Lawrence,Precinct-08,Governor,,Lbt,Kurt Evans,7
+Lawrence,Precinct-09,Governor,,Lbt,Kurt Evans,14
+Lawrence,Precinct-10,Governor,,Lbt,Kurt Evans,27
+Lawrence,Absentee Precinct,Governor,,Lbt,Kurt Evans,66
+Lawrence,Precinct-01,Governor,,Rep,Kristi Noem,381
+Lawrence,Precinct-02,Governor,,Rep,Kristi Noem,509
+Lawrence,Precinct-03,Governor,,Rep,Kristi Noem,602
+Lawrence,Precinct-04,Governor,,Rep,Kristi Noem,331
+Lawrence,Precinct-05,Governor,,Rep,Kristi Noem,129
+Lawrence,Precinct-06,Governor,,Rep,Kristi Noem,101
+Lawrence,Precinct-07,Governor,,Rep,Kristi Noem,254
+Lawrence,Precinct-08,Governor,,Rep,Kristi Noem,82
+Lawrence,Precinct-09,Governor,,Rep,Kristi Noem,395
+Lawrence,Precinct-10,Governor,,Rep,Kristi Noem,877
+Lawrence,Absentee Precinct,Governor,,Rep,Kristi Noem,"2,323"
+Lawrence,Precinct-01,Governor,,Dem,Billie Sutton,414
+Lawrence,Precinct-02,Governor,,Dem,Billie Sutton,372
+Lawrence,Precinct-03,Governor,,Dem,Billie Sutton,476
+Lawrence,Precinct-04,Governor,,Dem,Billie Sutton,336
+Lawrence,Precinct-05,Governor,,Dem,Billie Sutton,168
+Lawrence,Precinct-06,Governor,,Dem,Billie Sutton,61
+Lawrence,Precinct-07,Governor,,Dem,Billie Sutton,184
+Lawrence,Precinct-08,Governor,,Dem,Billie Sutton,56
+Lawrence,Precinct-09,Governor,,Dem,Billie Sutton,179
+Lawrence,Precinct-10,Governor,,Dem,Billie Sutton,471
+Lawrence,Absentee Precinct,Governor,,Dem,Billie Sutton,"1,958"
+Lawrence,Precinct-01,Secretary of State,,Rep,Steve Barnett,465
+Lawrence,Precinct-02,Secretary of State,,Rep,Steve Barnett,591
+Lawrence,Precinct-03,Secretary of State,,Rep,Steve Barnett,709
+Lawrence,Precinct-04,Secretary of State,,Rep,Steve Barnett,416
+Lawrence,Precinct-05,Secretary of State,,Rep,Steve Barnett,173
+Lawrence,Precinct-06,Secretary of State,,Rep,Steve Barnett,102
+Lawrence,Precinct-07,Secretary of State,,Rep,Steve Barnett,291
+Lawrence,Precinct-08,Secretary of State,,Rep,Steve Barnett,111
+Lawrence,Precinct-09,Secretary of State,,Rep,Steve Barnett,440
+Lawrence,Precinct-10,Secretary of State,,Rep,Steve Barnett,999
+Lawrence,Absentee Precinct,Secretary of State,,Rep,Steve Barnett,"2,695"
+Lawrence,Precinct-01,Secretary of State,,Dem,Alexandra Frederick,301
+Lawrence,Precinct-02,Secretary of State,,Dem,Alexandra Frederick,277
+Lawrence,Precinct-03,Secretary of State,,Dem,Alexandra Frederick,356
+Lawrence,Precinct-04,Secretary of State,,Dem,Alexandra Frederick,255
+Lawrence,Precinct-05,Secretary of State,,Dem,Alexandra Frederick,125
+Lawrence,Precinct-06,Secretary of State,,Dem,Alexandra Frederick,60
+Lawrence,Precinct-07,Secretary of State,,Dem,Alexandra Frederick,142
+Lawrence,Precinct-08,Secretary of State,,Dem,Alexandra Frederick,29
+Lawrence,Precinct-09,Secretary of State,,Dem,Alexandra Frederick,131
+Lawrence,Precinct-10,Secretary of State,,Dem,Alexandra Frederick,333
+Lawrence,Absentee Precinct,Secretary of State,,Dem,Alexandra Frederick,"1,543"
+Lawrence,Precinct-01,Attorney General,,Rep,Jason Ravnsborg,399
+Lawrence,Precinct-02,Attorney General,,Rep,Jason Ravnsborg,521
+Lawrence,Precinct-03,Attorney General,,Rep,Jason Ravnsborg,634
+Lawrence,Precinct-04,Attorney General,,Rep,Jason Ravnsborg,375
+Lawrence,Precinct-05,Attorney General,,Rep,Jason Ravnsborg,142
+Lawrence,Precinct-06,Attorney General,,Rep,Jason Ravnsborg,105
+Lawrence,Precinct-07,Attorney General,,Rep,Jason Ravnsborg,267
+Lawrence,Precinct-08,Attorney General,,Rep,Jason Ravnsborg,104
+Lawrence,Precinct-09,Attorney General,,Rep,Jason Ravnsborg,407
+Lawrence,Precinct-10,Attorney General,,Rep,Jason Ravnsborg,899
+Lawrence,Absentee Precinct,Attorney General,,Rep,Jason Ravnsborg,"2,407"
+Lawrence,Precinct-01,Attorney General,,Dem,Randy Seiler,372
+Lawrence,Precinct-02,Attorney General,,Dem,Randy Seiler,341
+Lawrence,Precinct-03,Attorney General,,Dem,Randy Seiler,424
+Lawrence,Precinct-04,Attorney General,,Dem,Randy Seiler,303
+Lawrence,Precinct-05,Attorney General,,Dem,Randy Seiler,164
+Lawrence,Precinct-06,Attorney General,,Dem,Randy Seiler,59
+Lawrence,Precinct-07,Attorney General,,Dem,Randy Seiler,164
+Lawrence,Precinct-08,Attorney General,,Dem,Randy Seiler,37
+Lawrence,Precinct-09,Attorney General,,Dem,Randy Seiler,168
+Lawrence,Precinct-10,Attorney General,,Dem,Randy Seiler,419
+Lawrence,Absentee Precinct,Attorney General,,Dem,Randy Seiler,"1,824"
+Lawrence,Precinct-01,State Auditor,,Rep,Rich Sattgast,482
+Lawrence,Precinct-02,State Auditor,,Rep,Rich Sattgast,582
+Lawrence,Precinct-03,State Auditor,,Rep,Rich Sattgast,712
+Lawrence,Precinct-04,State Auditor,,Rep,Rich Sattgast,413
+Lawrence,Precinct-05,State Auditor,,Rep,Rich Sattgast,180
+Lawrence,Precinct-06,State Auditor,,Rep,Rich Sattgast,106
+Lawrence,Precinct-07,State Auditor,,Rep,Rich Sattgast,293
+Lawrence,Precinct-08,State Auditor,,Rep,Rich Sattgast,113
+Lawrence,Precinct-09,State Auditor,,Rep,Rich Sattgast,444
+Lawrence,Precinct-10,State Auditor,,Rep,Rich Sattgast,983
+Lawrence,Absentee Precinct,State Auditor,,Rep,Rich Sattgast,"2,682"
+Lawrence,Precinct-01,State Auditor,,Dem,Tom Cool,272
+Lawrence,Precinct-02,State Auditor,,Dem,Tom Cool,277
+Lawrence,Precinct-03,State Auditor,,Dem,Tom Cool,323
+Lawrence,Precinct-04,State Auditor,,Dem,Tom Cool,246
+Lawrence,Precinct-05,State Auditor,,Dem,Tom Cool,116
+Lawrence,Precinct-06,State Auditor,,Dem,Tom Cool,56
+Lawrence,Precinct-07,State Auditor,,Dem,Tom Cool,131
+Lawrence,Precinct-08,State Auditor,,Dem,Tom Cool,28
+Lawrence,Precinct-09,State Auditor,,Dem,Tom Cool,121
+Lawrence,Precinct-10,State Auditor,,Dem,Tom Cool,311
+Lawrence,Absentee Precinct,State Auditor,,Dem,Tom Cool,"1,496"
+Lawrence,Precinct-01,State Treasurer,,Rep,Josh Haeder,461
+Lawrence,Precinct-02,State Treasurer,,Rep,Josh Haeder,573
+Lawrence,Precinct-03,State Treasurer,,Rep,Josh Haeder,688
+Lawrence,Precinct-04,State Treasurer,,Rep,Josh Haeder,384
+Lawrence,Precinct-05,State Treasurer,,Rep,Josh Haeder,171
+Lawrence,Precinct-06,State Treasurer,,Rep,Josh Haeder,106
+Lawrence,Precinct-07,State Treasurer,,Rep,Josh Haeder,281
+Lawrence,Precinct-08,State Treasurer,,Rep,Josh Haeder,104
+Lawrence,Precinct-09,State Treasurer,,Rep,Josh Haeder,437
+Lawrence,Precinct-10,State Treasurer,,Rep,Josh Haeder,960
+Lawrence,Absentee Precinct,State Treasurer,,Rep,Josh Haeder,"2,601"
+Lawrence,Precinct-01,State Treasurer,,Dem,Aaron  Matson ,287
+Lawrence,Precinct-02,State Treasurer,,Dem,Aaron  Matson ,272
+Lawrence,Precinct-03,State Treasurer,,Dem,Aaron  Matson ,340
+Lawrence,Precinct-04,State Treasurer,,Dem,Aaron  Matson ,268
+Lawrence,Precinct-05,State Treasurer,,Dem,Aaron  Matson ,122
+Lawrence,Precinct-06,State Treasurer,,Dem,Aaron  Matson ,58
+Lawrence,Precinct-07,State Treasurer,,Dem,Aaron  Matson ,143
+Lawrence,Precinct-08,State Treasurer,,Dem,Aaron  Matson ,33
+Lawrence,Precinct-09,State Treasurer,,Dem,Aaron  Matson ,127
+Lawrence,Precinct-10,State Treasurer,,Dem,Aaron  Matson ,333
+Lawrence,Absentee Precinct,State Treasurer,,Dem,Aaron  Matson ,"1,571"
+Lawrence,Precinct-01,School and Lands,,Rep,Ryan Brunner,448
+Lawrence,Precinct-02,School and Lands,,Rep,Ryan Brunner,565
+Lawrence,Precinct-03,School and Lands,,Rep,Ryan Brunner,689
+Lawrence,Precinct-04,School and Lands,,Rep,Ryan Brunner,384
+Lawrence,Precinct-05,School and Lands,,Rep,Ryan Brunner,166
+Lawrence,Precinct-06,School and Lands,,Rep,Ryan Brunner,103
+Lawrence,Precinct-07,School and Lands,,Rep,Ryan Brunner,281
+Lawrence,Precinct-08,School and Lands,,Rep,Ryan Brunner,116
+Lawrence,Precinct-09,School and Lands,,Rep,Ryan Brunner,441
+Lawrence,Precinct-10,School and Lands,,Rep,Ryan Brunner,970
+Lawrence,Absentee Precinct,School and Lands,,Rep,Ryan Brunner,"2,624"
+Lawrence,Precinct-01,School and Lands,,Dem,Woody Houser,294
+Lawrence,Precinct-02,School and Lands,,Dem,Woody Houser,275
+Lawrence,Precinct-03,School and Lands,,Dem,Woody Houser,350
+Lawrence,Precinct-04,School and Lands,,Dem,Woody Houser,260
+Lawrence,Precinct-05,School and Lands,,Dem,Woody Houser,128
+Lawrence,Precinct-06,School and Lands,,Dem,Woody Houser,57
+Lawrence,Precinct-07,School and Lands,,Dem,Woody Houser,139
+Lawrence,Precinct-08,School and Lands,,Dem,Woody Houser,27
+Lawrence,Precinct-09,School and Lands,,Dem,Woody Houser,122
+Lawrence,Precinct-10,School and Lands,,Dem,Woody Houser,336
+Lawrence,Absentee Precinct,School and Lands,,Dem,Woody Houser,"1,538"
+Lawrence,Precinct-01,Public Utilities Commissioner,,Rep,Kristie Fiegen,458
+Lawrence,Precinct-02,Public Utilities Commissioner,,Rep,Kristie Fiegen,578
+Lawrence,Precinct-03,Public Utilities Commissioner,,Rep,Kristie Fiegen,687
+Lawrence,Precinct-04,Public Utilities Commissioner,,Rep,Kristie Fiegen,395
+Lawrence,Precinct-05,Public Utilities Commissioner,,Rep,Kristie Fiegen,172
+Lawrence,Precinct-06,Public Utilities Commissioner,,Rep,Kristie Fiegen,107
+Lawrence,Precinct-07,Public Utilities Commissioner,,Rep,Kristie Fiegen,288
+Lawrence,Precinct-08,Public Utilities Commissioner,,Rep,Kristie Fiegen,109
+Lawrence,Precinct-09,Public Utilities Commissioner,,Rep,Kristie Fiegen,442
+Lawrence,Precinct-10,Public Utilities Commissioner,,Rep,Kristie Fiegen,977
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,"2,614"
+Lawrence,Precinct-01,Public Utilities Commissioner,,Dem,Wayne Frederick,279
+Lawrence,Precinct-02,Public Utilities Commissioner,,Dem,Wayne Frederick,275
+Lawrence,Precinct-03,Public Utilities Commissioner,,Dem,Wayne Frederick,338
+Lawrence,Precinct-04,Public Utilities Commissioner,,Dem,Wayne Frederick,243
+Lawrence,Precinct-05,Public Utilities Commissioner,,Dem,Wayne Frederick,123
+Lawrence,Precinct-06,Public Utilities Commissioner,,Dem,Wayne Frederick,53
+Lawrence,Precinct-07,Public Utilities Commissioner,,Dem,Wayne Frederick,133
+Lawrence,Precinct-08,Public Utilities Commissioner,,Dem,Wayne Frederick,29
+Lawrence,Precinct-09,Public Utilities Commissioner,,Dem,Wayne Frederick,120
+Lawrence,Precinct-10,Public Utilities Commissioner,,Dem,Wayne Frederick,311
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,"1,529"
+Lawrence,Precinct-01,State Senator,31,Rep,Bob Ewing,481
+Lawrence,Precinct-02,State Senator,31,Rep,Bob Ewing,585
+Lawrence,Precinct-03,State Senator,31,Rep,Bob Ewing,714
+Lawrence,Precinct-04,State Senator,31,Rep,Bob Ewing,401
+Lawrence,Precinct-05,State Senator,31,Rep,Bob Ewing,168
+Lawrence,Precinct-06,State Senator,31,Rep,Bob Ewing,95
+Lawrence,Precinct-07,State Senator,31,Rep,Bob Ewing,276
+Lawrence,Precinct-08,State Senator,31,Rep,Bob Ewing,114
+Lawrence,Precinct-09,State Senator,31,Rep,Bob Ewing,442
+Lawrence,Precinct-10,State Senator,31,Rep,Bob Ewing,"1,000"
+Lawrence,Absentee Precinct,State Senator,31,Rep,Bob Ewing,"2,686"
+Lawrence,Precinct-01,State Senator,31,Dem,Sherry Bea Smith,301
+Lawrence,Precinct-02,State Senator,31,Dem,Sherry Bea Smith,291
+Lawrence,Precinct-03,State Senator,31,Dem,Sherry Bea Smith,352
+Lawrence,Precinct-04,State Senator,31,Dem,Sherry Bea Smith,292
+Lawrence,Precinct-05,State Senator,31,Dem,Sherry Bea Smith,139
+Lawrence,Precinct-06,State Senator,31,Dem,Sherry Bea Smith,66
+Lawrence,Precinct-07,State Senator,31,Dem,Sherry Bea Smith,161
+Lawrence,Precinct-08,State Senator,31,Dem,Sherry Bea Smith,30
+Lawrence,Precinct-09,State Senator,31,Dem,Sherry Bea Smith,136
+Lawrence,Precinct-10,State Senator,31,Dem,Sherry Bea Smith,350
+Lawrence,Absentee Precinct,State Senator,31,Dem,Sherry Bea Smith,"1,592"
+Lawrence,Precinct-01,State House,31,Rep,Timothy R. Johns,437
+Lawrence,Precinct-02,State House,31,Rep,Timothy R. Johns,528
+Lawrence,Precinct-03,State House,31,Rep,Timothy R. Johns,655
+Lawrence,Precinct-04,State House,31,Rep,Timothy R. Johns,457
+Lawrence,Precinct-05,State House,31,Rep,Timothy R. Johns,181
+Lawrence,Precinct-06,State House,31,Rep,Timothy R. Johns,98
+Lawrence,Precinct-07,State House,31,Rep,Timothy R. Johns,312
+Lawrence,Precinct-08,State House,31,Rep,Timothy R. Johns,108
+Lawrence,Precinct-09,State House,31,Rep,Timothy R. Johns,419
+Lawrence,Precinct-10,State House,31,Rep,Timothy R. Johns,956
+Lawrence,Absentee Precinct,State House,31,Rep,Timothy R. Johns,"2,728"
+Lawrence,Precinct-01,State House,31,Rep,Charles M. Turbiville,344
+Lawrence,Precinct-02,State House,31,Rep,Charles M. Turbiville,409
+Lawrence,Precinct-03,State House,31,Rep,Charles M. Turbiville,505
+Lawrence,Precinct-04,State House,31,Rep,Charles M. Turbiville,273
+Lawrence,Precinct-05,State House,31,Rep,Charles M. Turbiville,113
+Lawrence,Precinct-06,State House,31,Rep,Charles M. Turbiville,81
+Lawrence,Precinct-07,State House,31,Rep,Charles M. Turbiville,189
+Lawrence,Precinct-08,State House,31,Rep,Charles M. Turbiville,83
+Lawrence,Precinct-09,State House,31,Rep,Charles M. Turbiville,302
+Lawrence,Precinct-10,State House,31,Rep,Charles M. Turbiville,715
+Lawrence,Absentee Precinct,State House,31,Rep,Charles M. Turbiville,"2,026"
+Lawrence,Precinct-01,State House,31,Dem,Naveen Malik,354
+Lawrence,Precinct-02,State House,31,Dem,Naveen Malik,340
+Lawrence,Precinct-03,State House,31,Dem,Naveen Malik,401
+Lawrence,Precinct-04,State House,31,Dem,Naveen Malik,261
+Lawrence,Precinct-05,State House,31,Dem,Naveen Malik,129
+Lawrence,Precinct-06,State House,31,Dem,Naveen Malik,53
+Lawrence,Precinct-07,State House,31,Dem,Naveen Malik,145
+Lawrence,Precinct-08,State House,31,Dem,Naveen Malik,32
+Lawrence,Precinct-09,State House,31,Dem,Naveen Malik,142
+Lawrence,Precinct-10,State House,31,Dem,Naveen Malik,399
+Lawrence,Absentee Precinct,State House,31,Dem,Naveen Malik,"1,533"
+Lawrence,Precinct-01,State House,31,Dem,Wyatt Osthus,195
+Lawrence,Precinct-02,State House,31,Dem,Wyatt Osthus,185
+Lawrence,Precinct-03,State House,31,Dem,Wyatt Osthus,231
+Lawrence,Precinct-04,State House,31,Dem,Wyatt Osthus,171
+Lawrence,Precinct-05,State House,31,Dem,Wyatt Osthus,71
+Lawrence,Precinct-06,State House,31,Dem,Wyatt Osthus,37
+Lawrence,Precinct-07,State House,31,Dem,Wyatt Osthus,91
+Lawrence,Precinct-08,State House,31,Dem,Wyatt Osthus,25
+Lawrence,Precinct-09,State House,31,Dem,Wyatt Osthus,108
+Lawrence,Precinct-10,State House,31,Dem,Wyatt Osthus,223
+Lawrence,Absentee Precinct,State House,31,Dem,Wyatt Osthus,"1,202"

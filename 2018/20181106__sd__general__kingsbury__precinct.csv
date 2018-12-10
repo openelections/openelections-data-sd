@@ -1,0 +1,145 @@
+county,precinct,office,district,party,candidate,votes
+Kingsbury,Iroquois Precinct,US House,,Lbt,George Hendrickson,1
+Kingsbury,Badger Precinct,US House,,Lbt,George Hendrickson,2
+Kingsbury,Lake Preston Precinct,US House,,Lbt,George Hendrickson,2
+Kingsbury,Oldham Precinct,US House,,Lbt,George Hendrickson,2
+Kingsbury,Arlington Precinct,US House,,Lbt,George Hendrickson,12
+Kingsbury,De Smet Precinct,US House,,Lbt,George Hendrickson,7
+Kingsbury,Iroquois Precinct,US House,,Rep,Dusty Johnson,124
+Kingsbury,Badger Precinct,US House,,Rep,Dusty Johnson,180
+Kingsbury,Lake Preston Precinct,US House,,Rep,Dusty Johnson,260
+Kingsbury,Oldham Precinct,US House,,Rep,Dusty Johnson,123
+Kingsbury,Arlington Precinct,US House,,Rep,Dusty Johnson,303
+Kingsbury,De Smet Precinct,US House,,Rep,Dusty Johnson,517
+Kingsbury,Iroquois Precinct,US House,,Dem,Tim Bjorkman,61
+Kingsbury,Badger Precinct,US House,,Dem,Tim Bjorkman,79
+Kingsbury,Lake Preston Precinct,US House,,Dem,Tim Bjorkman,124
+Kingsbury,Oldham Precinct,US House,,Dem,Tim Bjorkman,61
+Kingsbury,Arlington Precinct,US House,,Dem,Tim Bjorkman,226
+Kingsbury,De Smet Precinct,US House,,Dem,Tim Bjorkman,304
+Kingsbury,Iroquois Precinct,US House,,Ind,Ron Wieczorek,5
+Kingsbury,Badger Precinct,US House,,Ind,Ron Wieczorek,4
+Kingsbury,Lake Preston Precinct,US House,,Ind,Ron Wieczorek,11
+Kingsbury,Oldham Precinct,US House,,Ind,Ron Wieczorek,5
+Kingsbury,Arlington Precinct,US House,,Ind,Ron Wieczorek,7
+Kingsbury,De Smet Precinct,US House,,Ind,Ron Wieczorek,12
+Kingsbury,Iroquois Precinct,Governor,,Lbt,Kurt Evans,4
+Kingsbury,Badger Precinct,Governor,,Lbt,Kurt Evans,8
+Kingsbury,Lake Preston Precinct,Governor,,Lbt,Kurt Evans,6
+Kingsbury,Oldham Precinct,Governor,,Lbt,Kurt Evans,1
+Kingsbury,Arlington Precinct,Governor,,Lbt,Kurt Evans,11
+Kingsbury,De Smet Precinct,Governor,,Lbt,Kurt Evans,11
+Kingsbury,Iroquois Precinct,Governor,,Rep,Kristi Noem,113
+Kingsbury,Badger Precinct,Governor,,Rep,Kristi Noem,144
+Kingsbury,Lake Preston Precinct,Governor,,Rep,Kristi Noem,233
+Kingsbury,Oldham Precinct,Governor,,Rep,Kristi Noem,113
+Kingsbury,Arlington Precinct,Governor,,Rep,Kristi Noem,263
+Kingsbury,De Smet Precinct,Governor,,Rep,Kristi Noem,437
+Kingsbury,Iroquois Precinct,Governor,,Dem,Billie Sutton,77
+Kingsbury,Badger Precinct,Governor,,Dem,Billie Sutton,112
+Kingsbury,Lake Preston Precinct,Governor,,Dem,Billie Sutton,162
+Kingsbury,Oldham Precinct,Governor,,Dem,Billie Sutton,79
+Kingsbury,Arlington Precinct,Governor,,Dem,Billie Sutton,283
+Kingsbury,De Smet Precinct,Governor,,Dem,Billie Sutton,398
+Kingsbury,Iroquois Precinct,Secretary of State,,Rep,Steve Barnett,128
+Kingsbury,Badger Precinct,Secretary of State,,Rep,Steve Barnett,183
+Kingsbury,Lake Preston Precinct,Secretary of State,,Rep,Steve Barnett,277
+Kingsbury,Oldham Precinct,Secretary of State,,Rep,Steve Barnett,126
+Kingsbury,Arlington Precinct,Secretary of State,,Rep,Steve Barnett,330
+Kingsbury,De Smet Precinct,Secretary of State,,Rep,Steve Barnett,574
+Kingsbury,Iroquois Precinct,Secretary of State,,Dem,Alexandra Frederick,58
+Kingsbury,Badger Precinct,Secretary of State,,Dem,Alexandra Frederick,66
+Kingsbury,Lake Preston Precinct,Secretary of State,,Dem,Alexandra Frederick,104
+Kingsbury,Oldham Precinct,Secretary of State,,Dem,Alexandra Frederick,56
+Kingsbury,Arlington Precinct,Secretary of State,,Dem,Alexandra Frederick,193
+Kingsbury,De Smet Precinct,Secretary of State,,Dem,Alexandra Frederick,237
+Kingsbury,Iroquois Precinct,Attorney General,,Rep,Jason Ravnsborg,117
+Kingsbury,Badger Precinct,Attorney General,,Rep,Jason Ravnsborg,163
+Kingsbury,Lake Preston Precinct,Attorney General,,Rep,Jason Ravnsborg,230
+Kingsbury,Oldham Precinct,Attorney General,,Rep,Jason Ravnsborg,111
+Kingsbury,Arlington Precinct,Attorney General,,Rep,Jason Ravnsborg,295
+Kingsbury,De Smet Precinct,Attorney General,,Rep,Jason Ravnsborg,478
+Kingsbury,Iroquois Precinct,Attorney General,,Dem,Randy Seiler,69
+Kingsbury,Badger Precinct,Attorney General,,Dem,Randy Seiler,88
+Kingsbury,Lake Preston Precinct,Attorney General,,Dem,Randy Seiler,150
+Kingsbury,Oldham Precinct,Attorney General,,Dem,Randy Seiler,71
+Kingsbury,Arlington Precinct,Attorney General,,Dem,Randy Seiler,224
+Kingsbury,De Smet Precinct,Attorney General,,Dem,Randy Seiler,335
+Kingsbury,Iroquois Precinct,State Auditor,,Rep,Rich Sattgast,128
+Kingsbury,Badger Precinct,State Auditor,,Rep,Rich Sattgast,172
+Kingsbury,Lake Preston Precinct,State Auditor,,Rep,Rich Sattgast,268
+Kingsbury,Oldham Precinct,State Auditor,,Rep,Rich Sattgast,127
+Kingsbury,Arlington Precinct,State Auditor,,Rep,Rich Sattgast,323
+Kingsbury,De Smet Precinct,State Auditor,,Rep,Rich Sattgast,554
+Kingsbury,Iroquois Precinct,State Auditor,,Dem,Tom Cool,56
+Kingsbury,Badger Precinct,State Auditor,,Dem,Tom Cool,72
+Kingsbury,Lake Preston Precinct,State Auditor,,Dem,Tom Cool,98
+Kingsbury,Oldham Precinct,State Auditor,,Dem,Tom Cool,53
+Kingsbury,Arlington Precinct,State Auditor,,Dem,Tom Cool,184
+Kingsbury,De Smet Precinct,State Auditor,,Dem,Tom Cool,242
+Kingsbury,Iroquois Precinct,State Treasurer,,Rep,Josh Haeder,145
+Kingsbury,Badger Precinct,State Treasurer,,Rep,Josh Haeder,163
+Kingsbury,Lake Preston Precinct,State Treasurer,,Rep,Josh Haeder,257
+Kingsbury,Oldham Precinct,State Treasurer,,Rep,Josh Haeder,122
+Kingsbury,Arlington Precinct,State Treasurer,,Rep,Josh Haeder,306
+Kingsbury,De Smet Precinct,State Treasurer,,Rep,Josh Haeder,545
+Kingsbury,Iroquois Precinct,State Treasurer,,Dem,Aaron  Matson ,41
+Kingsbury,Badger Precinct,State Treasurer,,Dem,Aaron  Matson ,74
+Kingsbury,Lake Preston Precinct,State Treasurer,,Dem,Aaron  Matson ,107
+Kingsbury,Oldham Precinct,State Treasurer,,Dem,Aaron  Matson ,56
+Kingsbury,Arlington Precinct,State Treasurer,,Dem,Aaron  Matson ,203
+Kingsbury,De Smet Precinct,State Treasurer,,Dem,Aaron  Matson ,241
+Kingsbury,Iroquois Precinct,School and Lands,,Rep,Ryan Brunner,127
+Kingsbury,Badger Precinct,School and Lands,,Rep,Ryan Brunner,162
+Kingsbury,Lake Preston Precinct,School and Lands,,Rep,Ryan Brunner,239
+Kingsbury,Oldham Precinct,School and Lands,,Rep,Ryan Brunner,123
+Kingsbury,Arlington Precinct,School and Lands,,Rep,Ryan Brunner,316
+Kingsbury,De Smet Precinct,School and Lands,,Rep,Ryan Brunner,540
+Kingsbury,Iroquois Precinct,School and Lands,,Dem,Woody Houser,53
+Kingsbury,Badger Precinct,School and Lands,,Dem,Woody Houser,74
+Kingsbury,Lake Preston Precinct,School and Lands,,Dem,Woody Houser,115
+Kingsbury,Oldham Precinct,School and Lands,,Dem,Woody Houser,55
+Kingsbury,Arlington Precinct,School and Lands,,Dem,Woody Houser,187
+Kingsbury,De Smet Precinct,School and Lands,,Dem,Woody Houser,233
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,130
+Kingsbury,Badger Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,167
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,246
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,125
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,334
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,538
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,52
+Kingsbury,Badger Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,75
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,121
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,50
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,186
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,247
+Kingsbury,Iroquois Precinct,State Senator,22,Rep,James White,129
+Kingsbury,Badger Precinct,State Senator,22,Rep,James White,173
+Kingsbury,Lake Preston Precinct,State Senator,22,Rep,James White,276
+Kingsbury,Oldham Precinct,State Senator,22,Rep,James White,122
+Kingsbury,Arlington Precinct,State Senator,22,Rep,James White,328
+Kingsbury,De Smet Precinct,State Senator,22,Rep,James White,563
+Kingsbury,Iroquois Precinct,State Senator,22,Dem,Eric Bliss,49
+Kingsbury,Badger Precinct,State Senator,22,Dem,Eric Bliss,66
+Kingsbury,Lake Preston Precinct,State Senator,22,Dem,Eric Bliss,97
+Kingsbury,Oldham Precinct,State Senator,22,Dem,Eric Bliss,51
+Kingsbury,Arlington Precinct,State Senator,22,Dem,Eric Bliss,180
+Kingsbury,De Smet Precinct,State Senator,22,Dem,Eric Bliss,232
+Kingsbury,Iroquois Precinct,State House,22,Rep,Roger Chase,109
+Kingsbury,Badger Precinct,State House,22,Rep,Roger Chase,140
+Kingsbury,Lake Preston Precinct,State House,22,Rep,Roger Chase,208
+Kingsbury,Oldham Precinct,State House,22,Rep,Roger Chase,115
+Kingsbury,Arlington Precinct,State House,22,Rep,Roger Chase,240
+Kingsbury,De Smet Precinct,State House,22,Rep,Roger Chase,488
+Kingsbury,Iroquois Precinct,State House,22,Rep,Bob Glanzer,131
+Kingsbury,Badger Precinct,State House,22,Rep,Bob Glanzer,143
+Kingsbury,Lake Preston Precinct,State House,22,Rep,Bob Glanzer,237
+Kingsbury,Oldham Precinct,State House,22,Rep,Bob Glanzer,109
+Kingsbury,Arlington Precinct,State House,22,Rep,Bob Glanzer,275
+Kingsbury,De Smet Precinct,State House,22,Rep,Bob Glanzer,515
+Kingsbury,Iroquois Precinct,State House,22,Dem,Tyler B. Volesky,69
+Kingsbury,Badger Precinct,State House,22,Dem,Tyler B. Volesky,107
+Kingsbury,Lake Preston Precinct,State House,22,Dem,Tyler B. Volesky,133
+Kingsbury,Oldham Precinct,State House,22,Dem,Tyler B. Volesky,67
+Kingsbury,Arlington Precinct,State House,22,Dem,Tyler B. Volesky,238
+Kingsbury,De Smet Precinct,State House,22,Dem,Tyler B. Volesky,299

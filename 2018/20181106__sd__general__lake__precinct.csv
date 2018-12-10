@@ -1,0 +1,251 @@
+county,precinct,office,district,party,candidate,votes
+Lake,Chester-Franklin,US House,,Lbt,George Hendrickson,5
+Lake,Wentworth-Rutland,US House,,Lbt,George Hendrickson,3
+Lake,Nunda-Summit,US House,,Lbt,George Hendrickson,1
+Lake,Concord-Badus-Wayne/Ramona,US House,,Lbt,George Hendrickson,2
+Lake,Herman-Winfred,US House,,Lbt,George Hendrickson,4
+Lake,Lakeview,US House,,Lbt,George Hendrickson,1
+Lake,Ward One,US House,,Lbt,George Hendrickson,7
+Lake,Ward Three,US House,,Lbt,George Hendrickson,8
+Lake,Ward Two,US House,,Lbt,George Hendrickson,8
+Lake,Farmington-Leroy-Clarno-Orland,US House,,Lbt,George Hendrickson,3
+Lake,Chester-Franklin,US House,,Rep,Dusty Johnson,287
+Lake,Wentworth-Rutland,US House,,Rep,Dusty Johnson,270
+Lake,Nunda-Summit,US House,,Rep,Dusty Johnson,127
+Lake,Concord-Badus-Wayne/Ramona,US House,,Rep,Dusty Johnson,143
+Lake,Herman-Winfred,US House,,Rep,Dusty Johnson,269
+Lake,Lakeview,US House,,Rep,Dusty Johnson,314
+Lake,Ward One,US House,,Rep,Dusty Johnson,828
+Lake,Ward Three,US House,,Rep,Dusty Johnson,324
+Lake,Ward Two,US House,,Rep,Dusty Johnson,334
+Lake,Farmington-Leroy-Clarno-Orland,US House,,Rep,Dusty Johnson,214
+Lake,Chester-Franklin,US House,,Dem,Tim Bjorkman,148
+Lake,Wentworth-Rutland,US House,,Dem,Tim Bjorkman,152
+Lake,Nunda-Summit,US House,,Dem,Tim Bjorkman,51
+Lake,Concord-Badus-Wayne/Ramona,US House,,Dem,Tim Bjorkman,84
+Lake,Herman-Winfred,US House,,Dem,Tim Bjorkman,152
+Lake,Lakeview,US House,,Dem,Tim Bjorkman,160
+Lake,Ward One,US House,,Dem,Tim Bjorkman,560
+Lake,Ward Three,US House,,Dem,Tim Bjorkman,248
+Lake,Ward Two,US House,,Dem,Tim Bjorkman,279
+Lake,Farmington-Leroy-Clarno-Orland,US House,,Dem,Tim Bjorkman,91
+Lake,Chester-Franklin,US House,,Ind,Ron Wieczorek,6
+Lake,Wentworth-Rutland,US House,,Ind,Ron Wieczorek,7
+Lake,Nunda-Summit,US House,,Ind,Ron Wieczorek,5
+Lake,Concord-Badus-Wayne/Ramona,US House,,Ind,Ron Wieczorek,5
+Lake,Herman-Winfred,US House,,Ind,Ron Wieczorek,9
+Lake,Lakeview,US House,,Ind,Ron Wieczorek,5
+Lake,Ward One,US House,,Ind,Ron Wieczorek,24
+Lake,Ward Three,US House,,Ind,Ron Wieczorek,9
+Lake,Ward Two,US House,,Ind,Ron Wieczorek,18
+Lake,Farmington-Leroy-Clarno-Orland,US House,,Ind,Ron Wieczorek,5
+Lake,Chester-Franklin,Governor,,Lbt,Kurt Evans,2
+Lake,Wentworth-Rutland,Governor,,Lbt,Kurt Evans,4
+Lake,Nunda-Summit,Governor,,Lbt,Kurt Evans,1
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Lbt,Kurt Evans,2
+Lake,Herman-Winfred,Governor,,Lbt,Kurt Evans,5
+Lake,Lakeview,Governor,,Lbt,Kurt Evans,2
+Lake,Ward One,Governor,,Lbt,Kurt Evans,16
+Lake,Ward Three,Governor,,Lbt,Kurt Evans,7
+Lake,Ward Two,Governor,,Lbt,Kurt Evans,11
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Lbt,Kurt Evans,5
+Lake,Chester-Franklin,Governor,,Rep,Kristi Noem,248
+Lake,Wentworth-Rutland,Governor,,Rep,Kristi Noem,224
+Lake,Nunda-Summit,Governor,,Rep,Kristi Noem,106
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Rep,Kristi Noem,119
+Lake,Herman-Winfred,Governor,,Rep,Kristi Noem,213
+Lake,Lakeview,Governor,,Rep,Kristi Noem,255
+Lake,Ward One,Governor,,Rep,Kristi Noem,647
+Lake,Ward Three,Governor,,Rep,Kristi Noem,258
+Lake,Ward Two,Governor,,Rep,Kristi Noem,235
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Rep,Kristi Noem,178
+Lake,Chester-Franklin,Governor,,Dem,Billie Sutton,199
+Lake,Wentworth-Rutland,Governor,,Dem,Billie Sutton,207
+Lake,Nunda-Summit,Governor,,Dem,Billie Sutton,78
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Dem,Billie Sutton,116
+Lake,Herman-Winfred,Governor,,Dem,Billie Sutton,220
+Lake,Lakeview,Governor,,Dem,Billie Sutton,219
+Lake,Ward One,Governor,,Dem,Billie Sutton,766
+Lake,Ward Three,Governor,,Dem,Billie Sutton,330
+Lake,Ward Two,Governor,,Dem,Billie Sutton,405
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Dem,Billie Sutton,129
+Lake,Chester-Franklin,Secretary of State,,Rep,Steve Barnett,316
+Lake,Wentworth-Rutland,Secretary of State,,Rep,Steve Barnett,290
+Lake,Nunda-Summit,Secretary of State,,Rep,Steve Barnett,142
+Lake,Concord-Badus-Wayne/Ramona,Secretary of State,,Rep,Steve Barnett,167
+Lake,Herman-Winfred,Secretary of State,,Rep,Steve Barnett,297
+Lake,Lakeview,Secretary of State,,Rep,Steve Barnett,320
+Lake,Ward One,Secretary of State,,Rep,Steve Barnett,857
+Lake,Ward Three,Secretary of State,,Rep,Steve Barnett,360
+Lake,Ward Two,Secretary of State,,Rep,Steve Barnett,356
+Lake,Farmington-Leroy-Clarno-Orland,Secretary of State,,Rep,Steve Barnett,226
+Lake,Chester-Franklin,Secretary of State,,Dem,Alexandra Frederick,110
+Lake,Wentworth-Rutland,Secretary of State,,Dem,Alexandra Frederick,123
+Lake,Nunda-Summit,Secretary of State,,Dem,Alexandra Frederick,35
+Lake,Concord-Badus-Wayne/Ramona,Secretary of State,,Dem,Alexandra Frederick,54
+Lake,Herman-Winfred,Secretary of State,,Dem,Alexandra Frederick,121
+Lake,Lakeview,Secretary of State,,Dem,Alexandra Frederick,138
+Lake,Ward One,Secretary of State,,Dem,Alexandra Frederick,500
+Lake,Ward Three,Secretary of State,,Dem,Alexandra Frederick,212
+Lake,Ward Two,Secretary of State,,Dem,Alexandra Frederick,243
+Lake,Farmington-Leroy-Clarno-Orland,Secretary of State,,Dem,Alexandra Frederick,69
+Lake,Chester-Franklin,Attorney General,,Rep,Jason Ravnsborg,262
+Lake,Wentworth-Rutland,Attorney General,,Rep,Jason Ravnsborg,263
+Lake,Nunda-Summit,Attorney General,,Rep,Jason Ravnsborg,122
+Lake,Concord-Badus-Wayne/Ramona,Attorney General,,Rep,Jason Ravnsborg,141
+Lake,Herman-Winfred,Attorney General,,Rep,Jason Ravnsborg,235
+Lake,Lakeview,Attorney General,,Rep,Jason Ravnsborg,273
+Lake,Ward One,Attorney General,,Rep,Jason Ravnsborg,674
+Lake,Ward Three,Attorney General,,Rep,Jason Ravnsborg,282
+Lake,Ward Two,Attorney General,,Rep,Jason Ravnsborg,290
+Lake,Farmington-Leroy-Clarno-Orland,Attorney General,,Rep,Jason Ravnsborg,191
+Lake,Chester-Franklin,Attorney General,,Dem,Randy Seiler,172
+Lake,Wentworth-Rutland,Attorney General,,Dem,Randy Seiler,155
+Lake,Nunda-Summit,Attorney General,,Dem,Randy Seiler,56
+Lake,Concord-Badus-Wayne/Ramona,Attorney General,,Dem,Randy Seiler,77
+Lake,Herman-Winfred,Attorney General,,Dem,Randy Seiler,183
+Lake,Lakeview,Attorney General,,Dem,Randy Seiler,188
+Lake,Ward One,Attorney General,,Dem,Randy Seiler,694
+Lake,Ward Three,Attorney General,,Dem,Randy Seiler,287
+Lake,Ward Two,Attorney General,,Dem,Randy Seiler,320
+Lake,Farmington-Leroy-Clarno-Orland,Attorney General,,Dem,Randy Seiler,110
+Lake,Chester-Franklin,State Auditor,,Rep,Rich Sattgast,289
+Lake,Wentworth-Rutland,State Auditor,,Rep,Rich Sattgast,281
+Lake,Nunda-Summit,State Auditor,,Rep,Rich Sattgast,132
+Lake,Concord-Badus-Wayne/Ramona,State Auditor,,Rep,Rich Sattgast,151
+Lake,Herman-Winfred,State Auditor,,Rep,Rich Sattgast,282
+Lake,Lakeview,State Auditor,,Rep,Rich Sattgast,306
+Lake,Ward One,State Auditor,,Rep,Rich Sattgast,836
+Lake,Ward Three,State Auditor,,Rep,Rich Sattgast,339
+Lake,Ward Two,State Auditor,,Rep,Rich Sattgast,344
+Lake,Farmington-Leroy-Clarno-Orland,State Auditor,,Rep,Rich Sattgast,225
+Lake,Chester-Franklin,State Auditor,,Dem,Tom Cool,124
+Lake,Wentworth-Rutland,State Auditor,,Dem,Tom Cool,127
+Lake,Nunda-Summit,State Auditor,,Dem,Tom Cool,38
+Lake,Concord-Badus-Wayne/Ramona,State Auditor,,Dem,Tom Cool,58
+Lake,Herman-Winfred,State Auditor,,Dem,Tom Cool,127
+Lake,Lakeview,State Auditor,,Dem,Tom Cool,143
+Lake,Ward One,State Auditor,,Dem,Tom Cool,492
+Lake,Ward Three,State Auditor,,Dem,Tom Cool,210
+Lake,Ward Two,State Auditor,,Dem,Tom Cool,246
+Lake,Farmington-Leroy-Clarno-Orland,State Auditor,,Dem,Tom Cool,70
+Lake,Chester-Franklin,State Treasurer,,Rep,Josh Haeder,285
+Lake,Wentworth-Rutland,State Treasurer,,Rep,Josh Haeder,261
+Lake,Nunda-Summit,State Treasurer,,Rep,Josh Haeder,133
+Lake,Concord-Badus-Wayne/Ramona,State Treasurer,,Rep,Josh Haeder,135
+Lake,Herman-Winfred,State Treasurer,,Rep,Josh Haeder,255
+Lake,Lakeview,State Treasurer,,Rep,Josh Haeder,287
+Lake,Ward One,State Treasurer,,Rep,Josh Haeder,777
+Lake,Ward Three,State Treasurer,,Rep,Josh Haeder,299
+Lake,Ward Two,State Treasurer,,Rep,Josh Haeder,306
+Lake,Farmington-Leroy-Clarno-Orland,State Treasurer,,Rep,Josh Haeder,204
+Lake,Chester-Franklin,State Treasurer,,Dem,Aaron  Matson ,125
+Lake,Wentworth-Rutland,State Treasurer,,Dem,Aaron  Matson ,133
+Lake,Nunda-Summit,State Treasurer,,Dem,Aaron  Matson ,38
+Lake,Concord-Badus-Wayne/Ramona,State Treasurer,,Dem,Aaron  Matson ,72
+Lake,Herman-Winfred,State Treasurer,,Dem,Aaron  Matson ,142
+Lake,Lakeview,State Treasurer,,Dem,Aaron  Matson ,158
+Lake,Ward One,State Treasurer,,Dem,Aaron  Matson ,540
+Lake,Ward Three,State Treasurer,,Dem,Aaron  Matson ,244
+Lake,Ward Two,State Treasurer,,Dem,Aaron  Matson ,273
+Lake,Farmington-Leroy-Clarno-Orland,State Treasurer,,Dem,Aaron  Matson ,81
+Lake,Chester-Franklin,School and Lands,,Rep,Ryan Brunner,280
+Lake,Wentworth-Rutland,School and Lands,,Rep,Ryan Brunner,263
+Lake,Nunda-Summit,School and Lands,,Rep,Ryan Brunner,133
+Lake,Concord-Badus-Wayne/Ramona,School and Lands,,Rep,Ryan Brunner,144
+Lake,Herman-Winfred,School and Lands,,Rep,Ryan Brunner,262
+Lake,Lakeview,School and Lands,,Rep,Ryan Brunner,287
+Lake,Ward One,School and Lands,,Rep,Ryan Brunner,781
+Lake,Ward Three,School and Lands,,Rep,Ryan Brunner,296
+Lake,Ward Two,School and Lands,,Rep,Ryan Brunner,305
+Lake,Farmington-Leroy-Clarno-Orland,School and Lands,,Rep,Ryan Brunner,202
+Lake,Chester-Franklin,School and Lands,,Dem,Woody Houser,122
+Lake,Wentworth-Rutland,School and Lands,,Dem,Woody Houser,130
+Lake,Nunda-Summit,School and Lands,,Dem,Woody Houser,38
+Lake,Concord-Badus-Wayne/Ramona,School and Lands,,Dem,Woody Houser,63
+Lake,Herman-Winfred,School and Lands,,Dem,Woody Houser,140
+Lake,Lakeview,School and Lands,,Dem,Woody Houser,147
+Lake,Ward One,School and Lands,,Dem,Woody Houser,527
+Lake,Ward Three,School and Lands,,Dem,Woody Houser,237
+Lake,Ward Two,School and Lands,,Dem,Woody Houser,267
+Lake,Farmington-Leroy-Clarno-Orland,School and Lands,,Dem,Woody Houser,82
+Lake,Chester-Franklin,Public Utilities Commissioner,,Rep,Kristie Fiegen,324
+Lake,Wentworth-Rutland,Public Utilities Commissioner,,Rep,Kristie Fiegen,300
+Lake,Nunda-Summit,Public Utilities Commissioner,,Rep,Kristie Fiegen,145
+Lake,Concord-Badus-Wayne/Ramona,Public Utilities Commissioner,,Rep,Kristie Fiegen,172
+Lake,Herman-Winfred,Public Utilities Commissioner,,Rep,Kristie Fiegen,303
+Lake,Lakeview,Public Utilities Commissioner,,Rep,Kristie Fiegen,352
+Lake,Ward One,Public Utilities Commissioner,,Rep,Kristie Fiegen,899
+Lake,Ward Three,Public Utilities Commissioner,,Rep,Kristie Fiegen,355
+Lake,Ward Two,Public Utilities Commissioner,,Rep,Kristie Fiegen,386
+Lake,Farmington-Leroy-Clarno-Orland,Public Utilities Commissioner,,Rep,Kristie Fiegen,231
+Lake,Chester-Franklin,Public Utilities Commissioner,,Dem,Wayne Frederick,100
+Lake,Wentworth-Rutland,Public Utilities Commissioner,,Dem,Wayne Frederick,104
+Lake,Nunda-Summit,Public Utilities Commissioner,,Dem,Wayne Frederick,29
+Lake,Concord-Badus-Wayne/Ramona,Public Utilities Commissioner,,Dem,Wayne Frederick,43
+Lake,Herman-Winfred,Public Utilities Commissioner,,Dem,Wayne Frederick,112
+Lake,Lakeview,Public Utilities Commissioner,,Dem,Wayne Frederick,116
+Lake,Ward One,Public Utilities Commissioner,,Dem,Wayne Frederick,449
+Lake,Ward Three,Public Utilities Commissioner,,Dem,Wayne Frederick,191
+Lake,Ward Two,Public Utilities Commissioner,,Dem,Wayne Frederick,213
+Lake,Farmington-Leroy-Clarno-Orland,Public Utilities Commissioner,,Dem,Wayne Frederick,63
+Lake,Chester-Franklin,State Senator,8,Rep,Jordan   Youngberg,274
+Lake,Wentworth-Rutland,State Senator,8,Rep,Jordan   Youngberg,257
+Lake,Nunda-Summit,State Senator,8,Rep,Jordan   Youngberg,123
+Lake,Concord-Badus-Wayne/Ramona,State Senator,8,Rep,Jordan   Youngberg,136
+Lake,Herman-Winfred,State Senator,8,Rep,Jordan   Youngberg,246
+Lake,Lakeview,State Senator,8,Rep,Jordan   Youngberg,263
+Lake,Ward One,State Senator,8,Rep,Jordan   Youngberg,713
+Lake,Ward Three,State Senator,8,Rep,Jordan   Youngberg,298
+Lake,Ward Two,State Senator,8,Rep,Jordan   Youngberg,294
+Lake,Farmington-Leroy-Clarno-Orland,State Senator,8,Rep,Jordan   Youngberg,197
+Lake,Chester-Franklin,State Senator,8,Dem,Scott Parsley,163
+Lake,Wentworth-Rutland,State Senator,8,Dem,Scott Parsley,171
+Lake,Nunda-Summit,State Senator,8,Dem,Scott Parsley,63
+Lake,Concord-Badus-Wayne/Ramona,State Senator,8,Dem,Scott Parsley,99
+Lake,Herman-Winfred,State Senator,8,Dem,Scott Parsley,188
+Lake,Lakeview,State Senator,8,Dem,Scott Parsley,210
+Lake,Ward One,State Senator,8,Dem,Scott Parsley,702
+Lake,Ward Three,State Senator,8,Dem,Scott Parsley,293
+Lake,Ward Two,State Senator,8,Dem,Scott Parsley,350
+Lake,Farmington-Leroy-Clarno-Orland,State Senator,8,Dem,Scott Parsley,116
+Lake,Chester-Franklin,State House,8,Rep,Marli Wiese,299
+Lake,Wentworth-Rutland,State House,8,Rep,Marli Wiese,296
+Lake,Nunda-Summit,State House,8,Rep,Marli Wiese,128
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Rep,Marli Wiese,183
+Lake,Herman-Winfred,State House,8,Rep,Marli Wiese,335
+Lake,Lakeview,State House,8,Rep,Marli Wiese,338
+Lake,Ward One,State House,8,Rep,Marli Wiese,918
+Lake,Ward Three,State House,8,Rep,Marli Wiese,387
+Lake,Ward Two,State House,8,Rep,Marli Wiese,409
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Rep,Marli Wiese,245
+Lake,Chester-Franklin,State House,8,Rep,Randy Gross,253
+Lake,Wentworth-Rutland,State House,8,Rep,Randy Gross,238
+Lake,Nunda-Summit,State House,8,Rep,Randy Gross,125
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Rep,Randy Gross,114
+Lake,Herman-Winfred,State House,8,Rep,Randy Gross,220
+Lake,Lakeview,State House,8,Rep,Randy Gross,245
+Lake,Ward One,State House,8,Rep,Randy Gross,659
+Lake,Ward Three,State House,8,Rep,Randy Gross,266
+Lake,Ward Two,State House,8,Rep,Randy Gross,278
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Rep,Randy Gross,179
+Lake,Chester-Franklin,State House,8,Rep,Chris  Francis ,94
+Lake,Wentworth-Rutland,State House,8,Dem,Chris  Francis ,96
+Lake,Nunda-Summit,State House,8,Dem,Chris  Francis ,21
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Dem,Chris  Francis ,44
+Lake,Herman-Winfred,State House,8,Dem,Chris  Francis ,94
+Lake,Lakeview,State House,8,Dem,Chris  Francis ,120
+Lake,Ward One,State House,8,Dem,Chris  Francis ,429
+Lake,Ward Three,State House,8,Dem,Chris  Francis ,170
+Lake,Ward Two,State House,8,Dem,Chris  Francis ,193
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Dem,Chris  Francis ,57
+Lake,Chester-Franklin,State House,8,Dem,Jason Unger,142
+Lake,Wentworth-Rutland,State House,8,Dem,Jason Unger,153
+Lake,Nunda-Summit,State House,8,Dem,Jason Unger,47
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Dem,Jason Unger,79
+Lake,Herman-Winfred,State House,8,Dem,Jason Unger,154
+Lake,Lakeview,State House,8,Dem,Jason Unger,164
+Lake,Ward One,State House,8,Dem,Jason Unger,581
+Lake,Ward Three,State House,8,Dem,Jason Unger,254
+Lake,Ward Two,State House,8,Dem,Jason Unger,287
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Dem,Jason Unger,94

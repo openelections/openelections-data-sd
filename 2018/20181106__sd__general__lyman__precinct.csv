@@ -1,0 +1,162 @@
+county,precinct,office,district,party,candidate,votes
+Lyman,Precinct-01,US House,,Lbt,George Hendrickson,4
+Lyman,Precinct-04,US House,,Lbt,George Hendrickson,3
+Lyman,Precinct-06,US House,,Lbt,George Hendrickson,1
+Lyman,Precinct-07,US House,,Lbt,George Hendrickson,2
+Lyman,Precinct-09,US House,,Lbt,George Hendrickson,3
+Lyman,Precinct-12,US House,,Lbt,George Hendrickson,8
+Lyman,Precinct-13,US House,,Lbt,George Hendrickson,0
+Lyman,Precinct-01,US House,,Rep,Dusty Johnson,47
+Lyman,Precinct-04,US House,,Rep,Dusty Johnson,185
+Lyman,Precinct-06,US House,,Rep,Dusty Johnson,80
+Lyman,Precinct-07,US House,,Rep,Dusty Johnson,22
+Lyman,Precinct-09,US House,,Rep,Dusty Johnson,181
+Lyman,Precinct-12,US House,,Rep,Dusty Johnson,239
+Lyman,Precinct-13,US House,,Rep,Dusty Johnson,76
+Lyman,Precinct-01,US House,,Dem,Tim Bjorkman,21
+Lyman,Precinct-04,US House,,Dem,Tim Bjorkman,112
+Lyman,Precinct-06,US House,,Dem,Tim Bjorkman,38
+Lyman,Precinct-07,US House,,Dem,Tim Bjorkman,160
+Lyman,Precinct-09,US House,,Dem,Tim Bjorkman,44
+Lyman,Precinct-12,US House,,Dem,Tim Bjorkman,103
+Lyman,Precinct-13,US House,,Dem,Tim Bjorkman,22
+Lyman,Precinct-01,US House,,Ind,Ron Wieczorek,2
+Lyman,Precinct-04,US House,,Ind,Ron Wieczorek,9
+Lyman,Precinct-06,US House,,Ind,Ron Wieczorek,6
+Lyman,Precinct-07,US House,,Ind,Ron Wieczorek,3
+Lyman,Precinct-09,US House,,Ind,Ron Wieczorek,6
+Lyman,Precinct-12,US House,,Ind,Ron Wieczorek,3
+Lyman,Precinct-13,US House,,Ind,Ron Wieczorek,3
+Lyman,Precinct-01,Governor,,Lbt,Kurt Evans,1
+Lyman,Precinct-04,Governor,,Lbt,Kurt Evans,9
+Lyman,Precinct-06,Governor,,Lbt,Kurt Evans,4
+Lyman,Precinct-07,Governor,,Lbt,Kurt Evans,1
+Lyman,Precinct-09,Governor,,Lbt,Kurt Evans,5
+Lyman,Precinct-12,Governor,,Lbt,Kurt Evans,6
+Lyman,Precinct-13,Governor,,Lbt,Kurt Evans,1
+Lyman,Precinct-01,Governor,,Rep,Kristi Noem,41
+Lyman,Precinct-04,Governor,,Rep,Kristi Noem,167
+Lyman,Precinct-06,Governor,,Rep,Kristi Noem,65
+Lyman,Precinct-07,Governor,,Rep,Kristi Noem,11
+Lyman,Precinct-09,Governor,,Rep,Kristi Noem,148
+Lyman,Precinct-12,Governor,,Rep,Kristi Noem,201
+Lyman,Precinct-13,Governor,,Rep,Kristi Noem,58
+Lyman,Precinct-01,Governor,,Dem,Billie Sutton,34
+Lyman,Precinct-04,Governor,,Dem,Billie Sutton,136
+Lyman,Precinct-06,Governor,,Dem,Billie Sutton,56
+Lyman,Precinct-07,Governor,,Dem,Billie Sutton,179
+Lyman,Precinct-09,Governor,,Dem,Billie Sutton,86
+Lyman,Precinct-12,Governor,,Dem,Billie Sutton,149
+Lyman,Precinct-13,Governor,,Dem,Billie Sutton,42
+Lyman,Precinct-01,Secretary of State,,Rep,Steve Barnett,54
+Lyman,Precinct-04,Secretary of State,,Rep,Steve Barnett,208
+Lyman,Precinct-06,Secretary of State,,Rep,Steve Barnett,81
+Lyman,Precinct-07,Secretary of State,,Rep,Steve Barnett,19
+Lyman,Precinct-09,Secretary of State,,Rep,Steve Barnett,197
+Lyman,Precinct-12,Secretary of State,,Rep,Steve Barnett,274
+Lyman,Precinct-13,Secretary of State,,Rep,Steve Barnett,82
+Lyman,Precinct-01,Secretary of State,,Dem,Alexandra Frederick,20
+Lyman,Precinct-04,Secretary of State,,Dem,Alexandra Frederick,95
+Lyman,Precinct-06,Secretary of State,,Dem,Alexandra Frederick,42
+Lyman,Precinct-07,Secretary of State,,Dem,Alexandra Frederick,167
+Lyman,Precinct-09,Secretary of State,,Dem,Alexandra Frederick,30
+Lyman,Precinct-12,Secretary of State,,Dem,Alexandra Frederick,69
+Lyman,Precinct-13,Secretary of State,,Dem,Alexandra Frederick,14
+Lyman,Precinct-01,Attorney General,,Rep,Jason Ravnsborg,48
+Lyman,Precinct-04,Attorney General,,Rep,Jason Ravnsborg,191
+Lyman,Precinct-06,Attorney General,,Rep,Jason Ravnsborg,71
+Lyman,Precinct-07,Attorney General,,Rep,Jason Ravnsborg,21
+Lyman,Precinct-09,Attorney General,,Rep,Jason Ravnsborg,159
+Lyman,Precinct-12,Attorney General,,Rep,Jason Ravnsborg,221
+Lyman,Precinct-13,Attorney General,,Rep,Jason Ravnsborg,69
+Lyman,Precinct-01,Attorney General,,Dem,Randy Seiler,26
+Lyman,Precinct-04,Attorney General,,Dem,Randy Seiler,113
+Lyman,Precinct-06,Attorney General,,Dem,Randy Seiler,48
+Lyman,Precinct-07,Attorney General,,Dem,Randy Seiler,163
+Lyman,Precinct-09,Attorney General,,Dem,Randy Seiler,60
+Lyman,Precinct-12,Attorney General,,Dem,Randy Seiler,113
+Lyman,Precinct-13,Attorney General,,Dem,Randy Seiler,27
+Lyman,Precinct-01,State Auditor,,Rep,Rich Sattgast,51
+Lyman,Precinct-04,State Auditor,,Rep,Rich Sattgast,200
+Lyman,Precinct-06,State Auditor,,Rep,Rich Sattgast,86
+Lyman,Precinct-07,State Auditor,,Rep,Rich Sattgast,16
+Lyman,Precinct-09,State Auditor,,Rep,Rich Sattgast,185
+Lyman,Precinct-12,State Auditor,,Rep,Rich Sattgast,256
+Lyman,Precinct-13,State Auditor,,Rep,Rich Sattgast,79
+Lyman,Precinct-01,State Auditor,,Dem,Tom Cool,20
+Lyman,Precinct-04,State Auditor,,Dem,Tom Cool,97
+Lyman,Precinct-06,State Auditor,,Dem,Tom Cool,36
+Lyman,Precinct-07,State Auditor,,Dem,Tom Cool,163
+Lyman,Precinct-09,State Auditor,,Dem,Tom Cool,30
+Lyman,Precinct-12,State Auditor,,Dem,Tom Cool,73
+Lyman,Precinct-13,State Auditor,,Dem,Tom Cool,14
+Lyman,Precinct-01,State Treasurer,,Rep,Josh Haeder,48
+Lyman,Precinct-04,State Treasurer,,Rep,Josh Haeder,188
+Lyman,Precinct-06,State Treasurer,,Rep,Josh Haeder,79
+Lyman,Precinct-07,State Treasurer,,Rep,Josh Haeder,19
+Lyman,Precinct-09,State Treasurer,,Rep,Josh Haeder,177
+Lyman,Precinct-12,State Treasurer,,Rep,Josh Haeder,243
+Lyman,Precinct-13,State Treasurer,,Rep,Josh Haeder,70
+Lyman,Precinct-01,State Treasurer,,Dem,Aaron  Matson ,21
+Lyman,Precinct-04,State Treasurer,,Dem,Aaron  Matson ,102
+Lyman,Precinct-06,State Treasurer,,Dem,Aaron  Matson ,41
+Lyman,Precinct-07,State Treasurer,,Dem,Aaron  Matson ,160
+Lyman,Precinct-09,State Treasurer,,Dem,Aaron  Matson ,33
+Lyman,Precinct-12,State Treasurer,,Dem,Aaron  Matson ,86
+Lyman,Precinct-13,State Treasurer,,Dem,Aaron  Matson ,16
+Lyman,Precinct-01,School and Lands,,Rep,Ryan Brunner,50
+Lyman,Precinct-04,School and Lands,,Rep,Ryan Brunner,192
+Lyman,Precinct-06,School and Lands,,Rep,Ryan Brunner,80
+Lyman,Precinct-07,School and Lands,,Rep,Ryan Brunner,19
+Lyman,Precinct-09,School and Lands,,Rep,Ryan Brunner,175
+Lyman,Precinct-12,School and Lands,,Rep,Ryan Brunner,247
+Lyman,Precinct-13,School and Lands,,Rep,Ryan Brunner,73
+Lyman,Precinct-01,School and Lands,,Dem,Woody Houser,17
+Lyman,Precinct-04,School and Lands,,Dem,Woody Houser,101
+Lyman,Precinct-06,School and Lands,,Dem,Woody Houser,39
+Lyman,Precinct-07,School and Lands,,Dem,Woody Houser,161
+Lyman,Precinct-09,School and Lands,,Dem,Woody Houser,33
+Lyman,Precinct-12,School and Lands,,Dem,Woody Houser,80
+Lyman,Precinct-13,School and Lands,,Dem,Woody Houser,17
+Lyman,Precinct-01,Public Utilities Commissioner,,Rep,Kristie Fiegen,47
+Lyman,Precinct-04,Public Utilities Commissioner,,Rep,Kristie Fiegen,202
+Lyman,Precinct-06,Public Utilities Commissioner,,Rep,Kristie Fiegen,81
+Lyman,Precinct-07,Public Utilities Commissioner,,Rep,Kristie Fiegen,22
+Lyman,Precinct-09,Public Utilities Commissioner,,Rep,Kristie Fiegen,187
+Lyman,Precinct-12,Public Utilities Commissioner,,Rep,Kristie Fiegen,255
+Lyman,Precinct-13,Public Utilities Commissioner,,Rep,Kristie Fiegen,71
+Lyman,Precinct-01,Public Utilities Commissioner,,Dem,Wayne Frederick,20
+Lyman,Precinct-04,Public Utilities Commissioner,,Dem,Wayne Frederick,90
+Lyman,Precinct-06,Public Utilities Commissioner,,Dem,Wayne Frederick,38
+Lyman,Precinct-07,Public Utilities Commissioner,,Dem,Wayne Frederick,160
+Lyman,Precinct-09,Public Utilities Commissioner,,Dem,Wayne Frederick,30
+Lyman,Precinct-12,Public Utilities Commissioner,,Dem,Wayne Frederick,74
+Lyman,Precinct-13,Public Utilities Commissioner,,Dem,Wayne Frederick,17
+Lyman,Precinct-01,State Senator,26,Rep,Joel Koskan,53
+Lyman,Precinct-04,State Senator,26,Rep,Joel Koskan,191
+Lyman,Precinct-06,State Senator,26,Rep,Joel Koskan,81
+Lyman,Precinct-07,State Senator,26,Rep,Joel Koskan,16
+Lyman,Precinct-09,State Senator,26,Rep,Joel Koskan,173
+Lyman,Precinct-12,State Senator,26,Rep,Joel Koskan,235
+Lyman,Precinct-13,State Senator,26,Rep,Joel Koskan,81
+Lyman,Precinct-01,State Senator,26,Dem,Troy Heinert,19
+Lyman,Precinct-04,State Senator,26,Dem,Troy Heinert,117
+Lyman,Precinct-06,State Senator,26,Dem,Troy Heinert,44
+Lyman,Precinct-07,State Senator,26,Dem,Troy Heinert,171
+Lyman,Precinct-09,State Senator,26,Dem,Troy Heinert,53
+Lyman,Precinct-12,State Senator,26,Dem,Troy Heinert,106
+Lyman,Precinct-13,State Senator,26,Dem,Troy Heinert,17
+Lyman,Precinct-01,State House,26B,Rep,Rebecca Reimer,49
+Lyman,Precinct-04,State House,26B,Rep,Rebecca Reimer,198
+Lyman,Precinct-06,State House,26B,Rep,Rebecca Reimer,69
+Lyman,Precinct-07,State House,26B,Rep,Rebecca Reimer,14
+Lyman,Precinct-09,State House,26B,Rep,Rebecca Reimer,155
+Lyman,Precinct-12,State House,26B,Rep,Rebecca Reimer,208
+Lyman,Precinct-13,State House,26B,Rep,Rebecca Reimer,57
+Lyman,Precinct-01,State House,26B,Dem,Debra Smith,20
+Lyman,Precinct-04,State House,26B,Dem,Debra Smith,100
+Lyman,Precinct-06,State House,26B,Dem,Debra Smith,55
+Lyman,Precinct-07,State House,26B,Dem,Debra Smith,168
+Lyman,Precinct-09,State House,26B,Dem,Debra Smith,73
+Lyman,Precinct-12,State House,26B,Dem,Debra Smith,138
+Lyman,Precinct-13,State House,26B,Dem,Debra Smith,44
