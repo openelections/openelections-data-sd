@@ -1,0 +1,70 @@
+votes,district,candidate,office,county,party,precinct
+Buffalo,1,U.S. House,1,LIB,George D. Hendrickson,1
+Buffalo,2,U.S. House,1,LIB,George D. Hendrickson,2
+Buffalo,3,U.S. House,1,LIB,George D. Hendrickson,4
+Buffalo,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",77
+Buffalo,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",36
+Buffalo,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",59
+Buffalo,1,U.S. House,1,DEM,Tim Bjorkman,35
+Buffalo,2,U.S. House,1,DEM,Tim Bjorkman,44
+Buffalo,3,U.S. House,1,DEM,Tim Bjorkman,251
+Buffalo,1,U.S. House,1,IND,Ron Wieczorek,4
+Buffalo,2,U.S. House,1,IND,Ron Wieczorek,4
+Buffalo,3,U.S. House,1,IND,Ron Wieczorek,13
+Buffalo,1,Governor,,LIB,Kurt Evans,4
+Buffalo,2,Governor,,LIB,Kurt Evans,0
+Buffalo,3,Governor,,LIB,Kurt Evans,3
+Buffalo,1,Governor,,REP,Kristi Noem,80
+Buffalo,2,Governor,,REP,Kristi Noem,26
+Buffalo,3,Governor,,REP,Kristi Noem,32
+Buffalo,1,Governor,,DEM,Billie Sutton,37
+Buffalo,2,Governor,,DEM,Billie Sutton,62
+Buffalo,3,Governor,,DEM,Billie Sutton,304
+Buffalo,1,Secretary of State,,REP,Steve Barnett,79
+Buffalo,2,Secretary of State,,REP,Steve Barnett,40
+Buffalo,3,Secretary of State,,REP,Steve Barnett,46
+Buffalo,1,Secretary of State,,DEM,Alexandra Frederick,30
+Buffalo,2,Secretary of State,,DEM,Alexandra Frederick,44
+Buffalo,3,Secretary of State,,DEM,Alexandra Frederick,280
+Buffalo,1,Attorney General,,REP,Jason Ravnsborg,82
+Buffalo,2,Attorney General,,REP,Jason Ravnsborg,33
+Buffalo,3,Attorney General,,REP,Jason Ravnsborg,42
+Buffalo,1,Attorney General,,DEM,Randy Seiler,29
+Buffalo,2,Attorney General,,DEM,Randy Seiler,53
+Buffalo,3,Attorney General,,DEM,Randy Seiler,285
+Buffalo,1,State Auditor,,REP,Rich Sattgast,83
+Buffalo,2,State Auditor,,REP,Rich Sattgast,36
+Buffalo,3,State Auditor,,REP,Rich Sattgast,41
+Buffalo,1,State Auditor,,DEM,Tom Cool,23
+Buffalo,2,State Auditor,,DEM,Tom Cool,47
+Buffalo,3,State Auditor,,DEM,Tom Cool,276
+Buffalo,1,State Treasurer,,REP,Josh Haeder,77
+Buffalo,2,State Treasurer,,REP,Josh Haeder,35
+Buffalo,3,State Treasurer,,REP,Josh Haeder,38
+Buffalo,1,State Treasurer,,DEM,Aaron Matson,29
+Buffalo,2,State Treasurer,,DEM,Aaron Matson,47
+Buffalo,3,State Treasurer,,DEM,Aaron Matson,280
+Buffalo,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,76
+Buffalo,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,33
+Buffalo,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,39
+Buffalo,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,30
+Buffalo,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,48
+Buffalo,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,280
+Buffalo,1,Public Utilities Commissioner,,REP,Kristie Fiegen,88
+Buffalo,2,Public Utilities Commissioner,,REP,Kristie Fiegen,38
+Buffalo,3,Public Utilities Commissioner,,REP,Kristie Fiegen,41
+Buffalo,1,Public Utilities Commissioner,,DEM,Wayne Frederick,23
+Buffalo,2,Public Utilities Commissioner,,DEM,Wayne Frederick,46
+Buffalo,3,Public Utilities Commissioner,,DEM,Wayne Frederick,279
+Buffalo,1,State Senate,26,REP,Joel Koskan,77
+Buffalo,2,State Senate,26,REP,Joel Koskan,32
+Buffalo,3,State Senate,26,REP,Joel Koskan,40
+Buffalo,1,State Senate,26,DEM,Troy Heinert,32
+Buffalo,2,State Senate,26,DEM,Troy Heinert,54
+Buffalo,3,State Senate,26,DEM,Troy Heinert,283
+Buffalo,1,State House,26B,REP,Rebecca Reimer,79
+Buffalo,2,State House,26B,REP,Rebecca Reimer,35
+Buffalo,3,State House,26B,REP,Rebecca Reimer,39
+Buffalo,1,State House,26B,DEM,Debra Smith,27
+Buffalo,2,State House,26B,DEM,Debra Smith,48
+Buffalo,3,State House,26B,DEM,Debra Smith,278
