@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes
+Yankton,JoDean's Steakhouse and Lounge,US House,,Lbt,George Hendrickson,16
+Yankton,Yankton City Hall,US House,,Lbt,George Hendrickson,17
+Yankton,Gayville Community Center,US House,,Lbt,George Hendrickson,2
+Yankton,Lesterville Fire Hall,US House,,Lbt,George Hendrickson,3
+Yankton,National Field Archery Assoc.,US House,,Lbt,George Hendrickson,11
+Yankton,Mayfield Store,US House,,Lbt,George Hendrickson,2
+Yankton,Lewis and Clark Rec Area,US House,,Lbt,George Hendrickson,2
+Yankton,Absentee Precinct,US House,,Lbt,George Hendrickson,50
+Yankton,JoDean's Steakhouse and Lounge,US House,,Rep,Dusty Johnson,"1,138"
+Yankton,Yankton City Hall,US House,,Rep,Dusty Johnson,741
+Yankton,Gayville Community Center,US House,,Rep,Dusty Johnson,189
+Yankton,Lesterville Fire Hall,US House,,Rep,Dusty Johnson,160
+Yankton,National Field Archery Assoc.,US House,,Rep,Dusty Johnson,338
+Yankton,Mayfield Store,US House,,Rep,Dusty Johnson,143
+Yankton,Lewis and Clark Rec Area,US House,,Rep,Dusty Johnson,300
+Yankton,Absentee Precinct,US House,,Rep,Dusty Johnson,"2,182"
+Yankton,JoDean's Steakhouse and Lounge,US House,,Dem,Tim Bjorkman,559
+Yankton,Yankton City Hall,US House,,Dem,Tim Bjorkman,581
+Yankton,Gayville Community Center,US House,,Dem,Tim Bjorkman,121
+Yankton,Lesterville Fire Hall,US House,,Dem,Tim Bjorkman,65
+Yankton,National Field Archery Assoc.,US House,,Dem,Tim Bjorkman,180
+Yankton,Mayfield Store,US House,,Dem,Tim Bjorkman,98
+Yankton,Lewis and Clark Rec Area,US House,,Dem,Tim Bjorkman,121
+Yankton,Absentee Precinct,US House,,Dem,Tim Bjorkman,"1,658"
+Yankton,JoDean's Steakhouse and Lounge,US House,,Ind,Ron Wieczorek,43
+Yankton,Yankton City Hall,US House,,Ind,Ron Wieczorek,46
+Yankton,Gayville Community Center,US House,,Ind,Ron Wieczorek,4
+Yankton,Lesterville Fire Hall,US House,,Ind,Ron Wieczorek,5
+Yankton,National Field Archery Assoc.,US House,,Ind,Ron Wieczorek,14
+Yankton,Mayfield Store,US House,,Ind,Ron Wieczorek,5
+Yankton,Lewis and Clark Rec Area,US House,,Ind,Ron Wieczorek,7
+Yankton,Absentee Precinct,US House,,Ind,Ron Wieczorek,81
+Yankton,JoDean's Steakhouse and Lounge,Governor,,Lbt,Kurt Evans,31
+Yankton,Yankton City Hall,Governor,,Lbt,Kurt Evans,32
+Yankton,Gayville Community Center,Governor,,Lbt,Kurt Evans,6
+Yankton,Lesterville Fire Hall,Governor,,Lbt,Kurt Evans,5
+Yankton,National Field Archery Assoc.,Governor,,Lbt,Kurt Evans,10
+Yankton,Mayfield Store,Governor,,Lbt,Kurt Evans,2
+Yankton,Lewis and Clark Rec Area,Governor,,Lbt,Kurt Evans,2
+Yankton,Absentee Precinct,Governor,,Lbt,Kurt Evans,46
+Yankton,JoDean's Steakhouse and Lounge,Governor,,Rep,Kristi Noem,876
+Yankton,Yankton City Hall,Governor,,Rep,Kristi Noem,555
+Yankton,Gayville Community Center,Governor,,Rep,Kristi Noem,143
+Yankton,Lesterville Fire Hall,Governor,,Rep,Kristi Noem,113
+Yankton,National Field Archery Assoc.,Governor,,Rep,Kristi Noem,256
+Yankton,Mayfield Store,Governor,,Rep,Kristi Noem,129
+Yankton,Lewis and Clark Rec Area,Governor,,Rep,Kristi Noem,244
+Yankton,Absentee Precinct,Governor,,Rep,Kristi Noem,"1,805"
+Yankton,JoDean's Steakhouse and Lounge,Governor,,Dem,Billie Sutton,870
+Yankton,Yankton City Hall,Governor,,Dem,Billie Sutton,820
+Yankton,Gayville Community Center,Governor,,Dem,Billie Sutton,177
+Yankton,Lesterville Fire Hall,Governor,,Dem,Billie Sutton,121
+Yankton,National Field Archery Assoc.,Governor,,Dem,Billie Sutton,288
+Yankton,Mayfield Store,Governor,,Dem,Billie Sutton,122
+Yankton,Lewis and Clark Rec Area,Governor,,Dem,Billie Sutton,184
+Yankton,Absentee Precinct,Governor,,Dem,Billie Sutton,"2,175"
+Yankton,JoDean's Steakhouse and Lounge,Secretary of State,,Rep,Steve Barnett,"1,110"
+Yankton,Yankton City Hall,Secretary of State,,Rep,Steve Barnett,763
+Yankton,Gayville Community Center,Secretary of State,,Rep,Steve Barnett,204
+Yankton,Lesterville Fire Hall,Secretary of State,,Rep,Steve Barnett,158
+Yankton,National Field Archery Assoc.,Secretary of State,,Rep,Steve Barnett,340
+Yankton,Mayfield Store,Secretary of State,,Rep,Steve Barnett,145
+Yankton,Lewis and Clark Rec Area,Secretary of State,,Rep,Steve Barnett,291
+Yankton,Absentee Precinct,Secretary of State,,Rep,Steve Barnett,"2,265"
+Yankton,JoDean's Steakhouse and Lounge,Secretary of State,,Dem,Alexandra Frederick,531
+Yankton,Yankton City Hall,Secretary of State,,Dem,Alexandra Frederick,540
+Yankton,Gayville Community Center,Secretary of State,,Dem,Alexandra Frederick,98
+Yankton,Lesterville Fire Hall,Secretary of State,,Dem,Alexandra Frederick,52
+Yankton,National Field Archery Assoc.,Secretary of State,,Dem,Alexandra Frederick,175
+Yankton,Mayfield Store,Secretary of State,,Dem,Alexandra Frederick,73
+Yankton,Lewis and Clark Rec Area,Secretary of State,,Dem,Alexandra Frederick,124
+Yankton,Absentee Precinct,Secretary of State,,Dem,Alexandra Frederick,"1,547"
+Yankton,JoDean's Steakhouse and Lounge,Attorney General,,Rep,Jason Ravnsborg,"1,033"
+Yankton,Yankton City Hall,Attorney General,,Rep,Jason Ravnsborg,702
+Yankton,Gayville Community Center,Attorney General,,Rep,Jason Ravnsborg,171
+Yankton,Lesterville Fire Hall,Attorney General,,Rep,Jason Ravnsborg,147
+Yankton,National Field Archery Assoc.,Attorney General,,Rep,Jason Ravnsborg,313
+Yankton,Mayfield Store,Attorney General,,Rep,Jason Ravnsborg,129
+Yankton,Lewis and Clark Rec Area,Attorney General,,Rep,Jason Ravnsborg,266
+Yankton,Absentee Precinct,Attorney General,,Rep,Jason Ravnsborg,"2,160"
+Yankton,JoDean's Steakhouse and Lounge,Attorney General,,Dem,Randy Seiler,651
+Yankton,Yankton City Hall,Attorney General,,Dem,Randy Seiler,648
+Yankton,Gayville Community Center,Attorney General,,Dem,Randy Seiler,136
+Yankton,Lesterville Fire Hall,Attorney General,,Dem,Randy Seiler,70
+Yankton,National Field Archery Assoc.,Attorney General,,Dem,Randy Seiler,211
+Yankton,Mayfield Store,Attorney General,,Dem,Randy Seiler,100
+Yankton,Lewis and Clark Rec Area,Attorney General,,Dem,Randy Seiler,154
+Yankton,Absentee Precinct,Attorney General,,Dem,Randy Seiler,"1,724"
+Yankton,JoDean's Steakhouse and Lounge,State Auditor,,Rep,Rich Sattgast,"1,047"
+Yankton,Yankton City Hall,State Auditor,,Rep,Rich Sattgast,701
+Yankton,Gayville Community Center,State Auditor,,Rep,Rich Sattgast,178
+Yankton,Lesterville Fire Hall,State Auditor,,Rep,Rich Sattgast,136
+Yankton,National Field Archery Assoc.,State Auditor,,Rep,Rich Sattgast,309
+Yankton,Mayfield Store,State Auditor,,Rep,Rich Sattgast,135
+Yankton,Lewis and Clark Rec Area,State Auditor,,Rep,Rich Sattgast,288
+Yankton,Absentee Precinct,State Auditor,,Rep,Rich Sattgast,"2,132"
+Yankton,JoDean's Steakhouse and Lounge,State Auditor,,Dem,Tom Cool,535
+Yankton,Yankton City Hall,State Auditor,,Dem,Tom Cool,569
+Yankton,Gayville Community Center,State Auditor,,Dem,Tom Cool,109
+Yankton,Lesterville Fire Hall,State Auditor,,Dem,Tom Cool,59
+Yankton,National Field Archery Assoc.,State Auditor,,Dem,Tom Cool,184
+Yankton,Mayfield Store,State Auditor,,Dem,Tom Cool,82
+Yankton,Lewis and Clark Rec Area,State Auditor,,Dem,Tom Cool,119
+Yankton,Absentee Precinct,State Auditor,,Dem,Tom Cool,"1,590"
+Yankton,JoDean's Steakhouse and Lounge,State Treasurer,,Rep,Josh Haeder,"1,019"
+Yankton,Yankton City Hall,State Treasurer,,Rep,Josh Haeder,686
+Yankton,Gayville Community Center,State Treasurer,,Rep,Josh Haeder,171
+Yankton,Lesterville Fire Hall,State Treasurer,,Rep,Josh Haeder,133
+Yankton,National Field Archery Assoc.,State Treasurer,,Rep,Josh Haeder,295
+Yankton,Mayfield Store,State Treasurer,,Rep,Josh Haeder,123
+Yankton,Lewis and Clark Rec Area,State Treasurer,,Rep,Josh Haeder,276
+Yankton,Absentee Precinct,State Treasurer,,Rep,Josh Haeder,"2,077"
+Yankton,JoDean's Steakhouse and Lounge,State Treasurer,,Dem,Aaron  Matson ,536
+Yankton,Yankton City Hall,State Treasurer,,Dem,Aaron  Matson ,565
+Yankton,Gayville Community Center,State Treasurer,,Dem,Aaron  Matson ,109
+Yankton,Lesterville Fire Hall,State Treasurer,,Dem,Aaron  Matson ,57
+Yankton,National Field Archery Assoc.,State Treasurer,,Dem,Aaron  Matson ,196
+Yankton,Mayfield Store,State Treasurer,,Dem,Aaron  Matson ,81
+Yankton,Lewis and Clark Rec Area,State Treasurer,,Dem,Aaron  Matson ,126
+Yankton,Absentee Precinct,State Treasurer,,Dem,Aaron  Matson ,"1,595"
+Yankton,JoDean's Steakhouse and Lounge,School and Lands,,Rep,Ryan Brunner,994
+Yankton,Yankton City Hall,School and Lands,,Rep,Ryan Brunner,655
+Yankton,Gayville Community Center,School and Lands,,Rep,Ryan Brunner,173
+Yankton,Lesterville Fire Hall,School and Lands,,Rep,Ryan Brunner,133
+Yankton,National Field Archery Assoc.,School and Lands,,Rep,Ryan Brunner,290
+Yankton,Mayfield Store,School and Lands,,Rep,Ryan Brunner,133
+Yankton,Lewis and Clark Rec Area,School and Lands,,Rep,Ryan Brunner,272
+Yankton,Absentee Precinct,School and Lands,,Rep,Ryan Brunner,"2,045"
+Yankton,JoDean's Steakhouse and Lounge,School and Lands,,Dem,Woody Houser,563
+Yankton,Yankton City Hall,School and Lands,,Dem,Woody Houser,593
+Yankton,Gayville Community Center,School and Lands,,Dem,Woody Houser,111
+Yankton,Lesterville Fire Hall,School and Lands,,Dem,Woody Houser,62
+Yankton,National Field Archery Assoc.,School and Lands,,Dem,Woody Houser,192
+Yankton,Mayfield Store,School and Lands,,Dem,Woody Houser,80
+Yankton,Lewis and Clark Rec Area,School and Lands,,Dem,Woody Houser,128
+Yankton,Absentee Precinct,School and Lands,,Dem,Woody Houser,"1,618"
+Yankton,JoDean's Steakhouse and Lounge,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,085"
+Yankton,Yankton City Hall,Public Utilities Commissioner,,Rep,Kristie Fiegen,735
+Yankton,Gayville Community Center,Public Utilities Commissioner,,Rep,Kristie Fiegen,196
+Yankton,Lesterville Fire Hall,Public Utilities Commissioner,,Rep,Kristie Fiegen,145
+Yankton,National Field Archery Assoc.,Public Utilities Commissioner,,Rep,Kristie Fiegen,339
+Yankton,Mayfield Store,Public Utilities Commissioner,,Rep,Kristie Fiegen,151
+Yankton,Lewis and Clark Rec Area,Public Utilities Commissioner,,Rep,Kristie Fiegen,282
+Yankton,Absentee Precinct,Public Utilities Commissioner,,Rep,Kristie Fiegen,"2,149"
+Yankton,JoDean's Steakhouse and Lounge,Public Utilities Commissioner,,Dem,Wayne Frederick,485
+Yankton,Yankton City Hall,Public Utilities Commissioner,,Dem,Wayne Frederick,526
+Yankton,Gayville Community Center,Public Utilities Commissioner,,Dem,Wayne Frederick,84
+Yankton,Lesterville Fire Hall,Public Utilities Commissioner,,Dem,Wayne Frederick,52
+Yankton,National Field Archery Assoc.,Public Utilities Commissioner,,Dem,Wayne Frederick,157
+Yankton,Mayfield Store,Public Utilities Commissioner,,Dem,Wayne Frederick,62
+Yankton,Lewis and Clark Rec Area,Public Utilities Commissioner,,Dem,Wayne Frederick,115
+Yankton,Absentee Precinct,Public Utilities Commissioner,,Dem,Wayne Frederick,"1,534"
+Yankton,JoDean's Steakhouse and Lounge,State Senator,8,Rep,Roger Meyer,838
+Yankton,Yankton City Hall,State Senator,8,Rep,Roger Meyer,547
+Yankton,Gayville Community Center,State Senator,8,Rep,Roger Meyer,161
+Yankton,Lesterville Fire Hall,State Senator,8,Rep,Roger Meyer,145
+Yankton,National Field Archery Assoc.,State Senator,8,Rep,Roger Meyer,257
+Yankton,Mayfield Store,State Senator,8,Rep,Roger Meyer,117
+Yankton,Lewis and Clark Rec Area,State Senator,8,Rep,Roger Meyer,243
+Yankton,Absentee Precinct,State Senator,8,Rep,Roger Meyer,"1,753"
+Yankton,JoDean's Steakhouse and Lounge,State Senator,8,Dem,Craig Kennedy,818
+Yankton,Yankton City Hall,State Senator,8,Dem,Craig Kennedy,796
+Yankton,Gayville Community Center,State Senator,8,Dem,Craig Kennedy,140
+Yankton,Lesterville Fire Hall,State Senator,8,Dem,Craig Kennedy,71
+Yankton,National Field Archery Assoc.,State Senator,8,Dem,Craig Kennedy,271
+Yankton,Mayfield Store,State Senator,8,Dem,Craig Kennedy,107
+Yankton,Lewis and Clark Rec Area,State Senator,8,Dem,Craig Kennedy,177
+Yankton,Absentee Precinct,State Senator,8,Dem,Craig Kennedy,"2,138"
+Yankton,JoDean's Steakhouse and Lounge,State House,8,Rep,Jean M. Hunhoff,947
+Yankton,Yankton City Hall,State House,8,Rep,Jean M. Hunhoff,610
+Yankton,Gayville Community Center,State House,8,Rep,Jean M. Hunhoff,168
+Yankton,Lesterville Fire Hall,State House,8,Rep,Jean M. Hunhoff,135
+Yankton,National Field Archery Assoc.,State House,8,Rep,Jean M. Hunhoff,269
+Yankton,Mayfield Store,State House,8,Rep,Jean M. Hunhoff,138
+Yankton,Lewis and Clark Rec Area,State House,8,Rep,Jean M. Hunhoff,265
+Yankton,Absentee Precinct,State House,8,Rep,Jean M. Hunhoff,"1,912"
+Yankton,JoDean's Steakhouse and Lounge,State House,8,Rep,Max L. Farver,768
+Yankton,Yankton City Hall,State House,8,Rep,Max L. Farver,505
+Yankton,Gayville Community Center,State House,8,Rep,Max L. Farver,126
+Yankton,Lesterville Fire Hall,State House,8,Rep,Max L. Farver,112
+Yankton,National Field Archery Assoc.,State House,8,Rep,Max L. Farver,237
+Yankton,Mayfield Store,State House,8,Rep,Max L. Farver,91
+Yankton,Lewis and Clark Rec Area,State House,8,Rep,Max L. Farver,209
+Yankton,Absentee Precinct,State House,8,Rep,Max L. Farver,"1,734"
+Yankton,JoDean's Steakhouse and Lounge,State House,8,Dem,Ryan Cwach,852
+Yankton,Yankton City Hall,State House,8,Dem,Ryan Cwach,786
+Yankton,Gayville Community Center,State House,8,Dem,Ryan Cwach,161
+Yankton,Lesterville Fire Hall,State House,8,Dem,Ryan Cwach,118
+Yankton,National Field Archery Assoc.,State House,8,Dem,Ryan Cwach,300
+Yankton,Mayfield Store,State House,8,Dem,Ryan Cwach,108
+Yankton,Lewis and Clark Rec Area,State House,8,Dem,Ryan Cwach,196
+Yankton,Absentee Precinct,State House,8,Dem,Ryan Cwach,"2,031"
+Yankton,JoDean's Steakhouse and Lounge,State House,8,Dem,Terry Crandall,664
+Yankton,Yankton City Hall,State House,8,Dem,Terry Crandall,636
+Yankton,Gayville Community Center,State House,8,Dem,Terry Crandall,123
+Yankton,Lesterville Fire Hall,State House,8,Dem,Terry Crandall,56
+Yankton,National Field Archery Assoc.,State House,8,Dem,Terry Crandall,203
+Yankton,Mayfield Store,State House,8,Dem,Terry Crandall,91
+Yankton,Lewis and Clark Rec Area,State House,8,Dem,Terry Crandall,125
+Yankton,Absentee Precinct,State House,8,Dem,Terry Crandall,"1,649"
