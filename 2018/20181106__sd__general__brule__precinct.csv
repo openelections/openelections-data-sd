@@ -1,0 +1,116 @@
+votes,district,candidate,office,county,party,precinct
+Brule,1,U.S. House,1,LIB,George D. Hendrickson,19
+Brule,2,U.S. House,1,LIB,George D. Hendrickson,4
+Brule,3,U.S. House,1,LIB,George D. Hendrickson,2
+Brule,4,U.S. House,1,LIB,George D. Hendrickson,1
+Brule,5,U.S. House,1,LIB,George D. Hendrickson,0
+Brule,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",655
+Brule,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",226
+Brule,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",226
+Brule,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",53
+Brule,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",71
+Brule,1,U.S. House,1,DEM,Tim Bjorkman,401
+Brule,2,U.S. House,1,DEM,Tim Bjorkman,233
+Brule,3,U.S. House,1,DEM,Tim Bjorkman,127
+Brule,4,U.S. House,1,DEM,Tim Bjorkman,22
+Brule,5,U.S. House,1,DEM,Tim Bjorkman,31
+Brule,1,U.S. House,1,IND,Ron Wieczorek,36
+Brule,2,U.S. House,1,IND,Ron Wieczorek,9
+Brule,3,U.S. House,1,IND,Ron Wieczorek,4
+Brule,4,U.S. House,1,IND,Ron Wieczorek,2
+Brule,5,U.S. House,1,IND,Ron Wieczorek,1
+Brule,1,Governor,,LIB,Kurt Evans,17
+Brule,2,Governor,,LIB,Kurt Evans,9
+Brule,3,Governor,,LIB,Kurt Evans,5
+Brule,4,Governor,,LIB,Kurt Evans,5
+Brule,5,Governor,,LIB,Kurt Evans,0
+Brule,1,Governor,,REP,Kristi Noem,534
+Brule,2,Governor,,REP,Kristi Noem,243
+Brule,3,Governor,,REP,Kristi Noem,213
+Brule,4,Governor,,REP,Kristi Noem,53
+Brule,5,Governor,,REP,Kristi Noem,60
+Brule,1,Governor,,DEM,Billie Sutton,568
+Brule,2,Governor,,DEM,Billie Sutton,222
+Brule,3,Governor,,DEM,Billie Sutton,137
+Brule,4,Governor,,DEM,Billie Sutton,21
+Brule,5,Governor,,DEM,Billie Sutton,43
+Brule,1,Secretary of State,,REP,Steve Barnett,726
+Brule,2,Secretary of State,,REP,Steve Barnett,317
+Brule,3,Secretary of State,,REP,Steve Barnett,253
+Brule,4,Secretary of State,,REP,Steve Barnett,61
+Brule,5,Secretary of State,,REP,Steve Barnett,82
+Brule,1,Secretary of State,,DEM,Alexandra Frederick,341
+Brule,2,Secretary of State,,DEM,Alexandra Frederick,119
+Brule,3,Secretary of State,,DEM,Alexandra Frederick,89
+Brule,4,Secretary of State,,DEM,Alexandra Frederick,15
+Brule,5,Secretary of State,,DEM,Alexandra Frederick,16
+Brule,1,Attorney General,,REP,Jason Ravnsborg,599
+Brule,2,Attorney General,,REP,Jason Ravnsborg,287
+Brule,3,Attorney General,,REP,Jason Ravnsborg,233
+Brule,4,Attorney General,,REP,Jason Ravnsborg,56
+Brule,5,Attorney General,,REP,Jason Ravnsborg,63
+Brule,1,Attorney General,,DEM,Randy Seiler,468
+Brule,2,Attorney General,,DEM,Randy Seiler,156
+Brule,3,Attorney General,,DEM,Randy Seiler,106
+Brule,4,Attorney General,,DEM,Randy Seiler,17
+Brule,5,Attorney General,,DEM,Randy Seiler,36
+Brule,1,State Auditor,,REP,Rich Sattgast,704
+Brule,2,State Auditor,,REP,Rich Sattgast,295
+Brule,3,State Auditor,,REP,Rich Sattgast,249
+Brule,4,State Auditor,,REP,Rich Sattgast,57
+Brule,5,State Auditor,,REP,Rich Sattgast,75
+Brule,1,State Auditor,,DEM,Tom Cool,342
+Brule,2,State Auditor,,DEM,Tom Cool,133
+Brule,3,State Auditor,,DEM,Tom Cool,93
+Brule,4,State Auditor,,DEM,Tom Cool,16
+Brule,5,State Auditor,,DEM,Tom Cool,19
+Brule,1,State Treasurer,,REP,Josh Haeder,635
+Brule,2,State Treasurer,,REP,Josh Haeder,271
+Brule,3,State Treasurer,,REP,Josh Haeder,231
+Brule,4,State Treasurer,,REP,Josh Haeder,55
+Brule,5,State Treasurer,,REP,Josh Haeder,70
+Brule,1,State Treasurer,,DEM,Aaron Matson,387
+Brule,2,State Treasurer,,DEM,Aaron Matson,148
+Brule,3,State Treasurer,,DEM,Aaron Matson,97
+Brule,4,State Treasurer,,DEM,Aaron Matson,18
+Brule,5,State Treasurer,,DEM,Aaron Matson,22
+Brule,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,643
+Brule,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,278
+Brule,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,235
+Brule,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,59
+Brule,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,71
+Brule,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,364
+Brule,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,133
+Brule,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,96
+Brule,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,14
+Brule,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,23
+Brule,1,Public Utilities Commissioner,,REP,Kristie Fiegen,697
+Brule,2,Public Utilities Commissioner,,REP,Kristie Fiegen,305
+Brule,3,Public Utilities Commissioner,,REP,Kristie Fiegen,252
+Brule,4,Public Utilities Commissioner,,REP,Kristie Fiegen,56
+Brule,5,Public Utilities Commissioner,,REP,Kristie Fiegen,77
+Brule,1,Public Utilities Commissioner,,DEM,Wayne Frederick,334
+Brule,2,Public Utilities Commissioner,,DEM,Wayne Frederick,119
+Brule,3,Public Utilities Commissioner,,DEM,Wayne Frederick,85
+Brule,4,Public Utilities Commissioner,,DEM,Wayne Frederick,15
+Brule,5,Public Utilities Commissioner,,DEM,Wayne Frederick,20
+Brule,1,State Senate,26,REP,Joel Koskan,607
+Brule,2,State Senate,26,REP,Joel Koskan,287
+Brule,3,State Senate,26,REP,Joel Koskan,234
+Brule,4,State Senate,26,REP,Joel Koskan,53
+Brule,5,State Senate,26,REP,Joel Koskan,77
+Brule,1,State Senate,26,DEM,Troy Heinert,469
+Brule,2,State Senate,26,DEM,Troy Heinert,150
+Brule,3,State Senate,26,DEM,Troy Heinert,113
+Brule,4,State Senate,26,DEM,Troy Heinert,18
+Brule,5,State Senate,26,DEM,Troy Heinert,24
+Brule,1,State House,26B,REP,Rebecca Reimer,698
+Brule,2,State House,26B,REP,Rebecca Reimer,315
+Brule,3,State House,26B,REP,Rebecca Reimer,259
+Brule,4,State House,26B,REP,Rebecca Reimer,59
+Brule,5,State House,26B,REP,Rebecca Reimer,85
+Brule,1,State House,26B,DEM,Debra Smith,389
+Brule,2,State House,26B,DEM,Debra Smith,131
+Brule,3,State House,26B,DEM,Debra Smith,90
+Brule,4,State House,26B,DEM,Debra Smith,15
+Brule,5,State House,26B,DEM,Debra Smith,18

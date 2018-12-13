@@ -1,0 +1,126 @@
+votes,district,candidate,office,county,party,precinct
+Campbell,1,U.S. House,1,LIB,George D. Hendrickson,0
+Campbell,2,U.S. House,1,LIB,George D. Hendrickson,3
+Campbell,3,U.S. House,1,LIB,George D. Hendrickson,1
+Campbell,4,U.S. House,1,LIB,George D. Hendrickson,3
+Campbell,5,U.S. House,1,LIB,George D. Hendrickson,0
+Campbell,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",100
+Campbell,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",115
+Campbell,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",131
+Campbell,4,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",122
+Campbell,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",133
+Campbell,1,U.S. House,1,DEM,Tim Bjorkman,21
+Campbell,2,U.S. House,1,DEM,Tim Bjorkman,15
+Campbell,3,U.S. House,1,DEM,Tim Bjorkman,26
+Campbell,4,U.S. House,1,DEM,Tim Bjorkman,21
+Campbell,5,U.S. House,1,DEM,Tim Bjorkman,25
+Campbell,1,U.S. House,1,IND,Ron Wieczorek,0
+Campbell,2,U.S. House,1,IND,Ron Wieczorek,1
+Campbell,3,U.S. House,1,IND,Ron Wieczorek,2
+Campbell,4,U.S. House,1,IND,Ron Wieczorek,2
+Campbell,5,U.S. House,1,IND,Ron Wieczorek,4
+Campbell,1,Governor,,LIB,Kurt Evans,0
+Campbell,2,Governor,,LIB,Kurt Evans,3
+Campbell,3,Governor,,LIB,Kurt Evans,2
+Campbell,4,Governor,,LIB,Kurt Evans,1
+Campbell,5,Governor,,LIB,Kurt Evans,3
+Campbell,1,Governor,,REP,Kristi Noem,92
+Campbell,2,Governor,,REP,Kristi Noem,103
+Campbell,3,Governor,,REP,Kristi Noem,124
+Campbell,4,Governor,,REP,Kristi Noem,107
+Campbell,5,Governor,,REP,Kristi Noem,124
+Campbell,1,Governor,,DEM,Billie Sutton,31
+Campbell,2,Governor,,DEM,Billie Sutton,28
+Campbell,3,Governor,,DEM,Billie Sutton,37
+Campbell,4,Governor,,DEM,Billie Sutton,41
+Campbell,5,Governor,,DEM,Billie Sutton,36
+Campbell,1,Secretary of State,,REP,Steve Barnett,100
+Campbell,2,Secretary of State,,REP,Steve Barnett,116
+Campbell,3,Secretary of State,,REP,Steve Barnett,136
+Campbell,4,Secretary of State,,REP,Steve Barnett,133
+Campbell,5,Secretary of State,,REP,Steve Barnett,148
+Campbell,1,Secretary of State,,DEM,Alexandra Frederick,18
+Campbell,2,Secretary of State,,DEM,Alexandra Frederick,17
+Campbell,3,Secretary of State,,DEM,Alexandra Frederick,20
+Campbell,4,Secretary of State,,DEM,Alexandra Frederick,14
+Campbell,5,Secretary of State,,DEM,Alexandra Frederick,12
+Campbell,1,Attorney General,,REP,Jason Ravnsborg,71
+Campbell,2,Attorney General,,REP,Jason Ravnsborg,92
+Campbell,3,Attorney General,,REP,Jason Ravnsborg,96
+Campbell,4,Attorney General,,REP,Jason Ravnsborg,100
+Campbell,5,Attorney General,,REP,Jason Ravnsborg,116
+Campbell,1,Attorney General,,DEM,Randy Seiler,52
+Campbell,2,Attorney General,,DEM,Randy Seiler,43
+Campbell,3,Attorney General,,DEM,Randy Seiler,64
+Campbell,4,Attorney General,,DEM,Randy Seiler,48
+Campbell,5,Attorney General,,DEM,Randy Seiler,45
+Campbell,1,State Auditor,,REP,Rich Sattgast,95
+Campbell,2,State Auditor,,REP,Rich Sattgast,112
+Campbell,3,State Auditor,,REP,Rich Sattgast,135
+Campbell,4,State Auditor,,REP,Rich Sattgast,126
+Campbell,5,State Auditor,,REP,Rich Sattgast,140
+Campbell,1,State Auditor,,DEM,Tom Cool,19
+Campbell,2,State Auditor,,DEM,Tom Cool,19
+Campbell,3,State Auditor,,DEM,Tom Cool,18
+Campbell,4,State Auditor,,DEM,Tom Cool,18
+Campbell,5,State Auditor,,DEM,Tom Cool,16
+Campbell,1,State Treasurer,,REP,Josh Haeder,91
+Campbell,2,State Treasurer,,REP,Josh Haeder,113
+Campbell,3,State Treasurer,,REP,Josh Haeder,131
+Campbell,4,State Treasurer,,REP,Josh Haeder,120
+Campbell,5,State Treasurer,,REP,Josh Haeder,142
+Campbell,1,State Treasurer,,DEM,Aaron Matson,21
+Campbell,2,State Treasurer,,DEM,Aaron Matson,18
+Campbell,3,State Treasurer,,DEM,Aaron Matson,22
+Campbell,4,State Treasurer,,DEM,Aaron Matson,21
+Campbell,5,State Treasurer,,DEM,Aaron Matson,16
+Campbell,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,91
+Campbell,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,113
+Campbell,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,131
+Campbell,4,Commissioner of School and Public Lands,,REP,Ryan Brunner,123
+Campbell,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,139
+Campbell,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,18
+Campbell,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,17
+Campbell,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,23
+Campbell,4,Commissioner of School and Public Lands,,DEM,Woody Hauser,22
+Campbell,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,16
+Campbell,1,Public Utilities Commissioner,,REP,Kristie Fiegen,91
+Campbell,2,Public Utilities Commissioner,,REP,Kristie Fiegen,113
+Campbell,3,Public Utilities Commissioner,,REP,Kristie Fiegen,136
+Campbell,4,Public Utilities Commissioner,,REP,Kristie Fiegen,123
+Campbell,5,Public Utilities Commissioner,,REP,Kristie Fiegen,140
+Campbell,1,Public Utilities Commissioner,,DEM,Wayne Frederick,18
+Campbell,2,Public Utilities Commissioner,,DEM,Wayne Frederick,18
+Campbell,3,Public Utilities Commissioner,,DEM,Wayne Frederick,21
+Campbell,4,Public Utilities Commissioner,,DEM,Wayne Frederick,18
+Campbell,5,Public Utilities Commissioner,,DEM,Wayne Frederick,15
+Campbell,1,State Senate,23,REP,Justin R. Cronin,104
+Campbell,2,State Senate,23,REP,Justin R. Cronin,119
+Campbell,3,State Senate,23,REP,Justin R. Cronin,138
+Campbell,4,State Senate,23,REP,Justin R. Cronin,130
+Campbell,5,State Senate,23,REP,Justin R. Cronin,148
+Campbell,1,State Senate,23,DEM,Joe Yracheta,16
+Campbell,2,State Senate,23,DEM,Joe Yracheta,11
+Campbell,3,State Senate,23,DEM,Joe Yracheta,19
+Campbell,4,State Senate,23,DEM,Joe Yracheta,16
+Campbell,5,State Senate,23,DEM,Joe Yracheta,13
+Campbell,1,State House,23,REP,Spencer Gosch,107
+Campbell,2,State House,23,REP,Spencer Gosch,110
+Campbell,3,State House,23,REP,Spencer Gosch,149
+Campbell,4,State House,23,REP,Spencer Gosch,125
+Campbell,5,State House,23,REP,Spencer Gosch,147
+Campbell,1,State House,23,REP,John A. Lake,87
+Campbell,2,State House,23,REP,John A. Lake,105
+Campbell,3,State House,23,REP,John A. Lake,119
+Campbell,4,State House,23,REP,John A. Lake,103
+Campbell,5,State House,23,REP,John A. Lake,119
+Campbell,1,State House,23,DEM,Eleanor Iverson,11
+Campbell,2,State House,23,DEM,Eleanor Iverson,16
+Campbell,3,State House,23,DEM,Eleanor Iverson,17
+Campbell,4,State House,23,DEM,Eleanor Iverson,22
+Campbell,5,State House,23,DEM,Eleanor Iverson,17
+Campbell,1,State House,23,DEM,Margaret Ann Walsh,12
+Campbell,2,State House,23,DEM,Margaret Ann Walsh,15
+Campbell,3,State House,23,DEM,Margaret Ann Walsh,13
+Campbell,4,State House,23,DEM,Margaret Ann Walsh,17
+Campbell,5,State House,23,DEM,Margaret Ann Walsh,10

@@ -1,0 +1,126 @@
+votes,district,candidate,office,county,party,precinct
+Aurora,1,U.S. House,1,LIB,George D. Hendrickson,2
+Aurora,2,U.S. House,1,LIB,George D. Hendrickson,0
+Aurora,3,U.S. House,1,LIB,George D. Hendrickson,2
+Aurora,5,U.S. House,1,LIB,George D. Hendrickson,2
+Aurora,7,U.S. House,1,LIB,George D. Hendrickson,5
+Aurora,1,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",180
+Aurora,2,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",94
+Aurora,3,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",199
+Aurora,5,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",90
+Aurora,7,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",165
+Aurora,1,U.S. House,1,DEM,Tim Bjorkman,77
+Aurora,2,U.S. House,1,DEM,Tim Bjorkman,46
+Aurora,3,U.S. House,1,DEM,Tim Bjorkman,165
+Aurora,5,U.S. House,1,DEM,Tim Bjorkman,57
+Aurora,7,U.S. House,1,DEM,Tim Bjorkman,98
+Aurora,1,U.S. House,1,IND,Ron Wieczorek,11
+Aurora,2,U.S. House,1,IND,Ron Wieczorek,7
+Aurora,3,U.S. House,1,IND,Ron Wieczorek,19
+Aurora,5,U.S. House,1,IND,Ron Wieczorek,18
+Aurora,7,U.S. House,1,IND,Ron Wieczorek,23
+Aurora,1,Governor,,LIB,Kurt Evans,6
+Aurora,2,Governor,,LIB,Kurt Evans,4
+Aurora,3,Governor,,LIB,Kurt Evans,9
+Aurora,5,Governor,,LIB,Kurt Evans,2
+Aurora,7,Governor,,LIB,Kurt Evans,8
+Aurora,1,Governor,,REP,Kristi Noem,165
+Aurora,2,Governor,,REP,Kristi Noem,90
+Aurora,3,Governor,,REP,Kristi Noem,168
+Aurora,5,Governor,,REP,Kristi Noem,78
+Aurora,7,Governor,,REP,Kristi Noem,143
+Aurora,1,Governor,,DEM,Billie Sutton,102
+Aurora,2,Governor,,DEM,Billie Sutton,54
+Aurora,3,Governor,,DEM,Billie Sutton,215
+Aurora,5,Governor,,DEM,Billie Sutton,93
+Aurora,7,Governor,,DEM,Billie Sutton,143
+Aurora,1,Secretary of State,,REP,Steve Barnett,199
+Aurora,2,Secretary of State,,REP,Steve Barnett,110
+Aurora,3,Secretary of State,,REP,Steve Barnett,219
+Aurora,5,Secretary of State,,REP,Steve Barnett,103
+Aurora,7,Secretary of State,,REP,Steve Barnett,199
+Aurora,1,Secretary of State,,DEM,Alexandra Frederick,67
+Aurora,2,Secretary of State,,DEM,Alexandra Frederick,33
+Aurora,3,Secretary of State,,DEM,Alexandra Frederick,141
+Aurora,5,Secretary of State,,DEM,Alexandra Frederick,64
+Aurora,7,Secretary of State,,DEM,Alexandra Frederick,86
+Aurora,1,Attorney General,,REP,Jason Ravnsborg,177
+Aurora,2,Attorney General,,REP,Jason Ravnsborg,105
+Aurora,3,Attorney General,,REP,Jason Ravnsborg,188
+Aurora,5,Attorney General,,REP,Jason Ravnsborg,83
+Aurora,7,Attorney General,,REP,Jason Ravnsborg,149
+Aurora,1,Attorney General,,DEM,Randy Seiler,91
+Aurora,2,Attorney General,,DEM,Randy Seiler,40
+Aurora,3,Attorney General,,DEM,Randy Seiler,182
+Aurora,5,Attorney General,,DEM,Randy Seiler,81
+Aurora,7,Attorney General,,DEM,Randy Seiler,127
+Aurora,1,State Auditor,,REP,Rich Sattgast,195
+Aurora,2,State Auditor,,REP,Rich Sattgast,99
+Aurora,3,State Auditor,,REP,Rich Sattgast,208
+Aurora,5,State Auditor,,REP,Rich Sattgast,103
+Aurora,7,State Auditor,,REP,Rich Sattgast,170
+Aurora,1,State Auditor,,DEM,Tom Cool,65
+Aurora,2,State Auditor,,DEM,Tom Cool,38
+Aurora,3,State Auditor,,DEM,Tom Cool,138
+Aurora,5,State Auditor,,DEM,Tom Cool,59
+Aurora,7,State Auditor,,DEM,Tom Cool,100
+Aurora,1,State Treasurer,,REP,Josh Haeder,184
+Aurora,2,State Treasurer,,REP,Josh Haeder,100
+Aurora,3,State Treasurer,,REP,Josh Haeder,189
+Aurora,5,State Treasurer,,REP,Josh Haeder,86
+Aurora,7,State Treasurer,,REP,Josh Haeder,157
+Aurora,1,State Treasurer,,DEM,Aaron Matson,71
+Aurora,2,State Treasurer,,DEM,Aaron Matson,35
+Aurora,3,State Treasurer,,DEM,Aaron Matson,153
+Aurora,5,State Treasurer,,DEM,Aaron Matson,72
+Aurora,7,State Treasurer,,DEM,Aaron Matson,106
+Aurora,1,Commissioner of School and Public Lands,,REP,Ryan Brunner,181
+Aurora,2,Commissioner of School and Public Lands,,REP,Ryan Brunner,101
+Aurora,3,Commissioner of School and Public Lands,,REP,Ryan Brunner,189
+Aurora,5,Commissioner of School and Public Lands,,REP,Ryan Brunner,90
+Aurora,7,Commissioner of School and Public Lands,,REP,Ryan Brunner,173
+Aurora,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,74
+Aurora,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,33
+Aurora,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,144
+Aurora,5,Commissioner of School and Public Lands,,DEM,Woody Hauser,69
+Aurora,7,Commissioner of School and Public Lands,,DEM,Woody Hauser,92
+Aurora,1,Public Utilities Commissioner,,REP,Kristie Fiegen,192
+Aurora,2,Public Utilities Commissioner,,REP,Kristie Fiegen,106
+Aurora,3,Public Utilities Commissioner,,REP,Kristie Fiegen,217
+Aurora,5,Public Utilities Commissioner,,REP,Kristie Fiegen,111
+Aurora,7,Public Utilities Commissioner,,REP,Kristie Fiegen,181
+Aurora,1,Public Utilities Commissioner,,DEM,Wayne Frederick,69
+Aurora,2,Public Utilities Commissioner,,DEM,Wayne Frederick,30
+Aurora,3,Public Utilities Commissioner,,DEM,Wayne Frederick,129
+Aurora,5,Public Utilities Commissioner,,DEM,Wayne Frederick,53
+Aurora,7,Public Utilities Commissioner,,DEM,Wayne Frederick,89
+Aurora,1,State Senate,20,REP,Joshua Klumb,222
+Aurora,2,State Senate,20,REP,Joshua Klumb,118
+Aurora,3,State Senate,20,REP,Joshua Klumb,234
+Aurora,5,State Senate,20,REP,Joshua Klumb,120
+Aurora,7,State Senate,20,REP,Joshua Klumb,219
+Aurora,1,State Senate,20,DEM,Dan Miller,47
+Aurora,2,State Senate,20,DEM,Dan Miller,29
+Aurora,3,State Senate,20,DEM,Dan Miller,133
+Aurora,5,State Senate,20,DEM,Dan Miller,47
+Aurora,7,State Senate,20,DEM,Dan Miller,63
+Aurora,1,State House,20,REP,Paul R. Miskimins,186
+Aurora,2,State House,20,REP,Paul R. Miskimins,91
+Aurora,3,State House,20,REP,Paul R. Miskimins,210
+Aurora,5,State House,20,REP,Paul R. Miskimins,99
+Aurora,7,State House,20,REP,Paul R. Miskimins,181
+Aurora,1,State House,20,REP,Lance Koth,141
+Aurora,2,State House,20,REP,Lance Koth,83
+Aurora,3,State House,20,REP,Lance Koth,129
+Aurora,5,State House,20,REP,Lance Koth,73
+Aurora,7,State House,20,REP,Lance Koth,130
+Aurora,1,State House,20,DEM,Ione Klinger,82
+Aurora,2,State House,20,DEM,Ione Klinger,42
+Aurora,3,State House,20,DEM,Ione Klinger,159
+Aurora,5,State House,20,DEM,Ione Klinger,64
+Aurora,7,State House,20,DEM,Ione Klinger,94
+Aurora,1,State House,20,DEM,James Schorzmann,79
+Aurora,2,State House,20,DEM,James Schorzmann,35
+Aurora,3,State House,20,DEM,James Schorzmann,125
+Aurora,5,State House,20,DEM,James Schorzmann,60
+Aurora,7,State House,20,DEM,James Schorzmann,80
