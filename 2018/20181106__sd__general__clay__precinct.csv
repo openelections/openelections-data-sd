@@ -1,0 +1,276 @@
+county,precinct,office,district,party,candidate,votes
+Clay,1,U.S. House,1,LIB,George D. Hendrickson,7
+Clay,2,U.S. House,1,LIB,George D. Hendrickson,11
+Clay,3,U.S. House,1,LIB,George D. Hendrickson,12
+Clay,C1,U.S. House,1,LIB,George D. Hendrickson,3
+Clay,C2,U.S. House,1,LIB,George D. Hendrickson,1
+Clay,E1,U.S. House,1,LIB,George D. Hendrickson,7
+Clay,E2,U.S. House,1,LIB,George D. Hendrickson,7
+Clay,S1,U.S. House,1,LIB,George D. Hendrickson,4
+Clay,S2,U.S. House,1,LIB,George D. Hendrickson,3
+Clay,W1,U.S. House,1,LIB,George D. Hendrickson,6
+Clay,W2,U.S. House,1,LIB,George D. Hendrickson,7
+Clay,1,U.S. House,1,REP,Dusty Johnson,230
+Clay,2,U.S. House,1,REP,Dusty Johnson,172
+Clay,3,U.S. House,1,REP,Dusty Johnson,434
+Clay,C1,U.S. House,1,REP,Dusty Johnson,72
+Clay,C2,U.S. House,1,REP,Dusty Johnson,36
+Clay,E1,U.S. House,1,REP,Dusty Johnson,109
+Clay,E2,U.S. House,1,REP,Dusty Johnson,47
+Clay,S1,U.S. House,1,REP,Dusty Johnson,294
+Clay,S2,U.S. House,1,REP,Dusty Johnson,186
+Clay,W1,U.S. House,1,REP,Dusty Johnson,183
+Clay,W2,U.S. House,1,REP,Dusty Johnson,143
+Clay,1,U.S. House,1,DEM,Tim Bjorkman,124
+Clay,2,U.S. House,1,DEM,Tim Bjorkman,158
+Clay,3,U.S. House,1,DEM,Tim Bjorkman,446
+Clay,C1,U.S. House,1,DEM,Tim Bjorkman,250
+Clay,C2,U.S. House,1,DEM,Tim Bjorkman,126
+Clay,E1,U.S. House,1,DEM,Tim Bjorkman,145
+Clay,E2,U.S. House,1,DEM,Tim Bjorkman,75
+Clay,S1,U.S. House,1,DEM,Tim Bjorkman,422
+Clay,S2,U.S. House,1,DEM,Tim Bjorkman,340
+Clay,W1,U.S. House,1,DEM,Tim Bjorkman,303
+Clay,W2,U.S. House,1,DEM,Tim Bjorkman,178
+Clay,1,U.S. House,1,IND,Ron Wieczorek,4
+Clay,2,U.S. House,1,IND,Ron Wieczorek,4
+Clay,3,U.S. House,1,IND,Ron Wieczorek,7
+Clay,C1,U.S. House,1,IND,Ron Wieczorek,4
+Clay,C2,U.S. House,1,IND,Ron Wieczorek,1
+Clay,E1,U.S. House,1,IND,Ron Wieczorek,5
+Clay,E2,U.S. House,1,IND,Ron Wieczorek,4
+Clay,S1,U.S. House,1,IND,Ron Wieczorek,11
+Clay,S2,U.S. House,1,IND,Ron Wieczorek,5
+Clay,W1,U.S. House,1,IND,Ron Wieczorek,14
+Clay,W2,U.S. House,1,IND,Ron Wieczorek,7
+Clay,1,Governor,,LIB,Kurt Evans,6
+Clay,2,Governor,,LIB,Kurt Evans,8
+Clay,3,Governor,,LIB,Kurt Evans,8
+Clay,C1,Governor,,LIB,Kurt Evans,5
+Clay,C2,Governor,,LIB,Kurt Evans,1
+Clay,E1,Governor,,LIB,Kurt Evans,1
+Clay,E2,Governor,,LIB,Kurt Evans,6
+Clay,S1,Governor,,LIB,Kurt Evans,7
+Clay,S2,Governor,,LIB,Kurt Evans,2
+Clay,W1,Governor,,LIB,Kurt Evans,4
+Clay,W2,Governor,,LIB,Kurt Evans,5
+Clay,1,Governor,,REP,Kristi Noem,196
+Clay,2,Governor,,REP,Kristi Noem,146
+Clay,3,Governor,,REP,Kristi Noem,356
+Clay,C1,Governor,,REP,Kristi Noem,46
+Clay,C2,Governor,,REP,Kristi Noem,25
+Clay,E1,Governor,,REP,Kristi Noem,86
+Clay,E2,Governor,,REP,Kristi Noem,43
+Clay,S1,Governor,,REP,Kristi Noem,238
+Clay,S2,Governor,,REP,Kristi Noem,161
+Clay,W1,Governor,,REP,Kristi Noem,148
+Clay,W2,Governor,,REP,Kristi Noem,107
+Clay,1,Governor,,DEM,Billie Sutton,166
+Clay,2,Governor,,DEM,Billie Sutton,192
+Clay,3,Governor,,DEM,Billie Sutton,547
+Clay,C1,Governor,,DEM,Billie Sutton,283
+Clay,C2,Governor,,DEM,Billie Sutton,140
+Clay,E1,Governor,,DEM,Billie Sutton,183
+Clay,E2,Governor,,DEM,Billie Sutton,85
+Clay,S1,Governor,,DEM,Billie Sutton,488
+Clay,S2,Governor,,DEM,Billie Sutton,375
+Clay,W1,Governor,,DEM,Billie Sutton,357
+Clay,W2,Governor,,DEM,Billie Sutton,223
+Clay,1,Secretary of State,,REP,Steve Barnett,230
+Clay,2,Secretary of State,,REP,Steve Barnett,187
+Clay,3,Secretary of State,,REP,Steve Barnett,464
+Clay,C1,Secretary of State,,REP,Steve Barnett,76
+Clay,C2,Secretary of State,,REP,Steve Barnett,31
+Clay,E1,Secretary of State,,REP,Steve Barnett,111
+Clay,E2,Secretary of State,,REP,Steve Barnett,57
+Clay,S1,Secretary of State,,REP,Steve Barnett,315
+Clay,S2,Secretary of State,,REP,Steve Barnett,202
+Clay,W1,Secretary of State,,REP,Steve Barnett,199
+Clay,W2,Secretary of State,,REP,Steve Barnett,145
+Clay,1,Secretary of State,,DEM,Alexandra Frederick,113
+Clay,2,Secretary of State,,DEM,Alexandra Frederick,136
+Clay,3,Secretary of State,,DEM,Alexandra Frederick,399
+Clay,C1,Secretary of State,,DEM,Alexandra Frederick,245
+Clay,C2,Secretary of State,,DEM,Alexandra Frederick,125
+Clay,E1,Secretary of State,,DEM,Alexandra Frederick,146
+Clay,E2,Secretary of State,,DEM,Alexandra Frederick,74
+Clay,S1,Secretary of State,,DEM,Alexandra Frederick,377
+Clay,S2,Secretary of State,,DEM,Alexandra Frederick,308
+Clay,W1,Secretary of State,,DEM,Alexandra Frederick,282
+Clay,W2,Secretary of State,,DEM,Alexandra Frederick,172
+Clay,1,Attorney General,,REP,Jason Ravnsborg,202
+Clay,2,Attorney General,,REP,Jason Ravnsborg,152
+Clay,3,Attorney General,,REP,Jason Ravnsborg,386
+Clay,C1,Attorney General,,REP,Jason Ravnsborg,60
+Clay,C2,Attorney General,,REP,Jason Ravnsborg,27
+Clay,E1,Attorney General,,REP,Jason Ravnsborg,100
+Clay,E2,Attorney General,,REP,Jason Ravnsborg,51
+Clay,S1,Attorney General,,REP,Jason Ravnsborg,236
+Clay,S2,Attorney General,,REP,Jason Ravnsborg,161
+Clay,W1,Attorney General,,REP,Jason Ravnsborg,173
+Clay,W2,Attorney General,,REP,Jason Ravnsborg,127
+Clay,1,Attorney General,,DEM,Randy Seiler,140
+Clay,2,Attorney General,,DEM,Randy Seiler,171
+Clay,3,Attorney General,,DEM,Randy Seiler,481
+Clay,C1,Attorney General,,DEM,Randy Seiler,266
+Clay,C2,Attorney General,,DEM,Randy Seiler,134
+Clay,E1,Attorney General,,DEM,Randy Seiler,162
+Clay,E2,Attorney General,,DEM,Randy Seiler,81
+Clay,S1,Attorney General,,DEM,Randy Seiler,461
+Clay,S2,Attorney General,,DEM,Randy Seiler,361
+Clay,W1,Attorney General,,DEM,Randy Seiler,321
+Clay,W2,Attorney General,,DEM,Randy Seiler,198
+Clay,1,State Auditor,,REP,Rich Sattgast,227
+Clay,2,State Auditor,,REP,Rich Sattgast,168
+Clay,3,State Auditor,,REP,Rich Sattgast,429
+Clay,C1,State Auditor,,REP,Rich Sattgast,77
+Clay,C2,State Auditor,,REP,Rich Sattgast,37
+Clay,E1,State Auditor,,REP,Rich Sattgast,106
+Clay,E2,State Auditor,,REP,Rich Sattgast,52
+Clay,S1,State Auditor,,REP,Rich Sattgast,291
+Clay,S2,State Auditor,,REP,Rich Sattgast,198
+Clay,W1,State Auditor,,REP,Rich Sattgast,193
+Clay,W2,State Auditor,,REP,Rich Sattgast,141
+Clay,1,State Auditor,,DEM,Tom Cool,110
+Clay,2,State Auditor,,DEM,Tom Cool,135
+Clay,3,State Auditor,,DEM,Tom Cool,414
+Clay,C1,State Auditor,,DEM,Tom Cool,242
+Clay,C2,State Auditor,,DEM,Tom Cool,119
+Clay,E1,State Auditor,,DEM,Tom Cool,141
+Clay,E2,State Auditor,,DEM,Tom Cool,74
+Clay,S1,State Auditor,,DEM,Tom Cool,385
+Clay,S2,State Auditor,,DEM,Tom Cool,308
+Clay,W1,State Auditor,,DEM,Tom Cool,282
+Clay,W2,State Auditor,,DEM,Tom Cool,172
+Clay,1,State Treasurer,,REP,Josh Haeder,215
+Clay,2,State Treasurer,,REP,Josh Haeder,162
+Clay,3,State Treasurer,,REP,Josh Haeder,414
+Clay,C1,State Treasurer,,REP,Josh Haeder,73
+Clay,C2,State Treasurer,,REP,Josh Haeder,33
+Clay,E1,State Treasurer,,REP,Josh Haeder,96
+Clay,E2,State Treasurer,,REP,Josh Haeder,55
+Clay,S1,State Treasurer,,REP,Josh Haeder,277
+Clay,S2,State Treasurer,,REP,Josh Haeder,188
+Clay,W1,State Treasurer,,REP,Josh Haeder,191
+Clay,W2,State Treasurer,,REP,Josh Haeder,132
+Clay,1,State Treasurer,,DEM,Aaron Matson,115
+Clay,2,State Treasurer,,DEM,Aaron Matson,141
+Clay,3,State Treasurer,,DEM,Aaron Matson,417
+Clay,C1,State Treasurer,,DEM,Aaron Matson,243
+Clay,C2,State Treasurer,,DEM,Aaron Matson,124
+Clay,E1,State Treasurer,,DEM,Aaron Matson,146
+Clay,E2,State Treasurer,,DEM,Aaron Matson,74
+Clay,S1,State Treasurer,,DEM,Aaron Matson,394
+Clay,S2,State Treasurer,,DEM,Aaron Matson,307
+Clay,W1,State Treasurer,,DEM,Aaron Matson,283
+Clay,W2,State Treasurer,,DEM,Aaron Matson,174
+Clay,1,Commissioner of School and Public Lands,,REP,Ryan Bruner,238
+Clay,2,Commissioner of School and Public Lands,,REP,Ryan Bruner,173
+Clay,3,Commissioner of School and Public Lands,,REP,Ryan Bruner,445
+Clay,C1,Commissioner of School and Public Lands,,REP,Ryan Bruner,78
+Clay,C2,Commissioner of School and Public Lands,,REP,Ryan Bruner,27
+Clay,E1,Commissioner of School and Public Lands,,REP,Ryan Bruner,92
+Clay,E2,Commissioner of School and Public Lands,,REP,Ryan Bruner,52
+Clay,S1,Commissioner of School and Public Lands,,REP,Ryan Bruner,286
+Clay,S2,Commissioner of School and Public Lands,,REP,Ryan Bruner,195
+Clay,W1,Commissioner of School and Public Lands,,REP,Ryan Bruner,181
+Clay,W2,Commissioner of School and Public Lands,,REP,Ryan Bruner,139
+Clay,1,Commissioner of School and Public Lands,,DEM,Woody Hauser,101
+Clay,2,Commissioner of School and Public Lands,,DEM,Woody Hauser,140
+Clay,3,Commissioner of School and Public Lands,,DEM,Woody Hauser,394
+Clay,C1,Commissioner of School and Public Lands,,DEM,Woody Hauser,235
+Clay,C2,Commissioner of School and Public Lands,,DEM,Woody Hauser,130
+Clay,E1,Commissioner of School and Public Lands,,DEM,Woody Hauser,151
+Clay,E2,Commissioner of School and Public Lands,,DEM,Woody Hauser,73
+Clay,S1,Commissioner of School and Public Lands,,DEM,Woody Hauser,380
+Clay,S2,Commissioner of School and Public Lands,,DEM,Woody Hauser,309
+Clay,W1,Commissioner of School and Public Lands,,DEM,Woody Hauser,286
+Clay,W2,Commissioner of School and Public Lands,,DEM,Woody Hauser,180
+Clay,1,Public Utilities Commissioner,,REP,Kristi Fiegen,236
+Clay,2,Public Utilities Commissioner,,REP,Kristi Fiegen,176
+Clay,3,Public Utilities Commissioner,,REP,Kristi Fiegen,465
+Clay,C1,Public Utilities Commissioner,,REP,Kristi Fiegen,78
+Clay,C2,Public Utilities Commissioner,,REP,Kristi Fiegen,32
+Clay,E1,Public Utilities Commissioner,,REP,Kristi Fiegen,119
+Clay,E2,Public Utilities Commissioner,,REP,Kristi Fiegen,57
+Clay,S1,Public Utilities Commissioner,,REP,Kristi Fiegen,302
+Clay,S2,Public Utilities Commissioner,,REP,Kristi Fiegen,210
+Clay,W1,Public Utilities Commissioner,,REP,Kristi Fiegen,204
+Clay,W2,Public Utilities Commissioner,,REP,Kristi Fiegen,158
+Clay,1,Public Utilities Commissioner,,DEM,Wayne Frederick,100
+Clay,2,Public Utilities Commissioner,,DEM,Wayne Frederick,130
+Clay,3,Public Utilities Commissioner,,DEM,Wayne Frederick,381
+Clay,C1,Public Utilities Commissioner,,DEM,Wayne Frederick,239
+Clay,C2,Public Utilities Commissioner,,DEM,Wayne Frederick,121
+Clay,E1,Public Utilities Commissioner,,DEM,Wayne Frederick,126
+Clay,E2,Public Utilities Commissioner,,DEM,Wayne Frederick,68
+Clay,S1,Public Utilities Commissioner,,DEM,Wayne Frederick,366
+Clay,S2,Public Utilities Commissioner,,DEM,Wayne Frederick,293
+Clay,W1,Public Utilities Commissioner,,DEM,Wayne Frederick,269
+Clay,W2,Public Utilities Commissioner,,DEM,Wayne Frederick,154
+Clay,1,State Senate,17,REP,Arthur Rusch,257
+Clay,2,State Senate,17,REP,Arthur Rusch,215
+Clay,3,State Senate,17,REP,Arthur Rusch,580
+Clay,C1,State Senate,17,REP,Arthur Rusch,120
+Clay,C2,State Senate,17,REP,Arthur Rusch,50
+Clay,E1,State Senate,17,REP,Arthur Rusch,127
+Clay,E2,State Senate,17,REP,Arthur Rusch,57
+Clay,S1,State Senate,17,REP,Arthur Rusch,411
+Clay,S2,State Senate,17,REP,Arthur Rusch,285
+Clay,W1,State Senate,17,REP,Arthur Rusch,255
+Clay,W2,State Senate,17,REP,Arthur Rusch,177
+Clay,1,State Senate,17,DEM,Howard Grinagar,87
+Clay,2,State Senate,17,DEM,Howard Grinagar,112
+Clay,3,State Senate,17,DEM,Howard Grinagar,305
+Clay,C1,State Senate,17,DEM,Howard Grinagar,208
+Clay,C2,State Senate,17,DEM,Howard Grinagar,109
+Clay,E1,State Senate,17,DEM,Howard Grinagar,126
+Clay,E2,State Senate,17,DEM,Howard Grinagar,69
+Clay,S1,State Senate,17,DEM,Howard Grinagar,307
+Clay,S2,State Senate,17,DEM,Howard Grinagar,245
+Clay,W1,State Senate,17,DEM,Howard Grinagar,231
+Clay,W2,State Senate,17,DEM,Howard Grinagar,150
+Clay,1,State House,17,LIB,Gregory Baldwin,32
+Clay,2,State House,17,LIB,Gregory Baldwin,27
+Clay,3,State House,17,LIB,Gregory Baldwin,70
+Clay,C1,State House,17,LIB,Gregory Baldwin,17
+Clay,C2,State House,17,LIB,Gregory Baldwin,17
+Clay,E1,State House,17,LIB,Gregory Baldwin,31
+Clay,E2,State House,17,LIB,Gregory Baldwin,20
+Clay,S1,State House,17,LIB,Gregory Baldwin,37
+Clay,S2,State House,17,LIB,Gregory Baldwin,45
+Clay,W1,State House,17,LIB,Gregory Baldwin,36
+Clay,W2,State House,17,LIB,Gregory Baldwin,36
+Clay,1,State House,17,REP,Nancy Rasmussen,228
+Clay,2,State House,17,REP,Nancy Rasmussen,176
+Clay,3,State House,17,REP,Nancy Rasmussen,403
+Clay,C1,State House,17,REP,Nancy Rasmussen,59
+Clay,C2,State House,17,REP,Nancy Rasmussen,35
+Clay,E1,State House,17,REP,Nancy Rasmussen,101
+Clay,E2,State House,17,REP,Nancy Rasmussen,51
+Clay,S1,State House,17,REP,Nancy Rasmussen,258
+Clay,S2,State House,17,REP,Nancy Rasmussen,170
+Clay,W1,State House,17,REP,Nancy Rasmussen,178
+Clay,W2,State House,17,REP,Nancy Rasmussen,129
+Clay,1,State House,17,DEM,Ray Ring,138
+Clay,2,State House,17,DEM,Ray Ring,164
+Clay,3,State House,17,DEM,Ray Ring,525
+Clay,C1,State House,17,DEM,Ray Ring,264
+Clay,C2,State House,17,DEM,Ray Ring,124
+Clay,E1,State House,17,DEM,Ray Ring,161
+Clay,E2,State House,17,DEM,Ray Ring,69
+Clay,S1,State House,17,DEM,Ray Ring,505
+Clay,S2,State House,17,DEM,Ray Ring,373
+Clay,W1,State House,17,DEM,Ray Ring,313
+Clay,W2,State House,17,DEM,Ray Ring,200
+Clay,1,State House,17,DEM,John Gors,152
+Clay,2,State House,17,DEM,John Gors,144
+Clay,3,State House,17,DEM,John Gors,486
+Clay,C1,State House,17,DEM,John Gors,234
+Clay,C2,State House,17,DEM,John Gors,98
+Clay,E1,State House,17,DEM,John Gors,136
+Clay,E2,State House,17,DEM,John Gors,58
+Clay,S1,State House,17,DEM,John Gors,440
+Clay,S2,State House,17,DEM,John Gors,326
+Clay,W1,State House,17,DEM,John Gors,285
+Clay,W2,State House,17,DEM,John Gors,177
