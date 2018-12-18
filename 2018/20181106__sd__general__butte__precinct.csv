@@ -1,0 +1,372 @@
+county,precinct,office,district,party,candidate,votes
+Butte,Precinct-06,US House,1,LIB,George D. Hendrickson,2
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",US House,1,LIB,George D. Hendrickson,4
+Butte,Precinct-11,US House,1,LIB,George D. Hendrickson,0
+Butte,Precinct-12,US House,1,LIB,George D. Hendrickson,0
+Butte,Precinct-16,US House,1,LIB,George D. Hendrickson,12
+Butte,Precinct-17,US House,1,LIB,George D. Hendrickson,8
+Butte,Precinct-18,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-20,US House,1,LIB,George D. Hendrickson,4
+Butte,Precinct-21,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-22,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-23,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-24,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-25,US House,1,LIB,George D. Hendrickson,1
+Butte,Precinct-26,US House,1,LIB,George D. Hendrickson,8
+Butte,Precinct-27,US House,1,LIB,George D. Hendrickson,2
+Butte,Precinct-28,US House,1,LIB,George D. Hendrickson,3
+Butte,Precinct-06,US House,1,REP,Dusty Johnson,36
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",US House,1,REP,Dusty Johnson,355
+Butte,Precinct-11,US House,1,REP,Dusty Johnson,53
+Butte,Precinct-12,US House,1,REP,Dusty Johnson,72
+Butte,Precinct-16,US House,1,REP,Dusty Johnson,480
+Butte,Precinct-17,US House,1,REP,Dusty Johnson,253
+Butte,Precinct-18,US House,1,REP,Dusty Johnson,62
+Butte,Precinct-20,US House,1,REP,Dusty Johnson,148
+Butte,Precinct-21,US House,1,REP,Dusty Johnson,130
+Butte,Precinct-22,US House,1,REP,Dusty Johnson,107
+Butte,Precinct-23,US House,1,REP,Dusty Johnson,124
+Butte,Precinct-24,US House,1,REP,Dusty Johnson,213
+Butte,Precinct-25,US House,1,REP,Dusty Johnson,235
+Butte,Precinct-26,US House,1,REP,Dusty Johnson,151
+Butte,Precinct-27,US House,1,REP,Dusty Johnson,156
+Butte,Precinct-28,US House,1,REP,Dusty Johnson,224
+Butte,Precinct-06,US House,1,DEM,Tim Bjorkman,4
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",US House,1,DEM,Tim Bjorkman,82
+Butte,Precinct-11,US House,1,DEM,Tim Bjorkman,10
+Butte,Precinct-12,US House,1,DEM,Tim Bjorkman,15
+Butte,Precinct-16,US House,1,DEM,Tim Bjorkman,132
+Butte,Precinct-17,US House,1,DEM,Tim Bjorkman,60
+Butte,Precinct-18,US House,1,DEM,Tim Bjorkman,29
+Butte,Precinct-20,US House,1,DEM,Tim Bjorkman,58
+Butte,Precinct-21,US House,1,DEM,Tim Bjorkman,52
+Butte,Precinct-22,US House,1,DEM,Tim Bjorkman,43
+Butte,Precinct-23,US House,1,DEM,Tim Bjorkman,50
+Butte,Precinct-24,US House,1,DEM,Tim Bjorkman,76
+Butte,Precinct-25,US House,1,DEM,Tim Bjorkman,60
+Butte,Precinct-26,US House,1,DEM,Tim Bjorkman,47
+Butte,Precinct-27,US House,1,DEM,Tim Bjorkman,41
+Butte,Precinct-28,US House,1,DEM,Tim Bjorkman,77
+Butte,Precinct-06,US House,1,IND,RonWieczorek,2
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",US House,1,IND,RonWieczorek,12
+Butte,Precinct-11,US House,1,IND,RonWieczorek,0
+Butte,Precinct-12,US House,1,IND,RonWieczorek,2
+Butte,Precinct-16,US House,1,IND,RonWieczorek,10
+Butte,Precinct-17,US House,1,IND,RonWieczorek,6
+Butte,Precinct-18,US House,1,IND,RonWieczorek,7
+Butte,Precinct-20,US House,1,IND,RonWieczorek,14
+Butte,Precinct-21,US House,1,IND,RonWieczorek,2
+Butte,Precinct-22,US House,1,IND,RonWieczorek,5
+Butte,Precinct-23,US House,1,IND,RonWieczorek,2
+Butte,Precinct-24,US House,1,IND,RonWieczorek,5
+Butte,Precinct-25,US House,1,IND,RonWieczorek,4
+Butte,Precinct-26,US House,1,IND,RonWieczorek,6
+Butte,Precinct-27,US House,1,IND,RonWieczorek,5
+Butte,Precinct-28,US House,1,IND,RonWieczorek,8
+Butte,Precinct-06,Governor,,LIB,Kurt Evans,0
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Governor,,LIB,Kurt Evans,9
+Butte,Precinct-11,Governor,,LIB,Kurt Evans,1
+Butte,Precinct-12,Governor,,LIB,Kurt Evans,0
+Butte,Precinct-16,Governor,,LIB,Kurt Evans,12
+Butte,Precinct-17,Governor,,LIB,Kurt Evans,8
+Butte,Precinct-18,Governor,,LIB,Kurt Evans,2
+Butte,Precinct-20,Governor,,LIB,Kurt Evans,4
+Butte,Precinct-21,Governor,,LIB,Kurt Evans,5
+Butte,Precinct-22,Governor,,LIB,Kurt Evans,3
+Butte,Precinct-23,Governor,,LIB,Kurt Evans,4
+Butte,Precinct-24,Governor,,LIB,Kurt Evans,1
+Butte,Precinct-25,Governor,,LIB,Kurt Evans,3
+Butte,Precinct-26,Governor,,LIB,Kurt Evans,7
+Butte,Precinct-27,Governor,,LIB,Kurt Evans,5
+Butte,Precinct-28,Governor,,LIB,Kurt Evans,5
+Butte,Precinct-06,Governor,,REP,Kristi Noem,36
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Governor,,REP,Kristi Noem,321
+Butte,Precinct-11,Governor,,REP,Kristi Noem,50
+Butte,Precinct-12,Governor,,REP,Kristi Noem,68
+Butte,Precinct-16,Governor,,REP,Kristi Noem,428
+Butte,Precinct-17,Governor,,REP,Kristi Noem,229
+Butte,Precinct-18,Governor,,REP,Kristi Noem,73
+Butte,Precinct-20,Governor,,REP,Kristi Noem,131
+Butte,Precinct-21,Governor,,REP,Kristi Noem,121
+Butte,Precinct-22,Governor,,REP,Kristi Noem,96
+Butte,Precinct-23,Governor,,REP,Kristi Noem,105
+Butte,Precinct-24,Governor,,REP,Kristi Noem,191
+Butte,Precinct-25,Governor,,REP,Kristi Noem,209
+Butte,Precinct-26,Governor,,REP,Kristi Noem,129
+Butte,Precinct-27,Governor,,REP,Kristi Noem,136
+Butte,Precinct-28,Governor,,REP,Kristi Noem,182
+Butte,Precinct-06,Governor,,DEM,Billie Sutton,9
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Governor,,DEM,Billie Sutton,134
+Butte,Precinct-11,Governor,,DEM,Billie Sutton,12
+Butte,Precinct-12,Governor,,DEM,Billie Sutton,21
+Butte,Precinct-16,Governor,,DEM,Billie Sutton,193
+Butte,Precinct-17,Governor,,DEM,Billie Sutton,90
+Butte,Precinct-18,Governor,,DEM,Billie Sutton,29
+Butte,Precinct-20,Governor,,DEM,Billie Sutton,91
+Butte,Precinct-21,Governor,,DEM,Billie Sutton,63
+Butte,Precinct-22,Governor,,DEM,Billie Sutton,59
+Butte,Precinct-23,Governor,,DEM,Billie Sutton,69
+Butte,Precinct-24,Governor,,DEM,Billie Sutton,104
+Butte,Precinct-25,Governor,,DEM,Billie Sutton,90
+Butte,Precinct-26,Governor,,DEM,Billie Sutton,76
+Butte,Precinct-27,Governor,,DEM,Billie Sutton,66
+Butte,Precinct-28,Governor,,DEM,Billie Sutton,128
+Butte,Precinct-06,Secretary of State,,REP,Steve Barnett,38
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Secretary of State,,REP,Steve Barnett,383
+Butte,Precinct-11,Secretary of State,,REP,Steve Barnett,54
+Butte,Precinct-12,Secretary of State,,REP,Steve Barnett,77
+Butte,Precinct-16,Secretary of State,,REP,Steve Barnett,493
+Butte,Precinct-17,Secretary of State,,REP,Steve Barnett,266
+Butte,Precinct-18,Secretary of State,,REP,Steve Barnett,74
+Butte,Precinct-20,Secretary of State,,REP,Steve Barnett,155
+Butte,Precinct-21,Secretary of State,,REP,Steve Barnett,127
+Butte,Precinct-22,Secretary of State,,REP,Steve Barnett,105
+Butte,Precinct-23,Secretary of State,,REP,Steve Barnett,132
+Butte,Precinct-24,Secretary of State,,REP,Steve Barnett,210
+Butte,Precinct-25,Secretary of State,,REP,Steve Barnett,238
+Butte,Precinct-26,Secretary of State,,REP,Steve Barnett,153
+Butte,Precinct-27,Secretary of State,,REP,Steve Barnett,167
+Butte,Precinct-28,Secretary of State,,REP,Steve Barnett,236
+Butte,Precinct-06,Secretary of State,,DEM,Alexandra Frederick,4
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Secretary of State,,DEM,Alexandra Frederick,64
+Butte,Precinct-11,Secretary of State,,DEM,Alexandra Frederick,7
+Butte,Precinct-12,Secretary of State,,DEM,Alexandra Frederick,12
+Butte,Precinct-16,Secretary of State,,DEM,Alexandra Frederick,116
+Butte,Precinct-17,Secretary of State,,DEM,Alexandra Frederick,59
+Butte,Precinct-18,Secretary of State,,DEM,Alexandra Frederick,26
+Butte,Precinct-20,Secretary of State,,DEM,Alexandra Frederick,62
+Butte,Precinct-21,Secretary of State,,DEM,Alexandra Frederick,49
+Butte,Precinct-22,Secretary of State,,DEM,Alexandra Frederick,47
+Butte,Precinct-23,Secretary of State,,DEM,Alexandra Frederick,43
+Butte,Precinct-24,Secretary of State,,DEM,Alexandra Frederick,78
+Butte,Precinct-25,Secretary of State,,DEM,Alexandra Frederick,58
+Butte,Precinct-26,Secretary of State,,DEM,Alexandra Frederick,50
+Butte,Precinct-27,Secretary of State,,DEM,Alexandra Frederick,29
+Butte,Precinct-28,Secretary of State,,DEM,Alexandra Frederick,75
+Butte,Precinct-06,Attorney General,,REP,Jason Ravnsborg,38
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Attorney General,,REP,Jason Ravnsborg,349
+Butte,Precinct-11,Attorney General,,REP,Jason Ravnsborg,49
+Butte,Precinct-12,Attorney General,,REP,Jason Ravnsborg,70
+Butte,Precinct-16,Attorney General,,REP,Jason Ravnsborg,470
+Butte,Precinct-17,Attorney General,,REP,Jason Ravnsborg,243
+Butte,Precinct-18,Attorney General,,REP,Jason Ravnsborg,70
+Butte,Precinct-20,Attorney General,,REP,Jason Ravnsborg,139
+Butte,Precinct-21,Attorney General,,REP,Jason Ravnsborg,118
+Butte,Precinct-22,Attorney General,,REP,Jason Ravnsborg,94
+Butte,Precinct-23,Attorney General,,REP,Jason Ravnsborg,121
+Butte,Precinct-24,Attorney General,,REP,Jason Ravnsborg,196
+Butte,Precinct-25,Attorney General,,REP,Jason Ravnsborg,212
+Butte,Precinct-26,Attorney General,,REP,Jason Ravnsborg,139
+Butte,Precinct-27,Attorney General,,REP,Jason Ravnsborg,142
+Butte,Precinct-28,Attorney General,,REP,Jason Ravnsborg,215
+Butte,Precinct-06,Attorney General,,DEM,Randy Seller,4
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Attorney General,,DEM,Randy Seller,96
+Butte,Precinct-11,Attorney General,,DEM,Randy Seller,9
+Butte,Precinct-12,Attorney General,,DEM,Randy Seller,19
+Butte,Precinct-16,Attorney General,,DEM,Randy Seller,150
+Butte,Precinct-17,Attorney General,,DEM,Randy Seller,76
+Butte,Precinct-18,Attorney General,,DEM,Randy Seller,29
+Butte,Precinct-20,Attorney General,,DEM,Randy Seller,78
+Butte,Precinct-21,Attorney General,,DEM,Randy Seller,61
+Butte,Precinct-22,Attorney General,,DEM,Randy Seller,59
+Butte,Precinct-23,Attorney General,,DEM,Randy Seller,56
+Butte,Precinct-24,Attorney General,,DEM,Randy Seller,94
+Butte,Precinct-25,Attorney General,,DEM,Randy Seller,81
+Butte,Precinct-26,Attorney General,,DEM,Randy Seller,63
+Butte,Precinct-27,Attorney General,,DEM,Randy Seller,57
+Butte,Precinct-28,Attorney General,,DEM,Randy Seller,92
+Butte,Precinct-06,State Auditor,,REP,Rich Sattgast,38
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",State Auditor,,REP,Rich Sattgast,367
+Butte,Precinct-11,State Auditor,,REP,Rich Sattgast,53
+Butte,Precinct-12,State Auditor,,REP,Rich Sattgast,74
+Butte,Precinct-16,State Auditor,,REP,Rich Sattgast,490
+Butte,Precinct-17,State Auditor,,REP,Rich Sattgast,254
+Butte,Precinct-18,State Auditor,,REP,Rich Sattgast,70
+Butte,Precinct-20,State Auditor,,REP,Rich Sattgast,143
+Butte,Precinct-21,State Auditor,,REP,Rich Sattgast,128
+Butte,Precinct-22,State Auditor,,REP,Rich Sattgast,98
+Butte,Precinct-23,State Auditor,,REP,Rich Sattgast,133
+Butte,Precinct-24,State Auditor,,REP,Rich Sattgast,206
+Butte,Precinct-25,State Auditor,,REP,Rich Sattgast,231
+Butte,Precinct-26,State Auditor,,REP,Rich Sattgast,143
+Butte,Precinct-27,State Auditor,,REP,Rich Sattgast,163
+Butte,Precinct-28,State Auditor,,REP,Rich Sattgast,233
+Butte,Precinct-06,State Auditor,,DEM,Tom Cool,2
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",State Auditor,,DEM,Tom Cool,72
+Butte,Precinct-11,State Auditor,,DEM,Tom Cool,7
+Butte,Precinct-12,State Auditor,,DEM,Tom Cool,13
+Butte,Precinct-16,State Auditor,,DEM,Tom Cool,114
+Butte,Precinct-17,State Auditor,,DEM,Tom Cool,65
+Butte,Precinct-18,State Auditor,,DEM,Tom Cool,28
+Butte,Precinct-20,State Auditor,,DEM,Tom Cool,69
+Butte,Precinct-21,State Auditor,,DEM,Tom Cool,49
+Butte,Precinct-22,State Auditor,,DEM,Tom Cool,52
+Butte,Precinct-23,State Auditor,,DEM,Tom Cool,41
+Butte,Precinct-24,State Auditor,,DEM,Tom Cool,82
+Butte,Precinct-25,State Auditor,,DEM,Tom Cool,57
+Butte,Precinct-26,State Auditor,,DEM,Tom Cool,54
+Butte,Precinct-27,State Auditor,,DEM,Tom Cool,30
+Butte,Precinct-28,State Auditor,,DEM,Tom Cool,69
+Butte,Precinct-06,State Treasurer,,REP,Josh Haeder,38
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",State Treasurer,,REP,Josh Haeder,355
+Butte,Precinct-11,State Treasurer,,REP,Josh Haeder,52
+Butte,Precinct-12,State Treasurer,,REP,Josh Haeder,76
+Butte,Precinct-16,State Treasurer,,REP,Josh Haeder,473
+Butte,Precinct-17,State Treasurer,,REP,Josh Haeder,261
+Butte,Precinct-18,State Treasurer,,REP,Josh Haeder,67
+Butte,Precinct-20,State Treasurer,,REP,Josh Haeder,145
+Butte,Precinct-21,State Treasurer,,REP,Josh Haeder,122
+Butte,Precinct-22,State Treasurer,,REP,Josh Haeder,97
+Butte,Precinct-23,State Treasurer,,REP,Josh Haeder,132
+Butte,Precinct-24,State Treasurer,,REP,Josh Haeder,203
+Butte,Precinct-25,State Treasurer,,REP,Josh Haeder,230
+Butte,Precinct-26,State Treasurer,,REP,Josh Haeder,150
+Butte,Precinct-27,State Treasurer,,REP,Josh Haeder,157
+Butte,Precinct-28,State Treasurer,,REP,Josh Haeder,225
+Butte,Precinct-06,State Treasurer,,DEM,Aaron Matson,2
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",State Treasurer,,DEM,Aaron Matson,72
+Butte,Precinct-11,State Treasurer,,DEM,Aaron Matson,8
+Butte,Precinct-12,State Treasurer,,DEM,Aaron Matson,12
+Butte,Precinct-16,State Treasurer,,DEM,Aaron Matson,119
+Butte,Precinct-17,State Treasurer,,DEM,Aaron Matson,55
+Butte,Precinct-18,State Treasurer,,DEM,Aaron Matson,28
+Butte,Precinct-20,State Treasurer,,DEM,Aaron Matson,65
+Butte,Precinct-21,State Treasurer,,DEM,Aaron Matson,53
+Butte,Precinct-22,State Treasurer,,DEM,Aaron Matson,52
+Butte,Precinct-23,State Treasurer,,DEM,Aaron Matson,43
+Butte,Precinct-24,State Treasurer,,DEM,Aaron Matson,82
+Butte,Precinct-25,State Treasurer,,DEM,Aaron Matson,57
+Butte,Precinct-26,State Treasurer,,DEM,Aaron Matson,51
+Butte,Precinct-27,State Treasurer,,DEM,Aaron Matson,37
+Butte,Precinct-28,State Treasurer,,DEM,Aaron Matson,80
+Butte,Precinct-06,Commissioner of School and Public Lands,,REP,Ryan Brunner,43
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Commissioner of School and Public Lands,,REP,Ryan Brunner,388
+Butte,Precinct-11,Commissioner of School and Public Lands,,REP,Ryan Brunner,53
+Butte,Precinct-12,Commissioner of School and Public Lands,,REP,Ryan Brunner,76
+Butte,Precinct-16,Commissioner of School and Public Lands,,REP,Ryan Brunner,504
+Butte,Precinct-17,Commissioner of School and Public Lands,,REP,Ryan Brunner,262
+Butte,Precinct-18,Commissioner of School and Public Lands,,REP,Ryan Brunner,77
+Butte,Precinct-20,Commissioner of School and Public Lands,,REP,Ryan Brunner,175
+Butte,Precinct-21,Commissioner of School and Public Lands,,REP,Ryan Brunner,135
+Butte,Precinct-22,Commissioner of School and Public Lands,,REP,Ryan Brunner,110
+Butte,Precinct-23,Commissioner of School and Public Lands,,REP,Ryan Brunner,136
+Butte,Precinct-24,Commissioner of School and Public Lands,,REP,Ryan Brunner,204
+Butte,Precinct-25,Commissioner of School and Public Lands,,REP,Ryan Brunner,238
+Butte,Precinct-26,Commissioner of School and Public Lands,,REP,Ryan Brunner,150
+Butte,Precinct-27,Commissioner of School and Public Lands,,REP,Ryan Brunner,165
+Butte,Precinct-28,Commissioner of School and Public Lands,,REP,Ryan Brunner,237
+Butte,Precinct-06,Commissioner of School and Public Lands,,DEM,Woody Houser,1
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Commissioner of School and Public Lands,,DEM,Woody Houser,59
+Butte,Precinct-11,Commissioner of School and Public Lands,,DEM,Woody Houser,9
+Butte,Precinct-12,Commissioner of School and Public Lands,,DEM,Woody Houser,12
+Butte,Precinct-16,Commissioner of School and Public Lands,,DEM,Woody Houser,117
+Butte,Precinct-17,Commissioner of School and Public Lands,,DEM,Woody Houser,55
+Butte,Precinct-18,Commissioner of School and Public Lands,,DEM,Woody Houser,22
+Butte,Precinct-20,Commissioner of School and Public Lands,,DEM,Woody Houser,44
+Butte,Precinct-21,Commissioner of School and Public Lands,,DEM,Woody Houser,47
+Butte,Precinct-22,Commissioner of School and Public Lands,,DEM,Woody Houser,45
+Butte,Precinct-23,Commissioner of School and Public Lands,,DEM,Woody Houser,42
+Butte,Precinct-24,Commissioner of School and Public Lands,,DEM,Woody Houser,82
+Butte,Precinct-25,Commissioner of School and Public Lands,,DEM,Woody Houser,53
+Butte,Precinct-26,Commissioner of School and Public Lands,,DEM,Woody Houser,54
+Butte,Precinct-27,Commissioner of School and Public Lands,,DEM,Woody Houser,30
+Butte,Precinct-28,Commissioner of School and Public Lands,,DEM,Woody Houser,70
+Butte,Precinct-06,Public Utilities Commissioner,,REP,Kristie Fiegen,37
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Public Utilities Commissioner,,REP,Kristie Fiegen,350
+Butte,Precinct-11,Public Utilities Commissioner,,REP,Kristie Fiegen,51
+Butte,Precinct-12,Public Utilities Commissioner,,REP,Kristie Fiegen,75
+Butte,Precinct-16,Public Utilities Commissioner,,REP,Kristie Fiegen,476
+Butte,Precinct-17,Public Utilities Commissioner,,REP,Kristie Fiegen,246
+Butte,Precinct-18,Public Utilities Commissioner,,REP,Kristie Fiegen,75
+Butte,Precinct-20,Public Utilities Commissioner,,REP,Kristie Fiegen,147
+Butte,Precinct-21,Public Utilities Commissioner,,REP,Kristie Fiegen,121
+Butte,Precinct-22,Public Utilities Commissioner,,REP,Kristie Fiegen,101
+Butte,Precinct-23,Public Utilities Commissioner,,REP,Kristie Fiegen,130
+Butte,Precinct-24,Public Utilities Commissioner,,REP,Kristie Fiegen,203
+Butte,Precinct-25,Public Utilities Commissioner,,REP,Kristie Fiegen,221
+Butte,Precinct-26,Public Utilities Commissioner,,REP,Kristie Fiegen,144
+Butte,Precinct-27,Public Utilities Commissioner,,REP,Kristie Fiegen,161
+Butte,Precinct-28,Public Utilities Commissioner,,REP,Kristie Fiegen,226
+Butte,Precinct-06,Public Utilities Commissioner,,DEM,Wayne Frederick,3
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",Public Utilities Commissioner,,DEM,Wayne Frederick,76
+Butte,Precinct-11,Public Utilities Commissioner,,DEM,Wayne Frederick,9
+Butte,Precinct-12,Public Utilities Commissioner,,DEM,Wayne Frederick,12
+Butte,Precinct-16,Public Utilities Commissioner,,DEM,Wayne Frederick,120
+Butte,Precinct-17,Public Utilities Commissioner,,DEM,Wayne Frederick,63
+Butte,Precinct-18,Public Utilities Commissioner,,DEM,Wayne Frederick,21
+Butte,Precinct-20,Public Utilities Commissioner,,DEM,Wayne Frederick,60
+Butte,Precinct-21,Public Utilities Commissioner,,DEM,Wayne Frederick,54
+Butte,Precinct-22,Public Utilities Commissioner,,DEM,Wayne Frederick,49
+Butte,Precinct-23,Public Utilities Commissioner,,DEM,Wayne Frederick,43
+Butte,Precinct-24,Public Utilities Commissioner,,DEM,Wayne Frederick,80
+Butte,Precinct-25,Public Utilities Commissioner,,DEM,Wayne Frederick,62
+Butte,Precinct-26,Public Utilities Commissioner,,DEM,Wayne Frederick,52
+Butte,Precinct-27,Public Utilities Commissioner,,DEM,Wayne Frederick,29
+Butte,Precinct-28,Public Utilities Commissioner,,DEM,Wayne Frederick,74
+Butte,Precinct-06,State Senate,28,REP,Ryan Maher,44
+Butte,"Precinct-08 (Precinct-13, Precinct-14)",State Senate,28,REP,Ryan Maher,
+Butte,Precinct-11,State Senate,28,REP,Ryan Maher,54
+Butte,Precinct-16,State Senate,28,REP,Ryan Maher,500
+Butte,Precinct-17,State Senate,28,REP,Ryan Maher,268
+Butte,Precinct-21,State Senate,28,REP,Ryan Maher,125
+Butte,Precinct-22,State Senate,28,REP,Ryan Maher,104
+Butte,Precinct-23,State Senate,28,REP,Ryan Maher,129
+Butte,Precinct-24,State Senate,28,REP,Ryan Maher,209
+Butte,Precinct-25,State Senate,28,REP,Ryan Maher,242
+Butte,Precinct-26,State Senate,28,REP,Ryan Maher,150
+Butte,Precinct-27,State Senate,28,REP,Ryan Maher,166
+Butte,Precinct-28,State Senate,28,REP,Ryan Maher,237
+Butte,Precinct-06,State Senate,28,DEM,Alli Moran,1
+Butte,Precinct-11,State Senate,28,DEM,Alli Moran,8
+Butte,Precinct-16,State Senate,28,DEM,Alli Moran,114
+Butte,Precinct-17,State Senate,28,DEM,Alli Moran,51
+Butte,Precinct-21,State Senate,28,DEM,Alli Moran,49
+Butte,Precinct-22,State Senate,28,DEM,Alli Moran,46
+Butte,Precinct-23,State Senate,28,DEM,Alli Moran,43
+Butte,Precinct-24,State Senate,28,DEM,Alli Moran,80
+Butte,Precinct-25,State Senate,28,DEM,Alli Moran,51
+Butte,Precinct-26,State Senate,28,DEM,Alli Moran,54
+Butte,Precinct-27,State Senate,28,DEM,Alli Moran,29
+Butte,Precinct-28,State Senate,28,DEM,Alli Moran,72
+Butte,Precinct-12,State Senate,29,REP,Gary Cammack,68
+Butte,Precinct-18,State Senate,29,REP,Gary Cammack,72
+Butte,Precinct-20,State Senate,29,REP,Gary Cammack,158
+Butte,Precinct-12,State Senate,29,DEM,Matt Kammerer,18
+Butte,Precinct-18,State Senate,29,DEM,Matt Kammerer,30
+Butte,Precinct-20,State Senate,29,DEM,Matt Kammerer,57
+Butte,Precinct-06,State House,28B,LIB,Jason Hill,2
+Butte,Precinct-11,State House,28B,LIB,Jason Hill,8
+Butte,Precinct-16,State House,28B,LIB,Jason Hill,108
+Butte,Precinct-17,State House,28B,LIB,Jason Hill,52
+Butte,Precinct-21,State House,28B,LIB,Jason Hill,40
+Butte,Precinct-22,State House,28B,LIB,Jason Hill,41
+Butte,Precinct-23,State House,28B,LIB,Jason Hill,34
+Butte,Precinct-24,State House,28B,LIB,Jason Hill,55
+Butte,Precinct-25,State House,28B,LIB,Jason Hill,41
+Butte,Precinct-26,State House,28B,LIB,Jason Hill,45
+Butte,Precinct-27,State House,28B,LIB,Jason Hill,27
+Butte,Precinct-28,State House,28B,LIB,Jason Hill,51
+Butte,Precinct-06,State House,28B,REP,Sam Marty,43
+Butte,Precinct-11,State House,28B,REP,Sam Marty,54
+Butte,Precinct-16,State House,28B,REP,Sam Marty,479
+Butte,Precinct-17,State House,28B,REP,Sam Marty,254
+Butte,Precinct-21,State House,28B,REP,Sam Marty,132
+Butte,Precinct-22,State House,28B,REP,Sam Marty,102
+Butte,Precinct-23,State House,28B,REP,Sam Marty,137
+Butte,Precinct-24,State House,28B,REP,Sam Marty,217
+Butte,Precinct-25,State House,28B,REP,Sam Marty,230
+Butte,Precinct-26,State House,28B,REP,Sam Marty,142
+Butte,Precinct-27,State House,28B,REP,Sam Marty,161
+Butte,Precinct-28,State House,28B,REP,Sam Marty,241
+Butte,Precinct-12,State House,29,REP,Kirk Chaffee,60
+Butte,Precinct-18,State House,29,REP,Kirk Chaffee,51
+Butte,Precinct-20,State House,29,REP,Kirk Chaffee,118
+Butte,Precinct-12,State House,29,REP,Thomas Brunner,69
+Butte,Precinct-18,State House,29,REP,Thomas Brunner,73
+Butte,Precinct-20,State House,29,REP,Thomas Brunner,139
+Butte,Precinct-12,State House,29,DEM,Michael McManus,8
+Butte,Precinct-18,State House,29,DEM,Michael McManus,18
+Butte,Precinct-20,State House,29,DEM,Michael McManus,53
+Butte,Precinct-12,State House,29,DEM,Jade Addison,11
+Butte,Precinct-18,State House,29,DEM,Jade Addison,19
+Butte,Precinct-20,State House,29,DEM,Jade Addison,55
