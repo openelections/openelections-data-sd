@@ -1,0 +1,957 @@
+county,precinct,office,district,party,candidate,vote
+Meade,EAST STURGIS #1,US House,1,Lbt,George Hendrickson,3
+Meade,SOUTHEAST STURGIS #2,US House,1,Lbt,George Hendrickson,7
+Meade,CENTRAL STURGIS #3,US House,1,Lbt,George Hendrickson,4
+Meade,WEST STURGIS #4,US House,1,Lbt,George Hendrickson,6
+Meade,NORTHWEST STURGIS #5,US House,1,Lbt,George Hendrickson,12
+Meade,TILFORD #6,US House,1,Lbt,George Hendrickson,4
+Meade,RURAL STURGIS #7,US House,1,Lbt,George Hendrickson,4
+Meade,HARMONY #8,US House,1,Lbt,George Hendrickson,7
+Meade,BEAR BUTTE #9,US House,1,Lbt,George Hendrickson,7
+Meade,SUMMERSET #10,US House,1,Lbt,George Hendrickson,17
+Meade,PIEDMONT #11,US House,1,Lbt,George Hendrickson,11
+Meade,EAST PIEDMONT #12,US House,1,Lbt,George Hendrickson,5
+Meade,SOUTHEAST PIEDMONT #13,US House,1,Lbt,George Hendrickson,20
+Meade,BLACK HAWK #14,US House,1,Lbt,George Hendrickson,15
+Meade,RURAL BLACK HAWK #15,US House,1,Lbt,George Hendrickson,5
+Meade,WEST BLACK HAWK #16,US House,1,Lbt,George Hendrickson,7
+Meade,VIEWFIELD #17,US House,1,Lbt,George Hendrickson,0
+Meade,ELM SPRINGS #18,US House,1,Lbt,George Hendrickson,3
+Meade,CENTRAL BLACK HAWK #19,US House,1,Lbt,George Hendrickson,10
+Meade,HEREFORD #20,US House,1,Lbt,George Hendrickson,0
+Meade,ELK VALE #21,US House,1,Lbt,George Hendrickson,10
+Meade,BASE #23,US House,1,Lbt,George Hendrickson,6
+Meade,WEST ELK VALE #24,US House,1,Lbt,George Hendrickson,4
+Meade,WHITE OWL #25,US House,1,Lbt,George Hendrickson,1
+Meade,CHALK BUTTE #27,US House,1,Lbt,George Hendrickson,3
+Meade,FAIRPOINT #29,US House,1,Lbt,George Hendrickson,0
+Meade,RED OWL #30,US House,1,Lbt,George Hendrickson,0
+Meade,FAITH #31,US House,1,Lbt,George Hendrickson,2
+Meade,PINE #33,US House,1,Lbt,George Hendrickson,5
+Meade,SULPHUR #35,US House,1,Lbt,George Hendrickson,1
+Meade,UNION #40,US House,1,Lbt,George Hendrickson,1
+Meade,MARCUS #41,US House,1,Lbt,George Hendrickson,5
+Meade,NORTHEAST STURGIS #1A,US House,1,Lbt,George Hendrickson,5
+Meade,SOUTH STURGIS #2A,US House,1,Lbt,George Hendrickson,7
+Meade,SOUTHWEST STURGIS #4A,US House,1,Lbt,George Hendrickson,4
+Meade,STURGIS #5A,US House,1,Lbt,George Hendrickson,1
+Meade,ALKALI #6A,US House,1,Lbt,George Hendrickson,3
+Meade,MEADE SD,US House,1,Lbt,George Hendrickson,205
+Meade,EAST STURGIS #1,US House,1,Rep,Dusty Johnson,144
+Meade,SOUTHEAST STURGIS #2,US House,1,Rep,Dusty Johnson,284
+Meade,CENTRAL STURGIS #3,US House,1,Rep,Dusty Johnson,119
+Meade,WEST STURGIS #4,US House,1,Rep,Dusty Johnson,83
+Meade,NORTHWEST STURGIS #5,US House,1,Rep,Dusty Johnson,259
+Meade,TILFORD #6,US House,1,Rep,Dusty Johnson,459
+Meade,RURAL STURGIS #7,US House,1,Rep,Dusty Johnson,223
+Meade,HARMONY #8,US House,1,Rep,Dusty Johnson,206
+Meade,BEAR BUTTE #9,US House,1,Rep,Dusty Johnson,101
+Meade,SUMMERSET #10,US House,1,Rep,Dusty Johnson,605
+Meade,PIEDMONT #11,US House,1,Rep,Dusty Johnson,475
+Meade,EAST PIEDMONT #12,US House,1,Rep,Dusty Johnson,605
+Meade,SOUTHEAST PIEDMONT #13,US House,1,Rep,Dusty Johnson,655
+Meade,BLACK HAWK #14,US House,1,Rep,Dusty Johnson,330
+Meade,RURAL BLACK HAWK #15,US House,1,Rep,Dusty Johnson,245
+Meade,WEST BLACK HAWK #16,US House,1,Rep,Dusty Johnson,209
+Meade,VIEWFIELD #17,US House,1,Rep,Dusty Johnson,67
+Meade,ELM SPRINGS #18,US House,1,Rep,Dusty Johnson,65
+Meade,CENTRAL BLACK HAWK #19,US House,1,Rep,Dusty Johnson,303
+Meade,HEREFORD #20,US House,1,Rep,Dusty Johnson,38
+Meade,ELK VALE #21,US House,1,Rep,Dusty Johnson,224
+Meade,BASE #23,US House,1,Rep,Dusty Johnson,132
+Meade,WEST ELK VALE #24,US House,1,Rep,Dusty Johnson,128
+Meade,WHITE OWL #25,US House,1,Rep,Dusty Johnson,31
+Meade,CHALK BUTTE #27,US House,1,Rep,Dusty Johnson,99
+Meade,FAIRPOINT #29,US House,1,Rep,Dusty Johnson,28
+Meade,RED OWL #30,US House,1,Rep,Dusty Johnson,70
+Meade,FAITH #31,US House,1,Rep,Dusty Johnson,189
+Meade,PINE #33,US House,1,Rep,Dusty Johnson,57
+Meade,SULPHUR #35,US House,1,Rep,Dusty Johnson,41
+Meade,UNION #40,US House,1,Rep,Dusty Johnson,25
+Meade,MARCUS #41,US House,1,Rep,Dusty Johnson,36
+Meade,NORTHEAST STURGIS #1A,US House,1,Rep,Dusty Johnson,54
+Meade,SOUTH STURGIS #2A,US House,1,Rep,Dusty Johnson,197
+Meade,SOUTHWEST STURGIS #4A,US House,1,Rep,Dusty Johnson,171
+Meade,STURGIS #5A,US House,1,Rep,Dusty Johnson,109
+Meade,ALKALI #6A,US House,1,Rep,Dusty Johnson,94
+Meade,MEADE SD,US House,1,Rep,Dusty Johnson,"7,160"
+Meade,EAST STURGIS #1,US House,1,Dem,Tim Bjorkman,53
+Meade,SOUTHEAST STURGIS #2,US House,1,Dem,Tim Bjorkman,121
+Meade,CENTRAL STURGIS #3,US House,1,Dem,Tim Bjorkman,65
+Meade,WEST STURGIS #4,US House,1,Dem,Tim Bjorkman,33
+Meade,NORTHWEST STURGIS #5,US House,1,Dem,Tim Bjorkman,111
+Meade,TILFORD #6,US House,1,Dem,Tim Bjorkman,165
+Meade,RURAL STURGIS #7,US House,1,Dem,Tim Bjorkman,74
+Meade,HARMONY #8,US House,1,Dem,Tim Bjorkman,75
+Meade,BEAR BUTTE #9,US House,1,Dem,Tim Bjorkman,26
+Meade,SUMMERSET #10,US House,1,Dem,Tim Bjorkman,219
+Meade,PIEDMONT #11,US House,1,Dem,Tim Bjorkman,169
+Meade,EAST PIEDMONT #12,US House,1,Dem,Tim Bjorkman,163
+Meade,SOUTHEAST PIEDMONT #13,US House,1,Dem,Tim Bjorkman,211
+Meade,BLACK HAWK #14,US House,1,Dem,Tim Bjorkman,132
+Meade,RURAL BLACK HAWK #15,US House,1,Dem,Tim Bjorkman,85
+Meade,WEST BLACK HAWK #16,US House,1,Dem,Tim Bjorkman,101
+Meade,VIEWFIELD #17,US House,1,Dem,Tim Bjorkman,16
+Meade,ELM SPRINGS #18,US House,1,Dem,Tim Bjorkman,11
+Meade,CENTRAL BLACK HAWK #19,US House,1,Dem,Tim Bjorkman,127
+Meade,HEREFORD #20,US House,1,Dem,Tim Bjorkman,13
+Meade,ELK VALE #21,US House,1,Dem,Tim Bjorkman,68
+Meade,BASE #23,US House,1,Dem,Tim Bjorkman,87
+Meade,WEST ELK VALE #24,US House,1,Dem,Tim Bjorkman,34
+Meade,WHITE OWL #25,US House,1,Dem,Tim Bjorkman,3
+Meade,CHALK BUTTE #27,US House,1,Dem,Tim Bjorkman,17
+Meade,FAIRPOINT #29,US House,1,Dem,Tim Bjorkman,5
+Meade,RED OWL #30,US House,1,Dem,Tim Bjorkman,3
+Meade,FAITH #31,US House,1,Dem,Tim Bjorkman,26
+Meade,PINE #33,US House,1,Dem,Tim Bjorkman,8
+Meade,SULPHUR #35,US House,1,Dem,Tim Bjorkman,0
+Meade,UNION #40,US House,1,Dem,Tim Bjorkman,8
+Meade,MARCUS #41,US House,1,Dem,Tim Bjorkman,9
+Meade,NORTHEAST STURGIS #1A,US House,1,Dem,Tim Bjorkman,47
+Meade,SOUTH STURGIS #2A,US House,1,Dem,Tim Bjorkman,96
+Meade,SOUTHWEST STURGIS #4A,US House,1,Dem,Tim Bjorkman,60
+Meade,STURGIS #5A,US House,1,Dem,Tim Bjorkman,41
+Meade,ALKALI #6A,US House,1,Dem,Tim Bjorkman,26
+Meade,MEADE SD,US House,1,Dem,Tim Bjorkman,"2,508"
+Meade,EAST STURGIS #1,US House,1,Ind,Ron Wieczorek,6
+Meade,SOUTHEAST STURGIS #2,US House,1,Ind,Ron Wieczorek,12
+Meade,CENTRAL STURGIS #3,US House,1,Ind,Ron Wieczorek,10
+Meade,WEST STURGIS #4,US House,1,Ind,Ron Wieczorek,3
+Meade,NORTHWEST STURGIS #5,US House,1,Ind,Ron Wieczorek,18
+Meade,TILFORD #6,US House,1,Ind,Ron Wieczorek,17
+Meade,RURAL STURGIS #7,US House,1,Ind,Ron Wieczorek,5
+Meade,HARMONY #8,US House,1,Ind,Ron Wieczorek,7
+Meade,BEAR BUTTE #9,US House,1,Ind,Ron Wieczorek,6
+Meade,SUMMERSET #10,US House,1,Ind,Ron Wieczorek,20
+Meade,PIEDMONT #11,US House,1,Ind,Ron Wieczorek,14
+Meade,EAST PIEDMONT #12,US House,1,Ind,Ron Wieczorek,16
+Meade,SOUTHEAST PIEDMONT #13,US House,1,Ind,Ron Wieczorek,29
+Meade,BLACK HAWK #14,US House,1,Ind,Ron Wieczorek,18
+Meade,RURAL BLACK HAWK #15,US House,1,Ind,Ron Wieczorek,11
+Meade,WEST BLACK HAWK #16,US House,1,Ind,Ron Wieczorek,8
+Meade,VIEWFIELD #17,US House,1,Ind,Ron Wieczorek,2
+Meade,ELM SPRINGS #18,US House,1,Ind,Ron Wieczorek,2
+Meade,CENTRAL BLACK HAWK #19,US House,1,Ind,Ron Wieczorek,9
+Meade,HEREFORD #20,US House,1,Ind,Ron Wieczorek,0
+Meade,ELK VALE #21,US House,1,Ind,Ron Wieczorek,10
+Meade,BASE #23,US House,1,Ind,Ron Wieczorek,5
+Meade,WEST ELK VALE #24,US House,1,Ind,Ron Wieczorek,3
+Meade,WHITE OWL #25,US House,1,Ind,Ron Wieczorek,0
+Meade,CHALK BUTTE #27,US House,1,Ind,Ron Wieczorek,1
+Meade,FAIRPOINT #29,US House,1,Ind,Ron Wieczorek,3
+Meade,RED OWL #30,US House,1,Ind,Ron Wieczorek,0
+Meade,FAITH #31,US House,1,Ind,Ron Wieczorek,4
+Meade,PINE #33,US House,1,Ind,Ron Wieczorek,2
+Meade,SULPHUR #35,US House,1,Ind,Ron Wieczorek,1
+Meade,UNION #40,US House,1,Ind,Ron Wieczorek,1
+Meade,MARCUS #41,US House,1,Ind,Ron Wieczorek,0
+Meade,NORTHEAST STURGIS #1A,US House,1,Ind,Ron Wieczorek,4
+Meade,SOUTH STURGIS #2A,US House,1,Ind,Ron Wieczorek,6
+Meade,SOUTHWEST STURGIS #4A,US House,1,Ind,Ron Wieczorek,6
+Meade,STURGIS #5A,US House,1,Ind,Ron Wieczorek,7
+Meade,ALKALI #6A,US House,1,Ind,Ron Wieczorek,3
+Meade,MEADE SD,US House,1,Ind,Ron Wieczorek,269
+Meade,EAST STURGIS #1,Governor,,Lbt,Kurt Evans,5
+Meade,SOUTHEAST STURGIS #2,Governor,,Lbt,Kurt Evans,11
+Meade,CENTRAL STURGIS #3,Governor,,Lbt,Kurt Evans,3
+Meade,WEST STURGIS #4,Governor,,Lbt,Kurt Evans,4
+Meade,NORTHWEST STURGIS #5,Governor,,Lbt,Kurt Evans,16
+Meade,TILFORD #6,Governor,,Lbt,Kurt Evans,18
+Meade,RURAL STURGIS #7,Governor,,Lbt,Kurt Evans,5
+Meade,HARMONY #8,Governor,,Lbt,Kurt Evans,11
+Meade,BEAR BUTTE #9,Governor,,Lbt,Kurt Evans,4
+Meade,SUMMERSET #10,Governor,,Lbt,Kurt Evans,14
+Meade,PIEDMONT #11,Governor,,Lbt,Kurt Evans,13
+Meade,EAST PIEDMONT #12,Governor,,Lbt,Kurt Evans,8
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Lbt,Kurt Evans,29
+Meade,BLACK HAWK #14,Governor,,Lbt,Kurt Evans,20
+Meade,RURAL BLACK HAWK #15,Governor,,Lbt,Kurt Evans,7
+Meade,WEST BLACK HAWK #16,Governor,,Lbt,Kurt Evans,4
+Meade,VIEWFIELD #17,Governor,,Lbt,Kurt Evans,1
+Meade,ELM SPRINGS #18,Governor,,Lbt,Kurt Evans,3
+Meade,CENTRAL BLACK HAWK #19,Governor,,Lbt,Kurt Evans,13
+Meade,HEREFORD #20,Governor,,Lbt,Kurt Evans,2
+Meade,ELK VALE #21,Governor,,Lbt,Kurt Evans,9
+Meade,BASE #23,Governor,,Lbt,Kurt Evans,3
+Meade,WEST ELK VALE #24,Governor,,Lbt,Kurt Evans,2
+Meade,WHITE OWL #25,Governor,,Lbt,Kurt Evans,1
+Meade,CHALK BUTTE #27,Governor,,Lbt,Kurt Evans,3
+Meade,FAIRPOINT #29,Governor,,Lbt,Kurt Evans,5
+Meade,RED OWL #30,Governor,,Lbt,Kurt Evans,0
+Meade,FAITH #31,Governor,,Lbt,Kurt Evans,1
+Meade,PINE #33,Governor,,Lbt,Kurt Evans,9
+Meade,SULPHUR #35,Governor,,Lbt,Kurt Evans,2
+Meade,UNION #40,Governor,,Lbt,Kurt Evans,0
+Meade,MARCUS #41,Governor,,Lbt,Kurt Evans,5
+Meade,NORTHEAST STURGIS #1A,Governor,,Lbt,Kurt Evans,7
+Meade,SOUTH STURGIS #2A,Governor,,Lbt,Kurt Evans,7
+Meade,SOUTHWEST STURGIS #4A,Governor,,Lbt,Kurt Evans,7
+Meade,STURGIS #5A,Governor,,Lbt,Kurt Evans,3
+Meade,ALKALI #6A,Governor,,Lbt,Kurt Evans,1
+Meade,MEADE SD,Governor,,Lbt,Kurt Evans,256
+Meade,EAST STURGIS #1,Governor,,Rep,Kristi Noem,120
+Meade,SOUTHEAST STURGIS #2,Governor,,Rep,Kristi Noem,229
+Meade,CENTRAL STURGIS #3,Governor,,Rep,Kristi Noem,99
+Meade,WEST STURGIS #4,Governor,,Rep,Kristi Noem,67
+Meade,NORTHWEST STURGIS #5,Governor,,Rep,Kristi Noem,245
+Meade,TILFORD #6,Governor,,Rep,Kristi Noem,406
+Meade,RURAL STURGIS #7,Governor,,Rep,Kristi Noem,179
+Meade,HARMONY #8,Governor,,Rep,Kristi Noem,177
+Meade,BEAR BUTTE #9,Governor,,Rep,Kristi Noem,97
+Meade,SUMMERSET #10,Governor,,Rep,Kristi Noem,562
+Meade,PIEDMONT #11,Governor,,Rep,Kristi Noem,428
+Meade,EAST PIEDMONT #12,Governor,,Rep,Kristi Noem,563
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Rep,Kristi Noem,601
+Meade,BLACK HAWK #14,Governor,,Rep,Kristi Noem,304
+Meade,RURAL BLACK HAWK #15,Governor,,Rep,Kristi Noem,215
+Meade,WEST BLACK HAWK #16,Governor,,Rep,Kristi Noem,193
+Meade,VIEWFIELD #17,Governor,,Rep,Kristi Noem,66
+Meade,ELM SPRINGS #18,Governor,,Rep,Kristi Noem,58
+Meade,CENTRAL BLACK HAWK #19,Governor,,Rep,Kristi Noem,284
+Meade,HEREFORD #20,Governor,,Rep,Kristi Noem,22
+Meade,ELK VALE #21,Governor,,Rep,Kristi Noem,216
+Meade,BASE #23,Governor,,Rep,Kristi Noem,131
+Meade,WEST ELK VALE #24,Governor,,Rep,Kristi Noem,130
+Meade,WHITE OWL #25,Governor,,Rep,Kristi Noem,27
+Meade,CHALK BUTTE #27,Governor,,Rep,Kristi Noem,82
+Meade,FAIRPOINT #29,Governor,,Rep,Kristi Noem,22
+Meade,RED OWL #30,Governor,,Rep,Kristi Noem,67
+Meade,FAITH #31,Governor,,Rep,Kristi Noem,170
+Meade,PINE #33,Governor,,Rep,Kristi Noem,46
+Meade,SULPHUR #35,Governor,,Rep,Kristi Noem,35
+Meade,UNION #40,Governor,,Rep,Kristi Noem,24
+Meade,MARCUS #41,Governor,,Rep,Kristi Noem,33
+Meade,NORTHEAST STURGIS #1A,Governor,,Rep,Kristi Noem,52
+Meade,SOUTH STURGIS #2A,Governor,,Rep,Kristi Noem,166
+Meade,SOUTHWEST STURGIS #4A,Governor,,Rep,Kristi Noem,134
+Meade,STURGIS #5A,Governor,,Rep,Kristi Noem,81
+Meade,ALKALI #6A,Governor,,Rep,Kristi Noem,82
+Meade,MEADE SD,Governor,,Rep,Kristi Noem,"6,413"
+Meade,EAST STURGIS #1,Governor,,Dem,Billie Sutton,84
+Meade,SOUTHEAST STURGIS #2,Governor,,Dem,Billie Sutton,187
+Meade,CENTRAL STURGIS #3,Governor,,Dem,Billie Sutton,99
+Meade,WEST STURGIS #4,Governor,,Dem,Billie Sutton,53
+Meade,NORTHWEST STURGIS #5,Governor,,Dem,Billie Sutton,145
+Meade,TILFORD #6,Governor,,Dem,Billie Sutton,229
+Meade,RURAL STURGIS #7,Governor,,Dem,Billie Sutton,122
+Meade,HARMONY #8,Governor,,Dem,Billie Sutton,109
+Meade,BEAR BUTTE #9,Governor,,Dem,Billie Sutton,41
+Meade,SUMMERSET #10,Governor,,Dem,Billie Sutton,292
+Meade,PIEDMONT #11,Governor,,Dem,Billie Sutton,231
+Meade,EAST PIEDMONT #12,Governor,,Dem,Billie Sutton,220
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Dem,Billie Sutton,291
+Meade,BLACK HAWK #14,Governor,,Dem,Billie Sutton,177
+Meade,RURAL BLACK HAWK #15,Governor,,Dem,Billie Sutton,122
+Meade,WEST BLACK HAWK #16,Governor,,Dem,Billie Sutton,125
+Meade,VIEWFIELD #17,Governor,,Dem,Billie Sutton,18
+Meade,ELM SPRINGS #18,Governor,,Dem,Billie Sutton,21
+Meade,CENTRAL BLACK HAWK #19,Governor,,Dem,Billie Sutton,159
+Meade,HEREFORD #20,Governor,,Dem,Billie Sutton,27
+Meade,ELK VALE #21,Governor,,Dem,Billie Sutton,87
+Meade,BASE #23,Governor,,Dem,Billie Sutton,97
+Meade,WEST ELK VALE #24,Governor,,Dem,Billie Sutton,44
+Meade,WHITE OWL #25,Governor,,Dem,Billie Sutton,8
+Meade,CHALK BUTTE #27,Governor,,Dem,Billie Sutton,36
+Meade,FAIRPOINT #29,Governor,,Dem,Billie Sutton,6
+Meade,RED OWL #30,Governor,,Dem,Billie Sutton,10
+Meade,FAITH #31,Governor,,Dem,Billie Sutton,56
+Meade,PINE #33,Governor,,Dem,Billie Sutton,17
+Meade,SULPHUR #35,Governor,,Dem,Billie Sutton,8
+Meade,UNION #40,Governor,,Dem,Billie Sutton,11
+Meade,MARCUS #41,Governor,,Dem,Billie Sutton,13
+Meade,NORTHEAST STURGIS #1A,Governor,,Dem,Billie Sutton,53
+Meade,SOUTH STURGIS #2A,Governor,,Dem,Billie Sutton,135
+Meade,SOUTHWEST STURGIS #4A,Governor,,Dem,Billie Sutton,103
+Meade,STURGIS #5A,Governor,,Dem,Billie Sutton,74
+Meade,ALKALI #6A,Governor,,Dem,Billie Sutton,49
+Meade,MEADE SD,Governor,,Dem,Billie Sutton,"3,559"
+Meade,EAST STURGIS #1,Secretary of State,,Rep,Steve Barnett,145
+Meade,SOUTHEAST STURGIS #2,Secretary of State,,Rep,Steve Barnett,282
+Meade,CENTRAL STURGIS #3,Secretary of State,,Rep,Steve Barnett,124
+Meade,WEST STURGIS #4,Secretary of State,,Rep,Steve Barnett,82
+Meade,NORTHWEST STURGIS #5,Secretary of State,,Rep,Steve Barnett,270
+Meade,TILFORD #6,Secretary of State,,Rep,Steve Barnett,470
+Meade,RURAL STURGIS #7,Secretary of State,,Rep,Steve Barnett,223
+Meade,HARMONY #8,Secretary of State,,Rep,Steve Barnett,209
+Meade,BEAR BUTTE #9,Secretary of State,,Rep,Steve Barnett,117
+Meade,SUMMERSET #10,Secretary of State,,Rep,Steve Barnett,608
+Meade,PIEDMONT #11,Secretary of State,,Rep,Steve Barnett,472
+Meade,EAST PIEDMONT #12,Secretary of State,,Rep,Steve Barnett,597
+Meade,SOUTHEAST PIEDMONT #13,Secretary of State,,Rep,Steve Barnett,682
+Meade,BLACK HAWK #14,Secretary of State,,Rep,Steve Barnett,339
+Meade,RURAL BLACK HAWK #15,Secretary of State,,Rep,Steve Barnett,248
+Meade,WEST BLACK HAWK #16,Secretary of State,,Rep,Steve Barnett,216
+Meade,VIEWFIELD #17,Secretary of State,,Rep,Steve Barnett,70
+Meade,ELM SPRINGS #18,Secretary of State,,Rep,Steve Barnett,67
+Meade,CENTRAL BLACK HAWK #19,Secretary of State,,Rep,Steve Barnett,304
+Meade,HEREFORD #20,Secretary of State,,Rep,Steve Barnett,40
+Meade,ELK VALE #21,Secretary of State,,Rep,Steve Barnett,231
+Meade,BASE #23,Secretary of State,,Rep,Steve Barnett,133
+Meade,WEST ELK VALE #24,Secretary of State,,Rep,Steve Barnett,135
+Meade,WHITE OWL #25,Secretary of State,,Rep,Steve Barnett,31
+Meade,CHALK BUTTE #27,Secretary of State,,Rep,Steve Barnett,92
+Meade,FAIRPOINT #29,Secretary of State,,Rep,Steve Barnett,30
+Meade,RED OWL #30,Secretary of State,,Rep,Steve Barnett,65
+Meade,FAITH #31,Secretary of State,,Rep,Steve Barnett,185
+Meade,PINE #33,Secretary of State,,Rep,Steve Barnett,63
+Meade,SULPHUR #35,Secretary of State,,Rep,Steve Barnett,41
+Meade,UNION #40,Secretary of State,,Rep,Steve Barnett,24
+Meade,MARCUS #41,Secretary of State,,Rep,Steve Barnett,41
+Meade,NORTHEAST STURGIS #1A,Secretary of State,,Rep,Steve Barnett,57
+Meade,SOUTH STURGIS #2A,Secretary of State,,Rep,Steve Barnett,206
+Meade,SOUTHWEST STURGIS #4A,Secretary of State,,Rep,Steve Barnett,166
+Meade,STURGIS #5A,Secretary of State,,Rep,Steve Barnett,114
+Meade,ALKALI #6A,Secretary of State,,Rep,Steve Barnett,97
+Meade,MEADE SD,Secretary of State,,Rep,Steve Barnett,"7,276"
+Meade,EAST STURGIS #1,Secretary of State,,Dem,Alexandra Frederick,59
+Meade,SOUTHEAST STURGIS #2,Secretary of State,,Dem,Alexandra Frederick,122
+Meade,CENTRAL STURGIS #3,Secretary of State,,Dem,Alexandra Frederick,67
+Meade,WEST STURGIS #4,Secretary of State,,Dem,Alexandra Frederick,39
+Meade,NORTHWEST STURGIS #5,Secretary of State,,Dem,Alexandra Frederick,116
+Meade,TILFORD #6,Secretary of State,,Dem,Alexandra Frederick,157
+Meade,RURAL STURGIS #7,Secretary of State,,Dem,Alexandra Frederick,71
+Meade,HARMONY #8,Secretary of State,,Dem,Alexandra Frederick,73
+Meade,BEAR BUTTE #9,Secretary of State,,Dem,Alexandra Frederick,24
+Meade,SUMMERSET #10,Secretary of State,,Dem,Alexandra Frederick,217
+Meade,PIEDMONT #11,Secretary of State,,Dem,Alexandra Frederick,175
+Meade,EAST PIEDMONT #12,Secretary of State,,Dem,Alexandra Frederick,168
+Meade,SOUTHEAST PIEDMONT #13,Secretary of State,,Dem,Alexandra Frederick,208
+Meade,BLACK HAWK #14,Secretary of State,,Dem,Alexandra Frederick,141
+Meade,RURAL BLACK HAWK #15,Secretary of State,,Dem,Alexandra Frederick,85
+Meade,WEST BLACK HAWK #16,Secretary of State,,Dem,Alexandra Frederick,102
+Meade,VIEWFIELD #17,Secretary of State,,Dem,Alexandra Frederick,12
+Meade,ELM SPRINGS #18,Secretary of State,,Dem,Alexandra Frederick,9
+Meade,CENTRAL BLACK HAWK #19,Secretary of State,,Dem,Alexandra Frederick,130
+Meade,HEREFORD #20,Secretary of State,,Dem,Alexandra Frederick,6
+Meade,ELK VALE #21,Secretary of State,,Dem,Alexandra Frederick,74
+Meade,BASE #23,Secretary of State,,Dem,Alexandra Frederick,91
+Meade,WEST ELK VALE #24,Secretary of State,,Dem,Alexandra Frederick,32
+Meade,WHITE OWL #25,Secretary of State,,Dem,Alexandra Frederick,5
+Meade,CHALK BUTTE #27,Secretary of State,,Dem,Alexandra Frederick,18
+Meade,FAIRPOINT #29,Secretary of State,,Dem,Alexandra Frederick,5
+Meade,RED OWL #30,Secretary of State,,Dem,Alexandra Frederick,5
+Meade,FAITH #31,Secretary of State,,Dem,Alexandra Frederick,26
+Meade,PINE #33,Secretary of State,,Dem,Alexandra Frederick,7
+Meade,SULPHUR #35,Secretary of State,,Dem,Alexandra Frederick,2
+Meade,UNION #40,Secretary of State,,Dem,Alexandra Frederick,9
+Meade,MARCUS #41,Secretary of State,,Dem,Alexandra Frederick,6
+Meade,NORTHEAST STURGIS #1A,Secretary of State,,Dem,Alexandra Frederick,48
+Meade,SOUTH STURGIS #2A,Secretary of State,,Dem,Alexandra Frederick,90
+Meade,SOUTHWEST STURGIS #4A,Secretary of State,,Dem,Alexandra Frederick,69
+Meade,STURGIS #5A,Secretary of State,,Dem,Alexandra Frederick,39
+Meade,ALKALI #6A,Secretary of State,,Dem,Alexandra Frederick,27
+Meade,MEADE SD,Secretary of State,,Dem,Alexandra Frederick,"2,534"
+Meade,EAST STURGIS #1,Attorney General,,Rep,Jason Ravnsborg,124
+Meade,SOUTHEAST STURGIS #2,Attorney General,,Rep,Jason Ravnsborg,249
+Meade,CENTRAL STURGIS #3,Attorney General,,Rep,Jason Ravnsborg,104
+Meade,WEST STURGIS #4,Attorney General,,Rep,Jason Ravnsborg,73
+Meade,NORTHWEST STURGIS #5,Attorney General,,Rep,Jason Ravnsborg,247
+Meade,TILFORD #6,Attorney General,,Rep,Jason Ravnsborg,431
+Meade,RURAL STURGIS #7,Attorney General,,Rep,Jason Ravnsborg,194
+Meade,HARMONY #8,Attorney General,,Rep,Jason Ravnsborg,187
+Meade,BEAR BUTTE #9,Attorney General,,Rep,Jason Ravnsborg,107
+Meade,SUMMERSET #10,Attorney General,,Rep,Jason Ravnsborg,556
+Meade,PIEDMONT #11,Attorney General,,Rep,Jason Ravnsborg,438
+Meade,EAST PIEDMONT #12,Attorney General,,Rep,Jason Ravnsborg,570
+Meade,SOUTHEAST PIEDMONT #13,Attorney General,,Rep,Jason Ravnsborg,635
+Meade,BLACK HAWK #14,Attorney General,,Rep,Jason Ravnsborg,322
+Meade,RURAL BLACK HAWK #15,Attorney General,,Rep,Jason Ravnsborg,222
+Meade,WEST BLACK HAWK #16,Attorney General,,Rep,Jason Ravnsborg,205
+Meade,VIEWFIELD #17,Attorney General,,Rep,Jason Ravnsborg,62
+Meade,ELM SPRINGS #18,Attorney General,,Rep,Jason Ravnsborg,64
+Meade,CENTRAL BLACK HAWK #19,Attorney General,,Rep,Jason Ravnsborg,297
+Meade,HEREFORD #20,Attorney General,,Rep,Jason Ravnsborg,33
+Meade,ELK VALE #21,Attorney General,,Rep,Jason Ravnsborg,213
+Meade,BASE #23,Attorney General,,Rep,Jason Ravnsborg,130
+Meade,WEST ELK VALE #24,Attorney General,,Rep,Jason Ravnsborg,131
+Meade,WHITE OWL #25,Attorney General,,Rep,Jason Ravnsborg,21
+Meade,CHALK BUTTE #27,Attorney General,,Rep,Jason Ravnsborg,85
+Meade,FAIRPOINT #29,Attorney General,,Rep,Jason Ravnsborg,28
+Meade,RED OWL #30,Attorney General,,Rep,Jason Ravnsborg,59
+Meade,FAITH #31,Attorney General,,Rep,Jason Ravnsborg,162
+Meade,PINE #33,Attorney General,,Rep,Jason Ravnsborg,61
+Meade,SULPHUR #35,Attorney General,,Rep,Jason Ravnsborg,39
+Meade,UNION #40,Attorney General,,Rep,Jason Ravnsborg,21
+Meade,MARCUS #41,Attorney General,,Rep,Jason Ravnsborg,33
+Meade,NORTHEAST STURGIS #1A,Attorney General,,Rep,Jason Ravnsborg,49
+Meade,SOUTH STURGIS #2A,Attorney General,,Rep,Jason Ravnsborg,177
+Meade,SOUTHWEST STURGIS #4A,Attorney General,,Rep,Jason Ravnsborg,152
+Meade,STURGIS #5A,Attorney General,,Rep,Jason Ravnsborg,90
+Meade,ALKALI #6A,Attorney General,,Rep,Jason Ravnsborg,85
+Meade,MEADE SD,Attorney General,,Rep,Jason Ravnsborg,"6,656"
+Meade,EAST STURGIS #1,Attorney General,,Dem,Randy Seiler,80
+Meade,SOUTHEAST STURGIS #2,Attorney General,,Dem,Randy Seiler,167
+Meade,CENTRAL STURGIS #3,Attorney General,,Dem,Randy Seiler,85
+Meade,WEST STURGIS #4,Attorney General,,Dem,Randy Seiler,49
+Meade,NORTHWEST STURGIS #5,Attorney General,,Dem,Randy Seiler,137
+Meade,TILFORD #6,Attorney General,,Dem,Randy Seiler,191
+Meade,RURAL STURGIS #7,Attorney General,,Dem,Randy Seiler,102
+Meade,HARMONY #8,Attorney General,,Dem,Randy Seiler,103
+Meade,BEAR BUTTE #9,Attorney General,,Dem,Randy Seiler,27
+Meade,SUMMERSET #10,Attorney General,,Dem,Randy Seiler,285
+Meade,PIEDMONT #11,Attorney General,,Dem,Randy Seiler,211
+Meade,EAST PIEDMONT #12,Attorney General,,Dem,Randy Seiler,193
+Meade,SOUTHEAST PIEDMONT #13,Attorney General,,Dem,Randy Seiler,258
+Meade,BLACK HAWK #14,Attorney General,,Dem,Randy Seiler,157
+Meade,RURAL BLACK HAWK #15,Attorney General,,Dem,Randy Seiler,108
+Meade,WEST BLACK HAWK #16,Attorney General,,Dem,Randy Seiler,114
+Meade,VIEWFIELD #17,Attorney General,,Dem,Randy Seiler,18
+Meade,ELM SPRINGS #18,Attorney General,,Dem,Randy Seiler,12
+Meade,CENTRAL BLACK HAWK #19,Attorney General,,Dem,Randy Seiler,137
+Meade,HEREFORD #20,Attorney General,,Dem,Randy Seiler,14
+Meade,ELK VALE #21,Attorney General,,Dem,Randy Seiler,89
+Meade,BASE #23,Attorney General,,Dem,Randy Seiler,96
+Meade,WEST ELK VALE #24,Attorney General,,Dem,Randy Seiler,38
+Meade,WHITE OWL #25,Attorney General,,Dem,Randy Seiler,9
+Meade,CHALK BUTTE #27,Attorney General,,Dem,Randy Seiler,26
+Meade,FAIRPOINT #29,Attorney General,,Dem,Randy Seiler,7
+Meade,RED OWL #30,Attorney General,,Dem,Randy Seiler,9
+Meade,FAITH #31,Attorney General,,Dem,Randy Seiler,49
+Meade,PINE #33,Attorney General,,Dem,Randy Seiler,7
+Meade,SULPHUR #35,Attorney General,,Dem,Randy Seiler,4
+Meade,UNION #40,Attorney General,,Dem,Randy Seiler,11
+Meade,MARCUS #41,Attorney General,,Dem,Randy Seiler,12
+Meade,NORTHEAST STURGIS #1A,Attorney General,,Dem,Randy Seiler,59
+Meade,SOUTH STURGIS #2A,Attorney General,,Dem,Randy Seiler,117
+Meade,SOUTHWEST STURGIS #4A,Attorney General,,Dem,Randy Seiler,84
+Meade,STURGIS #5A,Attorney General,,Dem,Randy Seiler,64
+Meade,ALKALI #6A,Attorney General,,Dem,Randy Seiler,39
+Meade,MEADE SD,Attorney General,,Dem,Randy Seiler,"3,168"
+Meade,EAST STURGIS #1,State Auditor,,Rep,Rich Sattgast,142
+Meade,SOUTHEAST STURGIS #2,State Auditor,,Rep,Rich Sattgast,279
+Meade,CENTRAL STURGIS #3,State Auditor,,Rep,Rich Sattgast,117
+Meade,WEST STURGIS #4,State Auditor,,Rep,Rich Sattgast,80
+Meade,NORTHWEST STURGIS #5,State Auditor,,Rep,Rich Sattgast,256
+Meade,TILFORD #6,State Auditor,,Rep,Rich Sattgast,459
+Meade,RURAL STURGIS #7,State Auditor,,Rep,Rich Sattgast,227
+Meade,HARMONY #8,State Auditor,,Rep,Rich Sattgast,211
+Meade,BEAR BUTTE #9,State Auditor,,Rep,Rich Sattgast,114
+Meade,SUMMERSET #10,State Auditor,,Rep,Rich Sattgast,592
+Meade,PIEDMONT #11,State Auditor,,Rep,Rich Sattgast,446
+Meade,EAST PIEDMONT #12,State Auditor,,Rep,Rich Sattgast,590
+Meade,SOUTHEAST PIEDMONT #13,State Auditor,,Rep,Rich Sattgast,672
+Meade,BLACK HAWK #14,State Auditor,,Rep,Rich Sattgast,330
+Meade,RURAL BLACK HAWK #15,State Auditor,,Rep,Rich Sattgast,235
+Meade,WEST BLACK HAWK #16,State Auditor,,Rep,Rich Sattgast,211
+Meade,VIEWFIELD #17,State Auditor,,Rep,Rich Sattgast,69
+Meade,ELM SPRINGS #18,State Auditor,,Rep,Rich Sattgast,65
+Meade,CENTRAL BLACK HAWK #19,State Auditor,,Rep,Rich Sattgast,298
+Meade,HEREFORD #20,State Auditor,,Rep,Rich Sattgast,38
+Meade,ELK VALE #21,State Auditor,,Rep,Rich Sattgast,220
+Meade,BASE #23,State Auditor,,Rep,Rich Sattgast,132
+Meade,WEST ELK VALE #24,State Auditor,,Rep,Rich Sattgast,135
+Meade,WHITE OWL #25,State Auditor,,Rep,Rich Sattgast,25
+Meade,CHALK BUTTE #27,State Auditor,,Rep,Rich Sattgast,85
+Meade,FAIRPOINT #29,State Auditor,,Rep,Rich Sattgast,29
+Meade,RED OWL #30,State Auditor,,Rep,Rich Sattgast,60
+Meade,FAITH #31,State Auditor,,Rep,Rich Sattgast,174
+Meade,PINE #33,State Auditor,,Rep,Rich Sattgast,55
+Meade,SULPHUR #35,State Auditor,,Rep,Rich Sattgast,39
+Meade,UNION #40,State Auditor,,Rep,Rich Sattgast,21
+Meade,MARCUS #41,State Auditor,,Rep,Rich Sattgast,38
+Meade,NORTHEAST STURGIS #1A,State Auditor,,Rep,Rich Sattgast,56
+Meade,SOUTH STURGIS #2A,State Auditor,,Rep,Rich Sattgast,204
+Meade,SOUTHWEST STURGIS #4A,State Auditor,,Rep,Rich Sattgast,160
+Meade,STURGIS #5A,State Auditor,,Rep,Rich Sattgast,103
+Meade,ALKALI #6A,State Auditor,,Rep,Rich Sattgast,87
+Meade,MEADE SD,State Auditor,,Rep,Rich Sattgast,"7,054"
+Meade,EAST STURGIS #1,State Auditor,,Dem,Tom Cool,57
+Meade,SOUTHEAST STURGIS #2,State Auditor,,Dem,Tom Cool,115
+Meade,CENTRAL STURGIS #3,State Auditor,,Dem,Tom Cool,67
+Meade,WEST STURGIS #4,State Auditor,,Dem,Tom Cool,36
+Meade,NORTHWEST STURGIS #5,State Auditor,,Dem,Tom Cool,122
+Meade,TILFORD #6,State Auditor,,Dem,Tom Cool,147
+Meade,RURAL STURGIS #7,State Auditor,,Dem,Tom Cool,66
+Meade,HARMONY #8,State Auditor,,Dem,Tom Cool,69
+Meade,BEAR BUTTE #9,State Auditor,,Dem,Tom Cool,20
+Meade,SUMMERSET #10,State Auditor,,Dem,Tom Cool,214
+Meade,PIEDMONT #11,State Auditor,,Dem,Tom Cool,185
+Meade,EAST PIEDMONT #12,State Auditor,,Dem,Tom Cool,159
+Meade,SOUTHEAST PIEDMONT #13,State Auditor,,Dem,Tom Cool,202
+Meade,BLACK HAWK #14,State Auditor,,Dem,Tom Cool,141
+Meade,RURAL BLACK HAWK #15,State Auditor,,Dem,Tom Cool,87
+Meade,WEST BLACK HAWK #16,State Auditor,,Dem,Tom Cool,98
+Meade,VIEWFIELD #17,State Auditor,,Dem,Tom Cool,9
+Meade,ELM SPRINGS #18,State Auditor,,Dem,Tom Cool,7
+Meade,CENTRAL BLACK HAWK #19,State Auditor,,Dem,Tom Cool,119
+Meade,HEREFORD #20,State Auditor,,Dem,Tom Cool,9
+Meade,ELK VALE #21,State Auditor,,Dem,Tom Cool,68
+Meade,BASE #23,State Auditor,,Dem,Tom Cool,90
+Meade,WEST ELK VALE #24,State Auditor,,Dem,Tom Cool,31
+Meade,WHITE OWL #25,State Auditor,,Dem,Tom Cool,4
+Meade,CHALK BUTTE #27,State Auditor,,Dem,Tom Cool,18
+Meade,FAIRPOINT #29,State Auditor,,Dem,Tom Cool,6
+Meade,RED OWL #30,State Auditor,,Dem,Tom Cool,6
+Meade,FAITH #31,State Auditor,,Dem,Tom Cool,30
+Meade,PINE #33,State Auditor,,Dem,Tom Cool,9
+Meade,SULPHUR #35,State Auditor,,Dem,Tom Cool,4
+Meade,UNION #40,State Auditor,,Dem,Tom Cool,10
+Meade,MARCUS #41,State Auditor,,Dem,Tom Cool,6
+Meade,NORTHEAST STURGIS #1A,State Auditor,,Dem,Tom Cool,44
+Meade,SOUTH STURGIS #2A,State Auditor,,Dem,Tom Cool,84
+Meade,SOUTHWEST STURGIS #4A,State Auditor,,Dem,Tom Cool,66
+Meade,STURGIS #5A,State Auditor,,Dem,Tom Cool,48
+Meade,ALKALI #6A,State Auditor,,Dem,Tom Cool,29
+Meade,MEADE SD,State Auditor,,Dem,Tom Cool,"2,482"
+Meade,EAST STURGIS #1,State Treasurer,,Rep,Josh Haeder,137
+Meade,SOUTHEAST STURGIS #2,State Treasurer,,Rep,Josh Haeder,275
+Meade,CENTRAL STURGIS #3,State Treasurer,,Rep,Josh Haeder,124
+Meade,WEST STURGIS #4,State Treasurer,,Rep,Josh Haeder,79
+Meade,NORTHWEST STURGIS #5,State Treasurer,,Rep,Josh Haeder,256
+Meade,TILFORD #6,State Treasurer,,Rep,Josh Haeder,442
+Meade,RURAL STURGIS #7,State Treasurer,,Rep,Josh Haeder,215
+Meade,HARMONY #8,State Treasurer,,Rep,Josh Haeder,202
+Meade,BEAR BUTTE #9,State Treasurer,,Rep,Josh Haeder,112
+Meade,SUMMERSET #10,State Treasurer,,Rep,Josh Haeder,595
+Meade,PIEDMONT #11,State Treasurer,,Rep,Josh Haeder,451
+Meade,EAST PIEDMONT #12,State Treasurer,,Rep,Josh Haeder,587
+Meade,SOUTHEAST PIEDMONT #13,State Treasurer,,Rep,Josh Haeder,672
+Meade,BLACK HAWK #14,State Treasurer,,Rep,Josh Haeder,336
+Meade,RURAL BLACK HAWK #15,State Treasurer,,Rep,Josh Haeder,236
+Meade,WEST BLACK HAWK #16,State Treasurer,,Rep,Josh Haeder,210
+Meade,VIEWFIELD #17,State Treasurer,,Rep,Josh Haeder,65
+Meade,ELM SPRINGS #18,State Treasurer,,Rep,Josh Haeder,63
+Meade,CENTRAL BLACK HAWK #19,State Treasurer,,Rep,Josh Haeder,299
+Meade,HEREFORD #20,State Treasurer,,Rep,Josh Haeder,37
+Meade,ELK VALE #21,State Treasurer,,Rep,Josh Haeder,228
+Meade,BASE #23,State Treasurer,,Rep,Josh Haeder,131
+Meade,WEST ELK VALE #24,State Treasurer,,Rep,Josh Haeder,137
+Meade,WHITE OWL #25,State Treasurer,,Rep,Josh Haeder,24
+Meade,CHALK BUTTE #27,State Treasurer,,Rep,Josh Haeder,79
+Meade,FAIRPOINT #29,State Treasurer,,Rep,Josh Haeder,29
+Meade,RED OWL #30,State Treasurer,,Rep,Josh Haeder,56
+Meade,FAITH #31,State Treasurer,,Rep,Josh Haeder,173
+Meade,PINE #33,State Treasurer,,Rep,Josh Haeder,58
+Meade,SULPHUR #35,State Treasurer,,Rep,Josh Haeder,40
+Meade,UNION #40,State Treasurer,,Rep,Josh Haeder,17
+Meade,MARCUS #41,State Treasurer,,Rep,Josh Haeder,38
+Meade,NORTHEAST STURGIS #1A,State Treasurer,,Rep,Josh Haeder,58
+Meade,SOUTH STURGIS #2A,State Treasurer,,Rep,Josh Haeder,195
+Meade,SOUTHWEST STURGIS #4A,State Treasurer,,Rep,Josh Haeder,160
+Meade,STURGIS #5A,State Treasurer,,Rep,Josh Haeder,97
+Meade,ALKALI #6A,State Treasurer,,Rep,Josh Haeder,93
+Meade,MEADE SD,State Treasurer,,Rep,Josh Haeder,"7,006"
+Meade,EAST STURGIS #1,State Treasurer,,Dem,Aaron  Matson ,57
+Meade,SOUTHEAST STURGIS #2,State Treasurer,,Dem,Aaron  Matson ,114
+Meade,CENTRAL STURGIS #3,State Treasurer,,Dem,Aaron  Matson ,61
+Meade,WEST STURGIS #4,State Treasurer,,Dem,Aaron  Matson ,38
+Meade,NORTHWEST STURGIS #5,State Treasurer,,Dem,Aaron  Matson ,120
+Meade,TILFORD #6,State Treasurer,,Dem,Aaron  Matson ,160
+Meade,RURAL STURGIS #7,State Treasurer,,Dem,Aaron  Matson ,76
+Meade,HARMONY #8,State Treasurer,,Dem,Aaron  Matson ,75
+Meade,BEAR BUTTE #9,State Treasurer,,Dem,Aaron  Matson ,21
+Meade,SUMMERSET #10,State Treasurer,,Dem,Aaron  Matson ,218
+Meade,PIEDMONT #11,State Treasurer,,Dem,Aaron  Matson ,181
+Meade,EAST PIEDMONT #12,State Treasurer,,Dem,Aaron  Matson ,161
+Meade,SOUTHEAST PIEDMONT #13,State Treasurer,,Dem,Aaron  Matson ,201
+Meade,BLACK HAWK #14,State Treasurer,,Dem,Aaron  Matson ,135
+Meade,RURAL BLACK HAWK #15,State Treasurer,,Dem,Aaron  Matson ,87
+Meade,WEST BLACK HAWK #16,State Treasurer,,Dem,Aaron  Matson ,98
+Meade,VIEWFIELD #17,State Treasurer,,Dem,Aaron  Matson ,14
+Meade,ELM SPRINGS #18,State Treasurer,,Dem,Aaron  Matson ,9
+Meade,CENTRAL BLACK HAWK #19,State Treasurer,,Dem,Aaron  Matson ,119
+Meade,HEREFORD #20,State Treasurer,,Dem,Aaron  Matson ,9
+Meade,ELK VALE #21,State Treasurer,,Dem,Aaron  Matson ,62
+Meade,BASE #23,State Treasurer,,Dem,Aaron  Matson ,92
+Meade,WEST ELK VALE #24,State Treasurer,,Dem,Aaron  Matson ,30
+Meade,WHITE OWL #25,State Treasurer,,Dem,Aaron  Matson ,5
+Meade,CHALK BUTTE #27,State Treasurer,,Dem,Aaron  Matson ,21
+Meade,FAIRPOINT #29,State Treasurer,,Dem,Aaron  Matson ,7
+Meade,RED OWL #30,State Treasurer,,Dem,Aaron  Matson ,7
+Meade,FAITH #31,State Treasurer,,Dem,Aaron  Matson ,34
+Meade,PINE #33,State Treasurer,,Dem,Aaron  Matson ,8
+Meade,SULPHUR #35,State Treasurer,,Dem,Aaron  Matson ,3
+Meade,UNION #40,State Treasurer,,Dem,Aaron  Matson ,13
+Meade,MARCUS #41,State Treasurer,,Dem,Aaron  Matson ,7
+Meade,NORTHEAST STURGIS #1A,State Treasurer,,Dem,Aaron  Matson ,45
+Meade,SOUTH STURGIS #2A,State Treasurer,,Dem,Aaron  Matson ,94
+Meade,SOUTHWEST STURGIS #4A,State Treasurer,,Dem,Aaron  Matson ,71
+Meade,STURGIS #5A,State Treasurer,,Dem,Aaron  Matson ,49
+Meade,ALKALI #6A,State Treasurer,,Dem,Aaron  Matson ,24
+Meade,MEADE SD,State Treasurer,,Dem,Aaron  Matson ,"2,526"
+Meade,EAST STURGIS #1,School and Lands,,Rep,Ryan Brunner,144
+Meade,SOUTHEAST STURGIS #2,School and Lands,,Rep,Ryan Brunner,291
+Meade,CENTRAL STURGIS #3,School and Lands,,Rep,Ryan Brunner,123
+Meade,WEST STURGIS #4,School and Lands,,Rep,Ryan Brunner,82
+Meade,NORTHWEST STURGIS #5,School and Lands,,Rep,Ryan Brunner,274
+Meade,TILFORD #6,School and Lands,,Rep,Ryan Brunner,464
+Meade,RURAL STURGIS #7,School and Lands,,Rep,Ryan Brunner,224
+Meade,HARMONY #8,School and Lands,,Rep,Ryan Brunner,207
+Meade,BEAR BUTTE #9,School and Lands,,Rep,Ryan Brunner,117
+Meade,SUMMERSET #10,School and Lands,,Rep,Ryan Brunner,589
+Meade,PIEDMONT #11,School and Lands,,Rep,Ryan Brunner,453
+Meade,EAST PIEDMONT #12,School and Lands,,Rep,Ryan Brunner,591
+Meade,SOUTHEAST PIEDMONT #13,School and Lands,,Rep,Ryan Brunner,660
+Meade,BLACK HAWK #14,School and Lands,,Rep,Ryan Brunner,331
+Meade,RURAL BLACK HAWK #15,School and Lands,,Rep,Ryan Brunner,247
+Meade,WEST BLACK HAWK #16,School and Lands,,Rep,Ryan Brunner,215
+Meade,VIEWFIELD #17,School and Lands,,Rep,Ryan Brunner,70
+Meade,ELM SPRINGS #18,School and Lands,,Rep,Ryan Brunner,69
+Meade,CENTRAL BLACK HAWK #19,School and Lands,,Rep,Ryan Brunner,298
+Meade,HEREFORD #20,School and Lands,,Rep,Ryan Brunner,40
+Meade,ELK VALE #21,School and Lands,,Rep,Ryan Brunner,228
+Meade,BASE #23,School and Lands,,Rep,Ryan Brunner,138
+Meade,WEST ELK VALE #24,School and Lands,,Rep,Ryan Brunner,141
+Meade,WHITE OWL #25,School and Lands,,Rep,Ryan Brunner,30
+Meade,CHALK BUTTE #27,School and Lands,,Rep,Ryan Brunner,100
+Meade,FAIRPOINT #29,School and Lands,,Rep,Ryan Brunner,32
+Meade,RED OWL #30,School and Lands,,Rep,Ryan Brunner,68
+Meade,FAITH #31,School and Lands,,Rep,Ryan Brunner,182
+Meade,PINE #33,School and Lands,,Rep,Ryan Brunner,62
+Meade,SULPHUR #35,School and Lands,,Rep,Ryan Brunner,41
+Meade,UNION #40,School and Lands,,Rep,Ryan Brunner,25
+Meade,MARCUS #41,School and Lands,,Rep,Ryan Brunner,41
+Meade,NORTHEAST STURGIS #1A,School and Lands,,Rep,Ryan Brunner,59
+Meade,SOUTH STURGIS #2A,School and Lands,,Rep,Ryan Brunner,205
+Meade,SOUTHWEST STURGIS #4A,School and Lands,,Rep,Ryan Brunner,177
+Meade,STURGIS #5A,School and Lands,,Rep,Ryan Brunner,102
+Meade,ALKALI #6A,School and Lands,,Rep,Ryan Brunner,103
+Meade,MEADE SD,School and Lands,,Rep,Ryan Brunner,"7,223"
+Meade,EAST STURGIS #1,School and Lands,,Dem,Woody Houser,55
+Meade,SOUTHEAST STURGIS #2,School and Lands,,Dem,Woody Houser,112
+Meade,CENTRAL STURGIS #3,School and Lands,,Dem,Woody Houser,64
+Meade,WEST STURGIS #4,School and Lands,,Dem,Woody Houser,34
+Meade,NORTHWEST STURGIS #5,School and Lands,,Dem,Woody Houser,114
+Meade,TILFORD #6,School and Lands,,Dem,Woody Houser,151
+Meade,RURAL STURGIS #7,School and Lands,,Dem,Woody Houser,72
+Meade,HARMONY #8,School and Lands,,Dem,Woody Houser,74
+Meade,BEAR BUTTE #9,School and Lands,,Dem,Woody Houser,20
+Meade,SUMMERSET #10,School and Lands,,Dem,Woody Houser,214
+Meade,PIEDMONT #11,School and Lands,,Dem,Woody Houser,179
+Meade,EAST PIEDMONT #12,School and Lands,,Dem,Woody Houser,161
+Meade,SOUTHEAST PIEDMONT #13,School and Lands,,Dem,Woody Houser,214
+Meade,BLACK HAWK #14,School and Lands,,Dem,Woody Houser,136
+Meade,RURAL BLACK HAWK #15,School and Lands,,Dem,Woody Houser,85
+Meade,WEST BLACK HAWK #16,School and Lands,,Dem,Woody Houser,96
+Meade,VIEWFIELD #17,School and Lands,,Dem,Woody Houser,13
+Meade,ELM SPRINGS #18,School and Lands,,Dem,Woody Houser,6
+Meade,CENTRAL BLACK HAWK #19,School and Lands,,Dem,Woody Houser,125
+Meade,HEREFORD #20,School and Lands,,Dem,Woody Houser,8
+Meade,ELK VALE #21,School and Lands,,Dem,Woody Houser,63
+Meade,BASE #23,School and Lands,,Dem,Woody Houser,89
+Meade,WEST ELK VALE #24,School and Lands,,Dem,Woody Houser,27
+Meade,WHITE OWL #25,School and Lands,,Dem,Woody Houser,2
+Meade,CHALK BUTTE #27,School and Lands,,Dem,Woody Houser,15
+Meade,FAIRPOINT #29,School and Lands,,Dem,Woody Houser,3
+Meade,RED OWL #30,School and Lands,,Dem,Woody Houser,3
+Meade,FAITH #31,School and Lands,,Dem,Woody Houser,29
+Meade,PINE #33,School and Lands,,Dem,Woody Houser,7
+Meade,SULPHUR #35,School and Lands,,Dem,Woody Houser,4
+Meade,UNION #40,School and Lands,,Dem,Woody Houser,10
+Meade,MARCUS #41,School and Lands,,Dem,Woody Houser,6
+Meade,NORTHEAST STURGIS #1A,School and Lands,,Dem,Woody Houser,46
+Meade,SOUTH STURGIS #2A,School and Lands,,Dem,Woody Houser,86
+Meade,SOUTHWEST STURGIS #4A,School and Lands,,Dem,Woody Houser,60
+Meade,STURGIS #5A,School and Lands,,Dem,Woody Houser,45
+Meade,ALKALI #6A,School and Lands,,Dem,Woody Houser,22
+Meade,MEADE SD,School and Lands,,Dem,Woody Houser,"2,450"
+Meade,EAST STURGIS #1,Public Utilities Commissioner,,Rep,Kristie Fiegen,146
+Meade,SOUTHEAST STURGIS #2,Public Utilities Commissioner,,Rep,Kristie Fiegen,284
+Meade,CENTRAL STURGIS #3,Public Utilities Commissioner,,Rep,Kristie Fiegen,118
+Meade,WEST STURGIS #4,Public Utilities Commissioner,,Rep,Kristie Fiegen,82
+Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Rep,Kristie Fiegen,263
+Meade,TILFORD #6,Public Utilities Commissioner,,Rep,Kristie Fiegen,450
+Meade,RURAL STURGIS #7,Public Utilities Commissioner,,Rep,Kristie Fiegen,221
+Meade,HARMONY #8,Public Utilities Commissioner,,Rep,Kristie Fiegen,209
+Meade,BEAR BUTTE #9,Public Utilities Commissioner,,Rep,Kristie Fiegen,116
+Meade,SUMMERSET #10,Public Utilities Commissioner,,Rep,Kristie Fiegen,592
+Meade,PIEDMONT #11,Public Utilities Commissioner,,Rep,Kristie Fiegen,452
+Meade,EAST PIEDMONT #12,Public Utilities Commissioner,,Rep,Kristie Fiegen,604
+Meade,SOUTHEAST PIEDMONT #13,Public Utilities Commissioner,,Rep,Kristie Fiegen,670
+Meade,BLACK HAWK #14,Public Utilities Commissioner,,Rep,Kristie Fiegen,336
+Meade,RURAL BLACK HAWK #15,Public Utilities Commissioner,,Rep,Kristie Fiegen,244
+Meade,WEST BLACK HAWK #16,Public Utilities Commissioner,,Rep,Kristie Fiegen,209
+Meade,VIEWFIELD #17,Public Utilities Commissioner,,Rep,Kristie Fiegen,71
+Meade,ELM SPRINGS #18,Public Utilities Commissioner,,Rep,Kristie Fiegen,65
+Meade,CENTRAL BLACK HAWK #19,Public Utilities Commissioner,,Rep,Kristie Fiegen,295
+Meade,HEREFORD #20,Public Utilities Commissioner,,Rep,Kristie Fiegen,35
+Meade,ELK VALE #21,Public Utilities Commissioner,,Rep,Kristie Fiegen,225
+Meade,BASE #23,Public Utilities Commissioner,,Rep,Kristie Fiegen,132
+Meade,WEST ELK VALE #24,Public Utilities Commissioner,,Rep,Kristie Fiegen,138
+Meade,WHITE OWL #25,Public Utilities Commissioner,,Rep,Kristie Fiegen,27
+Meade,CHALK BUTTE #27,Public Utilities Commissioner,,Rep,Kristie Fiegen,89
+Meade,FAIRPOINT #29,Public Utilities Commissioner,,Rep,Kristie Fiegen,31
+Meade,RED OWL #30,Public Utilities Commissioner,,Rep,Kristie Fiegen,66
+Meade,FAITH #31,Public Utilities Commissioner,,Rep,Kristie Fiegen,179
+Meade,PINE #33,Public Utilities Commissioner,,Rep,Kristie Fiegen,57
+Meade,SULPHUR #35,Public Utilities Commissioner,,Rep,Kristie Fiegen,39
+Meade,UNION #40,Public Utilities Commissioner,,Rep,Kristie Fiegen,23
+Meade,MARCUS #41,Public Utilities Commissioner,,Rep,Kristie Fiegen,38
+Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Rep,Kristie Fiegen,62
+Meade,SOUTH STURGIS #2A,Public Utilities Commissioner,,Rep,Kristie Fiegen,204
+Meade,SOUTHWEST STURGIS #4A,Public Utilities Commissioner,,Rep,Kristie Fiegen,164
+Meade,STURGIS #5A,Public Utilities Commissioner,,Rep,Kristie Fiegen,95
+Meade,ALKALI #6A,Public Utilities Commissioner,,Rep,Kristie Fiegen,89
+Meade,MEADE SD,Public Utilities Commissioner,,Rep,Kristie Fiegen,"7,120"
+Meade,EAST STURGIS #1,Public Utilities Commissioner,,Dem,Wayne Frederick,53
+Meade,SOUTHEAST STURGIS #2,Public Utilities Commissioner,,Dem,Wayne Frederick,110
+Meade,CENTRAL STURGIS #3,Public Utilities Commissioner,,Dem,Wayne Frederick,70
+Meade,WEST STURGIS #4,Public Utilities Commissioner,,Dem,Wayne Frederick,35
+Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Dem,Wayne Frederick,117
+Meade,TILFORD #6,Public Utilities Commissioner,,Dem,Wayne Frederick,155
+Meade,RURAL STURGIS #7,Public Utilities Commissioner,,Dem,Wayne Frederick,69
+Meade,HARMONY #8,Public Utilities Commissioner,,Dem,Wayne Frederick,68
+Meade,BEAR BUTTE #9,Public Utilities Commissioner,,Dem,Wayne Frederick,19
+Meade,SUMMERSET #10,Public Utilities Commissioner,,Dem,Wayne Frederick,214
+Meade,PIEDMONT #11,Public Utilities Commissioner,,Dem,Wayne Frederick,180
+Meade,EAST PIEDMONT #12,Public Utilities Commissioner,,Dem,Wayne Frederick,150
+Meade,SOUTHEAST PIEDMONT #13,Public Utilities Commissioner,,Dem,Wayne Frederick,202
+Meade,BLACK HAWK #14,Public Utilities Commissioner,,Dem,Wayne Frederick,135
+Meade,RURAL BLACK HAWK #15,Public Utilities Commissioner,,Dem,Wayne Frederick,85
+Meade,WEST BLACK HAWK #16,Public Utilities Commissioner,,Dem,Wayne Frederick,99
+Meade,VIEWFIELD #17,Public Utilities Commissioner,,Dem,Wayne Frederick,11
+Meade,ELM SPRINGS #18,Public Utilities Commissioner,,Dem,Wayne Frederick,8
+Meade,CENTRAL BLACK HAWK #19,Public Utilities Commissioner,,Dem,Wayne Frederick,121
+Meade,HEREFORD #20,Public Utilities Commissioner,,Dem,Wayne Frederick,13
+Meade,ELK VALE #21,Public Utilities Commissioner,,Dem,Wayne Frederick,66
+Meade,BASE #23,Public Utilities Commissioner,,Dem,Wayne Frederick,94
+Meade,WEST ELK VALE #24,Public Utilities Commissioner,,Dem,Wayne Frederick,27
+Meade,WHITE OWL #25,Public Utilities Commissioner,,Dem,Wayne Frederick,3
+Meade,CHALK BUTTE #27,Public Utilities Commissioner,,Dem,Wayne Frederick,16
+Meade,FAIRPOINT #29,Public Utilities Commissioner,,Dem,Wayne Frederick,4
+Meade,RED OWL #30,Public Utilities Commissioner,,Dem,Wayne Frederick,3
+Meade,FAITH #31,Public Utilities Commissioner,,Dem,Wayne Frederick,30
+Meade,PINE #33,Public Utilities Commissioner,,Dem,Wayne Frederick,9
+Meade,SULPHUR #35,Public Utilities Commissioner,,Dem,Wayne Frederick,4
+Meade,UNION #40,Public Utilities Commissioner,,Dem,Wayne Frederick,9
+Meade,MARCUS #41,Public Utilities Commissioner,,Dem,Wayne Frederick,8
+Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Dem,Wayne Frederick,43
+Meade,SOUTH STURGIS #2A,Public Utilities Commissioner,,Dem,Wayne Frederick,88
+Meade,SOUTHWEST STURGIS #4A,Public Utilities Commissioner,,Dem,Wayne Frederick,64
+Meade,STURGIS #5A,Public Utilities Commissioner,,Dem,Wayne Frederick,50
+Meade,ALKALI #6A,Public Utilities Commissioner,,Dem,Wayne Frederick,29
+Meade,MEADE SD,Public Utilities Commissioner,,Dem,Wayne Frederick,"2,461"
+Meade,EAST STURGIS #1,State Senate,29,Rep,Gary L. Cammack,142
+Meade,SOUTHEAST STURGIS #2,State Senate,29,Rep,Gary L. Cammack,298
+Meade,CENTRAL STURGIS #3,State Senate,29,Rep,Gary L. Cammack,125
+Meade,WEST STURGIS #4,State Senate,29,Rep,Gary L. Cammack,80
+Meade,NORTHWEST STURGIS #5,State Senate,29,Rep,Gary L. Cammack,280
+Meade,TILFORD #6,State Senate,29,Rep,Gary L. Cammack,443
+Meade,RURAL STURGIS #7,State Senate,29,Rep,Gary L. Cammack,219
+Meade,HARMONY #8,State Senate,29,Rep,Gary L. Cammack,209
+Meade,BEAR BUTTE #9,State Senate,29,Rep,Gary L. Cammack,107
+Meade,PIEDMONT #11,State Senate,29,Rep,Gary L. Cammack,452
+Meade,EAST PIEDMONT #12,State Senate,29,Rep,Gary L. Cammack,591
+Meade,SOUTHEAST PIEDMONT #13,State Senate,29,Rep,Gary L. Cammack,665
+Meade,RURAL BLACK HAWK #15,State Senate,29,Rep,Gary L. Cammack,236
+Meade,VIEWFIELD #17,State Senate,29,Rep,Gary L. Cammack,61
+Meade,ELM SPRINGS #18,State Senate,29,Rep,Gary L. Cammack,43
+Meade,HEREFORD #20,State Senate,29,Rep,Gary L. Cammack,19
+Meade,ELK VALE #21,State Senate,29,Rep,Gary L. Cammack,221
+Meade,BASE #23,State Senate,29,Rep,Gary L. Cammack,130
+Meade,WEST ELK VALE #24,State Senate,29,Rep,Gary L. Cammack,128
+Meade,WHITE OWL #25,State Senate,29,Rep,Gary L. Cammack,22
+Meade,CHALK BUTTE #27,State Senate,29,Rep,Gary L. Cammack,72
+Meade,FAIRPOINT #29,State Senate,29,Rep,Gary L. Cammack,22
+Meade,RED OWL #30,State Senate,29,Rep,Gary L. Cammack,54
+Meade,FAITH #31,State Senate,29,Rep,Gary L. Cammack,166
+Meade,PINE #33,State Senate,29,Rep,Gary L. Cammack,44
+Meade,SULPHUR #35,State Senate,29,Rep,Gary L. Cammack,31
+Meade,UNION #40,State Senate,29,Rep,Gary L. Cammack,22
+Meade,MARCUS #41,State Senate,29,Rep,Gary L. Cammack,27
+Meade,NORTHEAST STURGIS #1A,State Senate,29,Rep,Gary L. Cammack,61
+Meade,SOUTH STURGIS #2A,State Senate,29,Rep,Gary L. Cammack,211
+Meade,SOUTHWEST STURGIS #4A,State Senate,29,Rep,Gary L. Cammack,175
+Meade,STURGIS #5A,State Senate,29,Rep,Gary L. Cammack,108
+Meade,ALKALI #6A,State Senate,29,Rep,Gary L. Cammack,84
+Meade,MEADE SD,State Senate,29,Rep,Gary L. Cammack,"5,548"
+Meade,EAST STURGIS #1,State Senate,29,Dem,Matt  Kammerer ,58
+Meade,SOUTHEAST STURGIS #2,State Senate,29,Dem,Matt  Kammerer ,119
+Meade,CENTRAL STURGIS #3,State Senate,29,Dem,Matt  Kammerer ,66
+Meade,WEST STURGIS #4,State Senate,29,Dem,Matt  Kammerer ,43
+Meade,NORTHWEST STURGIS #5,State Senate,29,Dem,Matt  Kammerer ,112
+Meade,TILFORD #6,State Senate,29,Dem,Matt  Kammerer ,181
+Meade,RURAL STURGIS #7,State Senate,29,Dem,Matt  Kammerer ,80
+Meade,HARMONY #8,State Senate,29,Dem,Matt  Kammerer ,77
+Meade,BEAR BUTTE #9,State Senate,29,Dem,Matt  Kammerer ,32
+Meade,PIEDMONT #11,State Senate,29,Dem,Matt  Kammerer ,191
+Meade,EAST PIEDMONT #12,State Senate,29,Dem,Matt  Kammerer ,168
+Meade,SOUTHEAST PIEDMONT #13,State Senate,29,Dem,Matt  Kammerer ,220
+Meade,RURAL BLACK HAWK #15,State Senate,29,Dem,Matt  Kammerer ,96
+Meade,VIEWFIELD #17,State Senate,29,Dem,Matt  Kammerer ,23
+Meade,ELM SPRINGS #18,State Senate,29,Dem,Matt  Kammerer ,29
+Meade,HEREFORD #20,State Senate,29,Dem,Matt  Kammerer ,24
+Meade,ELK VALE #21,State Senate,29,Dem,Matt  Kammerer ,75
+Meade,BASE #23,State Senate,29,Dem,Matt  Kammerer ,93
+Meade,WEST ELK VALE #24,State Senate,29,Dem,Matt  Kammerer ,43
+Meade,WHITE OWL #25,State Senate,29,Dem,Matt  Kammerer ,10
+Meade,CHALK BUTTE #27,State Senate,29,Dem,Matt  Kammerer ,40
+Meade,FAIRPOINT #29,State Senate,29,Dem,Matt  Kammerer ,11
+Meade,RED OWL #30,State Senate,29,Dem,Matt  Kammerer ,19
+Meade,FAITH #31,State Senate,29,Dem,Matt  Kammerer ,46
+Meade,PINE #33,State Senate,29,Dem,Matt  Kammerer ,24
+Meade,SULPHUR #35,State Senate,29,Dem,Matt  Kammerer ,11
+Meade,UNION #40,State Senate,29,Dem,Matt  Kammerer ,13
+Meade,MARCUS #41,State Senate,29,Dem,Matt  Kammerer ,21
+Meade,NORTHEAST STURGIS #1A,State Senate,29,Dem,Matt  Kammerer ,43
+Meade,SOUTH STURGIS #2A,State Senate,29,Dem,Matt  Kammerer ,87
+Meade,SOUTHWEST STURGIS #4A,State Senate,29,Dem,Matt  Kammerer ,60
+Meade,STURGIS #5A,State Senate,29,Dem,Matt  Kammerer ,46
+Meade,ALKALI #6A,State Senate,29,Dem,Matt  Kammerer ,44
+Meade,MEADE SD,State Senate,29,Dem,Matt  Kammerer ,"2,205"
+Meade,SUMMERSET #10,State Senate,33,Rep,Phil Jensen,590
+Meade,BLACK HAWK #14,State Senate,33,Rep,Phil Jensen,320
+Meade,WEST BLACK HAWK #16,State Senate,33,Rep,Phil Jensen,204
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,Rep,Phil Jensen,283
+Meade,MEADE SD,State Senate,33,Rep,Phil Jensen,"1,397"
+Meade,SUMMERSET #10,State Senate,33,Dem,Ryan A. Ryder,234
+Meade,BLACK HAWK #14,State Senate,33,Dem,Ryan A. Ryder,155
+Meade,WEST BLACK HAWK #16,State Senate,33,Dem,Ryan A. Ryder,114
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,Dem,Ryan A. Ryder,145
+Meade,MEADE SD,State Senate,33,Dem,Ryan A. Ryder,648
+Meade,EAST STURGIS #1,State House,29,Rep,Kirk  Chaffee ,137
+Meade,SOUTHEAST STURGIS #2,State House,29,Rep,Kirk  Chaffee ,284
+Meade,CENTRAL STURGIS #3,State House,29,Rep,Kirk  Chaffee ,124
+Meade,WEST STURGIS #4,State House,29,Rep,Kirk  Chaffee ,70
+Meade,NORTHWEST STURGIS #5,State House,29,Rep,Kirk  Chaffee ,257
+Meade,TILFORD #6,State House,29,Rep,Kirk  Chaffee ,413
+Meade,RURAL STURGIS #7,State House,29,Rep,Kirk  Chaffee ,194
+Meade,HARMONY #8,State House,29,Rep,Kirk  Chaffee ,190
+Meade,BEAR BUTTE #9,State House,29,Rep,Kirk  Chaffee ,91
+Meade,PIEDMONT #11,State House,29,Rep,Kirk  Chaffee ,428
+Meade,EAST PIEDMONT #12,State House,29,Rep,Kirk  Chaffee ,538
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Rep,Kirk  Chaffee ,591
+Meade,RURAL BLACK HAWK #15,State House,29,Rep,Kirk  Chaffee ,223
+Meade,VIEWFIELD #17,State House,29,Rep,Kirk  Chaffee ,57
+Meade,ELM SPRINGS #18,State House,29,Rep,Kirk  Chaffee ,54
+Meade,HEREFORD #20,State House,29,Rep,Kirk  Chaffee ,33
+Meade,ELK VALE #21,State House,29,Rep,Kirk  Chaffee ,192
+Meade,BASE #23,State House,29,Rep,Kirk  Chaffee ,121
+Meade,WEST ELK VALE #24,State House,29,Rep,Kirk  Chaffee ,123
+Meade,WHITE OWL #25,State House,29,Rep,Kirk  Chaffee ,25
+Meade,CHALK BUTTE #27,State House,29,Rep,Kirk  Chaffee ,79
+Meade,FAIRPOINT #29,State House,29,Rep,Kirk  Chaffee ,24
+Meade,RED OWL #30,State House,29,Rep,Kirk  Chaffee ,50
+Meade,FAITH #31,State House,29,Rep,Kirk  Chaffee ,161
+Meade,PINE #33,State House,29,Rep,Kirk  Chaffee ,43
+Meade,SULPHUR #35,State House,29,Rep,Kirk  Chaffee ,38
+Meade,UNION #40,State House,29,Rep,Kirk  Chaffee ,20
+Meade,MARCUS #41,State House,29,Rep,Kirk  Chaffee ,29
+Meade,NORTHEAST STURGIS #1A,State House,29,Rep,Kirk  Chaffee ,55
+Meade,SOUTH STURGIS #2A,State House,29,Rep,Kirk  Chaffee ,184
+Meade,SOUTHWEST STURGIS #4A,State House,29,Rep,Kirk  Chaffee ,159
+Meade,STURGIS #5A,State House,29,Rep,Kirk  Chaffee ,106
+Meade,ALKALI #6A,State House,29,Rep,Kirk  Chaffee ,84
+Meade,MEADE SD,State House,29,Rep,Kirk  Chaffee ,"5,177"
+Meade,EAST STURGIS #1,State House,29,Rep,Thomas J. Brunner,112
+Meade,SOUTHEAST STURGIS #2,State House,29,Rep,Thomas J. Brunner,235
+Meade,CENTRAL STURGIS #3,State House,29,Rep,Thomas J. Brunner,104
+Meade,WEST STURGIS #4,State House,29,Rep,Thomas J. Brunner,69
+Meade,NORTHWEST STURGIS #5,State House,29,Rep,Thomas J. Brunner,214
+Meade,TILFORD #6,State House,29,Rep,Thomas J. Brunner,394
+Meade,RURAL STURGIS #7,State House,29,Rep,Thomas J. Brunner,182
+Meade,HARMONY #8,State House,29,Rep,Thomas J. Brunner,180
+Meade,BEAR BUTTE #9,State House,29,Rep,Thomas J. Brunner,101
+Meade,PIEDMONT #11,State House,29,Rep,Thomas J. Brunner,389
+Meade,EAST PIEDMONT #12,State House,29,Rep,Thomas J. Brunner,531
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Rep,Thomas J. Brunner,567
+Meade,RURAL BLACK HAWK #15,State House,29,Rep,Thomas J. Brunner,221
+Meade,VIEWFIELD #17,State House,29,Rep,Thomas J. Brunner,68
+Meade,ELM SPRINGS #18,State House,29,Rep,Thomas J. Brunner,60
+Meade,HEREFORD #20,State House,29,Rep,Thomas J. Brunner,32
+Meade,ELK VALE #21,State House,29,Rep,Thomas J. Brunner,200
+Meade,BASE #23,State House,29,Rep,Thomas J. Brunner,118
+Meade,WEST ELK VALE #24,State House,29,Rep,Thomas J. Brunner,124
+Meade,WHITE OWL #25,State House,29,Rep,Thomas J. Brunner,23
+Meade,CHALK BUTTE #27,State House,29,Rep,Thomas J. Brunner,81
+Meade,FAIRPOINT #29,State House,29,Rep,Thomas J. Brunner,28
+Meade,RED OWL #30,State House,29,Rep,Thomas J. Brunner,60
+Meade,FAITH #31,State House,29,Rep,Thomas J. Brunner,150
+Meade,PINE #33,State House,29,Rep,Thomas J. Brunner,52
+Meade,SULPHUR #35,State House,29,Rep,Thomas J. Brunner,41
+Meade,UNION #40,State House,29,Rep,Thomas J. Brunner,18
+Meade,MARCUS #41,State House,29,Rep,Thomas J. Brunner,32
+Meade,NORTHEAST STURGIS #1A,State House,29,Rep,Thomas J. Brunner,46
+Meade,SOUTH STURGIS #2A,State House,29,Rep,Thomas J. Brunner,175
+Meade,SOUTHWEST STURGIS #4A,State House,29,Rep,Thomas J. Brunner,138
+Meade,STURGIS #5A,State House,29,Rep,Thomas J. Brunner,81
+Meade,ALKALI #6A,State House,29,Rep,Thomas J. Brunner,96
+Meade,MEADE SD,State House,29,Rep,Thomas J. Brunner,"4,922"
+Meade,EAST STURGIS #1,State House,29,Dem,Michael S. McManus,52
+Meade,SOUTHEAST STURGIS #2,State House,29,Dem,Michael S. McManus,91
+Meade,CENTRAL STURGIS #3,State House,29,Dem,Michael S. McManus,46
+Meade,WEST STURGIS #4,State House,29,Dem,Michael S. McManus,35
+Meade,NORTHWEST STURGIS #5,State House,29,Dem,Michael S. McManus,91
+Meade,TILFORD #6,State House,29,Dem,Michael S. McManus,144
+Meade,RURAL STURGIS #7,State House,29,Dem,Michael S. McManus,70
+Meade,HARMONY #8,State House,29,Dem,Michael S. McManus,66
+Meade,BEAR BUTTE #9,State House,29,Dem,Michael S. McManus,22
+Meade,PIEDMONT #11,State House,29,Dem,Michael S. McManus,156
+Meade,EAST PIEDMONT #12,State House,29,Dem,Michael S. McManus,151
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Dem,Michael S. McManus,199
+Meade,RURAL BLACK HAWK #15,State House,29,Dem,Michael S. McManus,84
+Meade,VIEWFIELD #17,State House,29,Dem,Michael S. McManus,14
+Meade,ELM SPRINGS #18,State House,29,Dem,Michael S. McManus,9
+Meade,HEREFORD #20,State House,29,Dem,Michael S. McManus,10
+Meade,ELK VALE #21,State House,29,Dem,Michael S. McManus,55
+Meade,BASE #23,State House,29,Dem,Michael S. McManus,77
+Meade,WEST ELK VALE #24,State House,29,Dem,Michael S. McManus,27
+Meade,WHITE OWL #25,State House,29,Dem,Michael S. McManus,3
+Meade,CHALK BUTTE #27,State House,29,Dem,Michael S. McManus,23
+Meade,FAIRPOINT #29,State House,29,Dem,Michael S. McManus,5
+Meade,RED OWL #30,State House,29,Dem,Michael S. McManus,10
+Meade,FAITH #31,State House,29,Dem,Michael S. McManus,37
+Meade,PINE #33,State House,29,Dem,Michael S. McManus,8
+Meade,SULPHUR #35,State House,29,Dem,Michael S. McManus,1
+Meade,UNION #40,State House,29,Dem,Michael S. McManus,9
+Meade,MARCUS #41,State House,29,Dem,Michael S. McManus,5
+Meade,NORTHEAST STURGIS #1A,State House,29,Dem,Michael S. McManus,29
+Meade,SOUTH STURGIS #2A,State House,29,Dem,Michael S. McManus,76
+Meade,SOUTHWEST STURGIS #4A,State House,29,Dem,Michael S. McManus,54
+Meade,STURGIS #5A,State House,29,Dem,Michael S. McManus,41
+Meade,ALKALI #6A,State House,29,Dem,Michael S. McManus,21
+Meade,MEADE SD,State House,29,Dem,Michael S. McManus,"1,721"
+Meade,EAST STURGIS #1,State House,29,Dem,Jade Addison,47
+Meade,SOUTHEAST STURGIS #2,State House,29,Dem,Jade Addison,107
+Meade,CENTRAL STURGIS #3,State House,29,Dem,Jade Addison,59
+Meade,WEST STURGIS #4,State House,29,Dem,Jade Addison,33
+Meade,NORTHWEST STURGIS #5,State House,29,Dem,Jade Addison,107
+Meade,TILFORD #6,State House,29,Dem,Jade Addison,148
+Meade,RURAL STURGIS #7,State House,29,Dem,Jade Addison,74
+Meade,HARMONY #8,State House,29,Dem,Jade Addison,64
+Meade,BEAR BUTTE #9,State House,29,Dem,Jade Addison,16
+Meade,PIEDMONT #11,State House,29,Dem,Jade Addison,166
+Meade,EAST PIEDMONT #12,State House,29,Dem,Jade Addison,154
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Dem,Jade Addison,206
+Meade,RURAL BLACK HAWK #15,State House,29,Dem,Jade Addison,79
+Meade,VIEWFIELD #17,State House,29,Dem,Jade Addison,13
+Meade,ELM SPRINGS #18,State House,29,Dem,Jade Addison,9
+Meade,HEREFORD #20,State House,29,Dem,Jade Addison,10
+Meade,ELK VALE #21,State House,29,Dem,Jade Addison,70
+Meade,BASE #23,State House,29,Dem,Jade Addison,84
+Meade,WEST ELK VALE #24,State House,29,Dem,Jade Addison,25
+Meade,WHITE OWL #25,State House,29,Dem,Jade Addison,5
+Meade,CHALK BUTTE #27,State House,29,Dem,Jade Addison,17
+Meade,FAIRPOINT #29,State House,29,Dem,Jade Addison,5
+Meade,RED OWL #30,State House,29,Dem,Jade Addison,5
+Meade,FAITH #31,State House,29,Dem,Jade Addison,30
+Meade,PINE #33,State House,29,Dem,Jade Addison,9
+Meade,SULPHUR #35,State House,29,Dem,Jade Addison,1
+Meade,UNION #40,State House,29,Dem,Jade Addison,11
+Meade,MARCUS #41,State House,29,Dem,Jade Addison,7
+Meade,NORTHEAST STURGIS #1A,State House,29,Dem,Jade Addison,34
+Meade,SOUTH STURGIS #2A,State House,29,Dem,Jade Addison,81
+Meade,SOUTHWEST STURGIS #4A,State House,29,Dem,Jade Addison,56
+Meade,STURGIS #5A,State House,29,Dem,Jade Addison,41
+Meade,ALKALI #6A,State House,29,Dem,Jade Addison,23
+Meade,MEADE SD,State House,29,Dem,Jade Addison,"1,796"
+Meade,SUMMERSET #10,State House,33,Rep,David   Johnson,533
+Meade,BLACK HAWK #14,State House,33,Rep,David   Johnson,280
+Meade,WEST BLACK HAWK #16,State House,33,Rep,David   Johnson,178
+Meade,CENTRAL BLACK HAWK #19,State House,33,Rep,David   Johnson,278
+Meade,MEADE SD,State House,33,Rep,David   Johnson,"1,269"
+Meade,SUMMERSET #10,State House,33,Rep,Taffy Howard,461
+Meade,BLACK HAWK #14,State House,33,Rep,Taffy Howard,268
+Meade,WEST BLACK HAWK #16,State House,33,Rep,Taffy Howard,186
+Meade,CENTRAL BLACK HAWK #19,State House,33,Rep,Taffy Howard,239
+Meade,MEADE SD,State House,33,Rep,Taffy Howard,"1,154"
+Meade,SUMMERSET #10,State House,33,Dem,Lilias Jarding,221
+Meade,BLACK HAWK #14,State House,33,Dem,Lilias Jarding,111
+Meade,WEST BLACK HAWK #16,State House,33,Dem,Lilias Jarding,90
+Meade,CENTRAL BLACK HAWK #19,State House,33,Dem,Lilias Jarding,115
+Meade,MEADE SD,State House,33,Dem,Lilias Jarding,537
+Meade,SUMMERSET #10,State House,33,Dem,Nick Reid,161
+Meade,BLACK HAWK #14,State House,33,Dem,Nick Reid,137
+Meade,WEST BLACK HAWK #16,State House,33,Dem,Nick Reid,88
+Meade,CENTRAL BLACK HAWK #19,State House,33,Dem,Nick Reid,82
+Meade,MEADE SD,State House,33,Dem,Nick Reid,468
