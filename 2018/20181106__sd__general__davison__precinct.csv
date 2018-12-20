@@ -1,0 +1,301 @@
+county,precinct,office,district,party,candidate,votes
+Davison,Precinct-01,U.S. House,1,LIB,George D. Hendrickson,1
+Davison,Precinct-02,U.S. House,1,LIB,George D. Hendrickson,6
+Davison,Precinct-03,U.S. House,1,LIB,George D. Hendrickson,5
+Davison,Precinct-04 (Precinct-05),U.S. House,1,LIB,George D. Hendrickson,2
+Davison,Precinct-06 (Precinct-07),U.S. House,1,LIB,George D. Hendrickson,1
+Davison,Precinct-08 (Precinct-09),U.S. House,1,LIB,George D. Hendrickson,14
+Davison,Precinct-10 (Precinct-11),U.S. House,1,LIB,George D. Hendrickson,2
+Davison,Precinct-12 (Precinct-13),U.S. House,1,LIB,George D. Hendrickson,9
+Davison,Precinct-14 (Precinct-16),U.S. House,1,LIB,George D. Hendrickson,8
+Davison,Precinct-15,U.S. House,1,LIB,George D. Hendrickson,3
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",U.S. House,1,LIB,George D. Hendrickson,3
+Davison,Precinct-20,U.S. House,1,LIB,George D. Hendrickson,7
+Davison,Precinct-01,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",177
+Davison,Precinct-02,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",232
+Davison,Precinct-03,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",466
+Davison,Precinct-04 (Precinct-05),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",467
+Davison,Precinct-06 (Precinct-07),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",624
+Davison,Precinct-08 (Precinct-09),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",469
+Davison,Precinct-10 (Precinct-11),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",468
+Davison,Precinct-12 (Precinct-13),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",361
+Davison,Precinct-14 (Precinct-16),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",328
+Davison,Precinct-15,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",315
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",U.S. House,1,REP,"Dustin ""Dusty"" Johnson",451
+Davison,Precinct-20,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",449
+Davison,Precinct-01,U.S. House,1,DEM,Tim Bjorkman,64
+Davison,Precinct-02,U.S. House,1,DEM,Tim Bjorkman,81
+Davison,Precinct-03,U.S. House,1,DEM,Tim Bjorkman,152
+Davison,Precinct-04 (Precinct-05),U.S. House,1,DEM,Tim Bjorkman,156
+Davison,Precinct-06 (Precinct-07),U.S. House,1,DEM,Tim Bjorkman,190
+Davison,Precinct-08 (Precinct-09),U.S. House,1,DEM,Tim Bjorkman,244
+Davison,Precinct-10 (Precinct-11),U.S. House,1,DEM,Tim Bjorkman,265
+Davison,Precinct-12 (Precinct-13),U.S. House,1,DEM,Tim Bjorkman,169
+Davison,Precinct-14 (Precinct-16),U.S. House,1,DEM,Tim Bjorkman,229
+Davison,Precinct-15,U.S. House,1,DEM,Tim Bjorkman,204
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",U.S. House,1,DEM,Tim Bjorkman,223
+Davison,Precinct-20,U.S. House,1,DEM,Tim Bjorkman,183
+Davison,Precinct-01,U.S. House,1,IND,Ron Wieczorek,14
+Davison,Precinct-02,U.S. House,1,IND,Ron Wieczorek,44
+Davison,Precinct-03,U.S. House,1,IND,Ron Wieczorek,27
+Davison,Precinct-04 (Precinct-05),U.S. House,1,IND,Ron Wieczorek,18
+Davison,Precinct-06 (Precinct-07),U.S. House,1,IND,Ron Wieczorek,8
+Davison,Precinct-08 (Precinct-09),U.S. House,1,IND,Ron Wieczorek,26
+Davison,Precinct-10 (Precinct-11),U.S. House,1,IND,Ron Wieczorek,21
+Davison,Precinct-12 (Precinct-13),U.S. House,1,IND,Ron Wieczorek,9
+Davison,Precinct-14 (Precinct-16),U.S. House,1,IND,Ron Wieczorek,23
+Davison,Precinct-15,U.S. House,1,IND,Ron Wieczorek,9
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",U.S. House,1,IND,Ron Wieczorek,14
+Davison,Precinct-20,U.S. House,1,IND,Ron Wieczorek,9
+Davison,Precinct-01,Governor,,LIB,Kurt Evans,1
+Davison,Precinct-02,Governor,,LIB,Kurt Evans,10
+Davison,Precinct-03,Governor,,LIB,Kurt Evans,9
+Davison,Precinct-04 (Precinct-05),Governor,,LIB,Kurt Evans,7
+Davison,Precinct-06 (Precinct-07),Governor,,LIB,Kurt Evans,4
+Davison,Precinct-08 (Precinct-09),Governor,,LIB,Kurt Evans,17
+Davison,Precinct-10 (Precinct-11),Governor,,LIB,Kurt Evans,9
+Davison,Precinct-12 (Precinct-13),Governor,,LIB,Kurt Evans,4
+Davison,Precinct-14 (Precinct-16),Governor,,LIB,Kurt Evans,11
+Davison,Precinct-15,Governor,,LIB,Kurt Evans,9
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Governor,,LIB,Kurt Evans,8
+Davison,Precinct-20,Governor,,LIB,Kurt Evans,8
+Davison,Precinct-01,Governor,,REP,Kristi Noem,143
+Davison,Precinct-02,Governor,,REP,Kristi Noem,216
+Davison,Precinct-03,Governor,,REP,Kristi Noem,400
+Davison,Precinct-04 (Precinct-05),Governor,,REP,Kristi Noem,370
+Davison,Precinct-06 (Precinct-07),Governor,,REP,Kristi Noem,456
+Davison,Precinct-08 (Precinct-09),Governor,,REP,Kristi Noem,371
+Davison,Precinct-10 (Precinct-11),Governor,,REP,Kristi Noem,358
+Davison,Precinct-12 (Precinct-13),Governor,,REP,Kristi Noem,279
+Davison,Precinct-14 (Precinct-16),Governor,,REP,Kristi Noem,270
+Davison,Precinct-15,Governor,,REP,Kristi Noem,245
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Governor,,REP,Kristi Noem,335
+Davison,Precinct-20,Governor,,REP,Kristi Noem,336
+Davison,Precinct-01,Governor,,DEM,Billie Sutton,114
+Davison,Precinct-02,Governor,,DEM,Billie Sutton,139
+Davison,Precinct-03,Governor,,DEM,Billie Sutton,243
+Davison,Precinct-04 (Precinct-05),Governor,,DEM,Billie Sutton,268
+Davison,Precinct-06 (Precinct-07),Governor,,DEM,Billie Sutton,367
+Davison,Precinct-08 (Precinct-09),Governor,,DEM,Billie Sutton,363
+Davison,Precinct-10 (Precinct-11),Governor,,DEM,Billie Sutton,399
+Davison,Precinct-12 (Precinct-13),Governor,,DEM,Billie Sutton,267
+Davison,Precinct-14 (Precinct-16),Governor,,DEM,Billie Sutton,308
+Davison,Precinct-15,Governor,,DEM,Billie Sutton,282
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Governor,,DEM,Billie Sutton,342
+Davison,Precinct-20,Governor,,DEM,Billie Sutton,306
+Davison,Precinct-01,Secretary of State,,REP,Steve Barnett,186
+Davison,Precinct-02,Secretary of State,,REP,Steve Barnett,273
+Davison,Precinct-03,Secretary of State,,REP,Steve Barnett,485
+Davison,Precinct-04 (Precinct-05),Secretary of State,,REP,Steve Barnett,479
+Davison,Precinct-06 (Precinct-07),Secretary of State,,REP,Steve Barnett,584
+Davison,Precinct-08 (Precinct-09),Secretary of State,,REP,Steve Barnett,477
+Davison,Precinct-10 (Precinct-11),Secretary of State,,REP,Steve Barnett,491
+Davison,Precinct-12 (Precinct-13),Secretary of State,,REP,Steve Barnett,350
+Davison,Precinct-14 (Precinct-16),Secretary of State,,REP,Steve Barnett,341
+Davison,Precinct-15,Secretary of State,,REP,Steve Barnett,330
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Secretary of State,,REP,Steve Barnett,430
+Davison,Precinct-20,Secretary of State,,REP,Steve Barnett,443
+Davison,Precinct-01,Secretary of State,,DEM,Alexandra Frederick,54
+Davison,Precinct-02,Secretary of State,,DEM,Alexandra Frederick,73
+Davison,Precinct-03,Secretary of State,,DEM,Alexandra Frederick,134
+Davison,Precinct-04 (Precinct-05),Secretary of State,,DEM,Alexandra Frederick,136
+Davison,Precinct-06 (Precinct-07),Secretary of State,,DEM,Alexandra Frederick,204
+Davison,Precinct-08 (Precinct-09),Secretary of State,,DEM,Alexandra Frederick,240
+Davison,Precinct-10 (Precinct-11),Secretary of State,,DEM,Alexandra Frederick,226
+Davison,Precinct-12 (Precinct-13),Secretary of State,,DEM,Alexandra Frederick,170
+Davison,Precinct-14 (Precinct-16),Secretary of State,,DEM,Alexandra Frederick,219
+Davison,Precinct-15,Secretary of State,,DEM,Alexandra Frederick,176
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Secretary of State,,DEM,Alexandra Frederick,224
+Davison,Precinct-20,Secretary of State,,DEM,Alexandra Frederick,173
+Davison,Precinct-01,Attorney General,,REP,Jason Ravnsborg,140
+Davison,Precinct-02,Attorney General,,REP,Jason Ravnsborg,244
+Davison,Precinct-03,Attorney General,,REP,Jason Ravnsborg,401
+Davison,Precinct-04 (Precinct-05),Attorney General,,REP,Jason Ravnsborg,378
+Davison,Precinct-06 (Precinct-07),Attorney General,,REP,Jason Ravnsborg,455
+Davison,Precinct-08 (Precinct-09),Attorney General,,REP,Jason Ravnsborg,398
+Davison,Precinct-10 (Precinct-11),Attorney General,,REP,Jason Ravnsborg,389
+Davison,Precinct-12 (Precinct-13),Attorney General,,REP,Jason Ravnsborg,296
+Davison,Precinct-14 (Precinct-16),Attorney General,,REP,Jason Ravnsborg,278
+Davison,Precinct-15,Attorney General,,REP,Jason Ravnsborg,240
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Attorney General,,REP,Jason Ravnsborg,354
+Davison,Precinct-20,Attorney General,,REP,Jason Ravnsborg,352
+Davison,Precinct-01,Attorney General,,DEM,Randy Seiler,103
+Davison,Precinct-02,Attorney General,,DEM,Randy Seiler,106
+Davison,Precinct-03,Attorney General,,DEM,Randy Seiler,220
+Davison,Precinct-04 (Precinct-05),Attorney General,,DEM,Randy Seiler,231
+Davison,Precinct-06 (Precinct-07),Attorney General,,DEM,Randy Seiler,323
+Davison,Precinct-08 (Precinct-09),Attorney General,,DEM,Randy Seiler,319
+Davison,Precinct-10 (Precinct-11),Attorney General,,DEM,Randy Seiler,335
+Davison,Precinct-12 (Precinct-13),Attorney General,,DEM,Randy Seiler,231
+Davison,Precinct-14 (Precinct-16),Attorney General,,DEM,Randy Seiler,286
+Davison,Precinct-15,Attorney General,,DEM,Randy Seiler,273
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Attorney General,,DEM,Randy Seiler,307
+Davison,Precinct-20,Attorney General,,DEM,Randy Seiler,269
+Davison,Precinct-01,State Auditor,,REP,Rich Sattgast,183
+Davison,Precinct-02,State Auditor,,REP,Rich Sattgast,268
+Davison,Precinct-03,State Auditor,,REP,Rich Sattgast,464
+Davison,Precinct-04 (Precinct-05),State Auditor,,REP,Rich Sattgast,436
+Davison,Precinct-06 (Precinct-07),State Auditor,,REP,Rich Sattgast,552
+Davison,Precinct-08 (Precinct-09),State Auditor,,REP,Rich Sattgast,469
+Davison,Precinct-10 (Precinct-11),State Auditor,,REP,Rich Sattgast,462
+Davison,Precinct-12 (Precinct-13),State Auditor,,REP,Rich Sattgast,333
+Davison,Precinct-14 (Precinct-16),State Auditor,,REP,Rich Sattgast,312
+Davison,Precinct-15,State Auditor,,REP,Rich Sattgast,309
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Auditor,,REP,Rich Sattgast,416
+Davison,Precinct-20,State Auditor,,REP,Rich Sattgast,417
+Davison,Precinct-01,State Auditor,,DEM,Tom Cool,49
+Davison,Precinct-02,State Auditor,,DEM,Tom Cool,65
+Davison,Precinct-03,State Auditor,,DEM,Tom Cool,132
+Davison,Precinct-04 (Precinct-05),State Auditor,,DEM,Tom Cool,157
+Davison,Precinct-06 (Precinct-07),State Auditor,,DEM,Tom Cool,205
+Davison,Precinct-08 (Precinct-09),State Auditor,,DEM,Tom Cool,232
+Davison,Precinct-10 (Precinct-11),State Auditor,,DEM,Tom Cool,240
+Davison,Precinct-12 (Precinct-13),State Auditor,,DEM,Tom Cool,171
+Davison,Precinct-14 (Precinct-16),State Auditor,,DEM,Tom Cool,234
+Davison,Precinct-15,State Auditor,,DEM,Tom Cool,189
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Auditor,,DEM,Tom Cool,233
+Davison,Precinct-20,State Auditor,,DEM,Tom Cool,188
+Davison,Precinct-01,State Treasurer,,REP,Josh Haeder,159
+Davison,Precinct-02,State Treasurer,,REP,Josh Haeder,253
+Davison,Precinct-03,State Treasurer,,REP,Josh Haeder,431
+Davison,Precinct-04 (Precinct-05),State Treasurer,,REP,Josh Haeder,419
+Davison,Precinct-06 (Precinct-07),State Treasurer,,REP,Josh Haeder,509
+Davison,Precinct-08 (Precinct-09),State Treasurer,,REP,Josh Haeder,430
+Davison,Precinct-10 (Precinct-11),State Treasurer,,REP,Josh Haeder,436
+Davison,Precinct-12 (Precinct-13),State Treasurer,,REP,Josh Haeder,321
+Davison,Precinct-14 (Precinct-16),State Treasurer,,REP,Josh Haeder,311
+Davison,Precinct-15,State Treasurer,,REP,Josh Haeder,286
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Treasurer,,REP,Josh Haeder,396
+Davison,Precinct-20,State Treasurer,,REP,Josh Haeder,391
+Davison,Precinct-01,State Treasurer,,DEM,Aaron Matson,62
+Davison,Precinct-02,State Treasurer,,DEM,Aaron Matson,75
+Davison,Precinct-03,State Treasurer,,DEM,Aaron Matson,155
+Davison,Precinct-04 (Precinct-05),State Treasurer,,DEM,Aaron Matson,167
+Davison,Precinct-06 (Precinct-07),State Treasurer,,DEM,Aaron Matson,230
+Davison,Precinct-08 (Precinct-09),State Treasurer,,DEM,Aaron Matson,256
+Davison,Precinct-10 (Precinct-11),State Treasurer,,DEM,Aaron Matson,251
+Davison,Precinct-12 (Precinct-13),State Treasurer,,DEM,Aaron Matson,182
+Davison,Precinct-14 (Precinct-16),State Treasurer,,DEM,Aaron Matson,223
+Davison,Precinct-15,State Treasurer,,DEM,Aaron Matson,214
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Treasurer,,DEM,Aaron Matson,244
+Davison,Precinct-20,State Treasurer,,DEM,Aaron Matson,206
+Davison,Precinct-01,Commissioner of School and Public Lands,,REP,Ryan Brunner,151
+Davison,Precinct-02,Commissioner of School and Public Lands,,REP,Ryan Brunner,248
+Davison,Precinct-03,Commissioner of School and Public Lands,,REP,Ryan Brunner,440
+Davison,Precinct-04 (Precinct-05),Commissioner of School and Public Lands,,REP,Ryan Brunner,413
+Davison,Precinct-06 (Precinct-07),Commissioner of School and Public Lands,,REP,Ryan Brunner,512
+Davison,Precinct-08 (Precinct-09),Commissioner of School and Public Lands,,REP,Ryan Brunner,419
+Davison,Precinct-10 (Precinct-11),Commissioner of School and Public Lands,,REP,Ryan Brunner,428
+Davison,Precinct-12 (Precinct-13),Commissioner of School and Public Lands,,REP,Ryan Brunner,325
+Davison,Precinct-14 (Precinct-16),Commissioner of School and Public Lands,,REP,Ryan Brunner,299
+Davison,Precinct-15,Commissioner of School and Public Lands,,REP,Ryan Brunner,283
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Commissioner of School and Public Lands,,REP,Ryan Brunner,397
+Davison,Precinct-20,Commissioner of School and Public Lands,,REP,Ryan Brunner,389
+Davison,Precinct-01,Commissioner of School and Public Lands,,DEM,Woody Houser,68
+Davison,Precinct-02,Commissioner of School and Public Lands,,DEM,Woody Houser,78
+Davison,Precinct-03,Commissioner of School and Public Lands,,DEM,Woody Houser,143
+Davison,Precinct-04 (Precinct-05),Commissioner of School and Public Lands,,DEM,Woody Houser,160
+Davison,Precinct-06 (Precinct-07),Commissioner of School and Public Lands,,DEM,Woody Houser,211
+Davison,Precinct-08 (Precinct-09),Commissioner of School and Public Lands,,DEM,Woody Houser,259
+Davison,Precinct-10 (Precinct-11),Commissioner of School and Public Lands,,DEM,Woody Houser,250
+Davison,Precinct-12 (Precinct-13),Commissioner of School and Public Lands,,DEM,Woody Houser,174
+Davison,Precinct-14 (Precinct-16),Commissioner of School and Public Lands,,DEM,Woody Houser,232
+Davison,Precinct-15,Commissioner of School and Public Lands,,DEM,Woody Houser,207
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Commissioner of School and Public Lands,,DEM,Woody Houser,239
+Davison,Precinct-20,Commissioner of School and Public Lands,,DEM,Woody Houser,200
+Davison,Precinct-01,Public Utilities Commissioner,,REP,Kristie Fiegen,185
+Davison,Precinct-02,Public Utilities Commissioner,,REP,Kristie Fiegen,275
+Davison,Precinct-03,Public Utilities Commissioner,,REP,Kristie Fiegen,459
+Davison,Precinct-04 (Precinct-05),Public Utilities Commissioner,,REP,Kristie Fiegen,467
+Davison,Precinct-06 (Precinct-07),Public Utilities Commissioner,,REP,Kristie Fiegen,570
+Davison,Precinct-08 (Precinct-09),Public Utilities Commissioner,,REP,Kristie Fiegen,464
+Davison,Precinct-10 (Precinct-11),Public Utilities Commissioner,,REP,Kristie Fiegen,464
+Davison,Precinct-12 (Precinct-13),Public Utilities Commissioner,,REP,Kristie Fiegen,334
+Davison,Precinct-14 (Precinct-16),Public Utilities Commissioner,,REP,Kristie Fiegen,339
+Davison,Precinct-15,Public Utilities Commissioner,,REP,Kristie Fiegen,308
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Public Utilities Commissioner,,REP,Kristie Fiegen,427
+Davison,Precinct-20,Public Utilities Commissioner,,REP,Kristie Fiegen,428
+Davison,Precinct-01,Public Utilities Commissioner,,DEM,Wayne Frederick,49
+Davison,Precinct-02,Public Utilities Commissioner,,DEM,Wayne Frederick,61
+Davison,Precinct-03,Public Utilities Commissioner,,DEM,Wayne Frederick,138
+Davison,Precinct-04 (Precinct-05),Public Utilities Commissioner,,DEM,Wayne Frederick,138
+Davison,Precinct-06 (Precinct-07),Public Utilities Commissioner,,DEM,Wayne Frederick,189
+Davison,Precinct-08 (Precinct-09),Public Utilities Commissioner,,DEM,Wayne Frederick,232
+Davison,Precinct-10 (Precinct-11),Public Utilities Commissioner,,DEM,Wayne Frederick,236
+Davison,Precinct-12 (Precinct-13),Public Utilities Commissioner,,DEM,Wayne Frederick,175
+Davison,Precinct-14 (Precinct-16),Public Utilities Commissioner,,DEM,Wayne Frederick,204
+Davison,Precinct-15,Public Utilities Commissioner,,DEM,Wayne Frederick,186
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",Public Utilities Commissioner,,DEM,Wayne Frederick,221
+Davison,Precinct-20,Public Utilities Commissioner,,DEM,Wayne Frederick,177
+Davison,Precinct-01,State Senate,20,REP,Joshua Klumb,208
+Davison,Precinct-02,State Senate,20,REP,Joshua Klumb,308
+Davison,Precinct-03,State Senate,20,REP,Joshua Klumb,507
+Davison,Precinct-04 (Precinct-05),State Senate,20,REP,Joshua Klumb,495
+Davison,Precinct-06 (Precinct-07),State Senate,20,REP,Joshua Klumb,610
+Davison,Precinct-08 (Precinct-09),State Senate,20,REP,Joshua Klumb,497
+Davison,Precinct-10 (Precinct-11),State Senate,20,REP,Joshua Klumb,505
+Davison,Precinct-12 (Precinct-13),State Senate,20,REP,Joshua Klumb,379
+Davison,Precinct-14 (Precinct-16),State Senate,20,REP,Joshua Klumb,358
+Davison,Precinct-15,State Senate,20,REP,Joshua Klumb,336
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Senate,20,REP,Joshua Klumb,452
+Davison,Precinct-20,State Senate,20,REP,Joshua Klumb,445
+Davison,Precinct-01,State Senate,20,DEM,Dan Miller,42
+Davison,Precinct-02,State Senate,20,DEM,Dan Miller,49
+Davison,Precinct-03,State Senate,20,DEM,Dan Miller,118
+Davison,Precinct-04 (Precinct-05),State Senate,20,DEM,Dan Miller,135
+Davison,Precinct-06 (Precinct-07),State Senate,20,DEM,Dan Miller,189
+Davison,Precinct-08 (Precinct-09),State Senate,20,DEM,Dan Miller,218
+Davison,Precinct-10 (Precinct-11),State Senate,20,DEM,Dan Miller,224
+Davison,Precinct-12 (Precinct-13),State Senate,20,DEM,Dan Miller,157
+Davison,Precinct-14 (Precinct-16),State Senate,20,DEM,Dan Miller,207
+Davison,Precinct-15,State Senate,20,DEM,Dan Miller,182
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Senate,20,DEM,Dan Miller,214
+Davison,Precinct-20,State Senate,20,DEM,Dan Miller,182
+Davison,Precinct-01,State Representative,20,REP,Paul R. Miskimmins,164
+Davison,Precinct-02,State Representative,20,REP,Paul R. Miskimmins,236
+Davison,Precinct-03,State Representative,20,REP,Paul R. Miskimmins,414
+Davison,Precinct-04 (Precinct-05),State Representative,20,REP,Paul R. Miskimmins,383
+Davison,Precinct-06 (Precinct-07),State Representative,20,REP,Paul R. Miskimmins,514
+Davison,Precinct-08 (Precinct-09),State Representative,20,REP,Paul R. Miskimmins,402
+Davison,Precinct-10 (Precinct-11),State Representative,20,REP,Paul R. Miskimmins,413
+Davison,Precinct-12 (Precinct-13),State Representative,20,REP,Paul R. Miskimmins,320
+Davison,Precinct-14 (Precinct-16),State Representative,20,REP,Paul R. Miskimmins,305
+Davison,Precinct-15,State Representative,20,REP,Paul R. Miskimmins,274
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Representative,20,REP,Paul R. Miskimmins,389
+Davison,Precinct-20,State Representative,20,REP,Paul R. Miskimmins,383
+Davison,Precinct-01,State Representative,20,REP,Lance Koth,128
+Davison,Precinct-02,State Representative,20,REP,Lance Koth,190
+Davison,Precinct-03,State Representative,20,REP,Lance Koth,369
+Davison,Precinct-04 (Precinct-05),State Representative,20,REP,Lance Koth,361
+Davison,Precinct-06 (Precinct-07),State Representative,20,REP,Lance Koth,491
+Davison,Precinct-08 (Precinct-09),State Representative,20,REP,Lance Koth,358
+Davison,Precinct-10 (Precinct-11),State Representative,20,REP,Lance Koth,371
+Davison,Precinct-12 (Precinct-13),State Representative,20,REP,Lance Koth,269
+Davison,Precinct-14 (Precinct-16),State Representative,20,REP,Lance Koth,247
+Davison,Precinct-15,State Representative,20,REP,Lance Koth,236
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Representative,20,REP,Lance Koth,350
+Davison,Precinct-20,State Representative,20,REP,Lance Koth,349
+Davison,Precinct-01,State Representative,20,DEM,Ione Klinger,82
+Davison,Precinct-02,State Representative,20,DEM,Ione Klinger,80
+Davison,Precinct-03,State Representative,20,DEM,Ione Klinger,188
+Davison,Precinct-04 (Precinct-05),State Representative,20,DEM,Ione Klinger,226
+Davison,Precinct-06 (Precinct-07),State Representative,20,DEM,Ione Klinger,272
+Davison,Precinct-08 (Precinct-09),State Representative,20,DEM,Ione Klinger,273
+Davison,Precinct-10 (Precinct-11),State Representative,20,DEM,Ione Klinger,298
+Davison,Precinct-12 (Precinct-13),State Representative,20,DEM,Ione Klinger,218
+Davison,Precinct-14 (Precinct-16),State Representative,20,DEM,Ione Klinger,235
+Davison,Precinct-15,State Representative,20,DEM,Ione Klinger,218
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Representative,20,DEM,Ione Klinger,246
+Davison,Precinct-20,State Representative,20,DEM,Ione Klinger,249
+Davison,Precinct-01,State Representative,20,DEM,James Schorzmann,57
+Davison,Precinct-02,State Representative,20,DEM,James Schorzmann,116
+Davison,Precinct-03,State Representative,20,DEM,James Schorzmann,169
+Davison,Precinct-04 (Precinct-05),State Representative,20,DEM,James Schorzmann,157
+Davison,Precinct-06 (Precinct-07),State Representative,20,DEM,James Schorzmann,193
+Davison,Precinct-08 (Precinct-09),State Representative,20,DEM,James Schorzmann,237
+Davison,Precinct-10 (Precinct-11),State Representative,20,DEM,James Schorzmann,241
+Davison,Precinct-12 (Precinct-13),State Representative,20,DEM,James Schorzmann,158
+Davison,Precinct-14 (Precinct-16),State Representative,20,DEM,James Schorzmann,236
+Davison,Precinct-15,State Representative,20,DEM,James Schorzmann,185
+Davison,"Precinct-17 (Precinct-18, Precinct-19)",State Representative,20,DEM,James Schorzmann,222
+Davison,Precinct-20,State Representative,20,DEM,James Schorzmann,165
