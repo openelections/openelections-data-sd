@@ -1,0 +1,794 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,"02-Norway & Fairview, Fairview, Inc",US House,1,LIB,George Hendrickson,5
+Lincoln,06-Highland & Canton,US House,1,LIB,George Hendrickson,5
+Lincoln,08-Lincoln & Delaware,US House,1,LIB,George Hendrickson,2
+Lincoln,11-Grant,US House,1,LIB,George Hendrickson,1
+Lincoln,12-Dayton,US House,1,LIB,George Hendrickson,4
+Lincoln,13-LaValley,US House,1,LIB,George Hendrickson,7
+Lincoln,14-Perry,US House,1,LIB,George Hendrickson,5
+Lincoln,15-Springdale,US House,1,LIB,George Hendrickson,10
+Lincoln,16-Delapre,US House,1,LIB,George Hendrickson,10
+Lincoln,"20-Canton 1, 2, 3",US House,1,LIB,George Hendrickson,11
+Lincoln,21-Hudson & Eden,US House,1,LIB,George Hendrickson,4
+Lincoln,23-Worthing & Lynn,US House,1,LIB,George Hendrickson,13
+Lincoln,24-Tea,US House,1,LIB,George Hendrickson,28
+Lincoln,25-Lennox,US House,1,LIB,George Hendrickson,23
+Lincoln,"26-Brooklyn & Pleasant, Beresford",US House,1,LIB,George Hendrickson,2
+Lincoln,27-Harrisburg 1,US House,1,LIB,George Hendrickson,19
+Lincoln,30-Canton 4 & 5,US House,1,LIB,George Hendrickson,8
+Lincoln,Sioux Falls 1-11,US House,1,LIB,George Hendrickson,9
+Lincoln,Sioux Falls 2-10,US House,1,LIB,George Hendrickson,10
+Lincoln,Sioux Falls 1-12,US House,1,LIB,George Hendrickson,24
+Lincoln,Sioux Falls 2-11,US House,1,LIB,George Hendrickson,18
+Lincoln,Sioux Falls 1-13,US House,1,LIB,George Hendrickson,11
+Lincoln,Sioux Falls 2-12,US House,1,LIB,George Hendrickson,8
+Lincoln,Sioux Falls 1-16,US House,1,LIB,George Hendrickson,17
+Lincoln,Sioux Falls 2-13,US House,1,LIB,George Hendrickson,26
+Lincoln,Sioux Falls 1-14,US House,1,LIB,George Hendrickson,11
+Lincoln,Sioux Falls 2-15,US House,1,LIB,George Hendrickson,16
+Lincoln,Sioux Falls 1-18,US House,1,LIB,George Hendrickson,8
+Lincoln,Sioux Falls 1-15,US House,1,LIB,George Hendrickson,8
+Lincoln,29-Harrisburg 2,US House,1,LIB,George Hendrickson,16
+Lincoln,"02-Norway & Fairview, Fairview, Inc",US House,1,Rep,Dusty Johnson,156
+Lincoln,06-Highland & Canton,US House,1,Rep,Dusty Johnson,294
+Lincoln,08-Lincoln & Delaware,US House,1,Rep,Dusty Johnson,136
+Lincoln,11-Grant,US House,1,Rep,Dusty Johnson,137
+Lincoln,12-Dayton,US House,1,Rep,Dusty Johnson,254
+Lincoln,13-LaValley,US House,1,Rep,Dusty Johnson,195
+Lincoln,14-Perry,US House,1,Rep,Dusty Johnson,249
+Lincoln,15-Springdale,US House,1,Rep,Dusty Johnson,698
+Lincoln,16-Delapre,US House,1,Rep,Dusty Johnson,602
+Lincoln,"20-Canton 1, 2, 3",US House,1,Rep,Dusty Johnson,489
+Lincoln,21-Hudson & Eden,US House,1,Rep,Dusty Johnson,128
+Lincoln,23-Worthing & Lynn,US House,1,Rep,Dusty Johnson,305
+Lincoln,24-Tea,US House,1,Rep,Dusty Johnson,"1,034"
+Lincoln,25-Lennox,US House,1,Rep,Dusty Johnson,563
+Lincoln,"26-Brooklyn & Pleasant, Beresford",US House,1,Rep,Dusty Johnson,274
+Lincoln,27-Harrisburg 1,US House,1,Rep,Dusty Johnson,458
+Lincoln,30-Canton 4 & 5,US House,1,Rep,Dusty Johnson,238
+Lincoln,Sioux Falls 1-11,US House,1,Rep,Dusty Johnson,971
+Lincoln,Sioux Falls 2-10,US House,1,Rep,Dusty Johnson,"1,001"
+Lincoln,Sioux Falls 1-12,US House,1,Rep,Dusty Johnson,676
+Lincoln,Sioux Falls 2-11,US House,1,Rep,Dusty Johnson,"1,110"
+Lincoln,Sioux Falls 1-13,US House,1,Rep,Dusty Johnson,291
+Lincoln,Sioux Falls 2-12,US House,1,Rep,Dusty Johnson,439
+Lincoln,Sioux Falls 1-16,US House,1,Rep,Dusty Johnson,279
+Lincoln,Sioux Falls 2-13,US House,1,Rep,Dusty Johnson,"1,262"
+Lincoln,Sioux Falls 1-14,US House,1,Rep,Dusty Johnson,424
+Lincoln,Sioux Falls 2-15,US House,1,Rep,Dusty Johnson,661
+Lincoln,Sioux Falls 1-18,US House,1,Rep,Dusty Johnson,728
+Lincoln,Sioux Falls 1-15,US House,1,Rep,Dusty Johnson,383
+Lincoln,29-Harrisburg 2,US House,1,Rep,Dusty Johnson,614
+Lincoln,"02-Norway & Fairview, Fairview, Inc",US House,1,Rep,Tim Bjorkman,66
+Lincoln,06-Highland & Canton,US House,1,Dem,Tim Bjorkman,111
+Lincoln,08-Lincoln & Delaware,US House,1,Dem,Tim Bjorkman,66
+Lincoln,11-Grant,US House,1,Dem,Tim Bjorkman,61
+Lincoln,12-Dayton,US House,1,Dem,Tim Bjorkman,86
+Lincoln,13-LaValley,US House,1,Dem,Tim Bjorkman,67
+Lincoln,14-Perry,US House,1,Dem,Tim Bjorkman,117
+Lincoln,15-Springdale,US House,1,Dem,Tim Bjorkman,288
+Lincoln,16-Delapre,US House,1,Dem,Tim Bjorkman,234
+Lincoln,"20-Canton 1, 2, 3",US House,1,Dem,Tim Bjorkman,274
+Lincoln,21-Hudson & Eden,US House,1,Dem,Tim Bjorkman,72
+Lincoln,23-Worthing & Lynn,US House,1,Dem,Tim Bjorkman,156
+Lincoln,24-Tea,US House,1,Dem,Tim Bjorkman,468
+Lincoln,25-Lennox,US House,1,Dem,Tim Bjorkman,292
+Lincoln,"26-Brooklyn & Pleasant, Beresford",US House,1,Dem,Tim Bjorkman,122
+Lincoln,27-Harrisburg 1,US House,1,Dem,Tim Bjorkman,289
+Lincoln,30-Canton 4 & 5,US House,1,Dem,Tim Bjorkman,165
+Lincoln,Sioux Falls 1-11,US House,1,Dem,Tim Bjorkman,425
+Lincoln,Sioux Falls 2-10,US House,1,Dem,Tim Bjorkman,489
+Lincoln,Sioux Falls 1-12,US House,1,Dem,Tim Bjorkman,468
+Lincoln,Sioux Falls 2-11,US House,1,Dem,Tim Bjorkman,592
+Lincoln,Sioux Falls 1-13,US House,1,Dem,Tim Bjorkman,264
+Lincoln,Sioux Falls 2-12,US House,1,Dem,Tim Bjorkman,286
+Lincoln,Sioux Falls 1-16,US House,1,Dem,Tim Bjorkman,242
+Lincoln,Sioux Falls 2-13,US House,1,Dem,Tim Bjorkman,890
+Lincoln,Sioux Falls 1-14,US House,1,Dem,Tim Bjorkman,299
+Lincoln,Sioux Falls 2-15,US House,1,Dem,Tim Bjorkman,328
+Lincoln,Sioux Falls 1-18,US House,1,Dem,Tim Bjorkman,317
+Lincoln,Sioux Falls 1-15,US House,1,Dem,Tim Bjorkman,372
+Lincoln,29-Harrisburg 2,US House,1,Dem,Tim Bjorkman,360
+Lincoln,"02-Norway & Fairview, Fairview, Inc",US House,1,Ind,Ron Wieczorek,3
+Lincoln,06-Highland & Canton,US House,1,Ind,Ron Wieczorek,8
+Lincoln,08-Lincoln & Delaware,US House,1,Ind,Ron Wieczorek,4
+Lincoln,11-Grant,US House,1,Ind,Ron Wieczorek,3
+Lincoln,12-Dayton,US House,1,Ind,Ron Wieczorek,9
+Lincoln,13-LaValley,US House,1,Ind,Ron Wieczorek,6
+Lincoln,14-Perry,US House,1,Ind,Ron Wieczorek,13
+Lincoln,15-Springdale,US House,1,Ind,Ron Wieczorek,9
+Lincoln,16-Delapre,US House,1,Ind,Ron Wieczorek,16
+Lincoln,"20-Canton 1, 2, 3",US House,1,Ind,Ron Wieczorek,17
+Lincoln,21-Hudson & Eden,US House,1,Ind,Ron Wieczorek,10
+Lincoln,23-Worthing & Lynn,US House,1,Ind,Ron Wieczorek,17
+Lincoln,24-Tea,US House,1,Ind,Ron Wieczorek,30
+Lincoln,25-Lennox,US House,1,Ind,Ron Wieczorek,18
+Lincoln,"26-Brooklyn & Pleasant, Beresford",US House,1,Ind,Ron Wieczorek,8
+Lincoln,27-Harrisburg 1,US House,1,Ind,Ron Wieczorek,14
+Lincoln,30-Canton 4 & 5,US House,1,Ind,Ron Wieczorek,7
+Lincoln,Sioux Falls 1-11,US House,1,Ind,Ron Wieczorek,10
+Lincoln,Sioux Falls 2-10,US House,1,Ind,Ron Wieczorek,16
+Lincoln,Sioux Falls 1-12,US House,1,Ind,Ron Wieczorek,14
+Lincoln,Sioux Falls 2-11,US House,1,Ind,Ron Wieczorek,11
+Lincoln,Sioux Falls 1-13,US House,1,Ind,Ron Wieczorek,11
+Lincoln,Sioux Falls 2-12,US House,1,Ind,Ron Wieczorek,8
+Lincoln,Sioux Falls 1-16,US House,1,Ind,Ron Wieczorek,9
+Lincoln,Sioux Falls 2-13,US House,1,Ind,Ron Wieczorek,22
+Lincoln,Sioux Falls 1-14,US House,1,Ind,Ron Wieczorek,12
+Lincoln,Sioux Falls 2-15,US House,1,Ind,Ron Wieczorek,3
+Lincoln,Sioux Falls 1-18,US House,1,Ind,Ron Wieczorek,16
+Lincoln,Sioux Falls 1-15,US House,1,Ind,Ron Wieczorek,5
+Lincoln,29-Harrisburg 2,US House,1,Ind,Ron Wieczorek,22
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,LIB,Kurt Evans,3
+Lincoln,06-Highland & Canton,Governor,,LIB,Kurt Evans,5
+Lincoln,08-Lincoln & Delaware,Governor,,LIB,Kurt Evans,0
+Lincoln,11-Grant,Governor,,LIB,Kurt Evans,2
+Lincoln,12-Dayton,Governor,,LIB,Kurt Evans,3
+Lincoln,13-LaValley,Governor,,LIB,Kurt Evans,3
+Lincoln,14-Perry,Governor,,LIB,Kurt Evans,2
+Lincoln,15-Springdale,Governor,,LIB,Kurt Evans,9
+Lincoln,16-Delapre,Governor,,LIB,Kurt Evans,9
+Lincoln,"20-Canton 1, 2, 3",Governor,,LIB,Kurt Evans,4
+Lincoln,21-Hudson & Eden,Governor,,LIB,Kurt Evans,3
+Lincoln,23-Worthing & Lynn,Governor,,LIB,Kurt Evans,15
+Lincoln,24-Tea,Governor,,LIB,Kurt Evans,16
+Lincoln,25-Lennox,Governor,,LIB,Kurt Evans,16
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,LIB,Kurt Evans,3
+Lincoln,27-Harrisburg 1,Governor,,LIB,Kurt Evans,13
+Lincoln,30-Canton 4 & 5,Governor,,LIB,Kurt Evans,8
+Lincoln,Sioux Falls 1-11,Governor,,LIB,Kurt Evans,8
+Lincoln,Sioux Falls 2-10,Governor,,LIB,Kurt Evans,5
+Lincoln,Sioux Falls 1-12,Governor,,LIB,Kurt Evans,8
+Lincoln,Sioux Falls 2-11,Governor,,LIB,Kurt Evans,8
+Lincoln,Sioux Falls 1-13,Governor,,LIB,Kurt Evans,4
+Lincoln,Sioux Falls 2-12,Governor,,LIB,Kurt Evans,7
+Lincoln,Sioux Falls 1-16,Governor,,LIB,Kurt Evans,4
+Lincoln,Sioux Falls 2-13,Governor,,LIB,Kurt Evans,13
+Lincoln,Sioux Falls 1-14,Governor,,LIB,Kurt Evans,7
+Lincoln,Sioux Falls 2-15,Governor,,LIB,Kurt Evans,5
+Lincoln,Sioux Falls 1-18,Governor,,LIB,Kurt Evans,6
+Lincoln,Sioux Falls 1-15,Governor,,LIB,Kurt Evans,7
+Lincoln,29-Harrisburg 2,Governor,,LIB,Kurt Evans,7
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,Rep,Kristi Noem,136
+Lincoln,06-Highland & Canton,Governor,,Rep,Kristi Noem,265
+Lincoln,08-Lincoln & Delaware,Governor,,Rep,Kristi Noem,125
+Lincoln,11-Grant,Governor,,Rep,Kristi Noem,121
+Lincoln,12-Dayton,Governor,,Rep,Kristi Noem,229
+Lincoln,13-LaValley,Governor,,Rep,Kristi Noem,168
+Lincoln,14-Perry,Governor,,Rep,Kristi Noem,228
+Lincoln,15-Springdale,Governor,,Rep,Kristi Noem,609
+Lincoln,16-Delapre,Governor,,Rep,Kristi Noem,555
+Lincoln,"20-Canton 1, 2, 3",Governor,,Rep,Kristi Noem,403
+Lincoln,21-Hudson & Eden,Governor,,Rep,Kristi Noem,118
+Lincoln,23-Worthing & Lynn,Governor,,Rep,Kristi Noem,261
+Lincoln,24-Tea,Governor,,Rep,Kristi Noem,834
+Lincoln,25-Lennox,Governor,,Rep,Kristi Noem,485
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,Rep,Kristi Noem,241
+Lincoln,27-Harrisburg 1,Governor,,Rep,Kristi Noem,385
+Lincoln,30-Canton 4 & 5,Governor,,Rep,Kristi Noem,183
+Lincoln,Sioux Falls 1-11,Governor,,Rep,Kristi Noem,846
+Lincoln,Sioux Falls 2-10,Governor,,Rep,Kristi Noem,881
+Lincoln,Sioux Falls 1-12,Governor,,Rep,Kristi Noem,569
+Lincoln,Sioux Falls 2-11,Governor,,Rep,Kristi Noem,942
+Lincoln,Sioux Falls 1-13,Governor,,Rep,Kristi Noem,238
+Lincoln,Sioux Falls 2-12,Governor,,Rep,Kristi Noem,368
+Lincoln,Sioux Falls 1-16,Governor,,Rep,Kristi Noem,246
+Lincoln,Sioux Falls 2-13,Governor,,Rep,Kristi Noem,"1,103"
+Lincoln,Sioux Falls 1-14,Governor,,Rep,Kristi Noem,347
+Lincoln,Sioux Falls 2-15,Governor,,Rep,Kristi Noem,567
+Lincoln,Sioux Falls 1-18,Governor,,Rep,Kristi Noem,620
+Lincoln,Sioux Falls 1-15,Governor,,Rep,Kristi Noem,306
+Lincoln,29-Harrisburg 2,Governor,,Rep,Kristi Noem,515
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,Dem,Billie Sutton,92
+Lincoln,06-Highland & Canton,Governor,,Dem,Billie Sutton,150
+Lincoln,08-Lincoln & Delaware,Governor,,Dem,Billie Sutton,83
+Lincoln,11-Grant,Governor,,Dem,Billie Sutton,85
+Lincoln,12-Dayton,Governor,,Dem,Billie Sutton,125
+Lincoln,13-LaValley,Governor,,Dem,Billie Sutton,104
+Lincoln,14-Perry,Governor,,Dem,Billie Sutton,157
+Lincoln,15-Springdale,Governor,,Dem,Billie Sutton,386
+Lincoln,16-Delapre,Governor,,Dem,Billie Sutton,300
+Lincoln,"20-Canton 1, 2, 3",Governor,,Dem,Billie Sutton,392
+Lincoln,21-Hudson & Eden,Governor,,Dem,Billie Sutton,96
+Lincoln,23-Worthing & Lynn,Governor,,Dem,Billie Sutton,219
+Lincoln,24-Tea,Governor,,Dem,Billie Sutton,728
+Lincoln,25-Lennox,Governor,,Dem,Billie Sutton,407
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,Dem,Billie Sutton,162
+Lincoln,27-Harrisburg 1,Governor,,Dem,Billie Sutton,390
+Lincoln,30-Canton 4 & 5,Governor,,Dem,Billie Sutton,235
+Lincoln,Sioux Falls 1-11,Governor,,Dem,Billie Sutton,567
+Lincoln,Sioux Falls 2-10,Governor,,Dem,Billie Sutton,630
+Lincoln,Sioux Falls 1-12,Governor,,Dem,Billie Sutton,618
+Lincoln,Sioux Falls 2-11,Governor,,Dem,Billie Sutton,793
+Lincoln,Sioux Falls 1-13,Governor,,Dem,Billie Sutton,338
+Lincoln,Sioux Falls 2-12,Governor,,Dem,Billie Sutton,375
+Lincoln,Sioux Falls 1-16,Governor,,Dem,Billie Sutton,305
+Lincoln,Sioux Falls 2-13,Governor,,Dem,Billie Sutton,"1,113"
+Lincoln,Sioux Falls 1-14,Governor,,Dem,Billie Sutton,394
+Lincoln,Sioux Falls 2-15,Governor,,Dem,Billie Sutton,452
+Lincoln,Sioux Falls 1-18,Governor,,Dem,Billie Sutton,449
+Lincoln,Sioux Falls 1-15,Governor,,Dem,Billie Sutton,463
+Lincoln,29-Harrisburg 2,Governor,,Dem,Billie Sutton,501
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Secretary of State,,Rep,Steve Barnett,161
+Lincoln,06-Highland & Canton,Secretary of State,,Rep,Steve Barnett,313
+Lincoln,08-Lincoln & Delaware,Secretary of State,,Rep,Steve Barnett,146
+Lincoln,11-Grant,Secretary of State,,Rep,Steve Barnett,140
+Lincoln,12-Dayton,Secretary of State,,Rep,Steve Barnett,271
+Lincoln,13-LaValley,Secretary of State,,Rep,Steve Barnett,204
+Lincoln,14-Perry,Secretary of State,,Rep,Steve Barnett,281
+Lincoln,15-Springdale,Secretary of State,,Rep,Steve Barnett,734
+Lincoln,16-Delapre,Secretary of State,,Rep,Steve Barnett,636
+Lincoln,"20-Canton 1, 2, 3",Secretary of State,,Rep,Steve Barnett,509
+Lincoln,21-Hudson & Eden,Secretary of State,,Rep,Steve Barnett,133
+Lincoln,23-Worthing & Lynn,Secretary of State,,Rep,Steve Barnett,328
+Lincoln,24-Tea,Secretary of State,,Rep,Steve Barnett,"1,047"
+Lincoln,25-Lennox,Secretary of State,,Rep,Steve Barnett,575
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Secretary of State,,Rep,Steve Barnett,284
+Lincoln,27-Harrisburg 1,Secretary of State,,Rep,Steve Barnett,478
+Lincoln,30-Canton 4 & 5,Secretary of State,,Rep,Steve Barnett,247
+Lincoln,Sioux Falls 1-11,Secretary of State,,Rep,Steve Barnett,"1,017"
+Lincoln,Sioux Falls 2-10,Secretary of State,,Rep,Steve Barnett,"1,038"
+Lincoln,Sioux Falls 1-12,Secretary of State,,Rep,Steve Barnett,701
+Lincoln,Sioux Falls 2-11,Secretary of State,,Rep,Steve Barnett,"1,141"
+Lincoln,Sioux Falls 1-13,Secretary of State,,Rep,Steve Barnett,312
+Lincoln,Sioux Falls 2-12,Secretary of State,,Rep,Steve Barnett,449
+Lincoln,Sioux Falls 1-16,Secretary of State,,Rep,Steve Barnett,301
+Lincoln,Sioux Falls 2-13,Secretary of State,,Rep,Steve Barnett,"1,333"
+Lincoln,Sioux Falls 1-14,Secretary of State,,Rep,Steve Barnett,436
+Lincoln,Sioux Falls 2-15,Secretary of State,,Rep,Steve Barnett,712
+Lincoln,Sioux Falls 1-18,Secretary of State,,Rep,Steve Barnett,721
+Lincoln,Sioux Falls 1-15,Secretary of State,,Rep,Steve Barnett,394
+Lincoln,29-Harrisburg 2,Secretary of State,,Rep,Steve Barnett,641
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Secretary of State,,Dem,Alexandra Frederick,63
+Lincoln,06-Highland & Canton,Secretary of State,,Dem,Alexandra Frederick,96
+Lincoln,08-Lincoln & Delaware,Secretary of State,,Dem,Alexandra Frederick,53
+Lincoln,11-Grant,Secretary of State,,Dem,Alexandra Frederick,55
+Lincoln,12-Dayton,Secretary of State,,Dem,Alexandra Frederick,75
+Lincoln,13-LaValley,Secretary of State,,Dem,Alexandra Frederick,60
+Lincoln,14-Perry,Secretary of State,,Dem,Alexandra Frederick,94
+Lincoln,15-Springdale,Secretary of State,,Dem,Alexandra Frederick,237
+Lincoln,16-Delapre,Secretary of State,,Dem,Alexandra Frederick,198
+Lincoln,"20-Canton 1, 2, 3",Secretary of State,,Dem,Alexandra Frederick,242
+Lincoln,21-Hudson & Eden,Secretary of State,,Dem,Alexandra Frederick,75
+Lincoln,23-Worthing & Lynn,Secretary of State,,Dem,Alexandra Frederick,151
+Lincoln,24-Tea,Secretary of State,,Dem,Alexandra Frederick,439
+Lincoln,25-Lennox,Secretary of State,,Dem,Alexandra Frederick,268
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Secretary of State,,Dem,Alexandra Frederick,97
+Lincoln,27-Harrisburg 1,Secretary of State,,Dem,Alexandra Frederick,273
+Lincoln,30-Canton 4 & 5,Secretary of State,,Dem,Alexandra Frederick,149
+Lincoln,Sioux Falls 1-11,Secretary of State,,Dem,Alexandra Frederick,357
+Lincoln,Sioux Falls 2-10,Secretary of State,,Dem,Alexandra Frederick,432
+Lincoln,Sioux Falls 1-12,Secretary of State,,Dem,Alexandra Frederick,420
+Lincoln,Sioux Falls 2-11,Secretary of State,,Dem,Alexandra Frederick,535
+Lincoln,Sioux Falls 1-13,Secretary of State,,Dem,Alexandra Frederick,238
+Lincoln,Sioux Falls 2-12,Secretary of State,,Dem,Alexandra Frederick,268
+Lincoln,Sioux Falls 1-16,Secretary of State,,Dem,Alexandra Frederick,228
+Lincoln,Sioux Falls 2-13,Secretary of State,,Dem,Alexandra Frederick,783
+Lincoln,Sioux Falls 1-14,Secretary of State,,Dem,Alexandra Frederick,270
+Lincoln,Sioux Falls 2-15,Secretary of State,,Dem,Alexandra Frederick,257
+Lincoln,Sioux Falls 1-18,Secretary of State,,Dem,Alexandra Frederick,297
+Lincoln,Sioux Falls 1-15,Secretary of State,,Dem,Alexandra Frederick,344
+Lincoln,29-Harrisburg 2,Secretary of State,,Dem,Alexandra Frederick,314
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Attorney General,,Rep,Jason Ravnsborg,147
+Lincoln,06-Highland & Canton,Attorney General,,Rep,Jason Ravnsborg,269
+Lincoln,08-Lincoln & Delaware,Attorney General,,Rep,Jason Ravnsborg,123
+Lincoln,11-Grant,Attorney General,,Rep,Jason Ravnsborg,119
+Lincoln,12-Dayton,Attorney General,,Rep,Jason Ravnsborg,239
+Lincoln,13-LaValley,Attorney General,,Rep,Jason Ravnsborg,174
+Lincoln,14-Perry,Attorney General,,Rep,Jason Ravnsborg,237
+Lincoln,15-Springdale,Attorney General,,Rep,Jason Ravnsborg,627
+Lincoln,16-Delapre,Attorney General,,Rep,Jason Ravnsborg,562
+Lincoln,"20-Canton 1, 2, 3",Attorney General,,Rep,Jason Ravnsborg,403
+Lincoln,21-Hudson & Eden,Attorney General,,Rep,Jason Ravnsborg,126
+Lincoln,23-Worthing & Lynn,Attorney General,,Rep,Jason Ravnsborg,293
+Lincoln,24-Tea,Attorney General,,Rep,Jason Ravnsborg,866
+Lincoln,25-Lennox,Attorney General,,Rep,Jason Ravnsborg,498
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Attorney General,,Rep,Jason Ravnsborg,248
+Lincoln,27-Harrisburg 1,Attorney General,,Rep,Jason Ravnsborg,407
+Lincoln,30-Canton 4 & 5,Attorney General,,Rep,Jason Ravnsborg,199
+Lincoln,Sioux Falls 1-11,Attorney General,,Rep,Jason Ravnsborg,831
+Lincoln,Sioux Falls 2-10,Attorney General,,Rep,Jason Ravnsborg,829
+Lincoln,Sioux Falls 1-12,Attorney General,,Rep,Jason Ravnsborg,561
+Lincoln,Sioux Falls 2-11,Attorney General,,Rep,Jason Ravnsborg,910
+Lincoln,Sioux Falls 1-13,Attorney General,,Rep,Jason Ravnsborg,269
+Lincoln,Sioux Falls 2-12,Attorney General,,Rep,Jason Ravnsborg,384
+Lincoln,Sioux Falls 1-16,Attorney General,,Rep,Jason Ravnsborg,256
+Lincoln,Sioux Falls 2-13,Attorney General,,Rep,Jason Ravnsborg,"1,088"
+Lincoln,Sioux Falls 1-14,Attorney General,,Rep,Jason Ravnsborg,368
+Lincoln,Sioux Falls 2-15,Attorney General,,Rep,Jason Ravnsborg,555
+Lincoln,Sioux Falls 1-18,Attorney General,,Rep,Jason Ravnsborg,582
+Lincoln,Sioux Falls 1-15,Attorney General,,Rep,Jason Ravnsborg,322
+Lincoln,29-Harrisburg 2,Attorney General,,Rep,Jason Ravnsborg,533
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Attorney General,,Dem,Randy Seiler,78
+Lincoln,06-Highland & Canton,Attorney General,,Dem,Randy Seiler,138
+Lincoln,08-Lincoln & Delaware,Attorney General,,Dem,Randy Seiler,80
+Lincoln,11-Grant,Attorney General,,Dem,Randy Seiler,78
+Lincoln,12-Dayton,Attorney General,,Dem,Randy Seiler,107
+Lincoln,13-LaValley,Attorney General,,Dem,Randy Seiler,92
+Lincoln,14-Perry,Attorney General,,Dem,Randy Seiler,138
+Lincoln,15-Springdale,Attorney General,,Dem,Randy Seiler,338
+Lincoln,16-Delapre,Attorney General,,Dem,Randy Seiler,271
+Lincoln,"20-Canton 1, 2, 3",Attorney General,,Dem,Randy Seiler,343
+Lincoln,21-Hudson & Eden,Attorney General,,Dem,Randy Seiler,85
+Lincoln,23-Worthing & Lynn,Attorney General,,Dem,Randy Seiler,181
+Lincoln,24-Tea,Attorney General,,Dem,Randy Seiler,627
+Lincoln,25-Lennox,Attorney General,,Dem,Randy Seiler,343
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Attorney General,,Dem,Randy Seiler,143
+Lincoln,27-Harrisburg 1,Attorney General,,Dem,Randy Seiler,344
+Lincoln,30-Canton 4 & 5,Attorney General,,Dem,Randy Seiler,193
+Lincoln,Sioux Falls 1-11,Attorney General,,Dem,Randy Seiler,536
+Lincoln,Sioux Falls 2-10,Attorney General,,Dem,Randy Seiler,630
+Lincoln,Sioux Falls 1-12,Attorney General,,Dem,Randy Seiler,567
+Lincoln,Sioux Falls 2-11,Attorney General,,Dem,Randy Seiler,779
+Lincoln,Sioux Falls 1-13,Attorney General,,Dem,Randy Seiler,284
+Lincoln,Sioux Falls 2-12,Attorney General,,Dem,Randy Seiler,335
+Lincoln,Sioux Falls 1-16,Attorney General,,Dem,Randy Seiler,278
+Lincoln,Sioux Falls 2-13,Attorney General,,Dem,Randy Seiler,"1,035"
+Lincoln,Sioux Falls 1-14,Attorney General,,Dem,Randy Seiler,342
+Lincoln,Sioux Falls 2-15,Attorney General,,Dem,Randy Seiler,423
+Lincoln,Sioux Falls 1-18,Attorney General,,Dem,Randy Seiler,435
+Lincoln,Sioux Falls 1-15,Attorney General,,Dem,Randy Seiler,411
+Lincoln,29-Harrisburg 2,Attorney General,,Dem,Randy Seiler,437
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Auditor,,Rep,Rich Sattgast,165
+Lincoln,06-Highland & Canton,State Auditor,,Rep,Rich Sattgast,301
+Lincoln,08-Lincoln & Delaware,State Auditor,,Rep,Rich Sattgast,140
+Lincoln,11-Grant,State Auditor,,Rep,Rich Sattgast,135
+Lincoln,12-Dayton,State Auditor,,Rep,Rich Sattgast,269
+Lincoln,13-LaValley,State Auditor,,Rep,Rich Sattgast,196
+Lincoln,14-Perry,State Auditor,,Rep,Rich Sattgast,262
+Lincoln,15-Springdale,State Auditor,,Rep,Rich Sattgast,714
+Lincoln,16-Delapre,State Auditor,,Rep,Rich Sattgast,613
+Lincoln,"20-Canton 1, 2, 3",State Auditor,,Rep,Rich Sattgast,484
+Lincoln,21-Hudson & Eden,State Auditor,,Rep,Rich Sattgast,135
+Lincoln,23-Worthing & Lynn,State Auditor,,Rep,Rich Sattgast,316
+Lincoln,24-Tea,State Auditor,,Rep,Rich Sattgast,995
+Lincoln,25-Lennox,State Auditor,,Rep,Rich Sattgast,549
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Auditor,,Rep,Rich Sattgast,273
+Lincoln,27-Harrisburg 1,State Auditor,,Rep,Rich Sattgast,485
+Lincoln,30-Canton 4 & 5,State Auditor,,Rep,Rich Sattgast,249
+Lincoln,Sioux Falls 1-11,State Auditor,,Rep,Rich Sattgast,977
+Lincoln,Sioux Falls 2-10,State Auditor,,Rep,Rich Sattgast,998
+Lincoln,Sioux Falls 1-12,State Auditor,,Rep,Rich Sattgast,674
+Lincoln,Sioux Falls 2-11,State Auditor,,Rep,Rich Sattgast,"1,097"
+Lincoln,Sioux Falls 1-13,State Auditor,,Rep,Rich Sattgast,301
+Lincoln,Sioux Falls 2-12,State Auditor,,Rep,Rich Sattgast,427
+Lincoln,Sioux Falls 1-16,State Auditor,,Rep,Rich Sattgast,284
+Lincoln,Sioux Falls 2-13,State Auditor,,Rep,Rich Sattgast,"1,304"
+Lincoln,Sioux Falls 1-14,State Auditor,,Rep,Rich Sattgast,407
+Lincoln,Sioux Falls 2-15,State Auditor,,Rep,Rich Sattgast,698
+Lincoln,Sioux Falls 1-18,State Auditor,,Rep,Rich Sattgast,696
+Lincoln,Sioux Falls 1-15,State Auditor,,Rep,Rich Sattgast,363
+Lincoln,29-Harrisburg 2,State Auditor,,Rep,Rich Sattgast,642
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Auditor,,Dem,Tom Cool,57
+Lincoln,06-Highland & Canton,State Auditor,,Dem,Tom Cool,92
+Lincoln,08-Lincoln & Delaware,State Auditor,,Dem,Tom Cool,54
+Lincoln,11-Grant,State Auditor,,Dem,Tom Cool,57
+Lincoln,12-Dayton,State Auditor,,Dem,Tom Cool,74
+Lincoln,13-LaValley,State Auditor,,Dem,Tom Cool,62
+Lincoln,14-Perry,State Auditor,,Dem,Tom Cool,102
+Lincoln,15-Springdale,State Auditor,,Dem,Tom Cool,230
+Lincoln,16-Delapre,State Auditor,,Dem,Tom Cool,203
+Lincoln,"20-Canton 1, 2, 3",State Auditor,,Dem,Tom Cool,240
+Lincoln,21-Hudson & Eden,State Auditor,,Dem,Tom Cool,70
+Lincoln,23-Worthing & Lynn,State Auditor,,Dem,Tom Cool,148
+Lincoln,24-Tea,State Auditor,,Dem,Tom Cool,455
+Lincoln,25-Lennox,State Auditor,,Dem,Tom Cool,257
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Auditor,,Dem,Tom Cool,104
+Lincoln,27-Harrisburg 1,State Auditor,,Dem,Tom Cool,257
+Lincoln,30-Canton 4 & 5,State Auditor,,Dem,Tom Cool,137
+Lincoln,Sioux Falls 1-11,State Auditor,,Dem,Tom Cool,372
+Lincoln,Sioux Falls 2-10,State Auditor,,Dem,Tom Cool,429
+Lincoln,Sioux Falls 1-12,State Auditor,,Dem,Tom Cool,427
+Lincoln,Sioux Falls 2-11,State Auditor,,Dem,Tom Cool,539
+Lincoln,Sioux Falls 1-13,State Auditor,,Dem,Tom Cool,238
+Lincoln,Sioux Falls 2-12,State Auditor,,Dem,Tom Cool,273
+Lincoln,Sioux Falls 1-16,State Auditor,,Dem,Tom Cool,239
+Lincoln,Sioux Falls 2-13,State Auditor,,Dem,Tom Cool,764
+Lincoln,Sioux Falls 1-14,State Auditor,,Dem,Tom Cool,279
+Lincoln,Sioux Falls 2-15,State Auditor,,Dem,Tom Cool,253
+Lincoln,Sioux Falls 1-18,State Auditor,,Dem,Tom Cool,301
+Lincoln,Sioux Falls 1-15,State Auditor,,Dem,Tom Cool,357
+Lincoln,29-Harrisburg 2,State Auditor,,Dem,Tom Cool,300
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Treasurer,,Rep,Josh Haeder,165
+Lincoln,06-Highland & Canton,State Treasurer,,Rep,Josh Haeder,283
+Lincoln,08-Lincoln & Delaware,State Treasurer,,Rep,Josh Haeder,131
+Lincoln,11-Grant,State Treasurer,,Rep,Josh Haeder,125
+Lincoln,12-Dayton,State Treasurer,,Rep,Josh Haeder,243
+Lincoln,13-LaValley,State Treasurer,,Rep,Josh Haeder,187
+Lincoln,14-Perry,State Treasurer,,Rep,Josh Haeder,243
+Lincoln,15-Springdale,State Treasurer,,Rep,Josh Haeder,678
+Lincoln,16-Delapre,State Treasurer,,Rep,Josh Haeder,594
+Lincoln,"20-Canton 1, 2, 3",State Treasurer,,Rep,Josh Haeder,460
+Lincoln,21-Hudson & Eden,State Treasurer,,Rep,Josh Haeder,134
+Lincoln,23-Worthing & Lynn,State Treasurer,,Rep,Josh Haeder,303
+Lincoln,24-Tea,State Treasurer,,Rep,Josh Haeder,949
+Lincoln,25-Lennox,State Treasurer,,Rep,Josh Haeder,517
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Treasurer,,Rep,Josh Haeder,269
+Lincoln,27-Harrisburg 1,State Treasurer,,Rep,Josh Haeder,439
+Lincoln,30-Canton 4 & 5,State Treasurer,,Rep,Josh Haeder,226
+Lincoln,Sioux Falls 1-11,State Treasurer,,Rep,Josh Haeder,933
+Lincoln,Sioux Falls 2-10,State Treasurer,,Rep,Josh Haeder,966
+Lincoln,Sioux Falls 1-12,State Treasurer,,Rep,Josh Haeder,639
+Lincoln,Sioux Falls 2-11,State Treasurer,,Rep,Josh Haeder,"1,041"
+Lincoln,Sioux Falls 1-13,State Treasurer,,Rep,Josh Haeder,283
+Lincoln,Sioux Falls 2-12,State Treasurer,,Rep,Josh Haeder,415
+Lincoln,Sioux Falls 1-16,State Treasurer,,Rep,Josh Haeder,278
+Lincoln,Sioux Falls 2-13,State Treasurer,,Rep,Josh Haeder,"1,225"
+Lincoln,Sioux Falls 1-14,State Treasurer,,Rep,Josh Haeder,402
+Lincoln,Sioux Falls 2-15,State Treasurer,,Rep,Josh Haeder,653
+Lincoln,Sioux Falls 1-18,State Treasurer,,Rep,Josh Haeder,653
+Lincoln,Sioux Falls 1-15,State Treasurer,,Rep,Josh Haeder,356
+Lincoln,29-Harrisburg 2,State Treasurer,,Rep,Josh Haeder,589
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Treasurer,,Dem,Aaron  Matson ,55
+Lincoln,06-Highland & Canton,State Treasurer,,Dem,Aaron  Matson ,108
+Lincoln,08-Lincoln & Delaware,State Treasurer,,Dem,Aaron  Matson ,63
+Lincoln,11-Grant,State Treasurer,,Dem,Aaron  Matson ,66
+Lincoln,12-Dayton,State Treasurer,,Dem,Aaron  Matson ,88
+Lincoln,13-LaValley,State Treasurer,,Dem,Aaron  Matson ,69
+Lincoln,14-Perry,State Treasurer,,Dem,Aaron  Matson ,112
+Lincoln,15-Springdale,State Treasurer,,Dem,Aaron  Matson ,253
+Lincoln,16-Delapre,State Treasurer,,Dem,Aaron  Matson ,216
+Lincoln,"20-Canton 1, 2, 3",State Treasurer,,Dem,Aaron  Matson ,257
+Lincoln,21-Hudson & Eden,State Treasurer,,Dem,Aaron  Matson ,71
+Lincoln,23-Worthing & Lynn,State Treasurer,,Dem,Aaron  Matson ,160
+Lincoln,24-Tea,State Treasurer,,Dem,Aaron  Matson ,489
+Lincoln,25-Lennox,State Treasurer,,Dem,Aaron  Matson ,292
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Treasurer,,Dem,Aaron  Matson ,107
+Lincoln,27-Harrisburg 1,State Treasurer,,Dem,Aaron  Matson ,282
+Lincoln,30-Canton 4 & 5,State Treasurer,,Dem,Aaron  Matson ,154
+Lincoln,Sioux Falls 1-11,State Treasurer,,Dem,Aaron  Matson ,389
+Lincoln,Sioux Falls 2-10,State Treasurer,,Dem,Aaron  Matson ,451
+Lincoln,Sioux Falls 1-12,State Treasurer,,Dem,Aaron  Matson ,440
+Lincoln,Sioux Falls 2-11,State Treasurer,,Dem,Aaron  Matson ,571
+Lincoln,Sioux Falls 1-13,State Treasurer,,Dem,Aaron  Matson ,245
+Lincoln,Sioux Falls 2-12,State Treasurer,,Dem,Aaron  Matson ,272
+Lincoln,Sioux Falls 1-16,State Treasurer,,Dem,Aaron  Matson ,236
+Lincoln,Sioux Falls 2-13,State Treasurer,,Dem,Aaron  Matson ,813
+Lincoln,Sioux Falls 1-14,State Treasurer,,Dem,Aaron  Matson ,282
+Lincoln,Sioux Falls 2-15,State Treasurer,,Dem,Aaron  Matson ,287
+Lincoln,Sioux Falls 1-18,State Treasurer,,Dem,Aaron  Matson ,320
+Lincoln,Sioux Falls 1-15,State Treasurer,,Dem,Aaron  Matson ,358
+Lincoln,29-Harrisburg 2,State Treasurer,,Dem,Aaron  Matson ,328
+Lincoln,"02-Norway & Fairview, Fairview, Inc",School and Lands,,Rep,Ryan Brunner,155
+Lincoln,06-Highland & Canton,School and Lands,,Rep,Ryan Brunner,277
+Lincoln,08-Lincoln & Delaware,School and Lands,,Rep,Ryan Brunner,134
+Lincoln,11-Grant,School and Lands,,Rep,Ryan Brunner,125
+Lincoln,12-Dayton,School and Lands,,Rep,Ryan Brunner,249
+Lincoln,13-LaValley,School and Lands,,Rep,Ryan Brunner,184
+Lincoln,14-Perry,School and Lands,,Rep,Ryan Brunner,245
+Lincoln,15-Springdale,School and Lands,,Rep,Ryan Brunner,675
+Lincoln,16-Delapre,School and Lands,,Rep,Ryan Brunner,590
+Lincoln,"20-Canton 1, 2, 3",School and Lands,,Rep,Ryan Brunner,443
+Lincoln,21-Hudson & Eden,School and Lands,,Rep,Ryan Brunner,131
+Lincoln,23-Worthing & Lynn,School and Lands,,Rep,Ryan Brunner,296
+Lincoln,24-Tea,School and Lands,,Rep,Ryan Brunner,939
+Lincoln,25-Lennox,School and Lands,,Rep,Ryan Brunner,503
+Lincoln,"26-Brooklyn & Pleasant, Beresford",School and Lands,,Rep,Ryan Brunner,267
+Lincoln,27-Harrisburg 1,School and Lands,,Rep,Ryan Brunner,449
+Lincoln,30-Canton 4 & 5,School and Lands,,Rep,Ryan Brunner,209
+Lincoln,Sioux Falls 1-11,School and Lands,,Rep,Ryan Brunner,927
+Lincoln,Sioux Falls 2-10,School and Lands,,Rep,Ryan Brunner,944
+Lincoln,Sioux Falls 1-12,School and Lands,,Rep,Ryan Brunner,622
+Lincoln,Sioux Falls 2-11,School and Lands,,Rep,Ryan Brunner,"1,028"
+Lincoln,Sioux Falls 1-13,School and Lands,,Rep,Ryan Brunner,276
+Lincoln,Sioux Falls 2-12,School and Lands,,Rep,Ryan Brunner,397
+Lincoln,Sioux Falls 1-16,School and Lands,,Rep,Ryan Brunner,278
+Lincoln,Sioux Falls 2-13,School and Lands,,Rep,Ryan Brunner,"1,195"
+Lincoln,Sioux Falls 1-14,School and Lands,,Rep,Ryan Brunner,392
+Lincoln,Sioux Falls 2-15,School and Lands,,Rep,Ryan Brunner,639
+Lincoln,Sioux Falls 1-18,School and Lands,,Rep,Ryan Brunner,646
+Lincoln,Sioux Falls 1-15,School and Lands,,Rep,Ryan Brunner,345
+Lincoln,29-Harrisburg 2,School and Lands,,Rep,Ryan Brunner,588
+Lincoln,"02-Norway & Fairview, Fairview, Inc",School and Lands,,Dem,Woody Houser,68
+Lincoln,06-Highland & Canton,School and Lands,,Dem,Woody Houser,113
+Lincoln,08-Lincoln & Delaware,School and Lands,,Dem,Woody Houser,59
+Lincoln,11-Grant,School and Lands,,Dem,Woody Houser,65
+Lincoln,12-Dayton,School and Lands,,Dem,Woody Houser,82
+Lincoln,13-LaValley,School and Lands,,Dem,Woody Houser,70
+Lincoln,14-Perry,School and Lands,,Dem,Woody Houser,106
+Lincoln,15-Springdale,School and Lands,,Dem,Woody Houser,256
+Lincoln,16-Delapre,School and Lands,,Dem,Woody Houser,209
+Lincoln,"20-Canton 1, 2, 3",School and Lands,,Dem,Woody Houser,273
+Lincoln,21-Hudson & Eden,School and Lands,,Dem,Woody Houser,75
+Lincoln,23-Worthing & Lynn,School and Lands,,Dem,Woody Houser,159
+Lincoln,24-Tea,School and Lands,,Dem,Woody Houser,483
+Lincoln,25-Lennox,School and Lands,,Dem,Woody Houser,291
+Lincoln,"26-Brooklyn & Pleasant, Beresford",School and Lands,,Dem,Woody Houser,121
+Lincoln,27-Harrisburg 1,School and Lands,,Dem,Woody Houser,273
+Lincoln,30-Canton 4 & 5,School and Lands,,Dem,Woody Houser,167
+Lincoln,Sioux Falls 1-11,School and Lands,,Dem,Woody Houser,386
+Lincoln,Sioux Falls 2-10,School and Lands,,Dem,Woody Houser,448
+Lincoln,Sioux Falls 1-12,School and Lands,,Dem,Woody Houser,442
+Lincoln,Sioux Falls 2-11,School and Lands,,Dem,Woody Houser,567
+Lincoln,Sioux Falls 1-13,School and Lands,,Dem,Woody Houser,251
+Lincoln,Sioux Falls 2-12,School and Lands,,Dem,Woody Houser,275
+Lincoln,Sioux Falls 1-16,School and Lands,,Dem,Woody Houser,231
+Lincoln,Sioux Falls 2-13,School and Lands,,Dem,Woody Houser,804
+Lincoln,Sioux Falls 1-14,School and Lands,,Dem,Woody Houser,295
+Lincoln,Sioux Falls 2-15,School and Lands,,Dem,Woody Houser,278
+Lincoln,Sioux Falls 1-18,School and Lands,,Dem,Woody Houser,323
+Lincoln,Sioux Falls 1-15,School and Lands,,Dem,Woody Houser,359
+Lincoln,29-Harrisburg 2,School and Lands,,Dem,Woody Houser,309
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Public Utilities Commissioner,,Rep,Kristie Fiegen,166
+Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Rep,Kristie Fiegen,299
+Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Rep,Kristie Fiegen,146
+Lincoln,11-Grant,Public Utilities Commissioner,,Rep,Kristie Fiegen,137
+Lincoln,12-Dayton,Public Utilities Commissioner,,Rep,Kristie Fiegen,275
+Lincoln,13-LaValley,Public Utilities Commissioner,,Rep,Kristie Fiegen,201
+Lincoln,14-Perry,Public Utilities Commissioner,,Rep,Kristie Fiegen,276
+Lincoln,15-Springdale,Public Utilities Commissioner,,Rep,Kristie Fiegen,720
+Lincoln,16-Delapre,Public Utilities Commissioner,,Rep,Kristie Fiegen,654
+Lincoln,"20-Canton 1, 2, 3",Public Utilities Commissioner,,Rep,Kristie Fiegen,500
+Lincoln,21-Hudson & Eden,Public Utilities Commissioner,,Rep,Kristie Fiegen,137
+Lincoln,23-Worthing & Lynn,Public Utilities Commissioner,,Rep,Kristie Fiegen,325
+Lincoln,24-Tea,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,075"
+Lincoln,25-Lennox,Public Utilities Commissioner,,Rep,Kristie Fiegen,586
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Public Utilities Commissioner,,Rep,Kristie Fiegen,283
+Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Rep,Kristie Fiegen,497
+Lincoln,30-Canton 4 & 5,Public Utilities Commissioner,,Rep,Kristie Fiegen,246
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,018"
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,051"
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Rep,Kristie Fiegen,703
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,148"
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Rep,Kristie Fiegen,322
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Rep,Kristie Fiegen,448
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Rep,Kristie Fiegen,309
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Rep,Kristie Fiegen,"1,348"
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Rep,Kristie Fiegen,452
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Rep,Kristie Fiegen,715
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Rep,Kristie Fiegen,747
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Rep,Kristie Fiegen,403
+Lincoln,29-Harrisburg 2,Public Utilities Commissioner,,Rep,Kristie Fiegen,659
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Public Utilities Commissioner,,Dem,Wayne Frederick,58
+Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Dem,Wayne Frederick,90
+Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Dem,Wayne Frederick,50
+Lincoln,11-Grant,Public Utilities Commissioner,,Dem,Wayne Frederick,59
+Lincoln,12-Dayton,Public Utilities Commissioner,,Dem,Wayne Frederick,65
+Lincoln,13-LaValley,Public Utilities Commissioner,,Dem,Wayne Frederick,57
+Lincoln,14-Perry,Public Utilities Commissioner,,Dem,Wayne Frederick,90
+Lincoln,15-Springdale,Public Utilities Commissioner,,Dem,Wayne Frederick,231
+Lincoln,16-Delapre,Public Utilities Commissioner,,Dem,Wayne Frederick,170
+Lincoln,"20-Canton 1, 2, 3",Public Utilities Commissioner,,Dem,Wayne Frederick,223
+Lincoln,21-Hudson & Eden,Public Utilities Commissioner,,Dem,Wayne Frederick,70
+Lincoln,23-Worthing & Lynn,Public Utilities Commissioner,,Dem,Wayne Frederick,136
+Lincoln,24-Tea,Public Utilities Commissioner,,Dem,Wayne Frederick,398
+Lincoln,25-Lennox,Public Utilities Commissioner,,Dem,Wayne Frederick,233
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Public Utilities Commissioner,,Dem,Wayne Frederick,104
+Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Dem,Wayne Frederick,234
+Lincoln,30-Canton 4 & 5,Public Utilities Commissioner,,Dem,Wayne Frederick,139
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Dem,Wayne Frederick,335
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Dem,Wayne Frederick,381
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Dem,Wayne Frederick,398
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Dem,Wayne Frederick,497
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Dem,Wayne Frederick,221
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Dem,Wayne Frederick,242
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Dem,Wayne Frederick,209
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Dem,Wayne Frederick,722
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Dem,Wayne Frederick,243
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Dem,Wayne Frederick,227
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Dem,Wayne Frederick,252
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Dem,Wayne Frederick,314
+Lincoln,29-Harrisburg 2,Public Utilities Commissioner,,Dem,Wayne Frederick,276
+Lincoln,11-Grant,State Senate ,6,Rep,Ernie Otten,135
+Lincoln,13-LaValley,State Senate ,6,Rep,Ernie Otten,200
+Lincoln,14-Perry,State Senate ,6,Rep,Ernie Otten,283
+Lincoln,15-Springdale,State Senate ,6,Rep,Ernie Otten,703
+Lincoln,16-Delapre,State Senate ,6,Rep,Ernie Otten,622
+Lincoln,24-Tea,State Senate ,6,Rep,Ernie Otten,"1,045"
+Lincoln,25-Lennox,State Senate ,6,Rep,Ernie Otten,605
+Lincoln,27-Harrisburg 1,State Senate ,6,Rep,Ernie Otten,467
+Lincoln,Sioux Falls 1-12,State Senate ,6,Rep,Ernie Otten,73
+Lincoln,Sioux Falls 1-13,State Senate ,6,Rep,Ernie Otten,283
+Lincoln,Sioux Falls 2-12,State Senate ,6,Rep,Ernie Otten,2
+Lincoln,Sioux Falls 1-16,State Senate ,6,Rep,Ernie Otten,269
+Lincoln,Sioux Falls 2-13,State Senate ,6,Rep,Ernie Otten,"1,201"
+Lincoln,Sioux Falls 1-14,State Senate ,6,Rep,Ernie Otten,390
+Lincoln,Sioux Falls 2-15,State Senate ,6,Rep,Ernie Otten,21
+Lincoln,Sioux Falls 1-18,State Senate ,6,Rep,Ernie Otten,14
+Lincoln,29-Harrisburg 2,State Senate ,6,Rep,Ernie Otten,632
+Lincoln,11-Grant,State Senate ,6,Dem,Teresa Ann Robbins,63
+Lincoln,13-LaValley,State Senate ,6,Dem,Teresa Ann Robbins,60
+Lincoln,14-Perry,State Senate ,6,Dem,Teresa Ann Robbins,90
+Lincoln,15-Springdale,State Senate ,6,Dem,Teresa Ann Robbins,260
+Lincoln,16-Delapre,State Senate ,6,Dem,Teresa Ann Robbins,214
+Lincoln,24-Tea,State Senate ,6,Dem,Teresa Ann Robbins,462
+Lincoln,25-Lennox,State Senate ,6,Dem,Teresa Ann Robbins,254
+Lincoln,27-Harrisburg 1,State Senate ,6,Dem,Teresa Ann Robbins,282
+Lincoln,Sioux Falls 1-12,State Senate ,6,Dem,Teresa Ann Robbins,57
+Lincoln,Sioux Falls 1-13,State Senate ,6,Dem,Teresa Ann Robbins,251
+Lincoln,Sioux Falls 2-12,State Senate ,6,Dem,Teresa Ann Robbins,1
+Lincoln,Sioux Falls 1-16,State Senate ,6,Dem,Teresa Ann Robbins,248
+Lincoln,Sioux Falls 2-13,State Senate ,6,Dem,Teresa Ann Robbins,858
+Lincoln,Sioux Falls 1-14,State Senate ,6,Dem,Teresa Ann Robbins,296
+Lincoln,Sioux Falls 2-15,State Senate ,6,Dem,Teresa Ann Robbins,9
+Lincoln,Sioux Falls 1-18,State Senate ,6,Dem,Teresa Ann Robbins,8
+Lincoln,29-Harrisburg 2,State Senate ,6,Dem,Teresa Ann Robbins,312
+Lincoln,Sioux Falls 1-11,State Senate ,12,Rep,Blake Curd,825
+Lincoln,Sioux Falls 1-12,State Senate ,12,Rep,Blake Curd,508
+Lincoln,Sioux Falls 1-18,State Senate ,12,Rep,Blake Curd,565
+Lincoln,Sioux Falls 1-15,State Senate ,12,Rep,Blake Curd,317
+Lincoln,Sioux Falls 1-11,State Senate ,12,Dem,Kasey Olivier,537
+Lincoln,Sioux Falls 1-12,State Senate ,12,Dem,Kasey Olivier,472
+Lincoln,Sioux Falls 1-18,State Senate ,12,Dem,Kasey Olivier,434
+Lincoln,Sioux Falls 1-15,State Senate ,12,Dem,Kasey Olivier,408
+Lincoln,Sioux Falls 2-10,State Senate ,13,Rep,Jack Kolbeck,969
+Lincoln,Sioux Falls 2-11,State Senate ,13,Rep,Jack Kolbeck,"1,071"
+Lincoln,Sioux Falls 2-12,State Senate ,13,Rep,Jack Kolbeck,422
+Lincoln,Sioux Falls 2-15,State Senate ,13,Rep,Jack Kolbeck,631
+Lincoln,Sioux Falls 2-10,State Senate ,13,Dem,Melissa Hiatt,491
+Lincoln,Sioux Falls 2-11,State Senate ,13,Dem,Melissa Hiatt,599
+Lincoln,Sioux Falls 2-12,State Senate ,13,Dem,Melissa Hiatt,293
+Lincoln,Sioux Falls 2-15,State Senate ,13,Dem,Melissa Hiatt,299
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate ,16,Rep,Jim Bolin,155
+Lincoln,06-Highland & Canton,State Senate ,16,Rep,Jim Bolin,328
+Lincoln,08-Lincoln & Delaware,State Senate ,16,Rep,Jim Bolin,136
+Lincoln,12-Dayton,State Senate ,16,Rep,Jim Bolin,259
+Lincoln,"20-Canton 1, 2, 3",State Senate ,16,Rep,Jim Bolin,551
+Lincoln,21-Hudson & Eden,State Senate ,16,Rep,Jim Bolin,154
+Lincoln,23-Worthing & Lynn,State Senate ,16,Rep,Jim Bolin,338
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate ,16,Rep,Jim Bolin,265
+Lincoln,30-Canton 4 & 5,State Senate ,16,Rep,Jim Bolin,274
+Lincoln,29-Harrisburg 2,State Senate ,16,Rep,Jim Bolin,0
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate ,16,Dem,Elizabeth  Merrigan ,67
+Lincoln,06-Highland & Canton,State Senate ,16,Dem,Elizabeth  Merrigan ,83
+Lincoln,08-Lincoln & Delaware,State Senate ,16,Dem,Elizabeth  Merrigan ,64
+Lincoln,12-Dayton,State Senate ,16,Dem,Elizabeth  Merrigan ,79
+Lincoln,"20-Canton 1, 2, 3",State Senate ,16,Dem,Elizabeth  Merrigan ,224
+Lincoln,21-Hudson & Eden,State Senate ,16,Dem,Elizabeth  Merrigan ,57
+Lincoln,23-Worthing & Lynn,State Senate ,16,Dem,Elizabeth  Merrigan ,128
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate ,16,Dem,Elizabeth  Merrigan ,122
+Lincoln,30-Canton 4 & 5,State Senate ,16,Dem,Elizabeth  Merrigan ,140
+Lincoln,29-Harrisburg 2,State Senate ,16,Dem,Elizabeth  Merrigan ,1
+Lincoln,11-Grant,State House,6,LIB,Aaron Aylward,10
+Lincoln,13-LaValley,State House,6,LIB,Aaron Aylward,17
+Lincoln,14-Perry,State House,6,LIB,Aaron Aylward,24
+Lincoln,15-Springdale,State House,6,LIB,Aaron Aylward,50
+Lincoln,16-Delapre,State House,6,LIB,Aaron Aylward,51
+Lincoln,24-Tea,State House,6,LIB,Aaron Aylward,138
+Lincoln,25-Lennox,State House,6,LIB,Aaron Aylward,75
+Lincoln,27-Harrisburg 1,State House,6,LIB,Aaron Aylward,122
+Lincoln,Sioux Falls 1-12,State House,6,LIB,Aaron Aylward,4
+Lincoln,Sioux Falls 1-13,State House,6,LIB,Aaron Aylward,44
+Lincoln,Sioux Falls 2-12,State House,6,LIB,Aaron Aylward,0
+Lincoln,Sioux Falls 1-16,State House,6,LIB,Aaron Aylward,72
+Lincoln,Sioux Falls 2-13,State House,6,LIB,Aaron Aylward,149
+Lincoln,Sioux Falls 1-14,State House,6,LIB,Aaron Aylward,46
+Lincoln,Sioux Falls 2-15,State House,6,LIB,Aaron Aylward,1
+Lincoln,Sioux Falls 1-18,State House,6,LIB,Aaron Aylward,1
+Lincoln,29-Harrisburg 2,State House,6,LIB,Aaron Aylward,126
+Lincoln,11-Grant,State House,6,Rep,Isaac Latterell,104
+Lincoln,13-LaValley,State House,6,Rep,Isaac Latterell,156
+Lincoln,14-Perry,State House,6,Rep,Isaac Latterell,199
+Lincoln,15-Springdale,State House,6,Rep,Isaac Latterell,593
+Lincoln,16-Delapre,State House,6,Rep,Isaac Latterell,484
+Lincoln,24-Tea,State House,6,Rep,Isaac Latterell,736
+Lincoln,25-Lennox,State House,6,Rep,Isaac Latterell,435
+Lincoln,27-Harrisburg 1,State House,6,Rep,Isaac Latterell,363
+Lincoln,Sioux Falls 1-12,State House,6,Rep,Isaac Latterell,64
+Lincoln,Sioux Falls 1-13,State House,6,Rep,Isaac Latterell,238
+Lincoln,Sioux Falls 2-12,State House,6,Rep,Isaac Latterell,2
+Lincoln,Sioux Falls 1-16,State House,6,Rep,Isaac Latterell,234
+Lincoln,Sioux Falls 2-13,State House,6,Rep,Isaac Latterell,"1,051"
+Lincoln,Sioux Falls 1-14,State House,6,Rep,Isaac Latterell,334
+Lincoln,Sioux Falls 2-15,State House,6,Rep,Isaac Latterell,20
+Lincoln,Sioux Falls 1-18,State House,6,Rep,Isaac Latterell,14
+Lincoln,29-Harrisburg 2,State House,6,Rep,Isaac Latterell,463
+Lincoln,11-Grant,State House,6,Rep,Herman Otten,130
+Lincoln,13-LaValley,State House,6,Rep,Herman Otten,169
+Lincoln,14-Perry,State House,6,Rep,Herman Otten,260
+Lincoln,15-Springdale,State House,6,Rep,Herman Otten,589
+Lincoln,16-Delapre,State House,6,Rep,Herman Otten,551
+Lincoln,24-Tea,State House,6,Rep,Herman Otten,957
+Lincoln,25-Lennox,State House,6,Rep,Herman Otten,533
+Lincoln,27-Harrisburg 1,State House,6,Rep,Herman Otten,347
+Lincoln,Sioux Falls 1-12,State House,6,Rep,Herman Otten,66
+Lincoln,Sioux Falls 1-13,State House,6,Rep,Herman Otten,227
+Lincoln,Sioux Falls 2-12,State House,6,Rep,Herman Otten,2
+Lincoln,Sioux Falls 1-16,State House,6,Rep,Herman Otten,212
+Lincoln,Sioux Falls 2-13,State House,6,Rep,Herman Otten,"1,020"
+Lincoln,Sioux Falls 1-14,State House,6,Rep,Herman Otten,333
+Lincoln,Sioux Falls 2-15,State House,6,Rep,Herman Otten,21
+Lincoln,Sioux Falls 1-18,State House,6,Rep,Herman Otten,13
+Lincoln,29-Harrisburg 2,State House,6,Rep,Herman Otten,481
+Lincoln,11-Grant,State House,6,Dem,Kyle Boese,54
+Lincoln,13-LaValley,State House,6,Dem,Kyle Boese,54
+Lincoln,14-Perry,State House,6,Dem,Kyle Boese,81
+Lincoln,15-Springdale,State House,6,Dem,Kyle Boese,244
+Lincoln,16-Delapre,State House,6,Dem,Kyle Boese,188
+Lincoln,24-Tea,State House,6,Dem,Kyle Boese,414
+Lincoln,25-Lennox,State House,6,Dem,Kyle Boese,213
+Lincoln,27-Harrisburg 1,State House,6,Dem,Kyle Boese,284
+Lincoln,Sioux Falls 1-12,State House,6,Dem,Kyle Boese,50
+Lincoln,Sioux Falls 1-13,State House,6,Dem,Kyle Boese,232
+Lincoln,Sioux Falls 2-12,State House,6,Dem,Kyle Boese,1
+Lincoln,Sioux Falls 1-16,State House,6,Dem,Kyle Boese,201
+Lincoln,Sioux Falls 2-13,State House,6,Dem,Kyle Boese,736
+Lincoln,Sioux Falls 1-14,State House,6,Dem,Kyle Boese,247
+Lincoln,Sioux Falls 2-15,State House,6,Dem,Kyle Boese,8
+Lincoln,Sioux Falls 1-18,State House,6,Dem,Kyle Boese,6
+Lincoln,29-Harrisburg 2,State House,6,Dem,Kyle Boese,344
+Lincoln,11-Grant,State House,6,Dem,Nancy Kirstein,60
+Lincoln,13-LaValley,State House,6,Dem,Nancy Kirstein,73
+Lincoln,14-Perry,State House,6,Dem,Nancy Kirstein,99
+Lincoln,15-Springdale,State House,6,Dem,Nancy Kirstein,263
+Lincoln,16-Delapre,State House,6,Dem,Nancy Kirstein,191
+Lincoln,24-Tea,State House,6,Dem,Nancy Kirstein,410
+Lincoln,25-Lennox,State House,6,Dem,Nancy Kirstein,241
+Lincoln,27-Harrisburg 1,State House,6,Dem,Nancy Kirstein,224
+Lincoln,Sioux Falls 1-12,State House,6,Dem,Nancy Kirstein,54
+Lincoln,Sioux Falls 1-13,State House,6,Dem,Nancy Kirstein,227
+Lincoln,Sioux Falls 2-12,State House,6,Dem,Nancy Kirstein,1
+Lincoln,Sioux Falls 1-16,State House,6,Dem,Nancy Kirstein,209
+Lincoln,Sioux Falls 2-13,State House,6,Dem,Nancy Kirstein,789
+Lincoln,Sioux Falls 1-14,State House,6,Dem,Nancy Kirstein,255
+Lincoln,Sioux Falls 2-15,State House,6,Dem,Nancy Kirstein,10
+Lincoln,Sioux Falls 1-18,State House,6,Dem,Nancy Kirstein,8
+Lincoln,29-Harrisburg 2,State House,6,Dem,Nancy Kirstein,285
+Lincoln,Sioux Falls 1-11,State House,12,Rep,Manny Steele,855
+Lincoln,Sioux Falls 1-12,State House,12,Rep,Manny Steele,480
+Lincoln,Sioux Falls 1-18,State House,12,Rep,Manny Steele,545
+Lincoln,Sioux Falls 1-15,State House,12,Rep,Manny Steele,307
+Lincoln,Sioux Falls 1-11,State House,12,Rep,Arch Beal,812
+Lincoln,Sioux Falls 1-12,State House,12,Rep,Arch Beal,522
+Lincoln,Sioux Falls 1-18,State House,12,Rep,Arch Beal,579
+Lincoln,Sioux Falls 1-15,State House,12,Rep,Arch Beal,322
+Lincoln,Sioux Falls 1-11,State House,12,Dem,Scott C. Petersen,450
+Lincoln,Sioux Falls 1-12,State House,12,Dem,Scott C. Petersen,397
+Lincoln,Sioux Falls 1-18,State House,12,Dem,Scott C. Petersen,342
+Lincoln,Sioux Falls 1-15,State House,12,Dem,Scott C. Petersen,364
+Lincoln,Sioux Falls 1-11,State House,12,Dem,Jeff Hayward,385
+Lincoln,Sioux Falls 1-12,State House,12,Dem,Jeff Hayward,352
+Lincoln,Sioux Falls 1-18,State House,12,Dem,Jeff Hayward,308
+Lincoln,Sioux Falls 1-15,State House,12,Dem,Jeff Hayward,324
+Lincoln,Sioux Falls 2-10,State House,13,Rep,Sue Peterson,988
+Lincoln,Sioux Falls 2-11,State House,13,Rep,Sue Peterson,"1,064"
+Lincoln,Sioux Falls 2-12,State House,13,Rep,Sue Peterson,409
+Lincoln,Sioux Falls 2-15,State House,13,Rep,Sue Peterson,620
+Lincoln,Sioux Falls 2-10,State House,13,Rep,Rex Rolfing,827
+Lincoln,Sioux Falls 2-11,State House,13,Rep,Rex Rolfing,915
+Lincoln,Sioux Falls 2-12,State House,13,Rep,Rex Rolfing,376
+Lincoln,Sioux Falls 2-15,State House,13,Rep,Rex Rolfing,514
+Lincoln,Sioux Falls 2-10,State House,13,Dem,Kelly Sullivan,499
+Lincoln,Sioux Falls 2-11,State House,13,Dem,Kelly Sullivan,655
+Lincoln,Sioux Falls 2-12,State House,13,Dem,Kelly Sullivan,313
+Lincoln,Sioux Falls 2-15,State House,13,Dem,Kelly Sullivan,334
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Rep,Kevin D. Jensen,140
+Lincoln,06-Highland & Canton,State House,16,Rep,Kevin D. Jensen,286
+Lincoln,08-Lincoln & Delaware,State House,16,Rep,Kevin D. Jensen,122
+Lincoln,12-Dayton,State House,16,Rep,Kevin D. Jensen,242
+Lincoln,"20-Canton 1, 2, 3",State House,16,Rep,Kevin D. Jensen,447
+Lincoln,21-Hudson & Eden,State House,16,Rep,Kevin D. Jensen,123
+Lincoln,23-Worthing & Lynn,State House,16,Rep,Kevin D. Jensen,275
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Rep,Kevin D. Jensen,251
+Lincoln,30-Canton 4 & 5,State House,16,Rep,Kevin D. Jensen,201
+Lincoln,29-Harrisburg 2,State House,16,Rep,Kevin D. Jensen,0
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Rep,David L. Anderson,155
+Lincoln,06-Highland & Canton,State House,16,Rep,David L. Anderson,278
+Lincoln,08-Lincoln & Delaware,State House,16,Rep,David L. Anderson,112
+Lincoln,12-Dayton,State House,16,Rep,David L. Anderson,219
+Lincoln,"20-Canton 1, 2, 3",State House,16,Rep,David L. Anderson,465
+Lincoln,21-Hudson & Eden,State House,16,Rep,David L. Anderson,128
+Lincoln,23-Worthing & Lynn,State House,16,Rep,David L. Anderson,255
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Rep,David L. Anderson,240
+Lincoln,30-Canton 4 & 5,State House,16,Rep,David L. Anderson,244
+Lincoln,29-Harrisburg 2,State House,16,Rep,David L. Anderson,0
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Dem,Mike Steinbrecher,48
+Lincoln,06-Highland & Canton,State House,16,Dem,Mike Steinbrecher,64
+Lincoln,08-Lincoln & Delaware,State House,16,Dem,Mike Steinbrecher,53
+Lincoln,12-Dayton,State House,16,Dem,Mike Steinbrecher,69
+Lincoln,"20-Canton 1, 2, 3",State House,16,Dem,Mike Steinbrecher,179
+Lincoln,21-Hudson & Eden,State House,16,Dem,Mike Steinbrecher,55
+Lincoln,23-Worthing & Lynn,State House,16,Dem,Mike Steinbrecher,128
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Dem,Mike Steinbrecher,100
+Lincoln,30-Canton 4 & 5,State House,16,Dem,Mike Steinbrecher,111
+Lincoln,29-Harrisburg 2,State House,16,Dem,Mike Steinbrecher,0
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Dem,Chad Skiles,64
+Lincoln,06-Highland & Canton,State House,16,Dem,Chad Skiles,128
+Lincoln,08-Lincoln & Delaware,State House,16,Dem,Chad Skiles,59
+Lincoln,12-Dayton,State House,16,Dem,Chad Skiles,87
+Lincoln,"20-Canton 1, 2, 3",State House,16,Dem,Chad Skiles,295
+Lincoln,21-Hudson & Eden,State House,16,Dem,Chad Skiles,72
+Lincoln,23-Worthing & Lynn,State House,16,Dem,Chad Skiles,159
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Dem,Chad Skiles,100
+Lincoln,30-Canton 4 & 5,State House,16,Dem,Chad Skiles,179
+Lincoln,29-Harrisburg 2,State House,16,Dem,Chad Skiles,1
