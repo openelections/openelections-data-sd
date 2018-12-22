@@ -1,0 +1,265 @@
+county,precinct,office,district,party,candidate,votes
+Corson,Bullhead Precinct,U.S. House,1,LIB,George D. Hendrickson,1
+Corson,Grand Valley Precinct,U.S. House,1,LIB,George D. Hendrickson,0
+Corson,Kenel Precinct,U.S. House,1,LIB,George D. Hendrickson,0
+Corson,Lincoln Precinct (Oak Creek Precinct),U.S. House,1,LIB,George D. Hendrickson,1
+Corson,Little Eagle Precinct,U.S. House,1,LIB,George D. Hendrickson,3
+Corson,McIntosh Precinct (South McIntosh Precinct),U.S. House,1,LIB,George D. Hendrickson,2
+Corson,McLaughlin Precinct,U.S. House,1,LIB,George D. Hendrickson,4
+Corson,Morristown Precinct,U.S. House,1,LIB,George D. Hendrickson,1
+Corson,Ridgeland Precinct,U.S. House,1,LIB,George D. Hendrickson,0
+Corson,Stone Church Precinct,U.S. House,1,LIB,George D. Hendrickson,0
+Corson,Wakpala Precinct,U.S. House,1,LIB,George D. Hendrickson,3
+Corson,West Rural McLaughlin Precinct,U.S. House,1,LIB,George D. Hendrickson,0
+Corson,Bullhead Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",10
+Corson,Grand Valley Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",54
+Corson,Kenel Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",9
+Corson,Lincoln Precinct (Oak Creek Precinct),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",46
+Corson,Little Eagle Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",17
+Corson,McIntosh Precinct (South McIntosh Precinct),U.S. House,1,REP,"Dustin ""Dusty"" Johnson",98
+Corson,McLaughlin Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",48
+Corson,Morristown Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",63
+Corson,Ridgeland Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",40
+Corson,Stone Church Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",66
+Corson,Wakpala Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",8
+Corson,West Rural McLaughlin Precinct,U.S. House,1,REP,"Dustin ""Dusty"" Johnson",25
+Corson,Bullhead Precinct,U.S. House,1,DEM,Tim Bjorkman,50
+Corson,Grand Valley Precinct,U.S. House,1,DEM,Tim Bjorkman,7
+Corson,Kenel Precinct,U.S. House,1,DEM,Tim Bjorkman,43
+Corson,Lincoln Precinct (Oak Creek Precinct),U.S. House,1,DEM,Tim Bjorkman,40
+Corson,Little Eagle Precinct,U.S. House,1,DEM,Tim Bjorkman,70
+Corson,McIntosh Precinct (South McIntosh Precinct),U.S. House,1,DEM,Tim Bjorkman,31
+Corson,McLaughlin Precinct,U.S. House,1,DEM,Tim Bjorkman,129
+Corson,Morristown Precinct,U.S. House,1,DEM,Tim Bjorkman,27
+Corson,Ridgeland Precinct,U.S. House,1,DEM,Tim Bjorkman,15
+Corson,Stone Church Precinct,U.S. House,1,DEM,Tim Bjorkman,8
+Corson,Wakpala Precinct,U.S. House,1,DEM,Tim Bjorkman,85
+Corson,West Rural McLaughlin Precinct,U.S. House,1,DEM,Tim Bjorkman,52
+Corson,Bullhead Precinct,U.S. House,1,IND,Ron Wieczorek,4
+Corson,Grand Valley Precinct,U.S. House,1,IND,Ron Wieczorek,1
+Corson,Kenel Precinct,U.S. House,1,IND,Ron Wieczorek,2
+Corson,Lincoln Precinct (Oak Creek Precinct),U.S. House,1,IND,Ron Wieczorek,4
+Corson,Little Eagle Precinct,U.S. House,1,IND,Ron Wieczorek,3
+Corson,McIntosh Precinct (South McIntosh Precinct),U.S. House,1,IND,Ron Wieczorek,1
+Corson,McLaughlin Precinct,U.S. House,1,IND,Ron Wieczorek,8
+Corson,Morristown Precinct,U.S. House,1,IND,Ron Wieczorek,5
+Corson,Ridgeland Precinct,U.S. House,1,IND,Ron Wieczorek,0
+Corson,Stone Church Precinct,U.S. House,1,IND,Ron Wieczorek,0
+Corson,Wakpala Precinct,U.S. House,1,IND,Ron Wieczorek,1
+Corson,West Rural McLaughlin Precinct,U.S. House,1,IND,Ron Wieczorek,0
+Corson,Bullhead Precinct,Governor,,LIB,Kurt Evans,2
+Corson,Grand Valley Precinct,Governor,,LIB,Kurt Evans,0
+Corson,Kenel Precinct,Governor,,LIB,Kurt Evans,0
+Corson,Lincoln Precinct (Oak Creek Precinct),Governor,,LIB,Kurt Evans,1
+Corson,Little Eagle Precinct,Governor,,LIB,Kurt Evans,1
+Corson,McIntosh Precinct (South McIntosh Precinct),Governor,,LIB,Kurt Evans,3
+Corson,McLaughlin Precinct,Governor,,LIB,Kurt Evans,6
+Corson,Morristown Precinct,Governor,,LIB,Kurt Evans,1
+Corson,Ridgeland Precinct,Governor,,LIB,Kurt Evans,0
+Corson,Stone Church Precinct,Governor,,LIB,Kurt Evans,0
+Corson,Wakpala Precinct,Governor,,LIB,Kurt Evans,2
+Corson,West Rural McLaughlin Precinct,Governor,,LIB,Kurt Evans,1
+Corson,Bullhead Precinct,Governor,,REP,Kristi Noem,8
+Corson,Grand Valley Precinct,Governor,,REP,Kristi Noem,50
+Corson,Kenel Precinct,Governor,,REP,Kristi Noem,9
+Corson,Lincoln Precinct (Oak Creek Precinct),Governor,,REP,Kristi Noem,44
+Corson,Little Eagle Precinct,Governor,,REP,Kristi Noem,13
+Corson,McIntosh Precinct (South McIntosh Precinct),Governor,,REP,Kristi Noem,80
+Corson,McLaughlin Precinct,Governor,,REP,Kristi Noem,42
+Corson,Morristown Precinct,Governor,,REP,Kristi Noem,57
+Corson,Ridgeland Precinct,Governor,,REP,Kristi Noem,40
+Corson,Stone Church Precinct,Governor,,REP,Kristi Noem,56
+Corson,Wakpala Precinct,Governor,,REP,Kristi Noem,3
+Corson,West Rural McLaughlin Precinct,Governor,,REP,Kristi Noem,24
+Corson,Bullhead Precinct,Governor,,DEM,Billie Sutton,57
+Corson,Grand Valley Precinct,Governor,,DEM,Billie Sutton,11
+Corson,Kenel Precinct,Governor,,DEM,Billie Sutton,47
+Corson,Lincoln Precinct (Oak Creek Precinct),Governor,,DEM,Billie Sutton,51
+Corson,Little Eagle Precinct,Governor,,DEM,Billie Sutton,80
+Corson,McIntosh Precinct (South McIntosh Precinct),Governor,,DEM,Billie Sutton,53
+Corson,McLaughlin Precinct,Governor,,DEM,Billie Sutton,142
+Corson,Morristown Precinct,Governor,,DEM,Billie Sutton,42
+Corson,Ridgeland Precinct,Governor,,DEM,Billie Sutton,19
+Corson,Stone Church Precinct,Governor,,DEM,Billie Sutton,18
+Corson,Wakpala Precinct,Governor,,DEM,Billie Sutton,93
+Corson,West Rural McLaughlin Precinct,Governor,,DEM,Billie Sutton,54
+Corson,Bullhead Precinct,Secretary of State,,REP,Steve Barnett,5
+Corson,Grand Valley Precinct,Secretary of State,,REP,Steve Barnett,54
+Corson,Kenel Precinct,Secretary of State,,REP,Steve Barnett,8
+Corson,Lincoln Precinct (Oak Creek Precinct),Secretary of State,,REP,Steve Barnett,46
+Corson,Little Eagle Precinct,Secretary of State,,REP,Steve Barnett,14
+Corson,McIntosh Precinct (South McIntosh Precinct),Secretary of State,,REP,Steve Barnett,97
+Corson,McLaughlin Precinct,Secretary of State,,REP,Steve Barnett,47
+Corson,Morristown Precinct,Secretary of State,,REP,Steve Barnett,70
+Corson,Ridgeland Precinct,Secretary of State,,REP,Steve Barnett,41
+Corson,Stone Church Precinct,Secretary of State,,REP,Steve Barnett,65
+Corson,Wakpala Precinct,Secretary of State,,REP,Steve Barnett,6
+Corson,West Rural McLaughlin Precinct,Secretary of State,,REP,Steve Barnett,21
+Corson,Bullhead Precinct,Secretary of State,,DEM,Alexandra Frederick,63
+Corson,Grand Valley Precinct,Secretary of State,,DEM,Alexandra Frederick,5
+Corson,Kenel Precinct,Secretary of State,,DEM,Alexandra Frederick,47
+Corson,Lincoln Precinct (Oak Creek Precinct),Secretary of State,,DEM,Alexandra Frederick,46
+Corson,Little Eagle Precinct,Secretary of State,,DEM,Alexandra Frederick,80
+Corson,McIntosh Precinct (South McIntosh Precinct),Secretary of State,,DEM,Alexandra Frederick,36
+Corson,McLaughlin Precinct,Secretary of State,,DEM,Alexandra Frederick,141
+Corson,Morristown Precinct,Secretary of State,,DEM,Alexandra Frederick,23
+Corson,Ridgeland Precinct,Secretary of State,,DEM,Alexandra Frederick,17
+Corson,Stone Church Precinct,Secretary of State,,DEM,Alexandra Frederick,6
+Corson,Wakpala Precinct,Secretary of State,,DEM,Alexandra Frederick,92
+Corson,West Rural McLaughlin Precinct,Secretary of State,,DEM,Alexandra Frederick,56
+Corson,Bullhead Precinct,Attorney General,,REP,Jason Ravnsborg,4
+Corson,Grand Valley Precinct,Attorney General,,REP,Jason Ravnsborg,51
+Corson,Kenel Precinct,Attorney General,,REP,Jason Ravnsborg,7
+Corson,Lincoln Precinct (Oak Creek Precinct),Attorney General,,REP,Jason Ravnsborg,41
+Corson,Little Eagle Precinct,Attorney General,,REP,Jason Ravnsborg,14
+Corson,McIntosh Precinct (South McIntosh Precinct),Attorney General,,REP,Jason Ravnsborg,80
+Corson,McLaughlin Precinct,Attorney General,,REP,Jason Ravnsborg,40
+Corson,Morristown Precinct,Attorney General,,REP,Jason Ravnsborg,59
+Corson,Ridgeland Precinct,Attorney General,,REP,Jason Ravnsborg,37
+Corson,Stone Church Precinct,Attorney General,,REP,Jason Ravnsborg,57
+Corson,Wakpala Precinct,Attorney General,,REP,Jason Ravnsborg,6
+Corson,West Rural McLaughlin Precinct,Attorney General,,REP,Jason Ravnsborg,23
+Corson,Bullhead Precinct,Attorney General,,DEM,Randy Seiler,64
+Corson,Grand Valley Precinct,Attorney General,,DEM,Randy Seiler,9
+Corson,Kenel Precinct,Attorney General,,DEM,Randy Seiler,47
+Corson,Lincoln Precinct (Oak Creek Precinct),Attorney General,,DEM,Randy Seiler,54
+Corson,Little Eagle Precinct,Attorney General,,DEM,Randy Seiler,80
+Corson,McIntosh Precinct (South McIntosh Precinct),Attorney General,,DEM,Randy Seiler,54
+Corson,McLaughlin Precinct,Attorney General,,DEM,Randy Seiler,149
+Corson,Morristown Precinct,Attorney General,,DEM,Randy Seiler,34
+Corson,Ridgeland Precinct,Attorney General,,DEM,Randy Seiler,22
+Corson,Stone Church Precinct,Attorney General,,DEM,Randy Seiler,16
+Corson,Wakpala Precinct,Attorney General,,DEM,Randy Seiler,92
+Corson,West Rural McLaughlin Precinct,Attorney General,,DEM,Randy Seiler,56
+Corson,Bullhead Precinct,State Auditor,,REP,Rich Sattgast,9
+Corson,Grand Valley Precinct,State Auditor,,REP,Rich Sattgast,52
+Corson,Kenel Precinct,State Auditor,,REP,Rich Sattgast,9
+Corson,Lincoln Precinct (Oak Creek Precinct),State Auditor,,REP,Rich Sattgast,42
+Corson,Little Eagle Precinct,State Auditor,,REP,Rich Sattgast,16
+Corson,McIntosh Precinct (South McIntosh Precinct),State Auditor,,REP,Rich Sattgast,92
+Corson,McLaughlin Precinct,State Auditor,,REP,Rich Sattgast,45
+Corson,Morristown Precinct,State Auditor,,REP,Rich Sattgast,61
+Corson,Ridgeland Precinct,State Auditor,,REP,Rich Sattgast,38
+Corson,Stone Church Precinct,State Auditor,,REP,Rich Sattgast,62
+Corson,Wakpala Precinct,State Auditor,,REP,Rich Sattgast,8
+Corson,West Rural McLaughlin Precinct,State Auditor,,REP,Rich Sattgast,24
+Corson,Bullhead Precinct,State Auditor,,DEM,Tom Cool,59
+Corson,Grand Valley Precinct,State Auditor,,DEM,Tom Cool,7
+Corson,Kenel Precinct,State Auditor,,DEM,Tom Cool,45
+Corson,Lincoln Precinct (Oak Creek Precinct),State Auditor,,DEM,Tom Cool,49
+Corson,Little Eagle Precinct,State Auditor,,DEM,Tom Cool,78
+Corson,McIntosh Precinct (South McIntosh Precinct),State Auditor,,DEM,Tom Cool,40
+Corson,McLaughlin Precinct,State Auditor,,DEM,Tom Cool,142
+Corson,Morristown Precinct,State Auditor,,DEM,Tom Cool,27
+Corson,Ridgeland Precinct,State Auditor,,DEM,Tom Cool,20
+Corson,Stone Church Precinct,State Auditor,,DEM,Tom Cool,7
+Corson,Wakpala Precinct,State Auditor,,DEM,Tom Cool,86
+Corson,West Rural McLaughlin Precinct,State Auditor,,DEM,Tom Cool,53
+Corson,Bullhead Precinct,State Treasurer,,REP,Josh Haeder,7
+Corson,Grand Valley Precinct,State Treasurer,,REP,Josh Haeder,53
+Corson,Kenel Precinct,State Treasurer,,REP,Josh Haeder,9
+Corson,Lincoln Precinct (Oak Creek Precinct),State Treasurer,,REP,Josh Haeder,40
+Corson,Little Eagle Precinct,State Treasurer,,REP,Josh Haeder,14
+Corson,McIntosh Precinct (South McIntosh Precinct),State Treasurer,,REP,Josh Haeder,96
+Corson,McLaughlin Precinct,State Treasurer,,REP,Josh Haeder,50
+Corson,Morristown Precinct,State Treasurer,,REP,Josh Haeder,62
+Corson,Ridgeland Precinct,State Treasurer,,REP,Josh Haeder,40
+Corson,Stone Church Precinct,State Treasurer,,REP,Josh Haeder,61
+Corson,Wakpala Precinct,State Treasurer,,REP,Josh Haeder,7
+Corson,West Rural McLaughlin Precinct,State Treasurer,,REP,Josh Haeder,23
+Corson,Bullhead Precinct,State Treasurer,,DEM,Aaron Matson,61
+Corson,Grand Valley Precinct,State Treasurer,,DEM,Aaron Matson,6
+Corson,Kenel Precinct,State Treasurer,,DEM,Aaron Matson,46
+Corson,Lincoln Precinct (Oak Creek Precinct),State Treasurer,,DEM,Aaron Matson,46
+Corson,Little Eagle Precinct,State Treasurer,,DEM,Aaron Matson,78
+Corson,McIntosh Precinct (South McIntosh Precinct),State Treasurer,,DEM,Aaron Matson,35
+Corson,McLaughlin Precinct,State Treasurer,,DEM,Aaron Matson,134
+Corson,Morristown Precinct,State Treasurer,,DEM,Aaron Matson,28
+Corson,Ridgeland Precinct,State Treasurer,,DEM,Aaron Matson,16
+Corson,Stone Church Precinct,State Treasurer,,DEM,Aaron Matson,7
+Corson,Wakpala Precinct,State Treasurer,,DEM,Aaron Matson,87
+Corson,West Rural McLaughlin Precinct,State Treasurer,,DEM,Aaron Matson,54
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,5
+Corson,Grand Valley Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,54
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,8
+Corson,Lincoln Precinct (Oak Creek Precinct),Commissioner of School and Public Lands,,REP,Ryan Brunner,44
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,17
+Corson,McIntosh Precinct (South McIntosh Precinct),Commissioner of School and Public Lands,,REP,Ryan Brunner,95
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,48
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,69
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,37
+Corson,Stone Church Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,63
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,6
+Corson,West Rural McLaughlin Precinct,Commissioner of School and Public Lands,,REP,Ryan Brunner,24
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,63
+Corson,Grand Valley Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,6
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,45
+Corson,Lincoln Precinct (Oak Creek Precinct),Commissioner of School and Public Lands,,DEM,Woody Houser,45
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,76
+Corson,McIntosh Precinct (South McIntosh Precinct),Commissioner of School and Public Lands,,DEM,Woody Houser,36
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,135
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,22
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,20
+Corson,Stone Church Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,6
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,89
+Corson,West Rural McLaughlin Precinct,Commissioner of School and Public Lands,,DEM,Woody Houser,53
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,6
+Corson,Grand Valley Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,55
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,9
+Corson,Lincoln Precinct (Oak Creek Precinct),Commissioner of School and Public Lands,,REP,Kristie Fiegen,42
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,13
+Corson,McIntosh Precinct (South McIntosh Precinct),Commissioner of School and Public Lands,,REP,Kristie Fiegen,92
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,48
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,67
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,39
+Corson,Stone Church Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,61
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,8
+Corson,West Rural McLaughlin Precinct,Commissioner of School and Public Lands,,REP,Kristie Fiegen,24
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,61
+Corson,Grand Valley Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,5
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,44
+Corson,Lincoln Precinct (Oak Creek Precinct),Commissioner of School and Public Lands,,DEM,Wayne Frederick,47
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,79
+Corson,McIntosh Precinct (South McIntosh Precinct),Commissioner of School and Public Lands,,DEM,Wayne Frederick,39
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,137
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,23
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,17
+Corson,Stone Church Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,8
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,88
+Corson,West Rural McLaughlin Precinct,Commissioner of School and Public Lands,,DEM,Wayne Frederick,53
+Corson,Bullhead Precinct,State Senate,28,REP,Ryan M. Maher,12
+Corson,Grand Valley Precinct,State Senate,28,REP,Ryan M. Maher,58
+Corson,Kenel Precinct,State Senate,28,REP,Ryan M. Maher,8
+Corson,Lincoln Precinct (Oak Creek Precinct),State Senate,28,REP,Ryan M. Maher,52
+Corson,Little Eagle Precinct,State Senate,28,REP,Ryan M. Maher,24
+Corson,McIntosh Precinct (South McIntosh Precinct),State Senate,28,REP,Ryan M. Maher,113
+Corson,McLaughlin Precinct,State Senate,28,REP,Ryan M. Maher,54
+Corson,Morristown Precinct,State Senate,28,REP,Ryan M. Maher,84
+Corson,Ridgeland Precinct,State Senate,28,REP,Ryan M. Maher,44
+Corson,Stone Church Precinct,State Senate,28,REP,Ryan M. Maher,70
+Corson,Wakpala Precinct,State Senate,28,REP,Ryan M. Maher,6
+Corson,West Rural McLaughlin Precinct,State Senate,28,REP,Ryan M. Maher,23
+Corson,Bullhead Precinct,State Senate,28,DEM,Alli Moran,57
+Corson,Grand Valley Precinct,State Senate,28,DEM,Alli Moran,3
+Corson,Kenel Precinct,State Senate,28,DEM,Alli Moran,46
+Corson,Lincoln Precinct (Oak Creek Precinct),State Senate,28,DEM,Alli Moran,43
+Corson,Little Eagle Precinct,State Senate,28,DEM,Alli Moran,72
+Corson,McIntosh Precinct (South McIntosh Precinct),State Senate,28,DEM,Alli Moran,23
+Corson,McLaughlin Precinct,State Senate,28,DEM,Alli Moran,137
+Corson,Morristown Precinct,State Senate,28,DEM,Alli Moran,16
+Corson,Ridgeland Precinct,State Senate,28,DEM,Alli Moran,14
+Corson,Stone Church Precinct,State Senate,28,DEM,Alli Moran,1
+Corson,Wakpala Precinct,State Senate,28,DEM,Alli Moran,91
+Corson,West Rural McLaughlin Precinct,State Senate,28,DEM,Alli Moran,55
+Corson,Bullhead Precinct,State Representative,28A,DEM,Oren Lesmeister,60
+Corson,Grand Valley Precinct,State Representative,28A,DEM,Oren Lesmeister,18
+Corson,Kenel Precinct,State Representative,28A,DEM,Oren Lesmeister,46
+Corson,Lincoln Precinct (Oak Creek Precinct),State Representative,28A,DEM,Oren Lesmeister,54
+Corson,Little Eagle Precinct,State Representative,28A,DEM,Oren Lesmeister,80
+Corson,McIntosh Precinct (South McIntosh Precinct),State Representative,28A,DEM,Oren Lesmeister,72
+Corson,McLaughlin Precinct,State Representative,28A,DEM,Oren Lesmeister,145
+Corson,Morristown Precinct,State Representative,28A,DEM,Oren Lesmeister,40
+Corson,Ridgeland Precinct,State Representative,28A,DEM,Oren Lesmeister,31
+Corson,Stone Church Precinct,State Representative,28A,DEM,Oren Lesmeister,40
+Corson,Wakpala Precinct,State Representative,28A,DEM,Oren Lesmeister,90
+Corson,West Rural McLaughlin Precinct,State Representative,28A,DEM,Oren Lesmeister,54
