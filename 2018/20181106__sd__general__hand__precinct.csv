@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes
+Hand,Precinct-01 (Precinct-03),US House,1,LIB,George D.Hendrickson,1
+Hand,Precinct-02,US House,1,LIB,George D.Hendrickson,1
+Hand,Precinct-05 (Precinct-08),US House,1,LIB,George D.Hendrickson,1
+Hand,Precinct-06 (Precinct-04),US House,1,LIB,George D.Hendrickson,3
+Hand,Precinct-07,US House,1,LIB,George D.Hendrickson,0
+Hand,Precinct-09 (Precinct-10),US House,1,LIB,George D.Hendrickson,2
+Hand,Precinct-11,US House,1,LIB,George D.Hendrickson,2
+Hand,Precinct-12,US House,1,LIB,George D.Hendrickson,5
+Hand,Precinct-01 (Precinct-03),US House,1,REP,Dusty Johnson,160
+Hand,Precinct-02,US House,1,REP,Dusty Johnson,61
+Hand,Precinct-05 (Precinct-08),US House,1,REP,Dusty Johnson,98
+Hand,Precinct-06 (Precinct-04),US House,1,REP,Dusty Johnson,149
+Hand,Precinct-07,US House,1,REP,Dusty Johnson,71
+Hand,Precinct-09 (Precinct-10),US House,1,REP,Dusty Johnson,112
+Hand,Precinct-11,US House,1,REP,Dusty Johnson,237
+Hand,Precinct-12,US House,1,REP,Dusty Johnson,283
+Hand,Precinct-01 (Precinct-03),US House,1,DEM,Tim Bjorkman,35
+Hand,Precinct-02,US House,1,DEM,Tim Bjorkman,14
+Hand,Precinct-05 (Precinct-08),US House,1,DEM,Tim Bjorkman,38
+Hand,Precinct-06 (Precinct-04),US House,1,DEM,Tim Bjorkman,62
+Hand,Precinct-07,US House,1,DEM,Tim Bjorkman,41
+Hand,Precinct-09 (Precinct-10),US House,1,DEM,Tim Bjorkman,17
+Hand,Precinct-11,US House,1,DEM,Tim Bjorkman,107
+Hand,Precinct-12,US House,1,DEM,Tim Bjorkman,115
+Hand,Precinct-01 (Precinct-03),US House,1,IND,Ron Wieczorek,7
+Hand,Precinct-02,US House,1,IND,Ron Wieczorek,2
+Hand,Precinct-05 (Precinct-08),US House,1,IND,Ron Wieczorek,4
+Hand,Precinct-06 (Precinct-04),US House,1,IND,Ron Wieczorek,7
+Hand,Precinct-07,US House,1,IND,Ron Wieczorek,4
+Hand,Precinct-09 (Precinct-10),US House,1,IND,Ron Wieczorek,2
+Hand,Precinct-11,US House,1,IND,Ron Wieczorek,3
+Hand,Precinct-12,US House,1,IND,Ron Wieczorek,5
+Hand,Precinct-01 (Precinct-03),Governor,,LIB,Kurt Evans,3
+Hand,Precinct-02,Governor,,LIB,Kurt Evans,1
+Hand,Precinct-05 (Precinct-08),Governor,,LIB,Kurt Evans,7
+Hand,Precinct-06 (Precinct-04),Governor,,LIB,Kurt Evans,6
+Hand,Precinct-07,Governor,,LIB,Kurt Evans,0
+Hand,Precinct-09 (Precinct-10),Governor,,LIB,Kurt Evans,2
+Hand,Precinct-11,Governor,,LIB,Kurt Evans,4
+Hand,Precinct-12,Governor,,LIB,Kurt Evans,6
+Hand,Precinct-01 (Precinct-03),Governor,,REP,Kristi Noem,148
+Hand,Precinct-02,Governor,,REP,Kristi Noem,49
+Hand,Precinct-05 (Precinct-08),Governor,,REP,Kristi Noem,75
+Hand,Precinct-06 (Precinct-04),Governor,,REP,Kristi Noem,124
+Hand,Precinct-07,Governor,,REP,Kristi Noem,58
+Hand,Precinct-09 (Precinct-10),Governor,,REP,Kristi Noem,103
+Hand,Precinct-11,Governor,,REP,Kristi Noem,174
+Hand,Precinct-12,Governor,,REP,Kristi Noem,219
+Hand,Precinct-01 (Precinct-03),Governor,,DEM,Billie Sutton,50
+Hand,Precinct-02,Governor,,DEM,Billie Sutton,27
+Hand,Precinct-05 (Precinct-08),Governor,,DEM,Billie Sutton,64
+Hand,Precinct-06 (Precinct-04),Governor,,DEM,Billie Sutton,96
+Hand,Precinct-07,Governor,,DEM,Billie Sutton,60
+Hand,Precinct-09 (Precinct-10),Governor,,DEM,Billie Sutton,27
+Hand,Precinct-11,Governor,,DEM,Billie Sutton,172
+Hand,Precinct-12,Governor,,DEM,Billie Sutton,187
+Hand,Precinct-01 (Precinct-03),Secretary of State,,REP,Steve Barnett,168
+Hand,Precinct-02,Secretary of State,,REP,Steve Barnett,57
+Hand,Precinct-05 (Precinct-08),Secretary of State,,REP,Steve Barnett,117
+Hand,Precinct-06 (Precinct-04),Secretary of State,,REP,Steve Barnett,150
+Hand,Precinct-07,Secretary of State,,REP,Steve Barnett,73
+Hand,Precinct-09 (Precinct-10),Secretary of State,,REP,Steve Barnett,120
+Hand,Precinct-11,Secretary of State,,REP,Steve Barnett,248
+Hand,Precinct-12,Secretary of State,,REP,Steve Barnett,295
+Hand,Precinct-01 (Precinct-03),Secretary of State,,DEM,Alexandra Frederick,28
+Hand,Precinct-02,Secretary of State,,DEM,Alexandra Frederick,16
+Hand,Precinct-05 (Precinct-08),Secretary of State,,DEM,Alexandra Frederick,22
+Hand,Precinct-06 (Precinct-04),Secretary of State,,DEM,Alexandra Frederick,66
+Hand,Precinct-07,Secretary of State,,DEM,Alexandra Frederick,33
+Hand,Precinct-09 (Precinct-10),Secretary of State,,DEM,Alexandra Frederick,10
+Hand,Precinct-11,Secretary of State,,DEM,Alexandra Frederick,90
+Hand,Precinct-12,Secretary of State,,DEM,Alexandra Frederick,102
+Hand,Precinct-01 (Precinct-03),Attorney General,,REP,Jason Ravnsborg,154
+Hand,Precinct-02,Attorney General,,REP,Jason Ravnsborg,49
+Hand,Precinct-05 (Precinct-08),Attorney General,,REP,Jason Ravnsborg,92
+Hand,Precinct-06 (Precinct-04),Attorney General,,REP,Jason Ravnsborg,131
+Hand,Precinct-07,Attorney General,,REP,Jason Ravnsborg,60
+Hand,Precinct-09 (Precinct-10),Attorney General,,REP,Jason Ravnsborg,106
+Hand,Precinct-11,Attorney General,,REP,Jason Ravnsborg,196
+Hand,Precinct-12,Attorney General,,REP,Jason Ravnsborg,236
+Hand,Precinct-01 (Precinct-03),Attorney General,,DEM,Randy Seller,43
+Hand,Precinct-02,Attorney General,,DEM,Randy Seller,26
+Hand,Precinct-05 (Precinct-08),Attorney General,,DEM,Randy Seller,47
+Hand,Precinct-06 (Precinct-04),Attorney General,,DEM,Randy Seller,81
+Hand,Precinct-07,Attorney General,,DEM,Randy Seller,48
+Hand,Precinct-09 (Precinct-10),Attorney General,,DEM,Randy Seller,22
+Hand,Precinct-11,Attorney General,,DEM,Randy Seller,141
+Hand,Precinct-12,Attorney General,,DEM,Randy Seller,157
+Hand,Precinct-01 (Precinct-03),State Auditor,,REP,Rich Sattgast,161
+Hand,Precinct-02,State Auditor,,REP,Rich Sattgast,56
+Hand,Precinct-05 (Precinct-08),State Auditor,,REP,Rich Sattgast,118
+Hand,Precinct-06 (Precinct-04),State Auditor,,REP,Rich Sattgast,149
+Hand,Precinct-07,State Auditor,,REP,Rich Sattgast,74
+Hand,Precinct-09 (Precinct-10),State Auditor,,REP,Rich Sattgast,115
+Hand,Precinct-11,State Auditor,,REP,Rich Sattgast,246
+Hand,Precinct-12,State Auditor,,REP,Rich Sattgast,282
+Hand,Precinct-01 (Precinct-03),State Auditor,,DEM,Tom Cool,29
+Hand,Precinct-02,State Auditor,,DEM,Tom Cool,19
+Hand,Precinct-05 (Precinct-08),State Auditor,,DEM,Tom Cool,21
+Hand,Precinct-06 (Precinct-04),State Auditor,,DEM,Tom Cool,61
+Hand,Precinct-07,State Auditor,,DEM,Tom Cool,32
+Hand,Precinct-09 (Precinct-10),State Auditor,,DEM,Tom Cool,12
+Hand,Precinct-11,State Auditor,,DEM,Tom Cool,88
+Hand,Precinct-12,State Auditor,,DEM,Tom Cool,107
+Hand,Precinct-01 (Precinct-03),State Treasurer,,REP,Josh Haeder,167
+Hand,Precinct-02,State Treasurer,,REP,Josh Haeder,51
+Hand,Precinct-05 (Precinct-08),State Treasurer,,REP,Josh Haeder,111
+Hand,Precinct-06 (Precinct-04),State Treasurer,,REP,Josh Haeder,155
+Hand,Precinct-07,State Treasurer,,REP,Josh Haeder,82
+Hand,Precinct-09 (Precinct-10),State Treasurer,,REP,Josh Haeder,117
+Hand,Precinct-11,State Treasurer,,REP,Josh Haeder,254
+Hand,Precinct-12,State Treasurer,,REP,Josh Haeder,306
+Hand,Precinct-01 (Precinct-03),State Treasurer,,DEM,Aaron Matson,24
+Hand,Precinct-02,State Treasurer,,DEM,Aaron Matson,22
+Hand,Precinct-05 (Precinct-08),State Treasurer,,DEM,Aaron Matson,23
+Hand,Precinct-06 (Precinct-04),State Treasurer,,DEM,Aaron Matson,61
+Hand,Precinct-07,State Treasurer,,DEM,Aaron Matson,31
+Hand,Precinct-09 (Precinct-10),State Treasurer,,DEM,Aaron Matson,11
+Hand,Precinct-11,State Treasurer,,DEM,Aaron Matson,83
+Hand,Precinct-12,State Treasurer,,DEM,Aaron Matson,85
+Hand,Precinct-01 (Precinct-03),Commissioner of School and Public Lands,,REP,Ryan Brunner,154
+Hand,Precinct-02,Commissioner of School and Public Lands,,REP,Ryan Brunner,57
+Hand,Precinct-05 (Precinct-08),Commissioner of School and Public Lands,,REP,Ryan Brunner,100
+Hand,Precinct-06 (Precinct-04),Commissioner of School and Public Lands,,REP,Ryan Brunner,138
+Hand,Precinct-07,Commissioner of School and Public Lands,,REP,Ryan Brunner,64
+Hand,Precinct-09 (Precinct-10),Commissioner of School and Public Lands,,REP,Ryan Brunner,111
+Hand,Precinct-11,Commissioner of School and Public Lands,,REP,Ryan Brunner,209
+Hand,Precinct-12,Commissioner of School and Public Lands,,REP,Ryan Brunner,263
+Hand,Precinct-01 (Precinct-03),Commissioner of School and Public Lands,,DEM,Woody Houser,39
+Hand,Precinct-02,Commissioner of School and Public Lands,,DEM,Woody Houser,18
+Hand,Precinct-05 (Precinct-08),Commissioner of School and Public Lands,,DEM,Woody Houser,32
+Hand,Precinct-06 (Precinct-04),Commissioner of School and Public Lands,,DEM,Woody Houser,64
+Hand,Precinct-07,Commissioner of School and Public Lands,,DEM,Woody Houser,42
+Hand,Precinct-09 (Precinct-10),Commissioner of School and Public Lands,,DEM,Woody Houser,14
+Hand,Precinct-11,Commissioner of School and Public Lands,,DEM,Woody Houser,114
+Hand,Precinct-12,Commissioner of School and Public Lands,,DEM,Woody Houser,113
+Hand,Precinct-01 (Precinct-03),Public Utilities Commissioner,,REP,Kristie Fiegen,165
+Hand,Precinct-02,Public Utilities Commissioner,,REP,Kristie Fiegen,55
+Hand,Precinct-05 (Precinct-08),Public Utilities Commissioner,,REP,Kristie Fiegen,101
+Hand,Precinct-06 (Precinct-04),Public Utilities Commissioner,,REP,Kristie Fiegen,151
+Hand,Precinct-07,Public Utilities Commissioner,,REP,Kristie Fiegen,70
+Hand,Precinct-09 (Precinct-10),Public Utilities Commissioner,,REP,Kristie Fiegen,109
+Hand,Precinct-11,Public Utilities Commissioner,,REP,Kristie Fiegen,227
+Hand,Precinct-12,Public Utilities Commissioner,,REP,Kristie Fiegen,285
+Hand,Precinct-01 (Precinct-03),Public Utilities Commissioner,,DEM,Wayne Frederick,26
+Hand,Precinct-02,Public Utilities Commissioner,,DEM,Wayne Frederick,19
+Hand,Precinct-05 (Precinct-08),Public Utilities Commissioner,,DEM,Wayne Frederick,28
+Hand,Precinct-06 (Precinct-04),Public Utilities Commissioner,,DEM,Wayne Frederick,63
+Hand,Precinct-07,Public Utilities Commissioner,,DEM,Wayne Frederick,39
+Hand,Precinct-09 (Precinct-10),Public Utilities Commissioner,,DEM,Wayne Frederick,14
+Hand,Precinct-11,Public Utilities Commissioner,,DEM,Wayne Frederick,98
+Hand,Precinct-12,Public Utilities Commissioner,,DEM,Wayne Frederick,93
+Hand,Precinct-01 (Precinct-03),State Senate,23,REP,Justin Cronin,173
+Hand,Precinct-02,State Senate,23,REP,Justin Cronin,58
+Hand,Precinct-05 (Precinct-08),State Senate,23,REP,Justin Cronin,106
+Hand,Precinct-06 (Precinct-04),State Senate,23,REP,Justin Cronin,162
+Hand,Precinct-07,State Senate,23,REP,Justin Cronin,73
+Hand,Precinct-09 (Precinct-10),State Senate,23,REP,Justin Cronin,116
+Hand,Precinct-11,State Senate,23,REP,Justin Cronin,248
+Hand,Precinct-12,State Senate,23,REP,Justin Cronin,295
+Hand,Precinct-01 (Precinct-03),State Senate,23,DEM,Joe Yracheta,20
+Hand,Precinct-02,State Senate,23,DEM,Joe Yracheta,15
+Hand,Precinct-05 (Precinct-08),State Senate,23,DEM,Joe Yracheta,29
+Hand,Precinct-06 (Precinct-04),State Senate,23,DEM,Joe Yracheta,51
+Hand,Precinct-07,State Senate,23,DEM,Joe Yracheta,31
+Hand,Precinct-09 (Precinct-10),State Senate,23,DEM,Joe Yracheta,8
+Hand,Precinct-11,State Senate,23,DEM,Joe Yracheta,83
+Hand,Precinct-12,State Senate,23,DEM,Joe Yracheta,85
+Hand,Precinct-01 (Precinct-03),State House,23,REP,Spencer Gosch,154
+Hand,Precinct-02,State House,23,REP,Spencer Gosch,45
+Hand,Precinct-05 (Precinct-08),State House,23,REP,Spencer Gosch,93
+Hand,Precinct-06 (Precinct-04),State House,23,REP,Spencer Gosch,114
+Hand,Precinct-07,State House,23,REP,Spencer Gosch,67
+Hand,Precinct-09 (Precinct-10),State House,23,REP,Spencer Gosch,106
+Hand,Precinct-11,State House,23,REP,Spencer Gosch,169
+Hand,Precinct-12,State House,23,REP,Spencer Gosch,223
+Hand,Precinct-01 (Precinct-03),State House,23,REP,John Lake,130
+Hand,Precinct-02,State House,23,REP,John Lake,45
+Hand,Precinct-05 (Precinct-08),State House,23,REP,John Lake,60
+Hand,Precinct-06 (Precinct-04),State House,23,REP,John Lake,97
+Hand,Precinct-07,State House,23,REP,John Lake,46
+Hand,Precinct-09 (Precinct-10),State House,23,REP,John Lake,89
+Hand,Precinct-11,State House,23,REP,John Lake,164
+Hand,Precinct-12,State House,23,REP,John Lake,193
+Hand,Precinct-01 (Precinct-03),State House,23,DEM,Eleanor Iverson,55
+Hand,Precinct-02,State House,23,DEM,Eleanor Iverson,27
+Hand,Precinct-05 (Precinct-08),State House,23,DEM,Eleanor Iverson,61
+Hand,Precinct-06 (Precinct-04),State House,23,DEM,Eleanor Iverson,100
+Hand,Precinct-07,State House,23,DEM,Eleanor Iverson,54
+Hand,Precinct-09 (Precinct-10),State House,23,DEM,Eleanor Iverson,31
+Hand,Precinct-11,State House,23,DEM,Eleanor Iverson,171
+Hand,Precinct-12,State House,23,DEM,Eleanor Iverson,200
+Hand,Precinct-01 (Precinct-03),State House,23,DEM,Margaret Walsh,26
+Hand,Precinct-02,State House,23,DEM,Margaret Walsh,15
+Hand,Precinct-05 (Precinct-08),State House,23,DEM,Margaret Walsh,31
+Hand,Precinct-06 (Precinct-04),State House,23,DEM,Margaret Walsh,76
+Hand,Precinct-07,State House,23,DEM,Margaret Walsh,36
+Hand,Precinct-09 (Precinct-10),State House,23,DEM,Margaret Walsh,14
+Hand,Precinct-11,State House,23,DEM,Margaret Walsh,101
+Hand,Precinct-12,State House,23,DEM,Margaret Walsh,106
