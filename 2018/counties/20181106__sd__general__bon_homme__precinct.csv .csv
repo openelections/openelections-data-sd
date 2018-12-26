@@ -22,15 +22,15 @@ Bon Homme,1,State Senate,19,Stace Nelson,REP,335
 Bon Homme,1,State Senate,19,Ardon Wek,DEM,177
 Bon Homme,1,State Senate,21,Rocky Dale Blare,REP,
 Bon Homme,1,State Senate,21,Julie Bartling,DEM,
-Bon Homme,1,State Representative,19,Kent Peterson,REP,333
-Bon Homme,1,State Representative,19,Kyle Schoenfish,REP,392
-Bon Homme,1,State Representative,19,John C. Koch,DEM,94
-Bon Homme,1,State Representative,19,Alison Bowers,IND,43
-Bon Homme,1,State Representative,19,Roger Hofer,IND,77
-Bon Homme,1,State Representative,21,Caleb Finck,REP,
-Bon Homme,1,State Representative,21,Lee Qualm,REP,
-Bon Homme,1,State Representative,21,Faith Spotted Eaqle,,
-Bon Homme,1,State Representative,21,Anna Kerner Anderson,,
+Bon Homme,1,State House,19,Kent Peterson,REP,333
+Bon Homme,1,State House,19,Kyle Schoenfish,REP,392
+Bon Homme,1,State House,19,John C. Koch,DEM,94
+Bon Homme,1,State House,19,Alison Bowers,IND,43
+Bon Homme,1,State House,19,Roger Hofer,IND,77
+Bon Homme,1,State House,21,Caleb Finck,REP,
+Bon Homme,1,State House,21,Lee Qualm,REP,
+Bon Homme,1,State House,21,Faith Spotted Eaqle,,
+Bon Homme,1,State House,21,Anna Kerner Anderson,,
 Bon Homme,2,U.S. Representative,1,George D. Hendrickson,LIB,7
 Bon Homme,2,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,316
 Bon Homme,2,U.S. Representative,1,Tim Bjorkman,DEM,145
@@ -54,15 +54,15 @@ Bon Homme,2,State Senate,19,Stace Nelson,REP,
 Bon Homme,2,State Senate,19,Ardon Wek,DEM,
 Bon Homme,2,State Senate,21,Rocky Dale Blare,REP,250
 Bon Homme,2,State Senate,21,Julie Bartling,DEM,211
-Bon Homme,2,State Representative,19,Kent Peterson,REP,
-Bon Homme,2,State Representative,19,Kyle Schoenfish,REP,
-Bon Homme,2,State Representative,19,John C. Koch,DEM,
-Bon Homme,2,State Representative,19,Alison Bowers,IND,
-Bon Homme,2,State Representative,19,Roger Hofer,IND,
-Bon Homme,2,State Representative,21,Caleb Finck,REP,332
-Bon Homme,2,State Representative,21,Lee Qualm,REP,286
-Bon Homme,2,State Representative,21,Faith Spotted Eaqle,,72
-Bon Homme,2,State Representative,21,Anna Kerner Anderson,,142
+Bon Homme,2,State House,19,Kent Peterson,REP,
+Bon Homme,2,State House,19,Kyle Schoenfish,REP,
+Bon Homme,2,State House,19,John C. Koch,DEM,
+Bon Homme,2,State House,19,Alison Bowers,IND,
+Bon Homme,2,State House,19,Roger Hofer,IND,
+Bon Homme,2,State House,21,Caleb Finck,REP,332
+Bon Homme,2,State House,21,Lee Qualm,REP,286
+Bon Homme,2,State House,21,Faith Spotted Eaqle,,72
+Bon Homme,2,State House,21,Anna Kerner Anderson,,142
 Bon Homme,3,U.S. Representative,1,George D. Hendrickson,LIB,11
 Bon Homme,3,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,350
 Bon Homme,3,U.S. Representative,1,Tim Bjorkman,DEM,262
@@ -86,15 +86,15 @@ Bon Homme,3,State Senate,19,Stace Nelson,REP,382
 Bon Homme,3,State Senate,19,Ardon Wek,DEM,238
 Bon Homme,3,State Senate,21,Rocky Dale Blare,REP,
 Bon Homme,3,State Senate,21,Julie Bartling,DEM,
-Bon Homme,3,State Representative,19,Kent Peterson,REP,284
-Bon Homme,3,State Representative,19,Kyle Schoenfish,REP,375
-Bon Homme,3,State Representative,19,John C. Koch,DEM,205
-Bon Homme,3,State Representative,19,Alison Bowers,IND,97
-Bon Homme,3,State Representative,19,Roger Hofer,IND,119
-Bon Homme,3,State Representative,21,Caleb Finck,REP,
-Bon Homme,3,State Representative,21,Lee Qualm,REP,
-Bon Homme,3,State Representative,21,Faith Spotted Eaqle,,
-Bon Homme,3,State Representative,21,Anna Kerner Anderson,,
+Bon Homme,3,State House,19,Kent Peterson,REP,284
+Bon Homme,3,State House,19,Kyle Schoenfish,REP,375
+Bon Homme,3,State House,19,John C. Koch,DEM,205
+Bon Homme,3,State House,19,Alison Bowers,IND,97
+Bon Homme,3,State House,19,Roger Hofer,IND,119
+Bon Homme,3,State House,21,Caleb Finck,REP,
+Bon Homme,3,State House,21,Lee Qualm,REP,
+Bon Homme,3,State House,21,Faith Spotted Eaqle,,
+Bon Homme,3,State House,21,Anna Kerner Anderson,,
 Bon Homme,4,U.S. Representative,1,George D. Hendrickson,LIB,3
 Bon Homme,4,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,240
 Bon Homme,4,U.S. Representative,1,Tim Bjorkman,DEM,212
@@ -118,15 +118,15 @@ Bon Homme,4,State Senate,19,Stace Nelson,REP,261
 Bon Homme,4,State Senate,19,Ardon Wek,DEM,183
 Bon Homme,4,State Senate,21,Rocky Dale Blare,REP,
 Bon Homme,4,State Senate,21,Julie Bartling,DEM,
-Bon Homme,4,State Representative,19,Kent Peterson,REP,195
-Bon Homme,4,State Representative,19,Kyle Schoenfish,REP,268
-Bon Homme,4,State Representative,19,John C. Koch,DEM,161
-Bon Homme,4,State Representative,19,Alison Bowers,IND,76
-Bon Homme,4,State Representative,19,Roger Hofer,IND,75
-Bon Homme,4,State Representative,21,Caleb Finck,REP,
-Bon Homme,4,State Representative,21,Lee Qualm,REP,
-Bon Homme,4,State Representative,21,Faith Spotted Eaqle,,
-Bon Homme,4,State Representative,21,Anna Kerner Anderson,,
+Bon Homme,4,State House,19,Kent Peterson,REP,195
+Bon Homme,4,State House,19,Kyle Schoenfish,REP,268
+Bon Homme,4,State House,19,John C. Koch,DEM,161
+Bon Homme,4,State House,19,Alison Bowers,IND,76
+Bon Homme,4,State House,19,Roger Hofer,IND,75
+Bon Homme,4,State House,21,Caleb Finck,REP,
+Bon Homme,4,State House,21,Lee Qualm,REP,
+Bon Homme,4,State House,21,Faith Spotted Eaqle,,
+Bon Homme,4,State House,21,Anna Kerner Anderson,,
 Bon Homme,5,U.S. Representative,1,George D. Hendrickson,LIB,8
 Bon Homme,5,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,402
 Bon Homme,5,U.S. Representative,1,Tim Bjorkman,DEM,171
@@ -150,12 +150,12 @@ Bon Homme,5,State Senate,19,Stace Nelson,REP,
 Bon Homme,5,State Senate,19,Ardon Wek,DEM,
 Bon Homme,5,State Senate,21,Rocky Dale Blare,REP,349
 Bon Homme,5,State Senate,21,Julie Bartling,DEM,216
-Bon Homme,5,State Representative,19,Kent Peterson,REP,
-Bon Homme,5,State Representative,19,Kyle Schoenfish,REP,
-Bon Homme,5,State Representative,19,John C. Koch,DEM,
-Bon Homme,5,State Representative,19,Alison Bowers,IND,
-Bon Homme,5,State Representative,19,Roger Hofer,IND,
-Bon Homme,5,State Representative,21,Caleb Finck,REP,372
-Bon Homme,5,State Representative,21,Lee Qualm,REP,388
-Bon Homme,5,State Representative,21,Faith Spotted Eaqle,,112
-Bon Homme,5,State Representative,21,Anna Kerner Anderson,,151
+Bon Homme,5,State House,19,Kent Peterson,REP,
+Bon Homme,5,State House,19,Kyle Schoenfish,REP,
+Bon Homme,5,State House,19,John C. Koch,DEM,
+Bon Homme,5,State House,19,Alison Bowers,IND,
+Bon Homme,5,State House,19,Roger Hofer,IND,
+Bon Homme,5,State House,21,Caleb Finck,REP,372
+Bon Homme,5,State House,21,Lee Qualm,REP,388
+Bon Homme,5,State House,21,Faith Spotted Eaqle,,112
+Bon Homme,5,State House,21,Anna Kerner Anderson,,151
