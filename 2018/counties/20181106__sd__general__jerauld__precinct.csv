@@ -1,4 +1,4 @@
-votes,district,candidate,office,county,party,precinct
+county,precinct,office,district,party,candidate,votes
 Jerauld,1,U.S. House,1,LIB,George D. Hendrickson,3
 Jerauld,2,U.S. House,1,LIB,George D. Hendrickson,2
 Jerauld,3,U.S. House,1,LIB,George D. Hendrickson,2

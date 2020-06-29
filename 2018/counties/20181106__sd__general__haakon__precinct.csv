@@ -1,4 +1,4 @@
-votes,district,candidate,office,county,party,precinct
+county,precinct,office,district,party,candidate,votes
 Haakon,1,U.S. House,1,LIB,George D. Hendrickson,5
 Haakon,4,U.S. House,1,LIB,George D. Hendrickson,2
 Haakon,16,U.S. House,1,LIB,George D. Hendrickson,2

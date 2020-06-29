@@ -1,4 +1,4 @@
-votes,district,candidate,office,county,party,precinct
+county,precinct,office,district,party,candidate,votes
 Aurora,1,U.S. House,1,LIB,George D. Hendrickson,2
 Aurora,2,U.S. House,1,LIB,George D. Hendrickson,0
 Aurora,3,U.S. House,1,LIB,George D. Hendrickson,2

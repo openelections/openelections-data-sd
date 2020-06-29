@@ -1,4 +1,4 @@
-votes,district,candidate,office,county,party,precinct
+county,precinct,office,district,party,candidate,votes
 Moody,1,U.S. House,1,LIB,George D. Hendrickson,8
 Moody,2,U.S. House,1,LIB,George D. Hendrickson,7
 Moody,3,U.S. House,1,LIB,George D. Hendrickson,6
