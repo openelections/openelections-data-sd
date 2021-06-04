@@ -1,6 +1,5 @@
 import os
 import glob
-import pandas as pd
 from tickets import Tickets
 
 '''
