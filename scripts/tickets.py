@@ -59,7 +59,7 @@ class Tickets():
         
         # Getting tickets
         print('-----------------------------')
-        print(f'Getting tickets for {on_blue(self.state_name)}...')
+        print(f'Getting tickets for {on_blue(self.state_name)} in {on_blue(self.filename[:4])} ...')
         print('-----------------------------')
         print('STARTING UNIQUES:', red(str(len(self.df.candidate.unique()))))
         self.tickets = self.get_tickets(self.df, self.filename, 
