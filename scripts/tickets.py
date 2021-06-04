@@ -2,19 +2,19 @@
 
 '''
 Returns every "ticket", a unique office-candidate pair,
-from a given state-wide precinct file. Saves as CSV
-to same directory.
+from a given state-wide precinct file.
 
 !! THIS IS THE SOUTH DAKOTA VERSION OF THIS GENERAL SCRIPT !!
 '''
 
-from os import lseek
+from itertools import combinations
 import pandas as pd
 import numpy as np
 from fuzzywuzzy import fuzz, process
 from curtsies.fmtfuncs import red, bold, green, on_blue, yellow
 
 class Tickets():
+    
     # tokens representing e.g. void ballots or total vote counts
     PROCEDURALS = {
         'VOIDS': 'VOID',
@@ -49,29 +49,100 @@ class Tickets():
     # - parties, nicknames
     AFFIX = [r'^REP', r'^DEM', r'^IND', r'\".*\"', r'\(.*\)']
 
-    def __init__(self, state_name, filename, fuzzy_iterations=1):
+    def __init__(self, state_name: str, filename: str):
+        # metadata
         self.state = state_name
         self.state_name = ' '.join(self.state.split('_')).title()
         self.filename = filename
-        self.fuzzy_iterations = fuzzy_iterations
+        self.year = filename[:4]
+        
+        # for runtime
         self.df = pd.read_csv(filename, usecols=['office','candidate']).sort_values(by=['candidate'])
         self.df = self.df[self.df.candidate.isna() == False]
-        
-        # Getting tickets
-        print('-----------------------------')
-        print(f'Getting tickets for {on_blue(self.state_name)} in {on_blue(self.filename[:4])} ...')
-        print('-----------------------------')
-        print('STARTING UNIQUES:', red(str(len(self.df.candidate.unique()))))
-        self.tickets = self.get_tickets(self.df, self.filename, 
-                                        self.fuzzy_iterations)
     
         
-    def clean_names(self, df):
+    def parse(self) -> pd.DataFrame:
+        '''
+        Main runtime wrapper.
+        '''
+        # tickets
+        self.tickets, self.ticket_changes = self.get_tickets(self.df)
+        
+        # match warnings
+        self.match_warning(self.tickets)
+        
+        # saving to file
+        self.save(self.tickets, self.ticket_changes)
+        
+        return self.tickets
+    
+    def get_tickets(self, df: pd.DataFrame) -> pd.DataFrame:
+        '''
+        Primary wrapper for parsing tickets:
+        - cleans data
+        - gets tickets
+        - prints updates to console
+        '''
+        
+        print('\n-----------------------------')
+        print(f'Getting tickets for {on_blue(self.state_name)} in {on_blue(self.filename[:4])} ...')
+        print('-----------------------------')
+        
+        c = df['candidate']
+        o = df['office']
+        
+        print('CLEANING CANDIDATES ...')
+        print('starting uniques:', red(str(len(c.unique()))))
+        c = self.clean_names(c)
+        c = self.tags(c)
+        print('final uniques:', green(str(len(c.unique()))))
+        
+        print('CLEANING OFFICES ...')
+        print('starting uniques:', red(str(len(o.unique()))))
+        o = self.clean_offices(o)
+        print('final uniques:', green(str(len(o.unique()))))
+        
+        df['candidate'] = c
+        df['office'] = o
+        
+        # matching for the given number of iterations
+        print('------------------------------')
+        changes_list = []
+        i = 1
+        while True:
+            df, changes, done = self.match(df, i)
+            changes_list.append(changes)
+            if done:
+                break
+            else:
+                i += 1
+        print('------------------------------')
+        
+        # assembling tickets
+        offices = df.office.drop_duplicates()
+        d = {}
+        for office in offices:
+            odf = df.groupby('office').get_group(office)
+            candidates = odf.candidate.drop_duplicates().tolist()
+            d[office] = candidates
+            
+        # compiling into DF
+        fdf = pd.concat([pd.DataFrame(k) for k in d.values()], keys=d.keys())
+        fdf.reset_index(inplace=True)
+        fdf.columns = ['office','x','candidate']
+        fdf.drop('x', axis=1, inplace=True)
+    
+        # compiling changes
+        change_df = pd.concat([pd.DataFrame(c, columns=['old', 'new', 'office']) for c in changes_list], 
+                              keys=list(range(i)))
+        change_df.index.names = ['iteration','ind']
+        
+        return fdf, change_df
+
+    def clean_names(self, s: pd.Series) -> pd.Series:
         '''
         Standardizes formatting of candidate names.
         '''
-        s = df['candidate']
-        print('\nCLEANING CANDIDATE NAMES ...')
         
         s = s.str.strip()
         s = s.str.upper()
@@ -95,19 +166,12 @@ class Tickets():
         s = s.str.replace('\s+', ' ', regex=True)
         s = s.str.strip()
         
-        df['candidate'] = s
-        
-        print('Done.')
-        print('UNIQUES:', green(str(len(s.unique()))))
-        return df
+        return s
     
-    def clean_offices(self, df):
+    def clean_offices(self, s: pd.Series) -> pd.Series:
         '''
         Standardizes office names.
         '''
-        s = df['office']
-        print('\nCLEANING OFFICE NAMES ...')
-        print(f'Number of offices: {red(str(len(s.unique())))}')
         
         s = s.str.strip()
         s = s.str.upper()
@@ -118,51 +182,40 @@ class Tickets():
         s = s.str.replace('\s+', ' ', regex=False)
         s = s.str.strip()
         
-        print(f'New number of offices: {green(str(len(s.unique())))}')
-        df['office'] = s
-        return df
+        return s
     
-    def tags(self, df):
+    def tags(self, s: pd.Series) -> pd.Series:
         '''
         Standardizes prefixes/suffixes often
         added to candidate names.
         '''
-        print('\nREMOVING COMMON AFFIXES...')
         
         # WRITE INS first, as they may include the others
-        wr = df['candidate'][df['candidate'].str.contains('WRITE INS')]
+        wr = s[s.str.contains('WRITE INS')]
         changes = {}
         for ind, name in wr.iteritems():
             w = name.partition('WRITE INS')
             if w[0] != '' and w[0] != 'UNQUALIFIED ':
                 new_name = w[0].strip()
-            elif w[2] != '':
-                new_name = w[2].strip()
-            # just 'write ins'
             elif name == 'WRITE INS':
                 new_name = 'WRITE INS'            
             # collapsing "Unqualified write ins"
             elif w[0] == 'UNQUALIFIED ':
                 new_name = 'WRITE INS'
             changes[name] = new_name
-        df['candidate'] = df['candidate'].replace(changes)
+        s = s.replace(changes)
         
         # cutting out unwanted affixes
-        s = df['candidate']
         for a in self.AFFIX:
             s = s.str.replace(a, '', regex=True)
-        df['candidate'] = s
         
-        print('Done.')
-        print('UNIQUES:', green(str(len(s.unique()))))
-        return df
+        return s
         
-    def match(self, df, iteration):
+    def match(self, df: pd.DataFrame, iteration: int, verbose=False) -> pd.DataFrame:
         '''
         Fuzzy matches similar candidate names.
         '''
-        print(f'\nFUZZY MATCHING | Iteration {iteration}')
-        print('-----------------------------')
+        print(f'FUZZY MATCHING | Iteration {iteration}')
         s = df['candidate']
         candidate_names = s.value_counts().index.tolist()
         
@@ -187,59 +240,49 @@ class Tickets():
                         name_office = df.office[df.candidate == name].tolist()[0]
                         match_office = df.office[df.candidate == match].tolist()[0]
                         if name_office == match_office:
-                            print(f'{red(match)} -- to --> {green(name)}')
                             changes[match] = name
                             change_df.append((match, name, name_office))
+                            if verbose:
+                                print(f'{red(match)} -- to --> {green(name)}')
                             
         # making changes to column
         s = s.replace(changes)
         df['candidate'] = s
+        print(f'MADE {bold(str(len(changes.keys())))} CHANGES |','UNIQUES:', green(str(len((s.unique())))))
         
-        print('-----------------------------')
-        print(f'MADE {yellow(str(len(changes.keys())))} CHANGES |','UNIQUES:', green(str(len((s.unique())))))
+        # checking whether to continue
+        done = False if len(changes) > 0 else True
         
-        return df, change_df
+        return df, change_df, done
     
-    def get_tickets(self, df, path, fuzzy_iterations=1):
+    def match_warning(self, df: pd.DataFrame) -> list:
         '''
-        Returns and saves DF of tickets.
+        Flags similar candidate names in the final get_tickets df
+        that were not sufficient to match.
         '''
-        
-        # cleaning df
-        df = self.clean_names(df)
-        df = self.tags(df)
-        df = self.clean_offices(df)
-        
-        # matching for the given number of iterations
-        changes_list = []
-        for i in range(fuzzy_iterations):
-            df, changes = self.match(df, i+1)
-            changes_list.append(changes)
-        
-        # assembling tickets
-        offices = df.office.drop_duplicates()
-        d = {}
+        print('Flagging potential (but unchanged) matches...')
+        offices = df.office.unique()
+        near_matches = []
         for office in offices:
             odf = df.groupby('office').get_group(office)
-            candidates = odf.candidate.drop_duplicates().tolist()
-            d[office] = candidates
-            
-        # compiling into DF
-        fdf = pd.concat([pd.DataFrame(k) for k in d.values()], keys=d.keys())
-        fdf.reset_index(inplace=True)
-        fdf.columns = ['office','x','candidate']
-        fdf.drop('x', axis=1, inplace=True)
+            candidates = odf['candidate'].tolist()
+            for a,b in combinations(candidates, 2):
+                if fuzz.ratio(a,b) >= 75:
+                    print(yellow(f'near match: {a} & {b}'))
+                    near_matches.append((a,b))
+                    
+        if near_matches:
+            return near_matches
+        else:
+            return False
+    
+    def save(self, df: pd.DataFrame, change_df: pd.DataFrame) -> None:
+        '''
+        Saves data to file as CSVs.
+        '''
+        filename = f'{self.year}/{self.state}__{self.year}__tickets.csv'
+        df.to_csv(filename)
+        change_df.to_csv(f'{self.year}/{self.state}__{self.year}__ticket__changes.csv')
         
-        # changes from match()
-        change_df = pd.concat([pd.DataFrame(c, columns=['old', 'new', 'office']) for c in changes_list], 
-                              keys=list(range(fuzzy_iterations)))
-        change_df.index.names = ['iteration','ind']
-        
-        # saving both DFs to file
-        year = path[:4]
-        filename = f'{year}/{self.state}__{year}__tickets.csv'
-        fdf.to_csv(filename)
-        change_df.to_csv(f'{year}/{self.state}__{year}__ticket__changes.csv')
-        
-        print(f'\nFinished and saved to file at {filename}')
-        return fdf
+        print(f'Finished and saved to file at {filename}')
+    

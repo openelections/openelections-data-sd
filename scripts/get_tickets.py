@@ -31,16 +31,15 @@ def parse_files(files):
     '''
     Parses each given file for tickets.
     '''
-
     tickets_list = []
     for filename in files:
-        tickets = Tickets(state_name='south_dakota', filename=filename,
-                          fuzzy_iterations=2)
-        tickets_list.append(tickets.tickets)
+        # main call
+        parser = Tickets(state_name='south_dakota', filename=filename)
+        tickets = parser.parse()
+        tickets_list.append(tickets)
 
     return tickets_list
 
 if __name__ == '__main__':
     files = get_files()
-    print(files)
     tickets = parse_files(files.values())
