@@ -59,7 +59,7 @@ class Tickets():
         # data
         self.df = pd.read_csv(filename, usecols=[
             'office','candidate','district','party']).sort_values(by=[
-                'office','distict','candidate'])
+                'office','district','candidate'])
         self.df = self.df[self.df.candidate.isna() == False]
     
         
