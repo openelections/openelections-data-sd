@@ -56,8 +56,10 @@ class Tickets():
         self.filename = filename
         self.year = filename[:4]
         
-        # for runtime
-        self.df = pd.read_csv(filename, usecols=['office','candidate']).sort_values(by=['candidate'])
+        # data
+        self.df = pd.read_csv(filename, usecols=[
+            'office','candidate','district','party']).sort_values(by=[
+                'office','distict','candidate'])
         self.df = self.df[self.df.candidate.isna() == False]
     
         
@@ -105,7 +107,7 @@ class Tickets():
         df['candidate'] = c
         df['office'] = o
         
-        # matching for the given number of iterations
+        # matching until clean, tracking iterations
         print('------------------------------')
         changes_list = []
         i = 1
@@ -120,17 +122,15 @@ class Tickets():
         
         # assembling tickets
         offices = df.office.drop_duplicates()
-        d = {}
-        for office in offices:
-            odf = df.groupby('office').get_group(office)
-            candidates = odf.candidate.drop_duplicates().tolist()
-            d[office] = candidates
-            
-        # compiling into DF
-        fdf = pd.concat([pd.DataFrame(k) for k in d.values()], keys=d.keys())
-        fdf.reset_index(inplace=True)
-        fdf.columns = ['office','x','candidate']
-        fdf.drop('x', axis=1, inplace=True)
+        dt = []
+        for o in offices:
+            odf = df.groupby('office').get_group(o)
+            candidates = odf.candidate.unique()
+            for c in candidates:
+                d = odf.district[odf.candidate == c].unique()[0]
+                p = odf.party[odf.candidate == c].unique()[0]
+                dt.append((o,d,c,p))
+        fdf = pd.DataFrame(dt, columns=['office','district','candidate','party'])
     
         # compiling changes
         change_df = pd.concat([pd.DataFrame(c, columns=['old', 'new', 'office']) for c in changes_list], 
