@@ -1,1 +1,208 @@
-county,precinct,office,district,party,candidate,votes,,,,Marshall,Precinct-A1,US House,1,LIB,George D.Hendrickson,4,,,,Marshall,Precinct-A2,US House,1,LIB,George D.Hendrickson,2,,,,Marshall,Precinct-A3,US House,1,LIB,George D.Hendrickson,2,,,,Marshall,Precinct-A4,US House,1,LIB,George D.Hendrickson,5,,,,Marshall,Precinct-A5,US House,1,LIB,George D.Hendrickson,3,,,,Marshall,Precinct-A6,US House,1,LIB,George D.Hendrickson,4,,,,Marshall,Precinct-A7,US House,1,LIB,George D.Hendrickson,1,,,,Marshall,Precinct-A8,US House,1,LIB,George D.Hendrickson,1,,,,Marshall,Precinct-A9,US House,1,LIB,George D.Hendrickson,6,,,,Marshall,Precinct-A1,US House,1,REP,Dusty Johnson,131,,,,Marshall,Precinct-A2,US House,1,REP,Dusty Johnson,76,,,,Marshall,Precinct-A3,US House,1,REP,Dusty Johnson,147,,,,Marshall,Precinct-A4,US House,1,REP,Dusty Johnson,129,,,,Marshall,Precinct-A5,US House,1,REP,Dusty Johnson,80,,,,Marshall,Precinct-A6,US House,1,REP,Dusty Johnson,171,,,,Marshall,Precinct-A7,US House,1,REP,Dusty Johnson,99,,,,Marshall,Precinct-A8,US House,1,REP,Dusty Johnson,87,,,,Marshall,Precinct-A9,US House,1,REP,Dusty Johnson,104,,,,Marshall,Precinct-A1,US House,1,DEM,Tim Bjorkman,97,,,,Marshall,Precinct-A2,US House,1,DEM,Tim Bjorkman,88,,,,Marshall,Precinct-A3,US House,1,DEM,Tim Bjorkman,101,,,,Marshall,Precinct-A4,US House,1,DEM,Tim Bjorkman,116,,,,Marshall,Precinct-A5,US House,1,DEM,Tim Bjorkman,76,,,,Marshall,Precinct-A6,US House,1,DEM,Tim Bjorkman,119,,,,Marshall,Precinct-A7,US House,1,DEM,Tim Bjorkman,84,,,,Marshall,Precinct-A8,US House,1,DEM,Tim Bjorkman,99,,,,Marshall,Precinct-A9,US House,1,DEM,Tim Bjorkman,80,,,,Marshall,Precinct-A1,US House,1,IND,Ron Wieczorek,4,,,,Marshall,Precinct-A2,US House,1,IND,Ron Wieczorek,2,,,,Marshall,Precinct-A3,US House,1,IND,Ron Wieczorek,1,,,,Marshall,Precinct-A4,US House,1,IND,Ron Wieczorek,5,,,,Marshall,Precinct-A5,US House,1,IND,Ron Wieczorek,4,,,,Marshall,Precinct-A6,US House,1,IND,Ron Wieczorek,4,,,,Marshall,Precinct-A7,US House,1,IND,Ron Wieczorek,2,,,,Marshall,Precinct-A8,US House,1,IND,Ron Wieczorek,6,,,,Marshall,Precinct-A9,US House,1,IND,Ron Wieczorek,5,,,,Marshall,Precinct-A1,Governor,,LIB,Kurt Evans,5,,,,Marshall,Precinct-A2,Governor,,LIB,Kurt Evans,2,,,,Marshall,Precinct-A3,Governor,,LIB,Kurt Evans,7,,,,Marshall,Precinct-A4,Governor,,LIB,Kurt Evans,3,,,,Marshall,Precinct-A5,Governor,,LIB,Kurt Evans,3,,,,Marshall,Precinct-A6,Governor,,LIB,Kurt Evans,4,,,,Marshall,Precinct-A7,Governor,,LIB,Kurt Evans,1,,,,Marshall,Precinct-A8,Governor,,LIB,Kurt Evans,1,,,,Marshall,Precinct-A9,Governor,,LIB,Kurt Evans,5,,,,Marshall,Precinct-A1,Governor,,REP,Kristi Noem,109,,,,Marshall,Precinct-A2,Governor,,REP,Kristi Noem,63,,,,Marshall,Precinct-A3,Governor,,REP,Kristi Noem,112,,,,Marshall,Precinct-A4,Governor,,REP,Kristi Noem,100,,,,Marshall,Precinct-A5,Governor,,REP,Kristi Noem,70,,,,Marshall,Precinct-A6,Governor,,REP,Kristi Noem,156,,,,Marshall,Precinct-A7,Governor,,REP,Kristi Noem,87,,,,Marshall,Precinct-A8,Governor,,REP,Kristi Noem,70,,,,Marshall,Precinct-A9,Governor,,REP,Kristi Noem,86,,,,Marshall,Precinct-A1,Governor,,DEM,Billie Sutton,125,,,,Marshall,Precinct-A2,Governor,,DEM,Billie Sutton,108,,,,Marshall,Precinct-A3,Governor,,DEM,Billie Sutton,141,,,,Marshall,Precinct-A4,Governor,,DEM,Billie Sutton,155,,,,Marshall,Precinct-A5,Governor,,DEM,Billie Sutton,92,,,,Marshall,Precinct-A6,Governor,,DEM,Billie Sutton,141,,,,Marshall,Precinct-A7,Governor,,DEM,Billie Sutton,98,,,,Marshall,Precinct-A8,Governor,,DEM,Billie Sutton,124,,,,Marshall,Precinct-A9,Governor,,DEM,Billie Sutton,109,,,,Marshall,Precinct-A1,Secretary of State,,REP,Steve Barnett,132,,,,Marshall,Precinct-A2,Secretary of State,,REP,Steve Barnett,79,,,,Marshall,Precinct-A3,Secretary of State,,REP,Steve Barnett,157,,,,Marshall,Precinct-A4,Secretary of State,,REP,Steve Barnett,128,,,,Marshall,Precinct-A5,Secretary of State,,REP,Steve Barnett,86,,,,Marshall,Precinct-A6,Secretary of State,,REP,Steve Barnett,177,,,,Marshall,Precinct-A7,Secretary of State,,REP,Steve Barnett,99,,,,Marshall,Precinct-A8,Secretary of State,,REP,Steve Barnett,96,,,,Marshall,Precinct-A9,Secretary of State,,REP,Steve Barnett,115,,,,Marshall,Precinct-A1,Secretary of State,,DEM,Alexandra Frederick,91,,,,Marshall,Precinct-A2,Secretary of State,,DEM,Alexandra Frederick,82,,,,Marshall,Precinct-A3,Secretary of State,,DEM,Alexandra Frederick,92,,,,Marshall,Precinct-A4,Secretary of State,,DEM,Alexandra Frederick,115,,,,Marshall,Precinct-A5,Secretary of State,,DEM,Alexandra Frederick,73,,,,Marshall,Precinct-A6,Secretary of State,,DEM,Alexandra Frederick,112,,,,Marshall,Precinct-A7,Secretary of State,,DEM,Alexandra Frederick,78,,,,Marshall,Precinct-A8,Secretary of State,,DEM,Alexandra Frederick,80,,,,Marshall,Precinct-A9,Secretary of State,,DEM,Alexandra Frederick,71,,,,Marshall,Precinct-A1,Attorney General,,REP,Jason Ravnsborg,108,,,,Marshall,Precinct-A2,Attorney General,,REP,Jason Ravnsborg,63,,,,Marshall,Precinct-A3,Attorney General,,REP,Jason Ravnsborg,119,,,,Marshall,Precinct-A4,Attorney General,,REP,Jason Ravnsborg,104,,,,Marshall,Precinct-A5,Attorney General,,REP,Jason Ravnsborg,73,,,,Marshall,Precinct-A6,Attorney General,,REP,Jason Ravnsborg,150,,,,Marshall,Precinct-A7,Attorney General,,REP,Jason Ravnsborg,87,,,,Marshall,Precinct-A8,Attorney General,,REP,Jason Ravnsborg,72,,,,Marshall,Precinct-A9,Attorney General,,REP,Jason Ravnsborg,86,,,,Marshall,Precinct-A1,Attorney General,,DEM,Randy Seller,117,,,,Marshall,Precinct-A2,Attorney General,,DEM,Randy Seller,95,,,,Marshall,Precinct-A3,Attorney General,,DEM,Randy Seller,127,,,,Marshall,Precinct-A4,Attorney General,,DEM,Randy Seller,138,,,,Marshall,Precinct-A5,Attorney General,,DEM,Randy Seller,86,,,,Marshall,Precinct-A6,Attorney General,,DEM,Randy Seller,145,,,,Marshall,Precinct-A7,Attorney General,,DEM,Randy Seller,85,,,,Marshall,Precinct-A8,Attorney General,,DEM,Randy Seller,109,,,,Marshall,Precinct-A9,Attorney General,,DEM,Randy Seller,104,,,,Marshall,Precinct-A1,State Auditor,,REP,Rich Sattgast,125,,,,Marshall,Precinct-A2,State Auditor,,REP,Rich Sattgast,72,,,,Marshall,Precinct-A3,State Auditor,,REP,Rich Sattgast,135,,,,Marshall,Precinct-A4,State Auditor,,REP,Rich Sattgast,112,,,,Marshall,Precinct-A5,State Auditor,,REP,Rich Sattgast,76,,,,Marshall,Precinct-A6,State Auditor,,REP,Rich Sattgast,168,,,,Marshall,Precinct-A7,State Auditor,,REP,Rich Sattgast,100,,,,Marshall,Precinct-A8,State Auditor,,REP,Rich Sattgast,93,,,,Marshall,Precinct-A9,State Auditor,,REP,Rich Sattgast,109,,,,Marshall,Precinct-A1,State Auditor,,DEM,Tom Cool,93,,,,Marshall,Precinct-A2,State Auditor,,DEM,Tom Cool,88,,,,Marshall,Precinct-A3,State Auditor,,DEM,Tom Cool,98,,,,Marshall,Precinct-A4,State Auditor,,DEM,Tom Cool,120,,,,Marshall,Precinct-A5,State Auditor,,DEM,Tom Cool,79,,,,Marshall,Precinct-A6,State Auditor,,DEM,Tom Cool,112,,,,Marshall,Precinct-A7,State Auditor,,DEM,Tom Cool,70,,,,Marshall,Precinct-A8,State Auditor,,DEM,Tom Cool,80,,,,Marshall,Precinct-A9,State Auditor,,DEM,Tom Cool,70,,,,Marshall,Precinct-A1,State Treasurer,,REP,Josh Haeder,114,,,,Marshall,Precinct-A2,State Treasurer,,REP,Josh Haeder,71,,,,Marshall,Precinct-A3,State Treasurer,,REP,Josh Haeder,118,,,,Marshall,Precinct-A4,State Treasurer,,REP,Josh Haeder,111,,,,Marshall,Precinct-A5,State Treasurer,,REP,Josh Haeder,79,,,,Marshall,Precinct-A6,State Treasurer,,REP,Josh Haeder,160,,,,Marshall,Precinct-A7,State Treasurer,,REP,Josh Haeder,79,,,,Marshall,Precinct-A8,State Treasurer,,REP,Josh Haeder,75,,,,Marshall,Precinct-A9,State Treasurer,,REP,Josh Haeder,97,,,,Marshall,Precinct-A1,State Treasurer,,DEM,Aaron Matson,96,,,,Marshall,Precinct-A2,State Treasurer,,DEM,Aaron Matson,84,,,,Marshall,Precinct-A3,State Treasurer,,DEM,Aaron Matson,110,,,,Marshall,Precinct-A4,State Treasurer,,DEM,Aaron Matson,122,,,,Marshall,Precinct-A5,State Treasurer,,DEM,Aaron Matson,79,,,,Marshall,Precinct-A6,State Treasurer,,DEM,Aaron Matson,121,,,,Marshall,Precinct-A7,State Treasurer,,DEM,Aaron Matson,86,,,,Marshall,Precinct-A8,State Treasurer,,DEM,Aaron Matson,96,,,,Marshall,Precinct-A9,State Treasurer,,DEM,Aaron Matson,80,,,,Marshall,Precinct-A1,Commissioner of School and Public Lands,,REP,Ryan Brunner,113,,,,Marshall,Precinct-A2,Commissioner of School and Public Lands,,REP,Ryan Brunner,66,,,,Marshall,Precinct-A3,Commissioner of School and Public Lands,,REP,Ryan Brunner,125,,,,Marshall,Precinct-A4,Commissioner of School and Public Lands,,REP,Ryan Brunner,113,,,,Marshall,Precinct-A5,Commissioner of School and Public Lands,,REP,Ryan Brunner,76,,,,Marshall,Precinct-A6,Commissioner of School and Public Lands,,REP,Ryan Brunner,166,,,,Marshall,Precinct-A7,Commissioner of School and Public Lands,,REP,Ryan Brunner,86,,,,Marshall,Precinct-A8,Commissioner of School and Public Lands,,REP,Ryan Brunner,82,,,,Marshall,Precinct-A9,Commissioner of School and Public Lands,,REP,Ryan Brunner,113,,,,Marshall,Precinct-A1,Commissioner of School and Public Lands,,DEM,Woody Houser,96,,,,Marshall,Precinct-A2,Commissioner of School and Public Lands,,DEM,Woody Houser,88,,,,Marshall,Precinct-A3,Commissioner of School and Public Lands,,DEM,Woody Houser,100,,,,Marshall,Precinct-A4,Commissioner of School and Public Lands,,DEM,Woody Houser,119,,,,Marshall,Precinct-A5,Commissioner of School and Public Lands,,DEM,Woody Houser,75,,,,Marshall,Precinct-A6,Commissioner of School and Public Lands,,DEM,Woody Houser,115,,,,Marshall,Precinct-A7,Commissioner of School and Public Lands,,DEM,Woody Houser,77,,,,Marshall,Precinct-A8,Commissioner of School and Public Lands,,DEM,Woody Houser,87,,,,Marshall,Precinct-A9,Commissioner of School and Public Lands,,DEM,Woody Houser,68,,,,Marshall,Precinct-A1,Public Utilities Commissioner,,REP,Kristie Fiegen,115,,,,Marshall,Precinct-A2,Public Utilities Commissioner,,REP,Kristie Fiegen,72,,,,Marshall,Precinct-A3,Public Utilities Commissioner,,REP,Kristie Fiegen,124,,,,Marshall,Precinct-A4,Public Utilities Commissioner,,REP,Kristie Fiegen,114,,,,Marshall,Precinct-A5,Public Utilities Commissioner,,REP,Kristie Fiegen,77,,,,Marshall,Precinct-A6,Public Utilities Commissioner,,REP,Kristie Fiegen,168,,,,Marshall,Precinct-A7,Public Utilities Commissioner,,REP,Kristie Fiegen,84,,,,Marshall,Precinct-A8,Public Utilities Commissioner,,REP,Kristie Fiegen,78,,,,Marshall,Precinct-A9,Public Utilities Commissioner,,REP,Kristie Fiegen,106,,,,Marshall,Precinct-A1,Public Utilities Commissioner,,DEM,Wayne Frederick,96,,,,Marshall,Precinct-A2,Public Utilities Commissioner,,DEM,Wayne Frederick,83,,,,Marshall,Precinct-A3,Public Utilities Commissioner,,DEM,Wayne Frederick,108,,,,Marshall,Precinct-A4,Public Utilities Commissioner,,DEM,Wayne Frederick,118,,,,Marshall,Precinct-A5,Public Utilities Commissioner,,DEM,Wayne Frederick,75,,,,Marshall,Precinct-A6,Public Utilities Commissioner,,DEM,Wayne Frederick,118,,,,Marshall,Precinct-A7,Public Utilities Commissioner,,DEM,Wayne Frederick,78,,,,Marshall,Precinct-A8,Public Utilities Commissioner,,DEM,Wayne Frederick,93,,,,Marshall,Precinct-A9,Public Utilities Commissioner,,DEM,Wayne Frederick,78,,,,Marshall,Precinct-A1,State Senate,1,DEM,Susan Wismer,148,,,,Marshall,Precinct-A2,State Senate,1,DEM,Susan Wismer,123,,,,Marshall,Precinct-A3,State Senate,1,DEM,Susan Wismer,160,,,,Marshall,Precinct-A4,State Senate,1,DEM,Susan Wismer,188,,,,Marshall,Precinct-A5,State Senate,1,DEM,Susan Wismer,118,,,,Marshall,Precinct-A6,State Senate,1,DEM,Susan Wismer,177,,,,Marshall,Precinct-A7,State Senate,1,DEM,Susan Wismer,97,,,,Marshall,Precinct-A8,State Senate,1,DEM,Susan Wismer,146,,,,Marshall,Precinct-A9,State Senate,1,DEM,Susan Wismer,119,,,,Marshall,Precinct-A1,State House,1,REP,Tamara St. John,116,,,,Marshall,Precinct-A2,State House,1,REP,Tamara St. John,68,,,,Marshall,Precinct-A3,State House,1,REP,Tamara St. John,110,,,,Marshall,Precinct-A4,State House,1,REP,Tamara St. John,87,,,,Marshall,Precinct-A5,State House,1,REP,Tamara St. John,65,,,,Marshall,Precinct-A6,State House,1,REP,Tamara St. John,136,,,,Marshall,Precinct-A7,State House,1,REP,Tamara St. John,79,,,,Marshall,Precinct-A8,State House,1,REP,Tamara St. John,80,,,,Marshall,Precinct-A9,State House,1,REP,Tamara St. John,86,,,,Marshall,Precinct-A1,State House,1,DEM,Paul Dennert,121,,,,Marshall,Precinct-A2,State House,1,DEM,Paul Dennert,96,,,,Marshall,Precinct-A3,State House,1,DEM,Paul Dennert,142,,,,Marshall,Precinct-A4,State House,1,DEM,Paul Dennert,160,,,,Marshall,Precinct-A5,State House,1,DEM,Paul Dennert,69,,,,Marshall,Precinct-A6,State House,1,DEM,Paul Dennert,139,,,,Marshall,Precinct-A7,State House,1,DEM,Paul Dennert,77,,,,Marshall,Precinct-A8,State House,1,DEM,Paul Dennert,128,,,,Marshall,Precinct-A9,State House,1,DEM,Paul Dennert,116,,,,Marshall,Precinct-A1,State House,1,DEM,Steven McCleerey,101,,,,Marshall,Precinct-A2,State House,1,DEM,Steven McCleerey,72,,,,Marshall,Precinct-A3,State House,1,DEM,Steven McCleerey,95,,,,Marshall,Precinct-A4,State House,1,DEM,Steven McCleerey,113,,,,Marshall,Precinct-A5,State House,1,DEM,Steven McCleerey,89,,,,Marshall,Precinct-A6,State House,1,DEM,Steven McCleerey,134,,,,Marshall,Precinct-A7,State House,1,DEM,Steven McCleerey,92,,,,Marshall,Precinct-A8,State House,1,DEM,Steven McCleerey,87,,,,Marshall,Precinct-A9,State House,1,DEM,Steven McCleerey,71,,,,
+county,precinct,office,district,party,candidate,votes
+Marshall,Precinct-A1,US House,1,LIB,George D.Hendrickson,4
+Marshall,Precinct-A2,US House,1,LIB,George D.Hendrickson,2
+Marshall,Precinct-A3,US House,1,LIB,George D.Hendrickson,2
+Marshall,Precinct-A4,US House,1,LIB,George D.Hendrickson,5
+Marshall,Precinct-A5,US House,1,LIB,George D.Hendrickson,3
+Marshall,Precinct-A6,US House,1,LIB,George D.Hendrickson,4
+Marshall,Precinct-A7,US House,1,LIB,George D.Hendrickson,1
+Marshall,Precinct-A8,US House,1,LIB,George D.Hendrickson,1
+Marshall,Precinct-A9,US House,1,LIB,George D.Hendrickson,6
+Marshall,Precinct-A1,US House,1,REP,Dusty Johnson,131
+Marshall,Precinct-A2,US House,1,REP,Dusty Johnson,76
+Marshall,Precinct-A3,US House,1,REP,Dusty Johnson,147
+Marshall,Precinct-A4,US House,1,REP,Dusty Johnson,129
+Marshall,Precinct-A5,US House,1,REP,Dusty Johnson,80
+Marshall,Precinct-A6,US House,1,REP,Dusty Johnson,171
+Marshall,Precinct-A7,US House,1,REP,Dusty Johnson,99
+Marshall,Precinct-A8,US House,1,REP,Dusty Johnson,87
+Marshall,Precinct-A9,US House,1,REP,Dusty Johnson,104
+Marshall,Precinct-A1,US House,1,DEM,Tim Bjorkman,97
+Marshall,Precinct-A2,US House,1,DEM,Tim Bjorkman,88
+Marshall,Precinct-A3,US House,1,DEM,Tim Bjorkman,101
+Marshall,Precinct-A4,US House,1,DEM,Tim Bjorkman,116
+Marshall,Precinct-A5,US House,1,DEM,Tim Bjorkman,76
+Marshall,Precinct-A6,US House,1,DEM,Tim Bjorkman,119
+Marshall,Precinct-A7,US House,1,DEM,Tim Bjorkman,84
+Marshall,Precinct-A8,US House,1,DEM,Tim Bjorkman,99
+Marshall,Precinct-A9,US House,1,DEM,Tim Bjorkman,80
+Marshall,Precinct-A1,US House,1,IND,Ron Wieczorek,4
+Marshall,Precinct-A2,US House,1,IND,Ron Wieczorek,2
+Marshall,Precinct-A3,US House,1,IND,Ron Wieczorek,1
+Marshall,Precinct-A4,US House,1,IND,Ron Wieczorek,5
+Marshall,Precinct-A5,US House,1,IND,Ron Wieczorek,4
+Marshall,Precinct-A6,US House,1,IND,Ron Wieczorek,4
+Marshall,Precinct-A7,US House,1,IND,Ron Wieczorek,2
+Marshall,Precinct-A8,US House,1,IND,Ron Wieczorek,6
+Marshall,Precinct-A9,US House,1,IND,Ron Wieczorek,5
+Marshall,Precinct-A1,Governor,,LIB,Kurt Evans,5
+Marshall,Precinct-A2,Governor,,LIB,Kurt Evans,2
+Marshall,Precinct-A3,Governor,,LIB,Kurt Evans,7
+Marshall,Precinct-A4,Governor,,LIB,Kurt Evans,3
+Marshall,Precinct-A5,Governor,,LIB,Kurt Evans,3
+Marshall,Precinct-A6,Governor,,LIB,Kurt Evans,4
+Marshall,Precinct-A7,Governor,,LIB,Kurt Evans,1
+Marshall,Precinct-A8,Governor,,LIB,Kurt Evans,1
+Marshall,Precinct-A9,Governor,,LIB,Kurt Evans,5
+Marshall,Precinct-A1,Governor,,REP,Kristi Noem,109
+Marshall,Precinct-A2,Governor,,REP,Kristi Noem,63
+Marshall,Precinct-A3,Governor,,REP,Kristi Noem,112
+Marshall,Precinct-A4,Governor,,REP,Kristi Noem,100
+Marshall,Precinct-A5,Governor,,REP,Kristi Noem,70
+Marshall,Precinct-A6,Governor,,REP,Kristi Noem,156
+Marshall,Precinct-A7,Governor,,REP,Kristi Noem,87
+Marshall,Precinct-A8,Governor,,REP,Kristi Noem,70
+Marshall,Precinct-A9,Governor,,REP,Kristi Noem,86
+Marshall,Precinct-A1,Governor,,DEM,Billie Sutton,125
+Marshall,Precinct-A2,Governor,,DEM,Billie Sutton,108
+Marshall,Precinct-A3,Governor,,DEM,Billie Sutton,141
+Marshall,Precinct-A4,Governor,,DEM,Billie Sutton,155
+Marshall,Precinct-A5,Governor,,DEM,Billie Sutton,92
+Marshall,Precinct-A6,Governor,,DEM,Billie Sutton,141
+Marshall,Precinct-A7,Governor,,DEM,Billie Sutton,98
+Marshall,Precinct-A8,Governor,,DEM,Billie Sutton,124
+Marshall,Precinct-A9,Governor,,DEM,Billie Sutton,109
+Marshall,Precinct-A1,Secretary of State,,REP,Steve Barnett,132
+Marshall,Precinct-A2,Secretary of State,,REP,Steve Barnett,79
+Marshall,Precinct-A3,Secretary of State,,REP,Steve Barnett,157
+Marshall,Precinct-A4,Secretary of State,,REP,Steve Barnett,128
+Marshall,Precinct-A5,Secretary of State,,REP,Steve Barnett,86
+Marshall,Precinct-A6,Secretary of State,,REP,Steve Barnett,177
+Marshall,Precinct-A7,Secretary of State,,REP,Steve Barnett,99
+Marshall,Precinct-A8,Secretary of State,,REP,Steve Barnett,96
+Marshall,Precinct-A9,Secretary of State,,REP,Steve Barnett,115
+Marshall,Precinct-A1,Secretary of State,,DEM,Alexandra Frederick,91
+Marshall,Precinct-A2,Secretary of State,,DEM,Alexandra Frederick,82
+Marshall,Precinct-A3,Secretary of State,,DEM,Alexandra Frederick,92
+Marshall,Precinct-A4,Secretary of State,,DEM,Alexandra Frederick,115
+Marshall,Precinct-A5,Secretary of State,,DEM,Alexandra Frederick,73
+Marshall,Precinct-A6,Secretary of State,,DEM,Alexandra Frederick,112
+Marshall,Precinct-A7,Secretary of State,,DEM,Alexandra Frederick,78
+Marshall,Precinct-A8,Secretary of State,,DEM,Alexandra Frederick,80
+Marshall,Precinct-A9,Secretary of State,,DEM,Alexandra Frederick,71
+Marshall,Precinct-A1,Attorney General,,REP,Jason Ravnsborg,108
+Marshall,Precinct-A2,Attorney General,,REP,Jason Ravnsborg,63
+Marshall,Precinct-A3,Attorney General,,REP,Jason Ravnsborg,119
+Marshall,Precinct-A4,Attorney General,,REP,Jason Ravnsborg,104
+Marshall,Precinct-A5,Attorney General,,REP,Jason Ravnsborg,73
+Marshall,Precinct-A6,Attorney General,,REP,Jason Ravnsborg,150
+Marshall,Precinct-A7,Attorney General,,REP,Jason Ravnsborg,87
+Marshall,Precinct-A8,Attorney General,,REP,Jason Ravnsborg,72
+Marshall,Precinct-A9,Attorney General,,REP,Jason Ravnsborg,86
+Marshall,Precinct-A1,Attorney General,,DEM,Randy Seller,117
+Marshall,Precinct-A2,Attorney General,,DEM,Randy Seller,95
+Marshall,Precinct-A3,Attorney General,,DEM,Randy Seller,127
+Marshall,Precinct-A4,Attorney General,,DEM,Randy Seller,138
+Marshall,Precinct-A5,Attorney General,,DEM,Randy Seller,86
+Marshall,Precinct-A6,Attorney General,,DEM,Randy Seller,145
+Marshall,Precinct-A7,Attorney General,,DEM,Randy Seller,85
+Marshall,Precinct-A8,Attorney General,,DEM,Randy Seller,109
+Marshall,Precinct-A9,Attorney General,,DEM,Randy Seller,104
+Marshall,Precinct-A1,State Auditor,,REP,Rich Sattgast,125
+Marshall,Precinct-A2,State Auditor,,REP,Rich Sattgast,72
+Marshall,Precinct-A3,State Auditor,,REP,Rich Sattgast,135
+Marshall,Precinct-A4,State Auditor,,REP,Rich Sattgast,112
+Marshall,Precinct-A5,State Auditor,,REP,Rich Sattgast,76
+Marshall,Precinct-A6,State Auditor,,REP,Rich Sattgast,168
+Marshall,Precinct-A7,State Auditor,,REP,Rich Sattgast,100
+Marshall,Precinct-A8,State Auditor,,REP,Rich Sattgast,93
+Marshall,Precinct-A9,State Auditor,,REP,Rich Sattgast,109
+Marshall,Precinct-A1,State Auditor,,DEM,Tom Cool,93
+Marshall,Precinct-A2,State Auditor,,DEM,Tom Cool,88
+Marshall,Precinct-A3,State Auditor,,DEM,Tom Cool,98
+Marshall,Precinct-A4,State Auditor,,DEM,Tom Cool,120
+Marshall,Precinct-A5,State Auditor,,DEM,Tom Cool,79
+Marshall,Precinct-A6,State Auditor,,DEM,Tom Cool,112
+Marshall,Precinct-A7,State Auditor,,DEM,Tom Cool,70
+Marshall,Precinct-A8,State Auditor,,DEM,Tom Cool,80
+Marshall,Precinct-A9,State Auditor,,DEM,Tom Cool,70
+Marshall,Precinct-A1,State Treasurer,,REP,Josh Haeder,114
+Marshall,Precinct-A2,State Treasurer,,REP,Josh Haeder,71
+Marshall,Precinct-A3,State Treasurer,,REP,Josh Haeder,118
+Marshall,Precinct-A4,State Treasurer,,REP,Josh Haeder,111
+Marshall,Precinct-A5,State Treasurer,,REP,Josh Haeder,79
+Marshall,Precinct-A6,State Treasurer,,REP,Josh Haeder,160
+Marshall,Precinct-A7,State Treasurer,,REP,Josh Haeder,79
+Marshall,Precinct-A8,State Treasurer,,REP,Josh Haeder,75
+Marshall,Precinct-A9,State Treasurer,,REP,Josh Haeder,97
+Marshall,Precinct-A1,State Treasurer,,DEM,Aaron Matson,96
+Marshall,Precinct-A2,State Treasurer,,DEM,Aaron Matson,84
+Marshall,Precinct-A3,State Treasurer,,DEM,Aaron Matson,110
+Marshall,Precinct-A4,State Treasurer,,DEM,Aaron Matson,122
+Marshall,Precinct-A5,State Treasurer,,DEM,Aaron Matson,79
+Marshall,Precinct-A6,State Treasurer,,DEM,Aaron Matson,121
+Marshall,Precinct-A7,State Treasurer,,DEM,Aaron Matson,86
+Marshall,Precinct-A8,State Treasurer,,DEM,Aaron Matson,96
+Marshall,Precinct-A9,State Treasurer,,DEM,Aaron Matson,80
+Marshall,Precinct-A1,Commissioner of School and Public Lands,,REP,Ryan Brunner,113
+Marshall,Precinct-A2,Commissioner of School and Public Lands,,REP,Ryan Brunner,66
+Marshall,Precinct-A3,Commissioner of School and Public Lands,,REP,Ryan Brunner,125
+Marshall,Precinct-A4,Commissioner of School and Public Lands,,REP,Ryan Brunner,113
+Marshall,Precinct-A5,Commissioner of School and Public Lands,,REP,Ryan Brunner,76
+Marshall,Precinct-A6,Commissioner of School and Public Lands,,REP,Ryan Brunner,166
+Marshall,Precinct-A7,Commissioner of School and Public Lands,,REP,Ryan Brunner,86
+Marshall,Precinct-A8,Commissioner of School and Public Lands,,REP,Ryan Brunner,82
+Marshall,Precinct-A9,Commissioner of School and Public Lands,,REP,Ryan Brunner,113
+Marshall,Precinct-A1,Commissioner of School and Public Lands,,DEM,Woody Houser,96
+Marshall,Precinct-A2,Commissioner of School and Public Lands,,DEM,Woody Houser,88
+Marshall,Precinct-A3,Commissioner of School and Public Lands,,DEM,Woody Houser,100
+Marshall,Precinct-A4,Commissioner of School and Public Lands,,DEM,Woody Houser,119
+Marshall,Precinct-A5,Commissioner of School and Public Lands,,DEM,Woody Houser,75
+Marshall,Precinct-A6,Commissioner of School and Public Lands,,DEM,Woody Houser,115
+Marshall,Precinct-A7,Commissioner of School and Public Lands,,DEM,Woody Houser,77
+Marshall,Precinct-A8,Commissioner of School and Public Lands,,DEM,Woody Houser,87
+Marshall,Precinct-A9,Commissioner of School and Public Lands,,DEM,Woody Houser,68
+Marshall,Precinct-A1,Public Utilities Commissioner,,REP,Kristie Fiegen,115
+Marshall,Precinct-A2,Public Utilities Commissioner,,REP,Kristie Fiegen,72
+Marshall,Precinct-A3,Public Utilities Commissioner,,REP,Kristie Fiegen,124
+Marshall,Precinct-A4,Public Utilities Commissioner,,REP,Kristie Fiegen,114
+Marshall,Precinct-A5,Public Utilities Commissioner,,REP,Kristie Fiegen,77
+Marshall,Precinct-A6,Public Utilities Commissioner,,REP,Kristie Fiegen,168
+Marshall,Precinct-A7,Public Utilities Commissioner,,REP,Kristie Fiegen,84
+Marshall,Precinct-A8,Public Utilities Commissioner,,REP,Kristie Fiegen,78
+Marshall,Precinct-A9,Public Utilities Commissioner,,REP,Kristie Fiegen,106
+Marshall,Precinct-A1,Public Utilities Commissioner,,DEM,Wayne Frederick,96
+Marshall,Precinct-A2,Public Utilities Commissioner,,DEM,Wayne Frederick,83
+Marshall,Precinct-A3,Public Utilities Commissioner,,DEM,Wayne Frederick,108
+Marshall,Precinct-A4,Public Utilities Commissioner,,DEM,Wayne Frederick,118
+Marshall,Precinct-A5,Public Utilities Commissioner,,DEM,Wayne Frederick,75
+Marshall,Precinct-A6,Public Utilities Commissioner,,DEM,Wayne Frederick,118
+Marshall,Precinct-A7,Public Utilities Commissioner,,DEM,Wayne Frederick,78
+Marshall,Precinct-A8,Public Utilities Commissioner,,DEM,Wayne Frederick,93
+Marshall,Precinct-A9,Public Utilities Commissioner,,DEM,Wayne Frederick,78
+Marshall,Precinct-A1,State Senate,1,DEM,Susan Wismer,148
+Marshall,Precinct-A2,State Senate,1,DEM,Susan Wismer,123
+Marshall,Precinct-A3,State Senate,1,DEM,Susan Wismer,160
+Marshall,Precinct-A4,State Senate,1,DEM,Susan Wismer,188
+Marshall,Precinct-A5,State Senate,1,DEM,Susan Wismer,118
+Marshall,Precinct-A6,State Senate,1,DEM,Susan Wismer,177
+Marshall,Precinct-A7,State Senate,1,DEM,Susan Wismer,97
+Marshall,Precinct-A8,State Senate,1,DEM,Susan Wismer,146
+Marshall,Precinct-A9,State Senate,1,DEM,Susan Wismer,119
+Marshall,Precinct-A1,State House,1,REP,Tamara St. John,116
+Marshall,Precinct-A2,State House,1,REP,Tamara St. John,68
+Marshall,Precinct-A3,State House,1,REP,Tamara St. John,110
+Marshall,Precinct-A4,State House,1,REP,Tamara St. John,87
+Marshall,Precinct-A5,State House,1,REP,Tamara St. John,65
+Marshall,Precinct-A6,State House,1,REP,Tamara St. John,136
+Marshall,Precinct-A7,State House,1,REP,Tamara St. John,79
+Marshall,Precinct-A8,State House,1,REP,Tamara St. John,80
+Marshall,Precinct-A9,State House,1,REP,Tamara St. John,86
+Marshall,Precinct-A1,State House,1,DEM,Paul Dennert,121
+Marshall,Precinct-A2,State House,1,DEM,Paul Dennert,96
+Marshall,Precinct-A3,State House,1,DEM,Paul Dennert,142
+Marshall,Precinct-A4,State House,1,DEM,Paul Dennert,160
+Marshall,Precinct-A5,State House,1,DEM,Paul Dennert,69
+Marshall,Precinct-A6,State House,1,DEM,Paul Dennert,139
+Marshall,Precinct-A7,State House,1,DEM,Paul Dennert,77
+Marshall,Precinct-A8,State House,1,DEM,Paul Dennert,128
+Marshall,Precinct-A9,State House,1,DEM,Paul Dennert,116
+Marshall,Precinct-A1,State House,1,DEM,Steven McCleerey,101
+Marshall,Precinct-A2,State House,1,DEM,Steven McCleerey,72
+Marshall,Precinct-A3,State House,1,DEM,Steven McCleerey,95
+Marshall,Precinct-A4,State House,1,DEM,Steven McCleerey,113
+Marshall,Precinct-A5,State House,1,DEM,Steven McCleerey,89
+Marshall,Precinct-A6,State House,1,DEM,Steven McCleerey,134
+Marshall,Precinct-A7,State House,1,DEM,Steven McCleerey,92
+Marshall,Precinct-A8,State House,1,DEM,Steven McCleerey,87
+Marshall,Precinct-A9,State House,1,DEM,Steven McCleerey,71
