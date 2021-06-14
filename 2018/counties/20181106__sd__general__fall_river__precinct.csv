@@ -26,15 +26,15 @@ Fall River,HS 3,US House,1,DEM,Tim Bjorkman,141
 Fall River,HS 4,US House,1,DEM,Tim Bjorkman,110
 Fall River,JAC,US House,1,DEM,Tim Bjorkman,220
 Fall River,Oelrichs Area,US House,1,DEM,Tim Bjorkman,24
-Fall River,BEA,US House,1,IND,Ron Wieczorek,3
-Fall River,CAS,US House,1,IND,Ron Wieczorek,3
-Fall River,EDA,US House,1,IND,Ron Wieczorek,12
-Fall River,HS 1,US House,1,IND,Ron Wieczorek,10
-Fall River,HS 2,US House,1,IND,Ron Wieczorek,8
-Fall River,HS 3,US House,1,IND,Ron Wieczorek,14
-Fall River,HS 4,US House,1,IND,Ron Wieczorek,16
-Fall River,JAC,US House,1,IND,Ron Wieczorek,15
-Fall River,Oelrichs Area,US House,1,IND,Ron Wieczorek,2
+Fall River,BEA,US House,1,IND,Ron Wieczorek,3
+Fall River,CAS,US House,1,IND,Ron Wieczorek,3
+Fall River,EDA,US House,1,IND,Ron Wieczorek,12
+Fall River,HS 1,US House,1,IND,Ron Wieczorek,10
+Fall River,HS 2,US House,1,IND,Ron Wieczorek,8
+Fall River,HS 3,US House,1,IND,Ron Wieczorek,14
+Fall River,HS 4,US House,1,IND,Ron Wieczorek,16
+Fall River,JAC,US House,1,IND,Ron Wieczorek,15
+Fall River,Oelrichs Area,US House,1,IND,Ron Wieczorek,2
 Fall River,BEA,Governor,,LIB,Kurt Evans,4
 Fall River,CAS,Governor,,LIB,Kurt Evans,1
 Fall River,EDA,Governor,,LIB,Kurt Evans,10
@@ -89,15 +89,15 @@ Fall River,HS 3,Attorney General,,REP,Jason Ravnsborg,204
 Fall River,HS 4,Attorney General,,REP,Jason Ravnsborg,169
 Fall River,JAC,Attorney General,,REP,Jason Ravnsborg,561
 Fall River,Oelrichs Area,Attorney General,,REP,Jason Ravnsborg,157
-Fall River,BEA,Attorney General,,DEM,Randy Seller,29
-Fall River,CAS,Attorney General,,DEM,Randy Seller,40
-Fall River,EDA,Attorney General,,DEM,Randy Seller,114
-Fall River,HS 1,Attorney General,,DEM,Randy Seller,140
-Fall River,HS 2,Attorney General,,DEM,Randy Seller,157
-Fall River,HS 3,Attorney General,,DEM,Randy Seller,165
-Fall River,HS 4,Attorney General,,DEM,Randy Seller,121
-Fall River,JAC,Attorney General,,DEM,Randy Seller,256
-Fall River,Oelrichs Area,Attorney General,,DEM,Randy Seller,36
+Fall River,BEA,Attorney General,,DEM,Randy Seller,29
+Fall River,CAS,Attorney General,,DEM,Randy Seller,40
+Fall River,EDA,Attorney General,,DEM,Randy Seller,114
+Fall River,HS 1,Attorney General,,DEM,Randy Seller,140
+Fall River,HS 2,Attorney General,,DEM,Randy Seller,157
+Fall River,HS 3,Attorney General,,DEM,Randy Seller,165
+Fall River,HS 4,Attorney General,,DEM,Randy Seller,121
+Fall River,JAC,Attorney General,,DEM,Randy Seller,256
+Fall River,Oelrichs Area,Attorney General,,DEM,Randy Seller,36
 Fall River,BEA,State Auditor,,REP,Rich Sattgast,110
 Fall River,CAS,State Auditor,,REP,Rich Sattgast,130
 Fall River,EDA,State Auditor,,REP,Rich Sattgast,320
@@ -125,33 +125,33 @@ Fall River,HS 3,State Treasurer,,REP,Josh Haeder,220
 Fall River,HS 4,State Treasurer,,REP,Josh Haeder,182
 Fall River,JAC,State Treasurer,,REP,Josh Haeder,585
 Fall River,Oelrichs Area,State Treasurer,,REP,Josh Haeder,162
-Fall River,BEA,State Treasurer,,DEM,Aaron Matson,15
-Fall River,CAS,State Treasurer,,DEM,Aaron Matson,30
-Fall River,EDA,State Treasurer,,DEM,Aaron Matson,111
-Fall River,HS 1,State Treasurer,,DEM,Aaron Matson,116
-Fall River,HS 2,State Treasurer,,DEM,Aaron Matson,130
-Fall River,HS 3,State Treasurer,,DEM,Aaron Matson,141
-Fall River,HS 4,State Treasurer,,DEM,Aaron Matson,103
-Fall River,JAC,State Treasurer,,DEM,Aaron Matson,205
-Fall River,Oelrichs Area,State Treasurer,,DEM,Aaron Matson,25
-Fall River,BEA,Commissioner of School and Public Lands,,REP,Ryan Brunner,111
-Fall River,CAS,Commissioner of School and Public Lands,,REP,Ryan Brunner,126
-Fall River,EDA,Commissioner of School and Public Lands,,REP,Ryan Brunner,318
-Fall River,HS 1,Commissioner of School and Public Lands,,REP,Ryan Brunner,212
-Fall River,HS 2,Commissioner of School and Public Lands,,REP,Ryan Brunner,244
-Fall River,HS 3,Commissioner of School and Public Lands,,REP,Ryan Brunner,215
-Fall River,HS 4,Commissioner of School and Public Lands,,REP,Ryan Brunner,174
-Fall River,JAC,Commissioner of School and Public Lands,,REP,Ryan Brunner,576
-Fall River,Oelrichs Area,Commissioner of School and Public Lands,,REP,Ryan Brunner,167
-Fall River,BEA,Commissioner of School and Public Lands,,DEM,Woody Houser,15
-Fall River,CAS,Commissioner of School and Public Lands,,DEM,Woody Houser,31
-Fall River,EDA,Commissioner of School and Public Lands,,DEM,Woody Houser,111
-Fall River,HS 1,Commissioner of School and Public Lands,,DEM,Woody Houser,126
-Fall River,HS 2,Commissioner of School and Public Lands,,DEM,Woody Houser,132
-Fall River,HS 3,Commissioner of School and Public Lands,,DEM,Woody Houser,143
-Fall River,HS 4,Commissioner of School and Public Lands,,DEM,Woody Houser,108
-Fall River,JAC,Commissioner of School and Public Lands,,DEM,Woody Houser,213
-Fall River,Oelrichs Area,Commissioner of School and Public Lands,,DEM,Woody Houser,22
+Fall River,BEA,State Treasurer,,DEM,Aaron Matson,15
+Fall River,CAS,State Treasurer,,DEM,Aaron Matson,30
+Fall River,EDA,State Treasurer,,DEM,Aaron Matson,111
+Fall River,HS 1,State Treasurer,,DEM,Aaron Matson,116
+Fall River,HS 2,State Treasurer,,DEM,Aaron Matson,130
+Fall River,HS 3,State Treasurer,,DEM,Aaron Matson,141
+Fall River,HS 4,State Treasurer,,DEM,Aaron Matson,103
+Fall River,JAC,State Treasurer,,DEM,Aaron Matson,205
+Fall River,Oelrichs Area,State Treasurer,,DEM,Aaron Matson,25
+Fall River,BEA,Commissioner of School and Public Lands,,REP,Ryan Brunner,111
+Fall River,CAS,Commissioner of School and Public Lands,,REP,Ryan Brunner,126
+Fall River,EDA,Commissioner of School and Public Lands,,REP,Ryan Brunner,318
+Fall River,HS 1,Commissioner of School and Public Lands,,REP,Ryan Brunner,212
+Fall River,HS 2,Commissioner of School and Public Lands,,REP,Ryan Brunner,244
+Fall River,HS 3,Commissioner of School and Public Lands,,REP,Ryan Brunner,215
+Fall River,HS 4,Commissioner of School and Public Lands,,REP,Ryan Brunner,174
+Fall River,JAC,Commissioner of School and Public Lands,,REP,Ryan Brunner,576
+Fall River,Oelrichs Area,Commissioner of School and Public Lands,,REP,Ryan Brunner,167
+Fall River,BEA,Commissioner of School and Public Lands,,DEM,Woody Houser,15
+Fall River,CAS,Commissioner of School and Public Lands,,DEM,Woody Houser,31
+Fall River,EDA,Commissioner of School and Public Lands,,DEM,Woody Houser,111
+Fall River,HS 1,Commissioner of School and Public Lands,,DEM,Woody Houser,126
+Fall River,HS 2,Commissioner of School and Public Lands,,DEM,Woody Houser,132
+Fall River,HS 3,Commissioner of School and Public Lands,,DEM,Woody Houser,143
+Fall River,HS 4,Commissioner of School and Public Lands,,DEM,Woody Houser,108
+Fall River,JAC,Commissioner of School and Public Lands,,DEM,Woody Houser,213
+Fall River,Oelrichs Area,Commissioner of School and Public Lands,,DEM,Woody Houser,22
 Fall River,BEA,Public Utilities Commissioner,,REP,Kristie Fiegen,112
 Fall River,CAS,Public Utilities Commissioner,,REP,Kristie Fiegen,126
 Fall River,EDA,Public Utilities Commissioner,,REP,Kristie Fiegen,317
