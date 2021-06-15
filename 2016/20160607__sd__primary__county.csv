@@ -362,13 +362,13 @@ South Dakota,Hanson,State Senate,19,Caleb  Finck,REP,73
 South Dakota,Hutchinson,State Senate,19,Caleb  Finck,REP,551
 South Dakota,McCook,State Senate,19,Caleb  Finck,REP,157
 South Dakota,Total,State Senate,19,Caleb  Finck,REP,"1,137"
-South Dakota,Butte,State Senate,28,Ryan M. Maher ,REP,856
-South Dakota,Corson,State Senate,28,Ryan M. Maher ,REP,167
-South Dakota,Dewey,State Senate,28,Ryan M. Maher ,REP,221
-South Dakota,Harding,State Senate,28,Ryan M. Maher ,REP,355
-South Dakota,Perkins,State Senate,28,Ryan M. Maher ,REP,598
-South Dakota,Ziebach,State Senate,28,Ryan M. Maher ,REP,110
-South Dakota,Total,State Senate,28,Ryan M. Maher ,REP,"2,307"
+South Dakota,Butte,State Senate,28,Ryan M. Maher,REP,856
+South Dakota,Corson,State Senate,28,Ryan M. Maher,REP,167
+South Dakota,Dewey,State Senate,28,Ryan M. Maher,REP,221
+South Dakota,Harding,State Senate,28,Ryan M. Maher,REP,355
+South Dakota,Perkins,State Senate,28,Ryan M. Maher,REP,598
+South Dakota,Ziebach,State Senate,28,Ryan M. Maher,REP,110
+South Dakota,Total,State Senate,28,Ryan M. Maher,REP,"2,307"
 South Dakota,Butte,State Senate,28,Steven W. Ritch,REP,243
 South Dakota,Corson,State Senate,28,Steven W. Ritch,REP,16
 South Dakota,Dewey,State Senate,28,Steven W. Ritch,REP,21
@@ -384,8 +384,8 @@ South Dakota,Custer,State Senate,30,Bruce Rampelberg,REP,546
 South Dakota,Fall River,State Senate,30,Bruce Rampelberg,REP,561
 South Dakota,Pennington,State Senate,30,Bruce Rampelberg,REP,544
 South Dakota,Total,State Senate,30,Bruce Rampelberg,REP,"1,651"
-South Dakota,Pennington,State Senate,32,Alan D. Solano  ,REP,"1,495"
-South Dakota,Total,State Senate,32,Alan D. Solano  ,REP,"1,495"
+South Dakota,Pennington,State Senate,32,Alan D. Solano,REP,"1,495"
+South Dakota,Total,State Senate,32,Alan D. Solano,REP,"1,495"
 South Dakota,Pennington,State Senate,32,Richard  Kriebel,REP,919
 South Dakota,Total,State Senate,32,Richard  Kriebel,REP,919
 South Dakota,Meade,State Senate,32,Phil Jensen,REP,438
@@ -402,8 +402,8 @@ South Dakota,Pennington,State Senate,35,Terri L. Haverly,REP,912
 South Dakota,Total,State Senate,35,Terri L. Haverly,REP,912
 South Dakota,Pennington,State Senate,35,Tina   Mulally,REP,746
 South Dakota,Total,State Senate,35,Tina   Mulally,REP,746
-South Dakota,Brown,State House,3,Drew  Dennert  ,REP,"1,031"
-South Dakota,Total,State House,3,Drew  Dennert  ,REP,"1,031"
+South Dakota,Brown,State House,3,Drew  Dennert,REP,"1,031"
+South Dakota,Total,State House,3,Drew  Dennert,REP,"1,031"
 South Dakota,Brown,State House,3,Daniel  Kaiser,REP,"1,255"
 South Dakota,Total,State House,3,Daniel  Kaiser,REP,"1,255"
 South Dakota,Brown,State House,3,Todd  Kolden,REP,489
@@ -414,10 +414,10 @@ South Dakota,Minnehaha,State House,11,Chris Karr,REP,608
 South Dakota,Total,State House,11,Chris Karr,REP,608
 South Dakota,Minnehaha,State House,11,Mark K Wiliadsen,REP,632
 South Dakota,Total,State House,11,Mark K Wiliadsen,REP,632
-South Dakota,Minnehaha,State House,14,Tom   Holmes ,REP,858
-South Dakota,Total,State House,14,Tom   Holmes ,REP,858
-South Dakota,Minnehaha,State House,14,Larry P. Zikmund ,REP,"1,046"
-South Dakota,Total,State House,14,Larry P. Zikmund ,REP,"1,046"
+South Dakota,Minnehaha,State House,14,Tom   Holmes,REP,858
+South Dakota,Total,State House,14,Tom   Holmes,REP,858
+South Dakota,Minnehaha,State House,14,Larry P. Zikmund,REP,"1,046"
+South Dakota,Total,State House,14,Larry P. Zikmund,REP,"1,046"
 South Dakota,Minnehaha,State House,14,Dave Zimbeck,REP,668
 South Dakota,Total,State House,14,Dave Zimbeck,REP,668
 South Dakota,Lincoln,State House,16,Kevin D. Jensen,REP,514
@@ -471,15 +471,15 @@ South Dakota,Potter,State House,23,Dick Werner,REP,71
 South Dakota,Spink,State House,23,Dick Werner,REP,60
 South Dakota,Walworth,State House,23,Dick Werner,REP,238
 South Dakota,Total,State House,23,Dick Werner,REP,"1,607"
-South Dakota,Campbell,State House,23,John A. Lake  ,REP,155
-South Dakota,Edmunds,State House,23,John A. Lake  ,REP,239
-South Dakota,Faulk,State House,23,John A. Lake  ,REP,227
-South Dakota,Hand,State House,23,John A. Lake  ,REP,320
-South Dakota,McPherson,State House,23,John A. Lake  ,REP,178
-South Dakota,Potter,State House,23,John A. Lake  ,REP,801
-South Dakota,Spink,State House,23,John A. Lake  ,REP,55
-South Dakota,Walworth,State House,23,John A. Lake  ,REP,491
-South Dakota,Total,State House,23,John A. Lake  ,REP,"2,466"
+South Dakota,Campbell,State House,23,John A. Lake,REP,155
+South Dakota,Edmunds,State House,23,John A. Lake,REP,239
+South Dakota,Faulk,State House,23,John A. Lake,REP,227
+South Dakota,Hand,State House,23,John A. Lake,REP,320
+South Dakota,McPherson,State House,23,John A. Lake,REP,178
+South Dakota,Potter,State House,23,John A. Lake,REP,801
+South Dakota,Spink,State House,23,John A. Lake,REP,55
+South Dakota,Walworth,State House,23,John A. Lake,REP,491
+South Dakota,Total,State House,23,John A. Lake,REP,"2,466"
 South Dakota,Campbell,State House,23,Spencer Gosch,REP,188
 South Dakota,Edmunds,State House,23,Spencer Gosch,REP,241
 South Dakota,Faulk,State House,23,Spencer Gosch,REP,86
@@ -550,9 +550,9 @@ South Dakota,Pennington,State House,32,Sean McPherson,REP,1.372
 South Dakota,Total,State House,32,Sean McPherson,REP,"1,372"
 South Dakota,Pennington,State House,32,Kristin A. Conzet,REP,"1,245"
 South Dakota,Total,State House,32,Kristin A. Conzet,REP,"1,245"
-South Dakota,Meade,State House,33,Taffy Howard  ,REP,313
-South Dakota,Pennington,State House,33,Taffy Howard  ,REP,"1,479"
-South Dakota,Total,State House,33,Taffy Howard  ,REP,"1,792"
+South Dakota,Meade,State House,33,Taffy Howard,REP,313
+South Dakota,Pennington,State House,33,Taffy Howard,REP,"1,479"
+South Dakota,Total,State House,33,Taffy Howard,REP,"1,792"
 South Dakota,Meade,State House,33,David  Johnson,REP,460
 South Dakota,Pennington,State House,33,David  Johnson,REP,"1,775"
 South Dakota,Total,State House,33,David  Johnson,REP,"2,235"
