@@ -1,4 +1,7 @@
-openelections-data-sd [![Build Status](https://github.com/openelections/openelections-data-sd/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-sd/actions)
+[![Build Status](https://github.com/openelections/openelections-data-sd/actions/workflows/data_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-sd/actions/workflows/data_tests.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/openelections/openelections-data-sd/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-sd/actions/workflows/format_tests.yml?query=branch%3Amaster)
+
+openelections-data-sd
 =====================
 
 This repository contains CSV files with South Dakota election results converted from [original source files](https://github.com/openelections/openelections-sources-sd) from individual counties. You can see [county-specific inventories](https://github.com/openelections/openelections-data-sd/blob/master/county_matrix.csv) and refer to the below table for overall progress. Elections marked as `done` have all counties completed for that level. Those marked as `working` mean that at least one volunteer is working on this election, and this could be a good place to start if you're new. `Not started` means that this election is wide open and could use a volunteer.
