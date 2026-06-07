@@ -1,0 +1,351 @@
+county,precinct,office,district,candidate,party,votes
+Lake,1,President,,Kamala D. Harris and Tim Walz,DEM,145
+Lake,1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lake,1,President,,Donald J. Trump and JD Vance,REP,430
+Lake,1,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,4
+Lake,2,President,,Kamala D. Harris and Tim Walz,DEM,174
+Lake,2,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lake,2,President,,Donald J. Trump and JD Vance,REP,420
+Lake,2,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,7
+Lake,3,President,,Kamala D. Harris and Tim Walz,DEM,38
+Lake,3,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lake,3,President,,Donald J. Trump and JD Vance,REP,166
+Lake,3,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,4
+Lake,4,President,,Kamala D. Harris and Tim Walz,DEM,81
+Lake,4,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lake,4,President,,Donald J. Trump and JD Vance,REP,191
+Lake,4,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,4
+Lake,5,President,,Kamala D. Harris and Tim Walz,DEM,123
+Lake,5,President,,Chase Oliver and Mike ter Maat,LIB,4
+Lake,5,President,,Donald J. Trump and JD Vance,REP,350
+Lake,5,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,6
+Lake,6,President,,Kamala D. Harris and Tim Walz,DEM,86
+Lake,6,President,,Chase Oliver and Mike ter Maat,LIB,2
+Lake,6,President,,Donald J. Trump and JD Vance,REP,294
+Lake,6,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,5
+Lake,7,President,,Kamala D. Harris and Tim Walz,DEM,211
+Lake,7,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lake,7,President,,Donald J. Trump and JD Vance,REP,372
+Lake,7,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,5
+Lake,8,President,,Kamala D. Harris and Tim Walz,DEM,550
+Lake,8,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lake,8,President,,Donald J. Trump and JD Vance,REP,753
+Lake,8,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,24
+Lake,9,President,,Kamala D. Harris and Tim Walz,DEM,280
+Lake,9,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lake,9,President,,Donald J. Trump and JD Vance,REP,422
+Lake,9,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,12
+Lake,10,President,,Kamala D. Harris and Tim Walz,DEM,290
+Lake,10,President,,Chase Oliver and Mike ter Maat,LIB,5
+Lake,10,President,,Donald J. Trump and JD Vance,REP,421
+Lake,10,President,,Robert F. Kennedy Jr. and Nicole Shanahan,IND,16
+Lake,1,U.S. House,1,Sheryl Johnson,DEM,108
+Lake,1,U.S. House,1,Dusty Johnson,REP,460
+Lake,2,U.S. House,1,Sheryl Johnson,DEM,136
+Lake,2,U.S. House,1,Dusty Johnson,REP,464
+Lake,3,U.S. House,1,Sheryl Johnson,DEM,29
+Lake,3,U.S. House,1,Dusty Johnson,REP,189
+Lake,4,U.S. House,1,Sheryl Johnson,DEM,54
+Lake,4,U.S. House,1,Dusty Johnson,REP,221
+Lake,5,U.S. House,1,Sheryl Johnson,DEM,90
+Lake,5,U.S. House,1,Dusty Johnson,REP,394
+Lake,6,U.S. House,1,Sheryl Johnson,DEM,64
+Lake,6,U.S. House,1,Dusty Johnson,REP,314
+Lake,7,U.S. House,1,Sheryl Johnson,DEM,147
+Lake,7,U.S. House,1,Dusty Johnson,REP,442
+Lake,8,U.S. House,1,Sheryl Johnson,DEM,392
+Lake,8,U.S. House,1,Dusty Johnson,REP,929
+Lake,9,U.S. House,1,Sheryl Johnson,DEM,213
+Lake,9,U.S. House,1,Dusty Johnson,REP,496
+Lake,10,U.S. House,1,Sheryl Johnson,DEM,223
+Lake,10,U.S. House,1,Dusty Johnson,REP,497
+Lake,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lake,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Lake,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lake,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lake,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Lake,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Lake,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Lake,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lake,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Lake,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
+Lake,1,Public Utilities Commissioner,,Forrest Wilson,DEM,96
+Lake,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
+Lake,1,Public Utilities Commissioner,,Kristie Fiegen,REP,436
+Lake,2,Public Utilities Commissioner,,Forrest Wilson,DEM,112
+Lake,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Lake,2,Public Utilities Commissioner,,Kristie Fiegen,REP,439
+Lake,3,Public Utilities Commissioner,,Forrest Wilson,DEM,19
+Lake,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Lake,3,Public Utilities Commissioner,,Kristie Fiegen,REP,181
+Lake,4,Public Utilities Commissioner,,Forrest Wilson,DEM,41
+Lake,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Lake,4,Public Utilities Commissioner,,Kristie Fiegen,REP,205
+Lake,5,Public Utilities Commissioner,,Forrest Wilson,DEM,76
+Lake,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Lake,5,Public Utilities Commissioner,,Kristie Fiegen,REP,377
+Lake,6,Public Utilities Commissioner,,Forrest Wilson,DEM,55
+Lake,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Lake,6,Public Utilities Commissioner,,Kristie Fiegen,REP,303
+Lake,7,Public Utilities Commissioner,,Forrest Wilson,DEM,137
+Lake,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Lake,7,Public Utilities Commissioner,,Kristie Fiegen,REP,412
+Lake,8,Public Utilities Commissioner,,Forrest Wilson,DEM,307
+Lake,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,65
+Lake,8,Public Utilities Commissioner,,Kristie Fiegen,REP,885
+Lake,9,Public Utilities Commissioner,,Forrest Wilson,DEM,172
+Lake,9,Public Utilities Commissioner,,A. Gideon Oakes,LIB,38
+Lake,9,Public Utilities Commissioner,,Kristie Fiegen,REP,462
+Lake,10,Public Utilities Commissioner,,Forrest Wilson,DEM,190
+Lake,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,37
+Lake,10,Public Utilities Commissioner,,Kristie Fiegen,REP,451
+Lake,1,State Senate,8,Casey Crabtree,REP,403
+Lake,2,State Senate,8,Casey Crabtree,REP,446
+Lake,3,State Senate,8,Casey Crabtree,REP,166
+Lake,4,State Senate,8,Casey Crabtree,REP,197
+Lake,5,State Senate,8,Casey Crabtree,REP,384
+Lake,6,State Senate,8,Casey Crabtree,REP,288
+Lake,7,State Senate,8,Casey Crabtree,REP,411
+Lake,8,State Senate,8,Casey Crabtree,REP,971
+Lake,9,State Senate,8,Casey Crabtree,REP,468
+Lake,10,State Senate,8,Casey Crabtree,REP,504
+Lake,1,State Senate,08,Casey Crabtree,REP,403
+Lake,2,State Senate,08,Casey Crabtree,REP,446
+Lake,3,State Senate,08,Casey Crabtree,REP,166
+Lake,4,State Senate,08,Casey Crabtree,REP,197
+Lake,5,State Senate,08,Casey Crabtree,REP,384
+Lake,6,State Senate,08,Casey Crabtree,REP,288
+Lake,7,State Senate,08,Casey Crabtree,REP,411
+Lake,8,State Senate,08,Casey Crabtree,REP,971
+Lake,9,State Senate,08,Casey Crabtree,REP,468
+Lake,10,State Senate,08,Casey Crabtree,REP,504
+Lake,1,State House,08,Greg Zimmerman,LIB,80
+Lake,1,State House,08,Tim Reisch,REP,336
+Lake,1,State House,08,Tim Walburg,REP,413
+Lake,2,State House,08,Greg Zimmerman,LIB,67
+Lake,2,State House,08,Tim Reisch,REP,372
+Lake,2,State House,08,Tim Walburg,REP,459
+Lake,3,State House,08,Greg Zimmerman,LIB,22
+Lake,3,State House,08,Tim Reisch,REP,138
+Lake,3,State House,08,Tim Walburg,REP,178
+Lake,4,State House,08,Greg Zimmerman,LIB,27
+Lake,4,State House,08,Tim Reisch,REP,175
+Lake,4,State House,08,Tim Walburg,REP,205
+Lake,5,State House,08,Greg Zimmerman,LIB,59
+Lake,5,State House,08,Tim Reisch,REP,345
+Lake,5,State House,08,Tim Walburg,REP,393
+Lake,6,State House,08,Greg Zimmerman,LIB,42
+Lake,6,State House,08,Tim Reisch,REP,267
+Lake,6,State House,08,Tim Walburg,REP,315
+Lake,7,State House,08,Greg Zimmerman,LIB,79
+Lake,7,State House,08,Tim Reisch,REP,396
+Lake,7,State House,08,Tim Walburg,REP,457
+Lake,8,State House,08,Greg Zimmerman,LIB,195
+Lake,8,State House,08,Tim Reisch,REP,807
+Lake,8,State House,08,Tim Walburg,REP,1004
+Lake,9,State House,08,Greg Zimmerman,LIB,118
+Lake,9,State House,08,Tim Reisch,REP,419
+Lake,9,State House,08,Tim Walburg,REP,492
+Lake,10,State House,08,Greg Zimmerman,LIB,129
+Lake,10,State House,08,Tim Reisch,REP,411
+Lake,10,State House,08,Tim Walburg,REP,509
+Lake,1,County Commissioner,,Charles J Johnson,DEM,202
+Lake,1,County Commissioner,,Adam Leighton,REP,344
+Lake,1,County Commissioner,,Deb Reinicke,REP,357
+Lake,1,County Commissioner,,Dennis Slaughter,REP,298
+Lake,2,County Commissioner,,Charles J Johnson,DEM,208
+Lake,2,County Commissioner,,Adam Leighton,REP,389
+Lake,2,County Commissioner,,Deb Reinicke,REP,345
+Lake,2,County Commissioner,,Dennis Slaughter,REP,312
+Lake,3,County Commissioner,,Charles J Johnson,DEM,82
+Lake,3,County Commissioner,,Adam Leighton,REP,147
+Lake,3,County Commissioner,,Deb Reinicke,REP,120
+Lake,3,County Commissioner,,Dennis Slaughter,REP,116
+Lake,4,County Commissioner,,Charles J Johnson,DEM,104
+Lake,4,County Commissioner,,Adam Leighton,REP,168
+Lake,4,County Commissioner,,Deb Reinicke,REP,154
+Lake,4,County Commissioner,,Dennis Slaughter,REP,159
+Lake,5,County Commissioner,,Charles J Johnson,DEM,206
+Lake,5,County Commissioner,,Adam Leighton,REP,312
+Lake,5,County Commissioner,,Deb Reinicke,REP,310
+Lake,5,County Commissioner,,Dennis Slaughter,REP,309
+Lake,6,County Commissioner,,Charles J Johnson,DEM,135
+Lake,6,County Commissioner,,Adam Leighton,REP,256
+Lake,6,County Commissioner,,Deb Reinicke,REP,226
+Lake,6,County Commissioner,,Dennis Slaughter,REP,252
+Lake,7,County Commissioner,,Charles J Johnson,DEM,266
+Lake,7,County Commissioner,,Adam Leighton,REP,363
+Lake,7,County Commissioner,,Deb Reinicke,REP,334
+Lake,7,County Commissioner,,Dennis Slaughter,REP,344
+Lake,8,County Commissioner,,Charles J Johnson,DEM,634
+Lake,8,County Commissioner,,Adam Leighton,REP,764
+Lake,8,County Commissioner,,Deb Reinicke,REP,661
+Lake,8,County Commissioner,,Dennis Slaughter,REP,739
+Lake,9,County Commissioner,,Charles J Johnson,DEM,336
+Lake,9,County Commissioner,,Adam Leighton,REP,394
+Lake,9,County Commissioner,,Deb Reinicke,REP,349
+Lake,9,County Commissioner,,Dennis Slaughter,REP,366
+Lake,10,County Commissioner,,Charles J Johnson,DEM,341
+Lake,10,County Commissioner,,Adam Leighton,REP,372
+Lake,10,County Commissioner,,Deb Reinicke,REP,343
+Lake,10,County Commissioner,,Dennis Slaughter,REP,368
+Lake,1,Supreme Court Retention,,Yes,,397
+Lake,1,Supreme Court Retention,,No,,71
+Lake,2,Supreme Court Retention,,Yes,,450
+Lake,2,Supreme Court Retention,,No,,70
+Lake,3,Supreme Court Retention,,Yes,,152
+Lake,3,Supreme Court Retention,,No,,25
+Lake,4,Supreme Court Retention,,Yes,,184
+Lake,4,Supreme Court Retention,,No,,44
+Lake,5,Supreme Court Retention,,Yes,,350
+Lake,5,Supreme Court Retention,,No,,50
+Lake,6,Supreme Court Retention,,Yes,,255
+Lake,6,Supreme Court Retention,,No,,59
+Lake,7,Supreme Court Retention,,Yes,,427
+Lake,7,Supreme Court Retention,,No,,76
+Lake,8,Supreme Court Retention,,Yes,,947
+Lake,8,Supreme Court Retention,,No,,183
+Lake,9,Supreme Court Retention,,Yes,,487
+Lake,9,Supreme Court Retention,,No,,114
+Lake,10,Supreme Court Retention,,Yes,,485
+Lake,10,Supreme Court Retention,,No,,121
+Lake,1,Constitutional Amendment E,,Yes,,202
+Lake,1,Constitutional Amendment E,,No,,371
+Lake,2,Constitutional Amendment E,,Yes,,219
+Lake,2,Constitutional Amendment E,,No,,375
+Lake,3,Constitutional Amendment E,,Yes,,60
+Lake,3,Constitutional Amendment E,,No,,154
+Lake,4,Constitutional Amendment E,,Yes,,89
+Lake,4,Constitutional Amendment E,,No,,184
+Lake,5,Constitutional Amendment E,,Yes,,194
+Lake,5,Constitutional Amendment E,,No,,290
+Lake,6,Constitutional Amendment E,,Yes,,122
+Lake,6,Constitutional Amendment E,,No,,259
+Lake,7,Constitutional Amendment E,,Yes,,291
+Lake,7,Constitutional Amendment E,,No,,300
+Lake,8,Constitutional Amendment E,,Yes,,613
+Lake,8,Constitutional Amendment E,,No,,710
+Lake,9,Constitutional Amendment E,,Yes,,311
+Lake,9,Constitutional Amendment E,,No,,394
+Lake,10,Constitutional Amendment E,,Yes,,326
+Lake,10,Constitutional Amendment E,,No,,391
+Lake,1,Constitutional Amendment F,,Yes,,326
+Lake,1,Constitutional Amendment F,,No,,242
+Lake,2,Constitutional Amendment F,,Yes,,331
+Lake,2,Constitutional Amendment F,,No,,264
+Lake,3,Constitutional Amendment F,,Yes,,124
+Lake,3,Constitutional Amendment F,,No,,91
+Lake,4,Constitutional Amendment F,,Yes,,138
+Lake,4,Constitutional Amendment F,,No,,129
+Lake,5,Constitutional Amendment F,,Yes,,265
+Lake,5,Constitutional Amendment F,,No,,214
+Lake,6,Constitutional Amendment F,,Yes,,201
+Lake,6,Constitutional Amendment F,,No,,178
+Lake,7,Constitutional Amendment F,,Yes,,341
+Lake,7,Constitutional Amendment F,,No,,245
+Lake,8,Constitutional Amendment F,,Yes,,701
+Lake,8,Constitutional Amendment F,,No,,601
+Lake,9,Constitutional Amendment F,,Yes,,382
+Lake,9,Constitutional Amendment F,,No,,315
+Lake,10,Constitutional Amendment F,,Yes,,364
+Lake,10,Constitutional Amendment F,,No,,345
+Lake,1,Constitutional Amendment G,,Yes,,186
+Lake,1,Constitutional Amendment G,,No,,392
+Lake,2,Constitutional Amendment G,,Yes,,216
+Lake,2,Constitutional Amendment G,,No,,383
+Lake,3,Constitutional Amendment G,,Yes,,38
+Lake,3,Constitutional Amendment G,,No,,179
+Lake,4,Constitutional Amendment G,,Yes,,79
+Lake,4,Constitutional Amendment G,,No,,193
+Lake,5,Constitutional Amendment G,,Yes,,152
+Lake,5,Constitutional Amendment G,,No,,336
+Lake,6,Constitutional Amendment G,,Yes,,118
+Lake,6,Constitutional Amendment G,,No,,264
+Lake,7,Constitutional Amendment G,,Yes,,269
+Lake,7,Constitutional Amendment G,,No,,332
+Lake,8,Constitutional Amendment G,,Yes,,570
+Lake,8,Constitutional Amendment G,,No,,464
+Lake,9,Constitutional Amendment G,,Yes,,307
+Lake,9,Constitutional Amendment G,,No,,395
+Lake,10,Constitutional Amendment G,,Yes,,318
+Lake,10,Constitutional Amendment G,,No,,410
+Lake,1,Constitutional Amendment H,,Yes,,147
+Lake,1,Constitutional Amendment H,,No,,418
+Lake,2,Constitutional Amendment H,,Yes,,172
+Lake,2,Constitutional Amendment H,,No,,421
+Lake,3,Constitutional Amendment H,,Yes,,55
+Lake,3,Constitutional Amendment H,,No,,163
+Lake,4,Constitutional Amendment H,,Yes,,77
+Lake,4,Constitutional Amendment H,,No,,186
+Lake,5,Constitutional Amendment H,,Yes,,155
+Lake,5,Constitutional Amendment H,,No,,321
+Lake,6,Constitutional Amendment H,,Yes,,105
+Lake,6,Constitutional Amendment H,,No,,269
+Lake,7,Constitutional Amendment H,,Yes,,195
+Lake,7,Constitutional Amendment H,,No,,382
+Lake,8,Constitutional Amendment H,,Yes,,482
+Lake,8,Constitutional Amendment H,,No,,815
+Lake,9,Constitutional Amendment H,,Yes,,270
+Lake,9,Constitutional Amendment H,,No,,414
+Lake,10,Constitutional Amendment H,,Yes,,290
+Lake,10,Constitutional Amendment H,,No,,408
+Lake,1,Initiated Measure 28,,Yes,,165
+Lake,1,Initiated Measure 28,,No,,409
+Lake,2,Initiated Measure 28,,Yes,,144
+Lake,2,Initiated Measure 28,,No,,452
+Lake,3,Initiated Measure 28,,Yes,,40
+Lake,3,Initiated Measure 28,,No,,179
+Lake,4,Initiated Measure 28,,Yes,,63
+Lake,4,Initiated Measure 28,,No,,203
+Lake,5,Initiated Measure 28,,Yes,,166
+Lake,5,Initiated Measure 28,,No,,369
+Lake,6,Initiated Measure 28,,Yes,,100
+Lake,6,Initiated Measure 28,,No,,300
+Lake,7,Initiated Measure 28,,Yes,,272
+Lake,7,Initiated Measure 28,,No,,326
+Lake,8,Initiated Measure 28,,Yes,,332
+Lake,8,Initiated Measure 28,,No,,537
+Lake,9,Initiated Measure 28,,Yes,,243
+Lake,9,Initiated Measure 28,,No,,444
+Lake,10,Initiated Measure 28,,Yes,,365
+Lake,10,Initiated Measure 28,,No,,446
+Lake,1,Initiated Measure 29,,Yes,,234
+Lake,1,Initiated Measure 29,,No,,347
+Lake,2,Initiated Measure 29,,Yes,,237
+Lake,2,Initiated Measure 29,,No,,371
+Lake,3,Initiated Measure 29,,Yes,,53
+Lake,3,Initiated Measure 29,,No,,167
+Lake,4,Initiated Measure 29,,Yes,,109
+Lake,4,Initiated Measure 29,,No,,166
+Lake,5,Initiated Measure 29,,Yes,,165
+Lake,5,Initiated Measure 29,,No,,319
+Lake,6,Initiated Measure 29,,Yes,,106
+Lake,6,Initiated Measure 29,,No,,272
+Lake,7,Initiated Measure 29,,Yes,,332
+Lake,7,Initiated Measure 29,,No,,332
+Lake,8,Initiated Measure 29,,Yes,,494
+Lake,8,Initiated Measure 29,,No,,400
+Lake,9,Initiated Measure 29,,Yes,,332
+Lake,9,Initiated Measure 29,,No,,402
+Lake,10,Initiated Measure 29,,Yes,,362
+Lake,10,Initiated Measure 29,,No,,267
+Lake,1,Referred Law 21,,Yes,,178
+Lake,1,Referred Law 21,,No,,392
+Lake,2,Referred Law 21,,Yes,,236
+Lake,2,Referred Law 21,,No,,356
+Lake,3,Referred Law 21,,Yes,,173
+Lake,3,Referred Law 21,,No,,145
+Lake,4,Referred Law 21,,Yes,,91
+Lake,4,Referred Law 21,,No,,179
+Lake,5,Referred Law 21,,Yes,,164
+Lake,5,Referred Law 21,,No,,313
+Lake,6,Referred Law 21,,Yes,,86
+Lake,6,Referred Law 21,,No,,294
+Lake,7,Referred Law 21,,Yes,,332
+Lake,7,Referred Law 21,,No,,433
+Lake,8,Referred Law 21,,Yes,,271
+Lake,8,Referred Law 21,,No,,456
+Lake,9,Referred Law 21,,Yes,,365
+Lake,9,Referred Law 21,,No,,242
+Lake,10,Referred Law 21,,Yes,,267
+Lake,10,Referred Law 21,,No,,425

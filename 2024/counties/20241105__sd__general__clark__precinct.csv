@@ -1,0 +1,377 @@
+county,precinct,office,district,candidate,party,votes
+Clark,01,President,,Kamala D. Harris and Tim Walz,DEM,36
+Clark,01,President,,Chase Oliver and Mike ter Maat,LIB,5
+Clark,01,President,,Donald J. Trump and JD Vance,REP,104
+Clark,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Clark,02,President,,Kamala D. Harris and Tim Walz,DEM,24
+Clark,02,President,,Chase Oliver and Mike ter Maat,LIB,5
+Clark,02,President,,Donald J. Trump and JD Vance,REP,93
+Clark,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clark,03,President,,Kamala D. Harris and Tim Walz,DEM,23
+Clark,03,President,,Chase Oliver and Mike ter Maat,LIB,1
+Clark,03,President,,Donald J. Trump and JD Vance,REP,70
+Clark,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clark,04,President,,Kamala D. Harris and Tim Walz,DEM,17
+Clark,04,President,,Chase Oliver and Mike ter Maat,LIB,1
+Clark,04,President,,Donald J. Trump and JD Vance,REP,85
+Clark,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Clark,05,President,,Kamala D. Harris and Tim Walz,DEM,35
+Clark,05,President,,Chase Oliver and Mike ter Maat,LIB,1
+Clark,05,President,,Donald J. Trump and JD Vance,REP,162
+Clark,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clark,06,President,,Kamala D. Harris and Tim Walz,DEM,35
+Clark,06,President,,Chase Oliver and Mike ter Maat,LIB,1
+Clark,06,President,,Donald J. Trump and JD Vance,REP,166
+Clark,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Clark,07,President,,Kamala D. Harris and Tim Walz,DEM,44
+Clark,07,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,07,President,,Donald J. Trump and JD Vance,REP,139
+Clark,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Clark,08,President,,Kamala D. Harris and Tim Walz,DEM,39
+Clark,08,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,08,President,,Donald J. Trump and JD Vance,REP,126
+Clark,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Clark,09,President,,Kamala D. Harris and Tim Walz,DEM,17
+Clark,09,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,09,President,,Donald J. Trump and JD Vance,REP,81
+Clark,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Clark,10,President,,Kamala D. Harris and Tim Walz,DEM,56
+Clark,10,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,10,President,,Donald J. Trump and JD Vance,REP,122
+Clark,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Clark,11,President,,Kamala D. Harris and Tim Walz,DEM,52
+Clark,11,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,11,President,,Donald J. Trump and JD Vance,REP,114
+Clark,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clark,12,President,,Kamala D. Harris and Tim Walz,DEM,53
+Clark,12,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,12,President,,Donald J. Trump and JD Vance,REP,120
+Clark,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clark,13,President,,Kamala D. Harris and Tim Walz,DEM,120
+Clark,13,President,,Chase Oliver and Mike ter Maat,LIB,0
+Clark,13,President,,Donald J. Trump and JD Vance,REP,34
+Clark,13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Clark,01,U.S. House,1,Sheryl Johnson,DEM,30
+Clark,01,U.S. House,1,Dusty Johnson,REP,117
+Clark,02,U.S. House,1,Sheryl Johnson,DEM,19
+Clark,02,U.S. House,1,Dusty Johnson,REP,97
+Clark,03,U.S. House,1,Sheryl Johnson,DEM,17
+Clark,03,U.S. House,1,Dusty Johnson,REP,78
+Clark,04,U.S. House,1,Sheryl Johnson,DEM,8
+Clark,04,U.S. House,1,Dusty Johnson,REP,93
+Clark,06,U.S. House,1,Sheryl Johnson,DEM,5
+Clark,06,U.S. House,1,Dusty Johnson,REP,173
+Clark,07,U.S. House,1,Sheryl Johnson,DEM,18
+Clark,07,U.S. House,1,Dusty Johnson,REP,173
+Clark,08,U.S. House,1,Sheryl Johnson,DEM,23
+Clark,08,U.S. House,1,Dusty Johnson,REP,164
+Clark,09,U.S. House,1,Sheryl Johnson,DEM,25
+Clark,09,U.S. House,1,Dusty Johnson,REP,136
+Clark,10,U.S. House,1,Sheryl Johnson,DEM,21
+Clark,10,U.S. House,1,Dusty Johnson,REP,89
+Clark,11,U.S. House,1,Sheryl Johnson,DEM,43
+Clark,11,U.S. House,1,Dusty Johnson,REP,127
+Clark,12,U.S. House,1,Sheryl Johnson,DEM,38
+Clark,12,U.S. House,1,Dusty Johnson,REP,128
+Clark,13,U.S. House,1,Sheryl Johnson,DEM,37
+Clark,13,U.S. House,1,Dusty Johnson,REP,138
+Clark,1,Public Utilities Commissioner,,Forrest Wilson,DEM,29
+Clark,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Clark,1,Public Utilities Commissioner,,Kristie Fiegen,REP,100
+Clark,2,Public Utilities Commissioner,,Forrest Wilson,DEM,17
+Clark,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Clark,2,Public Utilities Commissioner,,Kristie Fiegen,REP,80
+Clark,3,Public Utilities Commissioner,,Forrest Wilson,DEM,22
+Clark,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
+Clark,3,Public Utilities Commissioner,,Kristie Fiegen,REP,67
+Clark,4,Public Utilities Commissioner,,Forrest Wilson,DEM,12
+Clark,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Clark,4,Public Utilities Commissioner,,Kristie Fiegen,REP,78
+Clark,6,Public Utilities Commissioner,,Forrest Wilson,DEM,26
+Clark,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Clark,6,Public Utilities Commissioner,,Kristie Fiegen,REP,154
+Clark,7,Public Utilities Commissioner,,Forrest Wilson,DEM,19
+Clark,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Clark,7,Public Utilities Commissioner,,Kristie Fiegen,REP,161
+Clark,8,Public Utilities Commissioner,,Forrest Wilson,DEM,29
+Clark,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Clark,8,Public Utilities Commissioner,,Kristie Fiegen,REP,141
+Clark,9,Public Utilities Commissioner,,Forrest Wilson,DEM,23
+Clark,9,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Clark,9,Public Utilities Commissioner,,Kristie Fiegen,REP,120
+Clark,10,Public Utilities Commissioner,,Forrest Wilson,DEM,7
+Clark,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
+Clark,10,Public Utilities Commissioner,,Kristie Fiegen,REP,79
+Clark,11,Public Utilities Commissioner,,Forrest Wilson,DEM,43
+Clark,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Clark,11,Public Utilities Commissioner,,Kristie Fiegen,REP,113
+Clark,12,Public Utilities Commissioner,,Forrest Wilson,DEM,25
+Clark,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Clark,12,Public Utilities Commissioner,,Kristie Fiegen,REP,109
+Clark,13,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Clark,13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Clark,13,Public Utilities Commissioner,,Kristie Fiegen,REP,122
+Clark,01,State Senate,04,Stephanie Sauder,REP,102
+Clark,02,State Senate,04,Stephanie Sauder,REP,84
+Clark,03,State Senate,04,Stephanie Sauder,REP,13
+Clark,04,State Senate,04,Stephanie Sauder,REP,76
+Clark,05,State Senate,04,Stephanie Sauder,REP,150
+Clark,06,State Senate,04,Stephanie Sauder,REP,154
+Clark,08,State Senate,04,Stephanie Sauder,REP,161
+Clark,09,State Senate,04,Stephanie Sauder,REP,83
+Clark,10,State Senate,04,Stephanie Sauder,REP,54
+Clark,11,State Senate,04,Stephanie Sauder,REP,126
+Clark,12,State Senate,04,Stephanie Sauder,REP,114
+Clark,13,State Senate,04,Stephanie Sauder,REP,137
+Clark,03,State Senate,22,Jim A. Schmidt,DEM,24
+Clark,09,State Senate,22,Jim A. Schmidt,DEM,9
+Clark,10,State Senate,22,Jim A. Schmidt,DEM,19
+Clark,03,State Senate,22,David Wheeler,REP,53
+Clark,09,State Senate,22,David Wheeler,REP,41
+Clark,10,State Senate,22,David Wheeler,REP,28
+Clark,01,State House,04,Kent Roe,REP,89
+Clark,01,State House,04,Dylan C. Jordon,REP,83
+Clark,01,State House,22,Kevin Van Diepen,REP,0
+Clark,01,State House,22,Lana Greenfield,REP,0
+Clark,02,State House,04,Kent Roe,REP,59
+Clark,02,State House,04,Dylan C. Jordon,REP,45
+Clark,02,State House,22,Kevin Van Diepen,REP,0
+Clark,02,State House,22,Lana Greenfield,REP,0
+Clark,03,State House,04,Kent Roe,REP,8
+Clark,03,State House,04,Dylan C. Jordon,REP,7
+Clark,03,State House,22,Kevin Van Diepen,REP,38
+Clark,03,State House,22,Lana Greenfield,REP,52
+Clark,04,State House,04,Kent Roe,REP,66
+Clark,04,State House,04,Dylan C. Jordon,REP,51
+Clark,04,State House,22,Kevin Van Diepen,REP,0
+Clark,04,State House,22,Lana Greenfield,REP,0
+Clark,06,State House,04,Kent Roe,REP,106
+Clark,06,State House,04,Dylan C. Jordon,REP,97
+Clark,06,State House,22,Kevin Van Diepen,REP,0
+Clark,06,State House,22,Lana Greenfield,REP,0
+Clark,07,State House,04,Kent Roe,REP,115
+Clark,07,State House,04,Dylan C. Jordon,REP,95
+Clark,07,State House,22,Kevin Van Diepen,REP,0
+Clark,07,State House,22,Lana Greenfield,REP,0
+Clark,08,State House,04,Kent Roe,REP,114
+Clark,08,State House,04,Dylan C. Jordon,REP,83
+Clark,08,State House,22,Kevin Van Diepen,REP,0
+Clark,08,State House,22,Lana Greenfield,REP,0
+Clark,09,State House,04,Kent Roe,REP,58
+Clark,09,State House,04,Dylan C. Jordon,REP,49
+Clark,09,State House,22,Kevin Van Diepen,REP,35
+Clark,09,State House,22,Lana Greenfield,REP,35
+Clark,10,State House,04,Kent Roe,REP,44
+Clark,10,State House,04,Dylan C. Jordon,REP,36
+Clark,10,State House,22,Kevin Van Diepen,REP,19
+Clark,10,State House,22,Lana Greenfield,REP,25
+Clark,11,State House,04,Kent Roe,REP,77
+Clark,11,State House,04,Dylan C. Jordon,REP,67
+Clark,11,State House,22,Kevin Van Diepen,REP,0
+Clark,11,State House,22,Lana Greenfield,REP,0
+Clark,12,State House,04,Kent Roe,REP,86
+Clark,12,State House,04,Dylan C. Jordon,REP,84
+Clark,12,State House,22,Kevin Van Diepen,REP,0
+Clark,12,State House,22,Lana Greenfield,REP,0
+Clark,13,State House,04,Kent Roe,REP,109
+Clark,13,State House,04,Dylan C. Jordon,REP,107
+Clark,13,State House,22,Kevin Van Diepen,REP,0
+Clark,13,State House,22,Lana Greenfield,REP,0
+Clark,01,Supreme Court Retention,,Scott P. Myren,YES,98
+Clark,01,Supreme Court Retention,,Scott P. Myren,NO,18
+Clark,02,Supreme Court Retention,,Scott P. Myren,YES,71
+Clark,02,Supreme Court Retention,,Scott P. Myren,NO,20
+Clark,03,Supreme Court Retention,,Scott P. Myren,YES,71
+Clark,03,Supreme Court Retention,,Scott P. Myren,NO,15
+Clark,04,Supreme Court Retention,,Scott P. Myren,YES,63
+Clark,04,Supreme Court Retention,,Scott P. Myren,NO,19
+Clark,06,Supreme Court Retention,,Scott P. Myren,YES,117
+Clark,06,Supreme Court Retention,,Scott P. Myren,NO,33
+Clark,07,Supreme Court Retention,,Scott P. Myren,YES,135
+Clark,07,Supreme Court Retention,,Scott P. Myren,NO,28
+Clark,08,Supreme Court Retention,,Scott P. Myren,YES,134
+Clark,08,Supreme Court Retention,,Scott P. Myren,NO,18
+Clark,09,Supreme Court Retention,,Scott P. Myren,YES,103
+Clark,09,Supreme Court Retention,,Scott P. Myren,NO,23
+Clark,10,Supreme Court Retention,,Scott P. Myren,YES,88
+Clark,10,Supreme Court Retention,,Scott P. Myren,NO,12
+Clark,11,Supreme Court Retention,,Scott P. Myren,YES,105
+Clark,11,Supreme Court Retention,,Scott P. Myren,NO,35
+Clark,12,Supreme Court Retention,,Scott P. Myren,YES,150
+Clark,12,Supreme Court Retention,,Scott P. Myren,NO,21
+Clark,13,Supreme Court Retention,,Scott P. Myren,YES,120
+Clark,13,Supreme Court Retention,,Scott P. Myren,NO,23
+Clark,01,Constitutional Amendment E,,Yes,,55
+Clark,01,Constitutional Amendment E,,No,,89
+Clark,01,Constitutional Amendment F,,Yes,,56
+Clark,01,Constitutional Amendment F,,No,,42
+Clark,01,Constitutional Amendment G,,Yes,,41
+Clark,01,Constitutional Amendment G,,No,,104
+Clark,01,Constitutional Amendment H,,Yes,,30
+Clark,01,Constitutional Amendment H,,No,,111
+Clark,02,Constitutional Amendment E,,Yes,,34
+Clark,02,Constitutional Amendment E,,No,,82
+Clark,02,Constitutional Amendment F,,Yes,,49
+Clark,02,Constitutional Amendment F,,No,,68
+Clark,02,Constitutional Amendment G,,Yes,,30
+Clark,02,Constitutional Amendment G,,No,,87
+Clark,02,Constitutional Amendment H,,Yes,,27
+Clark,02,Constitutional Amendment H,,No,,90
+Clark,03,Constitutional Amendment E,,Yes,,30
+Clark,03,Constitutional Amendment E,,No,,49
+Clark,03,Constitutional Amendment F,,Yes,,43
+Clark,03,Constitutional Amendment F,,No,,52
+Clark,03,Constitutional Amendment G,,Yes,,26
+Clark,03,Constitutional Amendment G,,No,,52
+Clark,03,Constitutional Amendment H,,Yes,,27
+Clark,03,Constitutional Amendment H,,No,,59
+Clark,04,Constitutional Amendment E,,Yes,,31
+Clark,04,Constitutional Amendment E,,No,,67
+Clark,04,Constitutional Amendment F,,Yes,,48
+Clark,04,Constitutional Amendment F,,No,,51
+Clark,04,Constitutional Amendment G,,Yes,,20
+Clark,04,Constitutional Amendment G,,No,,79
+Clark,04,Constitutional Amendment H,,Yes,,21
+Clark,04,Constitutional Amendment H,,No,,75
+Clark,06,Constitutional Amendment E,,Yes,,57
+Clark,06,Constitutional Amendment E,,No,,133
+Clark,06,Constitutional Amendment F,,Yes,,93
+Clark,06,Constitutional Amendment F,,No,,52
+Clark,06,Constitutional Amendment G,,Yes,,46
+Clark,06,Constitutional Amendment G,,No,,148
+Clark,06,Constitutional Amendment H,,Yes,,24
+Clark,06,Constitutional Amendment H,,No,,148
+Clark,07,Constitutional Amendment E,,Yes,,62
+Clark,07,Constitutional Amendment E,,No,,179
+Clark,07,Constitutional Amendment F,,Yes,,68
+Clark,07,Constitutional Amendment F,,No,,122
+Clark,07,Constitutional Amendment G,,Yes,,51
+Clark,07,Constitutional Amendment G,,No,,119
+Clark,07,Constitutional Amendment H,,Yes,,35
+Clark,07,Constitutional Amendment H,,No,,115
+Clark,08,Constitutional Amendment E,,Yes,,65
+Clark,08,Constitutional Amendment E,,No,,120
+Clark,08,Constitutional Amendment F,,Yes,,85
+Clark,08,Constitutional Amendment F,,No,,86
+Clark,08,Constitutional Amendment G,,Yes,,51
+Clark,08,Constitutional Amendment G,,No,,135
+Clark,08,Constitutional Amendment H,,Yes,,44
+Clark,08,Constitutional Amendment H,,No,,137
+Clark,09,Constitutional Amendment E,,Yes,,123
+Clark,09,Constitutional Amendment E,,No,,155
+Clark,09,Constitutional Amendment F,,Yes,,76
+Clark,09,Constitutional Amendment F,,No,,44
+Clark,09,Constitutional Amendment G,,Yes,,52
+Clark,09,Constitutional Amendment G,,No,,119
+Clark,09,Constitutional Amendment H,,Yes,,42
+Clark,09,Constitutional Amendment H,,No,,117
+Clark,10,Constitutional Amendment E,,Yes,,108
+Clark,10,Constitutional Amendment E,,No,,103
+Clark,10,Constitutional Amendment F,,Yes,,74
+Clark,10,Constitutional Amendment F,,No,,60
+Clark,10,Constitutional Amendment G,,Yes,,50
+Clark,10,Constitutional Amendment G,,No,,118
+Clark,10,Constitutional Amendment H,,Yes,,57
+Clark,10,Constitutional Amendment H,,No,,113
+Clark,11,Constitutional Amendment E,,Yes,,72
+Clark,11,Constitutional Amendment E,,No,,104
+Clark,11,Constitutional Amendment F,,Yes,,39
+Clark,11,Constitutional Amendment F,,No,,50
+Clark,11,Constitutional Amendment G,,Yes,,58
+Clark,11,Constitutional Amendment G,,No,,66
+Clark,11,Constitutional Amendment H,,Yes,,54
+Clark,11,Constitutional Amendment H,,No,,87
+Clark,12,Constitutional Amendment E,,Yes,,96
+Clark,12,Constitutional Amendment E,,No,,89
+Clark,12,Constitutional Amendment F,,Yes,,60
+Clark,12,Constitutional Amendment F,,No,,52
+Clark,12,Constitutional Amendment G,,Yes,,27
+Clark,12,Constitutional Amendment G,,No,,77
+Clark,12,Constitutional Amendment H,,Yes,,54
+Clark,12,Constitutional Amendment H,,No,,72
+Clark,13,Constitutional Amendment E,,Yes,,48
+Clark,13,Constitutional Amendment E,,No,,122
+Clark,13,Constitutional Amendment F,,Yes,,94
+Clark,13,Constitutional Amendment F,,No,,80
+Clark,13,Constitutional Amendment G,,Yes,,48
+Clark,13,Constitutional Amendment G,,No,,124
+Clark,13,Constitutional Amendment H,,Yes,,50
+Clark,13,Constitutional Amendment H,,No,,120
+Clark,1,Initiated Measure 28,,Yes,,32
+Clark,1,Initiated Measure 28,,No,,111
+Clark,1,Initiated Measure 29,,Yes,,15
+Clark,1,Initiated Measure 29,,No,,102
+Clark,1,Referred Law 21,,Yes,,38
+Clark,1,Referred Law 21,,No,,104
+Clark,2,Initiated Measure 28,,Yes,,15
+Clark,2,Initiated Measure 28,,No,,102
+Clark,2,Initiated Measure 29,,Yes,,25
+Clark,2,Initiated Measure 29,,No,,90
+Clark,2,Referred Law 21,,Yes,,37
+Clark,2,Referred Law 21,,No,,81
+Clark,3,Initiated Measure 28,,Yes,,23
+Clark,3,Initiated Measure 28,,No,,77
+Clark,3,Initiated Measure 29,,Yes,,33
+Clark,3,Initiated Measure 29,,No,,61
+Clark,3,Referred Law 21,,Yes,,30
+Clark,3,Referred Law 21,,No,,87
+Clark,4,Initiated Measure 28,,Yes,,24
+Clark,4,Initiated Measure 28,,No,,77
+Clark,4,Initiated Measure 29,,Yes,,30
+Clark,4,Initiated Measure 29,,No,,72
+Clark,4,Referred Law 21,,Yes,,27
+Clark,4,Referred Law 21,,No,,70
+Clark,5,Initiated Measure 28,,Yes,,23
+Clark,5,Initiated Measure 28,,No,,80
+Clark,5,Initiated Measure 29,,Yes,,33
+Clark,5,Initiated Measure 29,,No,,47
+Clark,5,Referred Law 21,,Yes,,44
+Clark,5,Referred Law 21,,No,,68
+Clark,6,Initiated Measure 28,,Yes,,36
+Clark,6,Initiated Measure 28,,No,,153
+Clark,6,Initiated Measure 29,,Yes,,53
+Clark,6,Initiated Measure 29,,No,,138
+Clark,6,Referred Law 21,,Yes,,74
+Clark,6,Referred Law 21,,No,,111
+Clark,7,Initiated Measure 28,,Yes,,32
+Clark,7,Initiated Measure 28,,No,,131
+Clark,7,Initiated Measure 29,,Yes,,58
+Clark,7,Initiated Measure 29,,No,,108
+Clark,7,Referred Law 21,,Yes,,44
+Clark,7,Referred Law 21,,No,,81
+Clark,8,Initiated Measure 28,,Yes,,50
+Clark,8,Initiated Measure 28,,No,,129
+Clark,8,Initiated Measure 29,,Yes,,61
+Clark,8,Initiated Measure 29,,No,,104
+Clark,8,Referred Law 21,,Yes,,57
+Clark,8,Referred Law 21,,No,,64
+Clark,9,Initiated Measure 28,,Yes,,18
+Clark,9,Initiated Measure 28,,No,,87
+Clark,9,Initiated Measure 29,,Yes,,31
+Clark,9,Initiated Measure 29,,No,,65
+Clark,9,Referred Law 21,,Yes,,52
+Clark,9,Referred Law 21,,No,,81
+Clark,10,Initiated Measure 28,,Yes,,59
+Clark,10,Initiated Measure 28,,No,,119
+Clark,10,Initiated Measure 29,,Yes,,77
+Clark,10,Initiated Measure 29,,No,,102
+Clark,10,Referred Law 21,,Yes,,58
+Clark,10,Referred Law 21,,No,,117
+Clark,11,Initiated Measure 28,,Yes,,33
+Clark,11,Initiated Measure 28,,No,,93
+Clark,11,Initiated Measure 29,,Yes,,57
+Clark,11,Initiated Measure 29,,No,,116
+Clark,11,Referred Law 21,,Yes,,48
+Clark,11,Referred Law 21,,No,,85
+Clark,12,Initiated Measure 28,,Yes,,36
+Clark,12,Initiated Measure 28,,No,,134
+Clark,12,Initiated Measure 29,,Yes,,53
+Clark,12,Initiated Measure 29,,No,,120
+Clark,12,Referred Law 21,,Yes,,57
+Clark,12,Referred Law 21,,No,,115
+Clark,13,Initiated Measure 28,,Yes,,36
+Clark,13,Initiated Measure 28,,No,,134
+Clark,13,Initiated Measure 29,,Yes,,53
+Clark,13,Initiated Measure 29,,No,,120
+Clark,13,Referred Law 21,,Yes,,57
+Clark,13,Referred Law 21,,No,,115

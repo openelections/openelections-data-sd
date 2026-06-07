@@ -1,0 +1,228 @@
+county,precinct,office,district,candidate,party,votes
+Lyman,01,President,,Kamala D. Harris and Tim Walz,DEM,8
+Lyman,01,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lyman,01,President,,Donald J. Trump and JD Vance,REP,64
+Lyman,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Lyman,04,President,,Kamala D. Harris and Tim Walz,DEM,88
+Lyman,04,President,,Chase Oliver and Mike ter Maat,LIB,3
+Lyman,04,President,,Donald J. Trump and JD Vance,REP,211
+Lyman,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Lyman,06,President,,Kamala D. Harris and Tim Walz,DEM,32
+Lyman,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lyman,06,President,,Donald J. Trump and JD Vance,REP,108
+Lyman,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lyman,07,President,,Kamala D. Harris and Tim Walz,DEM,177
+Lyman,07,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lyman,07,President,,Donald J. Trump and JD Vance,REP,207
+Lyman,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Lyman,09,President,,Kamala D. Harris and Tim Walz,DEM,35
+Lyman,09,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lyman,09,President,,Donald J. Trump and JD Vance,REP,208
+Lyman,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lyman,12,President,,Kamala D. Harris and Tim Walz,DEM,66
+Lyman,12,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lyman,12,President,,Donald J. Trump and JD Vance,REP,292
+Lyman,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Lyman,13,President,,Kamala D. Harris and Tim Walz,DEM,16
+Lyman,13,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lyman,13,President,,Donald J. Trump and JD Vance,REP,83
+Lyman,13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Lyman,1,U.S. House,1,Sheryl Johnson,DEM,8
+Lyman,1,U.S. House,1,Dusty Johnson,REP,52
+Lyman,4,U.S. House,1,Sheryl Johnson,DEM,62
+Lyman,4,U.S. House,1,Dusty Johnson,REP,246
+Lyman,6,U.S. House,1,Sheryl Johnson,DEM,26
+Lyman,6,U.S. House,1,Dusty Johnson,REP,117
+Lyman,7,U.S. House,1,Sheryl Johnson,DEM,139
+Lyman,7,U.S. House,1,Dusty Johnson,REP,68
+Lyman,9,U.S. House,1,Sheryl Johnson,DEM,24
+Lyman,9,U.S. House,1,Dusty Johnson,REP,217
+Lyman,12,U.S. House,1,Sheryl Johnson,DEM,45
+Lyman,12,U.S. House,1,Dusty Johnson,REP,319
+Lyman,13,U.S. House,1,Sheryl Johnson,DEM,14
+Lyman,13,U.S. House,1,Dusty Johnson,REP,80
+Lyman,01,U.S. House,1,Sheryl Johnson,DEM,8
+Lyman,01,U.S. House,1,Dusty Johnson,REP,52
+Lyman,04,U.S. House,1,Sheryl Johnson,DEM,62
+Lyman,04,U.S. House,1,Dusty Johnson,REP,246
+Lyman,06,U.S. House,1,Sheryl Johnson,DEM,26
+Lyman,06,U.S. House,1,Dusty Johnson,REP,117
+Lyman,07,U.S. House,1,Sheryl Johnson,DEM,139
+Lyman,07,U.S. House,1,Dusty Johnson,REP,68
+Lyman,09,U.S. House,1,Sheryl Johnson,DEM,24
+Lyman,09,U.S. House,1,Dusty Johnson,REP,217
+Lyman,01,Public Utilities Commissioner,,Forrest Wilson,DEM,11
+Lyman,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Lyman,01,Public Utilities Commissioner,,Kristie Fiegen,REP,48
+Lyman,04,Public Utilities Commissioner,,Forrest Wilson,DEM,66
+Lyman,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Lyman,04,Public Utilities Commissioner,,Kristie Fiegen,REP,213
+Lyman,06,Public Utilities Commissioner,,Forrest Wilson,DEM,26
+Lyman,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Lyman,06,Public Utilities Commissioner,,Kristie Fiegen,REP,109
+Lyman,07,Public Utilities Commissioner,,Forrest Wilson,DEM,157
+Lyman,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Lyman,07,Public Utilities Commissioner,,Kristie Fiegen,REP,27
+Lyman,09,Public Utilities Commissioner,,Forrest Wilson,DEM,76
+Lyman,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Lyman,09,Public Utilities Commissioner,,Kristie Fiegen,REP,197
+Lyman,12,Public Utilities Commissioner,,Forrest Wilson,DEM,47
+Lyman,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Lyman,12,Public Utilities Commissioner,,Kristie Fiegen,REP,291
+Lyman,13,Public Utilities Commissioner,,Forrest Wilson,DEM,9
+Lyman,13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Lyman,13,Public Utilities Commissioner,,Kristie Fiegen,REP,83
+Lyman,01,State Senate,26,Shawn Bordeaux,DEM,13
+Lyman,01,State Senate,26,Tamara Grove,REP,47
+Lyman,04,State Senate,26,Shawn Bordeaux,DEM,90
+Lyman,04,State Senate,26,Tamara Grove,REP,201
+Lyman,06,State Senate,26,Shawn Bordeaux,DEM,32
+Lyman,06,State Senate,26,Tamara Grove,REP,107
+Lyman,07,State Senate,26,Shawn Bordeaux,DEM,166
+Lyman,07,State Senate,26,Tamara Grove,REP,44
+Lyman,09,State Senate,26,Shawn Bordeaux,DEM,40
+Lyman,09,State Senate,26,Tamara Grove,REP,196
+Lyman,12,State Senate,26,Shawn Bordeaux,DEM,73
+Lyman,12,State Senate,26,Tamara Grove,REP,284
+Lyman,13,State Senate,26,Shawn Bordeaux,DEM,18
+Lyman,13,State Senate,26,Tamara Grove,REP,76
+Lyman,01,State House,26B,Rebecca Reimer,REP,33
+Lyman,01,State House,26B,David Reis,IND,30
+Lyman,04,State House,26B,Rebecca Reimer,REP,187
+Lyman,04,State House,26B,David Reis,IND,117
+Lyman,06,State House,26B,Rebecca Reimer,REP,71
+Lyman,06,State House,26B,David Reis,IND,73
+Lyman,07,State House,26B,Rebecca Reimer,REP,42
+Lyman,07,State House,26B,David Reis,IND,153
+Lyman,09,State House,26B,Rebecca Reimer,REP,175
+Lyman,09,State House,26B,David Reis,IND,69
+Lyman,12,State House,26B,Rebecca Reimer,REP,250
+Lyman,12,State House,26B,David Reis,IND,111
+Lyman,13,State House,26B,Rebecca Reimer,REP,59
+Lyman,13,State House,26B,David Reis,IND,38
+Lyman,01,Supreme Court Retention,5,Yes,,41
+Lyman,01,Supreme Court Retention,5,No,,9
+Lyman,04,Supreme Court Retention,5,Yes,,205
+Lyman,04,Supreme Court Retention,5,No,,67
+Lyman,06,Supreme Court Retention,5,Yes,,101
+Lyman,06,Supreme Court Retention,5,No,,25
+Lyman,07,Supreme Court Retention,5,Yes,,91
+Lyman,07,Supreme Court Retention,5,No,,98
+Lyman,09,Supreme Court Retention,5,Yes,,151
+Lyman,09,Supreme Court Retention,5,No,,55
+Lyman,12,Supreme Court Retention,5,Yes,,258
+Lyman,12,Supreme Court Retention,5,No,,67
+Lyman,13,Supreme Court Retention,5,Yes,,67
+Lyman,13,Supreme Court Retention,5,No,,16
+Lyman,01,Supreme Court Retention,,Yes,,41
+Lyman,01,Supreme Court Retention,,No,,9
+Lyman,04,Supreme Court Retention,,Yes,,205
+Lyman,04,Supreme Court Retention,,No,,67
+Lyman,06,Supreme Court Retention,,Yes,,101
+Lyman,06,Supreme Court Retention,,No,,25
+Lyman,07,Supreme Court Retention,,Yes,,91
+Lyman,07,Supreme Court Retention,,No,,98
+Lyman,09,Supreme Court Retention,,Yes,,151
+Lyman,09,Supreme Court Retention,,No,,55
+Lyman,12,Supreme Court Retention,,Yes,,258
+Lyman,12,Supreme Court Retention,,No,,67
+Lyman,13,Supreme Court Retention,,Yes,,67
+Lyman,13,Supreme Court Retention,,No,,16
+Lyman,01,Constitutional Amendment E,,Yes,,10
+Lyman,01,Constitutional Amendment E,,No,,60
+Lyman,01,Constitutional Amendment F,,Yes,,31
+Lyman,01,Constitutional Amendment F,,No,,38
+Lyman,01,Constitutional Amendment G,,Yes,,11
+Lyman,01,Constitutional Amendment G,,No,,60
+Lyman,01,Constitutional Amendment H,,Yes,,9
+Lyman,01,Constitutional Amendment H,,No,,61
+Lyman,04,Constitutional Amendment E,,Yes,,111
+Lyman,04,Constitutional Amendment E,,No,,195
+Lyman,04,Constitutional Amendment F,,Yes,,165
+Lyman,04,Constitutional Amendment F,,No,,141
+Lyman,04,Constitutional Amendment G,,Yes,,101
+Lyman,04,Constitutional Amendment G,,No,,208
+Lyman,04,Constitutional Amendment H,,Yes,,85
+Lyman,04,Constitutional Amendment H,,No,,219
+Lyman,06,Constitutional Amendment E,,Yes,,43
+Lyman,06,Constitutional Amendment E,,No,,103
+Lyman,06,Constitutional Amendment F,,Yes,,75
+Lyman,06,Constitutional Amendment F,,No,,68
+Lyman,06,Constitutional Amendment G,,Yes,,39
+Lyman,06,Constitutional Amendment G,,No,,105
+Lyman,06,Constitutional Amendment H,,Yes,,38
+Lyman,06,Constitutional Amendment H,,No,,104
+Lyman,07,Constitutional Amendment E,,Yes,,118
+Lyman,07,Constitutional Amendment E,,No,,87
+Lyman,07,Constitutional Amendment F,,Yes,,80
+Lyman,07,Constitutional Amendment F,,No,,129
+Lyman,07,Constitutional Amendment G,,Yes,,136
+Lyman,07,Constitutional Amendment G,,No,,71
+Lyman,07,Constitutional Amendment H,,Yes,,97
+Lyman,07,Constitutional Amendment H,,No,,99
+Lyman,09,Constitutional Amendment E,,Yes,,63
+Lyman,09,Constitutional Amendment E,,No,,177
+Lyman,09,Constitutional Amendment F,,Yes,,121
+Lyman,09,Constitutional Amendment F,,No,,119
+Lyman,09,Constitutional Amendment G,,Yes,,64
+Lyman,09,Constitutional Amendment G,,No,,177
+Lyman,09,Constitutional Amendment H,,Yes,,53
+Lyman,09,Constitutional Amendment H,,No,,182
+Lyman,12,Constitutional Amendment E,,Yes,,104
+Lyman,12,Constitutional Amendment E,,No,,269
+Lyman,12,Constitutional Amendment F,,Yes,,173
+Lyman,12,Constitutional Amendment F,,No,,195
+Lyman,12,Constitutional Amendment G,,Yes,,102
+Lyman,12,Constitutional Amendment G,,No,,267
+Lyman,12,Constitutional Amendment H,,Yes,,86
+Lyman,12,Constitutional Amendment H,,No,,283
+Lyman,13,Constitutional Amendment E,,Yes,,28
+Lyman,13,Constitutional Amendment E,,No,,72
+Lyman,13,Constitutional Amendment F,,Yes,,43
+Lyman,13,Constitutional Amendment F,,No,,54
+Lyman,13,Constitutional Amendment G,,Yes,,27
+Lyman,13,Constitutional Amendment G,,No,,74
+Lyman,13,Constitutional Amendment H,,Yes,,17
+Lyman,13,Constitutional Amendment H,,No,,78
+Lyman,01,Initiated Measure 28,,Yes,,6
+Lyman,01,Initiated Measure 28,,No,,65
+Lyman,01,Initiated Measure 29,,Yes,,61
+Lyman,01,Initiated Measure 29,,No,,9
+Lyman,01,Referred Law 21,,Yes,,9
+Lyman,01,Referred Law 21,,No,,60
+Lyman,04,Initiated Measure 28,,Yes,,46
+Lyman,04,Initiated Measure 28,,No,,259
+Lyman,04,Initiated Measure 29,,Yes,,115
+Lyman,04,Initiated Measure 29,,No,,110
+Lyman,04,Referred Law 21,,Yes,,110
+Lyman,04,Referred Law 21,,No,,190
+Lyman,06,Initiated Measure 28,,Yes,,15
+Lyman,06,Initiated Measure 28,,No,,127
+Lyman,06,Initiated Measure 29,,Yes,,52
+Lyman,06,Initiated Measure 29,,No,,92
+Lyman,06,Referred Law 21,,Yes,,50
+Lyman,06,Referred Law 21,,No,,88
+Lyman,07,Initiated Measure 28,,Yes,,104
+Lyman,07,Initiated Measure 28,,No,,102
+Lyman,07,Initiated Measure 29,,Yes,,162
+Lyman,07,Initiated Measure 29,,No,,46
+Lyman,07,Referred Law 21,,Yes,,106
+Lyman,07,Referred Law 21,,No,,97
+Lyman,09,Initiated Measure 28,,Yes,,31
+Lyman,09,Initiated Measure 28,,No,,204
+Lyman,09,Initiated Measure 29,,Yes,,75
+Lyman,09,Initiated Measure 29,,No,,166
+Lyman,09,Referred Law 21,,Yes,,52
+Lyman,09,Referred Law 21,,No,,179
+Lyman,12,Initiated Measure 28,,Yes,,61
+Lyman,12,Initiated Measure 28,,No,,307
+Lyman,12,Initiated Measure 29,,Yes,,119
+Lyman,12,Initiated Measure 29,,No,,253
+Lyman,12,Referred Law 21,,Yes,,108
+Lyman,12,Referred Law 21,,No,,254
+Lyman,13,Initiated Measure 28,,Yes,,18
+Lyman,13,Initiated Measure 28,,No,,80
+Lyman,13,Initiated Measure 29,,Yes,,33
+Lyman,13,Initiated Measure 29,,No,,67
+Lyman,13,Referred Law 21,,Yes,,28
+Lyman,13,Referred Law 21,,No,,67

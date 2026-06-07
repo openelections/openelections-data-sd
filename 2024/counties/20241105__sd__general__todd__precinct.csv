@@ -1,0 +1,203 @@
+county,precinct,office,district,candidate,party,votes
+Todd,Bordeaux,President,,Kamala D. Harris and Tim Walz,DEM,50
+Todd,Bordeaux,President,,Chase Oliver and Mike ter Maat,LIB,0
+Todd,Bordeaux,President,,Donald J. Trump and JD Vance,REP,16
+Todd,Bordeaux,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Todd,Fairgrounds-10,President,,Kamala D. Harris and Tim Walz,DEM,44
+Todd,Fairgrounds-10,President,,Chase Oliver and Mike ter Maat,LIB,0
+Todd,Fairgrounds-10,President,,Donald J. Trump and JD Vance,REP,13
+Todd,Fairgrounds-10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Todd,Jeanette,President,,Kamala D. Harris and Tim Walz,DEM,11
+Todd,Jeanette,President,,Chase Oliver and Mike ter Maat,LIB,1
+Todd,Jeanette,President,,Donald J. Trump and JD Vance,REP,72
+Todd,Jeanette,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Todd,Lakeview,President,,Kamala D. Harris and Tim Walz,DEM,30
+Todd,Lakeview,President,,Chase Oliver and Mike ter Maat,LIB,1
+Todd,Lakeview,President,,Donald J. Trump and JD Vance,REP,88
+Todd,Lakeview,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Todd,Mission-N. Antelope,President,,Kamala D. Harris and Tim Walz,DEM,344
+Todd,Mission-N. Antelope,President,,Chase Oliver and Mike ter Maat,LIB,5
+Todd,Mission-N. Antelope,President,,Donald J. Trump and JD Vance,REP,88
+Todd,Mission-N. Antelope,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Todd,Okreek,President,,Kamala D. Harris and Tim Walz,DEM,64
+Todd,Okreek,President,,Chase Oliver and Mike ter Maat,LIB,0
+Todd,Okreek,President,,Donald J. Trump and JD Vance,REP,36
+Todd,Okreek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Todd,Parmelee,President,,Kamala D. Harris and Tim Walz,DEM,224
+Todd,Parmelee,President,,Chase Oliver and Mike ter Maat,LIB,1
+Todd,Parmelee,President,,Donald J. Trump and JD Vance,REP,31
+Todd,Parmelee,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Todd,Rosebud,President,,Kamala D. Harris and Tim Walz,DEM,360
+Todd,Rosebud,President,,Chase Oliver and Mike ter Maat,LIB,4
+Todd,Rosebud,President,,Donald J. Trump and JD Vance,REP,52
+Todd,Rosebud,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Todd,S. Antelope,President,,Kamala D. Harris and Tim Walz,DEM,191
+Todd,S. Antelope,President,,Chase Oliver and Mike ter Maat,LIB,1
+Todd,S. Antelope,President,,Donald J. Trump and JD Vance,REP,59
+Todd,S. Antelope,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Todd,Saint Francis,President,,Kamala D. Harris and Tim Walz,DEM,252
+Todd,Saint Francis,President,,Chase Oliver and Mike ter Maat,LIB,4
+Todd,Saint Francis,President,,Donald J. Trump and JD Vance,REP,42
+Todd,Saint Francis,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Todd,Bordeaux,U.S. House,1,Sheryl Johnson,DEM,40
+Todd,Bordeaux,U.S. House,1,Dusty Johnson,REP,25
+Todd,Fairgrounds-10,U.S. House,1,Sheryl Johnson,DEM,35
+Todd,Fairgrounds-10,U.S. House,1,Dusty Johnson,REP,24
+Todd,Jeanette,U.S. House,1,Sheryl Johnson,DEM,8
+Todd,Jeanette,U.S. House,1,Dusty Johnson,REP,64
+Todd,Lakeview,U.S. House,1,Sheryl Johnson,DEM,24
+Todd,Lakeview,U.S. House,1,Dusty Johnson,REP,98
+Todd,Mission-N. Antelope,U.S. House,1,Sheryl Johnson,DEM,313
+Todd,Mission-N. Antelope,U.S. House,1,Dusty Johnson,REP,133
+Todd,Okreek,U.S. House,1,Sheryl Johnson,DEM,59
+Todd,Okreek,U.S. House,1,Dusty Johnson,REP,41
+Todd,Parmelee,U.S. House,1,Sheryl Johnson,DEM,201
+Todd,Parmelee,U.S. House,1,Dusty Johnson,REP,57
+Todd,Rosebud,U.S. House,1,Sheryl Johnson,DEM,332
+Todd,Rosebud,U.S. House,1,Dusty Johnson,REP,88
+Todd,S. Antelope,U.S. House,1,Sheryl Johnson,DEM,171
+Todd,S. Antelope,U.S. House,1,Dusty Johnson,REP,78
+Todd,Saint Francis,U.S. House,1,Sheryl Johnson,DEM,224
+Todd,Saint Francis,U.S. House,1,Dusty Johnson,REP,82
+Todd,Bordeaux,Public Utilities Commissioner,,Forrest Wilson,DEM,41
+Todd,Bordeaux,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Todd,Bordeaux,Public Utilities Commissioner,,Kristie Fiegen,REP,15
+Todd,Fairgrounds-10,Public Utilities Commissioner,,Forrest Wilson,DEM,40
+Todd,Fairgrounds-10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Todd,Fairgrounds-10,Public Utilities Commissioner,,Kristie Fiegen,REP,14
+Todd,Jeanette,Public Utilities Commissioner,,Forrest Wilson,DEM,10
+Todd,Jeanette,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
+Todd,Jeanette,Public Utilities Commissioner,,Kristie Fiegen,REP,72
+Todd,Lakeview,Public Utilities Commissioner,,Forrest Wilson,DEM,23
+Todd,Lakeview,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Todd,Lakeview,Public Utilities Commissioner,,Kristie Fiegen,REP,90
+Todd,Mission-N. Antelope,Public Utilities Commissioner,,Forrest Wilson,DEM,329
+Todd,Mission-N. Antelope,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
+Todd,Mission-N. Antelope,Public Utilities Commissioner,,Kristie Fiegen,REP,77
+Todd,Okreek,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Todd,Okreek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Todd,Okreek,Public Utilities Commissioner,,Kristie Fiegen,REP,30
+Todd,Parmelee,Public Utilities Commissioner,,Forrest Wilson,DEM,200
+Todd,Parmelee,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
+Todd,Parmelee,Public Utilities Commissioner,,Kristie Fiegen,REP,30
+Todd,Rosebud,Public Utilities Commissioner,,Forrest Wilson,DEM,343
+Todd,Rosebud,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Todd,Rosebud,Public Utilities Commissioner,,Kristie Fiegen,REP,48
+Todd,S. Antelope,Public Utilities Commissioner,,Forrest Wilson,DEM,181
+Todd,S. Antelope,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Todd,S. Antelope,Public Utilities Commissioner,,Kristie Fiegen,REP,52
+Todd,Saint Francis,Public Utilities Commissioner,,Forrest Wilson,DEM,232
+Todd,Saint Francis,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Todd,Saint Francis,Public Utilities Commissioner,,Kristie Fiegen,REP,47
+Todd,OKreek,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Todd,OKreek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Todd,OKreek,Public Utilities Commissioner,,Kristie Fiegen,REP,30
+Todd,Bordeaux,State Senate,26,Shawn Bordeaux,DEM,45
+Todd,Bordeaux,State Senate,26,Tamara Grove,REP,19
+Todd,Fairgrounds-10,State Senate,26,Shawn Bordeaux,DEM,41
+Todd,Fairgrounds-10,State Senate,26,Tamara Grove,REP,16
+Todd,Jeanette,State Senate,26,Shawn Bordeaux,DEM,17
+Todd,Jeanette,State Senate,26,Tamara Grove,REP,67
+Todd,Lakeview,State Senate,26,Shawn Bordeaux,DEM,24
+Todd,Lakeview,State Senate,26,Tamara Grove,REP,98
+Todd,Mission-N. Antelope,State Senate,26,Shawn Bordeaux,DEM,320
+Todd,Mission-N. Antelope,State Senate,26,Tamara Grove,REP,125
+Todd,OKreek,State Senate,26,Shawn Bordeaux,DEM,58
+Todd,OKreek,State Senate,26,Tamara Grove,REP,40
+Todd,Parmelee,State Senate,26,Shawn Bordeaux,DEM,197
+Todd,Parmelee,State Senate,26,Tamara Grove,REP,53
+Todd,Rosebud,State Senate,26,Shawn Bordeaux,DEM,350
+Todd,Rosebud,State Senate,26,Tamara Grove,REP,71
+Todd,S. Antelope,State Senate,26,Shawn Bordeaux,DEM,175
+Todd,S. Antelope,State Senate,26,Tamara Grove,REP,78
+Todd,Saint Francis,State Senate,26,Shawn Bordeaux,DEM,237
+Todd,Saint Francis,State Senate,26,Tamara Grove,REP,64
+Todd,Bordeaux,State Senate,26,Tamara St. John,REP,19
+Todd,Fairgrounds-10,State Senate,26,Tamara St. John,REP,16
+Todd,Jeanette,State Senate,26,Tamara St. John,REP,67
+Todd,Lakeview,State Senate,26,Tamara St. John,REP,98
+Todd,Mission-N. Antelope,State Senate,26,Tamara St. John,REP,125
+Todd,Okreek,State Senate,26,Shawn Bordeaux,DEM,58
+Todd,Okreek,State Senate,26,Tamara St. John,REP,40
+Todd,Parmelee,State Senate,26,Tamara St. John,REP,53
+Todd,Rosebud,State Senate,26,Tamara St. John,REP,71
+Todd,S. Antelope,State Senate,26,Tamara St. John,REP,78
+Todd,Saint Francis,State Senate,26,Tamara St. John,REP,64
+Todd,Bordeaux,State House,26A,Eric E. Emery,DEM,37
+Todd,Bordeaux,State House,26A,Ron Frederick,REP,14
+Todd,Bordeaux,State House,26A,William Craig Lafferty,IND,14
+Todd,Fairgrounds-10,State House,26A,Eric E. Emery,DEM,38
+Todd,Fairgrounds-10,State House,26A,Ron Frederick,REP,12
+Todd,Fairgrounds-10,State House,26A,William Craig Lafferty,IND,9
+Todd,Jeanette,State House,26A,Eric E. Emery,DEM,10
+Todd,Jeanette,State House,26A,Ron Frederick,REP,63
+Todd,Jeanette,State House,26A,William Craig Lafferty,IND,10
+Todd,Lakeview,State House,26A,Eric E. Emery,DEM,23
+Todd,Lakeview,State House,26A,Ron Frederick,REP,73
+Todd,Lakeview,State House,26A,William Craig Lafferty,IND,21
+Todd,Mission-N. Antelope,State House,26A,Eric E. Emery,DEM,279
+Todd,Mission-N. Antelope,State House,26A,Ron Frederick,REP,77
+Todd,Mission-N. Antelope,State House,26A,William Craig Lafferty,IND,89
+Todd,Okreek,State House,26A,Eric E. Emery,DEM,48
+Todd,Okreek,State House,26A,Ron Frederick,REP,35
+Todd,Okreek,State House,26A,William Craig Lafferty,IND,16
+Todd,Parmelee,State House,26A,Eric E. Emery,DEM,175
+Todd,Parmelee,State House,26A,Ron Frederick,REP,24
+Todd,Parmelee,State House,26A,William Craig Lafferty,IND,61
+Todd,Rosebud,State House,26A,Eric E. Emery,DEM,303
+Todd,Rosebud,State House,26A,Ron Frederick,REP,34
+Todd,Rosebud,State House,26A,William Craig Lafferty,IND,88
+Todd,S. Antelope,State House,26A,Eric E. Emery,DEM,153
+Todd,S. Antelope,State House,26A,Ron Frederick,REP,50
+Todd,S. Antelope,State House,26A,William Craig Lafferty,IND,54
+Todd,Saint Francis,State House,26A,Eric E. Emery,DEM,221
+Todd,Saint Francis,State House,26A,Ron Frederick,REP,29
+Todd,Saint Francis,State House,26A,William Craig Lafferty,IND,56
+Todd,Bordeaux,Supreme Court Retention,,Scott P. Myren,YES,32
+Todd,Bordeaux,Supreme Court Retention,,Scott P. Myren,NO,32
+Todd,Fairgrounds-10,Supreme Court Retention,,Scott P. Myren,YES,31
+Todd,Fairgrounds-10,Supreme Court Retention,,Scott P. Myren,NO,17
+Todd,Jeanette,Supreme Court Retention,,Scott P. Myren,YES,47
+Todd,Jeanette,Supreme Court Retention,,Scott P. Myren,NO,16
+Todd,Lakeview,Supreme Court Retention,,Scott P. Myren,YES,73
+Todd,Lakeview,Supreme Court Retention,,Scott P. Myren,NO,28
+Todd,Mission-N. Antelope,Supreme Court Retention,,Scott P. Myren,YES,205
+Todd,Mission-N. Antelope,Supreme Court Retention,,Scott P. Myren,NO,185
+Todd,OKreek,Supreme Court Retention,,Scott P. Myren,YES,44
+Todd,OKreek,Supreme Court Retention,,Scott P. Myren,NO,44
+Todd,Parmelee,Supreme Court Retention,,Scott P. Myren,YES,109
+Todd,Parmelee,Supreme Court Retention,,Scott P. Myren,NO,129
+Todd,Rosebud,Supreme Court Retention,,Scott P. Myren,YES,169
+Todd,Rosebud,Supreme Court Retention,,Scott P. Myren,NO,200
+Todd,S. Antelope,Supreme Court Retention,,Scott P. Myren,YES,113
+Todd,S. Antelope,Supreme Court Retention,,Scott P. Myren,NO,113
+Todd,Saint Francis,Supreme Court Retention,,Scott P. Myren,YES,120
+Todd,Saint Francis,Supreme Court Retention,,Scott P. Myren,NO,144
+Todd,Bordeaux,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,YES,32
+Todd,Bordeaux,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,NO,34
+Todd,Bordeaux,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,YES,27
+Todd,Bordeaux,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,NO,39
+Todd,Bordeaux,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,38
+Todd,Bordeaux,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,28
+Todd,Constitutional Amendment H,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,37
+Todd,Bordeaux,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,32
+Todd,Bordeaux,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,YES,33
+Todd,Bordeaux,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,NO,32
+Todd,Bordeaux,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",YES,48
+Todd,Bordeaux,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",NO,19
+Todd,Bordeaux,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",YES,22
+Todd,Bordeaux,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",NO,43
+Todd,Fairgrounds-10,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,YES,41
+Todd,Fairgrounds-10,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,NO,19
+Todd,Fairgrounds-10,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,YES,30
+Todd,Fairgrounds-10,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,NO,29
+Todd,Fairgrounds-10,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,24
+Todd,Fairgrounds-10,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,18
+Todd,Fairgrounds-10,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,33
+Todd,Fairgrounds-10,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,25
+Todd,Fairgrounds-10,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,YES,29
+Todd,Fairgrounds-10,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,NO,44
+Todd,Fairgrounds-10,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",YES,46
+Todd,Fairgrounds-10,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",NO,10
+Todd,Fairgrounds-10,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",YES,27
+Todd,Fairgrounds-10,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",NO,31

@@ -1,0 +1,271 @@
+county,precinct,office,district,candidate,party,votes
+Beadle,1,President,,Kamala D. Harris and Tim Walz,DEM,354
+Beadle,1,President,,Chase Oliver and Mike ter Maat,LIB,5
+Beadle,1,President,,Donald J. Trump and JD Vance,REP,708
+Beadle,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,72
+Beadle,2,President,,Kamala D. Harris and Tim Walz,DEM,259
+Beadle,2,President,,Chase Oliver and Mike ter Maat,LIB,7
+Beadle,2,President,,Donald J. Trump and JD Vance,REP,606
+Beadle,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,18
+Beadle,3,President,,Kamala D. Harris and Tim Walz,DEM,255
+Beadle,3,President,,Chase Oliver and Mike ter Maat,LIB,7
+Beadle,3,President,,Donald J. Trump and JD Vance,REP,501
+Beadle,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
+Beadle,4,President,,Kamala D. Harris and Tim Walz,DEM,202
+Beadle,4,President,,Chase Oliver and Mike ter Maat,LIB,8
+Beadle,4,President,,Donald J. Trump and JD Vance,REP,499
+Beadle,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,15
+Beadle,5,President,,Kamala D. Harris and Tim Walz,DEM,412
+Beadle,5,President,,Chase Oliver and Mike ter Maat,LIB,8
+Beadle,5,President,,Donald J. Trump and JD Vance,REP,764
+Beadle,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,26
+Beadle,6,President,,Kamala D. Harris and Tim Walz,DEM,219
+Beadle,6,President,,Chase Oliver and Mike ter Maat,LIB,1
+Beadle,6,President,,Donald J. Trump and JD Vance,REP,532
+Beadle,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,19
+Beadle,8,President,,Kamala D. Harris and Tim Walz,DEM,39
+Beadle,8,President,,Chase Oliver and Mike ter Maat,LIB,0
+Beadle,8,President,,Donald J. Trump and JD Vance,REP,261
+Beadle,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Beadle,9,President,,Kamala D. Harris and Tim Walz,DEM,79
+Beadle,9,President,,Chase Oliver and Mike ter Maat,LIB,3
+Beadle,9,President,,Donald J. Trump and JD Vance,REP,223
+Beadle,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
+Beadle,7,President,,Kamala D. Harris and Tim Walz,DEM,175
+Beadle,7,President,,Chase Oliver and Mike ter Maat,LIB,5
+Beadle,7,President,,Donald J. Trump and JD Vance,REP,728
+Beadle,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,14
+Beadle,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Beadle,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
+Beadle,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Beadle,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Beadle,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Beadle,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Beadle,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Beadle,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Beadle,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Beadle,1,U.S. House,1,Sheryl Johnson,DEM,260
+Beadle,1,U.S. House,1,Dusty Johnson,REP,823
+Beadle,2,U.S. House,1,Sheryl Johnson,DEM,202
+Beadle,2,U.S. House,1,Dusty Johnson,REP,684
+Beadle,3,U.S. House,1,Sheryl Johnson,DEM,181
+Beadle,3,U.S. House,1,Dusty Johnson,REP,593
+Beadle,4,U.S. House,1,Sheryl Johnson,DEM,142
+Beadle,4,U.S. House,1,Dusty Johnson,REP,575
+Beadle,5,U.S. House,1,Sheryl Johnson,DEM,290
+Beadle,5,U.S. House,1,Dusty Johnson,REP,918
+Beadle,6,U.S. House,1,Sheryl Johnson,DEM,169
+Beadle,6,U.S. House,1,Dusty Johnson,REP,583
+Beadle,8,U.S. House,1,Sheryl Johnson,DEM,25
+Beadle,8,U.S. House,1,Dusty Johnson,REP,277
+Beadle,9,U.S. House,1,Sheryl Johnson,DEM,60
+Beadle,9,U.S. House,1,Dusty Johnson,REP,252
+Beadle,7,U.S. House,1,Sheryl Johnson,DEM,136
+Beadle,7,U.S. House,1,Dusty Johnson,REP,800
+Beadle,1,Public Utilities Commissioner,,Forrest Wilson,DEM,258
+Beadle,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,48
+Beadle,1,Public Utilities Commissioner,,Kristie Fiegen,REP,734
+Beadle,2,Public Utilities Commissioner,,Forrest Wilson,DEM,199
+Beadle,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,40
+Beadle,2,Public Utilities Commissioner,,Kristie Fiegen,REP,596
+Beadle,3,Public Utilities Commissioner,,Forrest Wilson,DEM,158
+Beadle,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Beadle,3,Public Utilities Commissioner,,Kristie Fiegen,REP,553
+Beadle,4,Public Utilities Commissioner,,Forrest Wilson,DEM,135
+Beadle,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Beadle,4,Public Utilities Commissioner,,Kristie Fiegen,REP,527
+Beadle,5,Public Utilities Commissioner,,Forrest Wilson,DEM,308
+Beadle,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,45
+Beadle,5,Public Utilities Commissioner,,Kristie Fiegen,REP,796
+Beadle,6,Public Utilities Commissioner,,Forrest Wilson,DEM,169
+Beadle,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,30
+Beadle,6,Public Utilities Commissioner,,Kristie Fiegen,REP,547
+Beadle,8,Public Utilities Commissioner,,Forrest Wilson,DEM,30
+Beadle,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Beadle,8,Public Utilities Commissioner,,Kristie Fiegen,REP,257
+Beadle,9,Public Utilities Commissioner,,Forrest Wilson,DEM,53
+Beadle,9,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Beadle,9,Public Utilities Commissioner,,Kristie Fiegen,REP,216
+Beadle,7,Public Utilities Commissioner,,Forrest Wilson,DEM,133
+Beadle,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
+Beadle,7,Public Utilities Commissioner,,Kristie Fiegen,REP,729
+Beadle,1,State Senate,22,Jim A. Schmidt,DEM,286
+Beadle,1,State Senate,22,David Wheeler,REP,777
+Beadle,2,State Senate,22,Jim A. Schmidt,DEM,236
+Beadle,2,State Senate,22,David Wheeler,REP,624
+Beadle,3,State Senate,22,Jim A. Schmidt,DEM,171
+Beadle,3,State Senate,22,David Wheeler,REP,578
+Beadle,4,State Senate,22,Jim A. Schmidt,DEM,171
+Beadle,4,State Senate,22,David Wheeler,REP,536
+Beadle,5,State Senate,22,Jim A. Schmidt,DEM,312
+Beadle,5,State Senate,22,David Wheeler,REP,873
+Beadle,6,State Senate,22,Jim A. Schmidt,DEM,188
+Beadle,6,State Senate,22,David Wheeler,REP,560
+Beadle,8,State Senate,22,Jim A. Schmidt,DEM,37
+Beadle,8,State Senate,22,David Wheeler,REP,259
+Beadle,9,State Senate,22,Jim A. Schmidt,DEM,73
+Beadle,9,State Senate,22,David Wheeler,REP,227
+Beadle,10,State Senate,22,Jim A. Schmidt,DEM,180
+Beadle,10,State Senate,22,David Wheeler,REP,717
+Beadle,1,State House,22,Kevin Van Diepen,REP,687
+Beadle,1,State House,22,Lana Greenfield,REP,548
+Beadle,2,State House,22,Kevin Van Diepen,REP,610
+Beadle,2,State House,22,Lana Greenfield,REP,438
+Beadle,3,State House,22,Kevin Van Diepen,REP,517
+Beadle,3,State House,22,Lana Greenfield,REP,400
+Beadle,4,State House,22,Kevin Van Diepen,REP,508
+Beadle,4,State House,22,Lana Greenfield,REP,379
+Beadle,5,State House,22,Kevin Van Diepen,REP,797
+Beadle,5,State House,22,Lana Greenfield,REP,591
+Beadle,6,State House,22,Kevin Van Diepen,REP,498
+Beadle,6,State House,22,Lana Greenfield,REP,408
+Beadle,7,State House,22,Kevin Van Diepen,REP,580
+Beadle,7,State House,22,Lana Greenfield,REP,552
+Beadle,8,State House,22,Kevin Van Diepen,REP,197
+Beadle,8,State House,22,Lana Greenfield,REP,202
+Beadle,9,State House,22,Kevin Van Diepen,REP,190
+Beadle,9,State House,22,Lana Greenfield,REP,142
+Beadle,1,Supreme Court Retention,5,Yes,,740
+Beadle,1,Supreme Court Retention,5,No,,193
+Beadle,2,Supreme Court Retention,5,Yes,,610
+Beadle,2,Supreme Court Retention,5,No,,125
+Beadle,3,Supreme Court Retention,5,Yes,,538
+Beadle,3,Supreme Court Retention,5,No,,107
+Beadle,4,Supreme Court Retention,5,Yes,,502
+Beadle,4,Supreme Court Retention,5,No,,94
+Beadle,5,Supreme Court Retention,5,Yes,,830
+Beadle,5,Supreme Court Retention,5,No,,190
+Beadle,6,Supreme Court Retention,5,Yes,,526
+Beadle,6,Supreme Court Retention,5,No,,132
+Beadle,8,Supreme Court Retention,5,Yes,,228
+Beadle,8,Supreme Court Retention,5,No,,27
+Beadle,9,Supreme Court Retention,5,Yes,,191
+Beadle,9,Supreme Court Retention,5,No,,41
+Beadle,7,Supreme Court Retention,5,Yes,,647
+Beadle,7,Supreme Court Retention,5,No,,148
+Beadle,1,Constitutional Amendment E,,Yes,,415
+Beadle,1,Constitutional Amendment E,,No,,659
+Beadle,1,Constitutional Amendment F,,Yes,,584
+Beadle,1,Constitutional Amendment F,,No,,495
+Beadle,1,Constitutional Amendment G,,Yes,,424
+Beadle,1,Constitutional Amendment G,,No,,662
+Beadle,1,Constitutional Amendment H,,Yes,,423
+Beadle,1,Constitutional Amendment H,,No,,640
+Beadle,2,Constitutional Amendment E,,Yes,,350
+Beadle,2,Constitutional Amendment E,,No,,526
+Beadle,2,Constitutional Amendment F,,Yes,,491
+Beadle,2,Constitutional Amendment F,,No,,387
+Beadle,2,Constitutional Amendment G,,Yes,,337
+Beadle,2,Constitutional Amendment G,,No,,540
+Beadle,2,Constitutional Amendment H,,Yes,,314
+Beadle,2,Constitutional Amendment H,,No,,542
+Beadle,3,Constitutional Amendment E,,Yes,,294
+Beadle,3,Constitutional Amendment E,,No,,472
+Beadle,3,Constitutional Amendment F,,Yes,,422
+Beadle,3,Constitutional Amendment F,,No,,350
+Beadle,3,Constitutional Amendment G,,Yes,,281
+Beadle,3,Constitutional Amendment G,,No,,498
+Beadle,3,Constitutional Amendment H,,Yes,,229
+Beadle,3,Constitutional Amendment H,,No,,527
+Beadle,4,Constitutional Amendment E,,Yes,,280
+Beadle,4,Constitutional Amendment E,,No,,437
+Beadle,4,Constitutional Amendment F,,Yes,,391
+Beadle,4,Constitutional Amendment F,,No,,321
+Beadle,4,Constitutional Amendment G,,Yes,,274
+Beadle,4,Constitutional Amendment G,,No,,449
+Beadle,4,Constitutional Amendment H,,Yes,,244
+Beadle,4,Constitutional Amendment H,,No,,450
+Beadle,5,Constitutional Amendment E,,Yes,,535
+Beadle,5,Constitutional Amendment E,,No,,675
+Beadle,5,Constitutional Amendment F,,Yes,,642
+Beadle,5,Constitutional Amendment F,,No,,556
+Beadle,5,Constitutional Amendment G,,Yes,,484
+Beadle,5,Constitutional Amendment G,,No,,737
+Beadle,5,Constitutional Amendment H,,Yes,,488
+Beadle,5,Constitutional Amendment H,,No,,689
+Beadle,6,Constitutional Amendment E,,Yes,,272
+Beadle,6,Constitutional Amendment E,,No,,496
+Beadle,6,Constitutional Amendment F,,Yes,,425
+Beadle,6,Constitutional Amendment F,,No,,339
+Beadle,6,Constitutional Amendment G,,Yes,,259
+Beadle,6,Constitutional Amendment G,,No,,512
+Beadle,6,Constitutional Amendment H,,Yes,,240
+Beadle,6,Constitutional Amendment H,,No,,509
+Beadle,8,Constitutional Amendment E,,Yes,,100
+Beadle,8,Constitutional Amendment E,,No,,199
+Beadle,8,Constitutional Amendment F,,Yes,,148
+Beadle,8,Constitutional Amendment F,,No,,147
+Beadle,8,Constitutional Amendment G,,Yes,,51
+Beadle,8,Constitutional Amendment G,,No,,248
+Beadle,8,Constitutional Amendment H,,Yes,,43
+Beadle,8,Constitutional Amendment H,,No,,248
+Beadle,9,Constitutional Amendment E,,Yes,,95
+Beadle,9,Constitutional Amendment E,,No,,212
+Beadle,9,Constitutional Amendment F,,Yes,,165
+Beadle,9,Constitutional Amendment F,,No,,143
+Beadle,9,Constitutional Amendment G,,Yes,,83
+Beadle,9,Constitutional Amendment G,,No,,229
+Beadle,9,Constitutional Amendment H,,Yes,,79
+Beadle,9,Constitutional Amendment H,,No,,218
+Beadle,7,Constitutional Amendment E,,Yes,,283
+Beadle,7,Constitutional Amendment E,,No,,650
+Beadle,7,Constitutional Amendment F,,Yes,,491
+Beadle,7,Constitutional Amendment F,,No,,432
+Beadle,7,Constitutional Amendment G,,Yes,,261
+Beadle,7,Constitutional Amendment G,,No,,668
+Beadle,7,Constitutional Amendment H,,Yes,,197
+Beadle,7,Constitutional Amendment H,,No,,708
+Beadle,1,Initiated Measure 28,,Yes,,346
+Beadle,1,Initiated Measure 28,,No,,724
+Beadle,1,Initiated Measure 29,,Yes,,535
+Beadle,1,Initiated Measure 29,,No,,553
+Beadle,1,Referred Law 21,,Yes,,474
+Beadle,1,Referred Law 21,,No,,576
+Beadle,2,Initiated Measure 28,,Yes,,229
+Beadle,2,Initiated Measure 28,,No,,642
+Beadle,2,Initiated Measure 29,,Yes,,409
+Beadle,2,Initiated Measure 29,,No,,480
+Beadle,2,Referred Law 21,,Yes,,385
+Beadle,2,Referred Law 21,,No,,466
+Beadle,3,Initiated Measure 28,,Yes,,187
+Beadle,3,Initiated Measure 28,,No,,587
+Beadle,3,Initiated Measure 29,,Yes,,308
+Beadle,3,Initiated Measure 29,,No,,471
+Beadle,3,Referred Law 21,,Yes,,337
+Beadle,3,Referred Law 21,,No,,417
+Beadle,4,Initiated Measure 28,,Yes,,169
+Beadle,4,Initiated Measure 28,,No,,541
+Beadle,4,Initiated Measure 29,,Yes,,280
+Beadle,4,Initiated Measure 29,,No,,443
+Beadle,4,Referred Law 21,,Yes,,290
+Beadle,4,Referred Law 21,,No,,391
+Beadle,5,Initiated Measure 28,,Yes,,362
+Beadle,5,Initiated Measure 28,,No,,847
+Beadle,5,Initiated Measure 29,,Yes,,548
+Beadle,5,Initiated Measure 29,,No,,671
+Beadle,5,Referred Law 21,,Yes,,540
+Beadle,5,Referred Law 21,,No,,627
+Beadle,6,Initiated Measure 28,,Yes,,226
+Beadle,6,Initiated Measure 28,,No,,539
+Beadle,6,Initiated Measure 29,,Yes,,312
+Beadle,6,Initiated Measure 29,,No,,464
+Beadle,6,Referred Law 21,,Yes,,306
+Beadle,6,Referred Law 21,,No,,451
+Beadle,8,Initiated Measure 28,,Yes,,41
+Beadle,8,Initiated Measure 28,,No,,255
+Beadle,8,Initiated Measure 29,,Yes,,68
+Beadle,8,Initiated Measure 29,,No,,229
+Beadle,8,Referred Law 21,,Yes,,122
+Beadle,8,Referred Law 21,,No,,170
+Beadle,9,Initiated Measure 28,,Yes,,60
+Beadle,9,Initiated Measure 28,,No,,242
+Beadle,9,Initiated Measure 29,,Yes,,115
+Beadle,9,Initiated Measure 29,,No,,197
+Beadle,9,Referred Law 21,,Yes,,132
+Beadle,9,Referred Law 21,,No,,166
+Beadle,7,Initiated Measure 28,,Yes,,146
+Beadle,7,Initiated Measure 28,,No,,784
+Beadle,7,Initiated Measure 29,,Yes,,270
+Beadle,7,Initiated Measure 29,,No,,667
+Beadle,7,Referred Law 21,,Yes,,289
+Beadle,7,Referred Law 21,,No,,627

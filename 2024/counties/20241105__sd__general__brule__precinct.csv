@@ -1,0 +1,157 @@
+county,precinct,office,district,candidate,party,votes
+Brule,1,President,,Kamala D. Harris and Tim Walz,DEM,444
+Brule,1,President,,Chase Oliver and Mike ter Maat,LIB,11
+Brule,1,President,,Donald J. Trump and JD Vance,REP,816
+Brule,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,30
+Brule,2,President,,Kamala D. Harris and Tim Walz,DEM,92
+Brule,2,President,,Chase Oliver and Mike ter Maat,LIB,3
+Brule,2,President,,Donald J. Trump and JD Vance,REP,443
+Brule,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Brule,3,President,,Kamala D. Harris and Tim Walz,DEM,91
+Brule,3,President,,Chase Oliver and Mike ter Maat,LIB,3
+Brule,3,President,,Donald J. Trump and JD Vance,REP,318
+Brule,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Brule,4,President,,Kamala D. Harris and Tim Walz,DEM,39
+Brule,4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Brule,4,President,,Donald J. Trump and JD Vance,REP,117
+Brule,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Brule,1,U.S. House,1,Sheryl Johnson,DEM,342
+Brule,1,U.S. House,1,Dusty Johnson,REP,949
+Brule,2,U.S. House,1,Sheryl Johnson,DEM,80
+Brule,2,U.S. House,1,Dusty Johnson,REP,460
+Brule,3,U.S. House,1,Sheryl Johnson,DEM,80
+Brule,3,U.S. House,1,Dusty Johnson,REP,342
+Brule,4,U.S. House,1,Sheryl Johnson,DEM,24
+Brule,4,U.S. House,1,Dusty Johnson,REP,131
+Brule,01,Public Utilities Commissioner,,Forrest Wilson,DEM,322
+Brule,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,44
+Brule,01,Public Utilities Commissioner,,Kristie Fiegen,REP,851
+Brule,02,Public Utilities Commissioner,,Forrest Wilson,DEM,69
+Brule,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,23
+Brule,02,Public Utilities Commissioner,,Kristie Fiegen,REP,434
+Brule,03,Public Utilities Commissioner,,Forrest Wilson,DEM,67
+Brule,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Brule,03,Public Utilities Commissioner,,Kristie Fiegen,REP,309
+Brule,04,Public Utilities Commissioner,,Forrest Wilson,DEM,23
+Brule,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Brule,04,Public Utilities Commissioner,,Kristie Fiegen,REP,125
+Brule,01,State Senate,26,Shawn Bordeaux,DEM,432
+Brule,01,State Senate,26,Tamara St. John,REP,823
+Brule,02,State Senate,26,Shawn Bordeaux,DEM,104
+Brule,02,State Senate,26,Tamara St. John,REP,413
+Brule,03,State Senate,26,Shawn Bordeaux,DEM,110
+Brule,03,State Senate,26,Tamara St. John,REP,290
+Brule,04,State Senate,26,Shawn Bordeaux,DEM,36
+Brule,04,State Senate,26,Tamara St. John,REP,118
+Brule,1,State House,21,Rebecca Reimer,REP,752
+Brule,1,State House,21,David Reis,IND,498
+Brule,2,State House,21,Rebecca Reimer,REP,342
+Brule,2,State House,21,David Reis,IND,187
+Brule,3,State House,21,Rebecca Reimer,REP,252
+Brule,3,State House,21,David Reis,IND,158
+Brule,4,State House,21,Rebecca Reimer,REP,106
+Brule,4,State House,21,David Reis,IND,48
+Brule,1,Supreme Court Retention,,Yes,,879
+Brule,1,Supreme Court Retention,,No,,249
+Brule,2,Supreme Court Retention,,Yes,,373
+Brule,2,Supreme Court Retention,,No,,83
+Brule,3,Supreme Court Retention,,Yes,,294
+Brule,3,Supreme Court Retention,,No,,71
+Brule,4,Supreme Court Retention,,Yes,,100
+Brule,4,Supreme Court Retention,,No,,36
+Brule,01,President,,Kamala D. Harris and Tim Walz,DEM,444
+Brule,01,President,,Chase Oliver and Mike ter Maat,LIB,11
+Brule,01,President,,Donald J. Trump and JD Vance,REP,816
+Brule,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,30
+Brule,02,President,,Kamala D. Harris and Tim Walz,DEM,92
+Brule,02,President,,Chase Oliver and Mike ter Maat,LIB,3
+Brule,02,President,,Donald J. Trump and JD Vance,REP,443
+Brule,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Brule,03,President,,Kamala D. Harris and Tim Walz,DEM,91
+Brule,03,President,,Chase Oliver and Mike ter Maat,LIB,3
+Brule,03,President,,Donald J. Trump and JD Vance,REP,318
+Brule,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Brule,04,President,,Kamala D. Harris and Tim Walz,DEM,39
+Brule,04,President,,Chase Oliver and Mike ter Maat,LIB,0
+Brule,04,President,,Donald J. Trump and JD Vance,REP,117
+Brule,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Brule,01,U.S. House,1,Sheryl Johnson,DEM,342
+Brule,01,U.S. House,1,Dusty Johnson,REP,948
+Brule,02,U.S. House,1,Sheryl Johnson,DEM,80
+Brule,02,U.S. House,1,Dusty Johnson,REP,460
+Brule,03,U.S. House,1,Sheryl Johnson,DEM,80
+Brule,03,U.S. House,1,Dusty Johnson,REP,342
+Brule,04,U.S. House,1,Sheryl Johnson,DEM,24
+Brule,04,U.S. House,1,Dusty Johnson,REP,131
+Brule,01,State House,21,Rebecca Reimer,REP,752
+Brule,01,State House,21,David Reis,IND,498
+Brule,02,State House,21,Rebecca Reimer,REP,342
+Brule,02,State House,21,David Reis,IND,187
+Brule,03,State House,21,Rebecca Reimer,REP,252
+Brule,03,State House,21,David Reis,IND,158
+Brule,04,State House,21,Rebecca Reimer,REP,106
+Brule,04,State House,21,David Reis,IND,48
+Brule,01,Supreme Court Retention,,Yes,,879
+Brule,01,Supreme Court Retention,,No,,249
+Brule,02,Supreme Court Retention,,Yes,,373
+Brule,02,Supreme Court Retention,,No,,83
+Brule,03,Supreme Court Retention,,Yes,,294
+Brule,03,Supreme Court Retention,,No,,71
+Brule,04,Supreme Court Retention,,Yes,,100
+Brule,04,Supreme Court Retention,,No,,36
+Brule,1,Constitutional Amendment E,,Yes,,500
+Brule,1,Constitutional Amendment E,,No,,791
+Brule,1,Constitutional Amendment F,,Yes,,712
+Brule,1,Constitutional Amendment F,,No,,580
+Brule,1,Constitutional Amendment G,,Yes,,494
+Brule,1,Constitutional Amendment G,,No,,809
+Brule,1,Constitutional Amendment I,,Yes,,433
+Brule,1,Constitutional Amendment I,,No,,840
+Brule,2,Constitutional Amendment E,,Yes,,121
+Brule,2,Constitutional Amendment E,,No,,424
+Brule,2,Constitutional Amendment F,,Yes,,266
+Brule,2,Constitutional Amendment F,,No,,278
+Brule,2,Constitutional Amendment G,,Yes,,104
+Brule,2,Constitutional Amendment G,,No,,441
+Brule,2,Constitutional Amendment I,,Yes,,89
+Brule,2,Constitutional Amendment I,,No,,445
+Brule,3,Constitutional Amendment E,,Yes,,117
+Brule,3,Constitutional Amendment E,,No,,304
+Brule,3,Constitutional Amendment F,,Yes,,208
+Brule,3,Constitutional Amendment F,,No,,214
+Brule,3,Constitutional Amendment G,,Yes,,120
+Brule,3,Constitutional Amendment G,,No,,304
+Brule,3,Constitutional Amendment I,,Yes,,113
+Brule,3,Constitutional Amendment I,,No,,303
+Brule,4,Constitutional Amendment E,,Yes,,27
+Brule,4,Constitutional Amendment E,,No,,131
+Brule,4,Constitutional Amendment F,,Yes,,78
+Brule,4,Constitutional Amendment F,,No,,81
+Brule,4,Constitutional Amendment G,,Yes,,35
+Brule,4,Constitutional Amendment G,,No,,127
+Brule,4,Constitutional Amendment I,,Yes,,27
+Brule,4,Constitutional Amendment I,,No,,132
+Brule,01,Initiated Measure 28,,Yes,,293
+Brule,01,Initiated Measure 28,,No,,1006
+Brule,01,Initiated Measure 29,,Yes,,525
+Brule,01,Initiated Measure 29,,No,,777
+Brule,01,Referred Law 21,,Yes,,452
+Brule,01,Referred Law 21,,No,,803
+Brule,02,Initiated Measure 28,,Yes,,78
+Brule,02,Initiated Measure 28,,No,,467
+Brule,02,Initiated Measure 29,,Yes,,138
+Brule,02,Initiated Measure 29,,No,,410
+Brule,02,Referred Law 21,,Yes,,114
+Brule,02,Referred Law 21,,No,,427
+Brule,03,Initiated Measure 28,,Yes,,75
+Brule,03,Initiated Measure 28,,No,,345
+Brule,03,Initiated Measure 29,,Yes,,121
+Brule,03,Initiated Measure 29,,No,,301
+Brule,03,Referred Law 21,,Yes,,121
+Brule,03,Referred Law 21,,No,,298
+Brule,04,Initiated Measure 28,,Yes,,18
+Brule,04,Initiated Measure 28,,No,,139
+Brule,04,Initiated Measure 29,,Yes,,30
+Brule,04,Initiated Measure 29,,No,,131
+Brule,04,Referred Law 21,,Yes,,29
+Brule,04,Referred Law 21,,No,,128

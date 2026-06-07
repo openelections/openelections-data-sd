@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Mcpherson,1,President,,Kamala D. Harris and Tim Walz,DEM,46
+Mcpherson,1,President,,Chase Oliver and Mike ter Maat,LIB,2
+Mcpherson,1,President,,Donald J. Trump and JD Vance,REP,293
+Mcpherson,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Mcpherson,2,President,,Kamala D. Harris and Tim Walz,DEM,26
+Mcpherson,2,President,,Chase Oliver and Mike ter Maat,LIB,0
+Mcpherson,2,President,,Donald J. Trump and JD Vance,REP,248
+Mcpherson,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Mcpherson,3,President,,Kamala D. Harris and Tim Walz,DEM,49
+Mcpherson,3,President,,Chase Oliver and Mike ter Maat,LIB,2
+Mcpherson,3,President,,Donald J. Trump and JD Vance,REP,259
+Mcpherson,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Mcpherson,4,President,,Kamala D. Harris and Tim Walz,DEM,67
+Mcpherson,4,President,,Chase Oliver and Mike ter Maat,LIB,1
+Mcpherson,4,President,,Donald J. Trump and JD Vance,REP,287
+Mcpherson,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Mcpherson,1,U.S. House,1,Sheryl Johnson,DEM,42
+Mcpherson,1,U.S. House,1,Dusty Johnson,REP,273
+Mcpherson,2,U.S. House,1,Sheryl Johnson,DEM,28
+Mcpherson,2,U.S. House,1,Dusty Johnson,REP,231
+Mcpherson,3,U.S. House,1,Sheryl Johnson,DEM,41
+Mcpherson,3,U.S. House,1,Dusty Johnson,REP,273
+Mcpherson,4,U.S. House,1,Sheryl Johnson,DEM,49
+Mcpherson,4,U.S. House,1,Dusty Johnson,REP,300
+Mcpherson,1,Public Utilities Commissioner,,Forrest Wilson,DEM,36
+Mcpherson,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Mcpherson,1,Public Utilities Commissioner,,Kristie Fiegen,REP,277
+Mcpherson,2,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Mcpherson,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Mcpherson,2,Public Utilities Commissioner,,Kristie Fiegen,REP,242
+Mcpherson,3,Public Utilities Commissioner,,Forrest Wilson,DEM,33
+Mcpherson,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Mcpherson,3,Public Utilities Commissioner,,Kristie Fiegen,REP,255
+Mcpherson,4,Public Utilities Commissioner,,Forrest Wilson,DEM,41
+Mcpherson,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Mcpherson,4,Public Utilities Commissioner,,Kristie Fiegen,REP,279
+Mcpherson,1,State Senate,23,Mark Lapka,REP,264
+Mcpherson,2,State Senate,23,Mark Lapka,REP,263
+Mcpherson,3,State Senate,23,Mark Lapka,REP,270
+Mcpherson,4,State Senate,23,Mark Lapka,REP,304
+Mcpherson,1,State House,23,Scott Moore,REP,268
+Mcpherson,1,State House,23,Spencer Gosch,REP,215
+Mcpherson,2,State House,23,Scott Moore,REP,216
+Mcpherson,2,State House,23,Spencer Gosch,REP,212
+Mcpherson,3,State House,23,Scott Moore,REP,213
+Mcpherson,3,State House,23,Spencer Gosch,REP,242
+Mcpherson,4,State House,23,Scott Moore,REP,255
+Mcpherson,4,State House,23,Spencer Gosch,REP,253
+Mcpherson,1,Supreme Court Retention,Fifth,Yes,,256
+Mcpherson,1,Supreme Court Retention,Fifth,No,,37
+Mcpherson,2,Supreme Court Retention,Fifth,Yes,,198
+Mcpherson,2,Supreme Court Retention,Fifth,No,,26
+Mcpherson,3,Supreme Court Retention,Fifth,Yes,,238
+Mcpherson,3,Supreme Court Retention,Fifth,No,,38
+Mcpherson,4,Supreme Court Retention,Fifth,Yes,,267
+Mcpherson,4,Supreme Court Retention,Fifth,No,,45
+Mcpherson,1,Constitutional Amendment E,,Yes,,108
+Mcpherson,1,Constitutional Amendment E,,No,,230
+Mcpherson,1,Constitutional Amendment F,,Yes,,148
+Mcpherson,1,Constitutional Amendment F,,No,,193
+Mcpherson,1,Constitutional Amendment G,,Yes,,63
+Mcpherson,1,Constitutional Amendment G,,No,,281
+Mcpherson,1,Constitutional Amendment H,,Yes,,56
+Mcpherson,1,Constitutional Amendment H,,No,,297
+Mcpherson,2,Constitutional Amendment E,,Yes,,53
+Mcpherson,2,Constitutional Amendment E,,No,,220
+Mcpherson,2,Constitutional Amendment F,,Yes,,169
+Mcpherson,2,Constitutional Amendment F,,No,,105
+Mcpherson,2,Constitutional Amendment G,,Yes,,42
+Mcpherson,2,Constitutional Amendment G,,No,,230
+Mcpherson,2,Constitutional Amendment H,,Yes,,69
+Mcpherson,2,Constitutional Amendment H,,No,,280
+Mcpherson,3,Constitutional Amendment E,,Yes,,107
+Mcpherson,3,Constitutional Amendment E,,No,,210
+Mcpherson,3,Constitutional Amendment F,,Yes,,182
+Mcpherson,3,Constitutional Amendment F,,No,,133
+Mcpherson,3,Constitutional Amendment G,,Yes,,69
+Mcpherson,3,Constitutional Amendment G,,No,,247
+Mcpherson,3,Constitutional Amendment H,,Yes,,69
+Mcpherson,3,Constitutional Amendment H,,No,,240
+Mcpherson,4,Constitutional Amendment E,,Yes,,101
+Mcpherson,4,Constitutional Amendment E,,No,,250
+Mcpherson,4,Constitutional Amendment F,,Yes,,215
+Mcpherson,4,Constitutional Amendment F,,No,,142
+Mcpherson,4,Constitutional Amendment G,,Yes,,80
+Mcpherson,4,Constitutional Amendment G,,No,,276
+Mcpherson,4,Constitutional Amendment H,,Yes,,101
+Mcpherson,4,Constitutional Amendment H,,No,,248
+Mcpherson,1,Initiated Measure 28,,Yes,,56
+Mcpherson,1,Initiated Measure 28,,No,,276
+Mcpherson,1,Initiated Measure 29,,Yes,,81
+Mcpherson,1,Initiated Measure 29,,No,,253
+Mcpherson,1,Referred Law 21,,Yes,,90
+Mcpherson,1,Referred Law 21,,No,,245
+Mcpherson,2,Initiated Measure 28,,Yes,,62
+Mcpherson,2,Initiated Measure 28,,No,,215
+Mcpherson,2,Initiated Measure 29,,Yes,,46
+Mcpherson,2,Initiated Measure 29,,No,,230
+Mcpherson,2,Referred Law 21,,Yes,,74
+Mcpherson,2,Referred Law 21,,No,,204
+Mcpherson,3,Initiated Measure 28,,Yes,,87
+Mcpherson,3,Initiated Measure 28,,No,,224
+Mcpherson,3,Initiated Measure 29,,Yes,,101
+Mcpherson,3,Initiated Measure 29,,No,,213
+Mcpherson,3,Referred Law 21,,Yes,,97
+Mcpherson,3,Referred Law 21,,No,,214
+Mcpherson,4,Initiated Measure 28,,Yes,,86
+Mcpherson,4,Initiated Measure 28,,No,,266
+Mcpherson,4,Initiated Measure 29,,Yes,,106
+Mcpherson,4,Initiated Measure 29,,No,,252
+Mcpherson,4,Referred Law 21,,Yes,,88
+Mcpherson,4,Referred Law 21,,No,,262

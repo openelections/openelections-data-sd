@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Jones,1,President,,Kamala D. Harris and Tim Walz,DEM,14
+Jones,1,President,,Chase Oliver and Mike ter Maat,LIB,1
+Jones,1,President,,Donald J. Trump and JD Vance,REP,140
+Jones,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Jones,2,President,,Kamala D. Harris and Tim Walz,DEM,46
+Jones,2,President,,Chase Oliver and Mike ter Maat,LIB,2
+Jones,2,President,,Donald J. Trump and JD Vance,REP,337
+Jones,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Jones,1,U.S. House,1,Sheryl Johnson,DEM,19
+Jones,1,U.S. House,1,Dusty Johnson,REP,138
+Jones,2,U.S. House,1,Sheryl Johnson,DEM,43
+Jones,2,U.S. House,1,Dusty Johnson,REP,339
+Jones,1,Public Utilities Commissioner,,Forrest Wilson,DEM,10
+Jones,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Jones,1,Public Utilities Commissioner,,Kristie Fiegen,REP,133
+Jones,2,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Jones,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Jones,2,Public Utilities Commissioner,,Kristie Fiegen,REP,332
+Jones,1,State Senate,26,Shawn Bordeaux,DEM,16
+Jones,1,State Senate,26,Tamara Grove,REP,140
+Jones,2,State Senate,26,Shawn Bordeaux,DEM,56
+Jones,2,State Senate,26,Tamara Grove,REP,322
+Jones,1,State House,26A,Eric E. Emery,DEM,13
+Jones,1,State House,26A,Ron Frederick,REP,129
+Jones,1,State House,26A,William Craig Lafferty,IND,10
+Jones,1,State House,26B,Rebecca Reimer,REP,312
+Jones,1,State House,26B,David Reis,IND,62
+Jones,2,State House,26A,Eric E. Emery,DEM,0
+Jones,2,State House,26A,Ron Frederick,REP,0
+Jones,2,State House,26A,William Craig Lafferty,IND,0
+Jones,2,State House,26B,Rebecca Reimer,REP,0
+Jones,2,State House,26B,David Reis,IND,0
+Jones,1,Supreme Court Retention,,Yes,,104
+Jones,1,Supreme Court Retention,,No,,28
+Jones,2,Supreme Court Retention,,Yes,,268
+Jones,2,Supreme Court Retention,,No,,75
+Jones,1,Supreme Court Retention,,Scott P. Myren,YES,104
+Jones,1,Supreme Court Retention,,Scott P. Myren,NO,28
+Jones,2,Supreme Court Retention,,Scott P. Myren,YES,268
+Jones,2,Supreme Court Retention,,Scott P. Myren,NO,75
+Jones,1,Constitutional Amendment E,,,YES,27
+Jones,1,Constitutional Amendment E,,,NO,130
+Jones,1,Constitutional Amendment F,,,YES,74
+Jones,1,Constitutional Amendment F,,,NO,84
+Jones,1,Constitutional Amendment G,,,YES,26
+Jones,1,Constitutional Amendment G,,,NO,132
+Jones,1,Constitutional Amendment H,,,YES,24
+Jones,1,Constitutional Amendment H,,,NO,133
+Jones,2,Constitutional Amendment E,,,YES,95
+Jones,2,Constitutional Amendment E,,,NO,296
+Jones,2,Constitutional Amendment F,,,YES,210
+Jones,2,Constitutional Amendment F,,,NO,180
+Jones,2,Constitutional Amendment G,,,YES,95
+Jones,2,Constitutional Amendment G,,,NO,300
+Jones,2,Constitutional Amendment H,,,YES,84
+Jones,2,Constitutional Amendment H,,,NO,300
+Jones,1,Constitutional Amendment E: An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,,Yes,,27
+Jones,1,Constitutional Amendment E: An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,,No,,130
+Jones,1,Constitutional Amendment F: An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,,Yes,,74
+Jones,1,Constitutional Amendment F: An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,,No,,84
+Jones,1,Constitutional Amendment G: An Initiated Amendment Establishing Right to Abortion in the State Constitution,,Yes,,26
+Jones,1,Constitutional Amendment G: An Initiated Amendment Establishing Right to Abortion in the State Constitution,,No,,132
+Jones,1,Constitutional Amendment H: An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,,Yes,,24
+Jones,1,Constitutional Amendment H: An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,,No,,133
+Jones,2,Constitutional Amendment E: An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,,Yes,,95
+Jones,2,Constitutional Amendment E: An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,,No,,296
+Jones,2,Constitutional Amendment F: An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,,Yes,,210
+Jones,2,Constitutional Amendment F: An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,,No,,180
+Jones,2,Constitutional Amendment G: An Initiated Amendment Establishing Right to Abortion in the State Constitution,,Yes,,95
+Jones,2,Constitutional Amendment G: An Initiated Amendment Establishing Right to Abortion in the State Constitution,,No,,300
+Jones,2,Constitutional Amendment H: An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,,Yes,,84
+Jones,2,Constitutional Amendment H: An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,,No,,300
+Jones,1,Initiated Measure 28: An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,,Yes,,16
+Jones,1,Initiated Measure 28: An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,,No,,140
+Jones,1,"Initiated Measure 29: An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",,Yes,,30
+Jones,1,"Initiated Measure 29: An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",,No,,127
+Jones,1,"Referred Law 21: A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow Counties to Impose a Surcharge on Certain Pipeline Companies, and to Establish a Landowner Bill of Rights",,Yes,,33
+Jones,1,"Referred Law 21: A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow Counties to Impose a Surcharge on Certain Pipeline Companies, and to Establish a Landowner Bill of Rights",,No,,120
+Jones,2,Initiated Measure 28: An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,,Yes,,66
+Jones,2,Initiated Measure 28: An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,,No,,324
+Jones,2,"Initiated Measure 29: An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",,Yes,,121
+Jones,2,"Initiated Measure 29: An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",,No,,273
+Jones,2,"Referred Law 21: A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow Counties to Impose a Surcharge on Certain Pipeline Companies, and to Establish a Landowner Bill of Rights",,Yes,,110
+Jones,2,"Referred Law 21: A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow Counties to Impose a Surcharge on Certain Pipeline Companies, and to Establish a Landowner Bill of Rights",,No,,272

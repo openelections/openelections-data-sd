@@ -1,0 +1,559 @@
+county,precinct,office,district,candidate,party,votes
+Codington,DEXTER,President,,Kamala D. Harris and Tim Walz,DEM,22
+Codington,DEXTER,President,,Chase Oliver and Mike Ter Maat,LIB,0
+Codington,DEXTER,President,,Donald J. Trump and JD Vance,REP,87
+Codington,DEXTER,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Codington,"EDEN, PHIPPS, WALLACE",President,,Kamala D. Harris and Tim Walz,DEM,34
+Codington,"EDEN, PHIPPS, WALLACE",President,,Chase Oliver and Mike Ter Maat,LIB,1
+Codington,"EDEN, PHIPPS, WALLACE",President,,Donald J. Trump and JD Vance,REP,110
+Codington,"EDEN, PHIPPS, WALLACE",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Codington,"FULLER, FLORENCE",President,,Kamala D. Harris and Tim Walz,DEM,59
+Codington,"FULLER, FLORENCE",President,,Chase Oliver and Mike Ter Maat,LIB,3
+Codington,"FULLER, FLORENCE",President,,Donald J. Trump and JD Vance,REP,241
+Codington,"FULLER, FLORENCE",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Codington,GERMANTOWN (RAUVILLE),President,,Kamala D. Harris and Tim Walz,DEM,50
+Codington,GERMANTOWN (RAUVILLE),President,,Chase Oliver and Mike Ter Maat,LIB,2
+Codington,GERMANTOWN (RAUVILLE),President,,Donald J. Trump and JD Vance,REP,179
+Codington,GERMANTOWN (RAUVILLE),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Codington,"GRACELAND, HENRY, HENRY",President,,Kamala D. Harris and Tim Walz,DEM,43
+Codington,"GRACELAND, HENRY, HENRY",President,,Chase Oliver and Mike Ter Maat,LIB,0
+Codington,"GRACELAND, HENRY, HENRY",President,,Donald J. Trump and JD Vance,REP,190
+Codington,"GRACELAND, HENRY, HENRY",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Codington,KAMPESKA (RICHLAND),President,,Kamala D. Harris and Tim Walz,DEM,50
+Codington,KAMPESKA (RICHLAND),President,,Chase Oliver and Mike Ter Maat,LIB,2
+Codington,KAMPESKA (RICHLAND),President,,Donald J. Trump and JD Vance,REP,205
+Codington,KAMPESKA (RICHLAND),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Codington,"KRANZBURG, KRANZBURG",President,,Kamala D. Harris and Tim Walz,DEM,50
+Codington,"KRANZBURG, KRANZBURG",President,,Chase Oliver and Mike Ter Maat,LIB,2
+Codington,"KRANZBURG, KRANZBURG",President,,Donald J. Trump and JD Vance,REP,228
+Codington,"KRANZBURG, KRANZBURG",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Codington,"FLOLA, SOUTH SHORE",President,,Kamala D. Harris and Tim Walz,DEM,25
+Codington,"FLOLA, SOUTH SHORE",President,,Chase Oliver and Mike Ter Maat,LIB,2
+Codington,"FLOLA, SOUTH SHORE",President,,Donald J. Trump and JD Vance,REP,92
+Codington,"FLOLA, SOUTH SHORE",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Codington,A1,President,,Kamala D. Harris and Tim Walz,DEM,187
+Codington,A1,President,,Chase Oliver and Mike Ter Maat,LIB,6
+Codington,A1,President,,Donald J. Trump and JD Vance,REP,870
+Codington,A1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Codington,A2,President,,Kamala D. Harris and Tim Walz,DEM,189
+Codington,A2,President,,Chase Oliver and Mike Ter Maat,LIB,6
+Codington,A2,President,,Donald J. Trump and JD Vance,REP,351
+Codington,A2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Codington,B1 (Precinct-A4),President,,Kamala D. Harris and Tim Walz,DEM,197
+Codington,B1 (Precinct-A4),President,,Chase Oliver and Mike Ter Maat,LIB,6
+Codington,B1 (Precinct-A4),President,,Donald J. Trump and JD Vance,REP,409
+Codington,B1 (Precinct-A4),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Codington,"B4, Precinct-B5",President,,Kamala D. Harris and Tim Walz,DEM,250
+Codington,"B4, Precinct-B5",President,,Chase Oliver and Mike Ter Maat,LIB,7
+Codington,"B4, Precinct-B5",President,,Donald J. Trump and JD Vance,REP,642
+Codington,"B4, Precinct-B5",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
+Codington,B2,President,,Kamala D. Harris and Tim Walz,DEM,345
+Codington,B2,President,,Chase Oliver and Mike Ter Maat,LIB,7
+Codington,B2,President,,Donald J. Trump and JD Vance,REP,549
+Codington,B2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,23
+Codington,B3 (Precinct-C1),President,,Kamala D. Harris and Tim Walz,DEM,291
+Codington,B3 (Precinct-C1),President,,Chase Oliver and Mike Ter Maat,LIB,9
+Codington,B3 (Precinct-C1),President,,Donald J. Trump and JD Vance,REP,637
+Codington,B3 (Precinct-C1),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
+Codington,"C2 (ELMIRA, PRESTON)",President,,Kamala D. Harris and Tim Walz,DEM,280
+Codington,"C2 (ELMIRA, PRESTON)",President,,Chase Oliver and Mike Ter Maat,LIB,6
+Codington,"C2 (ELMIRA, PRESTON)",President,,Donald J. Trump and JD Vance,REP,424
+Codington,"C2 (ELMIRA, PRESTON)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Codington,"C3 (PELICAN, PELLO, PELLA)",President,,Kamala D. Harris and Tim Walz,DEM,308
+Codington,"C3 (PELICAN, PELLO, PELLA)",President,,Chase Oliver and Mike Ter Maat,LIB,11
+Codington,"C3 (PELICAN, PELLO, PELLA)",President,,Donald J. Trump and JD Vance,REP,934
+Codington,"C3 (PELICAN, PELLO, PELLA)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,25
+Codington,D1,President,,Kamala D. Harris and Tim Walz,DEM,195
+Codington,D1,President,,Chase Oliver and Mike Ter Maat,LIB,7
+Codington,D1,President,,Donald J. Trump and JD Vance,REP,378
+Codington,D1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Codington,D2,President,,Kamala D. Harris and Tim Walz,DEM,157
+Codington,D2,President,,Chase Oliver and Mike Ter Maat,LIB,5
+Codington,D2,President,,Donald J. Trump and JD Vance,REP,344
+Codington,D2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Codington,"E1 (LAKE, E-4)",President,,Kamala D. Harris and Tim Walz,DEM,379
+Codington,"E1 (LAKE, E-4)",President,,Chase Oliver and Mike Ter Maat,LIB,3
+Codington,"E1 (LAKE, E-4)",President,,Donald J. Trump and JD Vance,REP,1008
+Codington,"E1 (LAKE, E-4)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Codington,E2 (Precinct-E3),President,,Kamala D. Harris and Tim Walz,DEM,311
+Codington,E2 (Precinct-E3),President,,Chase Oliver and Mike Ter Maat,LIB,4
+Codington,E2 (Precinct-E3),President,,Donald J. Trump and JD Vance,REP,867
+Codington,E2 (Precinct-E3),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Codington,SHERIDAN,President,,Kamala D. Harris and Tim Walz,DEM,58
+Codington,SHERIDAN,President,,Chase Oliver and Mike Ter Maat,LIB,2
+Codington,SHERIDAN,President,,Donald J. Trump and JD Vance,REP,197
+Codington,SHERIDAN,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Codington,WAVERLY,President,,Kamala D. Harris and Tim Walz,DEM,20
+Codington,WAVERLY,President,,Chase Oliver and Mike Ter Maat,LIB,1
+Codington,WAVERLY,President,,Donald J. Trump and JD Vance,REP,95
+Codington,WAVERLY,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Codington,DDEXTER,U.S. House,1,Sheryl Johnson,DEM,21
+Codington,DDEXTER,U.S. House,1,Dusty Johnson,REP,92
+Codington,"EDEN, PHIPPS, WALLACE",U.S. House,1,Sheryl Johnson,DEM,29
+Codington,"EDEN, PHIPPS, WALLACE",U.S. House,1,Dusty Johnson,REP,116
+Codington,"FULLER, FLORENCE",U.S. House,1,Sheryl Johnson,DEM,47
+Codington,"FULLER, FLORENCE",U.S. House,1,Dusty Johnson,REP,263
+Codington,GERMANTOWN (RAUVILLE),U.S. House,1,Sheryl Johnson,DEM,53
+Codington,GERMANTOWN (RAUVILLE),U.S. House,1,Dusty Johnson,REP,189
+Codington,"GRACELAND, HENRY, HENRY",U.S. House,1,Sheryl Johnson,DEM,37
+Codington,"GRACELAND, HENRY, HENRY",U.S. House,1,Dusty Johnson,REP,196
+Codington,KAMPESKA (RICHLAND),U.S. House,1,Sheryl Johnson,DEM,35
+Codington,KAMPESKA (RICHLAND),U.S. House,1,Dusty Johnson,REP,228
+Codington,"KRANZBURG, KRANZBURG",U.S. House,1,Sheryl Johnson,DEM,49
+Codington,"KRANZBURG, KRANZBURG",U.S. House,1,Dusty Johnson,REP,153
+Codington,"LEOLA, SOUTH SHORE",U.S. House,1,Sheryl Johnson,DEM,36
+Codington,"LEOLA, SOUTH SHORE",U.S. House,1,Dusty Johnson,REP,98
+Codington,A1,U.S. House,1,Sheryl Johnson,DEM,208
+Codington,A1,U.S. House,1,Dusty Johnson,REP,998
+Codington,A2,U.S. House,1,Sheryl Johnson,DEM,306
+Codington,A2,U.S. House,1,Dusty Johnson,REP,989
+Codington,A3 (Precinct-A4),U.S. House,1,Sheryl Johnson,DEM,123
+Codington,A3 (Precinct-A4),U.S. House,1,Dusty Johnson,REP,464
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. House,1,Sheryl Johnson,DEM,189
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. House,1,Dusty Johnson,REP,713
+Codington,B2,U.S. House,1,Sheryl Johnson,DEM,260
+Codington,B2,U.S. House,1,Dusty Johnson,REP,638
+Codington,"B3 (Precinct-C1, Precinct-D2)",U.S. House,1,Sheryl Johnson,DEM,230
+Codington,"B3 (Precinct-C1, Precinct-D2)",U.S. House,1,Dusty Johnson,REP,697
+Codington,"D4 (ELMIRA, Precinct-D4)",U.S. House,1,Sheryl Johnson,DEM,190
+Codington,"D4 (ELMIRA, Precinct-D4)",U.S. House,1,Dusty Johnson,REP,489
+Codington,"C3 (PELICAN, Precinct-C4)",U.S. House,1,Sheryl Johnson,DEM,322
+Codington,"C3 (PELICAN, Precinct-C4)",U.S. House,1,Dusty Johnson,REP,1018
+Codington,D1,U.S. House,1,Sheryl Johnson,DEM,156
+Codington,D1,U.S. House,1,Dusty Johnson,REP,428
+Codington,D2,U.S. House,1,Sheryl Johnson,DEM,114
+Codington,D2,U.S. House,1,Dusty Johnson,REP,476
+Codington,D3,U.S. House,1,Sheryl Johnson,DEM,124
+Codington,D3,U.S. House,1,Dusty Johnson,REP,343
+Codington,"E1 (LAKE, Precinct-E4)",U.S. House,1,Sheryl Johnson,DEM,341
+Codington,"E1 (LAKE, Precinct-E4)",U.S. House,1,Dusty Johnson,REP,1083
+Codington,E2 (Precinct-E3),U.S. House,1,Sheryl Johnson,DEM,189
+Codington,E2 (Precinct-E3),U.S. House,1,Dusty Johnson,REP,1011
+Codington,SHERIDAN,U.S. House,1,Sheryl Johnson,DEM,46
+Codington,SHERIDAN,U.S. House,1,Dusty Johnson,REP,212
+Codington,WAVERLY,U.S. House,1,Sheryl Johnson,DEM,16
+Codington,WAVERLY,U.S. House,1,Dusty Johnson,REP,96
+Codington,Dexter,Public Utilities Commissioner,,Forrest Wilson,DEM,18
+Codington,Dexter,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Codington,Dexter,Public Utilities Commissioner,,Kristie Fiegen,REP,45
+Codington,"Eden, Phipps, Wallace",Public Utilities Commissioner,,Forrest Wilson,DEM,25
+Codington,"Eden, Phipps, Wallace",Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Codington,"Eden, Phipps, Wallace",Public Utilities Commissioner,,Kristie Fiegen,REP,96
+Codington,"Fuller, Florence",Public Utilities Commissioner,,Forrest Wilson,DEM,42
+Codington,"Fuller, Florence",Public Utilities Commissioner,,A. Gideon Oakes,LIB,58
+Codington,"Fuller, Florence",Public Utilities Commissioner,,Kristie Fiegen,REP,227
+Codington,Germantown (Rauville),Public Utilities Commissioner,,Forrest Wilson,DEM,37
+Codington,Germantown (Rauville),Public Utilities Commissioner,,A. Gideon Oakes,LIB,42
+Codington,Germantown (Rauville),Public Utilities Commissioner,,Kristie Fiegen,REP,176
+Codington,"Graceland, Henry, Henry",Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Codington,"Graceland, Henry, Henry",Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Codington,"Graceland, Henry, Henry",Public Utilities Commissioner,,Kristie Fiegen,REP,161
+Codington,Kampeska (Richland),Public Utilities Commissioner,,Forrest Wilson,DEM,35
+Codington,Kampeska (Richland),Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Codington,Kampeska (Richland),Public Utilities Commissioner,,Kristie Fiegen,REP,201
+Codington,"Kranzburg, Kranzburg",Public Utilities Commissioner,,Forrest Wilson,DEM,30
+Codington,"Kranzburg, Kranzburg",Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Codington,"Kranzburg, Kranzburg",Public Utilities Commissioner,,Kristie Fiegen,REP,201
+Codington,"Leola, South Shore",Public Utilities Commissioner,,Forrest Wilson,DEM,12
+Codington,"Leola, South Shore",Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Codington,"Leola, South Shore",Public Utilities Commissioner,,Kristie Fiegen,REP,89
+Codington,A1,Public Utilities Commissioner,,Forrest Wilson,DEM,110
+Codington,A1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,32
+Codington,A1,Public Utilities Commissioner,,Kristie Fiegen,REP,888
+Codington,A2,Public Utilities Commissioner,,Forrest Wilson,DEM,39
+Codington,A2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,26
+Codington,A2,Public Utilities Commissioner,,Kristie Fiegen,REP,381
+Codington,A3 (Precinct-A4),Public Utilities Commissioner,,Forrest Wilson,DEM,118
+Codington,A3 (Precinct-A4),Public Utilities Commissioner,,A. Gideon Oakes,LIB,90
+Codington,A3 (Precinct-A4),Public Utilities Commissioner,,Kristie Fiegen,REP,419
+Codington,B1 (Precinct-B2),Public Utilities Commissioner,,Forrest Wilson,DEM,169
+Codington,B1 (Precinct-B2),Public Utilities Commissioner,,A. Gideon Oakes,LIB,34
+Codington,B1 (Precinct-B2),Public Utilities Commissioner,,Kristie Fiegen,REP,644
+Codington,B3 (Precinct-C1),Public Utilities Commissioner,,Forrest Wilson,DEM,248
+Codington,B3 (Precinct-C1),Public Utilities Commissioner,,A. Gideon Oakes,LIB,38
+Codington,B3 (Precinct-C1),Public Utilities Commissioner,,Kristie Fiegen,REP,542
+Codington,"C2 (Elmira, Pelican)",Public Utilities Commissioner,,Forrest Wilson,DEM,121
+Codington,"C2 (Elmira, Pelican)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,58
+Codington,"C2 (Elmira, Pelican)",Public Utilities Commissioner,,Kristie Fiegen,REP,616
+Codington,"D1 (Pelican, Germantown)",Public Utilities Commissioner,,Forrest Wilson,DEM,136
+Codington,"D1 (Pelican, Germantown)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,29
+Codington,"D1 (Pelican, Germantown)",Public Utilities Commissioner,,Kristie Fiegen,REP,420
+Codington,D2,Public Utilities Commissioner,,Forrest Wilson,DEM,134
+Codington,D2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,71
+Codington,D2,Public Utilities Commissioner,,Kristie Fiegen,REP,897
+Codington,D3,Public Utilities Commissioner,,Forrest Wilson,DEM,136
+Codington,D3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
+Codington,D3,Public Utilities Commissioner,,Kristie Fiegen,REP,380
+Codington,D4,Public Utilities Commissioner,,Forrest Wilson,DEM,139
+Codington,D4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,32
+Codington,D4,Public Utilities Commissioner,,Kristie Fiegen,REP,317
+Codington,E1 (Lake; Precinct-E4),Public Utilities Commissioner,,Forrest Wilson,DEM,141
+Codington,E1 (Lake; Precinct-E4),Public Utilities Commissioner,,A. Gideon Oakes,LIB,37
+Codington,E1 (Lake; Precinct-E4),Public Utilities Commissioner,,Kristie Fiegen,REP,312
+Codington,E2 (Elmira),Public Utilities Commissioner,,Forrest Wilson,DEM,115
+Codington,E2 (Elmira),Public Utilities Commissioner,,A. Gideon Oakes,LIB,34
+Codington,E2 (Elmira),Public Utilities Commissioner,,Kristie Fiegen,REP,961
+Codington,E3 (Precinct-E4),Public Utilities Commissioner,,Forrest Wilson,DEM,182
+Codington,E3 (Precinct-E4),Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Codington,E3 (Precinct-E4),Public Utilities Commissioner,,Kristie Fiegen,REP,928
+Codington,E1 (Lake),Public Utilities Commissioner,,Forrest Wilson,DEM,81
+Codington,E1 (Lake),Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
+Codington,E1 (Lake),Public Utilities Commissioner,,Kristie Fiegen,REP,928
+Codington,Sheridan,Public Utilities Commissioner,,Forrest Wilson,DEM,11
+Codington,Sheridan,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Codington,Sheridan,Public Utilities Commissioner,,Kristie Fiegen,REP,202
+Codington,Waverly,Public Utilities Commissioner,,Forrest Wilson,DEM,13
+Codington,Waverly,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Codington,Waverly,Public Utilities Commissioner,,Kristie Fiegen,REP,85
+Codington,DEXTER,State Senate,04,Stephanie Sauder,REP,82
+Codington,"EDEN, PHIPPS, WALLACE",State Senate,04,Stephanie Sauder,REP,93
+Codington,"FULLER, FLORENCE",State Senate,04,Stephanie Sauder,REP,224
+Codington,GERMANTOWN (RAVILLE),State Senate,04,Stephanie Sauder,REP,172
+Codington,"GRACELAND, HENRY, HENRY",State Senate,04,Stephanie Sauder,REP,174
+Codington,KAMPESKA (RICHLAND),State Senate,04,Stephanie Sauder,REP,211
+Codington,"KRANZBURG, KRANZBURG",State Senate,04,Stephanie Sauder,REP,207
+Codington,"LEOLA, SOUTH SHORE",State Senate,04,Stephanie Sauder,REP,100
+Codington,A1,State Senate,05,Dennis Solberg,DEM,257
+Codington,A1,State Senate,05,Glen A Vlhauer,REP,890
+Codington,A2,State Senate,05,Dennis Solberg,DEM,146
+Codington,A2,State Senate,05,Glen A Vlhauer,REP,397
+Codington,B1 (Precinct-A4),State Senate,05,Dennis Solberg,DEM,170
+Codington,B1 (Precinct-A4),State Senate,05,Glen A Vlhauer,REP,417
+Codington,B1 (Precinct-B4),State Senate,05,Dennis Solberg,DEM,217
+Codington,B1 (Precinct-B4),State Senate,05,Glen A Vlhauer,REP,657
+Codington,B2,State Senate,05,Dennis Solberg,DEM,185
+Codington,B2,State Senate,05,Glen A Vlhauer,REP,554
+Codington,B3 (Precinct-C1),State Senate,05,Dennis Solberg,DEM,285
+Codington,B3 (Precinct-C1),State Senate,05,Glen A Vlhauer,REP,623
+Codington,C2 (ELMIRA),State Senate,05,Dennis Solberg,DEM,246
+Codington,C2 (ELMIRA),State Senate,05,Glen A Vlhauer,REP,406
+Codington,C3 (PELICAN),State Senate,05,Dennis Solberg,DEM,422
+Codington,C3 (PELICAN),State Senate,05,Glen A Vlhauer,REP,875
+Codington,D1,State Senate,05,Dennis Solberg,DEM,163
+Codington,D1,State Senate,05,Glen A Vlhauer,REP,367
+Codington,D2,State Senate,05,Dennis Solberg,DEM,159
+Codington,D2,State Senate,05,Glen A Vlhauer,REP,308
+Codington,D3,State Senate,05,Dennis Solberg,DEM,144
+Codington,D3,State Senate,05,Glen A Vlhauer,REP,299
+Codington,"E1 (LAKE, Precinct E4)",State Senate,05,Dennis Solberg,DEM,344
+Codington,"E1 (LAKE, Precinct E4)",State Senate,05,Glen A Vlhauer,REP,982
+Codington,E2 (Precinct-E3),State Senate,05,Dennis Solberg,DEM,235
+Codington,E2 (Precinct-E3),State Senate,05,Glen A Vlhauer,REP,924
+Codington,HERIDAN,State Senate,05,Dennis Solberg,DEM,83
+Codington,HERIDAN,State Senate,05,Glen A Vlhauer,REP,190
+Codington,WAVERLY,State Senate,05,Dennis Solberg,DEM,83
+Codington,WAVERLY,State Senate,05,Glen A Vlhauer,REP,190
+Codington,DEXTER,State House,04,Kent Roe,REP,67
+Codington,DEXTER,State House,04,Dylan C. Jordan,REP,58
+Codington,"EDEN, PHIPPS, WALLACE",State House,04,Kent Roe,REP,87
+Codington,"EDEN, PHIPPS, WALLACE",State House,04,Dylan C. Jordan,REP,58
+Codington,"FULLER, FLORENCE",State House,04,Kent Roe,REP,183
+Codington,"FULLER, FLORENCE",State House,04,Dylan C. Jordan,REP,132
+Codington,GERMANTOWN (RAUVILLE),State House,04,Kent Roe,REP,150
+Codington,GERMANTOWN (RAUVILLE),State House,04,Dylan C. Jordan,REP,109
+Codington,"GRACELAND, HENRY, HENRY",State House,04,Kent Roe,REP,136
+Codington,"GRACELAND, HENRY, HENRY",State House,04,Dylan C. Jordan,REP,121
+Codington,KAMPESKA (RICHLAND),State House,04,Kent Roe,REP,161
+Codington,KAMPESKA (RICHLAND),State House,04,Dylan C. Jordan,REP,133
+Codington,"KARNBRAZ, KRANZBURG",State House,04,Kent Roe,REP,157
+Codington,"KARNBRAZ, KRANZBURG",State House,04,Dylan C. Jordan,REP,139
+Codington,"EGLON, SOUTH SHORE",State House,04,Kent Roe,REP,80
+Codington,"EGLON, SOUTH SHORE",State House,04,Dylan C. Jordan,REP,64
+Codington,A1,State House,05,Diane M. Drake,DEM,201
+Codington,A1,State House,05,Amy D. Rambow,DEM,160
+Codington,A1,State House,05,Josephine Garcia,REP,640
+Codington,A1,State House,05,Matt Roby,REP,941
+Codington,A2,State House,05,Diane M. Drake,DEM,122
+Codington,A2,State House,05,Amy D. Rambow,DEM,96
+Codington,A2,State House,05,Josephine Garcia,REP,283
+Codington,A2,State House,05,Matt Roby,REP,417
+Codington,A3 (Precinct-A4),State House,05,Diane M. Drake,DEM,114
+Codington,A3 (Precinct-A4),State House,05,Amy D. Rambow,DEM,79
+Codington,A3 (Precinct-A4),State House,05,Josephine Garcia,REP,299
+Codington,A3 (Precinct-A4),State House,05,Matt Roby,REP,452
+Codington,B1,State House,05,Diane M. Drake,DEM,161
+Codington,B1,State House,05,Amy D. Rambow,DEM,133
+Codington,B1,State House,05,Josephine Garcia,REP,472
+Codington,B1,State House,05,Matt Roby,REP,704
+Codington,B2,State House,05,Diane M. Drake,DEM,206
+Codington,B2,State House,05,Amy D. Rambow,DEM,208
+Codington,B2,State House,05,Josephine Garcia,REP,402
+Codington,B2,State House,05,Matt Roby,REP,603
+Codington,B3 (Precinct-C1),State House,05,Diane M. Drake,DEM,203
+Codington,B3 (Precinct-C1),State House,05,Amy D. Rambow,DEM,173
+Codington,B3 (Precinct-C1),State House,05,Josephine Garcia,REP,448
+Codington,B3 (Precinct-C1),State House,05,Matt Roby,REP,681
+Codington,"D2 (ELMIRA, Precinct-D4)",State House,05,Diane M. Drake,DEM,197
+Codington,"D2 (ELMIRA, Precinct-D4)",State House,05,Amy D. Rambow,DEM,152
+Codington,"D2 (ELMIRA, Precinct-D4)",State House,05,Josephine Garcia,REP,312
+Codington,"D2 (ELMIRA, Precinct-D4)",State House,05,Matt Roby,REP,430
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Diane M. Drake,DEM,284
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Amy D. Rambow,DEM,263
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Josephine Garcia,REP,689
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Matt Roby,REP,889
+Codington,D1,State House,05,Diane M. Drake,DEM,128
+Codington,D1,State House,05,Amy D. Rambow,DEM,110
+Codington,D1,State House,05,Josephine Garcia,REP,290
+Codington,D1,State House,05,Matt Roby,REP,387
+Codington,D2,State House,05,Diane M. Drake,DEM,102
+Codington,D2,State House,05,Amy D. Rambow,DEM,95
+Codington,D2,State House,05,Josephine Garcia,REP,253
+Codington,D2,State House,05,Matt Roby,REP,331
+Codington,D3,State House,05,Diane M. Drake,DEM,117
+Codington,D3,State House,05,Amy D. Rambow,DEM,86
+Codington,D3,State House,05,Josephine Garcia,REP,240
+Codington,D3,State House,05,Matt Roby,REP,332
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Diane M. Drake,DEM,248
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Amy D. Rambow,DEM,226
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Josephine Garcia,REP,746
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Matt Roby,REP,985
+Codington,E2 (Precinct-E3),State House,05,Diane M. Drake,DEM,179
+Codington,E2 (Precinct-E3),State House,05,Amy D. Rambow,DEM,137
+Codington,E2 (Precinct-E3),State House,05,Josephine Garcia,REP,665
+Codington,E2 (Precinct-E3),State House,05,Matt Roby,REP,978
+Codington,SHERIDAN,State House,05,Diane M. Drake,DEM,53
+Codington,SHERIDAN,State House,05,Amy D. Rambow,DEM,48
+Codington,SHERIDAN,State House,05,Josephine Garcia,REP,153
+Codington,SHERIDAN,State House,05,Matt Roby,REP,184
+Codington,WAVERLY,State House,05,Diane M. Drake,DEM,65
+Codington,WAVERLY,State House,05,Amy D. Rambow,DEM,51
+Codington,WAVERLY,State House,05,Josephine Garcia,REP,153
+Codington,WAVERLY,State House,05,Matt Roby,REP,184
+Codington,DEXTER,Supreme Court Retention,5,Yes,,79
+Codington,DEXTER,Supreme Court Retention,5,No,,20
+Codington,"EDEN, PHIPPS, WALLACE",Supreme Court Retention,5,Yes,,73
+Codington,"EDEN, PHIPPS, WALLACE",Supreme Court Retention,5,No,,24
+Codington,"FULLER, FLORENCE",Supreme Court Retention,5,Yes,,194
+Codington,"FULLER, FLORENCE",Supreme Court Retention,5,No,,46
+Codington,GERMANTOWN (RAUVILLE),Supreme Court Retention,5,Yes,,151
+Codington,GERMANTOWN (RAUVILLE),Supreme Court Retention,5,No,,34
+Codington,"GRACELAND, HENRY, HENRY",Supreme Court Retention,5,Yes,,144
+Codington,"GRACELAND, HENRY, HENRY",Supreme Court Retention,5,No,,39
+Codington,KAMPESKA (RICHLAND),Supreme Court Retention,5,Yes,,169
+Codington,KAMPESKA (RICHLAND),Supreme Court Retention,5,No,,32
+Codington,"KRANZBURG, KRANZBURG",Supreme Court Retention,5,Yes,,176
+Codington,"KRANZBURG, KRANZBURG",Supreme Court Retention,5,No,,28
+Codington,"LEOLA, SOUTH SHORE",Supreme Court Retention,5,Yes,,81
+Codington,"LEOLA, SOUTH SHORE",Supreme Court Retention,5,No,,18
+Codington,A1,Supreme Court Retention,5,Yes,,318
+Codington,A1,Supreme Court Retention,5,No,,86
+Codington,A2,Supreme Court Retention,5,Yes,,388
+Codington,A2,Supreme Court Retention,5,No,,122
+Codington,A3 (Precinct-A4),Supreme Court Retention,5,Yes,,375
+Codington,A3 (Precinct-A4),Supreme Court Retention,5,No,,80
+Codington,B1 (Precinct-B4),Supreme Court Retention,5,Yes,,610
+Codington,B1 (Precinct-B4),Supreme Court Retention,5,No,,113
+Codington,B5,Supreme Court Retention,5,Yes,,86
+Codington,B5,Supreme Court Retention,5,No,,19
+Codington,B2,Supreme Court Retention,5,Yes,,591
+Codington,B2,Supreme Court Retention,5,No,,147
+Codington,D1,Supreme Court Retention,5,Yes,,531
+Codington,D1,Supreme Court Retention,5,No,,125
+Codington,C2 (ELMIRA),Supreme Court Retention,5,Yes,,412
+Codington,C2 (ELMIRA),Supreme Court Retention,5,No,,113
+Codington,D2,Supreme Court Retention,5,Yes,,309
+Codington,D2,Supreme Court Retention,5,No,,88
+Codington,D3,Supreme Court Retention,5,Yes,,312
+Codington,D3,Supreme Court Retention,5,No,,86
+Codington,"C3 (PELICAN, Precinct-E4)",Supreme Court Retention,5,Yes,,868
+Codington,"C3 (PELICAN, Precinct-E4)",Supreme Court Retention,5,No,,221
+Codington,"E1 (LAKE, Precinct-E4)",Supreme Court Retention,5,Yes,,866
+Codington,"E1 (LAKE, Precinct-E4)",Supreme Court Retention,5,No,,234
+Codington,E2 (Precinct-E3),Supreme Court Retention,5,Yes,,828
+Codington,E2 (Precinct-E3),Supreme Court Retention,5,No,,124
+Codington,SHERIDAN,Supreme Court Retention,5,Yes,,169
+Codington,SHERIDAN,Supreme Court Retention,5,No,,40
+Codington,WAVERLY,Supreme Court Retention,5,Yes,,71
+Codington,WAVERLY,Supreme Court Retention,5,No,,19
+Codington,DEXTER,Constitutional Amendment E,,Yes,,27
+Codington,DEXTER,Constitutional Amendment E,,No,,65
+Codington,DEXTER,Constitutional Amendment F,,Yes,,45
+Codington,DEXTER,Constitutional Amendment F,,No,,33
+Codington,DEXTER,Constitutional Amendment G,,Yes,,79
+Codington,DEXTER,Constitutional Amendment G,,No,,30
+Codington,DEXTER,Constitutional Amendment H,,Yes,,75
+Codington,DEXTER,Constitutional Amendment H,,No,,70
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment E,,Yes,,48
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment E,,No,,97
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment F,,Yes,,79
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment F,,No,,65
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment G,,Yes,,43
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment G,,No,,103
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment H,,Yes,,45
+Codington,"EDEN, PHIPPS, WALLACE",Constitutional Amendment H,,No,,94
+Codington,"FULLER, FLORENCE",Constitutional Amendment E,,Yes,,82
+Codington,"FULLER, FLORENCE",Constitutional Amendment E,,No,,110
+Codington,"FULLER, FLORENCE",Constitutional Amendment F,,Yes,,178
+Codington,"FULLER, FLORENCE",Constitutional Amendment F,,No,,118
+Codington,"FULLER, FLORENCE",Constitutional Amendment G,,Yes,,80
+Codington,"FULLER, FLORENCE",Constitutional Amendment G,,No,,227
+Codington,"FULLER, FLORENCE",Constitutional Amendment H,,Yes,,57
+Codington,"FULLER, FLORENCE",Constitutional Amendment H,,No,,205
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment E,,Yes,,63
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment E,,No,,170
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment F,,Yes,,151
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment F,,No,,83
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment G,,Yes,,74
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment G,,No,,163
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment H,,Yes,,72
+Codington,GERMANTOWN (RAUVILLE),Constitutional Amendment H,,No,,161
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment E,,Yes,,65
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment E,,No,,190
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment F,,Yes,,132
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment F,,No,,91
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment G,,Yes,,70
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment G,,No,,136
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment H,,Yes,,56
+Codington,"GRACELAND, HENRY, HENRY",Constitutional Amendment H,,No,,163
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment E,,Yes,,79
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment E,,No,,186
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment F,,Yes,,181
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment F,,No,,81
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment G,,Yes,,68
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment G,,No,,198
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment H,,Yes,,83
+Codington,KAMPESKA (RICHLAND),Constitutional Amendment H,,No,,171
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment E,,Yes,,74
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment E,,No,,165
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment F,,Yes,,159
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment F,,No,,88
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment G,,Yes,,81
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment G,,No,,234
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment H,,Yes,,80
+Codington,"KRANZBURG, KRANZBURG",Constitutional Amendment H,,No,,170
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment E,,Yes,,26
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment E,,No,,41
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment F,,Yes,,35
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment F,,No,,19
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment G,,Yes,,56
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment G,,No,,77
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment H,,Yes,,22
+Codington,"LEOLA, SOUTH SHORE",Constitutional Amendment H,,No,,36
+Codington,A1,Constitutional Amendment E,,Yes,,476
+Codington,A1,Constitutional Amendment E,,No,,702
+Codington,A1,Constitutional Amendment F,,Yes,,757
+Codington,A1,Constitutional Amendment F,,No,,403
+Codington,A1,Constitutional Amendment G,,Yes,,402
+Codington,A1,Constitutional Amendment G,,No,,797
+Codington,A1,Constitutional Amendment H,,Yes,,384
+Codington,A1,Constitutional Amendment H,,No,,749
+Codington,A2,Constitutional Amendment E,,Yes,,446
+Codington,A2,Constitutional Amendment E,,No,,739
+Codington,A2,Constitutional Amendment F,,Yes,,329
+Codington,A2,Constitutional Amendment F,,No,,417
+Codington,A2,Constitutional Amendment G,,Yes,,425
+Codington,A2,Constitutional Amendment G,,No,,384
+Codington,A2,Constitutional Amendment H,,Yes,,347
+Codington,A2,Constitutional Amendment H,,No,,258
+Codington,A3 (Precinct A4),Constitutional Amendment E,,Yes,,405
+Codington,A3 (Precinct A4),Constitutional Amendment E,,No,,806
+Codington,A3 (Precinct A4),Constitutional Amendment F,,Yes,,377
+Codington,A3 (Precinct A4),Constitutional Amendment F,,No,,518
+Codington,A3 (Precinct A4),Constitutional Amendment G,,Yes,,311
+Codington,A3 (Precinct A4),Constitutional Amendment G,,No,,372
+Codington,A3 (Precinct A4),Constitutional Amendment H,,Yes,,196
+Codington,A3 (Precinct A4),Constitutional Amendment H,,No,,363
+Codington,B1 (Precinct B4),Constitutional Amendment E,,Yes,,502
+Codington,B1 (Precinct B4),Constitutional Amendment E,,No,,551
+Codington,B1 (Precinct B4),Constitutional Amendment F,,Yes,,543
+Codington,B1 (Precinct B4),Constitutional Amendment F,,No,,536
+Codington,B1 (Precinct B4),Constitutional Amendment G,,Yes,,365
+Codington,B1 (Precinct B4),Constitutional Amendment G,,No,,567
+Codington,B1 (Precinct B4),Constitutional Amendment H,,Yes,,319
+Codington,B1 (Precinct B4),Constitutional Amendment H,,No,,560
+Codington,E5,Constitutional Amendment E,,Yes,,477
+Codington,E5,Constitutional Amendment E,,No,,543
+Codington,E5,Constitutional Amendment F,,Yes,,336
+Codington,E5,Constitutional Amendment F,,No,,367
+Codington,E5,Constitutional Amendment G,,Yes,,375
+Codington,E5,Constitutional Amendment G,,No,,490
+Codington,E5,Constitutional Amendment H,,Yes,,305
+Codington,E5,Constitutional Amendment H,,No,,563
+Codington,B2,Constitutional Amendment E,,Yes,,400
+Codington,B2,Constitutional Amendment E,,No,,498
+Codington,B2,Constitutional Amendment F,,Yes,,460
+Codington,B2,Constitutional Amendment F,,No,,423
+Codington,B2,Constitutional Amendment G,,Yes,,427
+Codington,B2,Constitutional Amendment G,,No,,479
+Codington,B2,Constitutional Amendment H,,Yes,,371
+Codington,B2,Constitutional Amendment H,,No,,484
+Codington,B3 (Precinct C1),Constitutional Amendment E,,Yes,,499
+Codington,B3 (Precinct C1),Constitutional Amendment E,,No,,480
+Codington,B3 (Precinct C1),Constitutional Amendment F,,Yes,,389
+Codington,B3 (Precinct C1),Constitutional Amendment F,,No,,482
+Codington,B3 (Precinct C1),Constitutional Amendment G,,Yes,,371
+Codington,B3 (Precinct C1),Constitutional Amendment G,,No,,576
+Codington,B3 (Precinct C1),Constitutional Amendment H,,Yes,,522
+Codington,B3 (Precinct C1),Constitutional Amendment H,,No,,548
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment E,,Yes,,282
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment E,,No,,389
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment F,,Yes,,383
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment F,,No,,287
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment G,,Yes,,267
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment G,,No,,417
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment H,,Yes,,263
+Codington,"C2 (ELMIRA, Precinct D3)",Constitutional Amendment H,,No,,373
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment E,,Yes,,187
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment E,,No,,305
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment F,,Yes,,266
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment F,,No,,233
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment G,,Yes,,355
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment G,,No,,739
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment H,,Yes,,483
+Codington,"C3 (PELICAN, Precinct C4)",Constitutional Amendment H,,No,,789
+Codington,D1,Constitutional Amendment E,,Yes,,237
+Codington,D1,Constitutional Amendment E,,No,,344
+Codington,D1,Constitutional Amendment F,,Yes,,306
+Codington,D1,Constitutional Amendment F,,No,,268
+Codington,D1,Constitutional Amendment G,,Yes,,246
+Codington,D1,Constitutional Amendment G,,No,,339
+Codington,D1,Constitutional Amendment H,,Yes,,220
+Codington,D1,Constitutional Amendment H,,No,,332
+Codington,D2,Constitutional Amendment E,,Yes,,190
+Codington,D2,Constitutional Amendment E,,No,,296
+Codington,D2,Constitutional Amendment F,,Yes,,266
+Codington,D2,Constitutional Amendment F,,No,,215
+Codington,D2,Constitutional Amendment G,,Yes,,198
+Codington,D2,Constitutional Amendment G,,No,,300
+Codington,D2,Constitutional Amendment H,,Yes,,188
+Codington,D2,Constitutional Amendment H,,No,,272
+Codington,D3,Constitutional Amendment E,,Yes,,199
+Codington,D3,Constitutional Amendment E,,No,,272
+Codington,D3,Constitutional Amendment F,,Yes,,286
+Codington,D3,Constitutional Amendment F,,No,,186
+Codington,D3,Constitutional Amendment G,,Yes,,199
+Codington,D3,Constitutional Amendment G,,No,,286
+Codington,D3,Constitutional Amendment H,,Yes,,189
+Codington,D3,Constitutional Amendment H,,No,,271
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment E,,Yes,,498
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment E,,No,,877
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment F,,Yes,,844
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment F,,No,,522
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment G,,Yes,,522
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment G,,No,,860
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment H,,Yes,,454
+Codington,"E1 (LAKE, Precinct E4)",Constitutional Amendment H,,No,,849
+Codington,E2 (Precinct E3),Constitutional Amendment E,,Yes,,459
+Codington,E2 (Precinct E3),Constitutional Amendment E,,No,,738
+Codington,E2 (Precinct E3),Constitutional Amendment F,,Yes,,757
+Codington,E2 (Precinct E3),Constitutional Amendment F,,No,,424
+Codington,E2 (Precinct E3),Constitutional Amendment G,,Yes,,419
+Codington,E2 (Precinct E3),Constitutional Amendment G,,No,,787
+Codington,E2 (Precinct E3),Constitutional Amendment H,,Yes,,390
+Codington,E2 (Precinct E3),Constitutional Amendment H,,No,,775
+Codington,SHERIDAN,Constitutional Amendment E,,Yes,,89
+Codington,SHERIDAN,Constitutional Amendment E,,No,,171
+Codington,SHERIDAN,Constitutional Amendment F,,Yes,,167
+Codington,SHERIDAN,Constitutional Amendment F,,No,,97
+Codington,SHERIDAN,Constitutional Amendment G,,Yes,,84
+Codington,SHERIDAN,Constitutional Amendment G,,No,,181
+Codington,SHERIDAN,Constitutional Amendment H,,Yes,,79
+Codington,SHERIDAN,Constitutional Amendment H,,No,,179
+Codington,WAVERLY,Constitutional Amendment E,,Yes,,30
+Codington,WAVERLY,Constitutional Amendment E,,No,,83
+Codington,WAVERLY,Constitutional Amendment F,,Yes,,63
+Codington,WAVERLY,Constitutional Amendment F,,No,,51
+Codington,WAVERLY,Constitutional Amendment G,,Yes,,29
+Codington,WAVERLY,Constitutional Amendment G,,No,,85
+Codington,WAVERLY,Constitutional Amendment H,,Yes,,38
+Codington,WAVERLY,Constitutional Amendment H,,No,,77

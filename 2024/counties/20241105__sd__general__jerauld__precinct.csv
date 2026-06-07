@@ -1,0 +1,36 @@
+county,precinct,office,district,candidate,party,votes
+Jerauld,1,President,,Kamala D. Harris and Tim Walz,DEM,155
+Jerauld,1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Jerauld,1,President,,Donald J. Trump and JD Vance,REP,132
+Jerauld,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
+Jerauld,2,President,,Kamala D. Harris and Tim Walz,DEM,37
+Jerauld,2,President,,Chase Oliver and Mike ter Maat,LIB,0
+Jerauld,2,President,,Donald J. Trump and JD Vance,REP,119
+Jerauld,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Jerauld,3,President,,Kamala D. Harris and Tim Walz,DEM,35
+Jerauld,3,President,,Chase Oliver and Mike ter Maat,LIB,0
+Jerauld,3,President,,Donald J. Trump and JD Vance,REP,95
+Jerauld,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Jerauld,4,President,,Kamala D. Harris and Tim Walz,DEM,23
+Jerauld,4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Jerauld,4,President,,Donald J. Trump and JD Vance,REP,75
+Jerauld,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
+Jerauld,5,President,,Kamala D. Harris and Tim Walz,DEM,26
+Jerauld,5,President,,Chase Oliver and Mike ter Maat,LIB,0
+Jerauld,5,President,,Donald J. Trump and JD Vance,REP,87
+Jerauld,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
+Jerauld,1,County Treasurer,,Jessica Van Dyke,DEM,60
+Jerauld,2,County Treasurer,,Jessica Van Dyke,DEM,27
+Jerauld,3,County Treasurer,,Jessica Van Dyke,DEM,14
+Jerauld,4,County Treasurer,,Jessica Van Dyke,DEM,10
+Jerauld,5,County Treasurer,,Jessica Van Dyke,DEM,15
+Jerauld,1,County Treasurer,,Tara Peterson,REP,143
+Jerauld,2,County Treasurer,,Tara Peterson,REP,32
+Jerauld,3,County Treasurer,,Tara Peterson,REP,29
+Jerauld,4,County Treasurer,,Tara Peterson,REP,38
+Jerauld,5,County Treasurer,,Tara Peterson,REP,56
+Jerauld,1,County Treasurer,,Lisa Younie,IND,286
+Jerauld,2,County Treasurer,,Lisa Younie,IND,96
+Jerauld,3,County Treasurer,,Lisa Younie,IND,88
+Jerauld,4,County Treasurer,,Lisa Younie,IND,53
+Jerauld,5,County Treasurer,,Lisa Younie,IND,45

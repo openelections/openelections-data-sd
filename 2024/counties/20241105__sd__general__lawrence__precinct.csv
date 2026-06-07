@@ -1,0 +1,364 @@
+county,precinct,office,district,candidate,party,votes
+Lawrence,Absentee Precinct,President,,Kamala D. Harris and Tim Walz,DEM,3346
+Lawrence,Absentee Precinct,President,,Chase Oliver and Mike ter Maat,LIB,56
+Lawrence,Absentee Precinct,President,,Donald J. Trump and JD Vance,REP,5568
+Lawrence,Absentee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,126
+Lawrence,01,President,,Kamala D. Harris and Tim Walz,DEM,271
+Lawrence,01,President,,Chase Oliver and Mike ter Maat,LIB,11
+Lawrence,01,President,,Donald J. Trump and JD Vance,REP,487
+Lawrence,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,35
+Lawrence,02,President,,Kamala D. Harris and Tim Walz,DEM,264
+Lawrence,02,President,,Chase Oliver and Mike ter Maat,LIB,14
+Lawrence,02,President,,Donald J. Trump and JD Vance,REP,570
+Lawrence,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Lawrence,03,President,,Kamala D. Harris and Tim Walz,DEM,280
+Lawrence,03,President,,Chase Oliver and Mike ter Maat,LIB,5
+Lawrence,03,President,,Donald J. Trump and JD Vance,REP,663
+Lawrence,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,31
+Lawrence,04,President,,Kamala D. Harris and Tim Walz,DEM,244
+Lawrence,04,President,,Chase Oliver and Mike ter Maat,LIB,10
+Lawrence,04,President,,Donald J. Trump and JD Vance,REP,428
+Lawrence,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lawrence,05,President,,Kamala D. Harris and Tim Walz,DEM,78
+Lawrence,05,President,,Chase Oliver and Mike ter Maat,LIB,2
+Lawrence,05,President,,Donald J. Trump and JD Vance,REP,127
+Lawrence,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Lawrence,06,President,,Kamala D. Harris and Tim Walz,DEM,38
+Lawrence,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lawrence,06,President,,Donald J. Trump and JD Vance,REP,128
+Lawrence,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lawrence,07,President,,Kamala D. Harris and Tim Walz,DEM,101
+Lawrence,07,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lawrence,07,President,,Donald J. Trump and JD Vance,REP,281
+Lawrence,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Lawrence,08,President,,Kamala D. Harris and Tim Walz,DEM,25
+Lawrence,08,President,,Chase Oliver and Mike ter Maat,LIB,2
+Lawrence,08,President,,Donald J. Trump and JD Vance,REP,132
+Lawrence,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Lawrence,09,President,,Kamala D. Harris and Tim Walz,DEM,109
+Lawrence,09,President,,Chase Oliver and Mike ter Maat,LIB,3
+Lawrence,09,President,,Donald J. Trump and JD Vance,REP,581
+Lawrence,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Lawrence,10,President,,Kamala D. Harris and Tim Walz,DEM,318
+Lawrence,10,President,,Chase Oliver and Mike ter Maat,LIB,12
+Lawrence,10,President,,Donald J. Trump and JD Vance,REP,939
+Lawrence,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lawrence,Absentee Precinct,U.S. House,1,Sheryl Johnson,DEM,2831
+Lawrence,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,6059
+Lawrence,01,U.S. House,1,Sheryl Johnson,DEM,229
+Lawrence,01,U.S. House,1,Dusty Johnson,REP,551
+Lawrence,02,U.S. House,1,Sheryl Johnson,DEM,233
+Lawrence,02,U.S. House,1,Dusty Johnson,REP,625
+Lawrence,03,U.S. House,1,Sheryl Johnson,DEM,222
+Lawrence,03,U.S. House,1,Dusty Johnson,REP,731
+Lawrence,04,U.S. House,1,Sheryl Johnson,DEM,226
+Lawrence,04,U.S. House,1,Dusty Johnson,REP,470
+Lawrence,05,U.S. House,1,Sheryl Johnson,DEM,57
+Lawrence,05,U.S. House,1,Dusty Johnson,REP,161
+Lawrence,06,U.S. House,1,Sheryl Johnson,DEM,35
+Lawrence,06,U.S. House,1,Dusty Johnson,REP,134
+Lawrence,07,U.S. House,1,Sheryl Johnson,DEM,71
+Lawrence,07,U.S. House,1,Dusty Johnson,REP,314
+Lawrence,08,U.S. House,1,Sheryl Johnson,DEM,27
+Lawrence,08,U.S. House,1,Dusty Johnson,REP,129
+Lawrence,09,U.S. House,1,Sheryl Johnson,DEM,101
+Lawrence,09,U.S. House,1,Dusty Johnson,REP,588
+Lawrence,10,U.S. House,1,Sheryl Johnson,DEM,256
+Lawrence,10,U.S. House,1,Dusty Johnson,REP,995
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,2643
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,468
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,5445
+Lawrence,01,Public Utilities Commissioner,,Forrest Wilson,DEM,198
+Lawrence,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,67
+Lawrence,01,Public Utilities Commissioner,,Kristie Fiegen,REP,459
+Lawrence,02,Public Utilities Commissioner,,Forrest Wilson,DEM,196
+Lawrence,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,77
+Lawrence,02,Public Utilities Commissioner,,Kristie Fiegen,REP,529
+Lawrence,03,Public Utilities Commissioner,,Forrest Wilson,DEM,205
+Lawrence,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,67
+Lawrence,03,Public Utilities Commissioner,,Kristie Fiegen,REP,632
+Lawrence,04,Public Utilities Commissioner,,Forrest Wilson,DEM,194
+Lawrence,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,75
+Lawrence,04,Public Utilities Commissioner,,Kristie Fiegen,REP,384
+Lawrence,05,Public Utilities Commissioner,,Forrest Wilson,DEM,64
+Lawrence,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
+Lawrence,05,Public Utilities Commissioner,,Kristie Fiegen,REP,116
+Lawrence,06,Public Utilities Commissioner,,Forrest Wilson,DEM,30
+Lawrence,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Lawrence,06,Public Utilities Commissioner,,Kristie Fiegen,REP,117
+Lawrence,07,Public Utilities Commissioner,,Forrest Wilson,DEM,67
+Lawrence,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,35
+Lawrence,07,Public Utilities Commissioner,,Kristie Fiegen,REP,270
+Lawrence,08,Public Utilities Commissioner,,Forrest Wilson,DEM,20
+Lawrence,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Lawrence,08,Public Utilities Commissioner,,Kristie Fiegen,REP,112
+Lawrence,09,Public Utilities Commissioner,,Forrest Wilson,DEM,77
+Lawrence,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,57
+Lawrence,09,Public Utilities Commissioner,,Kristie Fiegen,REP,527
+Lawrence,10,Public Utilities Commissioner,,Forrest Wilson,DEM,233
+Lawrence,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,92
+Lawrence,10,Public Utilities Commissioner,,Kristie Fiegen,REP,869
+Lawrence,Absentee Precinct,State Senate,31,Randy Deibert,REP,5842
+Lawrence,01,State Senate,31,Randy Deibert,REP,533
+Lawrence,02,State Senate,31,Randy Deibert,REP,597
+Lawrence,03,State Senate,31,Randy Deibert,REP,690
+Lawrence,04,State Senate,31,Randy Deibert,REP,469
+Lawrence,05,State Senate,31,Randy Deibert,REP,146
+Lawrence,06,State Senate,31,Randy Deibert,REP,121
+Lawrence,07,State Senate,31,Randy Deibert,REP,293
+Lawrence,08,State Senate,31,Randy Deibert,REP,121
+Lawrence,09,State Senate,31,Randy Deibert,REP,532
+Lawrence,10,State Senate,31,Randy Deibert,REP,950
+Lawrence,Absentee Precinct,State House,31,Scott Odenbach,REP,5262
+Lawrence,Absentee Precinct,State House,31,Mary J Fitzgerald,REP,4589
+Lawrence,Absentee Precinct,State House,31,Victoria Greenlee,IND,2508
+Lawrence,Absentee Precinct,State House,31,Shana McVickers,IND,1883
+Lawrence,01,State House,31,Scott Odenbach,REP,427
+Lawrence,01,State House,31,Mary J Fitzgerald,REP,373
+Lawrence,01,State House,31,Victoria Greenlee,IND,228
+Lawrence,01,State House,31,Shana McVickers,IND,164
+Lawrence,02,State House,31,Scott Odenbach,REP,504
+Lawrence,02,State House,31,Mary J Fitzgerald,REP,400
+Lawrence,02,State House,31,Victoria Greenlee,IND,227
+Lawrence,02,State House,31,Shana McVickers,IND,161
+Lawrence,03,State House,31,Scott Odenbach,REP,614
+Lawrence,03,State House,31,Mary J Fitzgerald,REP,496
+Lawrence,03,State House,31,Victoria Greenlee,IND,240
+Lawrence,03,State House,31,Shana McVickers,IND,159
+Lawrence,04,State House,31,Scott Odenbach,REP,361
+Lawrence,04,State House,31,Mary J Fitzgerald,REP,350
+Lawrence,04,State House,31,Victoria Greenlee,IND,199
+Lawrence,04,State House,31,Shana McVickers,IND,161
+Lawrence,05,State House,31,Scott Odenbach,REP,127
+Lawrence,05,State House,31,Mary J Fitzgerald,REP,106
+Lawrence,05,State House,31,Victoria Greenlee,IND,61
+Lawrence,05,State House,31,Shana McVickers,IND,54
+Lawrence,06,State House,31,Scott Odenbach,REP,120
+Lawrence,06,State House,31,Mary J Fitzgerald,REP,98
+Lawrence,06,State House,31,Victoria Greenlee,IND,29
+Lawrence,06,State House,31,Shana McVickers,IND,24
+Lawrence,07,State House,31,Scott Odenbach,REP,260
+Lawrence,07,State House,31,Mary J Fitzgerald,REP,220
+Lawrence,07,State House,31,Victoria Greenlee,IND,79
+Lawrence,07,State House,31,Shana McVickers,IND,66
+Lawrence,08,State House,31,Scott Odenbach,REP,100
+Lawrence,08,State House,31,Mary J Fitzgerald,REP,94
+Lawrence,08,State House,31,Victoria Greenlee,IND,31
+Lawrence,08,State House,31,Shana McVickers,IND,26
+Lawrence,09,State House,31,Scott Odenbach,REP,468
+Lawrence,09,State House,31,Mary J Fitzgerald,REP,371
+Lawrence,09,State House,31,Victoria Greenlee,IND,125
+Lawrence,09,State House,31,Shana McVickers,IND,111
+Lawrence,10,State House,31,Scott Odenbach,REP,857
+Lawrence,10,State House,31,Mary J Fitzgerald,REP,671
+Lawrence,10,State House,31,Victoria Greenlee,IND,259
+Lawrence,10,State House,31,Shana McVickers,IND,240
+Lawrence,Absentee Precinct,State House,31,Victoria A Greenlee,IND,2508
+Lawrence,01,State House,31,Victoria A Greenlee,IND,228
+Lawrence,02,State House,31,Victoria A Greenlee,IND,227
+Lawrence,03,State House,31,Victoria A Greenlee,IND,240
+Lawrence,04,State House,31,Victoria A Greenlee,IND,199
+Lawrence,05,State House,31,Victoria A Greenlee,IND,61
+Lawrence,06,State House,31,Victoria A Greenlee,IND,29
+Lawrence,07,State House,31,Victoria A Greenlee,IND,79
+Lawrence,08,State House,31,Victoria A Greenlee,IND,31
+Lawrence,09,State House,31,Victoria A Greenlee,IND,125
+Lawrence,10,State House,31,Victoria A Greenlee,IND,259
+Lawrence,Absentee Precinct,Supreme Court Retention - Fifth Supreme Court District,,Yes,,5691
+Lawrence,Absentee Precinct,Supreme Court Retention - Fifth Supreme Court District,,No,,1511
+Lawrence,01,Supreme Court Retention - Fifth Supreme Court District,,Yes,,505
+Lawrence,01,Supreme Court Retention - Fifth Supreme Court District,,No,,135
+Lawrence,02,Supreme Court Retention - Fifth Supreme Court District,,Yes,,530
+Lawrence,02,Supreme Court Retention - Fifth Supreme Court District,,No,,178
+Lawrence,03,Supreme Court Retention - Fifth Supreme Court District,,Yes,,625
+Lawrence,03,Supreme Court Retention - Fifth Supreme Court District,,No,,163
+Lawrence,04,Supreme Court Retention - Fifth Supreme Court District,,Yes,,419
+Lawrence,04,Supreme Court Retention - Fifth Supreme Court District,,No,,172
+Lawrence,05,Supreme Court Retention - Fifth Supreme Court District,,Yes,,135
+Lawrence,05,Supreme Court Retention - Fifth Supreme Court District,,No,,42
+Lawrence,06,Supreme Court Retention - Fifth Supreme Court District,,Yes,,109
+Lawrence,06,Supreme Court Retention - Fifth Supreme Court District,,No,,33
+Lawrence,07,Supreme Court Retention - Fifth Supreme Court District,,Yes,,289
+Lawrence,07,Supreme Court Retention - Fifth Supreme Court District,,No,,52
+Lawrence,08,Supreme Court Retention - Fifth Supreme Court District,,Yes,,91
+Lawrence,08,Supreme Court Retention - Fifth Supreme Court District,,No,,36
+Lawrence,09,Supreme Court Retention - Fifth Supreme Court District,,Yes,,482
+Lawrence,09,Supreme Court Retention - Fifth Supreme Court District,,No,,96
+Lawrence,10,Supreme Court Retention - Fifth Supreme Court District,,Yes,,837
+Lawrence,10,Supreme Court Retention - Fifth Supreme Court District,,No,,214
+Lawrence,Absentee Precinct,Supreme Court Retention,,Scott P. Myren - Yes,,5691
+Lawrence,Absentee Precinct,Supreme Court Retention,,Scott P. Myren - No,,1511
+Lawrence,01,Supreme Court Retention,,Scott P. Myren - Yes,,505
+Lawrence,01,Supreme Court Retention,,Scott P. Myren - No,,135
+Lawrence,02,Supreme Court Retention,,Scott P. Myren - Yes,,530
+Lawrence,02,Supreme Court Retention,,Scott P. Myren - No,,178
+Lawrence,03,Supreme Court Retention,,Scott P. Myren - Yes,,625
+Lawrence,03,Supreme Court Retention,,Scott P. Myren - No,,163
+Lawrence,04,Supreme Court Retention,,Scott P. Myren - Yes,,419
+Lawrence,04,Supreme Court Retention,,Scott P. Myren - No,,172
+Lawrence,05,Supreme Court Retention,,Scott P. Myren - Yes,,135
+Lawrence,05,Supreme Court Retention,,Scott P. Myren - No,,42
+Lawrence,06,Supreme Court Retention,,Scott P. Myren - Yes,,109
+Lawrence,06,Supreme Court Retention,,Scott P. Myren - No,,33
+Lawrence,07,Supreme Court Retention,,Scott P. Myren - Yes,,289
+Lawrence,07,Supreme Court Retention,,Scott P. Myren - No,,52
+Lawrence,08,Supreme Court Retention,,Scott P. Myren - Yes,,91
+Lawrence,08,Supreme Court Retention,,Scott P. Myren - No,,36
+Lawrence,09,Supreme Court Retention,,Scott P. Myren - Yes,,482
+Lawrence,09,Supreme Court Retention,,Scott P. Myren - No,,96
+Lawrence,10,Supreme Court Retention,,Scott P. Myren - Yes,,837
+Lawrence,10,Supreme Court Retention,,Scott P. Myren - No,,214
+Lawrence,Absentee Precinct,Constitutional Amendment E,,Yes,,4089
+Lawrence,Absentee Precinct,Constitutional Amendment E,,No,,4886
+Lawrence,Absentee Precinct,Constitutional Amendment F,,Yes,,5291
+Lawrence,Absentee Precinct,Constitutional Amendment F,,No,,3665
+Lawrence,Absentee Precinct,Constitutional Amendment G,,Yes,,4367
+Lawrence,Absentee Precinct,Constitutional Amendment G,,No,,4615
+Lawrence,Absentee Precinct,Constitutional Amendment H,,Yes,,3351
+Lawrence,Absentee Precinct,Constitutional Amendment H,,No,,5401
+Lawrence,01,Constitutional Amendment E,,Yes,,358
+Lawrence,01,Constitutional Amendment E,,No,,439
+Lawrence,01,Constitutional Amendment F,,Yes,,460
+Lawrence,01,Constitutional Amendment F,,No,,336
+Lawrence,01,Constitutional Amendment G,,Yes,,392
+Lawrence,01,Constitutional Amendment G,,No,,413
+Lawrence,01,Constitutional Amendment H,,Yes,,279
+Lawrence,01,Constitutional Amendment H,,No,,479
+Lawrence,02,Constitutional Amendment E,,Yes,,364
+Lawrence,02,Constitutional Amendment E,,No,,502
+Lawrence,02,Constitutional Amendment F,,Yes,,513
+Lawrence,02,Constitutional Amendment F,,No,,361
+Lawrence,02,Constitutional Amendment G,,Yes,,437
+Lawrence,02,Constitutional Amendment G,,No,,442
+Lawrence,02,Constitutional Amendment H,,Yes,,342
+Lawrence,02,Constitutional Amendment H,,No,,500
+Lawrence,03,Constitutional Amendment E,,Yes,,385
+Lawrence,03,Constitutional Amendment E,,No,,587
+Lawrence,03,Constitutional Amendment F,,Yes,,618
+Lawrence,03,Constitutional Amendment F,,No,,350
+Lawrence,03,Constitutional Amendment G,,Yes,,403
+Lawrence,03,Constitutional Amendment G,,No,,572
+Lawrence,03,Constitutional Amendment H,,Yes,,326
+Lawrence,03,Constitutional Amendment H,,No,,618
+Lawrence,04,Constitutional Amendment E,,Yes,,298
+Lawrence,04,Constitutional Amendment E,,No,,405
+Lawrence,04,Constitutional Amendment F,,Yes,,386
+Lawrence,04,Constitutional Amendment F,,No,,314
+Lawrence,04,Constitutional Amendment G,,Yes,,367
+Lawrence,04,Constitutional Amendment G,,No,,342
+Lawrence,04,Constitutional Amendment H,,Yes,,291
+Lawrence,04,Constitutional Amendment H,,No,,398
+Lawrence,05,Constitutional Amendment E,,Yes,,130
+Lawrence,05,Constitutional Amendment E,,No,,113
+Lawrence,05,Constitutional Amendment F,,Yes,,103
+Lawrence,05,Constitutional Amendment F,,No,,123
+Lawrence,05,Constitutional Amendment G,,Yes,,98
+Lawrence,05,Constitutional Amendment G,,No,,97
+Lawrence,05,Constitutional Amendment H,,Yes,,105
+Lawrence,05,Constitutional Amendment H,,No,,108
+Lawrence,06,Constitutional Amendment E,,Yes,,48
+Lawrence,06,Constitutional Amendment E,,No,,121
+Lawrence,06,Constitutional Amendment F,,Yes,,86
+Lawrence,06,Constitutional Amendment F,,No,,80
+Lawrence,06,Constitutional Amendment G,,Yes,,63
+Lawrence,06,Constitutional Amendment G,,No,,106
+Lawrence,06,Constitutional Amendment H,,Yes,,71
+Lawrence,06,Constitutional Amendment H,,No,,103
+Lawrence,07,Constitutional Amendment E,,Yes,,139
+Lawrence,07,Constitutional Amendment E,,No,,256
+Lawrence,07,Constitutional Amendment F,,Yes,,241
+Lawrence,07,Constitutional Amendment F,,No,,148
+Lawrence,07,Constitutional Amendment G,,Yes,,161
+Lawrence,07,Constitutional Amendment G,,No,,235
+Lawrence,07,Constitutional Amendment H,,Yes,,127
+Lawrence,07,Constitutional Amendment H,,No,,253
+Lawrence,08,Constitutional Amendment E,,Yes,,34
+Lawrence,08,Constitutional Amendment E,,No,,104
+Lawrence,08,Constitutional Amendment F,,Yes,,93
+Lawrence,08,Constitutional Amendment F,,No,,61
+Lawrence,08,Constitutional Amendment G,,Yes,,55
+Lawrence,08,Constitutional Amendment G,,No,,105
+Lawrence,08,Constitutional Amendment H,,Yes,,30
+Lawrence,08,Constitutional Amendment H,,No,,125
+Lawrence,09,Constitutional Amendment E,,Yes,,194
+Lawrence,09,Constitutional Amendment E,,No,,306
+Lawrence,09,Constitutional Amendment F,,Yes,,471
+Lawrence,09,Constitutional Amendment F,,No,,230
+Lawrence,09,Constitutional Amendment G,,Yes,,219
+Lawrence,09,Constitutional Amendment G,,No,,487
+Lawrence,09,Constitutional Amendment H,,Yes,,183
+Lawrence,09,Constitutional Amendment H,,No,,499
+Lawrence,10,Constitutional Amendment E,,Yes,,411
+Lawrence,10,Constitutional Amendment E,,No,,834
+Lawrence,10,Constitutional Amendment F,,Yes,,823
+Lawrence,10,Constitutional Amendment F,,No,,443
+Lawrence,10,Constitutional Amendment G,,Yes,,513
+Lawrence,10,Constitutional Amendment G,,No,,772
+Lawrence,10,Constitutional Amendment H,,Yes,,389
+Lawrence,10,Constitutional Amendment H,,No,,864
+Lawrence,Absentee Precinct,Initiated Measure 28,,Yes,,3162
+Lawrence,Absentee Precinct,Initiated Measure 28,,No,,5737
+Lawrence,Absentee Precinct,Initiated Measure 29,,Yes,,4194
+Lawrence,Absentee Precinct,Initiated Measure 29,,No,,4829
+Lawrence,Absentee Precinct,Referred Law 21,,Yes,,3894
+Lawrence,Absentee Precinct,Referred Law 21,,No,,4668
+Lawrence,01,Initiated Measure 28,,Yes,,266
+Lawrence,01,Initiated Measure 28,,No,,522
+Lawrence,01,Initiated Measure 29,,Yes,,417
+Lawrence,01,Initiated Measure 29,,No,,390
+Lawrence,01,Referred Law 21,,Yes,,338
+Lawrence,01,Referred Law 21,,No,,418
+Lawrence,02,Initiated Measure 28,,Yes,,331
+Lawrence,02,Initiated Measure 28,,No,,533
+Lawrence,02,Initiated Measure 29,,Yes,,497
+Lawrence,02,Initiated Measure 29,,No,,382
+Lawrence,02,Referred Law 21,,Yes,,385
+Lawrence,02,Referred Law 21,,No,,443
+Lawrence,03,Initiated Measure 28,,Yes,,285
+Lawrence,03,Initiated Measure 28,,No,,681
+Lawrence,03,Initiated Measure 29,,Yes,,433
+Lawrence,03,Initiated Measure 29,,No,,553
+Lawrence,03,Referred Law 21,,Yes,,379
+Lawrence,03,Referred Law 21,,No,,549
+Lawrence,04,Initiated Measure 28,,Yes,,246
+Lawrence,04,Initiated Measure 28,,No,,457
+Lawrence,04,Initiated Measure 29,,Yes,,440
+Lawrence,04,Initiated Measure 29,,No,,278
+Lawrence,04,Referred Law 21,,Yes,,296
+Lawrence,04,Referred Law 21,,No,,385
+Lawrence,05,Initiated Measure 28,,Yes,,89
+Lawrence,05,Initiated Measure 28,,No,,126
+Lawrence,05,Initiated Measure 29,,Yes,,138
+Lawrence,05,Initiated Measure 29,,No,,83
+Lawrence,05,Referred Law 21,,Yes,,101
+Lawrence,05,Referred Law 21,,No,,114
+Lawrence,06,Initiated Measure 28,,Yes,,63
+Lawrence,06,Initiated Measure 28,,No,,106
+Lawrence,06,Initiated Measure 29,,Yes,,65
+Lawrence,06,Initiated Measure 29,,No,,104
+Lawrence,06,Referred Law 21,,Yes,,58
+Lawrence,06,Referred Law 21,,No,,107
+Lawrence,07,Initiated Measure 28,,Yes,,116
+Lawrence,07,Initiated Measure 28,,No,,273
+Lawrence,07,Initiated Measure 29,,Yes,,172
+Lawrence,07,Initiated Measure 29,,No,,227
+Lawrence,07,Referred Law 21,,Yes,,159
+Lawrence,07,Referred Law 21,,No,,221
+Lawrence,08,Initiated Measure 28,,Yes,,30
+Lawrence,08,Initiated Measure 28,,No,,124
+Lawrence,08,Initiated Measure 29,,Yes,,59
+Lawrence,08,Initiated Measure 29,,No,,102
+Lawrence,08,Referred Law 21,,Yes,,38
+Lawrence,08,Referred Law 21,,No,,116
+Lawrence,09,Initiated Measure 28,,Yes,,188
+Lawrence,09,Initiated Measure 28,,No,,510
+Lawrence,09,Initiated Measure 29,,Yes,,290
+Lawrence,09,Initiated Measure 29,,No,,421
+Lawrence,09,Referred Law 21,,Yes,,173
+Lawrence,09,Referred Law 21,,No,,517
+Lawrence,10,Initiated Measure 28,,Yes,,327
+Lawrence,10,Initiated Measure 28,,No,,942
+Lawrence,10,Initiated Measure 29,,Yes,,510
+Lawrence,10,Initiated Measure 29,,No,,785
+Lawrence,10,Referred Law 21,,Yes,,425
+Lawrence,10,Referred Law 21,,No,,800

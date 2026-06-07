@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,1,President,,Kamala D. Harris and Tim Walz,DEM,0
+Jackson,1,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,1,President,,Donald J. Trump and JD Vance,REP,41
+Jackson,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Jackson,2,President,,Kamala D. Harris and Tim Walz,DEM,22
+Jackson,2,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,2,President,,Donald J. Trump and JD Vance,REP,95
+Jackson,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Jackson,3,President,,Kamala D. Harris and Tim Walz,DEM,3
+Jackson,3,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,3,President,,Donald J. Trump and JD Vance,REP,247
+Jackson,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Jackson,4,President,,Kamala D. Harris and Tim Walz,DEM,37
+Jackson,4,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,4,President,,Donald J. Trump and JD Vance,REP,119
+Jackson,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Jackson,5,President,,Kamala D. Harris and Tim Walz,DEM,6
+Jackson,5,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,5,President,,Donald J. Trump and JD Vance,REP,74
+Jackson,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Jackson,6,President,,Kamala D. Harris and Tim Walz,DEM,25
+Jackson,6,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,6,President,,Donald J. Trump and JD Vance,REP,89
+Jackson,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Jackson,7,President,,Kamala D. Harris and Tim Walz,DEM,209
+Jackson,7,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,7,President,,Donald J. Trump and JD Vance,REP,44
+Jackson,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Jackson,8,President,,Kamala D. Harris and Tim Walz,DEM,35
+Jackson,8,President,,Chase Oliver and Mike Maat,LIB,0
+Jackson,8,President,,Donald J. Trump and JD Vance,REP,40
+Jackson,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Jackson,1,U.S. House,1,Sheryl Johnson,DEM,0
+Jackson,1,U.S. House,1,Dusty Johnson,REP,44
+Jackson,2,U.S. House,1,Sheryl Johnson,DEM,24
+Jackson,2,U.S. House,1,Dusty Johnson,REP,96
+Jackson,3,U.S. House,1,Sheryl Johnson,DEM,18
+Jackson,3,U.S. House,1,Dusty Johnson,REP,248
+Jackson,4,U.S. House,1,Sheryl Johnson,DEM,19
+Jackson,4,U.S. House,1,Dusty Johnson,REP,194
+Jackson,5,U.S. House,1,Sheryl Johnson,DEM,12
+Jackson,5,U.S. House,1,Dusty Johnson,REP,72
+Jackson,6,U.S. House,1,Sheryl Johnson,DEM,28
+Jackson,6,U.S. House,1,Dusty Johnson,REP,85
+Jackson,7,U.S. House,1,Sheryl Johnson,DEM,198
+Jackson,7,U.S. House,1,Dusty Johnson,REP,59
+Jackson,8,U.S. House,1,Sheryl Johnson,DEM,30
+Jackson,8,U.S. House,1,Dusty Johnson,REP,45
+Jackson,1,Public Utilities Commissioner,,Forrest Wilson,DEM,1
+Jackson,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Jackson,1,Public Utilities Commissioner,,Kristie Fiegen,REP,41
+Jackson,2,Public Utilities Commissioner,,Forrest Wilson,DEM,19
+Jackson,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Jackson,2,Public Utilities Commissioner,,Kristie Fiegen,REP,85
+Jackson,3,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Jackson,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Jackson,3,Public Utilities Commissioner,,Kristie Fiegen,REP,227
+Jackson,4,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Jackson,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Jackson,4,Public Utilities Commissioner,,Kristie Fiegen,REP,108
+Jackson,5,Public Utilities Commissioner,,Forrest Wilson,DEM,7
+Jackson,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Jackson,5,Public Utilities Commissioner,,Kristie Fiegen,REP,72
+Jackson,6,Public Utilities Commissioner,,Forrest Wilson,DEM,25
+Jackson,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Jackson,6,Public Utilities Commissioner,,Kristie Fiegen,REP,72
+Jackson,7,Public Utilities Commissioner,,Forrest Wilson,DEM,194
+Jackson,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Jackson,7,Public Utilities Commissioner,,Kristie Fiegen,REP,42
+Jackson,8,Public Utilities Commissioner,,Forrest Wilson,DEM,34
+Jackson,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Jackson,8,Public Utilities Commissioner,,Kristie Fiegen,REP,40
+Jackson,1,State Senate,27,Red Dawn Foster,DEM,1
+Jackson,1,State Senate,27,Anthony G. Koth,REP,43
+Jackson,2,State Senate,27,Red Dawn Foster,DEM,28
+Jackson,2,State Senate,27,Anthony G. Koth,REP,87
+Jackson,3,State Senate,27,Red Dawn Foster,DEM,25
+Jackson,3,State Senate,27,Anthony G. Koth,REP,126
+Jackson,4,State Senate,27,Red Dawn Foster,DEM,25
+Jackson,4,State Senate,27,Anthony G. Koth,REP,125
+Jackson,5,State Senate,27,Red Dawn Foster,DEM,10
+Jackson,5,State Senate,27,Anthony G. Koth,REP,73
+Jackson,6,State Senate,27,Red Dawn Foster,DEM,29
+Jackson,6,State Senate,27,Anthony G. Koth,REP,40
+Jackson,7,State Senate,27,Red Dawn Foster,DEM,213
+Jackson,7,State Senate,27,Anthony G. Koth,REP,84
+Jackson,8,State Senate,27,Red Dawn Foster,DEM,39
+Jackson,8,State Senate,27,Anthony G. Koth,REP,34
+Jackson,1,State House,27,Peri Pourier,DEM,1
+Jackson,1,State House,27,Elsie Meeks,DEM,8
+Jackson,1,State House,27,Liz May,REP,42
+Jackson,2,State House,27,Peri Pourier,DEM,26
+Jackson,2,State House,27,Elsie Meeks,DEM,48
+Jackson,2,State House,27,Liz May,REP,85
+Jackson,3,State House,27,Peri Pourier,DEM,19
+Jackson,3,State House,27,Elsie Meeks,DEM,76
+Jackson,3,State House,27,Liz May,REP,241
+Jackson,4,State House,27,Peri Pourier,DEM,24
+Jackson,4,State House,27,Elsie Meeks,DEM,44
+Jackson,4,State House,27,Liz May,REP,131
+Jackson,5,State House,27,Peri Pourier,DEM,6
+Jackson,5,State House,27,Elsie Meeks,DEM,19
+Jackson,5,State House,27,Liz May,REP,79
+Jackson,6,State House,27,Peri Pourier,DEM,27
+Jackson,6,State House,27,Elsie Meeks,DEM,40
+Jackson,6,State House,27,Liz May,REP,49
+Jackson,7,State House,27,Peri Pourier,DEM,169
+Jackson,7,State House,27,Elsie Meeks,DEM,163
+Jackson,7,State House,27,Liz May,REP,48
+Jackson,8,State House,27,Peri Pourier,DEM,35
+Jackson,8,State House,27,Elsie Meeks,DEM,39
+Jackson,8,State House,27,Liz May,REP,37
+Jackson,1,State Senate,27,Anthony G. Kathol,REP,12
+Jackson,2,State Senate,27,Anthony G. Kathol,REP,87
+Jackson,3,State Senate,27,Anthony G. Kathol,REP,240
+Jackson,4,State Senate,27,Anthony G. Kathol,REP,125
+Jackson,5,State Senate,27,Anthony G. Kathol,REP,73
+Jackson,6,State Senate,27,Anthony G. Kathol,REP,41
+Jackson,7,State Senate,27,Anthony G. Kathol,REP,37
+Jackson,8,State Senate,27,Anthony G. Kathol,REP,34

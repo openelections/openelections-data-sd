@@ -1,0 +1,141 @@
+county,precinct,office,district,candidate,party,votes
+Campbell,1,President,,Kamala D. Harris and Tim Walz,DEM,25
+Campbell,1,President,,Chase Oliver and Miket ter Maat,LIB,1
+Campbell,1,President,,Donald J. Trump and JD Vance,REP,119
+Campbell,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Campbell,2,President,,Kamala D. Harris and Tim Walz,DEM,26
+Campbell,2,President,,Chase Oliver and Miket ter Maat,LIB,1
+Campbell,2,President,,Donald J. Trump and JD Vance,REP,133
+Campbell,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Campbell,3,President,,Kamala D. Harris and Tim Walz,DEM,24
+Campbell,3,President,,Chase Oliver and Miket ter Maat,LIB,0
+Campbell,3,President,,Donald J. Trump and JD Vance,REP,141
+Campbell,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Campbell,4,President,,Kamala D. Harris and Tim Walz,DEM,22
+Campbell,4,President,,Chase Oliver and Miket ter Maat,LIB,2
+Campbell,4,President,,Donald J. Trump and JD Vance,REP,138
+Campbell,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Campbell,5,President,,Kamala D. Harris and Tim Walz,DEM,23
+Campbell,5,President,,Chase Oliver and Miket ter Maat,LIB,1
+Campbell,5,President,,Donald J. Trump and JD Vance,REP,175
+Campbell,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Campbell,1,U.S. House,1,Sheryl Johnson,DEM,17
+Campbell,1,U.S. House,1,Dusty Johnson,REP,123
+Campbell,2,U.S. House,1,Sheryl Johnson,DEM,22
+Campbell,2,U.S. House,1,Dusty Johnson,REP,133
+Campbell,3,U.S. House,1,Sheryl Johnson,DEM,28
+Campbell,3,U.S. House,1,Dusty Johnson,REP,138
+Campbell,4,U.S. House,1,Sheryl Johnson,DEM,19
+Campbell,4,U.S. House,1,Dusty Johnson,REP,140
+Campbell,5,U.S. House,1,Sheryl Johnson,DEM,19
+Campbell,5,U.S. House,1,Dusty Johnson,REP,170
+Campbell,1,Public Utilities Commissioner,,Forrest Wilson,DEM,17
+Campbell,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Campbell,1,Public Utilities Commissioner,,Kristie Fiegen,REP,112
+Campbell,2,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Campbell,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Campbell,2,Public Utilities Commissioner,,Kristie Fiegen,REP,124
+Campbell,3,Public Utilities Commissioner,,Forrest Wilson,DEM,18
+Campbell,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Campbell,3,Public Utilities Commissioner,,Kristie Fiegen,REP,133
+Campbell,4,Public Utilities Commissioner,,Forrest Wilson,DEM,11
+Campbell,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Campbell,4,Public Utilities Commissioner,,Kristie Fiegen,REP,134
+Campbell,5,Public Utilities Commissioner,,Forrest Wilson,DEM,13
+Campbell,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Campbell,5,Public Utilities Commissioner,,Kristie Fiegen,REP,163
+Campbell,1,State Senate,23,Mark Lapka,REP,120
+Campbell,2,State Senate,23,Mark Lapka,REP,121
+Campbell,3,State Senate,23,Mark Lapka,REP,147
+Campbell,4,State Senate,23,Mark Lapka,REP,134
+Campbell,5,State Senate,23,Mark Lapka,REP,154
+Campbell,1,State House,23,Scott Moore,REP,77
+Campbell,1,State House,23,Spencer Gosch,REP,119
+Campbell,2,State House,23,Scott Moore,REP,90
+Campbell,2,State House,23,Spencer Gosch,REP,120
+Campbell,3,State House,23,Scott Moore,REP,84
+Campbell,3,State House,23,Spencer Gosch,REP,149
+Campbell,4,State House,23,Scott Moore,REP,91
+Campbell,4,State House,23,Spencer Gosch,REP,130
+Campbell,5,State House,23,Scott Moore,REP,118
+Campbell,5,State House,23,Spencer Gosch,REP,148
+Campbell,1,Supreme Court Retention,5,Yes,,117
+Campbell,1,Supreme Court Retention,5,No,,11
+Campbell,2,Supreme Court Retention,5,Yes,,127
+Campbell,2,Supreme Court Retention,5,No,,18
+Campbell,3,Supreme Court Retention,5,Yes,,129
+Campbell,3,Supreme Court Retention,5,No,,19
+Campbell,4,Supreme Court Retention,5,Yes,,126
+Campbell,4,Supreme Court Retention,5,No,,14
+Campbell,5,Supreme Court Retention,5,Yes,,152
+Campbell,5,Supreme Court Retention,5,No,,27
+Campbell,1,Constitutional Amendment E,,Yes,,51
+Campbell,1,Constitutional Amendment E,,No,,91
+Campbell,1,Constitutional Amendment F,,Yes,,91
+Campbell,1,Constitutional Amendment F,,No,,50
+Campbell,1,Constitutional Amendment G,,Yes,,31
+Campbell,1,Constitutional Amendment G,,No,,109
+Campbell,1,Constitutional Amendment H,,Yes,,26
+Campbell,1,Constitutional Amendment H,,No,,112
+Campbell,2,Constitutional Amendment E,,Yes,,65
+Campbell,2,Constitutional Amendment E,,No,,90
+Campbell,2,Constitutional Amendment F,,Yes,,83
+Campbell,2,Constitutional Amendment F,,No,,71
+Campbell,2,Constitutional Amendment G,,Yes,,49
+Campbell,2,Constitutional Amendment G,,No,,112
+Campbell,2,Constitutional Amendment H,,Yes,,29
+Campbell,2,Constitutional Amendment H,,No,,122
+Campbell,3,Constitutional Amendment E,,Yes,,45
+Campbell,3,Constitutional Amendment E,,No,,124
+Campbell,3,Constitutional Amendment F,,Yes,,116
+Campbell,3,Constitutional Amendment F,,No,,51
+Campbell,3,Constitutional Amendment G,,Yes,,37
+Campbell,3,Constitutional Amendment G,,No,,131
+Campbell,3,Constitutional Amendment H,,Yes,,28
+Campbell,3,Constitutional Amendment H,,No,,138
+Campbell,4,Constitutional Amendment E,,Yes,,52
+Campbell,4,Constitutional Amendment E,,No,,110
+Campbell,4,Constitutional Amendment F,,Yes,,90
+Campbell,4,Constitutional Amendment F,,No,,67
+Campbell,4,Constitutional Amendment G,,Yes,,38
+Campbell,4,Constitutional Amendment G,,No,,123
+Campbell,4,Constitutional Amendment H,,Yes,,32
+Campbell,4,Constitutional Amendment H,,No,,128
+Campbell,5,Constitutional Amendment E,,Yes,,47
+Campbell,5,Constitutional Amendment E,,No,,144
+Campbell,5,Constitutional Amendment F,,Yes,,119
+Campbell,5,Constitutional Amendment F,,No,,74
+Campbell,5,Constitutional Amendment G,,Yes,,38
+Campbell,5,Constitutional Amendment G,,No,,158
+Campbell,5,Constitutional Amendment H,,Yes,,36
+Campbell,5,Constitutional Amendment H,,No,,154
+Campbell,1,Initiated Measure 28,,Yes,,25
+Campbell,1,Initiated Measure 28,,No,,119
+Campbell,1,Initiated Measure 29,,Yes,,45
+Campbell,1,Initiated Measure 29,,No,,98
+Campbell,1,Referred Law 21,,Yes,,41
+Campbell,1,Referred Law 21,,No,,99
+Campbell,2,Initiated Measure 28,,Yes,,44
+Campbell,2,Initiated Measure 28,,No,,117
+Campbell,2,Initiated Measure 29,,Yes,,56
+Campbell,2,Initiated Measure 29,,No,,102
+Campbell,2,Referred Law 21,,Yes,,56
+Campbell,2,Referred Law 21,,No,,98
+Campbell,3,Initiated Measure 28,,Yes,,34
+Campbell,3,Initiated Measure 28,,No,,134
+Campbell,3,Initiated Measure 29,,Yes,,43
+Campbell,3,Initiated Measure 29,,No,,128
+Campbell,3,Referred Law 21,,Yes,,42
+Campbell,3,Referred Law 21,,No,,122
+Campbell,4,Initiated Measure 28,,Yes,,23
+Campbell,4,Initiated Measure 28,,No,,137
+Campbell,4,Initiated Measure 29,,Yes,,46
+Campbell,4,Initiated Measure 29,,No,,116
+Campbell,4,Referred Law 21,,Yes,,45
+Campbell,4,Referred Law 21,,No,,115
+Campbell,5,Initiated Measure 28,,Yes,,31
+Campbell,5,Initiated Measure 28,,No,,160
+Campbell,5,Initiated Measure 29,,Yes,,52
+Campbell,5,Initiated Measure 29,,No,,141
+Campbell,5,Referred Law 21,,Yes,,47
+Campbell,5,Referred Law 21,,No,,144

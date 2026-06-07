@@ -1,0 +1,197 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,President,,Kamala D. Harris and Tim Waz,DEM,37
+Faulk,1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,1,President,,Donald J. Trump and JD Vance,REP,133
+Faulk,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Faulk,2,President,,Kamala D. Harris and Tim Waz,DEM,7
+Faulk,2,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,2,President,,Donald J. Trump and JD Vance,REP,122
+Faulk,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Faulk,3,President,,Kamala D. Harris and Tim Waz,DEM,14
+Faulk,3,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,3,President,,Donald J. Trump and JD Vance,REP,107
+Faulk,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Faulk,4,President,,Kamala D. Harris and Tim Waz,DEM,18
+Faulk,4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,4,President,,Donald J. Trump and JD Vance,REP,76
+Faulk,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Faulk,5,President,,Kamala D. Harris and Tim Waz,DEM,15
+Faulk,5,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,5,President,,Donald J. Trump and JD Vance,REP,88
+Faulk,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Faulk,6,President,,Kamala D. Harris and Tim Waz,DEM,38
+Faulk,6,President,,Chase Oliver and Mike ter Maat,LIB,6
+Faulk,6,President,,Donald J. Trump and JD Vance,REP,184
+Faulk,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Faulk,7,President,,Kamala D. Harris and Tim Waz,DEM,54
+Faulk,7,President,,Chase Oliver and Mike ter Maat,LIB,0
+Faulk,7,President,,Donald J. Trump and JD Vance,REP,210
+Faulk,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Faulk,1,U.S. House,1,Sheryl Johnson,DEM,37
+Faulk,1,U.S. House,1,Dusty Johnson,REP,129
+Faulk,2,U.S. House,1,Sheryl Johnson,DEM,12
+Faulk,2,U.S. House,1,Dusty Johnson,REP,112
+Faulk,3,U.S. House,1,Sheryl Johnson,DEM,14
+Faulk,3,U.S. House,1,Dusty Johnson,REP,108
+Faulk,4,U.S. House,1,Sheryl Johnson,DEM,15
+Faulk,4,U.S. House,1,Dusty Johnson,REP,79
+Faulk,5,U.S. House,1,Sheryl Johnson,DEM,11
+Faulk,5,U.S. House,1,Dusty Johnson,REP,89
+Faulk,6,U.S. House,1,Sheryl Johnson,DEM,35
+Faulk,6,U.S. House,1,Dusty Johnson,REP,193
+Faulk,7,U.S. House,1,Sheryl Johnson,DEM,44
+Faulk,7,U.S. House,1,Dusty Johnson,REP,218
+Faulk,1,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Faulk,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Faulk,1,Public Utilities Commissioner,,Kristie Fiegen,REP,123
+Faulk,2,Public Utilities Commissioner,,Forrest Wilson,DEM,3
+Faulk,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Faulk,2,Public Utilities Commissioner,,Kristie Fiegen,REP,117
+Faulk,3,Public Utilities Commissioner,,Forrest Wilson,DEM,13
+Faulk,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Faulk,3,Public Utilities Commissioner,,Kristie Fiegen,REP,98
+Faulk,4,Public Utilities Commissioner,,Forrest Wilson,DEM,14
+Faulk,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
+Faulk,4,Public Utilities Commissioner,,Kristie Fiegen,REP,78
+Faulk,5,Public Utilities Commissioner,,Forrest Wilson,DEM,14
+Faulk,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Faulk,5,Public Utilities Commissioner,,Kristie Fiegen,REP,83
+Faulk,6,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Faulk,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Faulk,6,Public Utilities Commissioner,,Kristie Fiegen,REP,175
+Faulk,7,Public Utilities Commissioner,,Forrest Wilson,DEM,46
+Faulk,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Faulk,7,Public Utilities Commissioner,,Kristie Fiegen,REP,195
+Faulk,1,State Senate,23,Mark Lapka,REP,126
+Faulk,2,State Senate,23,Mark Lapka,REP,104
+Faulk,3,State Senate,23,Mark Lapka,REP,93
+Faulk,4,State Senate,23,Mark Lapka,REP,78
+Faulk,5,State Senate,23,Mark Lapka,REP,76
+Faulk,6,State Senate,23,Mark Lapka,REP,167
+Faulk,7,State Senate,23,Mark Lapka,REP,204
+Faulk,1,State House,23,Scott Moore,REP,109
+Faulk,1,State House,23,Spencer Gosch,REP,85
+Faulk,2,State House,23,Scott Moore,REP,92
+Faulk,2,State House,23,Spencer Gosch,REP,84
+Faulk,3,State House,23,Scott Moore,REP,84
+Faulk,3,State House,23,Spencer Gosch,REP,85
+Faulk,4,State House,23,Scott Moore,REP,69
+Faulk,4,State House,23,Spencer Gosch,REP,68
+Faulk,5,State House,23,Scott Moore,REP,66
+Faulk,5,State House,23,Spencer Gosch,REP,58
+Faulk,6,State House,23,Scott Moore,REP,164
+Faulk,6,State House,23,Spencer Gosch,REP,149
+Faulk,7,State House,23,Scott Moore,REP,176
+Faulk,7,State House,23,Spencer Gosch,REP,166
+Faulk,1,Supreme Court Retention,5,Justice Scott P. Myren,,127
+Faulk,1,Supreme Court Retention,5,No,,16
+Faulk,2,Supreme Court Retention,5,Justice Scott P. Myren,,101
+Faulk,2,Supreme Court Retention,5,No,,14
+Faulk,3,Supreme Court Retention,5,Justice Scott P. Myren,,84
+Faulk,3,Supreme Court Retention,5,No,,13
+Faulk,4,Supreme Court Retention,5,Justice Scott P. Myren,,69
+Faulk,4,Supreme Court Retention,5,No,,15
+Faulk,5,Supreme Court Retention,5,Justice Scott P. Myren,,71
+Faulk,5,Supreme Court Retention,5,No,,11
+Faulk,6,Supreme Court Retention,5,Justice Scott P. Myren,,164
+Faulk,6,Supreme Court Retention,5,No,,28
+Faulk,7,Supreme Court Retention,5,Justice Scott P. Myren,,186
+Faulk,7,Supreme Court Retention,5,No,,43
+Faulk,1,Constitutional Amendment E,,Yes,,49
+Faulk,1,Constitutional Amendment E,,No,,126
+Faulk,1,Constitutional Amendment F,,Yes,,85
+Faulk,1,Constitutional Amendment F,,No,,87
+Faulk,1,Constitutional Amendment G,,Yes,,39
+Faulk,1,Constitutional Amendment G,,No,,135
+Faulk,1,Constitutional Amendment H,,Yes,,51
+Faulk,1,Constitutional Amendment H,,No,,124
+Faulk,2,Constitutional Amendment E,,Yes,,35
+Faulk,2,Constitutional Amendment E,,No,,93
+Faulk,2,Constitutional Amendment F,,Yes,,64
+Faulk,2,Constitutional Amendment F,,No,,65
+Faulk,2,Constitutional Amendment G,,Yes,,18
+Faulk,2,Constitutional Amendment G,,No,,117
+Faulk,2,Constitutional Amendment H,,Yes,,30
+Faulk,2,Constitutional Amendment H,,No,,100
+Faulk,3,Constitutional Amendment E,,Yes,,35
+Faulk,3,Constitutional Amendment E,,No,,86
+Faulk,3,Constitutional Amendment F,,Yes,,65
+Faulk,3,Constitutional Amendment F,,No,,54
+Faulk,3,Constitutional Amendment G,,Yes,,15
+Faulk,3,Constitutional Amendment G,,No,,108
+Faulk,3,Constitutional Amendment H,,Yes,,18
+Faulk,3,Constitutional Amendment H,,No,,101
+Faulk,4,Constitutional Amendment E,,Yes,,18
+Faulk,4,Constitutional Amendment E,,No,,76
+Faulk,4,Constitutional Amendment F,,Yes,,40
+Faulk,4,Constitutional Amendment F,,No,,53
+Faulk,4,Constitutional Amendment G,,Yes,,14
+Faulk,4,Constitutional Amendment G,,No,,81
+Faulk,4,Constitutional Amendment H,,Yes,,21
+Faulk,4,Constitutional Amendment H,,No,,71
+Faulk,5,Constitutional Amendment E,,Yes,,27
+Faulk,5,Constitutional Amendment E,,No,,72
+Faulk,5,Constitutional Amendment F,,Yes,,54
+Faulk,5,Constitutional Amendment F,,No,,42
+Faulk,5,Constitutional Amendment G,,Yes,,23
+Faulk,5,Constitutional Amendment G,,No,,81
+Faulk,5,Constitutional Amendment H,,Yes,,22
+Faulk,5,Constitutional Amendment H,,No,,76
+Faulk,6,Constitutional Amendment E,,Yes,,61
+Faulk,6,Constitutional Amendment E,,No,,163
+Faulk,6,Constitutional Amendment F,,Yes,,123
+Faulk,6,Constitutional Amendment F,,No,,103
+Faulk,6,Constitutional Amendment G,,Yes,,47
+Faulk,6,Constitutional Amendment G,,No,,183
+Faulk,6,Constitutional Amendment H,,Yes,,62
+Faulk,6,Constitutional Amendment H,,No,,162
+Faulk,7,Constitutional Amendment E,,Yes,,92
+Faulk,7,Constitutional Amendment E,,No,,175
+Faulk,7,Constitutional Amendment F,,Yes,,139
+Faulk,7,Constitutional Amendment F,,No,,128
+Faulk,7,Constitutional Amendment G,,Yes,,63
+Faulk,7,Constitutional Amendment G,,No,,209
+Faulk,7,Constitutional Amendment H,,Yes,,90
+Faulk,7,Constitutional Amendment H,,No,,177
+Faulk,1,Initiated Measure 28,,Yes,,28
+Faulk,1,Initiated Measure 28,,No,,145
+Faulk,1,Initiated Measure 29,,Yes,,42
+Faulk,1,Initiated Measure 29,,No,,133
+Faulk,1,Referred Law 21,,Yes,,56
+Faulk,1,Referred Law 21,,No,,113
+Faulk,2,Initiated Measure 28,,Yes,,32
+Faulk,2,Initiated Measure 28,,No,,99
+Faulk,2,Initiated Measure 29,,Yes,,28
+Faulk,2,Initiated Measure 29,,No,,104
+Faulk,2,Referred Law 21,,Yes,,32
+Faulk,2,Referred Law 21,,No,,99
+Faulk,3,Initiated Measure 28,,Yes,,16
+Faulk,3,Initiated Measure 28,,No,,104
+Faulk,3,Initiated Measure 29,,Yes,,27
+Faulk,3,Initiated Measure 29,,No,,94
+Faulk,3,Referred Law 21,,Yes,,28
+Faulk,3,Referred Law 21,,No,,95
+Faulk,4,Initiated Measure 28,,Yes,,19
+Faulk,4,Initiated Measure 28,,No,,76
+Faulk,4,Initiated Measure 29,,Yes,,24
+Faulk,4,Initiated Measure 29,,No,,71
+Faulk,4,Referred Law 21,,Yes,,23
+Faulk,4,Referred Law 21,,No,,71
+Faulk,5,Initiated Measure 28,,Yes,,18
+Faulk,5,Initiated Measure 28,,No,,83
+Faulk,5,Initiated Measure 29,,Yes,,27
+Faulk,5,Initiated Measure 29,,No,,75
+Faulk,5,Referred Law 21,,Yes,,21
+Faulk,5,Referred Law 21,,No,,75
+Faulk,6,Initiated Measure 28,,Yes,,42
+Faulk,6,Initiated Measure 28,,No,,184
+Faulk,6,Initiated Measure 29,,Yes,,62
+Faulk,6,Initiated Measure 29,,No,,163
+Faulk,6,Referred Law 21,,Yes,,76
+Faulk,6,Referred Law 21,,No,,147
+Faulk,7,Initiated Measure 28,,Yes,,49
+Faulk,7,Initiated Measure 28,,No,,220
+Faulk,7,Initiated Measure 29,,Yes,,71
+Faulk,7,Initiated Measure 29,,No,,199
+Faulk,7,Referred Law 21,,Yes,,96
+Faulk,7,Referred Law 21,,No,,173

@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Potter,Absentee Precinct,President,,Kamala D. Harris and Tim Walz,DEM,93
+Potter,Absentee Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2
+Potter,Absentee Precinct,President,,Donald J. Trump and JD Vance,REP,252
+Potter,Absenttee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Potter,GC Bar (Gettysburg Legion Annex),President,,Kamala D. Harris and Tim Walz,DEM,96
+Potter,GC Bar (Gettysburg Legion Annex),President,,Chase Oliver and Mike ter Maat,LIB,5
+Potter,GC Bar (Gettysburg Legion Annex),President,,Donald J. Trump and JD Vance,REP,549
+Potter,GC Bar (Gettysburg Legion Annex),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Potter,Hoven Legion Hall,President,,Kamala D. Harris and Tim Walz,DEM,25
+Potter,Hoven Legion Hall,President,,Chase Oliver and Mike ter Maat,LIB,1
+Potter,Hoven Legion Hall,President,,Donald J. Trump and JD Vance,REP,258
+Potter,Hoven Legion Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Potter,Absentee Precinct,U.S. House,1,Sheryl Johnson,DEM,77
+Potter,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,260
+Potter,CC Bar (Gettysburg Legion Annex),U.S. House,1,Sheryl Johnson,DEM,70
+Potter,CC Bar (Gettysburg Legion Annex),U.S. House,1,Dusty Johnson,REP,589
+Potter,Hoven Legion Hall,U.S. House,1,Sheryl Johnson,DEM,26
+Potter,Hoven Legion Hall,U.S. House,1,Dusty Johnson,REP,260
+Potter,Absentee Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,71
+Potter,Absentee Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Potter,Absentee Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,239
+Potter,CC Bar (Gettysburg Legion Annex),Public Utilities Commissioner,,Forrest Wilson,DEM,63
+Potter,CC Bar (Gettysburg Legion Annex),Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Potter,CC Bar (Gettysburg Legion Annex),Public Utilities Commissioner,,Kristie Fiegen,REP,550
+Potter,Hoven Legion Hall,Public Utilities Commissioner,,Forrest Wilson,DEM,19
+Potter,Hoven Legion Hall,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Potter,Hoven Legion Hall,Public Utilities Commissioner,,Kristie Fiegen,REP,249
+Potter,Absentee Precinct,State Senate,23,Mark Lapka,REP,240
+Potter,CC Bar (Gettysburg Legion Annex),State Senate,23,Mark Lapka,REP,528
+Potter,Hoven Legion Hall,State Senate,23,Mark Lapka,REP,236
+Potter,Absentee Precinct,State House,23,Scott Moore,REP,188
+Potter,Absentee Precinct,State House,23,Spencer Gosch,REP,200
+Potter,CC Bar (Gettysburg Legion Annex),State House,23,Scott Moore,REP,418
+Potter,CC Bar (Gettysburg Legion Annex),State House,23,Spencer Gosch,REP,461
+Potter,Hoven Legion Hall,State House,23,Scott Moore,REP,171
+Potter,Hoven Legion Hall,State House,23,Spencer Gosch,REP,203
+Potter,Absentee Precinct,Supreme Court Retention,,Yes,,247
+Potter,Absentee Precinct,Supreme Court Retention,,No,,10
+Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,,Yes,,496
+Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,,No,,82
+Potter,Hoven Legion Hall,Supreme Court Retention,,Yes,,206
+Potter,Hoven Legion Hall,Supreme Court Retention,,No,,40
+Potter,Absentee Precinct,Constitutional Amendment E,,Yes,,121
+Potter,Absentee Precinct,Constitutional Amendment E,,No,,217
+Potter,Absentee Precinct,Constitutional Amendment F,,Yes,,190
+Potter,Absentee Precinct,Constitutional Amendment F,,No,,155
+Potter,Absentee Precinct,Constitutional Amendment G,,Yes,,113
+Potter,Absentee Precinct,Constitutional Amendment G,,No,,228
+Potter,Absentee Precinct,Constitutional Amendment H,,Yes,,101
+Potter,Absentee Precinct,Constitutional Amendment H,,No,,229
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment E,,Yes,,213
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment E,,No,,452
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment F,,Yes,,339
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment F,,No,,316
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment G,,Yes,,164
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment G,,No,,498
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment H,,Yes,,158
+Potter,CC Bar (Gettysburg Legion Annex),Constitutional Amendment H,,No,,494
+Potter,Hoven Legion Hall,Constitutional Amendment E,,Yes,,72
+Potter,Hoven Legion Hall,Constitutional Amendment E,,No,,209
+Potter,Hoven Legion Hall,Constitutional Amendment F,,Yes,,161
+Potter,Hoven Legion Hall,Constitutional Amendment F,,No,,125
+Potter,Hoven Legion Hall,Constitutional Amendment G,,Yes,,41
+Potter,Hoven Legion Hall,Constitutional Amendment G,,No,,247
+Potter,Hoven Legion Hall,Constitutional Amendment H,,Yes,,54
+Potter,Hoven Legion Hall,Constitutional Amendment H,,No,,232
+Potter,Absentee Precinct,Initiated Measure 28,,Yes,,74
+Potter,Absentee Precinct,Initiated Measure 28,,No,,264
+Potter,Absentee Precinct,Initiated Measure 29,,Yes,,118
+Potter,Absentee Precinct,Initiated Measure 29,,No,,223
+Potter,Absentee Precinct,Referred Law 21,,Yes,,135
+Potter,Absentee Precinct,Referred Law 21,,No,,194
+Potter,CC Bar (Gettysburg Legion Annex),Initiated Measure 28,,Yes,,94
+Potter,CC Bar (Gettysburg Legion Annex),Initiated Measure 28,,No,,566
+Potter,CC Bar (Gettysburg Legion Annex),Initiated Measure 29,,Yes,,219
+Potter,CC Bar (Gettysburg Legion Annex),Initiated Measure 29,,No,,443
+Potter,CC Bar (Gettysburg Legion Annex),Referred Law 21,,Yes,,199
+Potter,CC Bar (Gettysburg Legion Annex),Referred Law 21,,No,,453
+Potter,Hoven Legion Hall,Initiated Measure 28,,Yes,,30
+Potter,Hoven Legion Hall,Initiated Measure 28,,No,,255
+Potter,Hoven Legion Hall,Initiated Measure 29,,Yes,,55
+Potter,Hoven Legion Hall,Initiated Measure 29,,No,,229
+Potter,Hoven Legion Hall,Referred Law 21,,Yes,,71
+Potter,Hoven Legion Hall,Referred Law 21,,No,,212

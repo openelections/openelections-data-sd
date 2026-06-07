@@ -1,0 +1,273 @@
+county,precinct,office,district,candidate,party,votes
+Harding,01,President,,Kamala D. Harris and Tim Walz,DEM,17
+Harding,01,President,,Chase Oliver and Mike ter Maat,LIB,1
+Harding,01,President,,Donald J. Trump and JD Vance,REP,131
+Harding,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Harding,02,President,,Kamala D. Harris and Tim Walz,DEM,13
+Harding,02,President,,Chase Oliver and Mike ter Maat,LIB,2
+Harding,02,President,,Donald J. Trump and JD Vance,REP,134
+Harding,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Harding,03,President,,Kamala D. Harris and Tim Walz,DEM,5
+Harding,03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Harding,03,President,,Donald J. Trump and JD Vance,REP,48
+Harding,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Harding,05,President,,Kamala D. Harris and Tim Walz,DEM,5
+Harding,05,President,,Chase Oliver and Mike ter Maat,LIB,2
+Harding,05,President,,Donald J. Trump and JD Vance,REP,131
+Harding,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Harding,06,President,,Kamala D. Harris and Tim Walz,DEM,0
+Harding,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Harding,06,President,,Donald J. Trump and JD Vance,REP,31
+Harding,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Harding,07,President,,Kamala D. Harris and Tim Walz,DEM,5
+Harding,07,President,,Chase Oliver and Mike ter Maat,LIB,0
+Harding,07,President,,Donald J. Trump and JD Vance,REP,97
+Harding,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Harding,08,President,,Kamala D. Harris and Tim Walz,DEM,1
+Harding,08,President,,Chase Oliver and Mike ter Maat,LIB,0
+Harding,08,President,,Donald J. Trump and JD Vance,REP,58
+Harding,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Harding,09,President,,Kamala D. Harris and Tim Walz,DEM,2
+Harding,09,President,,Chase Oliver and Mike ter Maat,LIB,0
+Harding,09,President,,Donald J. Trump and JD Vance,REP,124
+Harding,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Harding,01,President,,Chase Oliver and Mike Itter,LIB,1
+Harding,02,President,,Chase Oliver and Mike Itter,LIB,2
+Harding,03,President,,Chase Oliver and Mike Itter,LIB,0
+Harding,05,President,,Chase Oliver and Mike Itter,LIB,2
+Harding,06,President,,Chase Oliver and Mike Itter,LIB,0
+Harding,07,President,,Chase Oliver and Mike Itter,LIB,0
+Harding,08,President,,Chase Oliver and Mike Itter,LIB,0
+Harding,09,President,,Chase Oliver and Mike Itter,LIB,0
+Harding,01,U.S. House,1,Sheryl Johnson,DEM,15
+Harding,01,U.S. House,1,Dusty Johnson,REP,134
+Harding,02,U.S. House,1,Sheryl Johnson,DEM,10
+Harding,02,U.S. House,1,Dusty Johnson,REP,137
+Harding,03,U.S. House,1,Sheryl Johnson,DEM,4
+Harding,03,U.S. House,1,Dusty Johnson,REP,46
+Harding,05,U.S. House,1,Sheryl Johnson,DEM,6
+Harding,05,U.S. House,1,Dusty Johnson,REP,133
+Harding,06,U.S. House,1,Sheryl Johnson,DEM,0
+Harding,06,U.S. House,1,Dusty Johnson,REP,31
+Harding,07,U.S. House,1,Sheryl Johnson,DEM,5
+Harding,07,U.S. House,1,Dusty Johnson,REP,94
+Harding,08,U.S. House,1,Sheryl Johnson,DEM,4
+Harding,08,U.S. House,1,Dusty Johnson,REP,55
+Harding,09,U.S. House,1,Sheryl Johnson,DEM,1
+Harding,09,U.S. House,1,Dusty Johnson,REP,122
+Harding,01,Public Utilities Commissioner,,Forrest Wilson,DEM,11
+Harding,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Harding,01,Public Utilities Commissioner,,Kristie Fiegen,REP,129
+Harding,02,Public Utilities Commissioner,,Forrest Wilson,DEM,8
+Harding,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Harding,02,Public Utilities Commissioner,,Kristie Fiegen,REP,121
+Harding,03,Public Utilities Commissioner,,Forrest Wilson,DEM,5
+Harding,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Harding,03,Public Utilities Commissioner,,Kristie Fiegen,REP,47
+Harding,05,Public Utilities Commissioner,,Forrest Wilson,DEM,6
+Harding,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Harding,05,Public Utilities Commissioner,,Kristie Fiegen,REP,126
+Harding,06,Public Utilities Commissioner,,Forrest Wilson,DEM,0
+Harding,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
+Harding,06,Public Utilities Commissioner,,Kristie Fiegen,REP,30
+Harding,07,Public Utilities Commissioner,,Forrest Wilson,DEM,4
+Harding,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Harding,07,Public Utilities Commissioner,,Kristie Fiegen,REP,89
+Harding,08,Public Utilities Commissioner,,Forrest Wilson,DEM,0
+Harding,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Harding,08,Public Utilities Commissioner,,Kristie Fiegen,REP,54
+Harding,09,Public Utilities Commissioner,,Forrest Wilson,DEM,2
+Harding,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Harding,09,Public Utilities Commissioner,,Kristie Fiegen,REP,118
+Harding,01,Public Utilities Commissioner,,Kristie Riegen,REP,129
+Harding,02,Public Utilities Commissioner,,Kristie Riegen,REP,121
+Harding,03,Public Utilities Commissioner,,Kristie Riegen,REP,47
+Harding,05,Public Utilities Commissioner,,Kristie Riegen,REP,126
+Harding,06,Public Utilities Commissioner,,Kristie Riegen,REP,30
+Harding,07,Public Utilities Commissioner,,Kristie Riegen,REP,89
+Harding,08,Public Utilities Commissioner,,Kristie Riegen,REP,54
+Harding,09,Public Utilities Commissioner,,Kristie Riegen,REP,118
+Harding,01,State Senate,28,Dean Schrempp,DEM,12
+Harding,01,State Senate,28,Sam Marty,REP,125
+Harding,01,State Senate,28,Shane C. Farlee,IND,10
+Harding,02,State Senate,28,Dean Schrempp,DEM,8
+Harding,02,State Senate,28,Sam Marty,REP,134
+Harding,02,State Senate,28,Shane C. Farlee,IND,6
+Harding,03,State Senate,28,Dean Schrempp,DEM,6
+Harding,03,State Senate,28,Sam Marty,REP,46
+Harding,03,State Senate,28,Shane C. Farlee,IND,0
+Harding,05,State Senate,28,Dean Schrempp,DEM,6
+Harding,05,State Senate,28,Sam Marty,REP,127
+Harding,05,State Senate,28,Shane C. Farlee,IND,7
+Harding,06,State Senate,28,Dean Schrempp,DEM,0
+Harding,06,State Senate,28,Sam Marty,REP,29
+Harding,06,State Senate,28,Shane C. Farlee,IND,1
+Harding,07,State Senate,28,Dean Schrempp,DEM,2
+Harding,07,State Senate,28,Sam Marty,REP,91
+Harding,07,State Senate,28,Shane C. Farlee,IND,9
+Harding,08,State Senate,28,Dean Schrempp,DEM,1
+Harding,08,State Senate,28,Sam Marty,REP,54
+Harding,08,State Senate,28,Shane C. Farlee,IND,3
+Harding,09,State Senate,28,Dean Schrempp,DEM,6
+Harding,09,State Senate,28,Sam Marty,REP,119
+Harding,09,State Senate,28,Shane C. Farlee,IND,4
+Harding,01,State House,28B,Travis Ismay,REP,120
+Harding,02,State House,28B,Travis Ismay,REP,125
+Harding,03,State House,28B,Travis Ismay,REP,48
+Harding,05,State House,28B,Travis Ismay,REP,116
+Harding,06,State House,28B,Travis Ismay,REP,31
+Harding,07,State House,28B,Travis Ismay,REP,89
+Harding,08,State House,28B,Travis Ismay,REP,50
+Harding,09,State House,28B,Travis Ismay,REP,114
+Harding,1,State House,28B,Travis Ismay,REP,120
+Harding,2,State House,28B,Travis Ismay,REP,125
+Harding,3,State House,28B,Travis Ismay,REP,48
+Harding,5,State House,28B,Travis Ismay,REP,116
+Harding,6,State House,28B,Travis Ismay,REP,31
+Harding,7,State House,28B,Travis Ismay,REP,89
+Harding,8,State House,28B,Travis Ismay,REP,50
+Harding,9,State House,28B,Travis Ismay,REP,114
+Harding,1,Supreme Court Retention,5,Yes,,93
+Harding,1,Supreme Court Retention,5,No,,22
+Harding,2,Supreme Court Retention,5,Yes,,106
+Harding,2,Supreme Court Retention,5,No,,12
+Harding,3,Supreme Court Retention,5,Yes,,35
+Harding,3,Supreme Court Retention,5,No,,6
+Harding,5,Supreme Court Retention,5,Yes,,102
+Harding,5,Supreme Court Retention,5,No,,10
+Harding,6,Supreme Court Retention,5,Yes,,24
+Harding,6,Supreme Court Retention,5,No,,4
+Harding,7,Supreme Court Retention,5,Yes,,62
+Harding,7,Supreme Court Retention,5,No,,16
+Harding,8,Supreme Court Retention,5,Yes,,40
+Harding,8,Supreme Court Retention,5,No,,9
+Harding,9,Supreme Court Retention,5,Yes,,88
+Harding,9,Supreme Court Retention,5,No,,20
+Harding,1,Supreme Court Retention,,Yes,,93
+Harding,1,Supreme Court Retention,,No,,22
+Harding,2,Supreme Court Retention,,Yes,,106
+Harding,2,Supreme Court Retention,,No,,12
+Harding,3,Supreme Court Retention,,Yes,,35
+Harding,3,Supreme Court Retention,,No,,6
+Harding,5,Supreme Court Retention,,Yes,,102
+Harding,5,Supreme Court Retention,,No,,10
+Harding,6,Supreme Court Retention,,Yes,,24
+Harding,6,Supreme Court Retention,,No,,4
+Harding,7,Supreme Court Retention,,Yes,,62
+Harding,7,Supreme Court Retention,,No,,16
+Harding,8,Supreme Court Retention,,Yes,,40
+Harding,8,Supreme Court Retention,,No,,9
+Harding,9,Supreme Court Retention,,Yes,,88
+Harding,9,Supreme Court Retention,,No,,20
+Harding,1,Constitutional Amendment E,,Yes,,23
+Harding,1,Constitutional Amendment E,,No,,130
+Harding,1,Constitutional Amendment F,,Yes,,87
+Harding,1,Constitutional Amendment F,,No,,66
+Harding,1,Constitutional Amendment G,,Yes,,30
+Harding,1,Constitutional Amendment G,,No,,122
+Harding,1,Constitutional Amendment H,,Yes,,29
+Harding,1,Constitutional Amendment H,,No,,120
+Harding,2,Constitutional Amendment E,,Yes,,24
+Harding,2,Constitutional Amendment E,,No,,124
+Harding,2,Constitutional Amendment F,,Yes,,91
+Harding,2,Constitutional Amendment F,,No,,57
+Harding,2,Constitutional Amendment G,,Yes,,31
+Harding,2,Constitutional Amendment G,,No,,116
+Harding,2,Constitutional Amendment H,,Yes,,21
+Harding,2,Constitutional Amendment H,,No,,122
+Harding,3,Constitutional Amendment E,,Yes,,2
+Harding,3,Constitutional Amendment E,,No,,48
+Harding,3,Constitutional Amendment F,,Yes,,30
+Harding,3,Constitutional Amendment F,,No,,21
+Harding,3,Constitutional Amendment G,,Yes,,8
+Harding,3,Constitutional Amendment G,,No,,43
+Harding,3,Constitutional Amendment H,,Yes,,9
+Harding,3,Constitutional Amendment H,,No,,42
+Harding,5,Constitutional Amendment E,,Yes,,17
+Harding,5,Constitutional Amendment E,,No,,71
+Harding,5,Constitutional Amendment F,,Yes,,75
+Harding,5,Constitutional Amendment F,,No,,65
+Harding,5,Constitutional Amendment G,,Yes,,28
+Harding,5,Constitutional Amendment G,,No,,112
+Harding,5,Constitutional Amendment H,,Yes,,31
+Harding,5,Constitutional Amendment H,,No,,107
+Harding,6,Constitutional Amendment E,,Yes,,3
+Harding,6,Constitutional Amendment E,,No,,28
+Harding,6,Constitutional Amendment F,,Yes,,20
+Harding,6,Constitutional Amendment F,,No,,10
+Harding,6,Constitutional Amendment G,,Yes,,6
+Harding,6,Constitutional Amendment G,,No,,24
+Harding,6,Constitutional Amendment H,,Yes,,2
+Harding,6,Constitutional Amendment H,,No,,27
+Harding,7,Constitutional Amendment E,,Yes,,24
+Harding,7,Constitutional Amendment E,,No,,77
+Harding,7,Constitutional Amendment F,,Yes,,57
+Harding,7,Constitutional Amendment F,,No,,38
+Harding,7,Constitutional Amendment G,,Yes,,22
+Harding,7,Constitutional Amendment G,,No,,79
+Harding,7,Constitutional Amendment H,,Yes,,12
+Harding,7,Constitutional Amendment H,,No,,87
+Harding,8,Constitutional Amendment E,,Yes,,3
+Harding,8,Constitutional Amendment E,,No,,58
+Harding,8,Constitutional Amendment F,,Yes,,46
+Harding,8,Constitutional Amendment F,,No,,14
+Harding,8,Constitutional Amendment G,,Yes,,6
+Harding,8,Constitutional Amendment G,,No,,55
+Harding,8,Constitutional Amendment H,,Yes,,7
+Harding,8,Constitutional Amendment H,,No,,49
+Harding,9,Constitutional Amendment E,,Yes,,13
+Harding,9,Constitutional Amendment E,,No,,116
+Harding,9,Constitutional Amendment F,,Yes,,72
+Harding,9,Constitutional Amendment F,,No,,55
+Harding,9,Constitutional Amendment G,,Yes,,12
+Harding,9,Constitutional Amendment G,,No,,115
+Harding,9,Constitutional Amendment H,,Yes,,33
+Harding,9,Constitutional Amendment H,,No,,124
+Harding,01,Initiated Measure 28,,Yes,,35
+Harding,01,Initiated Measure 28,,No,,118
+Harding,01,Initiated Measure 29,,Yes,,37
+Harding,01,Initiated Measure 29,,No,,115
+Harding,01,Referred Law 21,,Yes,,45
+Harding,01,Referred Law 21,,No,,104
+Harding,02,Initiated Measure 28,,Yes,,29
+Harding,02,Initiated Measure 28,,No,,117
+Harding,02,Initiated Measure 29,,Yes,,26
+Harding,02,Initiated Measure 29,,No,,120
+Harding,02,Referred Law 21,,Yes,,33
+Harding,02,Referred Law 21,,No,,108
+Harding,03,Initiated Measure 28,,Yes,,4
+Harding,03,Initiated Measure 28,,No,,47
+Harding,03,Initiated Measure 29,,Yes,,5
+Harding,03,Initiated Measure 29,,No,,46
+Harding,03,Referred Law 21,,Yes,,12
+Harding,03,Referred Law 21,,No,,39
+Harding,05,Initiated Measure 28,,Yes,,28
+Harding,05,Initiated Measure 28,,No,,113
+Harding,05,Initiated Measure 29,,Yes,,23
+Harding,05,Initiated Measure 29,,No,,118
+Harding,05,Referred Law 21,,Yes,,39
+Harding,05,Referred Law 21,,No,,97
+Harding,06,Initiated Measure 28,,Yes,,6
+Harding,06,Initiated Measure 28,,No,,24
+Harding,06,Initiated Measure 29,,Yes,,3
+Harding,06,Initiated Measure 29,,No,,27
+Harding,06,Referred Law 21,,Yes,,10
+Harding,06,Referred Law 21,,No,,19
+Harding,07,Initiated Measure 28,,Yes,,9
+Harding,07,Initiated Measure 28,,No,,49
+Harding,07,Initiated Measure 29,,Yes,,23
+Harding,07,Initiated Measure 29,,No,,76
+Harding,07,Referred Law 21,,Yes,,36
+Harding,07,Referred Law 21,,No,,56
+Harding,08,Initiated Measure 28,,Yes,,9
+Harding,08,Initiated Measure 28,,No,,48
+Harding,08,Initiated Measure 29,,Yes,,10
+Harding,08,Initiated Measure 29,,No,,51
+Harding,08,Referred Law 21,,Yes,,10
+Harding,08,Referred Law 21,,No,,48
+Harding,09,Initiated Measure 28,,Yes,,16
+Harding,09,Initiated Measure 28,,No,,112
+Harding,09,Initiated Measure 29,,Yes,,15
+Harding,09,Initiated Measure 29,,No,,112
+Harding,09,Referred Law 21,,Yes,,14
+Harding,09,Referred Law 21,,No,,113

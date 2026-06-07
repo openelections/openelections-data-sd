@@ -1,0 +1,453 @@
+county,precinct,office,district,candidate,party,votes
+Lincoln,02-21,President,,Kamala D. Harris and Tim Walz,DEM,125
+Lincoln,02-21,President,,Chase Oliver and Mike ter Maat,LIB,5
+Lincoln,02-21,President,,Donald J. Trump and JD Vance,REP,387
+Lincoln,02-21,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Lincoln,06,President,,Kamala D. Harris and Tim Walz,DEM,129
+Lincoln,06,President,,Chase Oliver and Mike ter Maat,LIB,2
+Lincoln,06,President,,Donald J. Trump and JD Vance,REP,366
+Lincoln,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Lincoln,08,President,,Kamala D. Harris and Tim Walz,DEM,60
+Lincoln,08,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lincoln,08,President,,Donald J. Trump and JD Vance,REP,182
+Lincoln,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Lincoln,11-14,President,,Kamala D. Harris and Tim Walz,DEM,153
+Lincoln,11-14,President,,Chase Oliver and Mike ter Maat,LIB,2
+Lincoln,11-14,President,,Donald J. Trump and JD Vance,REP,305
+Lincoln,11-14,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Lincoln,12,President,,Kamala D. Harris and Tim Walz,DEM,105
+Lincoln,12,President,,Chase Oliver and Mike ter Maat,LIB,4
+Lincoln,12,President,,Donald J. Trump and JD Vance,REP,365
+Lincoln,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Lincoln,13-14,President,,Kamala D. Harris and Tim Walz,DEM,113
+Lincoln,13-14,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lincoln,13-14,President,,Donald J. Trump and JD Vance,REP,404
+Lincoln,13-14,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Lincoln,15,President,,Kamala D. Harris and Tim Walz,DEM,393
+Lincoln,15,President,,Chase Oliver and Mike ter Maat,LIB,4
+Lincoln,15,President,,Donald J. Trump and JD Vance,REP,864
+Lincoln,15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Lincoln,16,President,,Kamala D. Harris and Tim Walz,DEM,314
+Lincoln,16,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lincoln,16,President,,Donald J. Trump and JD Vance,REP,825
+Lincoln,16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Lincoln,17,President,,Kamala D. Harris and Tim Walz,DEM,329
+Lincoln,17,President,,Chase Oliver and Mike ter Maat,LIB,8
+Lincoln,17,President,,Donald J. Trump and JD Vance,REP,688
+Lincoln,17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Lincoln,23-13,President,,Kamala D. Harris and Tim Walz,DEM,173
+Lincoln,23-13,President,,Chase Oliver and Mike ter Maat,LIB,4
+Lincoln,23-13,President,,Donald J. Trump and JD Vance,REP,582
+Lincoln,23-13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Lincoln,24-01,President,,Kamala D. Harris and Tim Walz,DEM,293
+Lincoln,24-01,President,,Chase Oliver and Mike ter Maat,LIB,9
+Lincoln,24-01,President,,Donald J. Trump and JD Vance,REP,745
+Lincoln,24-01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,20
+Lincoln,24-02,President,,Kamala D. Harris and Tim Walz,DEM,330
+Lincoln,24-02,President,,Chase Oliver and Mike ter Maat,LIB,5
+Lincoln,24-02,President,,Donald J. Trump and JD Vance,REP,671
+Lincoln,24-02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Lincoln,24-03,President,,Kamala D. Harris and Tim Walz,DEM,274
+Lincoln,24-03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lincoln,24-03,President,,Donald J. Trump and JD Vance,REP,576
+Lincoln,24-03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Lincoln,25,President,,Kamala D. Harris and Tim Walz,DEM,328
+Lincoln,25,President,,Chase Oliver and Mike ter Maat,LIB,8
+Lincoln,25,President,,Donald J. Trump and JD Vance,REP,796
+Lincoln,25,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Lincoln,26,President,,Kamala D. Harris and Tim Walz,DEM,129
+Lincoln,26,President,,Chase Oliver and Mike ter Maat,LIB,1
+Lincoln,26,President,,Donald J. Trump and JD Vance,REP,358
+Lincoln,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lincoln,27,President,,Kamala D. Harris and Tim Walz,DEM,577
+Lincoln,27,President,,Chase Oliver and Mike ter Maat,LIB,19
+Lincoln,27,President,,Donald J. Trump and JD Vance,REP,1221
+Lincoln,27,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,32
+Lincoln,29,President,,Kamala D. Harris and Tim Walz,DEM,508
+Lincoln,29,President,,Chase Oliver and Mike ter Maat,LIB,9
+Lincoln,29,President,,Donald J. Trump and JD Vance,REP,1118
+Lincoln,29,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,28
+Lincoln,30,President,,Kamala D. Harris and Tim Walz,DEM,176
+Lincoln,30,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lincoln,30,President,,Donald J. Trump and JD Vance,REP,321
+Lincoln,30,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lincoln,Sioux Falls 1-11,President,,Kamala D. Harris and Tim Walz,DEM,619
+Lincoln,Sioux Falls 1-11,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lincoln,Sioux Falls 1-11,President,,Donald J. Trump and JD Vance,REP,1010
+Lincoln,Sioux Falls 1-11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
+Lincoln,Sioux Falls 1-12,President,,Kamala D. Harris and Tim Walz,DEM,575
+Lincoln,Sioux Falls 1-12,President,,Chase Oliver and Mike ter Maat,LIB,16
+Lincoln,Sioux Falls 1-12,President,,Donald J. Trump and JD Vance,REP,810
+Lincoln,Sioux Falls 1-12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Lincoln,Sioux Falls 1-13,President,,Kamala D. Harris and Tim Walz,DEM,343
+Lincoln,Sioux Falls 1-13,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lincoln,Sioux Falls 1-13,President,,Donald J. Trump and JD Vance,REP,388
+Lincoln,Sioux Falls 1-13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,25
+Lincoln,Sioux Falls 1-14,President,,Kamala D. Harris and Tim Walz,DEM,445
+Lincoln,Sioux Falls 1-14,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lincoln,Sioux Falls 1-14,President,,Donald J. Trump and JD Vance,REP,686
+Lincoln,Sioux Falls 1-14,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lincoln,Sioux Falls 1-15,President,,Kamala D. Harris and Tim Walz,DEM,449
+Lincoln,Sioux Falls 1-15,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lincoln,Sioux Falls 1-15,President,,Donald J. Trump and JD Vance,REP,494
+Lincoln,Sioux Falls 1-15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Lincoln,Sioux Falls 1-16,President,,Kamala D. Harris and Tim Walz,DEM,376
+Lincoln,Sioux Falls 1-16,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lincoln,Sioux Falls 1-16,President,,Donald J. Trump and JD Vance,REP,694
+Lincoln,Sioux Falls 1-16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Lincoln,Sioux Falls 1-17,President,,Kamala D. Harris and Tim Walz,DEM,615
+Lincoln,Sioux Falls 1-17,President,,Chase Oliver and Mike ter Maat,LIB,14
+Lincoln,Sioux Falls 1-17,President,,Donald J. Trump and JD Vance,REP,1065
+Lincoln,Sioux Falls 1-17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Lincoln,Sioux Falls 1-18,President,,Kamala D. Harris and Tim Walz,DEM,883
+Lincoln,Sioux Falls 1-18,President,,Chase Oliver and Mike ter Maat,LIB,4
+Lincoln,Sioux Falls 1-18,President,,Donald J. Trump and JD Vance,REP,1477
+Lincoln,Sioux Falls 1-18,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lincoln,Sioux Falls 2-10,President,,Kamala D. Harris and Tim Walz,DEM,649
+Lincoln,Sioux Falls 2-10,President,,Chase Oliver and Mike ter Maat,LIB,7
+Lincoln,Sioux Falls 2-10,President,,Donald J. Trump and JD Vance,REP,1049
+Lincoln,Sioux Falls 2-10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,23
+Lincoln,Sioux Falls 2-11,President,,Kamala D. Harris and Tim Walz,DEM,941
+Lincoln,Sioux Falls 2-11,President,,Chase Oliver and Mike ter Maat,LIB,13
+Lincoln,Sioux Falls 2-11,President,,Donald J. Trump and JD Vance,REP,1260
+Lincoln,Sioux Falls 2-11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Lincoln,Sioux Falls 2-12,President,,Kamala D. Harris and Tim Walz,DEM,420
+Lincoln,Sioux Falls 2-12,President,,Chase Oliver and Mike ter Maat,LIB,6
+Lincoln,Sioux Falls 2-12,President,,Donald J. Trump and JD Vance,REP,477
+Lincoln,Sioux Falls 2-12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Lincoln,Sioux Falls 2-13,President,,Kamala D. Harris and Tim Walz,DEM,1105
+Lincoln,Sioux Falls 2-13,President,,Chase Oliver and Mike ter Maat,LIB,11
+Lincoln,Sioux Falls 2-13,President,,Donald J. Trump and JD Vance,REP,1229
+Lincoln,Sioux Falls 2-13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,23
+Lincoln,Sioux Falls 2-15,President,,Kamala D. Harris and Tim Walz,DEM,536
+Lincoln,Sioux Falls 2-15,President,,Chase Oliver and Mike ter Maat,LIB,10
+Lincoln,Sioux Falls 2-15,President,,Donald J. Trump and JD Vance,REP,911
+Lincoln,Sioux Falls 2-15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Lincoln,Sioux Falls 2-16,President,,Kamala D. Harris and Tim Walz,DEM,1151
+Lincoln,Sioux Falls 2-16,President,,Chase Oliver and Mike ter Maat,LIB,17
+Lincoln,Sioux Falls 2-16,President,,Donald J. Trump and JD Vance,REP,1585
+Lincoln,Sioux Falls 2-16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Lincoln,20,President,,Kamala D. Harris and Tim Walz,DEM,329
+Lincoln,20,President,,Chase Oliver and Mike ter Maat,LIB,8
+Lincoln,20,President,,Donald J. Trump and JD Vance,REP,688
+Lincoln,20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Lincoln,Sioux Falls 1-20,President,,Kamala D. Harris and Tim Walz,DEM,884
+Lincoln,Sioux Falls 1-20,President,,Chase Oliver and Mike ter Maat,LIB,3
+Lincoln,Sioux Falls 1-20,President,,Donald J. Trump and JD Vance,REP,1477
+Lincoln,Sioux Falls 1-20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Lincoln,02-21,U.S. House,1,Sheryl Johnson,DEM,109
+Lincoln,02-21,U.S. House,1,Dusty Johnson,REP,410
+Lincoln,06,U.S. House,1,Sheryl Johnson,DEM,94
+Lincoln,06,U.S. House,1,Dusty Johnson,REP,402
+Lincoln,08,U.S. House,1,Sheryl Johnson,DEM,44
+Lincoln,08,U.S. House,1,Dusty Johnson,REP,200
+Lincoln,11-14,U.S. House,1,Sheryl Johnson,DEM,107
+Lincoln,11-14,U.S. House,1,Dusty Johnson,REP,356
+Lincoln,12,U.S. House,1,Sheryl Johnson,DEM,85
+Lincoln,12,U.S. House,1,Dusty Johnson,REP,386
+Lincoln,13-14,U.S. House,1,Sheryl Johnson,DEM,91
+Lincoln,13-14,U.S. House,1,Dusty Johnson,REP,436
+Lincoln,15,U.S. House,1,Sheryl Johnson,DEM,289
+Lincoln,15,U.S. House,1,Dusty Johnson,REP,996
+Lincoln,16,U.S. House,1,Sheryl Johnson,DEM,238
+Lincoln,16,U.S. House,1,Dusty Johnson,REP,893
+Lincoln,20,U.S. House,1,Sheryl Johnson,DEM,244
+Lincoln,20,U.S. House,1,Dusty Johnson,REP,774
+Lincoln,23-13,U.S. House,1,Sheryl Johnson,DEM,138
+Lincoln,23-13,U.S. House,1,Dusty Johnson,REP,634
+Lincoln,24-01,U.S. House,1,Sheryl Johnson,DEM,211
+Lincoln,24-01,U.S. House,1,Dusty Johnson,REP,825
+Lincoln,24-02,U.S. House,1,Sheryl Johnson,DEM,222
+Lincoln,24-02,U.S. House,1,Dusty Johnson,REP,766
+Lincoln,24-03,U.S. House,1,Sheryl Johnson,DEM,237
+Lincoln,24-03,U.S. House,1,Dusty Johnson,REP,612
+Lincoln,25,U.S. House,1,Sheryl Johnson,DEM,246
+Lincoln,25,U.S. House,1,Dusty Johnson,REP,891
+Lincoln,26,U.S. House,1,Sheryl Johnson,DEM,106
+Lincoln,26,U.S. House,1,Dusty Johnson,REP,387
+Lincoln,27,U.S. House,1,Sheryl Johnson,DEM,474
+Lincoln,27,U.S. House,1,Dusty Johnson,REP,1325
+Lincoln,29,U.S. House,1,Sheryl Johnson,DEM,371
+Lincoln,29,U.S. House,1,Dusty Johnson,REP,1255
+Lincoln,30,U.S. House,1,Sheryl Johnson,DEM,144
+Lincoln,30,U.S. House,1,Dusty Johnson,REP,357
+Lincoln,Sioux Falls 1-11,U.S. House,1,Sheryl Johnson,DEM,412
+Lincoln,Sioux Falls 1-11,U.S. House,1,Dusty Johnson,REP,1243
+Lincoln,Sioux Falls 1-12,U.S. House,1,Sheryl Johnson,DEM,479
+Lincoln,Sioux Falls 1-12,U.S. House,1,Dusty Johnson,REP,906
+Lincoln,Sioux Falls 1-13,U.S. House,1,Sheryl Johnson,DEM,306
+Lincoln,Sioux Falls 1-13,U.S. House,1,Dusty Johnson,REP,436
+Lincoln,Sioux Falls 1-14,U.S. House,1,Sheryl Johnson,DEM,369
+Lincoln,Sioux Falls 1-14,U.S. House,1,Dusty Johnson,REP,758
+Lincoln,Sioux Falls 1-15,U.S. House,1,Sheryl Johnson,DEM,367
+Lincoln,Sioux Falls 1-15,U.S. House,1,Dusty Johnson,REP,602
+Lincoln,Sioux Falls 1-16,U.S. House,1,Sheryl Johnson,DEM,281
+Lincoln,Sioux Falls 1-16,U.S. House,1,Dusty Johnson,REP,527
+Lincoln,Sioux Falls 1-18,U.S. House,1,Sheryl Johnson,DEM,449
+Lincoln,Sioux Falls 1-18,U.S. House,1,Dusty Johnson,REP,1184
+Lincoln,Sioux Falls 1-20,U.S. House,1,Sheryl Johnson,DEM,225
+Lincoln,Sioux Falls 1-20,U.S. House,1,Dusty Johnson,REP,538
+Lincoln,Sioux Falls 2-10,U.S. House,1,Sheryl Johnson,DEM,435
+Lincoln,Sioux Falls 2-10,U.S. House,1,Dusty Johnson,REP,1301
+Lincoln,Sioux Falls 2-11,U.S. House,1,Sheryl Johnson,DEM,680
+Lincoln,Sioux Falls 2-11,U.S. House,1,Dusty Johnson,REP,1554
+Lincoln,Sioux Falls 2-12,U.S. House,1,Sheryl Johnson,DEM,326
+Lincoln,Sioux Falls 2-12,U.S. House,1,Dusty Johnson,REP,588
+Lincoln,Sioux Falls 2-13,U.S. House,1,Sheryl Johnson,DEM,850
+Lincoln,Sioux Falls 2-13,U.S. House,1,Dusty Johnson,REP,1476
+Lincoln,Sioux Falls 2-15,U.S. House,1,Sheryl Johnson,DEM,384
+Lincoln,Sioux Falls 2-15,U.S. House,1,Dusty Johnson,REP,1079
+Lincoln,Sioux Falls 2-16,U.S. House,1,Sheryl Johnson,DEM,941
+Lincoln,Sioux Falls 2-16,U.S. House,1,Dusty Johnson,REP,1804
+Lincoln,02-21,Public Utilities Commissioner,,Forrest Wilson,DEM,97
+Lincoln,02-21,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Lincoln,02-21,Public Utilities Commissioner,,Kristie Fiegen,REP,387
+Lincoln,06,Public Utilities Commissioner,,Forrest Wilson,DEM,84
+Lincoln,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Lincoln,06,Public Utilities Commissioner,,Kristie Fiegen,REP,366
+Lincoln,08,Public Utilities Commissioner,,Forrest Wilson,DEM,38
+Lincoln,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Lincoln,08,Public Utilities Commissioner,,Kristie Fiegen,REP,173
+Lincoln,11-14,Public Utilities Commissioner,,Forrest Wilson,DEM,90
+Lincoln,11-14,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Lincoln,11-14,Public Utilities Commissioner,,Kristie Fiegen,REP,333
+Lincoln,12,Public Utilities Commissioner,,Forrest Wilson,DEM,68
+Lincoln,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,29
+Lincoln,12,Public Utilities Commissioner,,Kristie Fiegen,REP,361
+Lincoln,13-14,Public Utilities Commissioner,,Forrest Wilson,DEM,87
+Lincoln,13-14,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Lincoln,13-14,Public Utilities Commissioner,,Kristie Fiegen,REP,397
+Lincoln,15,Public Utilities Commissioner,,Forrest Wilson,DEM,271
+Lincoln,15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
+Lincoln,15,Public Utilities Commissioner,,Kristie Fiegen,REP,926
+Lincoln,16,Public Utilities Commissioner,,Forrest Wilson,DEM,215
+Lincoln,16,Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
+Lincoln,16,Public Utilities Commissioner,,Kristie Fiegen,REP,850
+Lincoln,20,Public Utilities Commissioner,,Forrest Wilson,DEM,225
+Lincoln,20,Public Utilities Commissioner,,A. Gideon Oakes,LIB,47
+Lincoln,20,Public Utilities Commissioner,,Kristie Fiegen,REP,678
+Lincoln,23-13,Public Utilities Commissioner,,Forrest Wilson,DEM,129
+Lincoln,23-13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,53
+Lincoln,23-13,Public Utilities Commissioner,,Kristie Fiegen,REP,557
+Lincoln,24-01,Public Utilities Commissioner,,Forrest Wilson,DEM,175
+Lincoln,24-01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,62
+Lincoln,24-01,Public Utilities Commissioner,,Kristie Fiegen,REP,747
+Lincoln,24-02,Public Utilities Commissioner,,Forrest Wilson,DEM,198
+Lincoln,24-02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,32
+Lincoln,24-02,Public Utilities Commissioner,,Kristie Fiegen,REP,691
+Lincoln,24-03,Public Utilities Commissioner,,Forrest Wilson,DEM,208
+Lincoln,24-03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
+Lincoln,24-03,Public Utilities Commissioner,,Kristie Fiegen,REP,563
+Lincoln,25,Public Utilities Commissioner,,Forrest Wilson,DEM,215
+Lincoln,25,Public Utilities Commissioner,,A. Gideon Oakes,LIB,74
+Lincoln,25,Public Utilities Commissioner,,Kristie Fiegen,REP,794
+Lincoln,26,Public Utilities Commissioner,,Forrest Wilson,DEM,99
+Lincoln,26,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
+Lincoln,26,Public Utilities Commissioner,,Kristie Fiegen,REP,359
+Lincoln,27,Public Utilities Commissioner,,Forrest Wilson,DEM,401
+Lincoln,27,Public Utilities Commissioner,,A. Gideon Oakes,LIB,97
+Lincoln,27,Public Utilities Commissioner,,Kristie Fiegen,REP,1211
+Lincoln,29,Public Utilities Commissioner,,Forrest Wilson,DEM,334
+Lincoln,29,Public Utilities Commissioner,,A. Gideon Oakes,LIB,114
+Lincoln,29,Public Utilities Commissioner,,Kristie Fiegen,REP,1101
+Lincoln,30,Public Utilities Commissioner,,Forrest Wilson,DEM,114
+Lincoln,30,Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
+Lincoln,30,Public Utilities Commissioner,,Kristie Fiegen,REP,324
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Forrest Wilson,DEM,369
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,41
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Kristie Fiegen,REP,1201
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Forrest Wilson,DEM,434
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,72
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Kristie Fiegen,REP,817
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Forrest Wilson,DEM,271
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,45
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Kristie Fiegen,REP,398
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Forrest Wilson,DEM,317
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,A. Gideon Oakes,LIB,48
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Kristie Fiegen,REP,688
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Forrest Wilson,DEM,323
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,52
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Kristie Fiegen,REP,545
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Forrest Wilson,DEM,245
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,A. Gideon Oakes,LIB,40
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Kristie Fiegen,REP,479
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Forrest Wilson,DEM,393
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,A. Gideon Oakes,LIB,49
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Kristie Fiegen,REP,1119
+Lincoln,Sioux Falls 1-20,Public Utilities Commissioner,,Forrest Wilson,DEM,180
+Lincoln,Sioux Falls 1-20,Public Utilities Commissioner,,A. Gideon Oakes,LIB,41
+Lincoln,Sioux Falls 1-20,Public Utilities Commissioner,,Kristie Fiegen,REP,496
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Forrest Wilson,DEM,381
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,35
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Kristie Fiegen,REP,1247
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Forrest Wilson,DEM,614
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,37
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Kristie Fiegen,REP,1518
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Forrest Wilson,DEM,290
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,40
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Kristie Fiegen,REP,531
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Forrest Wilson,DEM,772
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,82
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Kristie Fiegen,REP,1373
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Forrest Wilson,DEM,330
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,49
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Kristie Fiegen,REP,1017
+Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Forrest Wilson,DEM,829
+Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,A. Gideon Oakes,LIB,105
+Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Kristie Fiegen,REP,1684
+Lincoln,02-21,State Senate,06,Ernie Otten,REP,391
+Lincoln,06,State Senate,06,Ernie Otten,REP,84
+Lincoln,08,State Senate,06,Ernie Otten,REP,179
+Lincoln,11-14,State Senate,06,Ernie Otten,REP,328
+Lincoln,12,State Senate,06,Ernie Otten,REP,378
+Lincoln,13-14,State Senate,12,Clay Hoffman,DEM,394
+Lincoln,13-14,State Senate,12,Arch Beal,REP,955
+Lincoln,15,State Senate,12,Clay Hoffman,DEM,955
+Lincoln,15,State Senate,12,Arch Beal,REP,880
+Lincoln,16,State Senate,13,Ali Rae Horsted,DEM,732
+Lincoln,16,State Senate,13,Sue Peterson,REP,585
+Lincoln,23-13,State Senate,13,Ali Rae Horsted,DEM,585
+Lincoln,23-13,State Senate,13,Sue Peterson,REP,814
+Lincoln,24-01,State Senate,13,Ali Rae Horsted,DEM,814
+Lincoln,24-01,State Senate,13,Sue Peterson,REP,724
+Lincoln,24-02,State Senate,13,Ali Rae Horsted,DEM,724
+Lincoln,24-02,State Senate,13,Sue Peterson,REP,587
+Lincoln,24-03,State Senate,13,Ali Rae Horsted,DEM,587
+Lincoln,24-03,State Senate,13,Sue Peterson,REP,822
+Lincoln,26,State Senate,13,Ali Rae Horsted,DEM,822
+Lincoln,26,State Senate,13,Sue Peterson,REP,1279
+Lincoln,27,State Senate,13,Ali Rae Horsted,DEM,1279
+Lincoln,27,State Senate,13,Sue Peterson,REP,1181
+Lincoln,29,State Senate,13,Ali Rae Horsted,DEM,1181
+Lincoln,29,State Senate,13,Sue Peterson,REP,730
+Lincoln,30,State Senate,13,Ali Rae Horsted,DEM,345
+Lincoln,30,State Senate,13,Sue Peterson,REP,535
+Lincoln,Sioux Falls 1-11,State Senate,12,Clay Hoffman,DEM,535
+Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,REP,1074
+Lincoln,Sioux Falls 1-12,State Senate,12,Clay Hoffman,DEM,532
+Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,REP,825
+Lincoln,Sioux Falls 1-13,State Senate,12,Clay Hoffman,DEM,443
+Lincoln,Sioux Falls 1-13,State Senate,12,Arch Beal,REP,703
+Lincoln,Sioux Falls 1-14,State Senate,12,Clay Hoffman,DEM,703
+Lincoln,Sioux Falls 1-14,State Senate,12,Arch Beal,REP,430
+Lincoln,Sioux Falls 1-15,State Senate,12,Clay Hoffman,DEM,430
+Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,REP,512
+Lincoln,Sioux Falls 1-16,State Senate,12,Clay Hoffman,DEM,512
+Lincoln,Sioux Falls 1-16,State Senate,12,Arch Beal,REP,550
+Lincoln,Sioux Falls 1-18,State Senate,16,Kevin D. Jensen,REP,550
+Lincoln,Sioux Falls 1-18,State Senate,16,Clay Hoffman,DEM,507
+Lincoln,Sioux Falls 1-18,State Senate,16,Arch Beal,REP,1032
+Lincoln,Sioux Falls 2-10,State Senate,06,Ernie Otten,REP,546
+Lincoln,Sioux Falls 2-10,State Senate,12,Clay Hoffman,DEM,804
+Lincoln,Sioux Falls 2-10,State Senate,12,Arch Beal,REP,1358
+Lincoln,Sioux Falls 2-11,State Senate,12,Clay Hoffman,DEM,2
+Lincoln,Sioux Falls 2-11,State Senate,12,Arch Beal,REP,804
+Lincoln,Sioux Falls 2-12,State Senate,12,Clay Hoffman,DEM,385
+Lincoln,Sioux Falls 2-12,State Senate,12,Arch Beal,REP,497
+Lincoln,Sioux Falls 2-13,State Senate,12,Clay Hoffman,DEM,0
+Lincoln,Sioux Falls 2-13,State Senate,12,Arch Beal,REP,975
+Lincoln,Sioux Falls 2-15,State Senate,16,Kevin D. Jensen,REP,975
+Lincoln,Sioux Falls 2-16,State Senate,16,Kevin D. Jensen,REP,479
+Lincoln,13-14,State Senate,06,Ernie Otten,REP,394
+Lincoln,15,State Senate,06,Ernie Otten,REP,955
+Lincoln,16,State Senate,06,Ernie Otten,REP,880
+Lincoln,23-13,State Senate,06,Ernie Otten,REP,814
+Lincoln,24-01,State Senate,06,Ernie Otten,REP,724
+Lincoln,24-02,State Senate,06,Ernie Otten,REP,587
+Lincoln,24-03,State Senate,06,Ernie Otten,REP,822
+Lincoln,26,State Senate,06,Ernie Otten,REP,379
+Lincoln,27,State Senate,06,Ernie Otten,REP,1259
+Lincoln,29,State Senate,06,Ernie Otten,REP,1181
+Lincoln,30,State Senate,06,Ernie Otten,REP,345
+Lincoln,Sioux Falls 1-11,State Senate,06,Ernie Otten,REP,535
+Lincoln,Sioux Falls 1-12,State Senate,06,Ernie Otten,REP,532
+Lincoln,Sioux Falls 1-13,State Senate,06,Ernie Otten,REP,443
+Lincoln,Sioux Falls 1-14,State Senate,06,Ernie Otten,REP,703
+Lincoln,Sioux Falls 1-15,State Senate,06,Ernie Otten,REP,430
+Lincoln,Sioux Falls 1-16,State Senate,06,Ernie Otten,REP,512
+Lincoln,Sioux Falls 1-18,State Senate,06,Ernie Otten,REP,550
+Lincoln,Sioux Falls 2-11,State Senate,06,Ernie Otten,REP,2
+Lincoln,Sioux Falls 2-12,State Senate,06,Ernie Otten,REP,385
+Lincoln,Sioux Falls 2-13,State Senate,06,Ernie Otten,REP,0
+Lincoln,Sioux Falls 2-15,State Senate,06,Ernie Otten,REP,479
+Lincoln,Sioux Falls 2-16,State Senate,06,Ernie Otten,REP,0
+Lincoln,02-21,State House,06,Garret M Campbell,DEM,118
+Lincoln,02-21,State House,06,Herman Otten,REP,373
+Lincoln,02-21,State House,06,Aaron Aylward,REP,284
+Lincoln,Sioux Falls 1-11,State House,12,Erin Royer,DEM,449
+Lincoln,Sioux Falls 1-11,State House,12,Jr Anderson,DEM,348
+Lincoln,Sioux Falls 1-11,State House,12,Amber Arlint,REP,1118
+Lincoln,Sioux Falls 1-12,State House,12,Erin Royer,DEM,494
+Lincoln,Sioux Falls 1-12,State House,12,Jr Anderson,DEM,390
+Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,REP,808
+Lincoln,Sioux Falls 1-13,State House,12,Erin Royer,DEM,324
+Lincoln,Sioux Falls 1-13,State House,12,Jr Anderson,DEM,340
+Lincoln,Sioux Falls 1-13,State House,12,Amber Arlint,REP,304
+Lincoln,06,Supreme Court Retention,,Yes,,324
+Lincoln,06,Supreme Court Retention,,No,,81
+Lincoln,08,Supreme Court Retention,,Yes,,164
+Lincoln,08,Supreme Court Retention,,No,,32
+Lincoln,02-21,Supreme Court Retention,Fifth,Yes,,369
+Lincoln,02-21,Supreme Court Retention,Fifth,No,,84
+Lincoln,06,Supreme Court Retention,Fifth,Yes,,324
+Lincoln,06,Supreme Court Retention,Fifth,No,,81
+Lincoln,08,Supreme Court Retention,Fifth,Yes,,164
+Lincoln,08,Supreme Court Retention,Fifth,No,,32
+Lincoln,11-14,Supreme Court Retention,Fifth,Yes,,316
+Lincoln,11-14,Supreme Court Retention,Fifth,No,,71
+Lincoln,12,Supreme Court Retention,Fifth,Yes,,327
+Lincoln,12,Supreme Court Retention,Fifth,No,,61
+Lincoln,13-14,Supreme Court Retention,Fifth,Yes,,348
+Lincoln,13-14,Supreme Court Retention,Fifth,No,,78
+Lincoln,15,Supreme Court Retention,Fifth,Yes,,872
+Lincoln,15,Supreme Court Retention,Fifth,No,,164
+Lincoln,16,Supreme Court Retention,Fifth,Yes,,776
+Lincoln,16,Supreme Court Retention,Fifth,No,,181
+Lincoln,20,Supreme Court Retention,Fifth,Yes,,680
+Lincoln,20,Supreme Court Retention,Fifth,No,,175
+Lincoln,23-13,Supreme Court Retention,Fifth,Yes,,485
+Lincoln,23-13,Supreme Court Retention,Fifth,No,,132
+Lincoln,24-01,Supreme Court Retention,Fifth,Yes,,710
+Lincoln,24-01,Supreme Court Retention,Fifth,No,,137
+Lincoln,24-02,Supreme Court Retention,Fifth,Yes,,648
+Lincoln,24-02,Supreme Court Retention,Fifth,No,,145
+Lincoln,24-03,Supreme Court Retention,Fifth,Yes,,563
+Lincoln,24-03,Supreme Court Retention,Fifth,No,,147
+Lincoln,25,Supreme Court Retention,Fifth,Yes,,756
+Lincoln,25,Supreme Court Retention,Fifth,No,,173
+Lincoln,26,Supreme Court Retention,Fifth,Yes,,334
+Lincoln,26,Supreme Court Retention,Fifth,No,,87
+Lincoln,27,Supreme Court Retention,Fifth,Yes,,1192
+Lincoln,27,Supreme Court Retention,Fifth,No,,299
+Lincoln,29,Supreme Court Retention,Fifth,Yes,,1095
+Lincoln,29,Supreme Court Retention,Fifth,No,,258
+Lincoln,30,Supreme Court Retention,Fifth,Yes,,308
+Lincoln,30,Supreme Court Retention,Fifth,No,,100
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,Fifth,Yes,,1210
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,Fifth,No,,187
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,Fifth,Yes,,872
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,Fifth,No,,282
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,Fifth,Yes,,445
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,Fifth,No,,160
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,Fifth,Yes,,716
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,Fifth,No,,182
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,Fifth,Yes,,631
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,Fifth,No,,177
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,Fifth,Yes,,524
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,Fifth,No,,147
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,Fifth,Yes,,1115
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,Fifth,No,,233
+Lincoln,Sioux Falls 1-20,Supreme Court Retention,Fifth,Yes,,495
+Lincoln,Sioux Falls 1-20,Supreme Court Retention,Fifth,No,,112
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,Fifth,Yes,,1208
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,Fifth,No,,203
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,Fifth,Yes,,1227
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,Fifth,No,,239
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,Fifth,Yes,,487
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,Fifth,No,,110
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,Fifth,Yes,,1488
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,Fifth,No,,389
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,Fifth,Yes,,983
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,Fifth,No,,210
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,Fifth,Yes,,1777
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,Fifth,No,,460

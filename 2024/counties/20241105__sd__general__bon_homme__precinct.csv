@@ -1,0 +1,146 @@
+county,precinct,office,district,candidate,party,votes
+Bon Homme,1,President,,Kamala D. Harris and Tim Walz,DEM,96
+Bon Homme,1,President,,Chase Oliver and Mike ter Maat,LIB,1
+Bon Homme,1,President,,Donald J. Trump and JD Vance,REP,492
+Bon Homme,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Bon Homme,2,President,,Kamala D. Harris and Tim Walz,DEM,124
+Bon Homme,2,President,,Chase Oliver and Mike ter Maat,LIB,4
+Bon Homme,2,President,,Donald J. Trump and JD Vance,REP,391
+Bon Homme,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Bon Homme,3,President,,Kamala D. Harris and Tim Walz,DEM,193
+Bon Homme,3,President,,Chase Oliver and Mike ter Maat,LIB,6
+Bon Homme,3,President,,Donald J. Trump and JD Vance,REP,482
+Bon Homme,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Bon Homme,4,President,,Kamala D. Harris and Tim Walz,DEM,149
+Bon Homme,4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Bon Homme,4,President,,Donald J. Trump and JD Vance,REP,390
+Bon Homme,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Bon Homme,5,President,,Kamala D. Harris and Tim Walz,DEM,135
+Bon Homme,5,President,,Chase Oliver and Mike ter Maat,LIB,4
+Bon Homme,5,President,,Donald J. Trump and JD Vance,REP,481
+Bon Homme,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Bon Homme,1,U.S. House,1,Sheryl Johnson,DEM,96
+Bon Homme,1,U.S. House,1,Dusty Johnson,REP,495
+Bon Homme,2,U.S. House,1,Sheryl Johnson,DEM,99
+Bon Homme,2,U.S. House,1,Dusty Johnson,REP,417
+Bon Homme,3,U.S. House,1,Sheryl Johnson,DEM,147
+Bon Homme,3,U.S. House,1,Dusty Johnson,REP,540
+Bon Homme,4,U.S. House,1,Sheryl Johnson,DEM,113
+Bon Homme,4,U.S. House,1,Dusty Johnson,REP,423
+Bon Homme,5,U.S. House,1,Sheryl Johnson,DEM,109
+Bon Homme,5,U.S. House,1,Dusty Johnson,REP,498
+Bon Homme,1,Public Utilities Commissioner,,Forrest Wilson,DEM,71
+Bon Homme,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Bon Homme,1,Public Utilities Commissioner,,Kristie Fiegen,REP,475
+Bon Homme,2,Public Utilities Commissioner,,Forrest Wilson,DEM,93
+Bon Homme,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
+Bon Homme,2,Public Utilities Commissioner,,Kristie Fiegen,REP,382
+Bon Homme,3,Public Utilities Commissioner,,Forrest Wilson,DEM,162
+Bon Homme,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,32
+Bon Homme,3,Public Utilities Commissioner,,Kristie Fiegen,REP,455
+Bon Homme,4,Public Utilities Commissioner,,Forrest Wilson,DEM,121
+Bon Homme,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Bon Homme,4,Public Utilities Commissioner,,Kristie Fiegen,REP,359
+Bon Homme,5,Public Utilities Commissioner,,Forrest Wilson,DEM,99
+Bon Homme,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Bon Homme,5,Public Utilities Commissioner,,Kristie Fiegen,REP,476
+Bon Homme,1,State Senate,19,Kyle Schoenfish,REP,461
+Bon Homme,1,State Senate,19,Michael J. Miller,IND,119
+Bon Homme,2,State Senate,19,Kyle Schoenfish,REP,386
+Bon Homme,2,State Senate,19,Michael J. Miller,IND,105
+Bon Homme,3,State Senate,19,Kyle Schoenfish,REP,477
+Bon Homme,3,State Senate,19,Michael J. Miller,IND,164
+Bon Homme,4,State Senate,19,Kyle Schoenfish,REP,402
+Bon Homme,4,State Senate,19,Michael J. Miller,IND,102
+Bon Homme,5,State Senate,19,Kyle Schoenfish,REP,457
+Bon Homme,5,State Senate,19,Michael J. Miller,IND,130
+Bon Homme,1,State House,19,Drew Peterson,REP,367
+Bon Homme,1,State House,19,Jessica Bahmuller,REP,396
+Bon Homme,2,State House,19,Drew Peterson,REP,344
+Bon Homme,2,State House,19,Jessica Bahmuller,REP,284
+Bon Homme,3,State House,19,Drew Peterson,REP,405
+Bon Homme,3,State House,19,Jessica Bahmuller,REP,399
+Bon Homme,4,State House,19,Drew Peterson,REP,305
+Bon Homme,4,State House,19,Jessica Bahmuller,REP,320
+Bon Homme,5,State House,19,Drew Peterson,REP,348
+Bon Homme,5,State House,19,Jessica Bahmuller,REP,392
+Bon Homme,1,Supreme Court Retention,5,Scott P. Myren - Yes,,415
+Bon Homme,1,Supreme Court Retention,5,Scott P. Myren - No,,96
+Bon Homme,2,Supreme Court Retention,5,Scott P. Myren - Yes,,347
+Bon Homme,2,Supreme Court Retention,5,Scott P. Myren - No,,102
+Bon Homme,3,Supreme Court Retention,5,Scott P. Myren - Yes,,461
+Bon Homme,3,Supreme Court Retention,5,Scott P. Myren - No,,135
+Bon Homme,4,Supreme Court Retention,5,Scott P. Myren - Yes,,345
+Bon Homme,4,Supreme Court Retention,5,Scott P. Myren - No,,104
+Bon Homme,5,Supreme Court Retention,5,Scott P. Myren - Yes,,433
+Bon Homme,5,Supreme Court Retention,5,Scott P. Myren - No,,87
+Bon Homme,1,Constitutional Amendment E,,Yes,,178
+Bon Homme,1,Constitutional Amendment E,,No,,416
+Bon Homme,1,Constitutional Amendment F,,Yes,,287
+Bon Homme,1,Constitutional Amendment F,,No,,306
+Bon Homme,1,Constitutional Amendment G,,Yes,,137
+Bon Homme,1,Constitutional Amendment G,,No,,466
+Bon Homme,1,Constitutional Amendment H,,Yes,,135
+Bon Homme,1,Constitutional Amendment H,,No,,455
+Bon Homme,2,Constitutional Amendment E,,Yes,,140
+Bon Homme,2,Constitutional Amendment E,,No,,383
+Bon Homme,2,Constitutional Amendment F,,Yes,,242
+Bon Homme,2,Constitutional Amendment F,,No,,277
+Bon Homme,2,Constitutional Amendment G,,Yes,,137
+Bon Homme,2,Constitutional Amendment G,,No,,387
+Bon Homme,2,Constitutional Amendment H,,Yes,,118
+Bon Homme,2,Constitutional Amendment H,,No,,396
+Bon Homme,3,Constitutional Amendment E,,Yes,,228
+Bon Homme,3,Constitutional Amendment E,,No,,467
+Bon Homme,3,Constitutional Amendment F,,Yes,,361
+Bon Homme,3,Constitutional Amendment F,,No,,328
+Bon Homme,3,Constitutional Amendment G,,Yes,,215
+Bon Homme,3,Constitutional Amendment G,,No,,476
+Bon Homme,3,Constitutional Amendment H,,Yes,,236
+Bon Homme,3,Constitutional Amendment H,,No,,440
+Bon Homme,4,Constitutional Amendment E,,Yes,,166
+Bon Homme,4,Constitutional Amendment E,,No,,386
+Bon Homme,4,Constitutional Amendment F,,Yes,,294
+Bon Homme,4,Constitutional Amendment F,,No,,254
+Bon Homme,4,Constitutional Amendment G,,Yes,,140
+Bon Homme,4,Constitutional Amendment G,,No,,415
+Bon Homme,4,Constitutional Amendment H,,Yes,,165
+Bon Homme,4,Constitutional Amendment H,,No,,376
+Bon Homme,5,Constitutional Amendment E,,Yes,,212
+Bon Homme,5,Constitutional Amendment E,,No,,400
+Bon Homme,5,Constitutional Amendment F,,Yes,,334
+Bon Homme,5,Constitutional Amendment F,,No,,278
+Bon Homme,5,Constitutional Amendment G,,Yes,,160
+Bon Homme,5,Constitutional Amendment G,,No,,459
+Bon Homme,5,Constitutional Amendment H,,Yes,,172
+Bon Homme,5,Constitutional Amendment H,,No,,431
+Bon Homme,1,Initiated Measure 28,,Yes,,138
+Bon Homme,1,Initiated Measure 28,,No,,458
+Bon Homme,1,Initiated Measure 29,,Yes,,190
+Bon Homme,1,Initiated Measure 29,,No,,408
+Bon Homme,1,Referred Law 21,,Yes,,194
+Bon Homme,1,Referred Law 21,,No,,397
+Bon Homme,2,Initiated Measure 28,,Yes,,83
+Bon Homme,2,Initiated Measure 28,,No,,432
+Bon Homme,2,Initiated Measure 29,,Yes,,133
+Bon Homme,2,Initiated Measure 29,,No,,389
+Bon Homme,2,Referred Law 21,,Yes,,127
+Bon Homme,2,Referred Law 21,,No,,390
+Bon Homme,3,Initiated Measure 28,,Yes,,160
+Bon Homme,3,Initiated Measure 28,,No,,529
+Bon Homme,3,Initiated Measure 29,,Yes,,221
+Bon Homme,3,Initiated Measure 29,,No,,475
+Bon Homme,3,Referred Law 21,,Yes,,232
+Bon Homme,3,Referred Law 21,,No,,441
+Bon Homme,4,Initiated Measure 28,,Yes,,116
+Bon Homme,4,Initiated Measure 28,,No,,427
+Bon Homme,4,Initiated Measure 29,,Yes,,142
+Bon Homme,4,Initiated Measure 29,,No,,410
+Bon Homme,4,Referred Law 21,,Yes,,168
+Bon Homme,4,Referred Law 21,,No,,373
+Bon Homme,5,Initiated Measure 28,,Yes,,141
+Bon Homme,5,Initiated Measure 28,,No,,463
+Bon Homme,5,Initiated Measure 29,,Yes,,221
+Bon Homme,5,Initiated Measure 29,,No,,398
+Bon Homme,5,Referred Law 21,,Yes,,169
+Bon Homme,5,Referred Law 21,,No,,427

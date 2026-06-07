@@ -1,0 +1,456 @@
+county,precinct,office,district,candidate,party,votes
+Grant,1,President,,Kamala D. Harris and Tim Walz,DEM,87
+Grant,1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,1,President,,Donald J. Trump and JD Vance,REP,247
+Grant,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Grant,2,President,,Kamala D. Harris and Tim Walz,DEM,24
+Grant,2,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,2,President,,Donald J. Trump and JD Vance,REP,63
+Grant,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Grant,21,President,,Kamala D. Harris and Tim Walz,DEM,46
+Grant,21,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,21,President,,Donald J. Trump and JD Vance,REP,108
+Grant,21,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Grant,22,President,,Kamala D. Harris and Tim Walz,DEM,105
+Grant,22,President,,Chase Oliver and Mike ter Maat,LIB,2
+Grant,22,President,,Donald J. Trump and JD Vance,REP,242
+Grant,22,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Grant,23,President,,Kamala D. Harris and Tim Walz,DEM,16
+Grant,23,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,23,President,,Donald J. Trump and JD Vance,REP,40
+Grant,23,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Grant,31,President,,Kamala D. Harris and Tim Walz,DEM,23
+Grant,31,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,31,President,,Donald J. Trump and JD Vance,REP,64
+Grant,31,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Grant,32,President,,Kamala D. Harris and Tim Walz,DEM,142
+Grant,32,President,,Chase Oliver and Mike ter Maat,LIB,2
+Grant,32,President,,Donald J. Trump and JD Vance,REP,270
+Grant,32,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Grant,33,President,,Kamala D. Harris and Tim Walz,DEM,18
+Grant,33,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,33,President,,Donald J. Trump and JD Vance,REP,147
+Grant,33,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Grant,41,President,,Kamala D. Harris and Tim Walz,DEM,67
+Grant,41,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,41,President,,Donald J. Trump and JD Vance,REP,239
+Grant,41,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Grant,42,President,,Kamala D. Harris and Tim Walz,DEM,111
+Grant,42,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,42,President,,Donald J. Trump and JD Vance,REP,304
+Grant,42,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Grant,43,President,,Kamala D. Harris and Tim Walz,DEM,30
+Grant,43,President,,Chase Oliver and Mike ter Maat,LIB,2
+Grant,43,President,,Donald J. Trump and JD Vance,REP,102
+Grant,43,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Grant,44,President,,Kamala D. Harris and Tim Walz,DEM,48
+Grant,44,President,,Chase Oliver and Mike ter Maat,LIB,2
+Grant,44,President,,Donald J. Trump and JD Vance,REP,101
+Grant,44,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Grant,45,President,,Kamala D. Harris and Tim Walz,DEM,52
+Grant,45,President,,Chase Oliver and Mike ter Maat,LIB,2
+Grant,45,President,,Donald J. Trump and JD Vance,REP,162
+Grant,45,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Grant,46,President,,Kamala D. Harris and Tim Walz,DEM,73
+Grant,46,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,46,President,,Donald J. Trump and JD Vance,REP,186
+Grant,46,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Grant,47,President,,Kamala D. Harris and Tim Walz,DEM,22
+Grant,47,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,47,President,,Donald J. Trump and JD Vance,REP,82
+Grant,47,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Grant,52,President,,Kamala D. Harris and Tim Walz,DEM,13
+Grant,52,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,52,President,,Donald J. Trump and JD Vance,REP,67
+Grant,52,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Grant,53,President,,Kamala D. Harris and Tim Walz,DEM,41
+Grant,53,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,53,President,,Donald J. Trump and JD Vance,REP,41
+Grant,53,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Grant,54,President,,Kamala D. Harris and Tim Walz,DEM,41
+Grant,54,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,54,President,,Donald J. Trump and JD Vance,REP,119
+Grant,54,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Grant,12,President,,Kamala D. Harris and Tim Walz,DEM,24
+Grant,12,President,,Chase Oliver and Mike ter Maat,LIB,0
+Grant,12,President,,Donald J. Trump and JD Vance,REP,63
+Grant,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Grant,49,President,,Kamala D. Harris and Tim Walz,DEM,32
+Grant,49,President,,Chase Oliver and Mike ter Maat,LIB,1
+Grant,49,President,,Donald J. Trump and JD Vance,REP,82
+Grant,49,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Grant,1,U.S. House,1,Sheryl Johnson,DEM,64
+Grant,1,U.S. House,1,Dusty Johnson,REP,267
+Grant,12,U.S. House,1,Sheryl Johnson,DEM,23
+Grant,12,U.S. House,1,Dusty Johnson,REP,69
+Grant,21,U.S. House,1,Sheryl Johnson,DEM,30
+Grant,21,U.S. House,1,Dusty Johnson,REP,125
+Grant,22,U.S. House,1,Sheryl Johnson,DEM,79
+Grant,22,U.S. House,1,Dusty Johnson,REP,269
+Grant,31,U.S. House,1,Sheryl Johnson,DEM,15
+Grant,31,U.S. House,1,Dusty Johnson,REP,23
+Grant,32,U.S. House,1,Sheryl Johnson,DEM,23
+Grant,32,U.S. House,1,Dusty Johnson,REP,52
+Grant,33,U.S. House,1,Sheryl Johnson,DEM,92
+Grant,33,U.S. House,1,Dusty Johnson,REP,335
+Grant,41,U.S. House,1,Sheryl Johnson,DEM,56
+Grant,41,U.S. House,1,Dusty Johnson,REP,166
+Grant,42,U.S. House,1,Sheryl Johnson,DEM,47
+Grant,42,U.S. House,1,Dusty Johnson,REP,256
+Grant,43,U.S. House,1,Sheryl Johnson,DEM,87
+Grant,43,U.S. House,1,Dusty Johnson,REP,331
+Grant,44,U.S. House,1,Sheryl Johnson,DEM,19
+Grant,44,U.S. House,1,Dusty Johnson,REP,121
+Grant,45,U.S. House,1,Sheryl Johnson,DEM,38
+Grant,45,U.S. House,1,Dusty Johnson,REP,116
+Grant,46,U.S. House,1,Sheryl Johnson,DEM,43
+Grant,46,U.S. House,1,Dusty Johnson,REP,176
+Grant,47,U.S. House,1,Sheryl Johnson,DEM,23
+Grant,47,U.S. House,1,Dusty Johnson,REP,207
+Grant,49,U.S. House,1,Sheryl Johnson,DEM,19
+Grant,49,U.S. House,1,Dusty Johnson,REP,88
+Grant,52,U.S. House,1,Sheryl Johnson,DEM,10
+Grant,52,U.S. House,1,Dusty Johnson,REP,69
+Grant,53,U.S. House,1,Sheryl Johnson,DEM,10
+Grant,53,U.S. House,1,Dusty Johnson,REP,44
+Grant,54,U.S. House,1,Sheryl Johnson,DEM,26
+Grant,54,U.S. House,1,Dusty Johnson,REP,132
+Grant,11,U.S. House,1,Sheryl Johnson,DEM,64
+Grant,11,U.S. House,1,Dusty Johnson,REP,267
+Grant,11,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Grant,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Grant,11,Public Utilities Commissioner,,Kristie Fiegen,REP,224
+Grant,12,Public Utilities Commissioner,,Forrest Wilson,DEM,22
+Grant,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Grant,12,Public Utilities Commissioner,,Kristie Fiegen,REP,64
+Grant,21,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Grant,21,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Grant,21,Public Utilities Commissioner,,Kristie Fiegen,REP,108
+Grant,22,Public Utilities Commissioner,,Forrest Wilson,DEM,72
+Grant,22,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Grant,22,Public Utilities Commissioner,,Kristie Fiegen,REP,243
+Grant,31,Public Utilities Commissioner,,Forrest Wilson,DEM,9
+Grant,31,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,31,Public Utilities Commissioner,,Kristie Fiegen,REP,241
+Grant,32,Public Utilities Commissioner,,Forrest Wilson,DEM,16
+Grant,32,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,32,Public Utilities Commissioner,,Kristie Fiegen,REP,60
+Grant,33,Public Utilities Commissioner,,Forrest Wilson,DEM,92
+Grant,33,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Grant,33,Public Utilities Commissioner,,Kristie Fiegen,REP,297
+Grant,41,Public Utilities Commissioner,,Forrest Wilson,DEM,56
+Grant,41,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Grant,41,Public Utilities Commissioner,,Kristie Fiegen,REP,133
+Grant,42,Public Utilities Commissioner,,Forrest Wilson,DEM,48
+Grant,42,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,42,Public Utilities Commissioner,,Kristie Fiegen,REP,233
+Grant,43,Public Utilities Commissioner,,Forrest Wilson,DEM,78
+Grant,43,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
+Grant,43,Public Utilities Commissioner,,Kristie Fiegen,REP,290
+Grant,44,Public Utilities Commissioner,,Forrest Wilson,DEM,71
+Grant,44,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,44,Public Utilities Commissioner,,Kristie Fiegen,REP,106
+Grant,45,Public Utilities Commissioner,,Forrest Wilson,DEM,35
+Grant,45,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Grant,45,Public Utilities Commissioner,,Kristie Fiegen,REP,100
+Grant,46,Public Utilities Commissioner,,Forrest Wilson,DEM,40
+Grant,46,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Grant,46,Public Utilities Commissioner,,Kristie Fiegen,REP,166
+Grant,47,Public Utilities Commissioner,,Forrest Wilson,DEM,16
+Grant,47,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Grant,47,Public Utilities Commissioner,,Kristie Fiegen,REP,167
+Grant,49,Public Utilities Commissioner,,Forrest Wilson,DEM,22
+Grant,49,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Grant,49,Public Utilities Commissioner,,Kristie Fiegen,REP,77
+Grant,52,Public Utilities Commissioner,,Forrest Wilson,DEM,9
+Grant,52,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,52,Public Utilities Commissioner,,Kristie Fiegen,REP,60
+Grant,53,Public Utilities Commissioner,,Forrest Wilson,DEM,9
+Grant,53,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Grant,53,Public Utilities Commissioner,,Kristie Fiegen,REP,37
+Grant,54,Public Utilities Commissioner,,Forrest Wilson,DEM,25
+Grant,54,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Grant,54,Public Utilities Commissioner,,Kristie Fiegen,REP,115
+Grant,1,Public Utilities Commissioner,,Forrest Wilson,DEM,22
+Grant,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Grant,1,Public Utilities Commissioner,,Kristie Fiegen,REP,64
+Grant,11,State Senate,4,Stephanie Sauder,REP,239
+Grant,1,State Senate,4,Stephanie Sauder,REP,68
+Grant,21,State Senate,4,Stephanie Sauder,REP,123
+Grant,22,State Senate,4,Stephanie Sauder,REP,257
+Grant,31,State Senate,4,Stephanie Sauder,REP,47
+Grant,32,State Senate,4,Stephanie Sauder,REP,63
+Grant,33,State Senate,4,Stephanie Sauder,REP,320
+Grant,41,State Senate,4,Stephanie Sauder,REP,143
+Grant,42,State Senate,4,Stephanie Sauder,REP,257
+Grant,43,State Senate,4,Stephanie Sauder,REP,374
+Grant,44,State Senate,4,Stephanie Sauder,REP,98
+Grant,45,State Senate,4,Stephanie Sauder,REP,117
+Grant,46,State Senate,4,Stephanie Sauder,REP,167
+Grant,47,State Senate,4,Stephanie Sauder,REP,100
+Grant,49,State Senate,4,Stephanie Sauder,REP,77
+Grant,52,State Senate,4,Stephanie Sauder,REP,55
+Grant,53,State Senate,4,Stephanie Sauder,REP,35
+Grant,54,State Senate,4,Stephanie Sauder,REP,119
+Grant,12,State Senate,4,Stephanie Sauder,REP,68
+Grant,11,State House,4,Kent Roe,REP,161
+Grant,11,State House,4,Dryan C. Jordan,REP,196
+Grant,12,State House,4,Kent Roe,REP,49
+Grant,12,State House,4,Dryan C. Jordan,REP,49
+Grant,21,State House,4,Kent Roe,REP,87
+Grant,21,State House,4,Dryan C. Jordan,REP,93
+Grant,22,State House,4,Kent Roe,REP,183
+Grant,22,State House,4,Dryan C. Jordan,REP,109
+Grant,31,State House,4,Kent Roe,REP,30
+Grant,31,State House,4,Dryan C. Jordan,REP,34
+Grant,32,State House,4,Kent Roe,REP,43
+Grant,32,State House,4,Dryan C. Jordan,REP,56
+Grant,33,State House,4,Kent Roe,REP,243
+Grant,33,State House,4,Dryan C. Jordan,REP,247
+Grant,41,State House,4,Kent Roe,REP,121
+Grant,41,State House,4,Dryan C. Jordan,REP,117
+Grant,42,State House,4,Kent Roe,REP,169
+Grant,42,State House,4,Dryan C. Jordan,REP,177
+Grant,43,State House,4,Kent Roe,REP,231
+Grant,43,State House,4,Dryan C. Jordan,REP,238
+Grant,44,State House,4,Kent Roe,REP,79
+Grant,44,State House,4,Dryan C. Jordan,REP,68
+Grant,45,State House,4,Kent Roe,REP,92
+Grant,45,State House,4,Dryan C. Jordan,REP,92
+Grant,46,State House,4,Kent Roe,REP,123
+Grant,46,State House,4,Dryan C. Jordan,REP,134
+Grant,47,State House,4,Kent Roe,REP,155
+Grant,47,State House,4,Dryan C. Jordan,REP,150
+Grant,49,State House,4,Kent Roe,REP,55
+Grant,49,State House,4,Dryan C. Jordan,REP,50
+Grant,53,State House,4,Kent Roe,REP,46
+Grant,53,State House,4,Dryan C. Jordan,REP,44
+Grant,54,State House,4,Kent Roe,REP,99
+Grant,54,State House,4,Dryan C. Jordan,REP,88
+Grant,11,State House,4,Dyran C. Jordan,REP,196
+Grant,12,State House,4,Dyran C. Jordan,REP,49
+Grant,21,State House,4,Dyran C. Jordan,REP,93
+Grant,22,State House,4,Dyran C. Jordan,REP,190
+Grant,31,State House,4,Dyran C. Jordan,REP,34
+Grant,32,State House,4,Dyran C. Jordan,REP,56
+Grant,33,State House,4,Dyran C. Jordan,REP,247
+Grant,41,State House,4,Dyran C. Jordan,REP,117
+Grant,42,State House,4,Dyran C. Jordan,REP,177
+Grant,43,State House,4,Dyran C. Jordan,REP,238
+Grant,44,State House,4,Dyran C. Jordan,REP,68
+Grant,45,State House,4,Dyran C. Jordan,REP,92
+Grant,46,State House,4,Dyran C. Jordan,REP,134
+Grant,47,State House,4,Dyran C. Jordan,REP,150
+Grant,49,State House,4,Dyran C. Jordan,REP,50
+Grant,52,State House,4,Kent Roe,REP,46
+Grant,52,State House,4,Dyran C. Jordan,REP,44
+Grant,53,State House,4,Dyran C. Jordan,REP,77
+Grant,54,State House,4,Dyran C. Jordan,REP,88
+Grant,11,Supreme Court Retention,5,Yes,,278
+Grant,11,Supreme Court Retention,5,No,,46
+Grant,12,Supreme Court Retention,5,Yes,,52
+Grant,12,Supreme Court Retention,5,No,,14
+Grant,21,Supreme Court Retention,5,Yes,,105
+Grant,21,Supreme Court Retention,5,No,,23
+Grant,22,Supreme Court Retention,5,Yes,,236
+Grant,22,Supreme Court Retention,5,No,,44
+Grant,31,Supreme Court Retention,5,Yes,,40
+Grant,31,Supreme Court Retention,5,No,,8
+Grant,32,Supreme Court Retention,5,Yes,,63
+Grant,32,Supreme Court Retention,5,No,,9
+Grant,33,Supreme Court Retention,5,Yes,,299
+Grant,33,Supreme Court Retention,5,No,,46
+Grant,41,Supreme Court Retention,5,Yes,,139
+Grant,41,Supreme Court Retention,5,No,,30
+Grant,42,Supreme Court Retention,5,Yes,,203
+Grant,42,Supreme Court Retention,5,No,,39
+Grant,43,Supreme Court Retention,5,Yes,,297
+Grant,43,Supreme Court Retention,5,No,,59
+Grant,44,Supreme Court Retention,5,Yes,,815
+Grant,44,Supreme Court Retention,5,No,,73
+Grant,45,Supreme Court Retention,5,Yes,,155
+Grant,45,Supreme Court Retention,5,No,,20
+Grant,46,Supreme Court Retention,5,Yes,,156
+Grant,46,Supreme Court Retention,5,No,,27
+Grant,47,Supreme Court Retention,5,Yes,,115
+Grant,47,Supreme Court Retention,5,No,,16
+Grant,49,Supreme Court Retention,5,Yes,,76
+Grant,49,Supreme Court Retention,5,No,,21
+Grant,52,Supreme Court Retention,5,Yes,,44
+Grant,52,Supreme Court Retention,5,No,,11
+Grant,53,Supreme Court Retention,5,Yes,,31
+Grant,53,Supreme Court Retention,5,No,,8
+Grant,54,Supreme Court Retention,5,Yes,,110
+Grant,54,Supreme Court Retention,5,No,,22
+Grant,11,Constitutional Amendment E,,Yes,,119
+Grant,11,Constitutional Amendment E,,No,,214
+Grant,11,Constitutional Amendment F,,Yes,,163
+Grant,11,Constitutional Amendment F,,No,,173
+Grant,11,Constitutional Amendment G,,Yes,,94
+Grant,11,Constitutional Amendment G,,No,,244
+Grant,11,Constitutional Amendment H,,Yes,,112
+Grant,11,Constitutional Amendment H,,No,,219
+Grant,12,Constitutional Amendment E,,Yes,,31
+Grant,12,Constitutional Amendment E,,No,,60
+Grant,12,Constitutional Amendment F,,Yes,,55
+Grant,12,Constitutional Amendment F,,No,,35
+Grant,12,Constitutional Amendment G,,Yes,,23
+Grant,12,Constitutional Amendment G,,No,,69
+Grant,12,Constitutional Amendment H,,Yes,,29
+Grant,12,Constitutional Amendment H,,No,,59
+Grant,21,Constitutional Amendment E,,Yes,,100
+Grant,21,Constitutional Amendment E,,No,,73
+Grant,21,Constitutional Amendment F,,Yes,,79
+Grant,21,Constitutional Amendment F,,No,,52
+Grant,21,Constitutional Amendment G,,Yes,,103
+Grant,21,Constitutional Amendment G,,No,,50
+Grant,21,Constitutional Amendment H,,Yes,,102
+Grant,21,Constitutional Amendment H,,No,,109
+Grant,22,Constitutional Amendment E,,Yes,,108
+Grant,22,Constitutional Amendment E,,No,,339
+Grant,22,Constitutional Amendment F,,Yes,,174
+Grant,22,Constitutional Amendment F,,No,,174
+Grant,22,Constitutional Amendment G,,Yes,,115
+Grant,22,Constitutional Amendment G,,No,,235
+Grant,22,Constitutional Amendment H,,Yes,,111
+Grant,22,Constitutional Amendment H,,No,,228
+Grant,31,Constitutional Amendment E,,Yes,,24
+Grant,31,Constitutional Amendment E,,No,,35
+Grant,31,Constitutional Amendment F,,Yes,,49
+Grant,31,Constitutional Amendment F,,No,,28
+Grant,31,Constitutional Amendment G,,Yes,,16
+Grant,31,Constitutional Amendment G,,No,,43
+Grant,31,Constitutional Amendment H,,Yes,,21
+Grant,31,Constitutional Amendment H,,No,,38
+Grant,32,Constitutional Amendment E,,Yes,,26
+Grant,32,Constitutional Amendment E,,No,,57
+Grant,32,Constitutional Amendment F,,Yes,,62
+Grant,32,Constitutional Amendment F,,No,,39
+Grant,32,Constitutional Amendment G,,Yes,,19
+Grant,32,Constitutional Amendment G,,No,,69
+Grant,32,Constitutional Amendment H,,Yes,,28
+Grant,32,Constitutional Amendment H,,No,,58
+Grant,33,Constitutional Amendment E,,Yes,,155
+Grant,33,Constitutional Amendment E,,No,,271
+Grant,33,Constitutional Amendment F,,Yes,,260
+Grant,33,Constitutional Amendment F,,No,,164
+Grant,33,Constitutional Amendment G,,Yes,,137
+Grant,33,Constitutional Amendment G,,No,,293
+Grant,33,Constitutional Amendment H,,Yes,,143
+Grant,33,Constitutional Amendment H,,No,,275
+Grant,41,Constitutional Amendment E,,Yes,,88
+Grant,41,Constitutional Amendment E,,No,,136
+Grant,41,Constitutional Amendment F,,Yes,,138
+Grant,41,Constitutional Amendment F,,No,,87
+Grant,41,Constitutional Amendment G,,Yes,,76
+Grant,41,Constitutional Amendment G,,No,,149
+Grant,41,Constitutional Amendment H,,Yes,,73
+Grant,41,Constitutional Amendment H,,No,,249
+Grant,42,Constitutional Amendment E,,Yes,,84
+Grant,42,Constitutional Amendment E,,No,,213
+Grant,42,Constitutional Amendment F,,Yes,,186
+Grant,42,Constitutional Amendment F,,No,,106
+Grant,42,Constitutional Amendment G,,Yes,,123
+Grant,42,Constitutional Amendment G,,No,,219
+Grant,42,Constitutional Amendment H,,Yes,,74
+Grant,42,Constitutional Amendment H,,No,,211
+Grant,43,Constitutional Amendment E,,Yes,,152
+Grant,43,Constitutional Amendment E,,No,,267
+Grant,43,Constitutional Amendment F,,Yes,,235
+Grant,43,Constitutional Amendment F,,No,,185
+Grant,43,Constitutional Amendment G,,Yes,,123
+Grant,43,Constitutional Amendment G,,No,,219
+Grant,43,Constitutional Amendment H,,Yes,,141
+Grant,43,Constitutional Amendment H,,No,,198
+Grant,44,Constitutional Amendment E,,Yes,,48
+Grant,44,Constitutional Amendment E,,No,,110
+Grant,44,Constitutional Amendment F,,Yes,,82
+Grant,44,Constitutional Amendment F,,No,,73
+Grant,44,Constitutional Amendment G,,Yes,,45
+Grant,44,Constitutional Amendment G,,No,,111
+Grant,44,Constitutional Amendment H,,Yes,,47
+Grant,44,Constitutional Amendment H,,No,,107
+Grant,45,Constitutional Amendment E,,Yes,,60
+Grant,45,Constitutional Amendment E,,No,,150
+Grant,45,Constitutional Amendment F,,Yes,,87
+Grant,45,Constitutional Amendment F,,No,,73
+Grant,45,Constitutional Amendment G,,Yes,,64
+Grant,45,Constitutional Amendment G,,No,,158
+Grant,45,Constitutional Amendment H,,Yes,,63
+Grant,45,Constitutional Amendment H,,No,,156
+Grant,46,Constitutional Amendment E,,Yes,,59
+Grant,46,Constitutional Amendment E,,No,,150
+Grant,46,Constitutional Amendment F,,Yes,,63
+Grant,46,Constitutional Amendment F,,No,,89
+Grant,46,Constitutional Amendment G,,Yes,,88
+Grant,46,Constitutional Amendment G,,No,,179
+Grant,46,Constitutional Amendment H,,Yes,,58
+Grant,46,Constitutional Amendment H,,No,,169
+Grant,47,Constitutional Amendment E,,Yes,,41
+Grant,47,Constitutional Amendment E,,No,,68
+Grant,47,Constitutional Amendment F,,Yes,,63
+Grant,47,Constitutional Amendment F,,No,,45
+Grant,47,Constitutional Amendment G,,Yes,,36
+Grant,47,Constitutional Amendment G,,No,,73
+Grant,47,Constitutional Amendment H,,Yes,,34
+Grant,47,Constitutional Amendment H,,No,,72
+Grant,49,Constitutional Amendment E,,Yes,,21
+Grant,49,Constitutional Amendment E,,No,,59
+Grant,49,Constitutional Amendment F,,Yes,,56
+Grant,49,Constitutional Amendment F,,No,,37
+Grant,49,Constitutional Amendment G,,Yes,,21
+Grant,49,Constitutional Amendment G,,No,,20
+Grant,49,Constitutional Amendment H,,Yes,,21
+Grant,49,Constitutional Amendment H,,No,,54
+Grant,52,Constitutional Amendment E,,Yes,,41
+Grant,52,Constitutional Amendment E,,No,,44
+Grant,52,Constitutional Amendment F,,Yes,,21
+Grant,52,Constitutional Amendment F,,No,,31
+Grant,52,Constitutional Amendment G,,Yes,,14
+Grant,52,Constitutional Amendment G,,No,,42
+Grant,52,Constitutional Amendment H,,Yes,,19
+Grant,52,Constitutional Amendment H,,No,,31
+Grant,54,Constitutional Amendment E,,Yes,,53
+Grant,54,Constitutional Amendment E,,No,,103
+Grant,54,Constitutional Amendment F,,Yes,,78
+Grant,54,Constitutional Amendment F,,No,,77
+Grant,54,Constitutional Amendment G,,Yes,,44
+Grant,54,Constitutional Amendment G,,No,,113
+Grant,54,Constitutional Amendment H,,Yes,,37
+Grant,54,Constitutional Amendment H,,No,,108
+Grant,1,Initiated Measure 28,,Yes,,105
+Grant,1,Initiated Measure 28,,No,,230
+Grant,1,Initiated Measure 29,,Yes,,137
+Grant,1,Initiated Measure 29,,No,,200
+Grant,1,Referred Law 21,,Yes,,137
+Grant,1,Referred Law 21,,No,,188
+Grant,12,Initiated Measure 28,,Yes,,24
+Grant,12,Initiated Measure 28,,No,,66
+Grant,12,Initiated Measure 29,,Yes,,25
+Grant,12,Initiated Measure 29,,No,,65
+Grant,12,Referred Law 21,,Yes,,38
+Grant,12,Referred Law 21,,No,,49
+Grant,21,Initiated Measure 28,,Yes,,45
+Grant,21,Initiated Measure 28,,No,,108
+Grant,21,Initiated Measure 29,,Yes,,65
+Grant,21,Initiated Measure 29,,No,,92
+Grant,21,Referred Law 21,,Yes,,58
+Grant,21,Referred Law 21,,No,,92
+Grant,22,Initiated Measure 28,,Yes,,94
+Grant,22,Initiated Measure 28,,No,,57
+Grant,22,Initiated Measure 29,,Yes,,145
+Grant,22,Initiated Measure 29,,No,,205
+Grant,22,Referred Law 21,,Yes,,139
+Grant,22,Referred Law 21,,No,,195
+Grant,31,Initiated Measure 28,,Yes,,30
+Grant,31,Initiated Measure 28,,No,,34
+Grant,31,Initiated Measure 29,,Yes,,22
+Grant,31,Initiated Measure 29,,No,,37
+Grant,31,Referred Law 21,,Yes,,26
+Grant,31,Referred Law 21,,No,,32
+Grant,32,Initiated Measure 28,,Yes,,30
+Grant,32,Initiated Measure 28,,No,,54
+Grant,32,Initiated Measure 29,,Yes,,42
+Grant,32,Initiated Measure 29,,No,,47
+Grant,32,Referred Law 21,,Yes,,37
+Grant,32,Referred Law 21,,No,,44

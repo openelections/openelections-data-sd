@@ -1,0 +1,227 @@
+county,precinct,office,district,candidate,party,votes
+Davison,01,President,,Kamala D. Harris and Tim Walz,DEM,65
+Davison,01,President,,Chase Oliver and Mike ter Maat,LIB,1
+Davison,01,President,,Donald J. Trump and JD Vance,REP,277
+Davison,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Davison,02,President,,Kamala D. Harris and Tim Walz,DEM,64
+Davison,02,President,,Chase Oliver and Mike ter Maat,LIB,0
+Davison,02,President,,Donald J. Trump and JD Vance,REP,352
+Davison,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Davison,"03 (Precinct-04, Precinct-05)",President,,Kamala D. Harris and Tim Walz,DEM,357
+Davison,"03 (Precinct-04, Precinct-05)",President,,Chase Oliver and Mike ter Maat,LIB,6
+Davison,"03 (Precinct-04, Precinct-05)",President,,Donald J. Trump and JD Vance,REP,1212
+Davison,"03 (Precinct-04, Precinct-05)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,28
+Davison,"06 (Precinct-07, Precinct-08)",President,,Kamala D. Harris and Tim Walz,DEM,514
+Davison,"06 (Precinct-07, Precinct-08)",President,,Chase Oliver and Mike ter Maat,LIB,11
+Davison,"06 (Precinct-07, Precinct-08)",President,,Donald J. Trump and JD Vance,REP,1037
+Davison,"06 (Precinct-07, Precinct-08)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Davison,"09 (Precinct-10, Precinct-11)",President,,Kamala D. Harris and Tim Walz,DEM,420
+Davison,"09 (Precinct-10, Precinct-11)",President,,Chase Oliver and Mike ter Maat,LIB,10
+Davison,"09 (Precinct-10, Precinct-11)",President,,Donald J. Trump and JD Vance,REP,840
+Davison,"09 (Precinct-10, Precinct-11)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,25
+Davison,"12 (Precinct-13, Precinct-14)",President,,Kamala D. Harris and Tim Walz,DEM,393
+Davison,"12 (Precinct-13, Precinct-14)",President,,Chase Oliver and Mike ter Maat,LIB,9
+Davison,"12 (Precinct-13, Precinct-14)",President,,Donald J. Trump and JD Vance,REP,776
+Davison,"12 (Precinct-13, Precinct-14)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,28
+Davison,"15 (Precinct-16, Precinct-18)",President,,Kamala D. Harris and Tim Walz,DEM,504
+Davison,"15 (Precinct-16, Precinct-18)",President,,Chase Oliver and Mike ter Maat,LIB,7
+Davison,"15 (Precinct-16, Precinct-18)",President,,Donald J. Trump and JD Vance,REP,911
+Davison,"15 (Precinct-16, Precinct-18)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,31
+Davison,19 (Precinct-20),President,,Kamala D. Harris and Tim Walz,DEM,426
+Davison,19 (Precinct-20),President,,Chase Oliver and Mike ter Maat,LIB,9
+Davison,19 (Precinct-20),President,,Donald J. Trump and JD Vance,REP,803
+Davison,19 (Precinct-20),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Davison,01,U.S. House,1,Sheryl Johnson,DEM,45
+Davison,01,U.S. House,1,Dusty Johnson,REP,293
+Davison,02,U.S. House,1,Sheryl Johnson,DEM,51
+Davison,02,U.S. House,1,Dusty Johnson,REP,371
+Davison,"03 (Precinct 04, Precinct 05)",U.S. House,1,Sheryl Johnson,DEM,249
+Davison,"03 (Precinct 04, Precinct 05)",U.S. House,1,Dusty Johnson,REP,1340
+Davison,"06 (Precinct 07, Precinct 08)",U.S. House,1,Sheryl Johnson,DEM,323
+Davison,"06 (Precinct 07, Precinct 08)",U.S. House,1,Dusty Johnson,REP,1267
+Davison,"09 (Precinct 10, Precinct 11)",U.S. House,1,Sheryl Johnson,DEM,317
+Davison,"09 (Precinct 10, Precinct 11)",U.S. House,1,Dusty Johnson,REP,957
+Davison,"12 (Precinct 13, Precinct 14)",U.S. House,1,Sheryl Johnson,DEM,297
+Davison,"12 (Precinct 13, Precinct 14)",U.S. House,1,Dusty Johnson,REP,878
+Davison,"15 (Precinct 16, Precinct 18)",U.S. House,1,Sheryl Johnson,DEM,360
+Davison,"15 (Precinct 16, Precinct 18)",U.S. House,1,Dusty Johnson,REP,1072
+Davison,19 (Precinct 20),U.S. House,1,Sheryl Johnson,DEM,292
+Davison,19 (Precinct 20),U.S. House,1,Dusty Johnson,REP,953
+Davison,01,Public Utilities Commissioner,,Forrest Wilson,DEM,38
+Davison,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Davison,01,Public Utilities Commissioner,,Kristie Fiegen,REP,268
+Davison,02,Public Utilities Commissioner,,Forrest Wilson,DEM,42
+Davison,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Davison,02,Public Utilities Commissioner,,Kristie Fiegen,REP,334
+Davison,03,Public Utilities Commissioner,,Forrest Wilson,DEM,238
+Davison,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
+Davison,03,Public Utilities Commissioner,,Kristie Fiegen,REP,1216
+Davison,06,Public Utilities Commissioner,,Forrest Wilson,DEM,338
+Davison,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
+Davison,06,Public Utilities Commissioner,,Kristie Fiegen,REP,1103
+Davison,10,Public Utilities Commissioner,,Forrest Wilson,DEM,265
+Davison,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,70
+Davison,10,Public Utilities Commissioner,,Kristie Fiegen,REP,826
+Davison,12,Public Utilities Commissioner,,Forrest Wilson,DEM,280
+Davison,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,48
+Davison,12,Public Utilities Commissioner,,Kristie Fiegen,REP,787
+Davison,15,Public Utilities Commissioner,,Forrest Wilson,DEM,334
+Davison,15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,75
+Davison,15,Public Utilities Commissioner,,Kristie Fiegen,REP,918
+Davison,19,Public Utilities Commissioner,,Forrest Wilson,DEM,285
+Davison,19,Public Utilities Commissioner,,A. Gideon Oakes,LIB,49
+Davison,19,Public Utilities Commissioner,,Kristie Fiegen,REP,831
+Davison,1,State Senate,20,Paul Miskimins,REP,270
+Davison,2,State Senate,20,Paul Miskimins,REP,325
+Davison,3,State Senate,20,Paul Miskimins,REP,1209
+Davison,6,State Senate,20,Paul Miskimins,REP,1187
+Davison,9,State Senate,20,Paul Miskimins,REP,876
+Davison,12,State Senate,20,Paul Miskimins,REP,812
+Davison,15,State Senate,20,Paul Miskimins,REP,989
+Davison,19,State Senate,20,Paul Miskimins,REP,883
+Davison,1,State House,20,Jeff Bathke,REP,229
+Davison,1,State House,20,Kaley Nolz,REP,174
+Davison,2,State House,20,Jeff Bathke,REP,279
+Davison,2,State House,20,Kaley Nolz,REP,235
+Davison,3,State House,20,Jeff Bathke,REP,984
+Davison,3,State House,20,Kaley Nolz,REP,913
+Davison,6,State House,20,Jeff Bathke,REP,1021
+Davison,6,State House,20,Kaley Nolz,REP,860
+Davison,9,State House,20,Jeff Bathke,REP,762
+Davison,9,State House,20,Kaley Nolz,REP,642
+Davison,12,State House,20,Jeff Bathke,REP,668
+Davison,12,State House,20,Kaley Nolz,REP,624
+Davison,15,State House,20,Jeff Bathke,REP,854
+Davison,15,State House,20,Kaley Nolz,REP,725
+Davison,19,State House,20,Jeff Bathke,REP,793
+Davison,19,State House,20,Kaley Nolz,REP,612
+Davison,01,Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,236
+Davison,01,Supreme Court Retention,Fifth,Justice Scott P. Myren No,,56
+Davison,02,Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,311
+Davison,02,Supreme Court Retention,Fifth,Justice Scott P. Myren No,,58
+Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,1
+Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,225
+Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,1
+Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,195
+Davison,09 (Precinct-10),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,844
+Davison,09 (Precinct-10),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,218
+Davison,11 (Precinct-12),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,795
+Davison,11 (Precinct-12),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,187
+Davison,13 (Precinct-14),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,948
+Davison,13 (Precinct-14),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,250
+Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,867
+Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,181
+Davison,19 (Precinct-20),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,0
+Davison,19 (Precinct-20),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,81
+Davison,01,Constitutional Amendment E,,Yes,,91
+Davison,01,Constitutional Amendment E,,No,,246
+Davison,01,Constitutional Amendment F,,Yes,,170
+Davison,01,Constitutional Amendment F,,No,,166
+Davison,01,Constitutional Amendment G,,Yes,,70
+Davison,01,Constitutional Amendment G,,No,,276
+Davison,01,Constitutional Amendment H,,Yes,,85
+Davison,01,Constitutional Amendment H,,No,,247
+Davison,02,Constitutional Amendment E,,Yes,,123
+Davison,02,Constitutional Amendment E,,No,,296
+Davison,02,Constitutional Amendment F,,Yes,,211
+Davison,02,Constitutional Amendment F,,No,,202
+Davison,02,Constitutional Amendment G,,Yes,,85
+Davison,02,Constitutional Amendment G,,No,,339
+Davison,02,Constitutional Amendment H,,Yes,,85
+Davison,02,Constitutional Amendment H,,No,,322
+Davison,03,Constitutional Amendment E,,Yes,,550
+Davison,03,Constitutional Amendment E,,No,,1031
+Davison,03,Constitutional Amendment F,,Yes,,938
+Davison,03,Constitutional Amendment F,,No,,636
+Davison,03,Constitutional Amendment G,,Yes,,465
+Davison,03,Constitutional Amendment G,,No,,1132
+Davison,03,Constitutional Amendment H,,Yes,,397
+Davison,03,Constitutional Amendment H,,No,,1148
+Davison,07,Constitutional Amendment E,,Yes,,715
+Davison,07,Constitutional Amendment E,,No,,863
+Davison,07,Constitutional Amendment F,,Yes,,947
+Davison,07,Constitutional Amendment F,,No,,630
+Davison,07,Constitutional Amendment G,,Yes,,589
+Davison,07,Constitutional Amendment G,,No,,1009
+Davison,07,Constitutional Amendment H,,Yes,,493
+Davison,07,Constitutional Amendment H,,No,,1062
+Davison,09,Constitutional Amendment E,,Yes,,490
+Davison,09,Constitutional Amendment E,,No,,708
+Davison,09,Constitutional Amendment F,,Yes,,570
+Davison,09,Constitutional Amendment F,,No,,487
+Davison,09,Constitutional Amendment G,,Yes,,801
+Davison,09,Constitutional Amendment G,,No,,406
+Davison,09,Constitutional Amendment H,,Yes,,846
+Davison,09,Constitutional Amendment H,,No,,844
+Davison,12,Constitutional Amendment E,,Yes,,480
+Davison,12,Constitutional Amendment E,,No,,700
+Davison,12,Constitutional Amendment F,,Yes,,650
+Davison,12,Constitutional Amendment F,,No,,528
+Davison,12,Constitutional Amendment G,,Yes,,447
+Davison,12,Constitutional Amendment G,,No,,745
+Davison,12,Constitutional Amendment H,,Yes,,372
+Davison,12,Constitutional Amendment H,,No,,780
+Davison,15,Constitutional Amendment E,,Yes,,596
+Davison,15,Constitutional Amendment E,,No,,836
+Davison,15,Constitutional Amendment F,,Yes,,790
+Davison,15,Constitutional Amendment F,,No,,634
+Davison,15,Constitutional Amendment G,,Yes,,591
+Davison,15,Constitutional Amendment G,,No,,847
+Davison,15,Constitutional Amendment H,,Yes,,445
+Davison,15,Constitutional Amendment H,,No,,954
+Davison,19,Constitutional Amendment E,,Yes,,500
+Davison,19,Constitutional Amendment E,,No,,747
+Davison,19,Constitutional Amendment F,,Yes,,684
+Davison,19,Constitutional Amendment F,,No,,560
+Davison,19,Constitutional Amendment G,,Yes,,463
+Davison,19,Constitutional Amendment G,,No,,785
+Davison,19,Constitutional Amendment H,,Yes,,403
+Davison,19,Constitutional Amendment H,,No,,805
+Davison,01,Initiated Measure 28,,Yes,,69
+Davison,01,Initiated Measure 28,,No,,269
+Davison,01,Initiated Measure 29,,Yes,,105
+Davison,01,Initiated Measure 29,,No,,240
+Davison,01,Referred Law 21,,Yes,,102
+Davison,01,Referred Law 21,,No,,226
+Davison,02,Initiated Measure 28,,Yes,,63
+Davison,02,Initiated Measure 28,,No,,354
+Davison,02,Initiated Measure 29,,Yes,,130
+Davison,02,Initiated Measure 29,,No,,296
+Davison,02,Referred Law 21,,Yes,,115
+Davison,02,Referred Law 21,,No,,293
+Davison,"03 (Precinct-04, Precinct-05)",Initiated Measure 28,,Yes,,270
+Davison,"03 (Precinct-04, Precinct-05)",Initiated Measure 28,,No,,1315
+Davison,"03 (Precinct-04, Precinct-05)",Initiated Measure 29,,Yes,,446
+Davison,"03 (Precinct-04, Precinct-05)",Initiated Measure 29,,No,,1146
+Davison,"03 (Precinct-04, Precinct-05)",Referred Law 21,,Yes,,504
+Davison,"03 (Precinct-04, Precinct-05)",Referred Law 21,,No,,1035
+Davison,"06 (Precinct-07, Precinct-08)",Initiated Measure 28,,Yes,,311
+Davison,"06 (Precinct-07, Precinct-08)",Initiated Measure 28,,No,,1273
+Davison,"06 (Precinct-07, Precinct-08)",Initiated Measure 29,,Yes,,600
+Davison,"06 (Precinct-07, Precinct-08)",Initiated Measure 29,,No,,1000
+Davison,"06 (Precinct-07, Precinct-08)",Referred Law 21,,Yes,,630
+Davison,"06 (Precinct-07, Precinct-08)",Referred Law 21,,No,,901
+Davison,"09 (Precinct-10, Precinct-11)",Initiated Measure 28,,Yes,,336
+Davison,"09 (Precinct-10, Precinct-11)",Initiated Measure 28,,No,,940
+Davison,"09 (Precinct-10, Precinct-11)",Initiated Measure 29,,Yes,,625
+Davison,"09 (Precinct-10, Precinct-11)",Initiated Measure 29,,No,,665
+Davison,"09 (Precinct-10, Precinct-11)",Referred Law 21,,Yes,,480
+Davison,"09 (Precinct-10, Precinct-11)",Referred Law 21,,No,,764
+Davison,"12 (Precinct-13, Precinct-14)",Initiated Measure 28,,Yes,,306
+Davison,"12 (Precinct-13, Precinct-14)",Initiated Measure 28,,No,,886
+Davison,"12 (Precinct-13, Precinct-14)",Initiated Measure 29,,Yes,,469
+Davison,"12 (Precinct-13, Precinct-14)",Initiated Measure 29,,No,,722
+Davison,"12 (Precinct-13, Precinct-14)",Referred Law 21,,Yes,,469
+Davison,"12 (Precinct-13, Precinct-14)",Referred Law 21,,No,,667
+Davison,"15 (Precinct-16, Precinct-18)",Initiated Measure 28,,Yes,,345
+Davison,"15 (Precinct-16, Precinct-18)",Initiated Measure 28,,No,,1084
+Davison,"15 (Precinct-16, Precinct-18)",Initiated Measure 29,,Yes,,671
+Davison,"15 (Precinct-16, Precinct-18)",Initiated Measure 29,,No,,782
+Davison,"15 (Precinct-16, Precinct-18)",Referred Law 21,,Yes,,523
+Davison,"15 (Precinct-16, Precinct-18)",Referred Law 21,,No,,859
+Davison,19 (Precinct-20),Initiated Measure 28,,Yes,,304
+Davison,19 (Precinct-20),Initiated Measure 28,,No,,935
+Davison,19 (Precinct-20),Initiated Measure 29,,Yes,,527
+Davison,19 (Precinct-20),Initiated Measure 29,,No,,729
+Davison,19 (Precinct-20),Referred Law 21,,Yes,,486
+Davison,19 (Precinct-20),Referred Law 21,,No,,714

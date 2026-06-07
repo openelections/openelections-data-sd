@@ -1,0 +1,135 @@
+county,precinct,office,district,candidate,party,votes
+Sanborn,Artesian 1 & 2,Constitutional Amendment A,,Yes,,95
+Sanborn,Artesian 1 & 2,Constitutional Amendment A,,No,,106
+Sanborn,Diana & Oneida (Precinct 4),Constitutional Amendment A,,Yes,,128
+Sanborn,Diana & Oneida (Precinct 4),Constitutional Amendment A,,No,,108
+Sanborn,Elliott & Benedict & Union (Precinct 2),Constitutional Amendment A,,Yes,,74
+Sanborn,Elliott & Benedict & Union (Precinct 2),Constitutional Amendment A,,No,,168
+Sanborn,Letcher 1 (Precinct 3),Constitutional Amendment A,,Yes,,196
+Sanborn,Letcher 1 (Precinct 3),Constitutional Amendment A,,No,,152
+Sanborn,Logan & Warren (Precinct 1),Constitutional Amendment A,,Yes,,174
+Sanborn,Logan & Warren (Precinct 1),Constitutional Amendment A,,No,,120
+Sanborn,Silver Creek & Woonsocket (Precinct 5),Constitutional Amendment A,,Yes,,110
+Sanborn,Silver Creek & Woonsocket (Precinct 5),Constitutional Amendment A,,No,,126
+Sanborn,Bristol,Constitutional Amendment A,,Yes,,68
+Sanborn,Bristol,Constitutional Amendment A,,No,,152
+Sanborn,Taper's Chapel,Constitutional Amendment A,,Yes,,115
+Sanborn,Taper's Chapel,Constitutional Amendment A,,No,,133
+Sanborn,1,President,,Kamala D. Harris and Tim Walz,DEM,52
+Sanborn,1,President,,Chase Oliver and Mike ter Maat,LIB,2
+Sanborn,1,President,,Donald J. Trump and JD Vance,REP,203
+Sanborn,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Sanborn,2,President,,Kamala D. Harris and Tim Walz,DEM,64
+Sanborn,2,President,,Chase Oliver and Mike ter Maat,LIB,1
+Sanborn,2,President,,Donald J. Trump and JD Vance,REP,289
+Sanborn,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Sanborn,4,President,,Kamala D. Harris and Tim Walz,DEM,66
+Sanborn,4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Sanborn,4,President,,Donald J. Trump and JD Vance,REP,257
+Sanborn,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Sanborn,5,President,,Kamala D. Harris and Tim Walz,DEM,77
+Sanborn,5,President,,Chase Oliver and Mike ter Maat,LIB,0
+Sanborn,5,President,,Donald J. Trump and JD Vance,REP,180
+Sanborn,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Sanborn,1,U.S. House,1,Sheryl Johnson,DEM,36
+Sanborn,1,U.S. House,1,Dusty Johnson,REP,229
+Sanborn,2,U.S. House,1,Sheryl Johnson,DEM,49
+Sanborn,2,U.S. House,1,Dusty Johnson,REP,302
+Sanborn,4,U.S. House,1,Sheryl Johnson,DEM,47
+Sanborn,4,U.S. House,1,Dusty Johnson,REP,284
+Sanborn,5,U.S. House,1,Sheryl Johnson,DEM,56
+Sanborn,5,U.S. House,1,Dusty Johnson,REP,208
+Sanborn,1,Public Utilities Commissioner,,Forrest Wilson,DEM,33
+Sanborn,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Sanborn,1,Public Utilities Commissioner,,Kristie Fiegen,REP,213
+Sanborn,2,Public Utilities Commissioner,,Forrest Wilson,DEM,50
+Sanborn,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Sanborn,2,Public Utilities Commissioner,,Kristie Fiegen,REP,281
+Sanborn,4,Public Utilities Commissioner,,Forrest Wilson,DEM,43
+Sanborn,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Sanborn,4,Public Utilities Commissioner,,Kristie Fiegen,REP,251
+Sanborn,5,Public Utilities Commissioner,,Forrest Wilson,DEM,56
+Sanborn,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Sanborn,5,Public Utilities Commissioner,,Kristie Fiegen,REP,183
+Sanborn,1,State Senate,20,Paul Miskimins,REP,199
+Sanborn,2,State Senate,20,Paul Miskimins,REP,274
+Sanborn,4,State Senate,20,Paul Miskimins,REP,237
+Sanborn,5,State Senate,20,Paul Miskimins,REP,177
+Sanborn,1,State House,20,Jeff Bathke,REP,150
+Sanborn,1,State House,20,Kaley Nolz,REP,164
+Sanborn,2,State House,20,Jeff Bathke,REP,223
+Sanborn,2,State House,20,Kaley Nolz,REP,191
+Sanborn,4,State House,20,Jeff Bathke,REP,186
+Sanborn,4,State House,20,Kaley Nolz,REP,165
+Sanborn,5,State House,20,Jeff Bathke,REP,150
+Sanborn,5,State House,20,Kaley Nolz,REP,131
+Sanborn,1,County Commissioner,2,Paul Larson,DEM,40
+Sanborn,1,County Commissioner,2,Earl Hinricher,REP,63
+Sanborn,4,County Commissioner,2,Paul Larson,DEM,61
+Sanborn,4,County Commissioner,2,Earl Hinricher,REP,84
+Sanborn,5,County Commissioner,2,Paul Larson,DEM,11
+Sanborn,5,County Commissioner,2,Earl Hinricher,REP,21
+Sanborn,1,Supreme Court Retention,,Yes,,193
+Sanborn,1,Supreme Court Retention,,No,,42
+Sanborn,2,Supreme Court Retention,,Yes,,236
+Sanborn,2,Supreme Court Retention,,No,,53
+Sanborn,4,Supreme Court Retention,,Yes,,227
+Sanborn,4,Supreme Court Retention,,No,,45
+Sanborn,5,Supreme Court Retention,,Yes,,179
+Sanborn,5,Supreme Court Retention,,No,,43
+Sanborn,1,Constitutional Amendment E,,Yes,,74
+Sanborn,1,Constitutional Amendment E,,No,,189
+Sanborn,2,Constitutional Amendment E,,Yes,,88
+Sanborn,2,Constitutional Amendment E,,No,,258
+Sanborn,4,Constitutional Amendment E,,Yes,,114
+Sanborn,4,Constitutional Amendment E,,No,,207
+Sanborn,5,Constitutional Amendment E,,Yes,,98
+Sanborn,5,Constitutional Amendment E,,No,,166
+Sanborn,1,Constitutional Amendment F,,Yes,,130
+Sanborn,1,Constitutional Amendment F,,No,,136
+Sanborn,2,Constitutional Amendment F,,Yes,,179
+Sanborn,2,Constitutional Amendment F,,No,,166
+Sanborn,4,Constitutional Amendment F,,Yes,,156
+Sanborn,4,Constitutional Amendment F,,No,,159
+Sanborn,5,Constitutional Amendment F,,Yes,,142
+Sanborn,5,Constitutional Amendment F,,No,,121
+Sanborn,1,Constitutional Amendment G,,Yes,,73
+Sanborn,1,Constitutional Amendment G,,No,,196
+Sanborn,2,Constitutional Amendment G,,Yes,,88
+Sanborn,2,Constitutional Amendment G,,No,,265
+Sanborn,4,Constitutional Amendment G,,Yes,,106
+Sanborn,4,Constitutional Amendment G,,No,,218
+Sanborn,5,Constitutional Amendment G,,Yes,,83
+Sanborn,5,Constitutional Amendment G,,No,,181
+Sanborn,1,Constitutional Amendment H,,Yes,,54
+Sanborn,1,Constitutional Amendment H,,No,,207
+Sanborn,2,Constitutional Amendment H,,Yes,,89
+Sanborn,2,Constitutional Amendment H,,No,,253
+Sanborn,4,Constitutional Amendment H,,Yes,,70
+Sanborn,4,Constitutional Amendment H,,No,,230
+Sanborn,5,Constitutional Amendment H,,Yes,,79
+Sanborn,5,Constitutional Amendment H,,No,,181
+Sanborn,1,Initiated Measure 28,,Yes,,46
+Sanborn,1,Initiated Measure 28,,No,,217
+Sanborn,2,Initiated Measure 28,,Yes,,59
+Sanborn,2,Initiated Measure 28,,No,,286
+Sanborn,4,Initiated Measure 28,,Yes,,77
+Sanborn,4,Initiated Measure 28,,No,,244
+Sanborn,5,Initiated Measure 28,,Yes,,76
+Sanborn,5,Initiated Measure 28,,No,,183
+Sanborn,1,Initiated Measure 29,,Yes,,80
+Sanborn,1,Initiated Measure 29,,No,,186
+Sanborn,2,Initiated Measure 29,,Yes,,110
+Sanborn,2,Initiated Measure 29,,No,,242
+Sanborn,4,Initiated Measure 29,,Yes,,117
+Sanborn,4,Initiated Measure 29,,No,,203
+Sanborn,5,Initiated Measure 29,,Yes,,91
+Sanborn,5,Initiated Measure 29,,No,,172
+Sanborn,1,Referred Law 21,,Yes,,50
+Sanborn,1,Referred Law 21,,No,,215
+Sanborn,2,Referred Law 21,,Yes,,95
+Sanborn,2,Referred Law 21,,No,,258
+Sanborn,4,Referred Law 21,,Yes,,92
+Sanborn,4,Referred Law 21,,No,,225
+Sanborn,5,Referred Law 21,,Yes,,77
+Sanborn,5,Referred Law 21,,No,,182

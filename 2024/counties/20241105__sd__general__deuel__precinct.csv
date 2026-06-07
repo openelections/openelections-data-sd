@@ -1,0 +1,107 @@
+county,precinct,office,district,candidate,party,votes
+Deuel,01,President,,Kamala D. Harris and Tim Walz,DEM,38
+Deuel,01,President,,Chase Oliver and Mike Maat,LIB,0
+Deuel,01,President,,Donald J. Trump and JD Vance,REP,250
+Deuel,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
+Deuel,02,President,,Kamala D. Harris and Tim Walz,DEM,7
+Deuel,02,President,,Chase Oliver and Mike Maat,LIB,3
+Deuel,02,President,,Donald J. Trump and JD Vance,REP,127
+Deuel,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Deuel,03,President,,Kamala D. Harris and Tim Walz,DEM,20
+Deuel,03,President,,Chase Oliver and Mike Maat,LIB,7
+Deuel,03,President,,Donald J. Trump and JD Vance,REP,98
+Deuel,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
+Deuel,04,President,,Kamala D. Harris and Tim Walz,DEM,2
+Deuel,04,President,,Chase Oliver and Mike Maat,LIB,1
+Deuel,04,President,,Donald J. Trump and JD Vance,REP,42
+Deuel,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
+Deuel,05,President,,Kamala D. Harris and Tim Walz,DEM,59
+Deuel,05,President,,Chase Oliver and Mike Maat,LIB,1
+Deuel,05,President,,Donald J. Trump and JD Vance,REP,139
+Deuel,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Deuel,06,President,,Kamala D. Harris and Tim Walz,DEM,55
+Deuel,06,President,,Chase Oliver and Mike Maat,LIB,1
+Deuel,06,President,,Donald J. Trump and JD Vance,REP,168
+Deuel,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
+Deuel,07,President,,Kamala D. Harris and Tim Walz,DEM,40
+Deuel,07,President,,Chase Oliver and Mike Maat,LIB,0
+Deuel,07,President,,Donald J. Trump and JD Vance,REP,151
+Deuel,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Deuel,08,President,,Kamala D. Harris and Tim Walz,DEM,45
+Deuel,08,President,,Chase Oliver and Mike Maat,LIB,2
+Deuel,08,President,,Donald J. Trump and JD Vance,REP,258
+Deuel,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
+Deuel,09,President,,Kamala D. Harris and Tim Walz,DEM,68
+Deuel,09,President,,Chase Oliver and Mike Maat,LIB,0
+Deuel,09,President,,Donald J. Trump and JD Vance,REP,128
+Deuel,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Deuel,10,President,,Kamala D. Harris and Tim Walz,DEM,67
+Deuel,10,President,,Chase Oliver and Mike Maat,LIB,3
+Deuel,10,President,,Donald J. Trump and JD Vance,REP,143
+Deuel,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
+Deuel,11,President,,Kamala D. Harris and Tim Walz,DEM,47
+Deuel,11,President,,Chase Oliver and Mike Maat,LIB,3
+Deuel,11,President,,Donald J. Trump and JD Vance,REP,128
+Deuel,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
+Deuel,01,U.S. House,1,Sheryll Johnson,DEM,30
+Deuel,01,U.S. House,1,Dusty Johnson,REP,129
+Deuel,02,U.S. House,1,Sheryll Johnson,DEM,7
+Deuel,02,U.S. House,1,Dusty Johnson,REP,138
+Deuel,03,U.S. House,1,Sheryll Johnson,DEM,20
+Deuel,03,U.S. House,1,Dusty Johnson,REP,107
+Deuel,04,U.S. House,1,Sheryll Johnson,DEM,2
+Deuel,04,U.S. House,1,Dusty Johnson,REP,42
+Deuel,05,U.S. House,1,Sheryll Johnson,DEM,58
+Deuel,05,U.S. House,1,Dusty Johnson,REP,163
+Deuel,06,U.S. House,1,Sheryll Johnson,DEM,31
+Deuel,06,U.S. House,1,Dusty Johnson,REP,160
+Deuel,07,U.S. House,1,Sheryll Johnson,DEM,33
+Deuel,07,U.S. House,1,Dusty Johnson,REP,143
+Deuel,08,U.S. House,1,Sheryll Johnson,DEM,43
+Deuel,08,U.S. House,1,Dusty Johnson,REP,171
+Deuel,09,U.S. House,1,Sheryll Johnson,DEM,47
+Deuel,09,U.S. House,1,Dusty Johnson,REP,204
+Deuel,10,U.S. House,1,Sheryll Johnson,DEM,36
+Deuel,10,U.S. House,1,Dusty Johnson,REP,203
+Deuel,11,U.S. House,1,Sheryll Johnson,DEM,47
+Deuel,11,U.S. House,1,Dusty Johnson,REP,143
+Deuel,01,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Deuel,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Deuel,01,Public Utilities Commissioner,,Kristie Fiegen,REP,171
+Deuel,02,Public Utilities Commissioner,,Forrest Wilson,DEM,4
+Deuel,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Deuel,02,Public Utilities Commissioner,,Kristie Fiegen,REP,138
+Deuel,03,Public Utilities Commissioner,,Forrest Wilson,DEM,18
+Deuel,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Deuel,03,Public Utilities Commissioner,,Kristie Fiegen,REP,102
+Deuel,04,Public Utilities Commissioner,,Forrest Wilson,DEM,2
+Deuel,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Deuel,04,Public Utilities Commissioner,,Kristie Fiegen,REP,36
+Deuel,05,Public Utilities Commissioner,,Forrest Wilson,DEM,51
+Deuel,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Deuel,05,Public Utilities Commissioner,,Kristie Fiegen,REP,224
+Deuel,06,Public Utilities Commissioner,,Forrest Wilson,DEM,36
+Deuel,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Deuel,06,Public Utilities Commissioner,,Kristie Fiegen,REP,136
+Deuel,07,Public Utilities Commissioner,,Forrest Wilson,DEM,38
+Deuel,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Deuel,07,Public Utilities Commissioner,,Kristie Fiegen,REP,164
+Deuel,08,Public Utilities Commissioner,,Forrest Wilson,DEM,53
+Deuel,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Deuel,08,Public Utilities Commissioner,,Kristie Fiegen,REP,209
+Deuel,09,Public Utilities Commissioner,,Forrest Wilson,DEM,43
+Deuel,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Deuel,09,Public Utilities Commissioner,,Kristie Fiegen,REP,209
+Deuel,10,Public Utilities Commissioner,,Forrest Wilson,DEM,33
+Deuel,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Deuel,10,Public Utilities Commissioner,,Kristie Fiegen,REP,246
+Deuel,11,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Deuel,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,28
+Deuel,11,Public Utilities Commissioner,,Kristie Fiegen,REP,154
+Deuel,01,State Senate,04,Stephanie Sauder,REP,257
+Deuel,02,State Senate,04,Stephanie Sauder,REP,205
+Deuel,03,State Senate,04,Stephanie Sauder,REP,135
+Deuel,04,State Senate,04,Stephanie Sauder,REP,183
+Deuel,05,State Senate,04,Stephanie Sauder,REP,195
+Deuel,06,State Senate,04,Stephanie Sauder,REP,125
+Deuel,07,State Senate,04,Stephanie Sauder,REP,164

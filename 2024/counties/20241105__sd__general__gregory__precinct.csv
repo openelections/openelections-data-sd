@@ -1,0 +1,82 @@
+county,precinct,office,district,candidate,party,votes
+Gregory,1,President,,Kamala D. Harris and Tim Walz,DEM,188
+Gregory,2,President,,Kamala D. Harris and Tim Walz,DEM,156
+Gregory,3,President,,Kamala D. Harris and Tim Walz,DEM,82
+Gregory,1,President,,Chase Oliver and Mike ter Maat,LIB,7
+Gregory,2,President,,Chase Oliver and Mike ter Maat,LIB,7
+Gregory,3,President,,Chase Oliver and Mike ter Maat,LIB,1
+Gregory,1,President,,Donald J. Trump and JD Vance,REP,820
+Gregory,2,President,,Donald J. Trump and JD Vance,REP,629
+Gregory,3,President,,Donald J. Trump and JD Vance,REP,341
+Gregory,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Gregory,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
+Gregory,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Gregory,1,U.S. House,1,Sheryl Johnson,DEM,162
+Gregory,2,U.S. House,1,Sheryl Johnson,DEM,119
+Gregory,3,U.S. House,1,Sheryl Johnson,DEM,59
+Gregory,1,U.S. House,1,Dusty Johnson,REP,843
+Gregory,2,U.S. House,1,Dusty Johnson,REP,675
+Gregory,3,U.S. House,1,Dusty Johnson,REP,362
+Gregory,1,Public Utilities Commissioner,,Forrest Wilson,DEM,155
+Gregory,2,Public Utilities Commissioner,,Forrest Wilson,DEM,134
+Gregory,3,Public Utilities Commissioner,,Forrest Wilson,DEM,58
+Gregory,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,44
+Gregory,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Gregory,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Gregory,1,Public Utilities Commissioner,,Kristie Fiegen,REP,780
+Gregory,2,Public Utilities Commissioner,,Kristie Fiegen,REP,595
+Gregory,3,Public Utilities Commissioner,,Kristie Fiegen,REP,323
+Gregory,1,State Senate,21,Dan Andersson,DEM,185
+Gregory,2,State Senate,21,Dan Andersson,DEM,171
+Gregory,3,State Senate,21,Dan Andersson,DEM,88
+Gregory,1,State Senate,21,Mykala Voita,REP,794
+Gregory,2,State Senate,21,Mykala Voita,REP,600
+Gregory,3,State Senate,21,Mykala Voita,REP,312
+Gregory,1,State House,21,Jim Halverson,REP,727
+Gregory,2,State House,21,Jim Halverson,REP,555
+Gregory,3,State House,21,Jim Halverson,REP,263
+Gregory,1,State House,21,Marty Overweg,REP,542
+Gregory,2,State House,21,Marty Overweg,REP,428
+Gregory,3,State House,21,Marty Overweg,REP,231
+Gregory,2,County Commissioner,,Lance Matucha,REP,237
+Gregory,2,County Commissioner,,Peggy L Glover,IND,275
+Gregory,2,County Commissioner,,Doug Janousek,DEM,19
+Gregory,3,County Commissioner,,Doug Janousek,DEM,285
+Gregory,2,County Commissioner,,P. J. Olson,REP,25
+Gregory,3,County Commissioner,,P. J. Olson,REP,138
+Gregory,2,County Commissioner,2,Lance Matucha,REP,237
+Gregory,2,County Commissioner,2,Peggy L Glover,IND,275
+Gregory,2,County Commissioner,4,Doug Janousek,DEM,19
+Gregory,2,County Commissioner,4,P. J. Olson,REP,25
+Gregory,3,County Commissioner,4,Doug Janousek,DEM,285
+Gregory,3,County Commissioner,4,P. J. Olson,REP,138
+Gregory,1,Supreme Court Retention,,Yes,,698
+Gregory,1,Supreme Court Retention,,No,,171
+Gregory,2,Supreme Court Retention,,Yes,,573
+Gregory,2,Supreme Court Retention,,No,,141
+Gregory,3,Supreme Court Retention,,Yes,,281
+Gregory,3,Supreme Court Retention,,No,,71
+Gregory,1,Constitutional Amendment E,,Yes,,236
+Gregory,1,Constitutional Amendment E,,No,,781
+Gregory,2,Constitutional Amendment E,,Yes,,207
+Gregory,2,Constitutional Amendment E,,No,,604
+Gregory,3,Constitutional Amendment E,,Yes,,103
+Gregory,3,Constitutional Amendment E,,No,,317
+Gregory,1,Constitutional Amendment F,,Yes,,574
+Gregory,1,Constitutional Amendment F,,No,,446
+Gregory,2,Constitutional Amendment F,,Yes,,413
+Gregory,2,Constitutional Amendment F,,No,,390
+Gregory,3,Constitutional Amendment F,,Yes,,212
+Gregory,3,Constitutional Amendment F,,No,,200
+Gregory,1,Constitutional Amendment G,,Yes,,245
+Gregory,1,Constitutional Amendment G,,No,,774
+Gregory,2,Constitutional Amendment G,,Yes,,186
+Gregory,2,Constitutional Amendment G,,No,,623
+Gregory,3,Constitutional Amendment G,,Yes,,89
+Gregory,3,Constitutional Amendment G,,No,,331
+Gregory,1,Constitutional Amendment H,,Yes,,187
+Gregory,1,Constitutional Amendment H,,No,,819
+Gregory,2,Constitutional Amendment H,,Yes,,173
+Gregory,2,Constitutional Amendment H,,No,,622
+Gregory,3,Constitutional Amendment H,,Yes,,83
+Gregory,3,Constitutional Amendment H,,No,,332

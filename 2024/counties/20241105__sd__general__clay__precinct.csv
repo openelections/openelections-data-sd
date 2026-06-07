@@ -1,0 +1,388 @@
+county,precinct,office,district,candidate,party,votes
+Clay,01,President,,Kamala D. Harris and Tim Walz,DEM,118
+Clay,01,President,,Chase Oliver and Mike Ter Maat,LIB,3
+Clay,01,President,,Donald J. Trump and JD Vance,REP,309
+Clay,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Clay,02,President,,Kamala D. Harris and Tim Walz,DEM,119
+Clay,02,President,,Chase Oliver and Mike Ter Maat,LIB,7
+Clay,02,President,,Donald J. Trump and JD Vance,REP,253
+Clay,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Clay,03,President,,Kamala D. Harris and Tim Walz,DEM,450
+Clay,03,President,,Chase Oliver and Mike Ter Maat,LIB,10
+Clay,03,President,,Donald J. Trump and JD Vance,REP,600
+Clay,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Clay,C1,President,,Kamala D. Harris and Tim Walz,DEM,269
+Clay,C1,President,,Chase Oliver and Mike Ter Maat,LIB,4
+Clay,C1,President,,Donald J. Trump and JD Vance,REP,91
+Clay,C1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Clay,E1,President,,Kamala D. Harris and Tim Walz,DEM,124
+Clay,E1,President,,Chase Oliver and Mike Ter Maat,LIB,3
+Clay,E1,President,,Donald J. Trump and JD Vance,REP,73
+Clay,E1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Clay,F1,President,,Kamala D. Harris and Tim Walz,DEM,217
+Clay,F1,President,,Chase Oliver and Mike Ter Maat,LIB,0
+Clay,F1,President,,Donald J. Trump and JD Vance,REP,184
+Clay,F1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Clay,F2,President,,Kamala D. Harris and Tim Walz,DEM,119
+Clay,F2,President,,Chase Oliver and Mike Ter Maat,LIB,0
+Clay,F2,President,,Donald J. Trump and JD Vance,REP,63
+Clay,F2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Clay,S1,President,,Kamala D. Harris and Tim Walz,DEM,498
+Clay,S1,President,,Chase Oliver and Mike Ter Maat,LIB,8
+Clay,S1,President,,Donald J. Trump and JD Vance,REP,335
+Clay,S1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Clay,S2,President,,Kamala D. Harris and Tim Walz,DEM,391
+Clay,S2,President,,Chase Oliver and Mike Ter Maat,LIB,3
+Clay,S2,President,,Donald J. Trump and JD Vance,REP,212
+Clay,S2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Clay,W1,President,,Kamala D. Harris and Tim Walz,DEM,398
+Clay,W1,President,,Chase Oliver and Mike Ter Maat,LIB,4
+Clay,W1,President,,Donald J. Trump and JD Vance,REP,270
+Clay,W1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
+Clay,W2,President,,Kamala D. Harris and Tim Walz,DEM,241
+Clay,W2,President,,Chase Oliver and Mike Ter Maat,LIB,0
+Clay,W2,President,,Donald J. Trump and JD Vance,REP,184
+Clay,W2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Clay,01,U.S. House,1,Sheryl Johnson,DEM,81
+Clay,01,U.S. House,1,Dusty Johnson,REP,349
+Clay,02,U.S. House,1,Sheryl Johnson,DEM,86
+Clay,02,U.S. House,1,Dusty Johnson,REP,293
+Clay,03,U.S. House,1,Sheryl Johnson,DEM,327
+Clay,03,U.S. House,1,Dusty Johnson,REP,752
+Clay,C1,U.S. House,1,Sheryl Johnson,DEM,237
+Clay,C1,U.S. House,1,Dusty Johnson,REP,126
+Clay,C2,U.S. House,1,Sheryl Johnson,DEM,111
+Clay,C2,U.S. House,1,Dusty Johnson,REP,91
+Clay,E1,U.S. House,1,Sheryl Johnson,DEM,188
+Clay,E1,U.S. House,1,Dusty Johnson,REP,208
+Clay,E2,U.S. House,1,Sheryl Johnson,DEM,101
+Clay,E2,U.S. House,1,Dusty Johnson,REP,207
+Clay,S1,U.S. House,1,Sheryl Johnson,DEM,386
+Clay,S1,U.S. House,1,Dusty Johnson,REP,456
+Clay,S2,U.S. House,1,Sheryl Johnson,DEM,311
+Clay,S2,U.S. House,1,Dusty Johnson,REP,294
+Clay,W1,U.S. House,1,Sheryl Johnson,DEM,334
+Clay,W1,U.S. House,1,Dusty Johnson,REP,244
+Clay,W2,U.S. House,1,Sheryl Johnson,DEM,209
+Clay,W2,U.S. House,1,Dusty Johnson,REP,219
+Clay,01,Public Utilities Commissioner,,Forrest Wilson,DEM,76
+Clay,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Clay,01,Public Utilities Commissioner,,Kristie Fiegen,REP,314
+Clay,02,Public Utilities Commissioner,,Forrest Wilson,DEM,100
+Clay,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Clay,02,Public Utilities Commissioner,,Kristie Fiegen,REP,241
+Clay,03,Public Utilities Commissioner,,Forrest Wilson,DEM,326
+Clay,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,36
+Clay,03,Public Utilities Commissioner,,Kristie Fiegen,REP,645
+Clay,C1,Public Utilities Commissioner,,Forrest Wilson,DEM,235
+Clay,C1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Clay,C1,Public Utilities Commissioner,,Kristie Fiegen,REP,93
+Clay,C2,Public Utilities Commissioner,,Forrest Wilson,DEM,103
+Clay,C2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Clay,C2,Public Utilities Commissioner,,Kristie Fiegen,REP,66
+Clay,E1,Public Utilities Commissioner,,Forrest Wilson,DEM,173
+Clay,E1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Clay,E1,Public Utilities Commissioner,,Kristie Fiegen,REP,181
+Clay,E2,Public Utilities Commissioner,,Forrest Wilson,DEM,94
+Clay,E2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
+Clay,E2,Public Utilities Commissioner,,Kristie Fiegen,REP,55
+Clay,S1,Public Utilities Commissioner,,Forrest Wilson,DEM,382
+Clay,S1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Clay,S1,Public Utilities Commissioner,,Kristie Fiegen,REP,391
+Clay,S2,Public Utilities Commissioner,,Forrest Wilson,DEM,288
+Clay,S2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,23
+Clay,S2,Public Utilities Commissioner,,Kristie Fiegen,REP,252
+Clay,W1,Public Utilities Commissioner,,Forrest Wilson,DEM,311
+Clay,W1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
+Clay,W1,Public Utilities Commissioner,,Kristie Fiegen,REP,311
+Clay,W2,Public Utilities Commissioner,,Forrest Wilson,DEM,184
+Clay,W2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
+Clay,W2,Public Utilities Commissioner,,Kristie Fiegen,REP,194
+Clay,01,State Senate,17,Sydney Davis,REP,317
+Clay,01,State Senate,18,Sarah Carda,DEM,110
+Clay,01,State Senate,18,Lauren Nelson,REP,244
+Clay,02,State Senate,17,Sydney Davis,REP,750
+Clay,C1,State Senate,17,Sydney Davis,REP,148
+Clay,C2,State Senate,17,Sydney Davis,REP,104
+Clay,E1,State Senate,17,Sydney Davis,REP,217
+Clay,E2,State Senate,17,Sydney Davis,REP,90
+Clay,S1,State Senate,17,Sydney Davis,REP,506
+Clay,S2,State Senate,17,Sydney Davis,REP,336
+Clay,W1,State Senate,17,Sydney Davis,REP,384
+Clay,W2,State Senate,17,Sydney Davis,REP,242
+Clay,01,State House,17,Ray Ring,DEM,122
+Clay,01,State House,17,William (Bill) Shorma,REP,244
+Clay,01,State House,17,Chris Kassin,REP,276
+Clay,02,State House,17,Ray Ring,DEM,465
+Clay,02,State House,17,William (Bill) Shorma,REP,713
+Clay,02,State House,17,Chris Kassin,REP,94
+Clay,03,State House,17,Ray Ring,DEM,258
+Clay,03,State House,17,William (Bill) Shorma,REP,75
+Clay,03,State House,17,Chris Kassin,REP,130
+Clay,C1,State House,17,Ray Ring,DEM,117
+Clay,C1,State House,17,William (Bill) Shorma,REP,55
+Clay,C1,State House,17,Chris Kassin,REP,72
+Clay,C2,State House,17,Ray Ring,DEM,207
+Clay,C2,State House,17,William (Bill) Shorma,REP,121
+Clay,C2,State House,17,Chris Kassin,REP,182
+Clay,E1,State House,17,Ray Ring,DEM,100
+Clay,E1,State House,17,William (Bill) Shorma,REP,55
+Clay,E1,State House,17,Chris Kassin,REP,65
+Clay,E2,State House,17,Ray Ring,DEM,488
+Clay,E2,State House,17,William (Bill) Shorma,REP,287
+Clay,E2,State House,17,Chris Kassin,REP,479
+Clay,S1,State House,17,Ray Ring,DEM,366
+Clay,S1,State House,17,William (Bill) Shorma,REP,175
+Clay,S1,State House,17,Chris Kassin,REP,288
+Clay,W1,State House,17,Ray Ring,DEM,382
+Clay,W1,State House,17,William (Bill) Shorma,REP,214
+Clay,W1,State House,17,Chris Kassin,REP,355
+Clay,W2,State House,17,Ray Ring,DEM,226
+Clay,W2,State House,17,William (Bill) Shorma,REP,146
+Clay,W2,State House,17,Chris Kassin,REP,224
+Clay,02,State House,18,Paul Harens,DEM,94
+Clay,02,State House,18,Sarah Mechtenberg,DEM,78
+Clay,02,State House,18,Mike Stevens,REP,215
+Clay,02,State House,18,Julie Auch,REP,235
+Clay,01,County Commissioner At Large,,Pat Flanigan,DEM,74
+Clay,01,County Commissioner At Large,,Kevin O'Kelley,DEM,72
+Clay,01,County Commissioner At Large,,Kevin Brady,DEM,97
+Clay,01,County Commissioner At Large,,Glen Gilbertson,REP,254
+Clay,01,County Commissioner At Large,,Deena Walraven,REP,228
+Clay,01,County Commissioner At Large,,Travis Mockler,REP,324
+Clay,02,County Commissioner At Large,,Pat Flanigan,DEM,66
+Clay,02,County Commissioner At Large,,Kevin O'Kelley,DEM,71
+Clay,02,County Commissioner At Large,,Kevin Brady,DEM,127
+Clay,02,County Commissioner At Large,,Glen Gilbertson,REP,161
+Clay,02,County Commissioner At Large,,Deena Walraven,REP,199
+Clay,02,County Commissioner At Large,,Travis Mockler,REP,248
+Clay,03,County Commissioner At Large,,Pat Flanigan,DEM,313
+Clay,03,County Commissioner At Large,,Kevin O'Kelley,DEM,316
+Clay,03,County Commissioner At Large,,Kevin Brady,DEM,332
+Clay,03,County Commissioner At Large,,Glen Gilbertson,REP,621
+Clay,03,County Commissioner At Large,,Deena Walraven,REP,473
+Clay,03,County Commissioner At Large,,Travis Mockler,REP,676
+Clay,C1,County Commissioner At Large,,Pat Flanigan,DEM,229
+Clay,C1,County Commissioner At Large,,Kevin O'Kelley,DEM,241
+Clay,C1,County Commissioner At Large,,Kevin Brady,DEM,286
+Clay,C1,County Commissioner At Large,,Glen Gilbertson,REP,83
+Clay,C1,County Commissioner At Large,,Deena Walraven,REP,67
+Clay,C1,County Commissioner At Large,,Travis Mockler,REP,101
+Clay,C2,County Commissioner At Large,,Pat Flanigan,DEM,107
+Clay,C2,County Commissioner At Large,,Kevin O'Kelley,DEM,84
+Clay,C2,County Commissioner At Large,,Kevin Brady,DEM,55
+Clay,C2,County Commissioner At Large,,Glen Gilbertson,REP,47
+Clay,C2,County Commissioner At Large,,Deena Walraven,REP,63
+Clay,C2,County Commissioner At Large,,Travis Mockler,REP,63
+Clay,E1,County Commissioner At Large,,Pat Flanigan,DEM,165
+Clay,E1,County Commissioner At Large,,Kevin O'Kelley,DEM,171
+Clay,E1,County Commissioner At Large,,Kevin Brady,DEM,175
+Clay,E1,County Commissioner At Large,,Glen Gilbertson,REP,131
+Clay,E1,County Commissioner At Large,,Deena Walraven,REP,110
+Clay,E1,County Commissioner At Large,,Travis Mockler,REP,162
+Clay,E2,County Commissioner At Large,,Pat Flanigan,DEM,90
+Clay,E2,County Commissioner At Large,,Kevin O'Kelley,DEM,82
+Clay,E2,County Commissioner At Large,,Kevin Brady,DEM,82
+Clay,E2,County Commissioner At Large,,Glen Gilbertson,REP,54
+Clay,E2,County Commissioner At Large,,Deena Walraven,REP,46
+Clay,E2,County Commissioner At Large,,Travis Mockler,REP,55
+Clay,S1,County Commissioner At Large,,Pat Flanigan,DEM,426
+Clay,S1,County Commissioner At Large,,Kevin O'Kelley,DEM,375
+Clay,S1,County Commissioner At Large,,Kevin Brady,DEM,399
+Clay,S1,County Commissioner At Large,,Glen Gilbertson,REP,349
+Clay,S1,County Commissioner At Large,,Deena Walraven,REP,262
+Clay,S1,County Commissioner At Large,,Travis Mockler,REP,393
+Clay,S2,County Commissioner At Large,,Pat Flanigan,DEM,322
+Clay,S2,County Commissioner At Large,,Kevin O'Kelley,DEM,316
+Clay,S2,County Commissioner At Large,,Kevin Brady,DEM,304
+Clay,S2,County Commissioner At Large,,Glen Gilbertson,REP,210
+Clay,S2,County Commissioner At Large,,Deena Walraven,REP,174
+Clay,S2,County Commissioner At Large,,Travis Mockler,REP,238
+Clay,W1,County Commissioner At Large,,Pat Flanigan,DEM,327
+Clay,W1,County Commissioner At Large,,Kevin O'Kelley,DEM,304
+Clay,W1,County Commissioner At Large,,Kevin Brady,DEM,316
+Clay,W1,County Commissioner At Large,,Glen Gilbertson,REP,254
+Clay,W1,County Commissioner At Large,,Deena Walraven,REP,207
+Clay,W1,County Commissioner At Large,,Travis Mockler,REP,297
+Clay,W2,County Commissioner At Large,,Pat Flanigan,DEM,185
+Clay,W2,County Commissioner At Large,,Kevin O'Kelley,DEM,186
+Clay,W2,County Commissioner At Large,,Kevin Brady,DEM,192
+Clay,W2,County Commissioner At Large,,Glen Gilbertson,REP,161
+Clay,W2,County Commissioner At Large,,Deena Walraven,REP,133
+Clay,W2,County Commissioner At Large,,Travis Mockler,REP,182
+Clay,01,Supreme Court Retention,,Yes,,295
+Clay,01,Supreme Court Retention,,No,,62
+Clay,02,Supreme Court Retention,,Yes,,251
+Clay,02,Supreme Court Retention,,No,,67
+Clay,03,Supreme Court Retention,,Yes,,745
+Clay,03,Supreme Court Retention,,No,,161
+Clay,C1,Supreme Court Retention,,Yes,,714
+Clay,C1,Supreme Court Retention,,No,,71
+Clay,C2,Supreme Court Retention,,Yes,,122
+Clay,C2,Supreme Court Retention,,No,,42
+Clay,E1,Supreme Court Retention,,Yes,,239
+Clay,E1,Supreme Court Retention,,No,,85
+Clay,E2,Supreme Court Retention,,Yes,,92
+Clay,E2,Supreme Court Retention,,No,,52
+Clay,S1,Supreme Court Retention,,Yes,,572
+Clay,S1,Supreme Court Retention,,No,,118
+Clay,S2,Supreme Court Retention,,Yes,,386
+Clay,S2,Supreme Court Retention,,No,,106
+Clay,W1,Supreme Court Retention,,Yes,,451
+Clay,W1,Supreme Court Retention,,No,,145
+Clay,W2,Supreme Court Retention,,Yes,,283
+Clay,W2,Supreme Court Retention,,No,,83
+Clay,01,Constitutional Amendment E,,Yes,,123
+Clay,01,Constitutional Amendment E,,No,,311
+Clay,01,Constitutional Amendment F,,Yes,,229
+Clay,01,Constitutional Amendment F,,No,,301
+Clay,01,Constitutional Amendment G,,Yes,,145
+Clay,01,Constitutional Amendment G,,No,,297
+Clay,01,Constitutional Amendment H,,Yes,,108
+Clay,01,Constitutional Amendment H,,No,,320
+Clay,02,Constitutional Amendment E,,Yes,,109
+Clay,02,Constitutional Amendment E,,No,,249
+Clay,02,Constitutional Amendment F,,Yes,,192
+Clay,02,Constitutional Amendment F,,No,,184
+Clay,02,Constitutional Amendment G,,Yes,,155
+Clay,02,Constitutional Amendment G,,No,,224
+Clay,02,Constitutional Amendment H,,Yes,,115
+Clay,02,Constitutional Amendment H,,No,,253
+Clay,03,Constitutional Amendment E,,Yes,,505
+Clay,03,Constitutional Amendment E,,No,,349
+Clay,03,Constitutional Amendment F,,Yes,,584
+Clay,03,Constitutional Amendment F,,No,,489
+Clay,03,Constitutional Amendment G,,Yes,,537
+Clay,03,Constitutional Amendment G,,No,,547
+Clay,03,Constitutional Amendment H,,Yes,,470
+Clay,03,Constitutional Amendment H,,No,,639
+Clay,C1,Constitutional Amendment E,,Yes,,266
+Clay,C1,Constitutional Amendment E,,No,,96
+Clay,C1,Constitutional Amendment F,,Yes,,188
+Clay,C1,Constitutional Amendment F,,No,,237
+Clay,C1,Constitutional Amendment G,,Yes,,279
+Clay,C1,Constitutional Amendment G,,No,,89
+Clay,C1,Constitutional Amendment H,,Yes,,188
+Clay,C1,Constitutional Amendment H,,No,,164
+Clay,E1,Constitutional Amendment E,,Yes,,123
+Clay,E1,Constitutional Amendment E,,No,,71
+Clay,E1,Constitutional Amendment F,,Yes,,80
+Clay,E1,Constitutional Amendment F,,No,,122
+Clay,E1,Constitutional Amendment G,,Yes,,144
+Clay,E1,Constitutional Amendment G,,No,,60
+Clay,E1,Constitutional Amendment H,,Yes,,106
+Clay,E1,Constitutional Amendment H,,No,,90
+Clay,F1,Constitutional Amendment E,,Yes,,232
+Clay,F1,Constitutional Amendment E,,No,,177
+Clay,F1,Constitutional Amendment F,,Yes,,175
+Clay,F1,Constitutional Amendment F,,No,,242
+Clay,F1,Constitutional Amendment G,,Yes,,231
+Clay,F1,Constitutional Amendment G,,No,,169
+Clay,F1,Constitutional Amendment H,,Yes,,150
+Clay,F1,Constitutional Amendment H,,No,,172
+Clay,F2,Constitutional Amendment E,,Yes,,103
+Clay,F2,Constitutional Amendment E,,No,,85
+Clay,F2,Constitutional Amendment F,,Yes,,91
+Clay,F2,Constitutional Amendment F,,No,,95
+Clay,F2,Constitutional Amendment G,,Yes,,117
+Clay,F2,Constitutional Amendment G,,No,,67
+Clay,F2,Constitutional Amendment H,,Yes,,106
+Clay,F2,Constitutional Amendment H,,No,,72
+Clay,S1,Constitutional Amendment E,,Yes,,523
+Clay,S1,Constitutional Amendment E,,No,,384
+Clay,S1,Constitutional Amendment F,,Yes,,331
+Clay,S1,Constitutional Amendment F,,No,,385
+Clay,S1,Constitutional Amendment G,,Yes,,533
+Clay,S1,Constitutional Amendment G,,No,,358
+Clay,S1,Constitutional Amendment H,,Yes,,325
+Clay,S1,Constitutional Amendment H,,No,,470
+Clay,S2,Constitutional Amendment E,,Yes,,389
+Clay,S2,Constitutional Amendment E,,No,,211
+Clay,S2,Constitutional Amendment F,,Yes,,271
+Clay,S2,Constitutional Amendment F,,No,,339
+Clay,S2,Constitutional Amendment G,,Yes,,224
+Clay,S2,Constitutional Amendment G,,No,,221
+Clay,S2,Constitutional Amendment H,,Yes,,236
+Clay,S2,Constitutional Amendment H,,No,,233
+Clay,W1,Constitutional Amendment E,,Yes,,480
+Clay,W1,Constitutional Amendment E,,No,,397
+Clay,W1,Constitutional Amendment F,,Yes,,337
+Clay,W1,Constitutional Amendment F,,No,,354
+Clay,W1,Constitutional Amendment G,,Yes,,446
+Clay,W1,Constitutional Amendment G,,No,,289
+Clay,W1,Constitutional Amendment H,,Yes,,252
+Clay,W1,Constitutional Amendment H,,No,,343
+Clay,W2,Constitutional Amendment E,,Yes,,118
+Clay,W2,Constitutional Amendment E,,No,,77
+Clay,W2,Constitutional Amendment F,,Yes,,324
+Clay,W2,Constitutional Amendment F,,No,,334
+Clay,W2,Constitutional Amendment G,,Yes,,189
+Clay,W2,Constitutional Amendment G,,No,,172
+Clay,W2,Constitutional Amendment H,,Yes,,196
+Clay,W2,Constitutional Amendment H,,No,,219
+Clay,01,Initiated Measure 28,,Yes,,98
+Clay,01,Initiated Measure 28,,No,,339
+Clay,01,Initiated Measure 29,,Yes,,159
+Clay,01,Initiated Measure 29,,No,,159
+Clay,01,Referred Law 21,,Yes,,283
+Clay,01,Referred Law 21,,No,,145
+Clay,02,Initiated Measure 28,,Yes,,98
+Clay,02,Initiated Measure 28,,No,,279
+Clay,02,Initiated Measure 29,,Yes,,156
+Clay,02,Initiated Measure 29,,No,,225
+Clay,02,Referred Law 21,,Yes,,137
+Clay,02,Referred Law 21,,No,,230
+Clay,03,Initiated Measure 28,,Yes,,328
+Clay,03,Initiated Measure 28,,No,,742
+Clay,03,Initiated Measure 29,,Yes,,534
+Clay,03,Initiated Measure 29,,No,,548
+Clay,03,Referred Law 21,,Yes,,461
+Clay,03,Referred Law 21,,No,,583
+Clay,C1,Initiated Measure 28,,Yes,,154
+Clay,C1,Initiated Measure 28,,No,,209
+Clay,C1,Initiated Measure 29,,Yes,,279
+Clay,C1,Initiated Measure 29,,No,,92
+Clay,C1,Referred Law 21,,Yes,,154
+Clay,C1,Referred Law 21,,No,,199
+Clay,C2,Initiated Measure 28,,Yes,,61
+Clay,C2,Initiated Measure 28,,No,,94
+Clay,C2,Initiated Measure 29,,Yes,,167
+Clay,C2,Initiated Measure 29,,No,,36
+Clay,C2,Referred Law 21,,Yes,,99
+Clay,C2,Referred Law 21,,No,,96
+Clay,E1,Initiated Measure 28,,Yes,,155
+Clay,E1,Initiated Measure 28,,No,,237
+Clay,E1,Initiated Measure 29,,Yes,,279
+Clay,E1,Initiated Measure 29,,No,,125
+Clay,E1,Referred Law 21,,Yes,,184
+Clay,E1,Referred Law 21,,No,,181
+Clay,E2,Initiated Measure 28,,Yes,,91
+Clay,E2,Initiated Measure 28,,No,,89
+Clay,E2,Initiated Measure 29,,Yes,,129
+Clay,E2,Initiated Measure 29,,No,,55
+Clay,E2,Referred Law 21,,Yes,,97
+Clay,E2,Referred Law 21,,No,,71
+Clay,S1,Initiated Measure 28,,Yes,,255
+Clay,S1,Initiated Measure 28,,No,,686
+Clay,S1,Initiated Measure 29,,Yes,,495
+Clay,S1,Initiated Measure 29,,No,,354
+Clay,S1,Referred Law 21,,Yes,,400
+Clay,S1,Referred Law 21,,No,,401
+Clay,S2,Initiated Measure 28,,Yes,,277
+Clay,S2,Initiated Measure 28,,No,,373
+Clay,S2,Initiated Measure 29,,Yes,,380
+Clay,S2,Initiated Measure 29,,No,,232
+Clay,S2,Referred Law 21,,Yes,,263
+Clay,S2,Referred Law 21,,No,,305
+Clay,W1,Initiated Measure 28,,Yes,,171
+Clay,W1,Initiated Measure 28,,No,,413
+Clay,W1,Initiated Measure 29,,Yes,,469
+Clay,W1,Initiated Measure 29,,No,,232
+Clay,W1,Referred Law 21,,Yes,,356
+Clay,W1,Referred Law 21,,No,,308
+Clay,W2,Initiated Measure 28,,Yes,,382
+Clay,W2,Initiated Measure 28,,No,,265
+Clay,W2,Initiated Measure 29,,Yes,,259
+Clay,W2,Initiated Measure 29,,No,,179
+Clay,W2,Referred Law 21,,Yes,,224
+Clay,W2,Referred Law 21,,No,,196

@@ -1,0 +1,164 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,A1,President,,Kamala D. Harris and Tim Walz,DEM,88
+Marshall,A1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A1,President,,Donald J. Trump and JD Vance,REP,128
+Marshall,A1,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,2
+Marshall,A2,President,,Kamala D. Harris and Tim Walz,DEM,78
+Marshall,A2,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A2,President,,Donald J. Trump and JD Vance,REP,109
+Marshall,A2,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,3
+Marshall,A3,President,,Kamala D. Harris and Tim Walz,DEM,72
+Marshall,A3,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A3,President,,Donald J. Trump and JD Vance,REP,105
+Marshall,A3,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,2
+Marshall,A4,President,,Kamala D. Harris and Tim Walz,DEM,118
+Marshall,A4,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A4,President,,Donald J. Trump and JD Vance,REP,145
+Marshall,A4,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,3
+Marshall,A5,President,,Kamala D. Harris and Tim Walz,DEM,80
+Marshall,A5,President,,Chase Oliver and Mike ter Maat,LIB,2
+Marshall,A5,President,,Donald J. Trump and JD Vance,REP,106
+Marshall,A5,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,6
+Marshall,A6,President,,Kamala D. Harris and Tim Walz,DEM,128
+Marshall,A6,President,,Chase Oliver and Mike ter Maat,LIB,3
+Marshall,A6,President,,Donald J. Trump and JD Vance,REP,190
+Marshall,A6,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,6
+Marshall,A7,President,,Kamala D. Harris and Tim Walz,DEM,63
+Marshall,A7,President,,Chase Oliver and Mike ter Maat,LIB,1
+Marshall,A7,President,,Donald J. Trump and JD Vance,REP,111
+Marshall,A7,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,5
+Marshall,A8,President,,Kamala D. Harris and Tim Walz,DEM,62
+Marshall,A8,President,,Chase Oliver and Mike ter Maat,LIB,1
+Marshall,A8,President,,Donald J. Trump and JD Vance,REP,174
+Marshall,A8,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,7
+Marshall,A9,President,,Kamala D. Harris and Tim Walz,DEM,93
+Marshall,A9,President,,Chase Oliver and Mike ter Maat,LIB,4
+Marshall,A9,President,,Donald J. Trump and JD Vance,REP,201
+Marshall,A9,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,5
+Marshall,A1,U.S. House,1,Sheryl Johnson,DEM,73
+Marshall,A1,U.S. House,1,Dusty Johnson,REP,140
+Marshall,A2,U.S. House,1,Sheryl Johnson,DEM,62
+Marshall,A2,U.S. House,1,Dusty Johnson,REP,132
+Marshall,A3,U.S. House,1,Sheryl Johnson,DEM,57
+Marshall,A3,U.S. House,1,Dusty Johnson,REP,120
+Marshall,A4,U.S. House,1,Sheryl Johnson,DEM,81
+Marshall,A4,U.S. House,1,Dusty Johnson,REP,189
+Marshall,A5,U.S. House,1,Sheryl Johnson,DEM,68
+Marshall,A5,U.S. House,1,Dusty Johnson,REP,118
+Marshall,A6,U.S. House,1,Sheryl Johnson,DEM,102
+Marshall,A6,U.S. House,1,Dusty Johnson,REP,224
+Marshall,A7,U.S. House,1,Sheryl Johnson,DEM,42
+Marshall,A7,U.S. House,1,Dusty Johnson,REP,149
+Marshall,A8,U.S. House,1,Sheryl Johnson,DEM,37
+Marshall,A8,U.S. House,1,Dusty Johnson,REP,204
+Marshall,A9,U.S. House,1,Sheryl Johnson,DEM,87
+Marshall,A9,U.S. House,1,Dusty Johnson,REP,213
+Marshall,A1,Public Utilities Commissioner,,Forrest Wilson,DEM,62
+Marshall,A1,Public Utilities Commissioner,,A. Gideon Oakes,,14
+Marshall,A1,Public Utilities Commissioner,,Kristie Fiegen,REP,121
+Marshall,A2,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Marshall,A2,Public Utilities Commissioner,,A. Gideon Oakes,,10
+Marshall,A2,Public Utilities Commissioner,,Kristie Fiegen,REP,107
+Marshall,A3,Public Utilities Commissioner,,Forrest Wilson,DEM,57
+Marshall,A3,Public Utilities Commissioner,,A. Gideon Oakes,,7
+Marshall,A3,Public Utilities Commissioner,,Kristie Fiegen,REP,98
+Marshall,A4,Public Utilities Commissioner,,Forrest Wilson,DEM,87
+Marshall,A4,Public Utilities Commissioner,,A. Gideon Oakes,,9
+Marshall,A4,Public Utilities Commissioner,,Kristie Fiegen,REP,155
+Marshall,A5,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Marshall,A5,Public Utilities Commissioner,,A. Gideon Oakes,,8
+Marshall,A5,Public Utilities Commissioner,,Kristie Fiegen,REP,104
+Marshall,A6,Public Utilities Commissioner,,Forrest Wilson,DEM,101
+Marshall,A6,Public Utilities Commissioner,,A. Gideon Oakes,,5
+Marshall,A6,Public Utilities Commissioner,,Kristie Fiegen,REP,203
+Marshall,A7,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Marshall,A7,Public Utilities Commissioner,,A. Gideon Oakes,,5
+Marshall,A7,Public Utilities Commissioner,,Kristie Fiegen,REP,112
+Marshall,A8,Public Utilities Commissioner,,Forrest Wilson,DEM,48
+Marshall,A8,Public Utilities Commissioner,,A. Gideon Oakes,,5
+Marshall,A8,Public Utilities Commissioner,,Kristie Fiegen,REP,173
+Marshall,A9,Public Utilities Commissioner,,Forrest Wilson,DEM,80
+Marshall,A9,Public Utilities Commissioner,,A. Gideon Oakes,,7
+Marshall,A9,Public Utilities Commissioner,,Kristie Fiegen,REP,184
+Marshall,A1,State Senate,01,Michael H. Rohl,REP,139
+Marshall,A2,State Senate,01,Michael H. Rohl,REP,123
+Marshall,A3,State Senate,01,Michael H. Rohl,REP,113
+Marshall,A4,State Senate,01,Michael H. Rohl,REP,171
+Marshall,A5,State Senate,01,Michael H. Rohl,REP,122
+Marshall,A6,State Senate,01,Michael H. Rohl,REP,220
+Marshall,A7,State Senate,01,Michael H. Rohl,REP,135
+Marshall,A8,State Senate,01,Michael H. Rohl,REP,180
+Marshall,A9,State Senate,01,Michael H. Rohl,REP,198
+Marshall,A1,State House,01,Steven D. McCleerey,DEM,88
+Marshall,A1,State House,01,Mark Sumption,DEM,80
+Marshall,A1,State House,01,Josh Dennert,LIB,17
+Marshall,A1,State House,01,Tamara Lesnar,,8
+Marshall,A1,State House,01,Logan Manhart,REP,98
+Marshall,A1,State House,01,Christopher Peder,,89
+Marshall,A2,State House,01,Steven D. McCleerey,DEM,65
+Marshall,A2,State House,01,Mark Sumption,DEM,70
+Marshall,A2,State House,01,Josh Dennert,LIB,17
+Marshall,A2,State House,01,Tamara Lesnar,,10
+Marshall,A2,State House,01,Logan Manhart,REP,75
+Marshall,A2,State House,01,Christopher Peder,,68
+Marshall,A3,State House,01,Steven D. McCleerey,DEM,60
+Marshall,A3,State House,01,Mark Sumption,DEM,77
+Marshall,A3,State House,01,Josh Dennert,LIB,12
+Marshall,A3,State House,01,Tamara Lesnar,,13
+Marshall,A3,State House,01,Logan Manhart,REP,81
+Marshall,A3,State House,01,Christopher Peder,,91
+Marshall,A4,State House,01,Steven D. McCleerey,DEM,82
+Marshall,A4,State House,01,Mark Sumption,DEM,105
+Marshall,A4,State House,01,Josh Dennert,LIB,13
+Marshall,A4,State House,01,Tamara Lesnar,,12
+Marshall,A4,State House,01,Logan Manhart,REP,149
+Marshall,A4,State House,01,Christopher Peder,,146
+Marshall,A5,State House,01,Steven D. McCleerey,DEM,141
+Marshall,A5,State House,01,Mark Sumption,DEM,123
+Marshall,A5,State House,01,Josh Dennert,LIB,13
+Marshall,A5,State House,01,Tamara Lesnar,,13
+Marshall,A5,State House,01,Logan Manhart,REP,149
+Marshall,A5,State House,01,Christopher Peder,,146
+Marshall,A6,State House,01,Steven D. McCleerey,DEM,97
+Marshall,A6,State House,01,Mark Sumption,DEM,121
+Marshall,A6,State House,01,Josh Dennert,LIB,13
+Marshall,A6,State House,01,Tamara Lesnar,,9
+Marshall,A6,State House,01,Logan Manhart,REP,135
+Marshall,A6,State House,01,Christopher Peder,,124
+Marshall,A7,State House,01,Steven D. McCleerey,DEM,76
+Marshall,A7,State House,01,Mark Sumption,DEM,60
+Marshall,A7,State House,01,Josh Dennert,LIB,15
+Marshall,A7,State House,01,Tamara Lesnar,,15
+Marshall,A7,State House,01,Logan Manhart,REP,83
+Marshall,A7,State House,01,Christopher Peder,,85
+Marshall,A8,State House,01,Steven D. McCleerey,DEM,75
+Marshall,A8,State House,01,Mark Sumption,DEM,121
+Marshall,A8,State House,01,Josh Dennert,LIB,14
+Marshall,A8,State House,01,Tamara Lesnar,,12
+Marshall,A8,State House,01,Logan Manhart,REP,125
+Marshall,A8,State House,01,Christopher Peder,,106
+Marshall,A9,State House,01,Steven D. McCleerey,DEM,99
+Marshall,A9,State House,01,Mark Sumption,DEM,121
+Marshall,A9,State House,01,Josh Dennert,LIB,17
+Marshall,A9,State House,01,Tamara Lesnar,,9
+Marshall,A9,State House,01,Logan Manhart,REP,113
+Marshall,A9,State House,01,Christopher Peder,,124
+Marshall,A4,County Commissioner Marshall,,Leron Knebel Sr.,DEM,22
+Marshall,A4,County Commissioner Marshall,,Andrea Kilker,REP,19
+Marshall,A4,County Commissioner Marshall,,Jared Holland,IND,6
+Marshall,A6,County Commissioner Marshall,,Leron Knebel Sr.,DEM,109
+Marshall,A6,County Commissioner Marshall,,Andrea Kilker,REP,126
+Marshall,A6,County Commissioner Marshall,,Jared Holland,IND,13
+Marshall,A7,County Commissioner Marshall,,Leron Knebel Sr.,DEM,86
+Marshall,A7,County Commissioner Marshall,,Andrea Kilker,REP,98
+Marshall,A7,County Commissioner Marshall,,Jared Holland,IND,9
+Marshall,A9,County Commissioner Marshall,,Leron Knebel Sr.,DEM,3
+Marshall,A9,County Commissioner Marshall,,Andrea Kilker,REP,17
+Marshall,A9,County Commissioner Marshall,,Jared Holland,IND,6
+Marshall,A4,County Commissioner,,Jason D. Bender,REP,118
+Marshall,A4,County Commissioner,,Gerry Person,DEM,96
+Marshall,A9,County Commissioner,,Jason D. Bender,REP,135
+Marshall,A9,County Commissioner,,Gerry Person,DEM,95
+Marshall,A4,County Commissioner,,Leron Knebel Sr.,DEM,22
+Marshall,A4,County Commissioner,,Andrea Kilker,REP,19
+Marshall,A4,County Commissioner,,Jared Holland,IND,6

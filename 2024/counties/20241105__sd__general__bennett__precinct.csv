@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Bennett,Allen Precinct,President,,Kamala D. Harris and Tim Walz,DEM,177
+Bennett,Allen Precinct,President,,Chase Oliver and Mike Maat,LIB,3
+Bennett,Allen Precinct,President,,Donald J. Trump and JD Vance,REP,70
+Bennett,Allen Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,7
+Bennett,Martin City Precinct,President,,Kamala D. Harris and Tim Walz,DEM,115
+Bennett,Martin City Precinct,President,,Chase Oliver and Mike Maat,LIB,0
+Bennett,Martin City Precinct,President,,Donald J. Trump and JD Vance,REP,188
+Bennett,Martin City Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,5
+Bennett,Martin Rural 26/27 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,87
+Bennett,Martin Rural 26/27 Precinct,President,,Chase Oliver and Mike Maat,LIB,1
+Bennett,Martin Rural 26/27 Precinct,President,,Donald J. Trump and JD Vance,REP,276
+Bennett,Martin Rural 26/27 Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,4
+Bennett,Vetal/Tuthill Precinct,President,,Kamala D. Harris and Tim Walz,DEM,10
+Bennett,Vetal/Tuthill Precinct,President,,Chase Oliver and Mike Maat,LIB,0
+Bennett,Vetal/Tuthill Precinct,President,,Donald J. Trump and JD Vance,REP,142
+Bennett,Vetal/Tuthill Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,3
+Bennett,Allen Precinct,U.S. House,1,Sheryl Johnson,DEM,159
+Bennett,Allen Precinct,U.S. House,1,Dusty Johnson,REP,91
+Bennett,Martin City Precinct,U.S. House,1,Sheryl Johnson,DEM,98
+Bennett,Martin City Precinct,U.S. House,1,Dusty Johnson,REP,205
+Bennett,Martin Rural 26/27 Precinct,U.S. House,1,Sheryl Johnson,DEM,66
+Bennett,Martin Rural 26/27 Precinct,U.S. House,1,Dusty Johnson,REP,296
+Bennett,Vetal/Ruthill Precinct,U.S. House,1,Sheryl Johnson,DEM,11
+Bennett,Vetal/Ruthill Precinct,U.S. House,1,Dusty Johnson,REP,138
+Bennett,Allen Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,169
+Bennett,Allen Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Bennett,Allen Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,53
+Bennett,Martin City Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,92
+Bennett,Martin City Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Bennett,Martin City Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,171
+Bennett,Martin Rural 26/27 Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,81
+Bennett,Martin Rural 26/27 Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Bennett,Martin Rural 26/27 Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,234
+Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,5
+Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,130
+Bennett,Allen Precinct,State Senate,27,Red Dawn Foster,DEM,179
+Bennett,Allen Precinct,State Senate,27,Anthony G. Kothal,REP,75
+Bennett,Martin City Precinct,State Senate,27,Red Dawn Foster,DEM,111
+Bennett,Martin City Precinct,State Senate,27,Anthony G. Kothal,REP,193
+Bennett,Martin Rural 26/27 Precinct,State Senate,27,Red Dawn Foster,DEM,86
+Bennett,Martin Rural 26/27 Precinct,State Senate,27,Anthony G. Kothal,REP,271
+Bennett,Vetal/Tuthill Precinct,State Senate,27,Red Dawn Foster,DEM,15
+Bennett,Vetal/Tuthill Precinct,State Senate,27,Anthony G. Kothal,REP,135
+Bennett,Allen Precinct,State House,27,Peri Pourier,DEM,173
+Bennett,Allen Precinct,State House,27,Elsie Meeks,DEM,124
+Bennett,Allen Precinct,State House,27,Liz May,REP,80
+Bennett,Martin City Precinct,State House,27,Peri Pourier,DEM,98
+Bennett,Martin City Precinct,State House,27,Elsie Meeks,DEM,141
+Bennett,Martin City Precinct,State House,27,Liz May,REP,209
+Bennett,Martin Rural 26/27 Precinct,State House,27,Peri Pourier,DEM,74
+Bennett,Martin Rural 26/27 Precinct,State House,27,Elsie Meeks,DEM,136
+Bennett,Martin Rural 26/27 Precinct,State House,27,Liz May,REP,285
+Bennett,Vetal/Tuthill Precinct,State House,27,Peri Pourier,DEM,14
+Bennett,Vetal/Tuthill Precinct,State House,27,Elsie Meeks,DEM,47
+Bennett,Vetal/Tuthill Precinct,State House,27,Liz May,REP,136
+Bennett,Allen Precinct,Supreme Court Retention,5,Yes,,126
+Bennett,Allen Precinct,Supreme Court Retention,5,No,,76
+Bennett,Martin City Precinct,Supreme Court Retention,5,Yes,,199
+Bennett,Martin City Precinct,Supreme Court Retention,5,No,,64
+Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,Yes,,203
+Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,No,,94
+Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,Yes,,101
+Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,No,,23
+Bennett,Allen Precinct,Constitutional Amendment E,,Yes,,116
+Bennett,Allen Precinct,Constitutional Amendment E,,No,,124
+Bennett,Allen Precinct,Constitutional Amendment F,,Yes,,98
+Bennett,Allen Precinct,Constitutional Amendment F,,No,,148
+Bennett,Allen Precinct,Constitutional Amendment G,,Yes,,134
+Bennett,Allen Precinct,Constitutional Amendment G,,No,,113
+Bennett,Allen Precinct,Constitutional Amendment H,,Yes,,80
+Bennett,Allen Precinct,Constitutional Amendment H,,No,,149
+Bennett,Martin City Precinct,Constitutional Amendment E,,Yes,,127
+Bennett,Martin City Precinct,Constitutional Amendment E,,No,,175
+Bennett,Martin City Precinct,Constitutional Amendment F,,Yes,,138
+Bennett,Martin City Precinct,Constitutional Amendment F,,No,,165
+Bennett,Martin City Precinct,Constitutional Amendment G,,Yes,,143
+Bennett,Martin City Precinct,Constitutional Amendment G,,No,,161
+Bennett,Martin City Precinct,Constitutional Amendment H,,Yes,,98
+Bennett,Martin City Precinct,Constitutional Amendment H,,No,,199
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment E,,Yes,,94
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment E,,No,,263
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment F,,Yes,,207
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment F,,No,,150
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment G,,Yes,,95
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment G,,No,,265
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment H,,Yes,,78
+Bennett,Martin Rural 26/27 Precinct,Constitutional Amendment H,,No,,277
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment E,,Yes,,31
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment E,,No,,125
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment F,,Yes,,97
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment F,,No,,56
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment G,,Yes,,33
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment G,,No,,121
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment H,,Yes,,22
+Bennett,Vetal/Tuthill Precinct,Constitutional Amendment H,,No,,129
+Bennett,Allen Precinct,Initiated Measure 28,,Yes,,117
+Bennett,Allen Precinct,Initiated Measure 28,,No,,126
+Bennett,Allen Precinct,Initiated Measure 29,,Yes,,137
+Bennett,Allen Precinct,Initiated Measure 29,,No,,110
+Bennett,Allen Precinct,Referred Law 21,,Yes,,102
+Bennett,Allen Precinct,Referred Law 21,,No,,136
+Bennett,Martin City Precinct,Initiated Measure 28,,Yes,,96
+Bennett,Martin City Precinct,Initiated Measure 28,,No,,204
+Bennett,Martin City Precinct,Initiated Measure 29,,Yes,,161
+Bennett,Martin City Precinct,Initiated Measure 29,,No,,148
+Bennett,Martin City Precinct,Referred Law 21,,Yes,,123
+Bennett,Martin City Precinct,Referred Law 21,,No,,173
+Bennett,Martin Rural 26/27 Precinct,Initiated Measure 28,,Yes,,97
+Bennett,Martin Rural 26/27 Precinct,Initiated Measure 28,,No,,257
+Bennett,Martin Rural 26/27 Precinct,Initiated Measure 29,,Yes,,126
+Bennett,Martin Rural 26/27 Precinct,Initiated Measure 29,,No,,235
+Bennett,Martin Rural 26/27 Precinct,Referred Law 21,,Yes,,106
+Bennett,Martin Rural 26/27 Precinct,Referred Law 21,,No,,244
+Bennett,Vetal/Tuthill Precinct,Initiated Measure 28,,Yes,,36
+Bennett,Vetal/Tuthill Precinct,Initiated Measure 28,,No,,117
+Bennett,Vetal/Tuthill Precinct,Initiated Measure 29,,Yes,,28
+Bennett,Vetal/Tuthill Precinct,Initiated Measure 29,,No,,128
+Bennett,Vetal/Tuthill Precinct,Referred Law 21,,Yes,,34
+Bennett,Vetal/Tuthill Precinct,Referred Law 21,,No,,115

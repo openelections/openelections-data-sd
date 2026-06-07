@@ -1,0 +1,596 @@
+county,office,district,party,candidate,votes
+Aurora,President,,DEM,Marianne Williamson,16
+Aurora,President,,DEM,Joseph R Biden Jr,21
+Aurora,President,,DEM,Dean Phillips,16
+Aurora,President,,DEM,Armando Perez-Serrato,3
+Beadle,President,,DEM,Marianne Williamson,33
+Beadle,President,,DEM,Joseph R Biden Jr,154
+Beadle,President,,DEM,Dean Phillips,36
+Beadle,President,,DEM,Armando Perez-Serrato,11
+Bennett,President,,DEM,Marianne Williamson,11
+Bennett,President,,DEM,Joseph R Biden Jr,35
+Bennett,President,,DEM,Dean Phillips,8
+Bennett,President,,DEM,Armando Perez-Serrato,4
+Bon Homme,President,,DEM,Marianne Williamson,28
+Bon Homme,President,,DEM,Joseph R Biden Jr,98
+Bon Homme,President,,DEM,Dean Phillips,26
+Bon Homme,President,,DEM,Armando Perez-Serrato,2
+Brookings,President,,DEM,Marianne Williamson,54
+Brookings,President,,DEM,Joseph R Biden Jr,446
+Brookings,President,,DEM,Dean Phillips,38
+Brookings,President,,DEM,Armando Perez-Serrato,13
+Brown,President,,DEM,Marianne Williamson,105
+Brown,President,,DEM,Joseph R Biden Jr,524
+Brown,President,,DEM,Dean Phillips,111
+Brown,President,,DEM,Armando Perez-Serrato,38
+Brule,President,,DEM,Marianne Williamson,28
+Brule,President,,DEM,Joseph R Biden Jr,95
+Brule,President,,DEM,Dean Phillips,24
+Brule,President,,DEM,Armando Perez-Serrato,8
+Buffalo,President,,DEM,Marianne Williamson,6
+Buffalo,President,,DEM,Joseph R Biden Jr,20
+Buffalo,President,,DEM,Dean Phillips,4
+Buffalo,President,,DEM,Armando Perez-Serrato,6
+Butte,President,,DEM,Marianne Williamson,41
+Butte,President,,DEM,Joseph R Biden Jr,106
+Butte,President,,DEM,Dean Phillips,28
+Butte,President,,DEM,Armando Perez-Serrato,18
+Campbell,President,,DEM,Marianne Williamson,4
+Campbell,President,,DEM,Joseph R Biden Jr,17
+Campbell,President,,DEM,Dean Phillips,2
+Campbell,President,,DEM,Armando Perez-Serrato,2
+Charles Mix,President,,DEM,Marianne Williamson,29
+Charles Mix,President,,DEM,Joseph R Biden Jr,103
+Charles Mix,President,,DEM,Dean Phillips,30
+Charles Mix,President,,DEM,Armando Perez-Serrato,10
+Clark,President,,DEM,Marianne Williamson,15
+Clark,President,,DEM,Joseph R Biden Jr,44
+Clark,President,,DEM,Dean Phillips,15
+Clark,President,,DEM,Armando Perez-Serrato,6
+Clay,President,,DEM,Marianne Williamson,44
+Clay,President,,DEM,Joseph R Biden Jr,790
+Clay,President,,DEM,Dean Phillips,32
+Clay,President,,DEM,Armando Perez-Serrato,13
+Codington,President,,DEM,Marianne Williamson,72
+Codington,President,,DEM,Joseph R Biden Jr,278
+Codington,President,,DEM,Dean Phillips,73
+Codington,President,,DEM,Armando Perez-Serrato,12
+Corson,President,,DEM,Marianne Williamson,22
+Corson,President,,DEM,Joseph R Biden Jr,54
+Corson,President,,DEM,Dean Phillips,10
+Corson,President,,DEM,Armando Perez-Serrato,9
+Custer,President,,DEM,Marianne Williamson,25
+Custer,President,,DEM,Joseph R Biden Jr,218
+Custer,President,,DEM,Dean Phillips,20
+Custer,President,,DEM,Armando Perez-Serrato,6
+Davison,President,,DEM,Marianne Williamson,112
+Davison,President,,DEM,Joseph R Biden Jr,796
+Davison,President,,DEM,Dean Phillips,92
+Davison,President,,DEM,Armando Perez-Serrato,39
+Day,President,,DEM,Marianne Williamson,17
+Day,President,,DEM,Joseph R Biden Jr,119
+Day,President,,DEM,Dean Phillips,21
+Day,President,,DEM,Armando Perez-Serrato,4
+Deuel,President,,DEM,Marianne Williamson,8
+Deuel,President,,DEM,Joseph R Biden Jr,41
+Deuel,President,,DEM,Dean Phillips,11
+Deuel,President,,DEM,Armando Perez-Serrato,5
+Dewey,President,,DEM,Marianne Williamson,38
+Dewey,President,,DEM,Joseph R Biden Jr,112
+Dewey,President,,DEM,Dean Phillips,23
+Dewey,President,,DEM,Armando Perez-Serrato,13
+Douglas,President,,DEM,Marianne Williamson,3
+Douglas,President,,DEM,Joseph R Biden Jr,25
+Douglas,President,,DEM,Dean Phillips,3
+Douglas,President,,DEM,Armando Perez-Serrato,0
+Edmunds,President,,DEM,Marianne Williamson,18
+Edmunds,President,,DEM,Joseph R Biden Jr,46
+Edmunds,President,,DEM,Dean Phillips,23
+Edmunds,President,,DEM,Armando Perez-Serrato,8
+Fall River,President,,DEM,Marianne Williamson,14
+Fall River,President,,DEM,Joseph R Biden Jr,140
+Fall River,President,,DEM,Dean Phillips,29
+Fall River,President,,DEM,Armando Perez-Serrato,9
+Faulk,President,,DEM,Marianne Williamson,13
+Faulk,President,,DEM,Joseph R Biden Jr,30
+Faulk,President,,DEM,Dean Phillips,12
+Faulk,President,,DEM,Armando Perez-Serrato,4
+Grant,President,,DEM,Marianne Williamson,25
+Grant,President,,DEM,Joseph R Biden Jr,152
+Grant,President,,DEM,Dean Phillips,27
+Grant,President,,DEM,Armando Perez-Serrato,9
+Gregory,President,,DEM,Marianne Williamson,18
+Gregory,President,,DEM,Joseph R Biden Jr,130
+Gregory,President,,DEM,Dean Phillips,29
+Gregory,President,,DEM,Armando Perez-Serrato,6
+Haakon,President,,DEM,Marianne Williamson,5
+Haakon,President,,DEM,Joseph R Biden Jr,15
+Haakon,President,,DEM,Dean Phillips,3
+Haakon,President,,DEM,Armando Perez-Serrato,2
+Hamlin,President,,DEM,Marianne Williamson,12
+Hamlin,President,,DEM,Joseph R Biden Jr,40
+Hamlin,President,,DEM,Dean Phillips,6
+Hamlin,President,,DEM,Armando Perez-Serrato,4
+Hand,President,,DEM,Marianne Williamson,7
+Hand,President,,DEM,Joseph R Biden Jr,33
+Hand,President,,DEM,Dean Phillips,6
+Hand,President,,DEM,Armando Perez-Serrato,3
+Hanson,President,,DEM,Marianne Williamson,16
+Hanson,President,,DEM,Joseph R Biden Jr,61
+Hanson,President,,DEM,Dean Phillips,32
+Hanson,President,,DEM,Armando Perez-Serrato,10
+Harding,President,,DEM,Marianne Williamson,4
+Harding,President,,DEM,Joseph R Biden Jr,12
+Harding,President,,DEM,Dean Phillips,3
+Harding,President,,DEM,Armando Perez-Serrato,4
+Hughes,President,,DEM,Marianne Williamson,16
+Hughes,President,,DEM,Joseph R Biden Jr,125
+Hughes,President,,DEM,Dean Phillips,9
+Hughes,President,,DEM,Armando Perez-Serrato,8
+Hutchinson,President,,DEM,Marianne Williamson,13
+Hutchinson,President,,DEM,Joseph R Biden Jr,59
+Hutchinson,President,,DEM,Dean Phillips,15
+Hutchinson,President,,DEM,Armando Perez-Serrato,3
+Hyde,President,,DEM,Marianne Williamson,10
+Hyde,President,,DEM,Joseph R Biden Jr,12
+Hyde,President,,DEM,Dean Phillips,1
+Hyde,President,,DEM,Armando Perez-Serrato,0
+Jackson,President,,DEM,Marianne Williamson,5
+Jackson,President,,DEM,Joseph R Biden Jr,38
+Jackson,President,,DEM,Dean Phillips,5
+Jackson,President,,DEM,Armando Perez-Serrato,2
+Jerauld,President,,DEM,Marianne Williamson,8
+Jerauld,President,,DEM,Joseph R Biden Jr,33
+Jerauld,President,,DEM,Dean Phillips,3
+Jerauld,President,,DEM,Armando Perez-Serrato,2
+Jones,President,,DEM,Marianne Williamson,5
+Jones,President,,DEM,Joseph R Biden Jr,11
+Jones,President,,DEM,Dean Phillips,2
+Jones,President,,DEM,Armando Perez-Serrato,5
+Kingsbury,President,,DEM,Marianne Williamson,10
+Kingsbury,President,,DEM,Joseph R Biden Jr,80
+Kingsbury,President,,DEM,Dean Phillips,6
+Kingsbury,President,,DEM,Armando Perez-Serrato,3
+Lake,President,,DEM,Marianne Williamson,26
+Lake,President,,DEM,Joseph R Biden Jr,152
+Lake,President,,DEM,Dean Phillips,33
+Lake,President,,DEM,Armando Perez-Serrato,6
+Lawrence,President,,DEM,Marianne Williamson,69
+Lawrence,President,,DEM,Joseph R Biden Jr,542
+Lawrence,President,,DEM,Dean Phillips,39
+Lawrence,President,,DEM,Armando Perez-Serrato,21
+Lincoln,President,,DEM,Marianne Williamson,85
+Lincoln,President,,DEM,Joseph R Biden Jr,605
+Lincoln,President,,DEM,Dean Phillips,72
+Lincoln,President,,DEM,Armando Perez-Serrato,21
+Lyman,President,,DEM,Marianne Williamson,11
+Lyman,President,,DEM,Joseph R Biden Jr,42
+Lyman,President,,DEM,Dean Phillips,8
+Lyman,President,,DEM,Armando Perez-Serrato,5
+Marshall,President,,DEM,Marianne Williamson,14
+Marshall,President,,DEM,Joseph R Biden Jr,97
+Marshall,President,,DEM,Dean Phillips,19
+Marshall,President,,DEM,Armando Perez-Serrato,6
+Mccook,President,,DEM,Marianne Williamson,9
+Mccook,President,,DEM,Joseph R Biden Jr,65
+Mccook,President,,DEM,Dean Phillips,16
+Mccook,President,,DEM,Armando Perez-Serrato,4
+Mcpherson,President,,DEM,Marianne Williamson,5
+Mcpherson,President,,DEM,Joseph R Biden Jr,25
+Mcpherson,President,,DEM,Dean Phillips,5
+Mcpherson,President,,DEM,Armando Perez-Serrato,3
+Meade,President,,DEM,Marianne Williamson,72
+Meade,President,,DEM,Joseph R Biden Jr,353
+Meade,President,,DEM,Dean Phillips,51
+Meade,President,,DEM,Armando Perez-Serrato,21
+Mellette,President,,DEM,Marianne Williamson,7
+Mellette,President,,DEM,Joseph R Biden Jr,41
+Mellette,President,,DEM,Dean Phillips,8
+Mellette,President,,DEM,Armando Perez-Serrato,2
+Miner,President,,DEM,Marianne Williamson,9
+Miner,President,,DEM,Joseph R Biden Jr,53
+Miner,President,,DEM,Dean Phillips,16
+Miner,President,,DEM,Armando Perez-Serrato,7
+Minnehaha,President,,DEM,Marianne Williamson,269
+Minnehaha,President,,DEM,Joseph R Biden Jr,2276
+Minnehaha,President,,DEM,Dean Phillips,214
+Minnehaha,President,,DEM,Armando Perez-Serrato,108
+Moody,President,,DEM,Marianne Williamson,15
+Moody,President,,DEM,Joseph R Biden Jr,76
+Moody,President,,DEM,Dean Phillips,15
+Moody,President,,DEM,Armando Perez-Serrato,3
+Oglala Lakota,President,,DEM,Marianne Williamson,41
+Oglala Lakota,President,,DEM,Joseph R Biden Jr,244
+Oglala Lakota,President,,DEM,Dean Phillips,6
+Oglala Lakota,President,,DEM,Armando Perez-Serrato,43
+Pennington,President,,DEM,Marianne Williamson,267
+Pennington,President,,DEM,Joseph R Biden Jr,2266
+Pennington,President,,DEM,Dean Phillips,165
+Pennington,President,,DEM,Armando Perez-Serrato,101
+Perkins,President,,DEM,Marianne Williamson,8
+Perkins,President,,DEM,Joseph R Biden Jr,16
+Perkins,President,,DEM,Dean Phillips,6
+Perkins,President,,DEM,Armando Perez-Serrato,5
+Potter,President,,DEM,Marianne Williamson,3
+Potter,President,,DEM,Joseph R Biden Jr,21
+Potter,President,,DEM,Dean Phillips,6
+Potter,President,,DEM,Armando Perez-Serrato,2
+Roberts,President,,DEM,Marianne Williamson,19
+Roberts,President,,DEM,Joseph R Biden Jr,184
+Roberts,President,,DEM,Dean Phillips,38
+Roberts,President,,DEM,Armando Perez-Serrato,15
+Sanborn,President,,DEM,Marianne Williamson,3
+Sanborn,President,,DEM,Joseph R Biden Jr,24
+Sanborn,President,,DEM,Dean Phillips,3
+Sanborn,President,,DEM,Armando Perez-Serrato,1
+Spink,President,,DEM,Marianne Williamson,17
+Spink,President,,DEM,Joseph R Biden Jr,75
+Spink,President,,DEM,Dean Phillips,15
+Spink,President,,DEM,Armando Perez-Serrato,1
+Stanley,President,,DEM,Marianne Williamson,4
+Stanley,President,,DEM,Joseph R Biden Jr,48
+Stanley,President,,DEM,Dean Phillips,7
+Stanley,President,,DEM,Armando Perez-Serrato,0
+Sully,President,,DEM,Marianne Williamson,8
+Sully,President,,DEM,Joseph R Biden Jr,44
+Sully,President,,DEM,Dean Phillips,6
+Sully,President,,DEM,Armando Perez-Serrato,3
+Todd,President,,DEM,Marianne Williamson,38
+Todd,President,,DEM,Joseph R Biden Jr,234
+Todd,President,,DEM,Dean Phillips,10
+Todd,President,,DEM,Armando Perez-Serrato,20
+Tripp,President,,DEM,Marianne Williamson,17
+Tripp,President,,DEM,Joseph R Biden Jr,80
+Tripp,President,,DEM,Dean Phillips,13
+Tripp,President,,DEM,Armando Perez-Serrato,6
+Turner,President,,DEM,Marianne Williamson,42
+Turner,President,,DEM,Joseph R Biden Jr,121
+Turner,President,,DEM,Dean Phillips,40
+Turner,President,,DEM,Armando Perez-Serrato,16
+Union,President,,DEM,Marianne Williamson,41
+Union,President,,DEM,Joseph R Biden Jr,213
+Union,President,,DEM,Dean Phillips,37
+Union,President,,DEM,Armando Perez-Serrato,11
+Walworth,President,,DEM,Marianne Williamson,10
+Walworth,President,,DEM,Joseph R Biden Jr,27
+Walworth,President,,DEM,Dean Phillips,8
+Walworth,President,,DEM,Armando Perez-Serrato,2
+Yankton,President,,DEM,Marianne Williamson,41
+Yankton,President,,DEM,Joseph R Biden Jr,294
+Yankton,President,,DEM,Dean Phillips,31
+Yankton,President,,DEM,Armando Perez-Serrato,23
+Ziebach,President,,DEM,Marianne Williamson,13
+Ziebach,President,,DEM,Joseph R Biden Jr,41
+Ziebach,President,,DEM,Dean Phillips,2
+Ziebach,President,,DEM,Armando Perez-Serrato,3
+Brown,State Senate,03,REP,Katherine (Katie) Washnok,1201
+Brown,State Senate,03,REP,Carl Perry,1313
+Clark,State Senate,04,REP,Fred Deutsch,189
+Clark,State Senate,04,REP,Stephanie Sauder,253
+Codington,State Senate,04,REP,Fred Deutsch,242
+Codington,State Senate,04,REP,Stephanie Sauder,200
+Deuel,State Senate,04,REP,Fred Deutsch,294
+Deuel,State Senate,04,REP,Stephanie Sauder,178
+Grant,State Senate,04,REP,Fred Deutsch,564
+Grant,State Senate,04,REP,Stephanie Sauder,368
+Hamlin,State Senate,04,REP,Fred Deutsch,387
+Hamlin,State Senate,04,REP,Stephanie Sauder,746
+Roberts,State Senate,04,REP,Fred Deutsch,128
+Roberts,State Senate,04,REP,Stephanie Sauder,123
+Brookings,State Senate,08,REP,Casey Crabtree,426
+Brookings,State Senate,08,REP,Rick Weible,292
+Kingsbury,State Senate,08,REP,Casey Crabtree,435
+Kingsbury,State Senate,08,REP,Rick Weible,149
+Lake,State Senate,08,REP,Casey Crabtree,1028
+Lake,State Senate,08,REP,Rick Weible,287
+Miner,State Senate,08,REP,Casey Crabtree,168
+Miner,State Senate,08,REP,Rick Weible,71
+Minnehaha,State Senate,09,REP,Joy Hohn,1118
+Minnehaha,State Senate,09,REP,Mark K Willadsen,385
+Lincoln,State Senate,16,REP,Kevin D. Jensen,837
+Lincoln,State Senate,16,REP,Eric Hohman,512
+Turner,State Senate,16,REP,Kevin D. Jensen,742
+Turner,State Senate,16,REP,Eric Hohman,312
+Union,State Senate,16,REP,Kevin D. Jensen,276
+Union,State Senate,16,REP,Eric Hohman,155
+Clay,State Senate,17,REP,Sydney Davis,486
+Clay,State Senate,17,REP,Jeffrey Church,250
+Union,State Senate,17,REP,Sydney Davis,830
+Union,State Senate,17,REP,Jeffrey Church,399
+Clay,State Senate,18,REP,Lauren Nelson,35
+Clay,State Senate,18,REP,Jean M. Hunhoff,16
+Yankton,State Senate,18,REP,Lauren Nelson,1200
+Yankton,State Senate,18,REP,Jean M. Hunhoff,1123
+Aurora,State Senate,21,REP,Erin Tobin,118
+Aurora,State Senate,21,REP,Mykala Voita,115
+Charles Mix,State Senate,21,REP,Erin Tobin,418
+Charles Mix,State Senate,21,REP,Mykala Voita,460
+Douglas,State Senate,21,REP,Erin Tobin,231
+Douglas,State Senate,21,REP,Mykala Voita,354
+Gregory,State Senate,21,REP,Erin Tobin,365
+Gregory,State Senate,21,REP,Mykala Voita,456
+Tripp,State Senate,21,REP,Erin Tobin,662
+Tripp,State Senate,21,REP,Mykala Voita,457
+Brown,State Senate,23,REP,Steven Ray Roseland,78
+Brown,State Senate,23,REP,Mark Lapka,106
+Campbell,State Senate,23,REP,Steven Ray Roseland,63
+Campbell,State Senate,23,REP,Mark Lapka,210
+Edmunds,State Senate,23,REP,Steven Ray Roseland,193
+Edmunds,State Senate,23,REP,Mark Lapka,356
+Faulk,State Senate,23,REP,Steven Ray Roseland,393
+Faulk,State Senate,23,REP,Mark Lapka,155
+Hand,State Senate,23,REP,Steven Ray Roseland,271
+Hand,State Senate,23,REP,Mark Lapka,243
+Mcpherson,State Senate,23,REP,Steven Ray Roseland,84
+Mcpherson,State Senate,23,REP,Mark Lapka,553
+Potter,State Senate,23,REP,Steven Ray Roseland,372
+Potter,State Senate,23,REP,Mark Lapka,143
+Walworth,State Senate,23,REP,Steven Ray Roseland,302
+Walworth,State Senate,23,REP,Mark Lapka,513
+Minnehaha,State Senate,25,REP,Jordan Youngberg,470
+Minnehaha,State Senate,25,REP,Tom Pischke,1087
+Moody,State Senate,25,REP,Jordan Youngberg,184
+Moody,State Senate,25,REP,Tom Pischke,284
+Bennett,State Senate,27,DEM,Gerald M Cournoyer Jr,22
+Bennett,State Senate,27,DEM,Red Dawn Foster,40
+Bennett,State Senate,27,REP,Anthony G. Kathol,213
+Bennett,State Senate,27,REP,Bruce Whalen,54
+Jackson,State Senate,27,DEM,Gerald M Cournoyer Jr,12
+Jackson,State Senate,27,DEM,Red Dawn Foster,40
+Jackson,State Senate,27,REP,Anthony G. Kathol,156
+Jackson,State Senate,27,REP,Bruce Whalen,98
+Oglala Lakota,State Senate,27,DEM,Gerald M Cournoyer Jr,83
+Oglala Lakota,State Senate,27,DEM,Red Dawn Foster,272
+Oglala Lakota,State Senate,27,REP,Anthony G. Kathol,21
+Oglala Lakota,State Senate,27,REP,Bruce Whalen,23
+Pennington,State Senate,27,DEM,Gerald M Cournoyer Jr,32
+Pennington,State Senate,27,DEM,Red Dawn Foster,49
+Pennington,State Senate,27,REP,Anthony G. Kathol,299
+Pennington,State Senate,27,REP,Bruce Whalen,285
+Butte,State Senate,28,REP,Susan M. Peterson,805
+Butte,State Senate,28,REP,Sam Marty,723
+Corson,State Senate,28,REP,Susan M. Peterson,63
+Corson,State Senate,28,REP,Sam Marty,101
+Dewey,State Senate,28,REP,Susan M. Peterson,144
+Dewey,State Senate,28,REP,Sam Marty,92
+Harding,State Senate,28,REP,Susan M. Peterson,98
+Harding,State Senate,28,REP,Sam Marty,264
+Perkins,State Senate,28,REP,Susan M. Peterson,133
+Perkins,State Senate,28,REP,Sam Marty,335
+Ziebach,State Senate,28,REP,Susan M. Peterson,53
+Ziebach,State Senate,28,REP,Sam Marty,63
+Meade,State Senate,29,REP,Kirk Chaffee,1362
+Meade,State Senate,29,REP,John Carley,1985
+Custer,State Senate,30,REP,Amber Hulse,930
+Custer,State Senate,30,REP,Forrest Foster,201
+Custer,State Senate,30,REP,Julie Frye-Mueller,788
+Fall River,State Senate,30,REP,Amber Hulse,687
+Fall River,State Senate,30,REP,Forrest Foster,182
+Fall River,State Senate,30,REP,Julie Frye-Mueller,636
+Pennington,State Senate,30,REP,Amber Hulse,599
+Pennington,State Senate,30,REP,Forrest Foster,177
+Pennington,State Senate,30,REP,Julie Frye-Mueller,624
+Lawrence,State Senate,31,REP,Randy Deibert,1824
+Lawrence,State Senate,31,REP,Kate Crowley-Johnson,1248
+Meade,State Senate,33,REP,David Johnson,287
+Meade,State Senate,33,REP,Curt Voight,307
+Pennington,State Senate,33,REP,David Johnson,1132
+Pennington,State Senate,33,REP,Curt Voight,1487
+Pennington,State Senate,34,REP,Jason Green,1564
+Pennington,State Senate,34,REP,Taffy Howard,1598
+Pennington,State Senate,35,REP,Greg Blanc,973
+Pennington,State Senate,35,REP,Curtis Nupen,112
+Pennington,State Senate,35,REP,Michael A. Walsh,692
+Brown,State House,01,REP,Logan Manhart,655
+Brown,State House,01,REP,Tamara St John,349
+Brown,State House,01,REP,Christopher Reder,576
+Day,State House,01,REP,Logan Manhart,257
+Day,State House,01,REP,Tamara St John,250
+Day,State House,01,REP,Christopher Reder,221
+Marshall,State House,01,REP,Logan Manhart,171
+Marshall,State House,01,REP,Tamara St John,152
+Marshall,State House,01,REP,Christopher Reder,166
+Roberts,State House,01,REP,Logan Manhart,230
+Roberts,State House,01,REP,Tamara St John,185
+Roberts,State House,01,REP,Christopher Reder,201
+Minnehaha,State House,02,REP,Jake Schoenbeck,475
+Minnehaha,State House,02,REP,John Sjaarda,1410
+Minnehaha,State House,02,REP,David Kull,1168
+Clark,State House,04,REP,Dylan C. Jordan,175
+Clark,State House,04,REP,Vanessa Namken,181
+Clark,State House,04,REP,Barbara Guenette,151
+Clark,State House,04,REP,Kent Roe,259
+Codington,State House,04,REP,Dylan C. Jordan,189
+Codington,State House,04,REP,Vanessa Namken,154
+Codington,State House,04,REP,Barbara Guenette,146
+Codington,State House,04,REP,Kent Roe,253
+Deuel,State House,04,REP,Dylan C. Jordan,263
+Deuel,State House,04,REP,Vanessa Namken,223
+Deuel,State House,04,REP,Barbara Guenette,129
+Deuel,State House,04,REP,Kent Roe,217
+Grant,State House,04,REP,Dylan C. Jordan,477
+Grant,State House,04,REP,Vanessa Namken,375
+Grant,State House,04,REP,Barbara Guenette,311
+Grant,State House,04,REP,Kent Roe,390
+Hamlin,State House,04,REP,Dylan C. Jordan,345
+Hamlin,State House,04,REP,Vanessa Namken,416
+Hamlin,State House,04,REP,Barbara Guenette,457
+Hamlin,State House,04,REP,Kent Roe,748
+Roberts,State House,04,REP,Dylan C. Jordan,136
+Roberts,State House,04,REP,Vanessa Namken,78
+Roberts,State House,04,REP,Barbara Guenette,70
+Roberts,State House,04,REP,Kent Roe,129
+Codington,State House,05,REP,Byron I. Callies,1077
+Codington,State House,05,REP,Josephine Garcia,1098
+Codington,State House,05,REP,Matt Roby,1838
+Lincoln,State House,06,REP,Wendi Hogan,463
+Lincoln,State House,06,REP,Herman Otten,566
+Lincoln,State House,06,REP,Aaron Aylward,687
+Brookings,State House,07,REP,Roger DeGroot,712
+Brookings,State House,07,REP,Jeffrey A Struve,539
+Brookings,State House,07,REP,Melissa Heermann,781
+Brookings,State House,08,REP,Matt Wagner,619
+Brookings,State House,08,REP,Tim Walburg,239
+Brookings,State House,08,REP,Tim Reisch,299
+Kingsbury,State House,08,REP,Matt Wagner,319
+Kingsbury,State House,08,REP,Tim Walburg,291
+Kingsbury,State House,08,REP,Tim Reisch,368
+Lake,State House,08,REP,Matt Wagner,446
+Lake,State House,08,REP,Tim Walburg,1064
+Lake,State House,08,REP,Tim Reisch,883
+Miner,State House,08,REP,Matt Wagner,116
+Miner,State House,08,REP,Tim Walburg,87
+Miner,State House,08,REP,Tim Reisch,178
+Minnehaha,State House,09,REP,Bethany Soye,978
+Minnehaha,State House,09,REP,Kristi Golden,563
+Minnehaha,State House,09,REP,Daryl Christensen,450
+Minnehaha,State House,09,REP,Tesa Schwans,764
+Minnehaha,State House,11,REP,Bill Linsenmeyer,255
+Minnehaha,State House,11,REP,Brian K Mulder,627
+Minnehaha,State House,11,REP,Keri K Weems,627
+Minnehaha,State House,11,REP,John C. Kunnari,617
+Lincoln,State House,12,REP,Amber Arlint,482
+Lincoln,State House,12,REP,Greg Jamison,355
+Lincoln,State House,12,REP,Manny Steele,317
+Minnehaha,State House,12,REP,Amber Arlint,398
+Minnehaha,State House,12,REP,Greg Jamison,369
+Minnehaha,State House,12,REP,Manny Steele,280
+Lincoln,State House,13,REP,John Hughes,925
+Lincoln,State House,13,REP,Brad Jankord,704
+Lincoln,State House,13,REP,Penny BayBridge,128
+Lincoln,State House,13,REP,Tony Venhuizen,917
+Minnehaha,State House,13,REP,John Hughes,272
+Minnehaha,State House,13,REP,Brad Jankord,218
+Minnehaha,State House,13,REP,Penny BayBridge,55
+Minnehaha,State House,13,REP,Tony Venhuizen,275
+Minnehaha,State House,14,REP,Tony Kayser,1091
+Minnehaha,State House,14,REP,Taylor Rae Rehfeldt,1205
+Minnehaha,State House,14,REP,Tyler Tordsen,805
+Lincoln,State House,16,REP,Karla J Lems,1106
+Lincoln,State House,16,REP,Richard Vasgaard,632
+Lincoln,State House,16,REP,Brian J Burge,312
+Turner,State House,16,REP,Karla J Lems,719
+Turner,State House,16,REP,Richard Vasgaard,693
+Turner,State House,16,REP,Brian J Burge,290
+Union,State House,16,REP,Karla J Lems,308
+Union,State House,16,REP,Richard Vasgaard,245
+Union,State House,16,REP,Brian J Burge,118
+Clay,State House,17,REP,William (Bill) Shorma,467
+Clay,State House,17,REP,Chris Kassin,626
+Clay,State House,17,REP,Robin J. Schiro,99
+Union,State House,17,REP,William (Bill) Shorma,875
+Union,State House,17,REP,Chris Kassin,964
+Union,State House,17,REP,Robin J. Schiro,147
+Clay,State House,18,REP,Mike Stevens,24
+Clay,State House,18,REP,Julie Auch,38
+Clay,State House,18,REP,John R Marquardt,14
+Yankton,State House,18,REP,Mike Stevens,1249
+Yankton,State House,18,REP,Julie Auch,1466
+Yankton,State House,18,REP,John R Marquardt,1109
+Bon Homme,State House,19,REP,Drew Peterson,374
+Bon Homme,State House,19,REP,Steven Mettler,300
+Bon Homme,State House,19,REP,Jessica Bahmuller,500
+Hanson,State House,19,REP,Drew Peterson,217
+Hanson,State House,19,REP,Steven Mettler,148
+Hanson,State House,19,REP,Jessica Bahmuller,444
+Hutchinson,State House,19,REP,Drew Peterson,451
+Hutchinson,State House,19,REP,Steven Mettler,509
+Hutchinson,State House,19,REP,Jessica Bahmuller,708
+Mccook,State House,19,REP,Drew Peterson,367
+Mccook,State House,19,REP,Steven Mettler,252
+Mccook,State House,19,REP,Jessica Bahmuller,478
+Turner,State House,19,REP,Drew Peterson,26
+Turner,State House,19,REP,Steven Mettler,34
+Turner,State House,19,REP,Jessica Bahmuller,35
+Aurora,State House,21,REP,Lee Qualm,169
+Aurora,State House,21,REP,Marty Overweg,196
+Aurora,State House,21,REP,Jim Halverson,54
+Charles Mix,State House,21,REP,Lee Qualm,450
+Charles Mix,State House,21,REP,Marty Overweg,728
+Charles Mix,State House,21,REP,Jim Halverson,337
+Douglas,State House,21,REP,Lee Qualm,284
+Douglas,State House,21,REP,Marty Overweg,554
+Douglas,State House,21,REP,Jim Halverson,154
+Gregory,State House,21,REP,Lee Qualm,455
+Gregory,State House,21,REP,Marty Overweg,434
+Gregory,State House,21,REP,Jim Halverson,451
+Tripp,State House,21,REP,Lee Qualm,407
+Tripp,State House,21,REP,Marty Overweg,482
+Tripp,State House,21,REP,Jim Halverson,838
+Beadle,State House,22,REP,Kevin Van Diepen,738
+Beadle,State House,22,REP,Terry Nebelsick,574
+Beadle,State House,22,REP,Lana Greenfield,532
+Clark,State House,22,REP,Kevin Van Diepen,20
+Clark,State House,22,REP,Terry Nebelsick,20
+Clark,State House,22,REP,Lana Greenfield,22
+Spink,State House,22,REP,Kevin Van Diepen,164
+Spink,State House,22,REP,Terry Nebelsick,197
+Spink,State House,22,REP,Lana Greenfield,465
+Brown,State House,23,REP,Spencer Gosch,115
+Brown,State House,23,REP,Scott Moore,121
+Brown,State House,23,REP,James D. Wangsness,64
+Campbell,State House,23,REP,Spencer Gosch,220
+Campbell,State House,23,REP,Scott Moore,172
+Campbell,State House,23,REP,James D. Wangsness,62
+Edmunds,State House,23,REP,Spencer Gosch,315
+Edmunds,State House,23,REP,Scott Moore,465
+Edmunds,State House,23,REP,James D. Wangsness,195
+Faulk,State House,23,REP,Spencer Gosch,251
+Faulk,State House,23,REP,Scott Moore,391
+Faulk,State House,23,REP,James D. Wangsness,236
+Hand,State House,23,REP,Spencer Gosch,289
+Hand,State House,23,REP,Scott Moore,411
+Hand,State House,23,REP,James D. Wangsness,235
+Mcpherson,State House,23,REP,Spencer Gosch,500
+Mcpherson,State House,23,REP,Scott Moore,538
+Mcpherson,State House,23,REP,James D. Wangsness,110
+Potter,State House,23,REP,Spencer Gosch,247
+Potter,State House,23,REP,Scott Moore,313
+Potter,State House,23,REP,James D. Wangsness,271
+Walworth,State House,23,REP,Spencer Gosch,652
+Walworth,State House,23,REP,Scott Moore,478
+Walworth,State House,23,REP,James D. Wangsness,254
+Corson,State House,28A,REP,Ryan Maher,71
+Corson,State House,28A,REP,Jana Hunt,104
+Dewey,State House,28A,REP,Ryan Maher,173
+Dewey,State House,28A,REP,Jana Hunt,97
+Perkins,State House,28A,REP,Ryan Maher,89
+Perkins,State House,28A,REP,Jana Hunt,191
+Ziebach,State House,28A,REP,Ryan Maher,42
+Ziebach,State House,28A,REP,Jana Hunt,84
+Butte,State House,28B,REP,Travis Ismay,797
+Butte,State House,28B,REP,Travis W. Martin,728
+Harding,State House,28B,REP,Travis Ismay,218
+Harding,State House,28B,REP,Travis W. Martin,134
+Perkins,State House,28B,REP,Travis Ismay,116
+Perkins,State House,28B,REP,Travis W. Martin,70
+Meade,State House,29,REP,Gary L. Cammack,1454
+Meade,State House,29,REP,Terri Jorgenson,1734
+Meade,State House,29,REP,Kathy Rice,1938
+Custer,State House,30,REP,Pat Baumann,845
+Custer,State House,30,REP,Matt Smith,663
+Custer,State House,30,REP,Trish Ladner,756
+Custer,State House,30,REP,Stephen Saint,235
+Custer,State House,30,REP,Tim Goodwin,761
+Custer,State House,30,REP,Matthew Monfore,104
+Fall River,State House,30,REP,Pat Baumann,527
+Fall River,State House,30,REP,Matt Smith,532
+Fall River,State House,30,REP,Trish Ladner,713
+Fall River,State House,30,REP,Stephen Saint,101
+Fall River,State House,30,REP,Tim Goodwin,527
+Fall River,State House,30,REP,Matthew Monfore,136
+Pennington,State House,30,REP,Pat Baumann,505
+Pennington,State House,30,REP,Matt Smith,550
+Pennington,State House,30,REP,Trish Ladner,540
+Pennington,State House,30,REP,Stephen Saint,87
+Pennington,State House,30,REP,Tim Goodwin,669
+Pennington,State House,30,REP,Matthew Monfore,124
+Lawrence,State House,31,REP,Mark Mowry,1406
+Lawrence,State House,31,REP,Mary J Fitzgerald,1559
+Lawrence,State House,31,REP,Scott Odenbach,2321
+Pennington,State House,32,REP,Steve Duffy,870
+Pennington,State House,32,REP,John Robert James,596
+Pennington,State House,32,REP,Brook Kaufman,699
+Pennington,State House,34,REP,Heather Baxter,1766
+Pennington,State House,34,REP,Mike Derby,1864
+Pennington,State House,34,REP,Becky J Drury,1415

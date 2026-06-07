@@ -1,0 +1,139 @@
+county,precinct,office,district,candidate,party,votes
+Hutchinson,01,President,,Kamala D. Harris and Tim Walz,DEM,113
+Hutchinson,02,President,,Kamala D. Harris and Tim Walz,DEM,226
+Hutchinson,03,President,,Kamala D. Harris and Tim Walz,DEM,105
+Hutchinson,04,President,,Kamala D. Harris and Tim Walz,DEM,205
+Hutchinson,05,President,,Kamala D. Harris and Tim Walz,DEM,68
+Hutchinson,06,President,,Kamala D. Harris and Tim Walz,DEM,38
+Hutchinson,01,President,,Chase Oliver and Mike ter Maat,LIB,1
+Hutchinson,02,President,,Chase Oliver and Mike ter Maat,LIB,7
+Hutchinson,03,President,,Chase Oliver and Mike ter Maat,LIB,5
+Hutchinson,04,President,,Chase Oliver and Mike ter Maat,LIB,2
+Hutchinson,05,President,,Chase Oliver and Mike ter Maat,LIB,2
+Hutchinson,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Hutchinson,01,President,,Donald J. Trump and JD Vance,REP,593
+Hutchinson,02,President,,Donald J. Trump and JD Vance,REP,696
+Hutchinson,03,President,,Donald J. Trump and JD Vance,REP,423
+Hutchinson,04,President,,Donald J. Trump and JD Vance,REP,539
+Hutchinson,05,President,,Donald J. Trump and JD Vance,REP,379
+Hutchinson,06,President,,Donald J. Trump and JD Vance,REP,288
+Hutchinson,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Hutchinson,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Hutchinson,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Hutchinson,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Hutchinson,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Hutchinson,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Hutchinson,01,U.S. House,1,Sheryl Johnson,DEM,93
+Hutchinson,01,U.S. House,1,Dusty Johnson,REP,606
+Hutchinson,02,U.S. House,1,Sheryl Johnson,DEM,171
+Hutchinson,02,U.S. House,1,Dusty Johnson,REP,762
+Hutchinson,03,U.S. House,1,Sheryl Johnson,DEM,71
+Hutchinson,03,U.S. House,1,Dusty Johnson,REP,461
+Hutchinson,04,U.S. House,1,Sheryl Johnson,DEM,127
+Hutchinson,04,U.S. House,1,Dusty Johnson,REP,628
+Hutchinson,05,U.S. House,1,Sheryl Johnson,DEM,35
+Hutchinson,05,U.S. House,1,Dusty Johnson,REP,417
+Hutchinson,06,U.S. House,1,Sheryl Johnson,DEM,37
+Hutchinson,06,U.S. House,1,Dusty Johnson,REP,292
+Hutchinson,01,Public Utilities Commissioner,,Forrest Wilson,DEM,74
+Hutchinson,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Hutchinson,01,Public Utilities Commissioner,,Kristie Fiegen,REP,589
+Hutchinson,02,Public Utilities Commissioner,,Forrest Wilson,DEM,139
+Hutchinson,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,34
+Hutchinson,02,Public Utilities Commissioner,,Kristie Fiegen,REP,729
+Hutchinson,03,Public Utilities Commissioner,,Forrest Wilson,DEM,67
+Hutchinson,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Hutchinson,03,Public Utilities Commissioner,,Kristie Fiegen,REP,441
+Hutchinson,04,Public Utilities Commissioner,,Forrest Wilson,DEM,108
+Hutchinson,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
+Hutchinson,04,Public Utilities Commissioner,,Kristie Fiegen,REP,583
+Hutchinson,05,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Hutchinson,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Hutchinson,05,Public Utilities Commissioner,,Kristie Fiegen,REP,394
+Hutchinson,06,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Hutchinson,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Hutchinson,06,Public Utilities Commissioner,,Kristie Fiegen,REP,277
+Hutchinson,01,State Senate,19,Kyle Schoenfish,REP,481
+Hutchinson,01,State Senate,19,Michael J. Miller,IND,205
+Hutchinson,02,State Senate,19,Kyle Schoenfish,REP,605
+Hutchinson,02,State Senate,19,Michael J. Miller,IND,294
+Hutchinson,03,State Senate,19,Kyle Schoenfish,REP,436
+Hutchinson,03,State Senate,19,Michael J. Miller,IND,82
+Hutchinson,04,State Senate,19,Kyle Schoenfish,REP,620
+Hutchinson,04,State Senate,19,Michael J. Miller,IND,106
+Hutchinson,05,State Senate,19,Kyle Schoenfish,REP,382
+Hutchinson,05,State Senate,19,Michael J. Miller,IND,55
+Hutchinson,06,State Senate,19,Kyle Schoenfish,REP,232
+Hutchinson,06,State Senate,19,Michael J. Miller,IND,87
+Hutchinson,01,State House,19,Drew Peterson,REP,389
+Hutchinson,01,State House,19,Jessica Bahmuller,REP,483
+Hutchinson,02,State House,19,Drew Peterson,REP,560
+Hutchinson,02,State House,19,Jessica Bahmuller,REP,564
+Hutchinson,03,State House,19,Drew Peterson,REP,271
+Hutchinson,03,State House,19,Jessica Bahmuller,REP,380
+Hutchinson,04,State House,19,Drew Peterson,REP,453
+Hutchinson,04,State House,19,Jessica Bahmuller,REP,494
+Hutchinson,05,State House,19,Drew Peterson,REP,289
+Hutchinson,05,State House,19,Jessica Bahmuller,REP,306
+Hutchinson,06,State House,19,Drew Peterson,REP,182
+Hutchinson,06,State House,19,Jessica Bahmuller,REP,234
+Hutchinson,01,Supreme Court Retention,,Yes,,487
+Hutchinson,01,Supreme Court Retention,,No,,110
+Hutchinson,02,Supreme Court Retention,,Yes,,629
+Hutchinson,02,Supreme Court Retention,,No,,121
+Hutchinson,03,Supreme Court Retention,,Yes,,396
+Hutchinson,03,Supreme Court Retention,,No,,78
+Hutchinson,04,Supreme Court Retention,,Yes,,540
+Hutchinson,04,Supreme Court Retention,,No,,107
+Hutchinson,05,Supreme Court Retention,,Yes,,327
+Hutchinson,05,Supreme Court Retention,,No,,71
+Hutchinson,06,Supreme Court Retention,,Yes,,228
+Hutchinson,06,Supreme Court Retention,,No,,57
+Hutchinson,01,Constitutional Amendment E,,Yes,,204
+Hutchinson,01,Constitutional Amendment E,,No,,494
+Hutchinson,01,Constitutional Amendment F,,Yes,,360
+Hutchinson,01,Constitutional Amendment F,,No,,341
+Hutchinson,02,Constitutional Amendment E,,Yes,,325
+Hutchinson,02,Constitutional Amendment E,,No,,595
+Hutchinson,02,Constitutional Amendment F,,Yes,,462
+Hutchinson,02,Constitutional Amendment F,,No,,459
+Hutchinson,03,Constitutional Amendment E,,Yes,,205
+Hutchinson,03,Constitutional Amendment E,,No,,323
+Hutchinson,03,Constitutional Amendment F,,Yes,,271
+Hutchinson,03,Constitutional Amendment F,,No,,257
+Hutchinson,04,Constitutional Amendment E,,Yes,,270
+Hutchinson,04,Constitutional Amendment E,,No,,484
+Hutchinson,04,Constitutional Amendment F,,Yes,,425
+Hutchinson,04,Constitutional Amendment F,,No,,335
+Hutchinson,05,Constitutional Amendment E,,Yes,,133
+Hutchinson,05,Constitutional Amendment E,,No,,319
+Hutchinson,05,Constitutional Amendment F,,Yes,,232
+Hutchinson,05,Constitutional Amendment F,,No,,220
+Hutchinson,06,Constitutional Amendment E,,Yes,,94
+Hutchinson,06,Constitutional Amendment E,,No,,237
+Hutchinson,06,Constitutional Amendment F,,Yes,,178
+Hutchinson,06,Constitutional Amendment F,,No,,149
+Hutchinson,01,Constitutional Amendment G,,Yes,,127
+Hutchinson,01,Constitutional Amendment G,,No,,584
+Hutchinson,01,Constitutional Amendment H,,Yes,,159
+Hutchinson,01,Constitutional Amendment H,,No,,532
+Hutchinson,02,Constitutional Amendment G,,Yes,,242
+Hutchinson,02,Constitutional Amendment G,,No,,696
+Hutchinson,02,Constitutional Amendment H,,Yes,,243
+Hutchinson,02,Constitutional Amendment H,,No,,671
+Hutchinson,03,Constitutional Amendment G,,Yes,,105
+Hutchinson,03,Constitutional Amendment G,,No,,433
+Hutchinson,03,Constitutional Amendment H,,Yes,,119
+Hutchinson,03,Constitutional Amendment H,,No,,405
+Hutchinson,04,Constitutional Amendment G,,Yes,,180
+Hutchinson,04,Constitutional Amendment G,,No,,580
+Hutchinson,04,Constitutional Amendment H,,Yes,,203
+Hutchinson,04,Constitutional Amendment H,,No,,534
+Hutchinson,05,Constitutional Amendment G,,Yes,,78
+Hutchinson,05,Constitutional Amendment G,,No,,375
+Hutchinson,05,Constitutional Amendment H,,Yes,,87
+Hutchinson,05,Constitutional Amendment H,,No,,356
+Hutchinson,06,Constitutional Amendment G,,Yes,,60
+Hutchinson,06,Constitutional Amendment G,,No,,269
+Hutchinson,06,Constitutional Amendment H,,Yes,,75
+Hutchinson,06,Constitutional Amendment H,,No,,248

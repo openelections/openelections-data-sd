@@ -1,0 +1,169 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,1,President,,Kamala D. Harris and Tim Walz,DEM,101
+Edmunds,1,President,,Chase Oliver and Mike ter Maat,LIB,1
+Edmunds,1,President,,Donald J. Trump and JD Vance,REP,391
+Edmunds,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Edmunds,2,President,,Kamala D. Harris and Tim Walz,DEM,84
+Edmunds,2,President,,Chase Oliver and Mike ter Maat,LIB,1
+Edmunds,2,President,,Donald J. Trump and JD Vance,REP,306
+Edmunds,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Edmunds,3,President,,Kamala D. Harris and Tim Walz,DEM,51
+Edmunds,3,President,,Chase Oliver and Mike ter Maat,LIB,0
+Edmunds,3,President,,Donald J. Trump and JD Vance,REP,270
+Edmunds,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Edmunds,4,President,,Kamala D. Harris and Tim Walz,DEM,55
+Edmunds,4,President,,Chase Oliver and Mike ter Maat,LIB,1
+Edmunds,4,President,,Donald J. Trump and JD Vance,REP,227
+Edmunds,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Edmunds,5,President,,Kamala D. Harris and Tim Walz,DEM,67
+Edmunds,5,President,,Chase Oliver and Mike ter Maat,LIB,0
+Edmunds,5,President,,Donald J. Trump and JD Vance,REP,304
+Edmunds,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Edmunds,6,President,,Kamala D. Harris and Tim Walz,DEM,26
+Edmunds,6,President,,Chase Oliver and Mike ter Maat,LIB,0
+Edmunds,6,President,,Donald J. Trump and JD Vance,REP,120
+Edmunds,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Edmunds,1,U.S. House,1,Sheryl Johnson,DEM,70
+Edmunds,1,U.S. House,1,Dusty Johnson,REP,413
+Edmunds,2,U.S. House,1,Sheryl Johnson,DEM,76
+Edmunds,2,U.S. House,1,Dusty Johnson,REP,322
+Edmunds,3,U.S. House,1,Sheryl Johnson,DEM,51
+Edmunds,3,U.S. House,1,Dusty Johnson,REP,271
+Edmunds,4,U.S. House,1,Sheryl Johnson,DEM,36
+Edmunds,4,U.S. House,1,Dusty Johnson,REP,251
+Edmunds,5,U.S. House,1,Sheryl Johnson,DEM,53
+Edmunds,5,U.S. House,1,Dusty Johnson,REP,313
+Edmunds,6,U.S. House,1,Sheryl Johnson,DEM,16
+Edmunds,6,U.S. House,1,Dusty Johnson,REP,131
+Edmunds,1,Public Utilities Commissioner,,Forrest Wilson,DEM,82
+Edmunds,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Edmunds,1,Public Utilities Commissioner,,Kristie Fiegen,REP,378
+Edmunds,2,Public Utilities Commissioner,,Forrest Wilson,DEM,65
+Edmunds,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Edmunds,2,Public Utilities Commissioner,,Kristie Fiegen,REP,287
+Edmunds,3,Public Utilities Commissioner,,Forrest Wilson,DEM,39
+Edmunds,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Edmunds,3,Public Utilities Commissioner,,Kristie Fiegen,REP,254
+Edmunds,4,Public Utilities Commissioner,,Forrest Wilson,DEM,49
+Edmunds,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Edmunds,4,Public Utilities Commissioner,,Kristie Fiegen,REP,220
+Edmunds,5,Public Utilities Commissioner,,Forrest Wilson,DEM,52
+Edmunds,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Edmunds,5,Public Utilities Commissioner,,Kristie Fiegen,REP,291
+Edmunds,6,Public Utilities Commissioner,,Forrest Wilson,DEM,17
+Edmunds,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Edmunds,6,Public Utilities Commissioner,,Kristie Fiegen,REP,114
+Edmunds,1,State Senate,23,Mark Lapka,REP,374
+Edmunds,2,State Senate,23,Mark Lapka,REP,316
+Edmunds,3,State Senate,23,Mark Lapka,REP,262
+Edmunds,4,State Senate,23,Mark Lapka,REP,227
+Edmunds,5,State Senate,23,Mark Lapka,REP,290
+Edmunds,6,State Senate,23,Mark Lapka,REP,115
+Edmunds,1,State House,23,Scott Moore,REP,333
+Edmunds,1,State House,23,Spencer Gosch,REP,305
+Edmunds,2,State House,23,Scott Moore,REP,288
+Edmunds,2,State House,23,Spencer Gosch,REP,232
+Edmunds,3,State House,23,Scott Moore,REP,243
+Edmunds,3,State House,23,Spencer Gosch,REP,173
+Edmunds,4,State House,23,Scott Moore,REP,222
+Edmunds,4,State House,23,Spencer Gosch,REP,195
+Edmunds,5,State House,23,Scott Moore,REP,228
+Edmunds,5,State House,23,Spencer Gosch,REP,271
+Edmunds,6,State House,23,Scott Moore,REP,103
+Edmunds,6,State House,23,Spencer Gosch,REP,90
+Edmunds,1,Supreme Court,,Yes,,376
+Edmunds,1,Supreme Court,,No,,56
+Edmunds,2,Supreme Court,,Yes,,284
+Edmunds,2,Supreme Court,,No,,60
+Edmunds,3,Supreme Court,,Yes,,232
+Edmunds,3,Supreme Court,,No,,55
+Edmunds,4,Supreme Court,,Yes,,203
+Edmunds,4,Supreme Court,,No,,43
+Edmunds,5,Supreme Court,,Yes,,273
+Edmunds,5,Supreme Court,,No,,47
+Edmunds,6,Supreme Court,,Yes,,112
+Edmunds,6,Supreme Court,,No,,20
+Edmunds,1,Constitutional Amendment E,,Yes,,155
+Edmunds,1,Constitutional Amendment E,,No,,338
+Edmunds,1,Constitutional Amendment F,,Yes,,303
+Edmunds,1,Constitutional Amendment F,,No,,192
+Edmunds,1,Constitutional Amendment G,,Yes,,147
+Edmunds,1,Constitutional Amendment G,,No,,353
+Edmunds,1,Constitutional Amendment H,,Yes,,120
+Edmunds,1,Constitutional Amendment H,,No,,370
+Edmunds,1,Initiated Measure 28,,Yes,,99
+Edmunds,1,Initiated Measure 28,,No,,397
+Edmunds,1,Initiated Measure 29,,Yes,,190
+Edmunds,1,Initiated Measure 29,,No,,315
+Edmunds,1,Referred Law 21,,Yes,,147
+Edmunds,1,Referred Law 21,,No,,343
+Edmunds,2,Constitutional Amendment E,,Yes,,133
+Edmunds,2,Constitutional Amendment E,,No,,262
+Edmunds,2,Constitutional Amendment F,,Yes,,223
+Edmunds,2,Constitutional Amendment F,,No,,171
+Edmunds,2,Constitutional Amendment G,,Yes,,102
+Edmunds,2,Constitutional Amendment G,,No,,297
+Edmunds,2,Constitutional Amendment H,,Yes,,92
+Edmunds,2,Constitutional Amendment H,,No,,299
+Edmunds,2,Initiated Measure 28,,Yes,,103
+Edmunds,2,Initiated Measure 28,,No,,292
+Edmunds,2,Initiated Measure 29,,Yes,,142
+Edmunds,2,Initiated Measure 29,,No,,256
+Edmunds,2,Referred Law 21,,Yes,,105
+Edmunds,2,Referred Law 21,,No,,288
+Edmunds,3,Constitutional Amendment E,,Yes,,65
+Edmunds,3,Constitutional Amendment E,,No,,257
+Edmunds,3,Constitutional Amendment F,,Yes,,169
+Edmunds,3,Constitutional Amendment F,,No,,150
+Edmunds,3,Constitutional Amendment G,,Yes,,47
+Edmunds,3,Constitutional Amendment G,,No,,279
+Edmunds,3,Constitutional Amendment H,,Yes,,62
+Edmunds,3,Constitutional Amendment H,,No,,254
+Edmunds,3,Initiated Measure 28,,Yes,,53
+Edmunds,3,Initiated Measure 28,,No,,266
+Edmunds,3,Initiated Measure 29,,Yes,,66
+Edmunds,3,Initiated Measure 29,,No,,258
+Edmunds,3,Referred Law 21,,Yes,,77
+Edmunds,3,Referred Law 21,,No,,241
+Edmunds,4,Constitutional Amendment E,,Yes,,70
+Edmunds,4,Constitutional Amendment E,,No,,220
+Edmunds,4,Constitutional Amendment F,,Yes,,154
+Edmunds,4,Constitutional Amendment F,,No,,131
+Edmunds,4,Constitutional Amendment G,,Yes,,59
+Edmunds,4,Constitutional Amendment G,,No,,231
+Edmunds,4,Constitutional Amendment H,,Yes,,77
+Edmunds,4,Constitutional Amendment H,,No,,209
+Edmunds,4,Initiated Measure 28,,Yes,,57
+Edmunds,4,Initiated Measure 28,,No,,230
+Edmunds,4,Initiated Measure 29,,Yes,,77
+Edmunds,4,Initiated Measure 29,,No,,215
+Edmunds,4,Referred Law 21,,Yes,,77
+Edmunds,4,Referred Law 21,,No,,211
+Edmunds,5,Constitutional Amendment E,,Yes,,97
+Edmunds,5,Constitutional Amendment E,,No,,278
+Edmunds,5,Constitutional Amendment F,,Yes,,216
+Edmunds,5,Constitutional Amendment F,,No,,160
+Edmunds,5,Constitutional Amendment G,,Yes,,62
+Edmunds,5,Constitutional Amendment G,,No,,315
+Edmunds,5,Constitutional Amendment H,,Yes,,76
+Edmunds,5,Constitutional Amendment H,,No,,293
+Edmunds,5,Initiated Measure 28,,Yes,,79
+Edmunds,5,Initiated Measure 28,,No,,297
+Edmunds,5,Initiated Measure 29,,Yes,,86
+Edmunds,5,Initiated Measure 29,,No,,287
+Edmunds,5,Referred Law 21,,Yes,,92
+Edmunds,5,Referred Law 21,,No,,278
+Edmunds,6,Constitutional Amendment E,,Yes,,48
+Edmunds,6,Constitutional Amendment E,,No,,96
+Edmunds,6,Constitutional Amendment F,,Yes,,84
+Edmunds,6,Constitutional Amendment F,,No,,61
+Edmunds,6,Constitutional Amendment G,,Yes,,39
+Edmunds,6,Constitutional Amendment G,,No,,106
+Edmunds,6,Constitutional Amendment H,,Yes,,40
+Edmunds,6,Constitutional Amendment H,,No,,103
+Edmunds,6,Initiated Measure 28,,Yes,,27
+Edmunds,6,Initiated Measure 28,,No,,113
+Edmunds,6,Initiated Measure 29,,Yes,,59
+Edmunds,6,Initiated Measure 29,,No,,85
+Edmunds,6,Referred Law 21,,Yes,,37
+Edmunds,6,Referred Law 21,,No,,108

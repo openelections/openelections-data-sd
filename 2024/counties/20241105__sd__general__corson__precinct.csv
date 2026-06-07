@@ -1,0 +1,275 @@
+county,precinct,office,district,candidate,party,votes
+Corson,Bullhead Precinct,President,,Kamala D. Harris and Tim Walz,DEM,50
+Corson,Bullhead Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
+Corson,Bullhead Precinct,President,,Donald J. Trump and JD Vance,REP,5
+Corson,Bullhead Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Corson,Kenel Precinct,President,,Kamala D. Harris and Tim Walz,DEM,46
+Corson,Kenel Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
+Corson,Kenel Precinct,President,,Donald J. Trump and JD Vance,REP,15
+Corson,Kenel Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Corson,Lincoln Precinct,President,,Kamala D. Harris and Tim Walz,DEM,101
+Corson,Lincoln Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2
+Corson,Lincoln Precinct,President,,Donald J. Trump and JD Vance,REP,90
+Corson,Lincoln Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Corson,Little Eagle Precinct,President,,Kamala D. Harris and Tim Walz,DEM,55
+Corson,Little Eagle Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
+Corson,Little Eagle Precinct,President,,Donald J. Trump and JD Vance,REP,25
+Corson,Little Eagle Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Corson,McIntosh Precinct,President,,Kamala D. Harris and Tim Walz,DEM,29
+Corson,McIntosh Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2
+Corson,McIntosh Precinct,President,,Donald J. Trump and JD Vance,REP,167
+Corson,McIntosh Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Corson,McLaughlin Precinct,President,,Kamala D. Harris and Tim Walz,DEM,97
+Corson,McLaughlin Precinct,President,,Chase Oliver and Mike ter Maat,LIB,3
+Corson,McLaughlin Precinct,President,,Donald J. Trump and JD Vance,REP,71
+Corson,McLaughlin Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Corson,Morristown Precinct,President,,Kamala D. Harris and Tim Walz,DEM,15
+Corson,Morristown Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
+Corson,Morristown Precinct,President,,Donald J. Trump and JD Vance,REP,179
+Corson,Morristown Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Corson,Ridgeland Precinct,President,,Kamala D. Harris and Tim Walz,DEM,13
+Corson,Ridgeland Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
+Corson,Ridgeland Precinct,President,,Donald J. Trump and JD Vance,REP,70
+Corson,Ridgeland Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Corson,Wakpala Precinct,President,,Kamala D. Harris and Tim Walz,DEM,89
+Corson,Wakpala Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
+Corson,Wakpala Precinct,President,,Donald J. Trump and JD Vance,REP,9
+Corson,Wakpala Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Corson,Bullhead Precinct,U.S. House,1,Sheryl Johnson,DEM,45
+Corson,Bullhead Precinct,U.S. House,1,Dusty Johnson,REP,10
+Corson,Kenel Precinct,U.S. House,1,Sheryl Johnson,DEM,39
+Corson,Kenel Precinct,U.S. House,1,Dusty Johnson,REP,19
+Corson,Lincoln Precinct,U.S. House,1,Sheryl Johnson,DEM,88
+Corson,Lincoln Precinct,U.S. House,1,Dusty Johnson,REP,98
+Corson,Little Eagle Precinct,U.S. House,1,Sheryl Johnson,DEM,50
+Corson,Little Eagle Precinct,U.S. House,1,Dusty Johnson,REP,31
+Corson,McIntosh Precinct,U.S. House,1,Sheryl Johnson,DEM,29
+Corson,McIntosh Precinct,U.S. House,1,Dusty Johnson,REP,170
+Corson,McLaughlin Precinct,U.S. House,1,Sheryl Johnson,DEM,96
+Corson,McLaughlin Precinct,U.S. House,1,Dusty Johnson,REP,76
+Corson,Morristown Precinct,U.S. House,1,Sheryl Johnson,DEM,18
+Corson,Morristown Precinct,U.S. House,1,Dusty Johnson,REP,175
+Corson,Ridgeland Precinct,U.S. House,1,Sheryl Johnson,DEM,12
+Corson,Ridgeland Precinct,U.S. House,1,Dusty Johnson,REP,70
+Corson,Wakpala Precinct,U.S. House,1,Sheryl Johnson,DEM,80
+Corson,Wakpala Precinct,U.S. House,1,Dusty Johnson,REP,16
+Corson,Bullhead Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,49
+Corson,Bullhead Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Corson,Bullhead Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,3
+Corson,Kenel Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,41
+Corson,Kenel Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
+Corson,Kenel Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,14
+Corson,Lincoln Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,87
+Corson,Lincoln Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
+Corson,Lincoln Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,84
+Corson,Little Eagle Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,44
+Corson,Little Eagle Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Corson,Little Eagle Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,26
+Corson,McIntosh Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Corson,McIntosh Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Corson,McIntosh Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,159
+Corson,McLaughlin Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,87
+Corson,McLaughlin Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Corson,McLaughlin Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,66
+Corson,Morristown Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,14
+Corson,Morristown Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Corson,Morristown Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,167
+Corson,Ridgeland Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,10
+Corson,Ridgeland Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Corson,Ridgeland Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,64
+Corson,Wakpala Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,77
+Corson,Wakpala Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Corson,Wakpala Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,12
+Corson,Bullhead Precinct,State Senate,28,Dean Schrempp,DEM,48
+Corson,Bullhead Precinct,State Senate,28,Sam Marty,REP,3
+Corson,Bullhead Precinct,State Senate,28,Shane C. Farlee,IND,4
+Corson,Kenel Precinct,State Senate,28,Dean Schrempp,DEM,35
+Corson,Kenel Precinct,State Senate,28,Sam Marty,REP,13
+Corson,Kenel Precinct,State Senate,28,Shane C. Farlee,IND,8
+Corson,Lincoln Precinct,State Senate,28,Dean Schrempp,DEM,88
+Corson,Lincoln Precinct,State Senate,28,Sam Marty,REP,72
+Corson,Lincoln Precinct,State Senate,28,Shane C. Farlee,IND,16
+Corson,Little Eagle Precinct,State Senate,28,Dean Schrempp,DEM,39
+Corson,Little Eagle Precinct,State Senate,28,Sam Marty,REP,20
+Corson,Little Eagle Precinct,State Senate,28,Shane C. Farlee,IND,18
+Corson,McIntosh Precinct,State Senate,28,Dean Schrempp,DEM,38
+Corson,McIntosh Precinct,State Senate,28,Sam Marty,REP,132
+Corson,McIntosh Precinct,State Senate,28,Shane C. Farlee,IND,29
+Corson,McLaughlin Precinct,State Senate,28,Dean Schrempp,DEM,35
+Corson,McLaughlin Precinct,State Senate,28,Sam Marty,REP,54
+Corson,McLaughlin Precinct,State Senate,28,Shane C. Farlee,IND,23
+Corson,Morristown Precinct,State Senate,28,Dean Schrempp,DEM,17
+Corson,Morristown Precinct,State Senate,28,Sam Marty,REP,156
+Corson,Morristown Precinct,State Senate,28,Shane C. Farlee,IND,14
+Corson,Ridgeland Precinct,State Senate,28,Dean Schrempp,DEM,11
+Corson,Ridgeland Precinct,State Senate,28,Sam Marty,REP,49
+Corson,Ridgeland Precinct,State Senate,28,Shane C. Farlee,IND,20
+Corson,Wakpala Precinct,State Senate,28,Dean Schrempp,DEM,78
+Corson,Wakpala Precinct,State Senate,28,Sam Marty,REP,9
+Corson,Wakpala Precinct,State Senate,28,Shane C. Farlee,IND,7
+Corson,Bullhead Precinct,State House,28A,Carl J. Petersen,DEM,52
+Corson,Bullhead Precinct,State House,28A,Dana Hunt,REP,3
+Corson,Kenel Precinct,State House,28A,Carl J. Petersen,DEM,42
+Corson,Kenel Precinct,State House,28A,Dana Hunt,REP,16
+Corson,Lincoln Precinct,State House,28A,Carl J. Petersen,DEM,93
+Corson,Lincoln Precinct,State House,28A,Dana Hunt,REP,87
+Corson,Little Eagle Precinct,State House,28A,Carl J. Petersen,DEM,49
+Corson,Little Eagle Precinct,State House,28A,Dana Hunt,REP,28
+Corson,McIntosh Precinct,State House,28A,Carl J. Petersen,DEM,28
+Corson,McIntosh Precinct,State House,28A,Dana Hunt,REP,172
+Corson,McLaughlin Precinct,State House,28A,Carl J. Petersen,DEM,88
+Corson,McLaughlin Precinct,State House,28A,Dana Hunt,REP,76
+Corson,Morristown Precinct,State House,28A,Carl J. Petersen,DEM,12
+Corson,Morristown Precinct,State House,28A,Dana Hunt,REP,180
+Corson,Ridgeland Precinct,State House,28A,Carl J. Petersen,DEM,14
+Corson,Ridgeland Precinct,State House,28A,Dana Hunt,REP,69
+Corson,Wakpala Precinct,State House,28A,Carl J. Petersen,DEM,84
+Corson,Wakpala Precinct,State House,28A,Dana Hunt,REP,12
+Corson,Lincoln Precinct,County Commissioner,2,Darren Bauer,IND,21
+Corson,Lincoln Precinct,County Commissioner,2,Joshua Schmeichel,IND,82
+Corson,McIntosh Precinct,County Commissioner,2,Darren Bauer,IND,51
+Corson,McIntosh Precinct,County Commissioner,2,Joshua Schmeichel,IND,45
+Corson,Bullhead Precinct,Supreme Court Retention,5,Scott P. Myren,,34
+Corson,Bullhead Precinct,Supreme Court Retention,5,No,,14
+Corson,Kenel Precinct,Supreme Court Retention,5,Scott P. Myren,,26
+Corson,Kenel Precinct,Supreme Court Retention,5,No,,26
+Corson,Lincoln Precinct,Supreme Court Retention,5,Scott P. Myren,,100
+Corson,Lincoln Precinct,Supreme Court Retention,5,No,,71
+Corson,Little Eagle Precinct,Supreme Court Retention,5,Scott P. Myren,,45
+Corson,Little Eagle Precinct,Supreme Court Retention,5,No,,33
+Corson,McIntosh Precinct,Supreme Court Retention,5,Scott P. Myren,,133
+Corson,McIntosh Precinct,Supreme Court Retention,5,No,,39
+Corson,McLaughlin Precinct,Supreme Court Retention,5,Scott P. Myren,,89
+Corson,McLaughlin Precinct,Supreme Court Retention,5,No,,62
+Corson,Morristown Precinct,Supreme Court Retention,5,Scott P. Myren,,137
+Corson,Morristown Precinct,Supreme Court Retention,5,No,,31
+Corson,Ridgeland Precinct,Supreme Court Retention,5,Scott P. Myren,,45
+Corson,Ridgeland Precinct,Supreme Court Retention,5,No,,23
+Corson,Wakpala Precinct,Supreme Court Retention,5,Scott P. Myren,,46
+Corson,Wakpala Precinct,Supreme Court Retention,5,No,,45
+Corson,Bullhead Precinct,Constitutional Amendment E,,Yes,,31
+Corson,Bullhead Precinct,Constitutional Amendment E,,No,,23
+Corson,Bullhead Precinct,Constitutional Amendment F,,Yes,,28
+Corson,Bullhead Precinct,Constitutional Amendment F,,No,,26
+Corson,Bullhead Precinct,Constitutional Amendment G,,Yes,,31
+Corson,Bullhead Precinct,Constitutional Amendment G,,No,,22
+Corson,Bullhead Precinct,Constitutional Amendment H,,Yes,,20
+Corson,Bullhead Precinct,Constitutional Amendment H,,No,,30
+Corson,Kenel Precinct,Constitutional Amendment E,,Yes,,27
+Corson,Kenel Precinct,Constitutional Amendment E,,No,,33
+Corson,Kenel Precinct,Constitutional Amendment F,,Yes,,28
+Corson,Kenel Precinct,Constitutional Amendment F,,No,,32
+Corson,Kenel Precinct,Constitutional Amendment G,,Yes,,27
+Corson,Kenel Precinct,Constitutional Amendment G,,No,,32
+Corson,Kenel Precinct,Constitutional Amendment H,,Yes,,21
+Corson,Kenel Precinct,Constitutional Amendment H,,No,,37
+Corson,Lincoln Precinct,Constitutional Amendment E,,Yes,,83
+Corson,Lincoln Precinct,Constitutional Amendment E,,No,,106
+Corson,Lincoln Precinct,Constitutional Amendment F,,Yes,,97
+Corson,Lincoln Precinct,Constitutional Amendment F,,No,,91
+Corson,Lincoln Precinct,Constitutional Amendment G,,Yes,,31
+Corson,Lincoln Precinct,Constitutional Amendment G,,No,,108
+Corson,Lincoln Precinct,Constitutional Amendment H,,Yes,,56
+Corson,Lincoln Precinct,Constitutional Amendment H,,No,,120
+Corson,Little Eagle Precinct,Constitutional Amendment E,,Yes,,30
+Corson,Little Eagle Precinct,Constitutional Amendment E,,No,,52
+Corson,Little Eagle Precinct,Constitutional Amendment F,,Yes,,45
+Corson,Little Eagle Precinct,Constitutional Amendment F,,No,,38
+Corson,Little Eagle Precinct,Constitutional Amendment G,,Yes,,38
+Corson,Little Eagle Precinct,Constitutional Amendment G,,No,,43
+Corson,Little Eagle Precinct,Constitutional Amendment H,,Yes,,24
+Corson,Little Eagle Precinct,Constitutional Amendment H,,No,,57
+Corson,McIntosh Precinct,Constitutional Amendment E,,Yes,,49
+Corson,McIntosh Precinct,Constitutional Amendment E,,No,,149
+Corson,McIntosh Precinct,Constitutional Amendment F,,Yes,,122
+Corson,McIntosh Precinct,Constitutional Amendment F,,No,,77
+Corson,McIntosh Precinct,Constitutional Amendment G,,Yes,,48
+Corson,McIntosh Precinct,Constitutional Amendment G,,No,,150
+Corson,McIntosh Precinct,Constitutional Amendment H,,Yes,,36
+Corson,McIntosh Precinct,Constitutional Amendment H,,No,,163
+Corson,McLaughlin Precinct,Constitutional Amendment E,,Yes,,91
+Corson,McLaughlin Precinct,Constitutional Amendment E,,No,,77
+Corson,McLaughlin Precinct,Constitutional Amendment F,,Yes,,91
+Corson,McLaughlin Precinct,Constitutional Amendment F,,No,,94
+Corson,McLaughlin Precinct,Constitutional Amendment G,,Yes,,67
+Corson,McLaughlin Precinct,Constitutional Amendment G,,No,,94
+Corson,McLaughlin Precinct,Constitutional Amendment H,,Yes,,64
+Corson,McLaughlin Precinct,Constitutional Amendment H,,No,,105
+Corson,Morristown Precinct,Constitutional Amendment E,,Yes,,39
+Corson,Morristown Precinct,Constitutional Amendment E,,No,,157
+Corson,Morristown Precinct,Constitutional Amendment F,,Yes,,120
+Corson,Morristown Precinct,Constitutional Amendment F,,No,,74
+Corson,Morristown Precinct,Constitutional Amendment G,,Yes,,27
+Corson,Morristown Precinct,Constitutional Amendment G,,No,,170
+Corson,Morristown Precinct,Constitutional Amendment H,,Yes,,26
+Corson,Morristown Precinct,Constitutional Amendment H,,No,,168
+Corson,Ridgeland Precinct,Constitutional Amendment E,,Yes,,25
+Corson,Ridgeland Precinct,Constitutional Amendment E,,No,,56
+Corson,Ridgeland Precinct,Constitutional Amendment F,,Yes,,51
+Corson,Ridgeland Precinct,Constitutional Amendment F,,No,,73
+Corson,Ridgeland Precinct,Constitutional Amendment G,,Yes,,21
+Corson,Ridgeland Precinct,Constitutional Amendment G,,No,,62
+Corson,Ridgeland Precinct,Constitutional Amendment H,,Yes,,24
+Corson,Ridgeland Precinct,Constitutional Amendment H,,No,,59
+Corson,Wakpala Precinct,Constitutional Amendment E,,Yes,,55
+Corson,Wakpala Precinct,Constitutional Amendment E,,No,,41
+Corson,Wakpala Precinct,Constitutional Amendment F,,Yes,,44
+Corson,Wakpala Precinct,Constitutional Amendment F,,No,,52
+Corson,Wakpala Precinct,Constitutional Amendment G,,Yes,,51
+Corson,Wakpala Precinct,Constitutional Amendment G,,No,,45
+Corson,Wakpala Precinct,Constitutional Amendment H,,Yes,,29
+Corson,Wakpala Precinct,Constitutional Amendment H,,No,,63
+Corson,Bullhead Precinct,Initiated Measure 28,,Yes,,33
+Corson,Bullhead Precinct,Initiated Measure 28,,No,,19
+Corson,Bullhead Precinct,Initiated Measure 29,,Yes,,38
+Corson,Bullhead Precinct,Initiated Measure 29,,No,,15
+Corson,Bullhead Precinct,Referred Law 21,,Yes,,31
+Corson,Bullhead Precinct,Referred Law 21,,No,,19
+Corson,Kenel Precinct,Initiated Measure 28,,Yes,,26
+Corson,Kenel Precinct,Initiated Measure 28,,No,,33
+Corson,Kenel Precinct,Initiated Measure 29,,Yes,,43
+Corson,Kenel Precinct,Initiated Measure 29,,No,,17
+Corson,Kenel Precinct,Referred Law 21,,Yes,,31
+Corson,Kenel Precinct,Referred Law 21,,No,,27
+Corson,Lincoln Precinct,Initiated Measure 28,,Yes,,80
+Corson,Lincoln Precinct,Initiated Measure 28,,No,,100
+Corson,Lincoln Precinct,Initiated Measure 29,,Yes,,83
+Corson,Lincoln Precinct,Initiated Measure 29,,No,,75
+Corson,Lincoln Precinct,Referred Law 21,,Yes,,75
+Corson,Lincoln Precinct,Referred Law 21,,No,,104
+Corson,Little Eagle Precinct,Initiated Measure 28,,Yes,,40
+Corson,Little Eagle Precinct,Initiated Measure 28,,No,,42
+Corson,Little Eagle Precinct,Initiated Measure 29,,Yes,,47
+Corson,Little Eagle Precinct,Initiated Measure 29,,No,,35
+Corson,Little Eagle Precinct,Referred Law 21,,Yes,,35
+Corson,Little Eagle Precinct,Referred Law 21,,No,,47
+Corson,McIntosh Precinct,Initiated Measure 28,,Yes,,56
+Corson,McIntosh Precinct,Initiated Measure 28,,No,,41
+Corson,McIntosh Precinct,Initiated Measure 29,,Yes,,51
+Corson,McIntosh Precinct,Initiated Measure 29,,No,,148
+Corson,McIntosh Precinct,Referred Law 21,,Yes,,56
+Corson,McIntosh Precinct,Referred Law 21,,No,,139
+Corson,McLaughlin Precinct,Initiated Measure 28,,Yes,,80
+Corson,McLaughlin Precinct,Initiated Measure 28,,No,,90
+Corson,McLaughlin Precinct,Initiated Measure 29,,Yes,,109
+Corson,McLaughlin Precinct,Initiated Measure 29,,No,,64
+Corson,McLaughlin Precinct,Referred Law 21,,Yes,,82
+Corson,McLaughlin Precinct,Referred Law 21,,No,,88
+Corson,Morristown Precinct,Initiated Measure 28,,Yes,,37
+Corson,Morristown Precinct,Initiated Measure 28,,No,,159
+Corson,Morristown Precinct,Initiated Measure 29,,Yes,,29
+Corson,Morristown Precinct,Initiated Measure 29,,No,,169
+Corson,Morristown Precinct,Referred Law 21,,Yes,,35
+Corson,Morristown Precinct,Referred Law 21,,No,,157
+Corson,Ridgeland Precinct,Initiated Measure 28,,Yes,,15
+Corson,Ridgeland Precinct,Initiated Measure 28,,No,,67
+Corson,Ridgeland Precinct,Initiated Measure 29,,Yes,,20
+Corson,Ridgeland Precinct,Initiated Measure 29,,No,,63
+Corson,Ridgeland Precinct,Referred Law 21,,Yes,,24
+Corson,Ridgeland Precinct,Referred Law 21,,No,,57
+Corson,Wakpala Precinct,Initiated Measure 28,,Yes,,37
+Corson,Wakpala Precinct,Initiated Measure 28,,No,,57
+Corson,Wakpala Precinct,Initiated Measure 29,,Yes,,75
+Corson,Wakpala Precinct,Initiated Measure 29,,No,,22
+Corson,Wakpala Precinct,Referred Law 21,,Yes,,45
+Corson,Wakpala Precinct,Referred Law 21,,No,,50
