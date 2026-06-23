@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """
-Parse South Dakota 2024 general election canvass PDFs (scanned images) into
-OpenElections precinct CSV format using a vision LLM.
+Parse South Dakota 2024 general election canvass PDFs into OpenElections precinct
+CSV format using a vision LLM.
+
+The source PDFs are scanned images carrying an embedded OCR text layer that is too
+unreliable for vote digits (e.g. 351 -> "3s1", 1,146 -> "1,L46"), so vote counts are
+read from the page image by a vision model rather than from the text layer. Pages are
+rendered with natural-pdf (pypdfium2, no poppler) and cropped to the detected table
+region via layout analysis before being sent to the model.
 
 Usage:
     uv run scripts/parse_2024_canvass.py <path/to/file.pdf> [--model gpt-4o] [--cache-dir /tmp/sd_cache]
@@ -10,16 +16,25 @@ Outputs per-county CSVs to 2024/counties/
 """
 
 import argparse
+import contextlib
 import csv
 import json
+import os
 import re
 import sys
+import tempfile
+import traceback
+import urllib.parse
 import urllib.request
 from pathlib import Path
+from typing import Optional
 
 import llm
 from json_repair import repair_json
-from pdf2image import convert_from_path
+from natural_pdf import PDF
+
+# DPI used when rasterizing PDF pages for the vision model.
+RENDER_DPI = 200
 
 GITHUB_RAW_BASE = (
     "https://github.com/openelections/openelections-sources-sd/raw/master/2024/general"
@@ -91,23 +106,34 @@ def download_pdf(filename: str, dest_dir: Path, subdir: str = "general") -> Path
         print(f"  PDF cached: {dest}")
         return dest
     base = GITHUB_RAW_BASE.rsplit("/", 1)[0]  # strip "general" suffix
-    url = f"{base}/{subdir}/{urllib.request.quote(filename)}"
+    url = f"{base}/{subdir}/{urllib.parse.quote(filename)}"
     print(f"  Downloading {filename} from GitHub...")
-    urllib.request.urlretrieve(url, dest)
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    # Download to a temp file and atomically rename, so an interrupted transfer
+    # never leaves a truncated PDF that later looks like a valid cache hit.
+    fd, tmp_name = tempfile.mkstemp(dir=str(dest_dir), suffix=".part")
+    os.close(fd)
+    tmp_path = Path(tmp_name)
+    try:
+        urllib.request.urlretrieve(url, tmp_path)
+        os.replace(tmp_path, dest)
+    except BaseException:
+        tmp_path.unlink(missing_ok=True)
+        raise
     print(f"  Saved to {dest}")
     return dest
 
-PROMPT = """This is a page (or pair of pages) from a South Dakota 2024 general election official canvass document.
+PROMPT = """This is one page from a South Dakota 2024 general election official canvass document.
 The table has precincts as columns and candidates as rows, grouped by office/contest.
 The county name appears in the page header.
 
-If TWO images are provided, the FIRST image is the PREVIOUS page. Use it only for county name
-context if the current page does not show a county name in its header.
-If ONE image is provided, it is the current page.
+Extract only what is visible on THIS page. If the page header does not show a county name,
+a "CONTEXT" note may appear below telling you which county the previous page belonged to;
+use that county for the rows on this page.
 
 Extract all election results and return a JSON array. Each element must have:
 - "county": the county name from the page header (title case, e.g. "Aurora", "Clark").
-  If the current page has no county name header, use the county name from the previous page.
+  If the current page has no county name header, use the county name from the CONTEXT note.
 - "precinct": the precinct name or number as a string (e.g. "1", "2", "Huron 1")
 - "office": contest name normalized to title case (e.g. "President", "U.S. Senate",
   "U.S. House", "Governor", "State Senate", "State House", "Attorney General",
@@ -166,9 +192,30 @@ OFFICE_MAP = {
     "STATE HOUSE": "State House",
 }
 
+# Ballot measures: keep the canonical short label and drop the verbose description
+# some models echo (e.g. "Constitutional Amendment E: An Amendment To The South Dakota
+# Constitution Updating Gender References..."). Each pattern captures the identifier
+# (amendment letter, or measure/law number) appended to a fixed label.
+_BALLOT_MEASURES = [
+    (re.compile(r"\bconstitutional\s+amendment\s+([A-Za-z])\b", re.IGNORECASE),
+     "Constitutional Amendment"),
+    (re.compile(r"\binitiated\s+measure\s+(\d+)\b", re.IGNORECASE), "Initiated Measure"),
+    (re.compile(r"\breferred\s+law\s+(\d+)\b", re.IGNORECASE), "Referred Law"),
+]
+
+# 2024 SD has a single Supreme Court retention question (Justice Seat 5). Models read the
+# choice as a bare "Yes"/"No"; the canvass labels each choice with the justice's name.
+SUPREME_COURT_JUSTICE = "Scott P. Myren"
+
 
 def normalize_office(office: str, district: str) -> tuple:
     """Normalize office name and pull any embedded district number."""
+    # Ballot measures normalize to a short canonical label regardless of trailing prose.
+    for pattern, label in _BALLOT_MEASURES:
+        m = pattern.search(office)
+        if m:
+            return f"{label} {m.group(1).upper()}", district
+
     if not district:
         m = re.search(r"district\s+(\w+)", office, re.IGNORECASE)
         if m:
@@ -189,6 +236,21 @@ def normalize_office(office: str, district: str) -> tuple:
             return normalized, district
 
     return clean.strip(), district
+
+
+def normalize_candidate(candidate: str, office: str) -> str:
+    """Apply office-specific candidate fixups.
+
+    For Supreme Court Retention, models emit a bare "Yes"/"No"; the canvass labels each
+    choice with the justice's name (e.g. "Scott P. Myren - Yes"). Anything already labeled
+    is left untouched.
+    """
+    cand = candidate.strip()
+    if office == "Supreme Court Retention":
+        m = re.fullmatch(r"(yes|no)", cand, re.IGNORECASE)
+        if m:
+            return f"{SUPREME_COURT_JUSTICE} - {m.group(1).capitalize()}"
+    return cand
 
 
 def normalize_precinct(precinct: str) -> str:
@@ -233,19 +295,79 @@ def extract_json(text: str) -> list:
     return json.loads(repaired)
 
 
-def extract_page_records(model, page_img_path: Path, cache_file: Path, prev_img_path: Path = None) -> list:
-    """Return parsed records for one page, using cache if available."""
+def model_cache_slug(model_name: str) -> str:
+    """Filesystem-safe slug for a model name, so caches from different models don't collide."""
+    return re.sub(r"[^A-Za-z0-9]+", "-", model_name).strip("-")
+
+
+def crop_table_image(page, dpi: int = RENDER_DPI):
+    """Render a page to a PIL image, cropped to the detected table region(s).
+
+    Runs layout detection and crops to the union bounding box of all detected regions
+    (table plus its title/header, which carries the county name), trimming the large
+    blank margins that dominate these canvass pages. Pages with no detected table
+    (cover/certificate pages) fall back to the full-page render.
+    """
+    # analyze_layout() prints per-page YOLO progress ("image 1/1 ... Speed:") to stdout;
+    # swallow it so it doesn't drown out the script's own progress output.
+    with open(os.devnull, "w") as devnull, contextlib.redirect_stdout(devnull):
+        regions = page.analyze_layout()
+    full = page.render(resolution=dpi)
+    tables = [r for r in regions if getattr(r, "type", "") == "table"]
+    if not tables:
+        return full
+
+    scale = dpi / 72.0  # PDF points -> rendered pixels
+    margin = 10  # points of padding around the detected content
+    left = max(0, min(r.bbox[0] for r in regions) - margin)
+    top = max(0, min(r.bbox[1] for r in regions) - margin)
+    right = min(page.width, max(r.bbox[2] for r in regions) + margin)
+    bottom = min(page.height, max(r.bbox[3] for r in regions) + margin)
+    return full.crop((left * scale, top * scale, right * scale, bottom * scale))
+
+
+def render_pages(pdf: PDF, indices: range, cache_path: Path, pdf_stem: str,
+                 dpi: int = RENDER_DPI) -> dict:
+    """Render the requested page indices to table-cropped PNGs, reusing any already on disk.
+
+    Returns {page_index: image_path}. Layout detection runs only for pages whose image
+    is not already cached, so restricting with --pages avoids work on the rest of the PDF.
+    """
+    paths = {i: cache_path / f"{pdf_stem}_page{i}.png" for i in indices}
+    missing = [i for i, p in paths.items() if not p.exists()]
+    if missing:
+        print(f"  Rendering {len(missing)} page(s) at {dpi} dpi (layout-cropped)...")
+        for i in missing:
+            img = crop_table_image(pdf.pages[i], dpi)
+            img.save(str(paths[i]))
+    return paths
+
+
+def extract_page_records(model, page_img_path: Path, cache_file: Path, prompt: str = PROMPT,
+                         prev_img_path: Optional[Path] = None,
+                         prev_county: Optional[str] = None) -> list:
+    """Return parsed records for one page, using cache if available.
+
+    County context is supplied as TEXT (prev_county) rather than as an extra image: feeding
+    the previous page as an image made the model re-extract it with inconsistent numbers.
+    prev_img_path is retained only for the county-totals path, where the previous page is
+    needed for visual column-header continuation.
+    """
     if cache_file.exists():
-        print(f"    (cached)")
+        print("    (cached)")
         with open(cache_file) as f:
             return json.load(f)
+
+    if prev_county:
+        prompt = (f"{prompt}\n\nCONTEXT: The previous page belonged to {prev_county} County. "
+                  f"If THIS page's header shows no county name, its rows belong to {prev_county}.")
 
     attachments = []
     if prev_img_path is not None:
         attachments.append(llm.Attachment(path=str(prev_img_path)))
     attachments.append(llm.Attachment(path=str(page_img_path)))
 
-    response = model.prompt(PROMPT, attachments=attachments)
+    response = model.prompt(prompt, attachments=attachments)
     text = response.text().strip()
 
     # Save raw response alongside cache for debugging
@@ -280,33 +402,36 @@ def process_pdf(pdf_path: str, model_name: str, cache_dir: str, output_dir: str,
     cache_path.mkdir(parents=True, exist_ok=True)
 
     model = llm.get_model(model_name)
+    model_slug = model_cache_slug(model_name)
 
-    print(f"Rendering pages from {pdf_path}...")
-    pages = convert_from_path(pdf_path, dpi=200)
-    print(f"  {len(pages)} page(s) found")
+    pdf = PDF(pdf_path)
+    total = len(pdf.pages)
+    print(f"{pdf_path}: {total} page(s)")
 
-    indices = parse_page_range(page_range, len(pages)) if page_range else range(len(pages))
+    indices = parse_page_range(page_range, total) if page_range else range(total)
     print(f"  Processing pages: {indices.start + 1}-{indices.stop}")
+
+    img_paths = render_pages(pdf, indices, cache_path, pdf_stem)
 
     valid_counties = VALID_COUNTIES.get(pdf_stem, set())
     all_records = []
-    prev_img_path = None
     last_valid_county = None
-    for i, page in [(i, pages[i]) for i in indices]:
-        img_path = cache_path / f"{pdf_stem}_page{i}.png"
-        cache_file = cache_path / f"{pdf_stem}_page{i}.json"
+    for i in indices:
+        img_path = img_paths[i]
+        cache_file = cache_path / f"{pdf_stem}_{model_slug}_page{i}.json"
 
-        if not img_path.exists():
-            page.save(str(img_path))
-
-        print(f"  Page {i + 1}/{len(pages)}: calling {model_name}...")
+        print(f"  Page {i + 1}/{total}: calling {model_name}...")
         try:
-            records = extract_page_records(model, img_path, cache_file, prev_img_path)
-        except (json.JSONDecodeError, Exception) as e:
+            records = extract_page_records(model, img_path, cache_file,
+                                           prev_county=last_valid_county)
+        except Exception as e:
+            # Keep the run resilient across a bad page, but log the full traceback so
+            # genuine bugs aren't silently swallowed as "empty page".
             raw_file = cache_file.with_suffix(".raw.txt")
             snippet = raw_file.read_text()[:200] if raw_file.exists() else "(no raw output)"
             print(f"    WARNING: failed to parse page {i + 1}: {e}")
             print(f"    Raw response snippet: {snippet}")
+            traceback.print_exc()
             records = []
 
         # County repair: if this page has no valid county, propagate last known good one
@@ -325,7 +450,6 @@ def process_pdf(pdf_path: str, model_name: str, cache_dir: str, output_dir: str,
 
         print(f"    -> {len(records)} rows")
         all_records.extend(records)
-        prev_img_path = img_path
 
     # Normalize and group by county
     by_county: dict = {}
@@ -340,7 +464,7 @@ def process_pdf(pdf_path: str, model_name: str, cache_dir: str, output_dir: str,
             "precinct": normalize_precinct(str(rec.get("precinct", "")).strip()),
             "office": office,
             "district": district,
-            "candidate": rec.get("candidate", "").strip(),
+            "candidate": normalize_candidate(rec.get("candidate", ""), office),
             "party": rec.get("party", "").strip().upper(),
             "votes": parse_votes(rec.get("votes", 0)),
         }
@@ -424,50 +548,36 @@ def process_county_totals_pdf(
     cache_path.mkdir(parents=True, exist_ok=True)
 
     model = llm.get_model(model_name)
+    model_slug = model_cache_slug(model_name)
 
-    print(f"Rendering pages from {pdf_path}...")
-    pages = convert_from_path(pdf_path, dpi=200)
-    print(f"  {len(pages)} page(s) found")
+    pdf = PDF(pdf_path)
+    total = len(pdf.pages)
+    print(f"{pdf_path}: {total} page(s)")
 
-    indices = parse_page_range(page_range, len(pages)) if page_range else range(len(pages))
+    indices = parse_page_range(page_range, total) if page_range else range(total)
     print(f"  Processing pages: {indices.start + 1}-{indices.stop}")
+
+    img_paths = render_pages(pdf, indices, cache_path, pdf_stem)
 
     all_records = []
     prev_img_path = None
     for i in indices:
-        page = pages[i]
-        img_path = cache_path / f"{pdf_stem}_page{i}.png"
-        cache_file = cache_path / f"{pdf_stem}_page{i}.json"
+        img_path = img_paths[i]
+        cache_file = cache_path / f"{pdf_stem}_{model_slug}_page{i}.json"
 
-        if not img_path.exists():
-            page.save(str(img_path))
-
-        print(f"  Page {i + 1}/{len(pages)}: calling {model_name}...")
+        print(f"  Page {i + 1}/{total}: calling {model_name}...")
         try:
-            if cache_file.exists():
-                print(f"    (cached)")
-                with open(cache_file) as f:
-                    records = json.load(f)
-            else:
-                attachments = []
-                if prev_img_path is not None:
-                    attachments.append(llm.Attachment(path=str(prev_img_path)))
-                attachments.append(llm.Attachment(path=str(img_path)))
-                response = model.prompt(
-                    COUNTY_PROMPT,
-                    attachments=attachments,
-                )
-                text = response.text().strip()
-                raw_file = cache_file.with_suffix(".raw.txt")
-                raw_file.write_text(text)
-                records = extract_json(text)
-                with open(cache_file, "w") as f:
-                    json.dump(records, f, indent=2)
-        except (json.JSONDecodeError, Exception) as e:
+            records = extract_page_records(
+                model, img_path, cache_file, prompt=COUNTY_PROMPT, prev_img_path=prev_img_path
+            )
+        except Exception as e:
+            # Keep the run resilient across a bad page, but log the full traceback so
+            # genuine bugs aren't silently swallowed as "empty page".
             raw_file = cache_file.with_suffix(".raw.txt")
             snippet = raw_file.read_text()[:200] if raw_file.exists() else "(no raw output)"
             print(f"    WARNING: failed to parse page {i + 1}: {e}")
             print(f"    Raw response snippet: {snippet}")
+            traceback.print_exc()
             records = []
 
         print(f"    -> {len(records)} rows")
@@ -486,7 +596,7 @@ def process_county_totals_pdf(
             "office": office,
             "district": district,
             "party": rec.get("party", "").strip().upper(),
-            "candidate": rec.get("candidate", "").strip(),
+            "candidate": normalize_candidate(rec.get("candidate", ""), office),
             "votes": parse_votes(rec.get("votes", 0)),
         })
 

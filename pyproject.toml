@@ -4,7 +4,9 @@ version = "0.1.0"
 requires-python = ">=3.9"
 dependencies = [
     "pandas",
-    "pdf2image",
     "llm",
     "json-repair",
+    "natural-pdf[ai]>=0.2.22",
+    "llm-anthropic>=0.20",
+    "llm-ollama>=0.15.1",
 ]
