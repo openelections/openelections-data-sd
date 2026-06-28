@@ -1,0 +1,267 @@
+county,precinct,office,district,candidate,party,votes
+Kingsbury,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,121
+Kingsbury,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,15
+Kingsbury,Absentee Precinct,U.S. Senate,,John R. Thune,REP,310
+Kingsbury,Arlington Precinct,U.S. Senate,,Brian L. Bengs,DEM,94
+Kingsbury,Arlington Precinct,U.S. Senate,,Tamara J Lesnar,LIB,26
+Kingsbury,Arlington Precinct,U.S. Senate,,John R. Thune,REP,379
+Kingsbury,Badger Precinct,U.S. Senate,,Brian L. Bengs,DEM,27
+Kingsbury,Badger Precinct,U.S. Senate,,Tamara J Lesnar,LIB,11
+Kingsbury,Badger Precinct,U.S. Senate,,John R. Thune,REP,198
+Kingsbury,De Smet Precinct,U.S. Senate,,Brian L. Bengs,DEM,110
+Kingsbury,De Smet Precinct,U.S. Senate,,Tamara J Lesnar,LIB,15
+Kingsbury,De Smet Precinct,U.S. Senate,,John R. Thune,REP,526
+Kingsbury,Iroquois Precinct,U.S. Senate,,Brian L. Bengs,DEM,21
+Kingsbury,Iroquois Precinct,U.S. Senate,,Tamara J Lesnar,LIB,4
+Kingsbury,Iroquois Precinct,U.S. Senate,,John R. Thune,REP,133
+Kingsbury,Lake Preston Precinct,U.S. Senate,,Brian L. Bengs,DEM,47
+Kingsbury,Lake Preston Precinct,U.S. Senate,,Tamara J Lesnar,LIB,11
+Kingsbury,Lake Preston Precinct,U.S. Senate,,John R. Thune,REP,312
+Kingsbury,Oldham Precinct,U.S. Senate,,Brian L. Bengs,DEM,21
+Kingsbury,Oldham Precinct,U.S. Senate,,Tamara J Lesnar,LIB,7
+Kingsbury,Oldham Precinct,U.S. Senate,,John R. Thune,REP,142
+Kingsbury,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,86
+Kingsbury,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,332
+Kingsbury,Arlington Precinct,U.S. House,1,Collin Duprel,LIB,71
+Kingsbury,Arlington Precinct,U.S. House,1,Dusty Johnson,REP,409
+Kingsbury,Badger Precinct,U.S. House,1,Collin Duprel,LIB,33
+Kingsbury,Badger Precinct,U.S. House,1,Dusty Johnson,REP,200
+Kingsbury,De Smet Precinct,U.S. House,1,Collin Duprel,LIB,101
+Kingsbury,De Smet Precinct,U.S. House,1,Dusty Johnson,REP,542
+Kingsbury,Iroquois Precinct,U.S. House,1,Collin Duprel,LIB,20
+Kingsbury,Iroquois Precinct,U.S. House,1,Dusty Johnson,REP,132
+Kingsbury,Lake Preston Precinct,U.S. House,1,Collin Duprel,LIB,54
+Kingsbury,Lake Preston Precinct,U.S. House,1,Dusty Johnson,REP,304
+Kingsbury,Oldham Precinct,U.S. House,1,Collin Duprel,LIB,25
+Kingsbury,Oldham Precinct,U.S. House,1,Dusty Johnson,REP,136
+Kingsbury,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,167
+Kingsbury,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Kingsbury,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,273
+Kingsbury,Arlington Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,154
+Kingsbury,Arlington Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Kingsbury,Arlington Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,334
+Kingsbury,Badger Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,43
+Kingsbury,Badger Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Kingsbury,Badger Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,185
+Kingsbury,De Smet Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,179
+Kingsbury,De Smet Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Kingsbury,De Smet Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,466
+Kingsbury,Iroquois Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,37
+Kingsbury,Iroquois Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Kingsbury,Iroquois Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,113
+Kingsbury,Lake Preston Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,74
+Kingsbury,Lake Preston Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Kingsbury,Lake Preston Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,291
+Kingsbury,Oldham Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,38
+Kingsbury,Oldham Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Kingsbury,Oldham Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,130
+Kingsbury,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,154
+Kingsbury,Absentee Precinct,Secretary of State,,Monae Johnson,REP,269
+Kingsbury,Arlington Precinct,Secretary of State,,Thomas A Cool,DEM,149
+Kingsbury,Arlington Precinct,Secretary of State,,Monae Johnson,REP,321
+Kingsbury,Badger Precinct,Secretary of State,,Thomas A Cool,DEM,53
+Kingsbury,Badger Precinct,Secretary of State,,Monae Johnson,REP,171
+Kingsbury,De Smet Precinct,Secretary of State,,Thomas A Cool,DEM,194
+Kingsbury,De Smet Precinct,Secretary of State,,Monae Johnson,REP,427
+Kingsbury,Iroquois Precinct,Secretary of State,,Thomas A Cool,DEM,40
+Kingsbury,Iroquois Precinct,Secretary of State,,Monae Johnson,REP,107
+Kingsbury,Lake Preston Precinct,Secretary of State,,Thomas A Cool,DEM,86
+Kingsbury,Lake Preston Precinct,Secretary of State,,Monae Johnson,REP,264
+Kingsbury,Oldham Precinct,Secretary of State,,Thomas A Cool,DEM,44
+Kingsbury,Oldham Precinct,Secretary of State,,Monae Johnson,REP,114
+Kingsbury,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,333
+Kingsbury,Arlington Precinct,Attorney General,,Marty J. Jackley,REP,408
+Kingsbury,Badger Precinct,Attorney General,,Marty J. Jackley,REP,197
+Kingsbury,De Smet Precinct,Attorney General,,Marty J. Jackley,REP,542
+Kingsbury,Iroquois Precinct,Attorney General,,Marty J. Jackley,REP,121
+Kingsbury,Lake Preston Precinct,Attorney General,,Marty J. Jackley,REP,311
+Kingsbury,Oldham Precinct,Attorney General,,Marty J. Jackley,REP,142
+Kingsbury,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,131
+Kingsbury,Absentee Precinct,State Auditor,,Rene Meyer,LIB,20
+Kingsbury,Absentee Precinct,State Auditor,,Richard Sattgast,REP,265
+Kingsbury,Arlington Precinct,State Auditor,,Stephanie Marty,DEM,133
+Kingsbury,Arlington Precinct,State Auditor,,Rene Meyer,LIB,18
+Kingsbury,Arlington Precinct,State Auditor,,Richard Sattgast,REP,314
+Kingsbury,Badger Precinct,State Auditor,,Stephanie Marty,DEM,35
+Kingsbury,Badger Precinct,State Auditor,,Rene Meyer,LIB,13
+Kingsbury,Badger Precinct,State Auditor,,Richard Sattgast,REP,177
+Kingsbury,De Smet Precinct,State Auditor,,Stephanie Marty,DEM,149
+Kingsbury,De Smet Precinct,State Auditor,,Rene Meyer,LIB,26
+Kingsbury,De Smet Precinct,State Auditor,,Richard Sattgast,REP,451
+Kingsbury,Iroquois Precinct,State Auditor,,Stephanie Marty,DEM,37
+Kingsbury,Iroquois Precinct,State Auditor,,Rene Meyer,LIB,5
+Kingsbury,Iroquois Precinct,State Auditor,,Richard Sattgast,REP,107
+Kingsbury,Lake Preston Precinct,State Auditor,,Stephanie Marty,DEM,71
+Kingsbury,Lake Preston Precinct,State Auditor,,Rene Meyer,LIB,8
+Kingsbury,Lake Preston Precinct,State Auditor,,Richard Sattgast,REP,262
+Kingsbury,Oldham Precinct,State Auditor,,Stephanie Marty,DEM,27
+Kingsbury,Oldham Precinct,State Auditor,,Rene Meyer,LIB,7
+Kingsbury,Oldham Precinct,State Auditor,,Richard Sattgast,REP,120
+Kingsbury,Absentee Precinct,State Treasurer,,John Cunningham,DEM,133
+Kingsbury,Absentee Precinct,State Treasurer,,Josh Haeder,REP,285
+Kingsbury,Arlington Precinct,State Treasurer,,John Cunningham,DEM,120
+Kingsbury,Arlington Precinct,State Treasurer,,Josh Haeder,REP,340
+Kingsbury,Badger Precinct,State Treasurer,,John Cunningham,DEM,42
+Kingsbury,Badger Precinct,State Treasurer,,Josh Haeder,REP,176
+Kingsbury,De Smet Precinct,State Treasurer,,John Cunningham,DEM,147
+Kingsbury,De Smet Precinct,State Treasurer,,Josh Haeder,REP,473
+Kingsbury,Iroquois Precinct,State Treasurer,,John Cunningham,DEM,34
+Kingsbury,Iroquois Precinct,State Treasurer,,Josh Haeder,REP,118
+Kingsbury,Lake Preston Precinct,State Treasurer,,John Cunningham,DEM,70
+Kingsbury,Lake Preston Precinct,State Treasurer,,Josh Haeder,REP,269
+Kingsbury,Oldham Precinct,State Treasurer,,John Cunningham,DEM,33
+Kingsbury,Oldham Precinct,State Treasurer,,Josh Haeder,REP,119
+Kingsbury,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,151
+Kingsbury,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,267
+Kingsbury,Arlington Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,129
+Kingsbury,Arlington Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,337
+Kingsbury,Badger Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,39
+Kingsbury,Badger Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,187
+Kingsbury,De Smet Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,155
+Kingsbury,De Smet Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,469
+Kingsbury,Iroquois Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Kingsbury,Iroquois Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,113
+Kingsbury,Lake Preston Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,79
+Kingsbury,Lake Preston Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,273
+Kingsbury,Oldham Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,30
+Kingsbury,Oldham Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,131
+Kingsbury,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,135
+Kingsbury,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,282
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,115
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Chris Nelson,REP,360
+Kingsbury,Badger Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Kingsbury,Badger Precinct,Public Utilities Commissioner,,Chris Nelson,REP,189
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,141
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Chris Nelson,REP,484
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Chris Nelson,REP,110
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Chris Nelson,REP,294
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,31
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Chris Nelson,REP,129
+Kingsbury,Absentee Precinct,State Senate,08,Casey Crabtree,REP,295
+Kingsbury,Arlington Precinct,State Senate,08,Casey Crabtree,REP,413
+Kingsbury,Badger Precinct,State Senate,08,Casey Crabtree,REP,196
+Kingsbury,De Smet Precinct,State Senate,08,Casey Crabtree,REP,496
+Kingsbury,Iroquois Precinct,State Senate,08,Casey Crabtree,REP,114
+Kingsbury,Lake Preston Precinct,State Senate,08,Casey Crabtree,REP,302
+Kingsbury,Oldham Precinct,State Senate,08,Casey Crabtree,REP,140
+Kingsbury,Absentee Precinct,State House,08,Tim Reisch,REP,235
+Kingsbury,Absentee Precinct,State House,08,John Mills,REP,199
+Kingsbury,Arlington Precinct,State House,08,Tim Reisch,REP,254
+Kingsbury,Arlington Precinct,State House,08,John Mills,REP,279
+Kingsbury,Badger Precinct,State House,08,Tim Reisch,REP,119
+Kingsbury,Badger Precinct,State House,08,John Mills,REP,144
+Kingsbury,De Smet Precinct,State House,08,Tim Reisch,REP,395
+Kingsbury,De Smet Precinct,State House,08,John Mills,REP,332
+Kingsbury,Iroquois Precinct,State House,08,Tim Reisch,REP,85
+Kingsbury,Iroquois Precinct,State House,08,John Mills,REP,90
+Kingsbury,Lake Preston Precinct,State House,08,Tim Reisch,REP,184
+Kingsbury,Lake Preston Precinct,State House,08,John Mills,REP,217
+Kingsbury,Oldham Precinct,State House,08,Tim Reisch,REP,97
+Kingsbury,Oldham Precinct,State House,08,John Mills,REP,88
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,195
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,230
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,101
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,308
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,78
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,172
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,69
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,183
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,234
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,99
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,296
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,74
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,166
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,68
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,179
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,233
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,101
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,305
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,86
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,168
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,68
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,188
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,252
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,101
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,317
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,85
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,173
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,71
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,106
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,124
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,117
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,155
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,56
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,57
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,195
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,185
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,51
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,67
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,62
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,145
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,38
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,37
+Kingsbury,Absentee Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,180
+Kingsbury,Arlington Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,231
+Kingsbury,Badger Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,98
+Kingsbury,De Smet Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,359
+Kingsbury,Iroquois Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,74
+Kingsbury,Lake Preston Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,169
+Kingsbury,Oldham Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,72
+Kingsbury,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,311
+Kingsbury,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,54
+Kingsbury,Arlington Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,352
+Kingsbury,Arlington Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
+Kingsbury,Badger Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,165
+Kingsbury,Badger Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Kingsbury,De Smet Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,489
+Kingsbury,De Smet Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,78
+Kingsbury,Iroquois Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,118
+Kingsbury,Iroquois Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,19
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,255
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Kingsbury,Oldham Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,117
+Kingsbury,Oldham Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Kingsbury,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,304
+Kingsbury,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,59
+Kingsbury,Arlington Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,357
+Kingsbury,Arlington Precinct,Supreme Court Retention,2,Mark E. Salter - No,,52
+Kingsbury,Badger Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,164
+Kingsbury,Badger Precinct,Supreme Court Retention,2,Mark E. Salter - No,,28
+Kingsbury,De Smet Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,480
+Kingsbury,De Smet Precinct,Supreme Court Retention,2,Mark E. Salter - No,,82
+Kingsbury,Iroquois Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,112
+Kingsbury,Iroquois Precinct,Supreme Court Retention,2,Mark E. Salter - No,,22
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,265
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,2,Mark E. Salter - No,,40
+Kingsbury,Oldham Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,118
+Kingsbury,Oldham Precinct,Supreme Court Retention,2,Mark E. Salter - No,,17
+Kingsbury,Absentee Precinct,Constitutional Amendment D,,Yes,,240
+Kingsbury,Absentee Precinct,Constitutional Amendment D,,No,,194
+Kingsbury,Arlington Precinct,Constitutional Amendment D,,Yes,,235
+Kingsbury,Arlington Precinct,Constitutional Amendment D,,No,,252
+Kingsbury,Badger Precinct,Constitutional Amendment D,,Yes,,90
+Kingsbury,Badger Precinct,Constitutional Amendment D,,No,,136
+Kingsbury,De Smet Precinct,Constitutional Amendment D,,Yes,,302
+Kingsbury,De Smet Precinct,Constitutional Amendment D,,No,,336
+Kingsbury,Iroquois Precinct,Constitutional Amendment D,,Yes,,71
+Kingsbury,Iroquois Precinct,Constitutional Amendment D,,No,,79
+Kingsbury,Lake Preston Precinct,Constitutional Amendment D,,Yes,,165
+Kingsbury,Lake Preston Precinct,Constitutional Amendment D,,No,,201
+Kingsbury,Oldham Precinct,Constitutional Amendment D,,Yes,,70
+Kingsbury,Oldham Precinct,Constitutional Amendment D,,No,,90
+Kingsbury,Absentee Precinct,Initiated Measure 27,,Yes,,173
+Kingsbury,Absentee Precinct,Initiated Measure 27,,No,,265
+Kingsbury,Arlington Precinct,Initiated Measure 27,,Yes,,208
+Kingsbury,Arlington Precinct,Initiated Measure 27,,No,,285
+Kingsbury,Badger Precinct,Initiated Measure 27,,Yes,,74
+Kingsbury,Badger Precinct,Initiated Measure 27,,No,,163
+Kingsbury,De Smet Precinct,Initiated Measure 27,,Yes,,243
+Kingsbury,De Smet Precinct,Initiated Measure 27,,No,,410
+Kingsbury,Iroquois Precinct,Initiated Measure 27,,Yes,,48
+Kingsbury,Iroquois Precinct,Initiated Measure 27,,No,,108
+Kingsbury,Lake Preston Precinct,Initiated Measure 27,,Yes,,140
+Kingsbury,Lake Preston Precinct,Initiated Measure 27,,No,,236
+Kingsbury,Oldham Precinct,Initiated Measure 27,,Yes,,44
+Kingsbury,Oldham Precinct,Initiated Measure 27,,No,,121

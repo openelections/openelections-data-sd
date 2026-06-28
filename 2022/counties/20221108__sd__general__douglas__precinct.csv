@@ -1,0 +1,229 @@
+county,precinct,office,district,candidate,party,votes
+Douglas,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,41
+Douglas,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,8
+Douglas,Absentee Precinct,U.S. Senate,,John R. Thune,REP,198
+Douglas,1,U.S. Senate,,Brian L. Bengs,DEM,11
+Douglas,1,U.S. Senate,,Tamara J Lesnar,LIB,4
+Douglas,1,U.S. Senate,,John R. Thune,REP,265
+Douglas,2,U.S. Senate,,Brian L. Bengs,DEM,19
+Douglas,2,U.S. Senate,,Tamara J Lesnar,LIB,5
+Douglas,2,U.S. Senate,,John R. Thune,REP,249
+Douglas,3,U.S. Senate,,Brian L. Bengs,DEM,16
+Douglas,3,U.S. Senate,,Tamara J Lesnar,LIB,6
+Douglas,3,U.S. Senate,,John R. Thune,REP,185
+Douglas,4,U.S. Senate,,Brian L. Bengs,DEM,25
+Douglas,4,U.S. Senate,,Tamara J Lesnar,LIB,13
+Douglas,4,U.S. Senate,,John R. Thune,REP,181
+Douglas,5,U.S. Senate,,Brian L. Bengs,DEM,5
+Douglas,5,U.S. Senate,,Tamara J Lesnar,LIB,6
+Douglas,5,U.S. Senate,,John R. Thune,REP,230
+Douglas,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,41
+Douglas,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,197
+Douglas,1,U.S. House,1,Collin Duprel,LIB,21
+Douglas,1,U.S. House,1,Dusty Johnson,REP,251
+Douglas,2,U.S. House,1,Collin Duprel,LIB,19
+Douglas,2,U.S. House,1,Dusty Johnson,REP,247
+Douglas,3,U.S. House,1,Collin Duprel,LIB,25
+Douglas,3,U.S. House,1,Dusty Johnson,REP,180
+Douglas,4,U.S. House,1,Collin Duprel,LIB,29
+Douglas,4,U.S. House,1,Dusty Johnson,REP,184
+Douglas,5,U.S. House,1,Collin Duprel,LIB,11
+Douglas,5,U.S. House,1,Dusty Johnson,REP,220
+Douglas,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Douglas,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Douglas,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,179
+Douglas,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,20
+Douglas,1,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Douglas,1,Governor,,Kristi Noem and Larry Rhoden,REP,261
+Douglas,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Douglas,2,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Douglas,2,Governor,,Kristi Noem and Larry Rhoden,REP,229
+Douglas,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Douglas,3,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Douglas,3,Governor,,Kristi Noem and Larry Rhoden,REP,184
+Douglas,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,38
+Douglas,4,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Douglas,4,Governor,,Kristi Noem and Larry Rhoden,REP,184
+Douglas,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,7
+Douglas,5,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Douglas,5,Governor,,Kristi Noem and Larry Rhoden,REP,235
+Douglas,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,55
+Douglas,Absentee Precinct,Secretary of State,,Monae Johnson,REP,178
+Douglas,1,Secretary of State,,Thomas A Cool,DEM,16
+Douglas,1,Secretary of State,,Monae Johnson,REP,249
+Douglas,2,Secretary of State,,Thomas A Cool,DEM,52
+Douglas,2,Secretary of State,,Monae Johnson,REP,208
+Douglas,3,Secretary of State,,Thomas A Cool,DEM,28
+Douglas,3,Secretary of State,,Monae Johnson,REP,174
+Douglas,4,Secretary of State,,Thomas A Cool,DEM,45
+Douglas,4,Secretary of State,,Monae Johnson,REP,162
+Douglas,5,Secretary of State,,Thomas A Cool,DEM,11
+Douglas,5,Secretary of State,,Monae Johnson,REP,218
+Douglas,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,196
+Douglas,1,Attorney General,,Marty J. Jackley,REP,237
+Douglas,2,Attorney General,,Marty J. Jackley,REP,230
+Douglas,3,Attorney General,,Marty J. Jackley,REP,164
+Douglas,4,Attorney General,,Marty J. Jackley,REP,176
+Douglas,5,Attorney General,,Marty J. Jackley,REP,197
+Douglas,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,44
+Douglas,Absentee Precinct,State Auditor,,Rene Meyer,LIB,11
+Douglas,Absentee Precinct,State Auditor,,Richard Sattgast,REP,174
+Douglas,1,State Auditor,,Stephanie Marty,DEM,12
+Douglas,1,State Auditor,,Rene Meyer,LIB,1
+Douglas,1,State Auditor,,Richard Sattgast,REP,249
+Douglas,2,State Auditor,,Stephanie Marty,DEM,38
+Douglas,2,State Auditor,,Rene Meyer,LIB,6
+Douglas,2,State Auditor,,Richard Sattgast,REP,209
+Douglas,3,State Auditor,,Stephanie Marty,DEM,21
+Douglas,3,State Auditor,,Rene Meyer,LIB,1
+Douglas,3,State Auditor,,Richard Sattgast,REP,176
+Douglas,4,State Auditor,,Stephanie Marty,DEM,38
+Douglas,4,State Auditor,,Rene Meyer,LIB,4
+Douglas,4,State Auditor,,Richard Sattgast,REP,168
+Douglas,5,State Auditor,,Stephanie Marty,DEM,12
+Douglas,5,State Auditor,,Rene Meyer,LIB,2
+Douglas,5,State Auditor,,Richard Sattgast,REP,209
+Douglas,Absentee Precinct,State Treasurer,,John Cunningham,DEM,46
+Douglas,Absentee Precinct,State Treasurer,,Josh Haeder,REP,186
+Douglas,1,State Treasurer,,John Cunningham,DEM,14
+Douglas,1,State Treasurer,,Josh Haeder,REP,248
+Douglas,2,State Treasurer,,John Cunningham,DEM,35
+Douglas,2,State Treasurer,,Josh Haeder,REP,219
+Douglas,3,State Treasurer,,John Cunningham,DEM,19
+Douglas,3,State Treasurer,,Josh Haeder,REP,177
+Douglas,4,State Treasurer,,John Cunningham,DEM,37
+Douglas,4,State Treasurer,,Josh Haeder,REP,167
+Douglas,5,State Treasurer,,John Cunningham,DEM,12
+Douglas,5,State Treasurer,,Josh Haeder,REP,213
+Douglas,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,44
+Douglas,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,182
+Douglas,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,12
+Douglas,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,246
+Douglas,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Douglas,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,218
+Douglas,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,22
+Douglas,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,169
+Douglas,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Douglas,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,172
+Douglas,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,8
+Douglas,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,217
+Douglas,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Douglas,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,192
+Douglas,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,10
+Douglas,1,Public Utilities Commissioner,,Chris Nelson,REP,260
+Douglas,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,22
+Douglas,2,Public Utilities Commissioner,,Chris Nelson,REP,240
+Douglas,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,16
+Douglas,3,Public Utilities Commissioner,,Chris Nelson,REP,185
+Douglas,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Douglas,4,Public Utilities Commissioner,,Chris Nelson,REP,187
+Douglas,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,8
+Douglas,5,Public Utilities Commissioner,,Chris Nelson,REP,216
+Douglas,Absentee Precinct,State Senate,21,Dan Andersson,DEM,48
+Douglas,Absentee Precinct,State Senate,21,Erin Tobin,REP,179
+Douglas,1,State Senate,21,Dan Andersson,DEM,10
+Douglas,1,State Senate,21,Erin Tobin,REP,261
+Douglas,2,State Senate,21,Dan Andersson,DEM,32
+Douglas,2,State Senate,21,Erin Tobin,REP,227
+Douglas,3,State Senate,21,Dan Andersson,DEM,21
+Douglas,3,State Senate,21,Erin Tobin,REP,179
+Douglas,4,State Senate,21,Dan Andersson,DEM,30
+Douglas,4,State Senate,21,Erin Tobin,REP,176
+Douglas,5,State Senate,21,Dan Andersson,DEM,7
+Douglas,5,State Senate,21,Erin Tobin,REP,217
+Douglas,Absentee Precinct,State House,21,Rocky Blare,REP,104
+Douglas,Absentee Precinct,State House,21,Marty Overweg,REP,187
+Douglas,1,State House,21,Rocky Blare,REP,131
+Douglas,1,State House,21,Marty Overweg,REP,256
+Douglas,2,State House,21,Rocky Blare,REP,103
+Douglas,2,State House,21,Marty Overweg,REP,245
+Douglas,3,State House,21,Rocky Blare,REP,80
+Douglas,3,State House,21,Marty Overweg,REP,165
+Douglas,4,State House,21,Rocky Blare,REP,76
+Douglas,4,State House,21,Marty Overweg,REP,165
+Douglas,5,State House,21,Rocky Blare,REP,92
+Douglas,5,State House,21,Marty Overweg,REP,213
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,109
+Douglas,1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,130
+Douglas,2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,121
+Douglas,3,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,77
+Douglas,4,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,99
+Douglas,5,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,109
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,108
+Douglas,1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,128
+Douglas,2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,111
+Douglas,3,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,74
+Douglas,4,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,92
+Douglas,5,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,105
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,130
+Douglas,1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,140
+Douglas,2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,120
+Douglas,3,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,92
+Douglas,4,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,118
+Douglas,5,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,115
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,113
+Douglas,1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,126
+Douglas,2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,112
+Douglas,3,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,73
+Douglas,4,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,95
+Douglas,5,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,103
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,112
+Douglas,1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,127
+Douglas,2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,111
+Douglas,3,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,72
+Douglas,4,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,96
+Douglas,5,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,105
+Douglas,Absentee Precinct,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,107
+Douglas,1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,128
+Douglas,2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,112
+Douglas,3,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,70
+Douglas,4,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,93
+Douglas,5,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,103
+Douglas,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,181
+Douglas,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,36
+Douglas,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,191
+Douglas,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,40
+Douglas,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,185
+Douglas,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,46
+Douglas,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,145
+Douglas,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Douglas,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,162
+Douglas,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Douglas,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,167
+Douglas,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Douglas,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,178
+Douglas,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,38
+Douglas,1,Supreme Court Retention,2,Mark E. Salter - Yes,,191
+Douglas,1,Supreme Court Retention,2,Mark E. Salter - No,,39
+Douglas,2,Supreme Court Retention,2,Mark E. Salter - Yes,,184
+Douglas,2,Supreme Court Retention,2,Mark E. Salter - No,,45
+Douglas,3,Supreme Court Retention,2,Mark E. Salter - Yes,,145
+Douglas,3,Supreme Court Retention,2,Mark E. Salter - No,,30
+Douglas,4,Supreme Court Retention,2,Mark E. Salter - Yes,,164
+Douglas,4,Supreme Court Retention,2,Mark E. Salter - No,,29
+Douglas,5,Supreme Court Retention,2,Mark E. Salter - Yes,,168
+Douglas,5,Supreme Court Retention,2,Mark E. Salter - No,,29
+Douglas,Absentee Precinct,Constitutional Amendment D,,Yes,,100
+Douglas,Absentee Precinct,Constitutional Amendment D,,No,,139
+Douglas,1,Constitutional Amendment D,,Yes,,61
+Douglas,1,Constitutional Amendment D,,No,,209
+Douglas,2,Constitutional Amendment D,,Yes,,95
+Douglas,2,Constitutional Amendment D,,No,,161
+Douglas,3,Constitutional Amendment D,,Yes,,69
+Douglas,3,Constitutional Amendment D,,No,,130
+Douglas,4,Constitutional Amendment D,,Yes,,83
+Douglas,4,Constitutional Amendment D,,No,,131
+Douglas,5,Constitutional Amendment D,,Yes,,41
+Douglas,5,Constitutional Amendment D,,No,,186
+Douglas,Absentee Precinct,Initiated Measure 27,,Yes,,58
+Douglas,Absentee Precinct,Initiated Measure 27,,No,,183
+Douglas,1,Initiated Measure 27,,Yes,,40
+Douglas,1,Initiated Measure 27,,No,,236
+Douglas,2,Initiated Measure 27,,Yes,,62
+Douglas,2,Initiated Measure 27,,No,,199
+Douglas,3,Initiated Measure 27,,Yes,,50
+Douglas,3,Initiated Measure 27,,No,,154
+Douglas,4,Initiated Measure 27,,Yes,,50
+Douglas,4,Initiated Measure 27,,No,,164
+Douglas,5,Initiated Measure 27,,Yes,,19
+Douglas,5,Initiated Measure 27,,No,,217

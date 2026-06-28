@@ -1,0 +1,495 @@
+county,precinct,office,district,candidate,party,votes
+Charles Mix,01,U.S. Senate,,Brian L. Bengs,DEM,85
+Charles Mix,01,U.S. Senate,,Tamara J Lesnar,LIB,17
+Charles Mix,01,U.S. Senate,,John R. Thune,REP,299
+Charles Mix,02,U.S. Senate,,Brian L. Bengs,DEM,37
+Charles Mix,02,U.S. Senate,,Tamara J Lesnar,LIB,4
+Charles Mix,02,U.S. Senate,,John R. Thune,REP,126
+Charles Mix,03,U.S. Senate,,Brian L. Bengs,DEM,156
+Charles Mix,03,U.S. Senate,,Tamara J Lesnar,LIB,21
+Charles Mix,03,U.S. Senate,,John R. Thune,REP,226
+Charles Mix,04,U.S. Senate,,Brian L. Bengs,DEM,64
+Charles Mix,04,U.S. Senate,,Tamara J Lesnar,LIB,4
+Charles Mix,04,U.S. Senate,,John R. Thune,REP,80
+Charles Mix,05,U.S. Senate,,Brian L. Bengs,DEM,70
+Charles Mix,05,U.S. Senate,,Tamara J Lesnar,LIB,9
+Charles Mix,05,U.S. Senate,,John R. Thune,REP,227
+Charles Mix,06,U.S. Senate,,Brian L. Bengs,DEM,72
+Charles Mix,06,U.S. Senate,,Tamara J Lesnar,LIB,8
+Charles Mix,06,U.S. Senate,,John R. Thune,REP,87
+Charles Mix,07,U.S. Senate,,Brian L. Bengs,DEM,28
+Charles Mix,07,U.S. Senate,,Tamara J Lesnar,LIB,2
+Charles Mix,07,U.S. Senate,,John R. Thune,REP,89
+Charles Mix,08,U.S. Senate,,Brian L. Bengs,DEM,17
+Charles Mix,08,U.S. Senate,,Tamara J Lesnar,LIB,4
+Charles Mix,08,U.S. Senate,,John R. Thune,REP,142
+Charles Mix,09,U.S. Senate,,Brian L. Bengs,DEM,35
+Charles Mix,09,U.S. Senate,,Tamara J Lesnar,LIB,8
+Charles Mix,09,U.S. Senate,,John R. Thune,REP,312
+Charles Mix,10,U.S. Senate,,Brian L. Bengs,DEM,9
+Charles Mix,10,U.S. Senate,,Tamara J Lesnar,LIB,5
+Charles Mix,10,U.S. Senate,,John R. Thune,REP,120
+Charles Mix,11,U.S. Senate,,Brian L. Bengs,DEM,63
+Charles Mix,11,U.S. Senate,,Tamara J Lesnar,LIB,15
+Charles Mix,11,U.S. Senate,,John R. Thune,REP,515
+Charles Mix,12,U.S. Senate,,Brian L. Bengs,DEM,14
+Charles Mix,12,U.S. Senate,,Tamara J Lesnar,LIB,3
+Charles Mix,12,U.S. Senate,,John R. Thune,REP,57
+Charles Mix,13,U.S. Senate,,Brian L. Bengs,DEM,16
+Charles Mix,13,U.S. Senate,,Tamara J Lesnar,LIB,0
+Charles Mix,13,U.S. Senate,,John R. Thune,REP,43
+Charles Mix,01,U.S. House,1,Collin Duprel,LIB,68
+Charles Mix,01,U.S. House,1,Dusty Johnson,REP,303
+Charles Mix,02,U.S. House,1,Collin Duprel,LIB,41
+Charles Mix,02,U.S. House,1,Dusty Johnson,REP,118
+Charles Mix,03,U.S. House,1,Collin Duprel,LIB,124
+Charles Mix,03,U.S. House,1,Dusty Johnson,REP,258
+Charles Mix,04,U.S. House,1,Collin Duprel,LIB,48
+Charles Mix,04,U.S. House,1,Dusty Johnson,REP,89
+Charles Mix,05,U.S. House,1,Collin Duprel,LIB,53
+Charles Mix,05,U.S. House,1,Dusty Johnson,REP,242
+Charles Mix,06,U.S. House,1,Collin Duprel,LIB,63
+Charles Mix,06,U.S. House,1,Dusty Johnson,REP,93
+Charles Mix,07,U.S. House,1,Collin Duprel,LIB,20
+Charles Mix,07,U.S. House,1,Dusty Johnson,REP,98
+Charles Mix,08,U.S. House,1,Collin Duprel,LIB,16
+Charles Mix,08,U.S. House,1,Dusty Johnson,REP,143
+Charles Mix,09,U.S. House,1,Collin Duprel,LIB,29
+Charles Mix,09,U.S. House,1,Dusty Johnson,REP,312
+Charles Mix,10,U.S. House,1,Collin Duprel,LIB,10
+Charles Mix,10,U.S. House,1,Dusty Johnson,REP,125
+Charles Mix,11,U.S. House,1,Collin Duprel,LIB,73
+Charles Mix,11,U.S. House,1,Dusty Johnson,REP,510
+Charles Mix,12,U.S. House,1,Collin Duprel,LIB,14
+Charles Mix,12,U.S. House,1,Dusty Johnson,REP,57
+Charles Mix,13,U.S. House,1,Collin Duprel,LIB,13
+Charles Mix,13,U.S. House,1,Dusty Johnson,REP,43
+Charles Mix,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,99
+Charles Mix,01,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Charles Mix,01,Governor,,Kristi Noem and Larry Rhoden,REP,302
+Charles Mix,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,42
+Charles Mix,02,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Charles Mix,02,Governor,,Kristi Noem and Larry Rhoden,REP,117
+Charles Mix,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,190
+Charles Mix,03,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Charles Mix,03,Governor,,Kristi Noem and Larry Rhoden,REP,197
+Charles Mix,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,77
+Charles Mix,04,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Charles Mix,04,Governor,,Kristi Noem and Larry Rhoden,REP,72
+Charles Mix,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,89
+Charles Mix,05,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Charles Mix,05,Governor,,Kristi Noem and Larry Rhoden,REP,219
+Charles Mix,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,92
+Charles Mix,06,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Charles Mix,06,Governor,,Kristi Noem and Larry Rhoden,REP,70
+Charles Mix,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,39
+Charles Mix,07,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Charles Mix,07,Governor,,Kristi Noem and Larry Rhoden,REP,77
+Charles Mix,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,27
+Charles Mix,08,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Charles Mix,08,Governor,,Kristi Noem and Larry Rhoden,REP,133
+Charles Mix,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,50
+Charles Mix,09,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Charles Mix,09,Governor,,Kristi Noem and Larry Rhoden,REP,301
+Charles Mix,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,12
+Charles Mix,10,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Charles Mix,10,Governor,,Kristi Noem and Larry Rhoden,REP,123
+Charles Mix,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,99
+Charles Mix,11,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Charles Mix,11,Governor,,Kristi Noem and Larry Rhoden,REP,481
+Charles Mix,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Charles Mix,12,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Charles Mix,12,Governor,,Kristi Noem and Larry Rhoden,REP,54
+Charles Mix,13,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Charles Mix,13,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Charles Mix,13,Governor,,Kristi Noem and Larry Rhoden,REP,41
+Charles Mix,01,Secretary of State,,Thomas A Cool,DEM,120
+Charles Mix,01,Secretary of State,,Monae Johnson,REP,256
+Charles Mix,02,Secretary of State,,Thomas A Cool,DEM,61
+Charles Mix,02,Secretary of State,,Monae Johnson,REP,106
+Charles Mix,03,Secretary of State,,Thomas A Cool,DEM,205
+Charles Mix,03,Secretary of State,,Monae Johnson,REP,180
+Charles Mix,04,Secretary of State,,Thomas A Cool,DEM,87
+Charles Mix,04,Secretary of State,,Monae Johnson,REP,58
+Charles Mix,05,Secretary of State,,Thomas A Cool,DEM,99
+Charles Mix,05,Secretary of State,,Monae Johnson,REP,198
+Charles Mix,06,Secretary of State,,Thomas A Cool,DEM,97
+Charles Mix,06,Secretary of State,,Monae Johnson,REP,66
+Charles Mix,07,Secretary of State,,Thomas A Cool,DEM,38
+Charles Mix,07,Secretary of State,,Monae Johnson,REP,80
+Charles Mix,08,Secretary of State,,Thomas A Cool,DEM,48
+Charles Mix,08,Secretary of State,,Monae Johnson,REP,105
+Charles Mix,09,Secretary of State,,Thomas A Cool,DEM,80
+Charles Mix,09,Secretary of State,,Monae Johnson,REP,263
+Charles Mix,10,Secretary of State,,Thomas A Cool,DEM,21
+Charles Mix,10,Secretary of State,,Monae Johnson,REP,115
+Charles Mix,11,Secretary of State,,Thomas A Cool,DEM,157
+Charles Mix,11,Secretary of State,,Monae Johnson,REP,415
+Charles Mix,12,Secretary of State,,Thomas A Cool,DEM,30
+Charles Mix,12,Secretary of State,,Monae Johnson,REP,40
+Charles Mix,13,Secretary of State,,Thomas A Cool,DEM,20
+Charles Mix,13,Secretary of State,,Monae Johnson,REP,37
+Charles Mix,01,Attorney General,,Marty J. Jackley,REP,303
+Charles Mix,02,Attorney General,,Marty J. Jackley,REP,124
+Charles Mix,03,Attorney General,,Marty J. Jackley,REP,257
+Charles Mix,04,Attorney General,,Marty J. Jackley,REP,84
+Charles Mix,05,Attorney General,,Marty J. Jackley,REP,231
+Charles Mix,06,Attorney General,,Marty J. Jackley,REP,102
+Charles Mix,07,Attorney General,,Marty J. Jackley,REP,99
+Charles Mix,08,Attorney General,,Marty J. Jackley,REP,120
+Charles Mix,09,Attorney General,,Marty J. Jackley,REP,271
+Charles Mix,10,Attorney General,,Marty J. Jackley,REP,112
+Charles Mix,11,Attorney General,,Marty J. Jackley,REP,437
+Charles Mix,12,Attorney General,,Marty J. Jackley,REP,57
+Charles Mix,13,Attorney General,,Marty J. Jackley,REP,42
+Charles Mix,01,State Auditor,,Stephanie Marty,DEM,99
+Charles Mix,01,State Auditor,,Rene Meyer,LIB,19
+Charles Mix,01,State Auditor,,Richard Sattgast,REP,257
+Charles Mix,02,State Auditor,,Stephanie Marty,DEM,59
+Charles Mix,02,State Auditor,,Rene Meyer,LIB,4
+Charles Mix,02,State Auditor,,Richard Sattgast,REP,100
+Charles Mix,03,State Auditor,,Stephanie Marty,DEM,188
+Charles Mix,03,State Auditor,,Rene Meyer,LIB,22
+Charles Mix,03,State Auditor,,Richard Sattgast,REP,178
+Charles Mix,04,State Auditor,,Stephanie Marty,DEM,80
+Charles Mix,04,State Auditor,,Rene Meyer,LIB,4
+Charles Mix,04,State Auditor,,Richard Sattgast,REP,56
+Charles Mix,05,State Auditor,,Stephanie Marty,DEM,90
+Charles Mix,05,State Auditor,,Rene Meyer,LIB,6
+Charles Mix,05,State Auditor,,Richard Sattgast,REP,198
+Charles Mix,06,State Auditor,,Stephanie Marty,DEM,85
+Charles Mix,06,State Auditor,,Rene Meyer,LIB,9
+Charles Mix,06,State Auditor,,Richard Sattgast,REP,68
+Charles Mix,07,State Auditor,,Stephanie Marty,DEM,31
+Charles Mix,07,State Auditor,,Rene Meyer,LIB,6
+Charles Mix,07,State Auditor,,Richard Sattgast,REP,81
+Charles Mix,08,State Auditor,,Stephanie Marty,DEM,28
+Charles Mix,08,State Auditor,,Rene Meyer,LIB,8
+Charles Mix,08,State Auditor,,Richard Sattgast,REP,111
+Charles Mix,09,State Auditor,,Stephanie Marty,DEM,49
+Charles Mix,09,State Auditor,,Rene Meyer,LIB,8
+Charles Mix,09,State Auditor,,Richard Sattgast,REP,286
+Charles Mix,10,State Auditor,,Stephanie Marty,DEM,9
+Charles Mix,10,State Auditor,,Rene Meyer,LIB,2
+Charles Mix,10,State Auditor,,Richard Sattgast,REP,118
+Charles Mix,11,State Auditor,,Stephanie Marty,DEM,102
+Charles Mix,11,State Auditor,,Rene Meyer,LIB,18
+Charles Mix,11,State Auditor,,Richard Sattgast,REP,425
+Charles Mix,12,State Auditor,,Stephanie Marty,DEM,16
+Charles Mix,12,State Auditor,,Rene Meyer,LIB,5
+Charles Mix,12,State Auditor,,Richard Sattgast,REP,48
+Charles Mix,13,State Auditor,,Stephanie Marty,DEM,20
+Charles Mix,13,State Auditor,,Rene Meyer,LIB,1
+Charles Mix,13,State Auditor,,Richard Sattgast,REP,37
+Charles Mix,01,State Treasurer,,John Cunningham,DEM,111
+Charles Mix,01,State Treasurer,,Josh Haeder,REP,260
+Charles Mix,02,State Treasurer,,John Cunningham,DEM,60
+Charles Mix,02,State Treasurer,,Josh Haeder,REP,104
+Charles Mix,03,State Treasurer,,John Cunningham,DEM,193
+Charles Mix,03,State Treasurer,,Josh Haeder,REP,186
+Charles Mix,04,State Treasurer,,John Cunningham,DEM,81
+Charles Mix,04,State Treasurer,,Josh Haeder,REP,59
+Charles Mix,05,State Treasurer,,John Cunningham,DEM,94
+Charles Mix,05,State Treasurer,,Josh Haeder,REP,195
+Charles Mix,06,State Treasurer,,John Cunningham,DEM,91
+Charles Mix,06,State Treasurer,,Josh Haeder,REP,68
+Charles Mix,07,State Treasurer,,John Cunningham,DEM,37
+Charles Mix,07,State Treasurer,,Josh Haeder,REP,79
+Charles Mix,08,State Treasurer,,John Cunningham,DEM,30
+Charles Mix,08,State Treasurer,,Josh Haeder,REP,115
+Charles Mix,09,State Treasurer,,John Cunningham,DEM,49
+Charles Mix,09,State Treasurer,,Josh Haeder,REP,291
+Charles Mix,10,State Treasurer,,John Cunningham,DEM,10
+Charles Mix,10,State Treasurer,,Josh Haeder,REP,120
+Charles Mix,11,State Treasurer,,John Cunningham,DEM,93
+Charles Mix,11,State Treasurer,,Josh Haeder,REP,450
+Charles Mix,12,State Treasurer,,John Cunningham,DEM,19
+Charles Mix,12,State Treasurer,,Josh Haeder,REP,47
+Charles Mix,13,State Treasurer,,John Cunningham,DEM,18
+Charles Mix,13,State Treasurer,,Josh Haeder,REP,40
+Charles Mix,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,102
+Charles Mix,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,261
+Charles Mix,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Charles Mix,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,105
+Charles Mix,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,188
+Charles Mix,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,185
+Charles Mix,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,76
+Charles Mix,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,65
+Charles Mix,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
+Charles Mix,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,200
+Charles Mix,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,90
+Charles Mix,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,69
+Charles Mix,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Charles Mix,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,80
+Charles Mix,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Charles Mix,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,110
+Charles Mix,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,46
+Charles Mix,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,288
+Charles Mix,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Charles Mix,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,116
+Charles Mix,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
+Charles Mix,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,430
+Charles Mix,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Charles Mix,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,47
+Charles Mix,13,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Charles Mix,13,Commissioner of School and Public Lands,,Brock Greenfield,REP,37
+Charles Mix,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,105
+Charles Mix,01,Public Utilities Commissioner,,Chris Nelson,REP,272
+Charles Mix,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,50
+Charles Mix,02,Public Utilities Commissioner,,Chris Nelson,REP,114
+Charles Mix,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,179
+Charles Mix,03,Public Utilities Commissioner,,Chris Nelson,REP,202
+Charles Mix,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,73
+Charles Mix,04,Public Utilities Commissioner,,Chris Nelson,REP,69
+Charles Mix,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,80
+Charles Mix,05,Public Utilities Commissioner,,Chris Nelson,REP,222
+Charles Mix,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,88
+Charles Mix,06,Public Utilities Commissioner,,Chris Nelson,REP,77
+Charles Mix,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,28
+Charles Mix,07,Public Utilities Commissioner,,Chris Nelson,REP,88
+Charles Mix,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,25
+Charles Mix,08,Public Utilities Commissioner,,Chris Nelson,REP,131
+Charles Mix,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,40
+Charles Mix,09,Public Utilities Commissioner,,Chris Nelson,REP,310
+Charles Mix,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,9
+Charles Mix,10,Public Utilities Commissioner,,Chris Nelson,REP,128
+Charles Mix,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,74
+Charles Mix,11,Public Utilities Commissioner,,Chris Nelson,REP,495
+Charles Mix,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,17
+Charles Mix,12,Public Utilities Commissioner,,Chris Nelson,REP,54
+Charles Mix,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Charles Mix,13,Public Utilities Commissioner,,Chris Nelson,REP,43
+Charles Mix,01,State Senate,21,Dan Andersson,DEM,105
+Charles Mix,01,State Senate,21,Erin Tobin,REP,275
+Charles Mix,02,State Senate,21,Dan Andersson,DEM,56
+Charles Mix,02,State Senate,21,Erin Tobin,REP,109
+Charles Mix,03,State Senate,21,Dan Andersson,DEM,185
+Charles Mix,03,State Senate,21,Erin Tobin,REP,202
+Charles Mix,04,State Senate,21,Dan Andersson,DEM,75
+Charles Mix,04,State Senate,21,Erin Tobin,REP,66
+Charles Mix,05,State Senate,21,Dan Andersson,DEM,80
+Charles Mix,05,State Senate,21,Erin Tobin,REP,221
+Charles Mix,06,State Senate,21,Dan Andersson,DEM,82
+Charles Mix,06,State Senate,21,Erin Tobin,REP,80
+Charles Mix,07,State Senate,21,Dan Andersson,DEM,32
+Charles Mix,07,State Senate,21,Erin Tobin,REP,87
+Charles Mix,08,State Senate,21,Dan Andersson,DEM,19
+Charles Mix,08,State Senate,21,Erin Tobin,REP,139
+Charles Mix,09,State Senate,21,Dan Andersson,DEM,37
+Charles Mix,09,State Senate,21,Erin Tobin,REP,310
+Charles Mix,10,State Senate,21,Dan Andersson,DEM,8
+Charles Mix,10,State Senate,21,Erin Tobin,REP,128
+Charles Mix,11,State Senate,21,Dan Andersson,DEM,76
+Charles Mix,11,State Senate,21,Erin Tobin,REP,493
+Charles Mix,12,State Senate,21,Dan Andersson,DEM,15
+Charles Mix,12,State Senate,21,Erin Tobin,REP,57
+Charles Mix,13,State Senate,21,Dan Andersson,DEM,20
+Charles Mix,13,State Senate,21,Erin Tobin,REP,38
+Charles Mix,01,State House,21,Rocky Blare,REP,169
+Charles Mix,01,State House,21,Marty Overweg,REP,248
+Charles Mix,02,State House,21,Rocky Blare,REP,68
+Charles Mix,02,State House,21,Marty Overweg,REP,107
+Charles Mix,03,State House,21,Rocky Blare,REP,150
+Charles Mix,03,State House,21,Marty Overweg,REP,193
+Charles Mix,04,State House,21,Rocky Blare,REP,45
+Charles Mix,04,State House,21,Marty Overweg,REP,74
+Charles Mix,05,State House,21,Rocky Blare,REP,111
+Charles Mix,05,State House,21,Marty Overweg,REP,211
+Charles Mix,06,State House,21,Rocky Blare,REP,61
+Charles Mix,06,State House,21,Marty Overweg,REP,84
+Charles Mix,07,State House,21,Rocky Blare,REP,58
+Charles Mix,07,State House,21,Marty Overweg,REP,78
+Charles Mix,08,State House,21,Rocky Blare,REP,72
+Charles Mix,08,State House,21,Marty Overweg,REP,134
+Charles Mix,09,State House,21,Rocky Blare,REP,166
+Charles Mix,09,State House,21,Marty Overweg,REP,303
+Charles Mix,10,State House,21,Rocky Blare,REP,58
+Charles Mix,10,State House,21,Marty Overweg,REP,117
+Charles Mix,11,State House,21,Rocky Blare,REP,298
+Charles Mix,11,State House,21,Marty Overweg,REP,489
+Charles Mix,12,State House,21,Rocky Blare,REP,34
+Charles Mix,12,State House,21,Marty Overweg,REP,57
+Charles Mix,13,State House,21,Rocky Blare,REP,24
+Charles Mix,13,State House,21,Marty Overweg,REP,35
+Charles Mix,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,180
+Charles Mix,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,74
+Charles Mix,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,154
+Charles Mix,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,55
+Charles Mix,05,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,138
+Charles Mix,06,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,68
+Charles Mix,07,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,61
+Charles Mix,08,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,80
+Charles Mix,09,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,160
+Charles Mix,10,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,41
+Charles Mix,11,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,209
+Charles Mix,12,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,33
+Charles Mix,13,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,26
+Charles Mix,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,173
+Charles Mix,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,75
+Charles Mix,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,155
+Charles Mix,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,54
+Charles Mix,05,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,137
+Charles Mix,06,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,66
+Charles Mix,07,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,60
+Charles Mix,08,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,78
+Charles Mix,09,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,157
+Charles Mix,10,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,40
+Charles Mix,11,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,202
+Charles Mix,12,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,35
+Charles Mix,13,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,25
+Charles Mix,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,259
+Charles Mix,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,107
+Charles Mix,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,269
+Charles Mix,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,77
+Charles Mix,05,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,178
+Charles Mix,06,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,86
+Charles Mix,07,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,77
+Charles Mix,08,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,102
+Charles Mix,09,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,211
+Charles Mix,10,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,60
+Charles Mix,11,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,306
+Charles Mix,12,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,45
+Charles Mix,13,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,39
+Charles Mix,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,179
+Charles Mix,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,68
+Charles Mix,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,158
+Charles Mix,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,57
+Charles Mix,05,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,134
+Charles Mix,06,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,64
+Charles Mix,07,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,59
+Charles Mix,08,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,78
+Charles Mix,09,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,156
+Charles Mix,10,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,39
+Charles Mix,11,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,198
+Charles Mix,12,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,32
+Charles Mix,13,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,27
+Charles Mix,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,173
+Charles Mix,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,71
+Charles Mix,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,153
+Charles Mix,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,53
+Charles Mix,05,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,130
+Charles Mix,06,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,66
+Charles Mix,07,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,61
+Charles Mix,08,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,80
+Charles Mix,09,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,153
+Charles Mix,10,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,41
+Charles Mix,11,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,205
+Charles Mix,12,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,32
+Charles Mix,13,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,27
+Charles Mix,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,175
+Charles Mix,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,69
+Charles Mix,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,158
+Charles Mix,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,60
+Charles Mix,05,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,140
+Charles Mix,06,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,63
+Charles Mix,07,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,59
+Charles Mix,08,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,77
+Charles Mix,09,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,152
+Charles Mix,10,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,39
+Charles Mix,11,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,197
+Charles Mix,12,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,33
+Charles Mix,13,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,24
+Charles Mix,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,263
+Charles Mix,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,69
+Charles Mix,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,113
+Charles Mix,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Charles Mix,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,244
+Charles Mix,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,98
+Charles Mix,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Charles Mix,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Charles Mix,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,221
+Charles Mix,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,50
+Charles Mix,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,99
+Charles Mix,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,46
+Charles Mix,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,84
+Charles Mix,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Charles Mix,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,118
+Charles Mix,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,20
+Charles Mix,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,259
+Charles Mix,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,47
+Charles Mix,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,105
+Charles Mix,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Charles Mix,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,400
+Charles Mix,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,78
+Charles Mix,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,55
+Charles Mix,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,11
+Charles Mix,13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,48
+Charles Mix,13,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Charles Mix,01,Supreme Court Retention,2,Mark E. Salter - Yes,,270
+Charles Mix,01,Supreme Court Retention,2,Mark E. Salter - No,,65
+Charles Mix,02,Supreme Court Retention,2,Mark E. Salter - Yes,,110
+Charles Mix,02,Supreme Court Retention,2,Mark E. Salter - No,,34
+Charles Mix,03,Supreme Court Retention,2,Mark E. Salter - Yes,,233
+Charles Mix,03,Supreme Court Retention,2,Mark E. Salter - No,,108
+Charles Mix,04,Supreme Court Retention,2,Mark E. Salter - Yes,,81
+Charles Mix,04,Supreme Court Retention,2,Mark E. Salter - No,,41
+Charles Mix,05,Supreme Court Retention,2,Mark E. Salter - Yes,,217
+Charles Mix,05,Supreme Court Retention,2,Mark E. Salter - No,,51
+Charles Mix,06,Supreme Court Retention,2,Mark E. Salter - Yes,,100
+Charles Mix,06,Supreme Court Retention,2,Mark E. Salter - No,,44
+Charles Mix,07,Supreme Court Retention,2,Mark E. Salter - Yes,,78
+Charles Mix,07,Supreme Court Retention,2,Mark E. Salter - No,,26
+Charles Mix,08,Supreme Court Retention,2,Mark E. Salter - Yes,,123
+Charles Mix,08,Supreme Court Retention,2,Mark E. Salter - No,,14
+Charles Mix,09,Supreme Court Retention,2,Mark E. Salter - Yes,,261
+Charles Mix,09,Supreme Court Retention,2,Mark E. Salter - No,,45
+Charles Mix,10,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Charles Mix,10,Supreme Court Retention,2,Mark E. Salter - No,,12
+Charles Mix,11,Supreme Court Retention,2,Mark E. Salter - Yes,,408
+Charles Mix,11,Supreme Court Retention,2,Mark E. Salter - No,,71
+Charles Mix,12,Supreme Court Retention,2,Mark E. Salter - Yes,,55
+Charles Mix,12,Supreme Court Retention,2,Mark E. Salter - No,,11
+Charles Mix,13,Supreme Court Retention,2,Mark E. Salter - Yes,,47
+Charles Mix,13,Supreme Court Retention,2,Mark E. Salter - No,,9
+Charles Mix,01,Constitutional Amendment D,,Yes,,156
+Charles Mix,01,Constitutional Amendment D,,No,,223
+Charles Mix,02,Constitutional Amendment D,,Yes,,67
+Charles Mix,02,Constitutional Amendment D,,No,,94
+Charles Mix,03,Constitutional Amendment D,,Yes,,262
+Charles Mix,03,Constitutional Amendment D,,No,,124
+Charles Mix,04,Constitutional Amendment D,,Yes,,97
+Charles Mix,04,Constitutional Amendment D,,No,,50
+Charles Mix,05,Constitutional Amendment D,,Yes,,154
+Charles Mix,05,Constitutional Amendment D,,No,,148
+Charles Mix,06,Constitutional Amendment D,,Yes,,112
+Charles Mix,06,Constitutional Amendment D,,No,,51
+Charles Mix,07,Constitutional Amendment D,,Yes,,55
+Charles Mix,07,Constitutional Amendment D,,No,,63
+Charles Mix,08,Constitutional Amendment D,,Yes,,61
+Charles Mix,08,Constitutional Amendment D,,No,,94
+Charles Mix,09,Constitutional Amendment D,,Yes,,124
+Charles Mix,09,Constitutional Amendment D,,No,,217
+Charles Mix,10,Constitutional Amendment D,,Yes,,63
+Charles Mix,10,Constitutional Amendment D,,No,,68
+Charles Mix,11,Constitutional Amendment D,,Yes,,228
+Charles Mix,11,Constitutional Amendment D,,No,,324
+Charles Mix,12,Constitutional Amendment D,,Yes,,37
+Charles Mix,12,Constitutional Amendment D,,No,,37
+Charles Mix,13,Constitutional Amendment D,,Yes,,30
+Charles Mix,13,Constitutional Amendment D,,No,,29
+Charles Mix,01,Initiated Measure 27,,Yes,,98
+Charles Mix,01,Initiated Measure 27,,No,,282
+Charles Mix,02,Initiated Measure 27,,Yes,,36
+Charles Mix,02,Initiated Measure 27,,No,,129
+Charles Mix,03,Initiated Measure 27,,Yes,,191
+Charles Mix,03,Initiated Measure 27,,No,,205
+Charles Mix,04,Initiated Measure 27,,Yes,,74
+Charles Mix,04,Initiated Measure 27,,No,,77
+Charles Mix,05,Initiated Measure 27,,Yes,,125
+Charles Mix,05,Initiated Measure 27,,No,,179
+Charles Mix,06,Initiated Measure 27,,Yes,,109
+Charles Mix,06,Initiated Measure 27,,No,,56
+Charles Mix,07,Initiated Measure 27,,Yes,,39
+Charles Mix,07,Initiated Measure 27,,No,,79
+Charles Mix,08,Initiated Measure 27,,Yes,,39
+Charles Mix,08,Initiated Measure 27,,No,,120
+Charles Mix,09,Initiated Measure 27,,Yes,,70
+Charles Mix,09,Initiated Measure 27,,No,,275
+Charles Mix,10,Initiated Measure 27,,Yes,,32
+Charles Mix,10,Initiated Measure 27,,No,,98
+Charles Mix,11,Initiated Measure 27,,Yes,,154
+Charles Mix,11,Initiated Measure 27,,No,,410
+Charles Mix,12,Initiated Measure 27,,Yes,,32
+Charles Mix,12,Initiated Measure 27,,No,,42
+Charles Mix,13,Initiated Measure 27,,Yes,,25
+Charles Mix,13,Initiated Measure 27,,No,,34

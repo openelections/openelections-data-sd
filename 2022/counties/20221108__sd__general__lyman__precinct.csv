@@ -1,0 +1,246 @@
+county,precinct,office,district,candidate,party,votes
+Lyman,01,U.S. Senate,,Brian L. Bengs,DEM,8
+Lyman,01,U.S. Senate,,Tamara J Lesnar,LIB,7
+Lyman,01,U.S. Senate,,John R. Thune,REP,49
+Lyman,04,U.S. Senate,,Brian L. Bengs,DEM,57
+Lyman,04,U.S. Senate,,Tamara J Lesnar,LIB,8
+Lyman,04,U.S. Senate,,John R. Thune,REP,207
+Lyman,06,U.S. Senate,,Brian L. Bengs,DEM,20
+Lyman,06,U.S. Senate,,Tamara J Lesnar,LIB,6
+Lyman,06,U.S. Senate,,John R. Thune,REP,99
+Lyman,07,U.S. Senate,,Brian L. Bengs,DEM,137
+Lyman,07,U.S. Senate,,Tamara J Lesnar,LIB,15
+Lyman,07,U.S. Senate,,John R. Thune,REP,33
+Lyman,09,U.S. Senate,,Brian L. Bengs,DEM,16
+Lyman,09,U.S. Senate,,Tamara J Lesnar,LIB,10
+Lyman,09,U.S. Senate,,John R. Thune,REP,197
+Lyman,12,U.S. Senate,,Brian L. Bengs,DEM,43
+Lyman,12,U.S. Senate,,Tamara J Lesnar,LIB,12
+Lyman,12,U.S. Senate,,John R. Thune,REP,289
+Lyman,13,U.S. Senate,,Brian L. Bengs,DEM,9
+Lyman,13,U.S. Senate,,Tamara J Lesnar,LIB,7
+Lyman,13,U.S. Senate,,John R. Thune,REP,70
+Lyman,01,U.S. House,1,Collin Duprel,LIB,14
+Lyman,01,U.S. House,1,Dusty Johnson,REP,47
+Lyman,04,U.S. House,1,Collin Duprel,LIB,57
+Lyman,04,U.S. House,1,Dusty Johnson,REP,205
+Lyman,06,U.S. House,1,Collin Duprel,LIB,19
+Lyman,06,U.S. House,1,Dusty Johnson,REP,104
+Lyman,07,U.S. House,1,Collin Duprel,LIB,95
+Lyman,07,U.S. House,1,Dusty Johnson,REP,74
+Lyman,09,U.S. House,1,Collin Duprel,LIB,24
+Lyman,09,U.S. House,1,Dusty Johnson,REP,190
+Lyman,12,U.S. House,1,Collin Duprel,LIB,42
+Lyman,12,U.S. House,1,Dusty Johnson,REP,296
+Lyman,13,U.S. House,1,Collin Duprel,LIB,16
+Lyman,13,U.S. House,1,Dusty Johnson,REP,66
+Lyman,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,12
+Lyman,01,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Lyman,01,Governor,,Kristi Noem and Larry Rhoden,REP,54
+Lyman,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
+Lyman,04,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Lyman,04,Governor,,Kristi Noem and Larry Rhoden,REP,188
+Lyman,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,29
+Lyman,06,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Lyman,06,Governor,,Kristi Noem and Larry Rhoden,REP,93
+Lyman,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,171
+Lyman,07,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Lyman,07,Governor,,Kristi Noem and Larry Rhoden,REP,12
+Lyman,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,27
+Lyman,09,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lyman,09,Governor,,Kristi Noem and Larry Rhoden,REP,191
+Lyman,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,70
+Lyman,12,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Lyman,12,Governor,,Kristi Noem and Larry Rhoden,REP,273
+Lyman,13,Governor,,Jamie Smith and Jennifer Keintz,DEM,18
+Lyman,13,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Lyman,13,Governor,,Kristi Noem and Larry Rhoden,REP,68
+Lyman,01,Secretary of State,,Thomas A Cool,DEM,16
+Lyman,01,Secretary of State,,Monae Johnson,REP,45
+Lyman,04,Secretary of State,,Thomas A Cool,DEM,87
+Lyman,04,Secretary of State,,Monae Johnson,REP,182
+Lyman,06,Secretary of State,,Thomas A Cool,DEM,30
+Lyman,06,Secretary of State,,Monae Johnson,REP,91
+Lyman,07,Secretary of State,,Thomas A Cool,DEM,155
+Lyman,07,Secretary of State,,Monae Johnson,REP,22
+Lyman,09,Secretary of State,,Thomas A Cool,DEM,39
+Lyman,09,Secretary of State,,Monae Johnson,REP,168
+Lyman,12,Secretary of State,,Thomas A Cool,DEM,66
+Lyman,12,Secretary of State,,Monae Johnson,REP,257
+Lyman,13,Secretary of State,,Thomas A Cool,DEM,11
+Lyman,13,Secretary of State,,Monae Johnson,REP,66
+Lyman,01,Attorney General,,Marty J. Jackley,REP,52
+Lyman,04,Attorney General,,Marty J. Jackley,REP,215
+Lyman,06,Attorney General,,Marty J. Jackley,REP,100
+Lyman,07,Attorney General,,Marty J. Jackley,REP,68
+Lyman,09,Attorney General,,Marty J. Jackley,REP,173
+Lyman,12,Attorney General,,Marty J. Jackley,REP,303
+Lyman,13,Attorney General,,Marty J. Jackley,REP,73
+Lyman,01,State Auditor,,Stephanie Marty,DEM,15
+Lyman,01,State Auditor,,Rene Meyer,LIB,1
+Lyman,01,State Auditor,,Richard Sattgast,REP,47
+Lyman,04,State Auditor,,Stephanie Marty,DEM,68
+Lyman,04,State Auditor,,Rene Meyer,LIB,10
+Lyman,04,State Auditor,,Richard Sattgast,REP,183
+Lyman,06,State Auditor,,Stephanie Marty,DEM,25
+Lyman,06,State Auditor,,Rene Meyer,LIB,5
+Lyman,06,State Auditor,,Richard Sattgast,REP,91
+Lyman,07,State Auditor,,Stephanie Marty,DEM,140
+Lyman,07,State Auditor,,Rene Meyer,LIB,16
+Lyman,07,State Auditor,,Richard Sattgast,REP,15
+Lyman,09,State Auditor,,Stephanie Marty,DEM,28
+Lyman,09,State Auditor,,Rene Meyer,LIB,12
+Lyman,09,State Auditor,,Richard Sattgast,REP,162
+Lyman,12,State Auditor,,Stephanie Marty,DEM,61
+Lyman,12,State Auditor,,Rene Meyer,LIB,11
+Lyman,12,State Auditor,,Richard Sattgast,REP,253
+Lyman,13,State Auditor,,Stephanie Marty,DEM,9
+Lyman,13,State Auditor,,Rene Meyer,LIB,7
+Lyman,13,State Auditor,,Richard Sattgast,REP,64
+Lyman,01,State Treasurer,,John Cunningham,DEM,17
+Lyman,01,State Treasurer,,Josh Haeder,REP,48
+Lyman,04,State Treasurer,,John Cunningham,DEM,72
+Lyman,04,State Treasurer,,Josh Haeder,REP,186
+Lyman,06,State Treasurer,,John Cunningham,DEM,25
+Lyman,06,State Treasurer,,Josh Haeder,REP,91
+Lyman,07,State Treasurer,,John Cunningham,DEM,153
+Lyman,07,State Treasurer,,Josh Haeder,REP,18
+Lyman,09,State Treasurer,,John Cunningham,DEM,28
+Lyman,09,State Treasurer,,Josh Haeder,REP,171
+Lyman,12,State Treasurer,,John Cunningham,DEM,65
+Lyman,12,State Treasurer,,Josh Haeder,REP,257
+Lyman,13,State Treasurer,,John Cunningham,DEM,11
+Lyman,13,State Treasurer,,Josh Haeder,REP,65
+Lyman,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,12
+Lyman,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,48
+Lyman,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,77
+Lyman,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,180
+Lyman,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,25
+Lyman,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,90
+Lyman,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,153
+Lyman,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,24
+Lyman,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,23
+Lyman,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,172
+Lyman,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Lyman,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,266
+Lyman,13,Commissioner of School and Public Lands,,Timothy Azure,DEM,6
+Lyman,13,Commissioner of School and Public Lands,,Brock Greenfield,REP,71
+Lyman,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Lyman,01,Public Utilities Commissioner,,Chris Nelson,REP,54
+Lyman,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Lyman,04,Public Utilities Commissioner,,Chris Nelson,REP,203
+Lyman,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,25
+Lyman,06,Public Utilities Commissioner,,Chris Nelson,REP,93
+Lyman,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,153
+Lyman,07,Public Utilities Commissioner,,Chris Nelson,REP,19
+Lyman,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,20
+Lyman,09,Public Utilities Commissioner,,Chris Nelson,REP,181
+Lyman,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,44
+Lyman,12,Public Utilities Commissioner,,Chris Nelson,REP,289
+Lyman,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,8
+Lyman,13,Public Utilities Commissioner,,Chris Nelson,REP,73
+Lyman,01,State Senate,26,Shawn Bordeaux,DEM,20
+Lyman,01,State Senate,26,Joel Koskan,REP,34
+Lyman,04,State Senate,26,Shawn Bordeaux,DEM,97
+Lyman,04,State Senate,26,Joel Koskan,REP,135
+Lyman,06,State Senate,26,Shawn Bordeaux,DEM,48
+Lyman,06,State Senate,26,Joel Koskan,REP,52
+Lyman,07,State Senate,26,Shawn Bordeaux,DEM,175
+Lyman,07,State Senate,26,Joel Koskan,REP,10
+Lyman,09,State Senate,26,Shawn Bordeaux,DEM,68
+Lyman,09,State Senate,26,Joel Koskan,REP,112
+Lyman,12,State Senate,26,Shawn Bordeaux,DEM,121
+Lyman,12,State Senate,26,Joel Koskan,REP,143
+Lyman,13,State Senate,26,Shawn Bordeaux,DEM,24
+Lyman,13,State Senate,26,Joel Koskan,REP,34
+Lyman,01,State House,26B,Rebecca Reimer,REP,50
+Lyman,04,State House,26B,Rebecca Reimer,REP,207
+Lyman,06,State House,26B,Rebecca Reimer,REP,96
+Lyman,07,State House,26B,Rebecca Reimer,REP,43
+Lyman,09,State House,26B,Rebecca Reimer,REP,179
+Lyman,12,State House,26B,Rebecca Reimer,REP,284
+Lyman,13,State House,26B,Rebecca Reimer,REP,69
+Lyman,01,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,33
+Lyman,04,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,121
+Lyman,06,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,50
+Lyman,07,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,53
+Lyman,09,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,91
+Lyman,12,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,159
+Lyman,13,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,36
+Lyman,01,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,32
+Lyman,04,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,113
+Lyman,06,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,43
+Lyman,07,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,47
+Lyman,09,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,85
+Lyman,12,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,158
+Lyman,13,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,34
+Lyman,01,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,32
+Lyman,04,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,117
+Lyman,06,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,46
+Lyman,07,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,46
+Lyman,09,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,80
+Lyman,12,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,159
+Lyman,13,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,31
+Lyman,01,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,38
+Lyman,04,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,115
+Lyman,06,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,44
+Lyman,07,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,65
+Lyman,09,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,83
+Lyman,12,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,159
+Lyman,13,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,31
+Lyman,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,44
+Lyman,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Lyman,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,191
+Lyman,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Lyman,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Lyman,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Lyman,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,94
+Lyman,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
+Lyman,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,145
+Lyman,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Lyman,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,251
+Lyman,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Lyman,13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,60
+Lyman,13,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Lyman,01,Supreme Court Retention,2,Mark E. Salter - Yes,,44
+Lyman,01,Supreme Court Retention,2,Mark E. Salter - No,,8
+Lyman,04,Supreme Court Retention,2,Mark E. Salter - Yes,,192
+Lyman,04,Supreme Court Retention,2,Mark E. Salter - No,,53
+Lyman,06,Supreme Court Retention,2,Mark E. Salter - Yes,,85
+Lyman,06,Supreme Court Retention,2,Mark E. Salter - No,,17
+Lyman,07,Supreme Court Retention,2,Mark E. Salter - Yes,,81
+Lyman,07,Supreme Court Retention,2,Mark E. Salter - No,,72
+Lyman,09,Supreme Court Retention,2,Mark E. Salter - Yes,,147
+Lyman,09,Supreme Court Retention,2,Mark E. Salter - No,,33
+Lyman,12,Supreme Court Retention,2,Mark E. Salter - Yes,,255
+Lyman,12,Supreme Court Retention,2,Mark E. Salter - No,,42
+Lyman,13,Supreme Court Retention,2,Mark E. Salter - Yes,,60
+Lyman,13,Supreme Court Retention,2,Mark E. Salter - No,,9
+Lyman,01,Constitutional Amendment D,,Yes,,22
+Lyman,01,Constitutional Amendment D,,No,,41
+Lyman,04,Constitutional Amendment D,,Yes,,143
+Lyman,04,Constitutional Amendment D,,No,,131
+Lyman,06,Constitutional Amendment D,,Yes,,71
+Lyman,06,Constitutional Amendment D,,No,,47
+Lyman,07,Constitutional Amendment D,,Yes,,172
+Lyman,07,Constitutional Amendment D,,No,,20
+Lyman,09,Constitutional Amendment D,,Yes,,110
+Lyman,09,Constitutional Amendment D,,No,,99
+Lyman,12,Constitutional Amendment D,,Yes,,183
+Lyman,12,Constitutional Amendment D,,No,,145
+Lyman,13,Constitutional Amendment D,,Yes,,39
+Lyman,13,Constitutional Amendment D,,No,,44
+Lyman,01,Initiated Measure 27,,Yes,,12
+Lyman,01,Initiated Measure 27,,No,,52
+Lyman,04,Initiated Measure 27,,Yes,,121
+Lyman,04,Initiated Measure 27,,No,,156
+Lyman,06,Initiated Measure 27,,Yes,,47
+Lyman,06,Initiated Measure 27,,No,,74
+Lyman,07,Initiated Measure 27,,Yes,,160
+Lyman,07,Initiated Measure 27,,No,,31
+Lyman,09,Initiated Measure 27,,Yes,,61
+Lyman,09,Initiated Measure 27,,No,,152
+Lyman,12,Initiated Measure 27,,Yes,,123
+Lyman,12,Initiated Measure 27,,No,,219
+Lyman,13,Initiated Measure 27,,Yes,,28
+Lyman,13,Initiated Measure 27,,No,,58

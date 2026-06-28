@@ -1,0 +1,325 @@
+county,precinct,office,district,candidate,party,votes
+Spink,01,U.S. Senate,,Brian L. Bengs,DEM,60
+Spink,01,U.S. Senate,,Tamara J Lesnar,LIB,5
+Spink,01,U.S. Senate,,John R. Thune,REP,327
+Spink,03,U.S. Senate,,Brian L. Bengs,DEM,51
+Spink,03,U.S. Senate,,Tamara J Lesnar,LIB,11
+Spink,03,U.S. Senate,,John R. Thune,REP,250
+Spink,04,U.S. Senate,,Brian L. Bengs,DEM,52
+Spink,04,U.S. Senate,,Tamara J Lesnar,LIB,7
+Spink,04,U.S. Senate,,John R. Thune,REP,205
+Spink,05,U.S. Senate,,Brian L. Bengs,DEM,37
+Spink,05,U.S. Senate,,Tamara J Lesnar,LIB,6
+Spink,05,U.S. Senate,,John R. Thune,REP,158
+Spink,06,U.S. Senate,,Brian L. Bengs,DEM,17
+Spink,06,U.S. Senate,,Tamara J Lesnar,LIB,2
+Spink,06,U.S. Senate,,John R. Thune,REP,78
+Spink,07,U.S. Senate,,Brian L. Bengs,DEM,94
+Spink,07,U.S. Senate,,Tamara J Lesnar,LIB,22
+Spink,07,U.S. Senate,,John R. Thune,REP,310
+Spink,08,U.S. Senate,,Brian L. Bengs,DEM,21
+Spink,08,U.S. Senate,,Tamara J Lesnar,LIB,5
+Spink,08,U.S. Senate,,John R. Thune,REP,87
+Spink,09,U.S. Senate,,Brian L. Bengs,DEM,110
+Spink,09,U.S. Senate,,Tamara J Lesnar,LIB,11
+Spink,09,U.S. Senate,,John R. Thune,REP,326
+Spink,10,U.S. Senate,,Brian L. Bengs,DEM,104
+Spink,10,U.S. Senate,,Tamara J Lesnar,LIB,22
+Spink,10,U.S. Senate,,John R. Thune,REP,286
+Spink,01,U.S. House,1,Collin Duprel,LIB,46
+Spink,01,U.S. House,1,Dusty Johnson,REP,340
+Spink,03,U.S. House,1,Collin Duprel,LIB,45
+Spink,03,U.S. House,1,Dusty Johnson,REP,259
+Spink,04,U.S. House,1,Collin Duprel,LIB,41
+Spink,04,U.S. House,1,Dusty Johnson,REP,212
+Spink,05,U.S. House,1,Collin Duprel,LIB,29
+Spink,05,U.S. House,1,Dusty Johnson,REP,168
+Spink,06,U.S. House,1,Collin Duprel,LIB,15
+Spink,06,U.S. House,1,Dusty Johnson,REP,80
+Spink,07,U.S. House,1,Collin Duprel,LIB,69
+Spink,07,U.S. House,1,Dusty Johnson,REP,338
+Spink,08,U.S. House,1,Collin Duprel,LIB,18
+Spink,08,U.S. House,1,Dusty Johnson,REP,91
+Spink,09,U.S. House,1,Collin Duprel,LIB,76
+Spink,09,U.S. House,1,Dusty Johnson,REP,355
+Spink,10,U.S. House,1,Collin Duprel,LIB,71
+Spink,10,U.S. House,1,Dusty Johnson,REP,323
+Spink,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,88
+Spink,01,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Spink,01,Governor,,Kristi Noem and Larry Rhoden,REP,296
+Spink,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,67
+Spink,03,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Spink,03,Governor,,Kristi Noem and Larry Rhoden,REP,234
+Spink,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,69
+Spink,04,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Spink,04,Governor,,Kristi Noem and Larry Rhoden,REP,187
+Spink,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Spink,05,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Spink,05,Governor,,Kristi Noem and Larry Rhoden,REP,152
+Spink,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,28
+Spink,06,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Spink,06,Governor,,Kristi Noem and Larry Rhoden,REP,68
+Spink,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,128
+Spink,07,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Spink,07,Governor,,Kristi Noem and Larry Rhoden,REP,283
+Spink,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Spink,08,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Spink,08,Governor,,Kristi Noem and Larry Rhoden,REP,81
+Spink,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,158
+Spink,09,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Spink,09,Governor,,Kristi Noem and Larry Rhoden,REP,277
+Spink,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,147
+Spink,10,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Spink,10,Governor,,Kristi Noem and Larry Rhoden,REP,254
+Spink,01,Secretary of State,,Thomas A Cool,DEM,95
+Spink,01,Secretary of State,,Monae Johnson,REP,287
+Spink,03,Secretary of State,,Thomas A Cool,DEM,75
+Spink,03,Secretary of State,,Monae Johnson,REP,225
+Spink,04,Secretary of State,,Thomas A Cool,DEM,75
+Spink,04,Secretary of State,,Monae Johnson,REP,177
+Spink,05,Secretary of State,,Thomas A Cool,DEM,57
+Spink,05,Secretary of State,,Monae Johnson,REP,132
+Spink,06,Secretary of State,,Thomas A Cool,DEM,30
+Spink,06,Secretary of State,,Monae Johnson,REP,62
+Spink,07,Secretary of State,,Thomas A Cool,DEM,143
+Spink,07,Secretary of State,,Monae Johnson,REP,267
+Spink,08,Secretary of State,,Thomas A Cool,DEM,38
+Spink,08,Secretary of State,,Monae Johnson,REP,68
+Spink,09,Secretary of State,,Thomas A Cool,DEM,161
+Spink,09,Secretary of State,,Monae Johnson,REP,265
+Spink,10,Secretary of State,,Thomas A Cool,DEM,150
+Spink,10,Secretary of State,,Monae Johnson,REP,240
+Spink,01,Attorney General,,Marty J. Jackley,REP,325
+Spink,03,Attorney General,,Marty J. Jackley,REP,271
+Spink,04,Attorney General,,Marty J. Jackley,REP,210
+Spink,05,Attorney General,,Marty J. Jackley,REP,157
+Spink,06,Attorney General,,Marty J. Jackley,REP,77
+Spink,07,Attorney General,,Marty J. Jackley,REP,352
+Spink,08,Attorney General,,Marty J. Jackley,REP,86
+Spink,09,Attorney General,,Marty J. Jackley,REP,346
+Spink,10,Attorney General,,Marty J. Jackley,REP,327
+Spink,01,State Auditor,,Stephanie Marty,DEM,76
+Spink,01,State Auditor,,Rene Meyer,LIB,13
+Spink,01,State Auditor,,Richard Sattgast,REP,289
+Spink,03,State Auditor,,Stephanie Marty,DEM,60
+Spink,03,State Auditor,,Rene Meyer,LIB,12
+Spink,03,State Auditor,,Richard Sattgast,REP,232
+Spink,04,State Auditor,,Stephanie Marty,DEM,60
+Spink,04,State Auditor,,Rene Meyer,LIB,10
+Spink,04,State Auditor,,Richard Sattgast,REP,181
+Spink,05,State Auditor,,Stephanie Marty,DEM,47
+Spink,05,State Auditor,,Rene Meyer,LIB,10
+Spink,05,State Auditor,,Richard Sattgast,REP,127
+Spink,06,State Auditor,,Stephanie Marty,DEM,30
+Spink,06,State Auditor,,Rene Meyer,LIB,2
+Spink,06,State Auditor,,Richard Sattgast,REP,56
+Spink,07,State Auditor,,Stephanie Marty,DEM,113
+Spink,07,State Auditor,,Rene Meyer,LIB,25
+Spink,07,State Auditor,,Richard Sattgast,REP,271
+Spink,08,State Auditor,,Stephanie Marty,DEM,34
+Spink,08,State Auditor,,Rene Meyer,LIB,4
+Spink,08,State Auditor,,Richard Sattgast,REP,67
+Spink,09,State Auditor,,Stephanie Marty,DEM,143
+Spink,09,State Auditor,,Rene Meyer,LIB,18
+Spink,09,State Auditor,,Richard Sattgast,REP,274
+Spink,10,State Auditor,,Stephanie Marty,DEM,128
+Spink,10,State Auditor,,Rene Meyer,LIB,22
+Spink,10,State Auditor,,Richard Sattgast,REP,246
+Spink,01,State Treasurer,,John Cunningham,DEM,72
+Spink,01,State Treasurer,,Josh Haeder,REP,307
+Spink,03,State Treasurer,,John Cunningham,DEM,64
+Spink,03,State Treasurer,,Josh Haeder,REP,240
+Spink,04,State Treasurer,,John Cunningham,DEM,66
+Spink,04,State Treasurer,,Josh Haeder,REP,180
+Spink,05,State Treasurer,,John Cunningham,DEM,50
+Spink,05,State Treasurer,,Josh Haeder,REP,138
+Spink,06,State Treasurer,,John Cunningham,DEM,27
+Spink,06,State Treasurer,,Josh Haeder,REP,62
+Spink,07,State Treasurer,,John Cunningham,DEM,123
+Spink,07,State Treasurer,,Josh Haeder,REP,284
+Spink,08,State Treasurer,,John Cunningham,DEM,32
+Spink,08,State Treasurer,,Josh Haeder,REP,72
+Spink,09,State Treasurer,,John Cunningham,DEM,140
+Spink,09,State Treasurer,,Josh Haeder,REP,288
+Spink,10,State Treasurer,,John Cunningham,DEM,130
+Spink,10,State Treasurer,,Josh Haeder,REP,266
+Spink,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,57
+Spink,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,327
+Spink,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,63
+Spink,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,240
+Spink,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,69
+Spink,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Spink,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,48
+Spink,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,142
+Spink,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,24
+Spink,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,64
+Spink,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,116
+Spink,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,294
+Spink,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,22
+Spink,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,91
+Spink,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,147
+Spink,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,285
+Spink,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,119
+Spink,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,273
+Spink,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,79
+Spink,01,Public Utilities Commissioner,,Chris Nelson,REP,300
+Spink,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Spink,03,Public Utilities Commissioner,,Chris Nelson,REP,245
+Spink,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,56
+Spink,04,Public Utilities Commissioner,,Chris Nelson,REP,199
+Spink,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,49
+Spink,05,Public Utilities Commissioner,,Chris Nelson,REP,143
+Spink,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,21
+Spink,06,Public Utilities Commissioner,,Chris Nelson,REP,70
+Spink,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,143
+Spink,07,Public Utilities Commissioner,,Chris Nelson,REP,265
+Spink,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,35
+Spink,08,Public Utilities Commissioner,,Chris Nelson,REP,73
+Spink,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,123
+Spink,09,Public Utilities Commissioner,,Chris Nelson,REP,311
+Spink,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,113
+Spink,10,Public Utilities Commissioner,,Chris Nelson,REP,287
+Spink,01,State Senate,22,David Wheeler,REP,299
+Spink,03,State Senate,22,David Wheeler,REP,249
+Spink,04,State Senate,22,David Wheeler,REP,188
+Spink,05,State Senate,22,David Wheeler,REP,126
+Spink,06,State Senate,22,David Wheeler,REP,70
+Spink,07,State Senate,22,David Wheeler,REP,304
+Spink,08,State Senate,22,David Wheeler,REP,77
+Spink,09,State Senate,22,David Wheeler,REP,305
+Spink,10,State Senate,22,David Wheeler,REP,275
+Spink,01,State House,22,Shane Milne,DEM,83
+Spink,01,State House,22,Roger Chase,REP,195
+Spink,01,State House,22,Lynn Schneider,REP,290
+Spink,03,State House,22,Shane Milne,DEM,66
+Spink,03,State House,22,Roger Chase,REP,192
+Spink,03,State House,22,Lynn Schneider,REP,210
+Spink,04,State House,22,Shane Milne,DEM,68
+Spink,04,State House,22,Roger Chase,REP,130
+Spink,04,State House,22,Lynn Schneider,REP,163
+Spink,05,State House,22,Shane Milne,DEM,50
+Spink,05,State House,22,Roger Chase,REP,86
+Spink,05,State House,22,Lynn Schneider,REP,114
+Spink,06,State House,22,Shane Milne,DEM,29
+Spink,06,State House,22,Roger Chase,REP,33
+Spink,06,State House,22,Lynn Schneider,REP,58
+Spink,07,State House,22,Shane Milne,DEM,121
+Spink,07,State House,22,Roger Chase,REP,193
+Spink,07,State House,22,Lynn Schneider,REP,266
+Spink,08,State House,22,Shane Milne,DEM,34
+Spink,08,State House,22,Roger Chase,REP,44
+Spink,08,State House,22,Lynn Schneider,REP,68
+Spink,09,State House,22,Shane Milne,DEM,151
+Spink,09,State House,22,Roger Chase,REP,194
+Spink,09,State House,22,Lynn Schneider,REP,258
+Spink,10,State House,22,Shane Milne,DEM,141
+Spink,10,State House,22,Roger Chase,REP,160
+Spink,10,State House,22,Lynn Schneider,REP,242
+Spink,01,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,220
+Spink,03,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,173
+Spink,04,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,151
+Spink,05,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,71
+Spink,06,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,60
+Spink,07,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,271
+Spink,08,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,64
+Spink,09,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,258
+Spink,10,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,236
+Spink,01,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,216
+Spink,03,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,179
+Spink,04,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,155
+Spink,05,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,70
+Spink,06,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,60
+Spink,07,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,261
+Spink,08,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,61
+Spink,09,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,272
+Spink,10,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,257
+Spink,01,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,212
+Spink,03,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,169
+Spink,04,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,142
+Spink,05,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,66
+Spink,06,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,55
+Spink,07,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,242
+Spink,08,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,55
+Spink,09,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,243
+Spink,10,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,225
+Spink,01,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,212
+Spink,03,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,168
+Spink,04,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,144
+Spink,05,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,67
+Spink,06,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,58
+Spink,07,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,248
+Spink,08,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,57
+Spink,09,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,252
+Spink,10,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,235
+Spink,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,287
+Spink,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,40
+Spink,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,229
+Spink,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,44
+Spink,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,178
+Spink,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Spink,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,100
+Spink,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Spink,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,70
+Spink,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Spink,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,324
+Spink,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,51
+Spink,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,69
+Spink,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Spink,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,330
+Spink,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,76
+Spink,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,295
+Spink,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Spink,01,Supreme Court Retention,2,Mark E. Salter - Yes,,284
+Spink,01,Supreme Court Retention,2,Mark E. Salter - No,,41
+Spink,03,Supreme Court Retention,2,Mark E. Salter - Yes,,228
+Spink,03,Supreme Court Retention,2,Mark E. Salter - No,,46
+Spink,04,Supreme Court Retention,2,Mark E. Salter - Yes,,174
+Spink,04,Supreme Court Retention,2,Mark E. Salter - No,,55
+Spink,05,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Spink,05,Supreme Court Retention,2,Mark E. Salter - No,,34
+Spink,06,Supreme Court Retention,2,Mark E. Salter - Yes,,72
+Spink,06,Supreme Court Retention,2,Mark E. Salter - No,,18
+Spink,07,Supreme Court Retention,2,Mark E. Salter - Yes,,317
+Spink,07,Supreme Court Retention,2,Mark E. Salter - No,,51
+Spink,08,Supreme Court Retention,2,Mark E. Salter - Yes,,70
+Spink,08,Supreme Court Retention,2,Mark E. Salter - No,,23
+Spink,09,Supreme Court Retention,2,Mark E. Salter - Yes,,321
+Spink,09,Supreme Court Retention,2,Mark E. Salter - No,,84
+Spink,10,Supreme Court Retention,2,Mark E. Salter - Yes,,290
+Spink,10,Supreme Court Retention,2,Mark E. Salter - No,,61
+Spink,01,Constitutional Amendment D,,Yes,,190
+Spink,01,Constitutional Amendment D,,No,,185
+Spink,03,Constitutional Amendment D,,Yes,,139
+Spink,03,Constitutional Amendment D,,No,,170
+Spink,04,Constitutional Amendment D,,Yes,,135
+Spink,04,Constitutional Amendment D,,No,,123
+Spink,05,Constitutional Amendment D,,Yes,,120
+Spink,05,Constitutional Amendment D,,No,,74
+Spink,06,Constitutional Amendment D,,Yes,,55
+Spink,06,Constitutional Amendment D,,No,,40
+Spink,07,Constitutional Amendment D,,Yes,,217
+Spink,07,Constitutional Amendment D,,No,,198
+Spink,08,Constitutional Amendment D,,Yes,,55
+Spink,08,Constitutional Amendment D,,No,,53
+Spink,09,Constitutional Amendment D,,Yes,,262
+Spink,09,Constitutional Amendment D,,No,,174
+Spink,10,Constitutional Amendment D,,Yes,,243
+Spink,10,Constitutional Amendment D,,No,,149
+Spink,01,Initiated Measure 27,,Yes,,98
+Spink,01,Initiated Measure 27,,No,,282
+Spink,03,Initiated Measure 27,,Yes,,107
+Spink,03,Initiated Measure 27,,No,,204
+Spink,04,Initiated Measure 27,,Yes,,85
+Spink,04,Initiated Measure 27,,No,,173
+Spink,05,Initiated Measure 27,,Yes,,49
+Spink,05,Initiated Measure 27,,No,,147
+Spink,06,Initiated Measure 27,,Yes,,45
+Spink,06,Initiated Measure 27,,No,,53
+Spink,07,Initiated Measure 27,,Yes,,187
+Spink,07,Initiated Measure 27,,No,,235
+Spink,08,Initiated Measure 27,,Yes,,50
+Spink,08,Initiated Measure 27,,No,,60
+Spink,09,Initiated Measure 27,,Yes,,198
+Spink,09,Initiated Measure 27,,No,,239
+Spink,10,Initiated Measure 27,,Yes,,180
+Spink,10,Initiated Measure 27,,No,,215

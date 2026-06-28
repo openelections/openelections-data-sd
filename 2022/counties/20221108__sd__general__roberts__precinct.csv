@@ -1,0 +1,460 @@
+county,precinct,office,district,candidate,party,votes
+Roberts,01,U.S. Senate,,Brian L. Bengs,DEM,28
+Roberts,01,U.S. Senate,,Tamara J Lesnar,LIB,3
+Roberts,01,U.S. Senate,,John R. Thune,REP,107
+Roberts,02,U.S. Senate,,Brian L. Bengs,DEM,71
+Roberts,02,U.S. Senate,,Tamara J Lesnar,LIB,13
+Roberts,02,U.S. Senate,,John R. Thune,REP,367
+Roberts,03,U.S. Senate,,Brian L. Bengs,DEM,35
+Roberts,03,U.S. Senate,,Tamara J Lesnar,LIB,10
+Roberts,03,U.S. Senate,,John R. Thune,REP,140
+Roberts,04,U.S. Senate,,Brian L. Bengs,DEM,19
+Roberts,04,U.S. Senate,,Tamara J Lesnar,LIB,3
+Roberts,04,U.S. Senate,,John R. Thune,REP,49
+Roberts,05,U.S. Senate,,Brian L. Bengs,DEM,152
+Roberts,05,U.S. Senate,,Tamara J Lesnar,LIB,15
+Roberts,05,U.S. Senate,,John R. Thune,REP,168
+Roberts,06 (Precinct-07),U.S. Senate,,Brian L. Bengs,DEM,88
+Roberts,06 (Precinct-07),U.S. Senate,,Tamara J Lesnar,LIB,13
+Roberts,06 (Precinct-07),U.S. Senate,,John R. Thune,REP,377
+Roberts,08,U.S. Senate,,Brian L. Bengs,DEM,27
+Roberts,08,U.S. Senate,,Tamara J Lesnar,LIB,11
+Roberts,08,U.S. Senate,,John R. Thune,REP,75
+Roberts,09,U.S. Senate,,Brian L. Bengs,DEM,75
+Roberts,09,U.S. Senate,,Tamara J Lesnar,LIB,18
+Roberts,09,U.S. Senate,,John R. Thune,REP,312
+Roberts,10,U.S. Senate,,Brian L. Bengs,DEM,83
+Roberts,10,U.S. Senate,,Tamara J Lesnar,LIB,5
+Roberts,10,U.S. Senate,,John R. Thune,REP,94
+Roberts,11,U.S. Senate,,Brian L. Bengs,DEM,242
+Roberts,11,U.S. Senate,,Tamara J Lesnar,LIB,31
+Roberts,11,U.S. Senate,,John R. Thune,REP,415
+Roberts,12 (Precinct-14),U.S. Senate,,Brian L. Bengs,DEM,104
+Roberts,12 (Precinct-14),U.S. Senate,,Tamara J Lesnar,LIB,9
+Roberts,12 (Precinct-14),U.S. Senate,,John R. Thune,REP,153
+Roberts,13,U.S. Senate,,Brian L. Bengs,DEM,76
+Roberts,13,U.S. Senate,,Tamara J Lesnar,LIB,16
+Roberts,13,U.S. Senate,,John R. Thune,REP,127
+Roberts,01,U.S. House,1,Collin Duprel,LIB,16
+Roberts,01,U.S. House,1,Dusty Johnson,REP,120
+Roberts,02,U.S. House,1,Collin Duprel,LIB,60
+Roberts,02,U.S. House,1,Dusty Johnson,REP,376
+Roberts,03,U.S. House,1,Collin Duprel,LIB,27
+Roberts,03,U.S. House,1,Dusty Johnson,REP,145
+Roberts,04,U.S. House,1,Collin Duprel,LIB,15
+Roberts,04,U.S. House,1,Dusty Johnson,REP,57
+Roberts,05,U.S. House,1,Collin Duprel,LIB,102
+Roberts,05,U.S. House,1,Dusty Johnson,REP,205
+Roberts,06 (Precinct-07),U.S. House,1,Collin Duprel,LIB,63
+Roberts,06 (Precinct-07),U.S. House,1,Dusty Johnson,REP,393
+Roberts,08,U.S. House,1,Collin Duprel,LIB,26
+Roberts,08,U.S. House,1,Dusty Johnson,REP,80
+Roberts,09,U.S. House,1,Collin Duprel,LIB,61
+Roberts,09,U.S. House,1,Dusty Johnson,REP,318
+Roberts,10,U.S. House,1,Collin Duprel,LIB,62
+Roberts,10,U.S. House,1,Dusty Johnson,REP,107
+Roberts,11,U.S. House,1,Collin Duprel,LIB,175
+Roberts,11,U.S. House,1,Dusty Johnson,REP,464
+Roberts,12 (Precinct-14),U.S. House,1,Collin Duprel,LIB,77
+Roberts,12 (Precinct-14),U.S. House,1,Dusty Johnson,REP,172
+Roberts,13,U.S. House,1,Collin Duprel,LIB,54
+Roberts,13,U.S. House,1,Dusty Johnson,REP,153
+Roberts,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Roberts,01,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Roberts,01,Governor,,Kristi Noem and Larry Rhoden,REP,108
+Roberts,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,96
+Roberts,02,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Roberts,02,Governor,,Kristi Noem and Larry Rhoden,REP,348
+Roberts,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,54
+Roberts,03,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Roberts,03,Governor,,Kristi Noem and Larry Rhoden,REP,131
+Roberts,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,25
+Roberts,04,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Roberts,04,Governor,,Kristi Noem and Larry Rhoden,REP,43
+Roberts,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,188
+Roberts,05,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Roberts,05,Governor,,Kristi Noem and Larry Rhoden,REP,148
+Roberts,06 (Precinct-07),Governor,,Jamie Smith and Jennifer Keintz,DEM,117
+Roberts,06 (Precinct-07),Governor,,Tracey Quint and Ashley Strand,LIB,13
+Roberts,06 (Precinct-07),Governor,,Kristi Noem and Larry Rhoden,REP,357
+Roberts,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,43
+Roberts,08,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Roberts,08,Governor,,Kristi Noem and Larry Rhoden,REP,61
+Roberts,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Roberts,09,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Roberts,09,Governor,,Kristi Noem and Larry Rhoden,REP,300
+Roberts,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Roberts,10,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Roberts,10,Governor,,Kristi Noem and Larry Rhoden,REP,74
+Roberts,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,306
+Roberts,11,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Roberts,11,Governor,,Kristi Noem and Larry Rhoden,REP,362
+Roberts,12 (Precinct-14),Governor,,Jamie Smith and Jennifer Keintz,DEM,132
+Roberts,12 (Precinct-14),Governor,,Tracey Quint and Ashley Strand,LIB,8
+Roberts,12 (Precinct-14),Governor,,Kristi Noem and Larry Rhoden,REP,130
+Roberts,13,Governor,,Jamie Smith and Jennifer Keintz,DEM,110
+Roberts,13,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Roberts,13,Governor,,Kristi Noem and Larry Rhoden,REP,102
+Roberts,01,Secretary of State,,Thomas A Cool,DEM,37
+Roberts,01,Secretary of State,,Monae Johnson,REP,94
+Roberts,02,Secretary of State,,Thomas A Cool,DEM,100
+Roberts,02,Secretary of State,,Monae Johnson,REP,334
+Roberts,03,Secretary of State,,Thomas A Cool,DEM,63
+Roberts,03,Secretary of State,,Monae Johnson,REP,107
+Roberts,04,Secretary of State,,Thomas A Cool,DEM,30
+Roberts,04,Secretary of State,,Monae Johnson,REP,38
+Roberts,05,Secretary of State,,Thomas A Cool,DEM,185
+Roberts,05,Secretary of State,,Monae Johnson,REP,143
+Roberts,06 (Precinct-07),Secretary of State,,Thomas A Cool,DEM,139
+Roberts,06 (Precinct-07),Secretary of State,,Monae Johnson,REP,322
+Roberts,08,Secretary of State,,Thomas A Cool,DEM,47
+Roberts,08,Secretary of State,,Monae Johnson,REP,62
+Roberts,09,Secretary of State,,Thomas A Cool,DEM,112
+Roberts,09,Secretary of State,,Monae Johnson,REP,275
+Roberts,10,Secretary of State,,Thomas A Cool,DEM,101
+Roberts,10,Secretary of State,,Monae Johnson,REP,74
+Roberts,11,Secretary of State,,Thomas A Cool,DEM,331
+Roberts,11,Secretary of State,,Monae Johnson,REP,317
+Roberts,12 (Precinct-14),Secretary of State,,Thomas A Cool,DEM,146
+Roberts,12 (Precinct-14),Secretary of State,,Monae Johnson,REP,112
+Roberts,13,Secretary of State,,Thomas A Cool,DEM,120
+Roberts,13,Secretary of State,,Monae Johnson,REP,92
+Roberts,01,Attorney General,,Marty J. Jackley,REP,116
+Roberts,02,Attorney General,,Marty J. Jackley,REP,365
+Roberts,03,Attorney General,,Marty J. Jackley,REP,138
+Roberts,04,Attorney General,,Marty J. Jackley,REP,52
+Roberts,05,Attorney General,,Marty J. Jackley,REP,192
+Roberts,06 (Precinct-07),Attorney General,,Marty J. Jackley,REP,377
+Roberts,08,Attorney General,,Marty J. Jackley,REP,85
+Roberts,09,Attorney General,,Marty J. Jackley,REP,327
+Roberts,10,Attorney General,,Marty J. Jackley,REP,115
+Roberts,11,Attorney General,,Marty J. Jackley,REP,468
+Roberts,12 (Precinct-14),Attorney General,,Marty J. Jackley,REP,179
+Roberts,13,Attorney General,,Marty J. Jackley,REP,142
+Roberts,01,State Auditor,,Stephanie Marty,DEM,31
+Roberts,01,State Auditor,,Rene Meyer,LIB,2
+Roberts,01,State Auditor,,Richard Sattgast,REP,94
+Roberts,02,State Auditor,,Stephanie Marty,DEM,95
+Roberts,02,State Auditor,,Rene Meyer,LIB,14
+Roberts,02,State Auditor,,Richard Sattgast,REP,323
+Roberts,03,State Auditor,,Stephanie Marty,DEM,57
+Roberts,03,State Auditor,,Rene Meyer,LIB,8
+Roberts,03,State Auditor,,Richard Sattgast,REP,99
+Roberts,04,State Auditor,,Stephanie Marty,DEM,23
+Roberts,04,State Auditor,,Rene Meyer,LIB,4
+Roberts,04,State Auditor,,Richard Sattgast,REP,38
+Roberts,05,State Auditor,,Stephanie Marty,DEM,190
+Roberts,05,State Auditor,,Rene Meyer,LIB,15
+Roberts,05,State Auditor,,Richard Sattgast,REP,124
+Roberts,06 (Precinct-07),State Auditor,,Stephanie Marty,DEM,136
+Roberts,06 (Precinct-07),State Auditor,,Rene Meyer,LIB,23
+Roberts,06 (Precinct-07),State Auditor,,Richard Sattgast,REP,306
+Roberts,08,State Auditor,,Stephanie Marty,DEM,44
+Roberts,08,State Auditor,,Rene Meyer,LIB,8
+Roberts,08,State Auditor,,Richard Sattgast,REP,57
+Roberts,09,State Auditor,,Stephanie Marty,DEM,97
+Roberts,09,State Auditor,,Rene Meyer,LIB,17
+Roberts,09,State Auditor,,Richard Sattgast,REP,274
+Roberts,10,State Auditor,,Stephanie Marty,DEM,98
+Roberts,10,State Auditor,,Rene Meyer,LIB,8
+Roberts,10,State Auditor,,Richard Sattgast,REP,69
+Roberts,11,State Auditor,,Stephanie Marty,DEM,314
+Roberts,11,State Auditor,,Rene Meyer,LIB,28
+Roberts,11,State Auditor,,Richard Sattgast,REP,296
+Roberts,12 (Precinct-14),State Auditor,,Stephanie Marty,DEM,139
+Roberts,12 (Precinct-14),State Auditor,,Rene Meyer,LIB,10
+Roberts,12 (Precinct-14),State Auditor,,Richard Sattgast,REP,108
+Roberts,13,State Auditor,,Stephanie Marty,DEM,107
+Roberts,13,State Auditor,,Rene Meyer,LIB,14
+Roberts,13,State Auditor,,Richard Sattgast,REP,85
+Roberts,01,State Treasurer,,John Cunningham,DEM,34
+Roberts,01,State Treasurer,,Josh Haeder,REP,95
+Roberts,02,State Treasurer,,John Cunningham,DEM,95
+Roberts,02,State Treasurer,,Josh Haeder,REP,332
+Roberts,03,State Treasurer,,John Cunningham,DEM,56
+Roberts,03,State Treasurer,,Josh Haeder,REP,108
+Roberts,04,State Treasurer,,John Cunningham,DEM,29
+Roberts,04,State Treasurer,,Josh Haeder,REP,38
+Roberts,05,State Treasurer,,John Cunningham,DEM,188
+Roberts,05,State Treasurer,,Josh Haeder,REP,139
+Roberts,06 (Precinct-07),State Treasurer,,John Cunningham,DEM,133
+Roberts,06 (Precinct-07),State Treasurer,,Josh Haeder,REP,322
+Roberts,08,State Treasurer,,John Cunningham,DEM,42
+Roberts,08,State Treasurer,,Josh Haeder,REP,66
+Roberts,09,State Treasurer,,John Cunningham,DEM,110
+Roberts,09,State Treasurer,,Josh Haeder,REP,274
+Roberts,10,State Treasurer,,John Cunningham,DEM,99
+Roberts,10,State Treasurer,,Josh Haeder,REP,73
+Roberts,11,State Treasurer,,John Cunningham,DEM,329
+Roberts,11,State Treasurer,,Josh Haeder,REP,307
+Roberts,12 (Precinct-14),State Treasurer,,John Cunningham,DEM,142
+Roberts,12 (Precinct-14),State Treasurer,,Josh Haeder,REP,109
+Roberts,13,State Treasurer,,John Cunningham,DEM,114
+Roberts,13,State Treasurer,,Josh Haeder,REP,93
+Roberts,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Roberts,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,93
+Roberts,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,89
+Roberts,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,324
+Roberts,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,61
+Roberts,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,107
+Roberts,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,25
+Roberts,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,43
+Roberts,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,186
+Roberts,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,136
+Roberts,06 (Precinct-07),Commissioner of School and Public Lands,,Timothy Azure,DEM,138
+Roberts,06 (Precinct-07),Commissioner of School and Public Lands,,Brock Greenfield,REP,316
+Roberts,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Roberts,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,70
+Roberts,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,106
+Roberts,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,266
+Roberts,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,100
+Roberts,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,71
+Roberts,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,328
+Roberts,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,309
+Roberts,12 (Precinct-14),Commissioner of School and Public Lands,,Timothy Azure,DEM,143
+Roberts,12 (Precinct-14),Commissioner of School and Public Lands,,Brock Greenfield,REP,106
+Roberts,13,Commissioner of School and Public Lands,,Timothy Azure,DEM,116
+Roberts,13,Commissioner of School and Public Lands,,Brock Greenfield,REP,92
+Roberts,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,33
+Roberts,01,Public Utilities Commissioner,,Chris Nelson,REP,94
+Roberts,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,82
+Roberts,02,Public Utilities Commissioner,,Chris Nelson,REP,348
+Roberts,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Roberts,03,Public Utilities Commissioner,,Chris Nelson,REP,130
+Roberts,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Roberts,04,Public Utilities Commissioner,,Chris Nelson,REP,41
+Roberts,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,178
+Roberts,05,Public Utilities Commissioner,,Chris Nelson,REP,149
+Roberts,06 (Precinct-07),Public Utilities Commissioner,,Jeffrey Barth,DEM,121
+Roberts,06 (Precinct-07),Public Utilities Commissioner,,Chris Nelson,REP,340
+Roberts,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Roberts,08,Public Utilities Commissioner,,Chris Nelson,REP,71
+Roberts,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,89
+Roberts,09,Public Utilities Commissioner,,Chris Nelson,REP,296
+Roberts,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,96
+Roberts,10,Public Utilities Commissioner,,Chris Nelson,REP,76
+Roberts,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,299
+Roberts,11,Public Utilities Commissioner,,Chris Nelson,REP,340
+Roberts,12 (Precinct-14),Public Utilities Commissioner,,Jeffrey Barth,DEM,123
+Roberts,12 (Precinct-14),Public Utilities Commissioner,,Chris Nelson,REP,126
+Roberts,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,96
+Roberts,13,Public Utilities Commissioner,,Chris Nelson,REP,111
+Roberts,01,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,62
+Roberts,02,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,206
+Roberts,03,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,76
+Roberts,04,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,36
+Roberts,05,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,117
+Roberts,06 (Precinct-07),Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,207
+Roberts,08,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,58
+Roberts,09,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,167
+Roberts,10,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,62
+Roberts,11,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,266
+Roberts,12 (Precinct-14),Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,95
+Roberts,13,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,85
+Roberts,01,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,67
+Roberts,02,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,201
+Roberts,03,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,70
+Roberts,04,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,31
+Roberts,05,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,121
+Roberts,06 (Precinct-07),Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,204
+Roberts,08,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,56
+Roberts,09,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,169
+Roberts,10,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,74
+Roberts,11,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,286
+Roberts,12 (Precinct-14),Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,100
+Roberts,13,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,96
+Roberts,01,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,63
+Roberts,02,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,201
+Roberts,03,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,66
+Roberts,04,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,32
+Roberts,05,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,110
+Roberts,06 (Precinct-07),Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,197
+Roberts,08,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,54
+Roberts,09,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,163
+Roberts,10,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,61
+Roberts,11,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,246
+Roberts,12 (Precinct-14),Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,91
+Roberts,13,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,81
+Roberts,01,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,68
+Roberts,02,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,209
+Roberts,03,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,73
+Roberts,04,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,34
+Roberts,05,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,121
+Roberts,06 (Precinct-07),Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,210
+Roberts,08,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,55
+Roberts,09,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,180
+Roberts,10,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,67
+Roberts,11,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,270
+Roberts,12 (Precinct-14),Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,104
+Roberts,13,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,91
+Roberts,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,105
+Roberts,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Roberts,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,346
+Roberts,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,51
+Roberts,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,131
+Roberts,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,24
+Roberts,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,53
+Roberts,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Roberts,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,225
+Roberts,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Roberts,06 (Precinct-07),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,337
+Roberts,06 (Precinct-07),Supreme Court Retention,3,Patricia J. DeVaney - No,,79
+Roberts,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,86
+Roberts,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Roberts,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,282
+Roberts,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Roberts,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,110
+Roberts,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,50
+Roberts,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,442
+Roberts,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,155
+Roberts,12 (Precinct-14),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,167
+Roberts,12 (Precinct-14),Supreme Court Retention,3,Patricia J. DeVaney - No,,64
+Roberts,13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,143
+Roberts,13,Supreme Court Retention,3,Patricia J. DeVaney - No,,47
+Roberts,01,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Roberts,01,Supreme Court Retention,2,Mark E. Salter - No,,17
+Roberts,02,Supreme Court Retention,2,Mark E. Salter - Yes,,342
+Roberts,02,Supreme Court Retention,2,Mark E. Salter - No,,51
+Roberts,03,Supreme Court Retention,2,Mark E. Salter - Yes,,127
+Roberts,03,Supreme Court Retention,2,Mark E. Salter - No,,24
+Roberts,04,Supreme Court Retention,2,Mark E. Salter - Yes,,51
+Roberts,04,Supreme Court Retention,2,Mark E. Salter - No,,13
+Roberts,05,Supreme Court Retention,2,Mark E. Salter - Yes,,212
+Roberts,05,Supreme Court Retention,2,Mark E. Salter - No,,94
+Roberts,06 (Precinct-07),Supreme Court Retention,2,Mark E. Salter - Yes,,336
+Roberts,06 (Precinct-07),Supreme Court Retention,2,Mark E. Salter - No,,81
+Roberts,08,Supreme Court Retention,2,Mark E. Salter - Yes,,82
+Roberts,08,Supreme Court Retention,2,Mark E. Salter - No,,20
+Roberts,09,Supreme Court Retention,2,Mark E. Salter - Yes,,281
+Roberts,09,Supreme Court Retention,2,Mark E. Salter - No,,63
+Roberts,10,Supreme Court Retention,2,Mark E. Salter - Yes,,101
+Roberts,10,Supreme Court Retention,2,Mark E. Salter - No,,57
+Roberts,11,Supreme Court Retention,2,Mark E. Salter - Yes,,438
+Roberts,11,Supreme Court Retention,2,Mark E. Salter - No,,158
+Roberts,12 (Precinct-14),Supreme Court Retention,2,Mark E. Salter - Yes,,164
+Roberts,12 (Precinct-14),Supreme Court Retention,2,Mark E. Salter - No,,66
+Roberts,13,Supreme Court Retention,2,Mark E. Salter - Yes,,140
+Roberts,13,Supreme Court Retention,2,Mark E. Salter - No,,47
+Roberts,01,Constitutional Amendment D,,Yes,,77
+Roberts,01,Constitutional Amendment D,,No,,62
+Roberts,02,Constitutional Amendment D,,Yes,,186
+Roberts,02,Constitutional Amendment D,,No,,259
+Roberts,03,Constitutional Amendment D,,Yes,,96
+Roberts,03,Constitutional Amendment D,,No,,83
+Roberts,04,Constitutional Amendment D,,Yes,,39
+Roberts,04,Constitutional Amendment D,,No,,29
+Roberts,05,Constitutional Amendment D,,Yes,,223
+Roberts,05,Constitutional Amendment D,,No,,113
+Roberts,06 (Precinct-07),Constitutional Amendment D,,Yes,,242
+Roberts,06 (Precinct-07),Constitutional Amendment D,,No,,221
+Roberts,08,Constitutional Amendment D,,Yes,,72
+Roberts,08,Constitutional Amendment D,,No,,40
+Roberts,09,Constitutional Amendment D,,Yes,,188
+Roberts,09,Constitutional Amendment D,,No,,212
+Roberts,10,Constitutional Amendment D,,Yes,,126
+Roberts,10,Constitutional Amendment D,,No,,55
+Roberts,11,Constitutional Amendment D,,Yes,,427
+Roberts,11,Constitutional Amendment D,,No,,247
+Roberts,12 (Precinct-14),Constitutional Amendment D,,Yes,,192
+Roberts,12 (Precinct-14),Constitutional Amendment D,,No,,69
+Roberts,13,Constitutional Amendment D,,Yes,,132
+Roberts,13,Constitutional Amendment D,,No,,78
+Roberts,01,Initiated Measure 27,,Yes,,44
+Roberts,01,Initiated Measure 27,,No,,94
+Roberts,02,Initiated Measure 27,,Yes,,183
+Roberts,02,Initiated Measure 27,,No,,266
+Roberts,03,Initiated Measure 27,,Yes,,68
+Roberts,03,Initiated Measure 27,,No,,112
+Roberts,04,Initiated Measure 27,,Yes,,30
+Roberts,04,Initiated Measure 27,,No,,41
+Roberts,05,Initiated Measure 27,,Yes,,182
+Roberts,05,Initiated Measure 27,,No,,152
+Roberts,06 (Precinct-07),Initiated Measure 27,,Yes,,179
+Roberts,06 (Precinct-07),Initiated Measure 27,,No,,294
+Roberts,08,Initiated Measure 27,,Yes,,60
+Roberts,08,Initiated Measure 27,,No,,53
+Roberts,09,Initiated Measure 27,,Yes,,148
+Roberts,09,Initiated Measure 27,,No,,255
+Roberts,10,Initiated Measure 27,,Yes,,105
+Roberts,10,Initiated Measure 27,,No,,78
+Roberts,11,Initiated Measure 27,,Yes,,308
+Roberts,11,Initiated Measure 27,,No,,381
+Roberts,12 (Precinct-14),Initiated Measure 27,,Yes,,136
+Roberts,12 (Precinct-14),Initiated Measure 27,,No,,127
+Roberts,13,Initiated Measure 27,,Yes,,109
+Roberts,13,Initiated Measure 27,,No,,106
+Roberts,01,State Senate,01,Michael H. Rohl,REP,96
+Roberts,01,State Senate,01,Susan Wismer,IND,42
+Roberts,02,State Senate,04,John Wiik,REP,339
+Roberts,03,State Senate,01,Michael H. Rohl,REP,100
+Roberts,03,State Senate,01,Susan Wismer,IND,76
+Roberts,04,State Senate,01,Michael H. Rohl,REP,41
+Roberts,04,State Senate,01,Susan Wismer,IND,27
+Roberts,05,State Senate,01,Michael H. Rohl,REP,109
+Roberts,05,State Senate,01,Susan Wismer,IND,154
+Roberts,05,State Senate,04,John Wiik,REP,28
+Roberts,06 (Precinct-07),State Senate,01,Michael H. Rohl,REP,289
+Roberts,06 (Precinct-07),State Senate,01,Susan Wismer,IND,170
+Roberts,08,State Senate,01,Michael H. Rohl,REP,58
+Roberts,08,State Senate,01,Susan Wismer,IND,45
+Roberts,09,State Senate,01,Michael H. Rohl,REP,2
+Roberts,09,State Senate,01,Susan Wismer,IND,4
+Roberts,09,State Senate,04,John Wiik,REP,304
+Roberts,10,State Senate,01,Michael H. Rohl,REP,67
+Roberts,10,State Senate,01,Susan Wismer,IND,100
+Roberts,11,State Senate,01,Michael H. Rohl,REP,305
+Roberts,11,State Senate,01,Susan Wismer,IND,343
+Roberts,12 (Precinct-14),State Senate,01,Michael H. Rohl,REP,101
+Roberts,12 (Precinct-14),State Senate,01,Susan Wismer,IND,150
+Roberts,13 10 of 19,State Senate,01,Michael H. Rohl,REP,90
+Roberts,13 10 of 19,State Senate,01,Susan Wismer,IND,112
+Roberts,01,State House,01,Steven D. McCleerey,DEM,52
+Roberts,01,State House,01,Kay F. Nikolas,DEM,42
+Roberts,01,State House,01,Joe Donnell,REP,73
+Roberts,01,State House,01,Tamara St John,REP,70
+Roberts,02,State House,04,Stephanie Sauder,REP,219
+Roberts,02,State House,04,Fred Deutsch,REP,297
+Roberts,03,State House,01,Steven D. McCleerey,DEM,86
+Roberts,03,State House,01,Kay F. Nikolas,DEM,59
+Roberts,03,State House,01,Joe Donnell,REP,83
+Roberts,03,State House,01,Tamara St John,REP,90
+Roberts,04,State House,01,Steven D. McCleerey,DEM,25
+Roberts,04,State House,01,Kay F. Nikolas,DEM,19
+Roberts,04,State House,01,Joe Donnell,REP,21
+Roberts,04,State House,01,Tamara St John,REP,30
+Roberts,05,State House,01,Steven D. McCleerey,DEM,138
+Roberts,05,State House,01,Kay F. Nikolas,DEM,78
+Roberts,05,State House,01,Joe Donnell,REP,104
+Roberts,05,State House,01,Tamara St John,REP,134
+Roberts,05,State House,04,Stephanie Sauder,REP,19
+Roberts,05,State House,04,Fred Deutsch,REP,21
+Roberts,06 (Precinct-07),State House,01,Steven D. McCleerey,DEM,154
+Roberts,06 (Precinct-07),State House,01,Kay F. Nikolas,DEM,133
+Roberts,06 (Precinct-07),State House,01,Joe Donnell,REP,234
+Roberts,06 (Precinct-07),State House,01,Tamara St John,REP,280
+Roberts,08,State House,01,Steven D. McCleerey,DEM,40
+Roberts,08,State House,01,Kay F. Nikolas,DEM,31
+Roberts,08,State House,01,Joe Donnell,REP,54
+Roberts,08,State House,01,Tamara St John,REP,56
+Roberts,09,State House,01,Steven D. McCleerey,DEM,3
+Roberts,09,State House,01,Kay F. Nikolas,DEM,1
+Roberts,09,State House,01,Joe Donnell,REP,2
+Roberts,09,State House,01,Tamara St John,REP,1
+Roberts,09,State House,04,Stephanie Sauder,REP,177
+Roberts,09,State House,04,Fred Deutsch,REP,238
+Roberts,10,State House,01,Steven D. McCleerey,DEM,81
+Roberts,10,State House,01,Kay F. Nikolas,DEM,42
+Roberts,10,State House,01,Joe Donnell,REP,72
+Roberts,10,State House,01,Tamara St John,REP,96
+Roberts,11,State House,01,Steven D. McCleerey,DEM,303
+Roberts,11,State House,01,Kay F. Nikolas,DEM,234
+Roberts,11,State House,01,Joe Donnell,REP,289
+Roberts,11,State House,01,Tamara St John,REP,332
+Roberts,12 (Precinct-14),State House,01,Steven D. McCleerey,DEM,136
+Roberts,12 (Precinct-14),State House,01,Kay F. Nikolas,DEM,112
+Roberts,12 (Precinct-14),State House,01,Joe Donnell,REP,96
+Roberts,12 (Precinct-14),State House,01,Tamara St John,REP,118
+Roberts,13 11 of 19,State House,01,Steven D. McCleerey,DEM,105
+Roberts,13 11 of 19,State House,01,Kay F. Nikolas,DEM,90
+Roberts,13 11 of 19,State House,01,Joe Donnell,REP,93
+Roberts,13 11 of 19,State House,01,Tamara St John,REP,97

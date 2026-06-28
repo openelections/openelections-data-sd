@@ -1,0 +1,430 @@
+county,precinct,office,district,candidate,party,votes
+Dewey,02 Trail City,U.S. Senate,,Brian L. Bengs,DEM,2
+Dewey,02 Trail City,U.S. Senate,,Tamara J Lesnar,LIB,3
+Dewey,02 Trail City,U.S. Senate,,John R. Thune,REP,27
+Dewey,04 Timber Lake,U.S. Senate,,Brian L. Bengs,DEM,62
+Dewey,04 Timber Lake,U.S. Senate,,Tamara J Lesnar,LIB,16
+Dewey,04 Timber Lake,U.S. Senate,,John R. Thune,REP,246
+Dewey,05 Firesteel,U.S. Senate,,Brian L. Bengs,DEM,12
+Dewey,05 Firesteel,U.S. Senate,,Tamara J Lesnar,LIB,4
+Dewey,05 Firesteel,U.S. Senate,,John R. Thune,REP,37
+Dewey,06 Isabel,U.S. Senate,,Brian L. Bengs,DEM,10
+Dewey,06 Isabel,U.S. Senate,,Tamara J Lesnar,LIB,2
+Dewey,06 Isabel,U.S. Senate,,John R. Thune,REP,96
+Dewey,?,U.S. Senate,,Brian L. Bengs,DEM,163
+Dewey,?,U.S. Senate,,Tamara J Lesnar,LIB,14
+Dewey,?,U.S. Senate,,John R. Thune,REP,47
+Dewey,08 White Horse,U.S. Senate,,Brian L. Bengs,DEM,33
+Dewey,08 White Horse,U.S. Senate,,Tamara J Lesnar,LIB,3
+Dewey,08 White Horse,U.S. Senate,,John R. Thune,REP,16
+Dewey,09 Promise,U.S. Senate,,Brian L. Bengs,DEM,32
+Dewey,09 Promise,U.S. Senate,,Tamara J Lesnar,LIB,2
+Dewey,09 Promise,U.S. Senate,,John R. Thune,REP,26
+Dewey,?,U.S. Senate,,Brian L. Bengs,DEM,56
+Dewey,?,U.S. Senate,,Tamara J Lesnar,LIB,4
+Dewey,?,U.S. Senate,,John R. Thune,REP,18
+Dewey,North (Precinct-13 Eagle,U.S. Senate,,Brian L. Bengs,DEM,112
+Dewey,North (Precinct-13 Eagle,U.S. Senate,,Tamara J Lesnar,LIB,7
+Dewey,North (Precinct-13 Eagle,U.S. Senate,,John R. Thune,REP,92
+Dewey,?,U.S. Senate,,Brian L. Bengs,DEM,152
+Dewey,?,U.S. Senate,,Tamara J Lesnar,LIB,13
+Dewey,?,U.S. Senate,,John R. Thune,REP,79
+Dewey,?,U.S. Senate,,Brian L. Bengs,DEM,86
+Dewey,?,U.S. Senate,,Tamara J Lesnar,LIB,2
+Dewey,?,U.S. Senate,,John R. Thune,REP,86
+Dewey,02 Trail City,U.S. House,1,Collin Duprel,LIB,4
+Dewey,02 Trail City,U.S. House,1,Dusty Johnson,REP,28
+Dewey,04 Timber Lake,U.S. House,1,Collin Duprel,LIB,60
+Dewey,04 Timber Lake,U.S. House,1,Dusty Johnson,REP,252
+Dewey,05 Firesteel,U.S. House,1,Collin Duprel,LIB,8
+Dewey,05 Firesteel,U.S. House,1,Dusty Johnson,REP,38
+Dewey,06 Isabel,U.S. House,1,Collin Duprel,LIB,9
+Dewey,06 Isabel,U.S. House,1,Dusty Johnson,REP,94
+Dewey,?,U.S. House,1,Collin Duprel,LIB,119
+Dewey,?,U.S. House,1,Dusty Johnson,REP,68
+Dewey,08 White Horse,U.S. House,1,Collin Duprel,LIB,22
+Dewey,08 White Horse,U.S. House,1,Dusty Johnson,REP,21
+Dewey,09 Promise,U.S. House,1,Collin Duprel,LIB,25
+Dewey,09 Promise,U.S. House,1,Dusty Johnson,REP,25
+Dewey,?,U.S. House,1,Collin Duprel,LIB,35
+Dewey,?,U.S. House,1,Dusty Johnson,REP,33
+Dewey,North (Precinct-13 Eagle,U.S. House,1,Collin Duprel,LIB,74
+Dewey,North (Precinct-13 Eagle,U.S. House,1,Dusty Johnson,REP,108
+Dewey,?,U.S. House,1,Collin Duprel,LIB,104
+Dewey,?,U.S. House,1,Dusty Johnson,REP,107
+Dewey,?,U.S. House,1,Collin Duprel,LIB,59
+Dewey,?,U.S. House,1,Dusty Johnson,REP,96
+Dewey,02 Trail City,Governor,,Jamie Smith and Jennifer Keintz,DEM,2
+Dewey,02 Trail City,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Dewey,02 Trail City,Governor,,Kristi Noem and Larry Rhoden,REP,33
+Dewey,04 Timber Lake,Governor,,Jamie Smith and Jennifer Keintz,DEM,82
+Dewey,04 Timber Lake,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Dewey,04 Timber Lake,Governor,,Kristi Noem and Larry Rhoden,REP,238
+Dewey,05 Firesteel,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Dewey,05 Firesteel,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Dewey,05 Firesteel,Governor,,Kristi Noem and Larry Rhoden,REP,36
+Dewey,06 Isabel,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Dewey,06 Isabel,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Dewey,06 Isabel,Governor,,Kristi Noem and Larry Rhoden,REP,92
+Dewey,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,184
+Dewey,?,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Dewey,?,Governor,,Kristi Noem and Larry Rhoden,REP,25
+Dewey,08 White Horse,Governor,,Jamie Smith and Jennifer Keintz,DEM,37
+Dewey,08 White Horse,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Dewey,08 White Horse,Governor,,Kristi Noem and Larry Rhoden,REP,14
+Dewey,09 Promise,Governor,,Jamie Smith and Jennifer Keintz,DEM,37
+Dewey,09 Promise,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Dewey,09 Promise,Governor,,Kristi Noem and Larry Rhoden,REP,21
+Dewey,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,69
+Dewey,?,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Dewey,?,Governor,,Kristi Noem and Larry Rhoden,REP,12
+Dewey,North (Precinct-13 Eagle,Governor,,Jamie Smith and Jennifer Keintz,DEM,130
+Dewey,North (Precinct-13 Eagle,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Dewey,North (Precinct-13 Eagle,Governor,,Kristi Noem and Larry Rhoden,REP,71
+Dewey,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,187
+Dewey,?,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Dewey,?,Governor,,Kristi Noem and Larry Rhoden,REP,50
+Dewey,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,103
+Dewey,?,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Dewey,?,Governor,,Kristi Noem and Larry Rhoden,REP,70
+Dewey,02 Trail City,Secretary of State,,Thomas A Cool,DEM,2
+Dewey,02 Trail City,Secretary of State,,Monae Johnson,REP,31
+Dewey,04 Timber Lake,Secretary of State,,Thomas A Cool,DEM,93
+Dewey,04 Timber Lake,Secretary of State,,Monae Johnson,REP,217
+Dewey,05 Firesteel,Secretary of State,,Thomas A Cool,DEM,21
+Dewey,05 Firesteel,Secretary of State,,Monae Johnson,REP,28
+Dewey,06 Isabel,Secretary of State,,Thomas A Cool,DEM,17
+Dewey,06 Isabel,Secretary of State,,Monae Johnson,REP,87
+Dewey,?,Secretary of State,,Thomas A Cool,DEM,183
+Dewey,?,Secretary of State,,Monae Johnson,REP,37
+Dewey,08 White Horse,Secretary of State,,Thomas A Cool,DEM,49
+Dewey,08 White Horse,Secretary of State,,Monae Johnson,REP,4
+Dewey,09 Promise,Secretary of State,,Thomas A Cool,DEM,38
+Dewey,09 Promise,Secretary of State,,Monae Johnson,REP,19
+Dewey,?,Secretary of State,,Thomas A Cool,DEM,64
+Dewey,?,Secretary of State,,Monae Johnson,REP,14
+Dewey,North (Precinct-13 Eagle,Secretary of State,,Thomas A Cool,DEM,127
+Dewey,North (Precinct-13 Eagle,Secretary of State,,Monae Johnson,REP,74
+Dewey,?,Secretary of State,,Thomas A Cool,DEM,190
+Dewey,?,Secretary of State,,Monae Johnson,REP,48
+Dewey,?,Secretary of State,,Thomas A Cool,DEM,100
+Dewey,?,Secretary of State,,Monae Johnson,REP,69
+Dewey,02 Trail City,Attorney General,,Marty J. Jackley,REP,32
+Dewey,04 Timber Lake,Attorney General,,Marty J. Jackley,REP,254
+Dewey,05 Firesteel,Attorney General,,Marty J. Jackley,REP,33
+Dewey,06 Isabel,Attorney General,,Marty J. Jackley,REP,97
+Dewey,?,Attorney General,,Marty J. Jackley,REP,87
+Dewey,08 White Horse,Attorney General,,Marty J. Jackley,REP,21
+Dewey,09 Promise,Attorney General,,Marty J. Jackley,REP,29
+Dewey,?,Attorney General,,Marty J. Jackley,REP,29
+Dewey,North (Precinct-13 Eagle,Attorney General,,Marty J. Jackley,REP,115
+Dewey,?,Attorney General,,Marty J. Jackley,REP,103
+Dewey,?,Attorney General,,Marty J. Jackley,REP,93
+Dewey,02 Trail City,State Auditor,,Stephanie Marty,DEM,2
+Dewey,02 Trail City,State Auditor,,Rene Meyer,LIB,2
+Dewey,02 Trail City,State Auditor,,Richard Sattgast,REP,29
+Dewey,04 Timber Lake,State Auditor,,Stephanie Marty,DEM,82
+Dewey,04 Timber Lake,State Auditor,,Rene Meyer,LIB,13
+Dewey,04 Timber Lake,State Auditor,,Richard Sattgast,REP,205
+Dewey,05 Firesteel,State Auditor,,Stephanie Marty,DEM,17
+Dewey,05 Firesteel,State Auditor,,Rene Meyer,LIB,2
+Dewey,05 Firesteel,State Auditor,,Richard Sattgast,REP,32
+Dewey,06 Isabel,State Auditor,,Stephanie Marty,DEM,14
+Dewey,06 Isabel,State Auditor,,Rene Meyer,LIB,3
+Dewey,06 Isabel,State Auditor,,Richard Sattgast,REP,85
+Dewey,?,State Auditor,,Stephanie Marty,DEM,174
+Dewey,?,State Auditor,,Rene Meyer,LIB,17
+Dewey,?,State Auditor,,Richard Sattgast,REP,27
+Dewey,08 White Horse,State Auditor,,Stephanie Marty,DEM,46
+Dewey,08 White Horse,State Auditor,,Rene Meyer,LIB,3
+Dewey,08 White Horse,State Auditor,,Richard Sattgast,REP,2
+Dewey,09 Promise,State Auditor,,Stephanie Marty,DEM,38
+Dewey,09 Promise,State Auditor,,Rene Meyer,LIB,4
+Dewey,09 Promise,State Auditor,,Richard Sattgast,REP,16
+Dewey,?,State Auditor,,Stephanie Marty,DEM,61
+Dewey,?,State Auditor,,Rene Meyer,LIB,7
+Dewey,?,State Auditor,,Richard Sattgast,REP,11
+Dewey,North (Precinct-13 Eagle,State Auditor,,Stephanie Marty,DEM,124
+Dewey,North (Precinct-13 Eagle,State Auditor,,Rene Meyer,LIB,11
+Dewey,North (Precinct-13 Eagle,State Auditor,,Richard Sattgast,REP,70
+Dewey,?,State Auditor,,Stephanie Marty,DEM,182
+Dewey,?,State Auditor,,Rene Meyer,LIB,16
+Dewey,?,State Auditor,,Richard Sattgast,REP,38
+Dewey,?,State Auditor,,Stephanie Marty,DEM,101
+Dewey,?,State Auditor,,Rene Meyer,LIB,12
+Dewey,?,State Auditor,,Richard Sattgast,REP,55
+Dewey,02 Trail City,State Treasurer,,John Cunningham,DEM,2
+Dewey,02 Trail City,State Treasurer,,Josh Haeder,REP,31
+Dewey,04 Timber Lake,State Treasurer,,John Cunningham,DEM,92
+Dewey,04 Timber Lake,State Treasurer,,Josh Haeder,REP,205
+Dewey,05 Firesteel,State Treasurer,,John Cunningham,DEM,17
+Dewey,05 Firesteel,State Treasurer,,Josh Haeder,REP,31
+Dewey,06 Isabel,State Treasurer,,John Cunningham,DEM,12
+Dewey,06 Isabel,State Treasurer,,Josh Haeder,REP,91
+Dewey,?,State Treasurer,,John Cunningham,DEM,177
+Dewey,?,State Treasurer,,Josh Haeder,REP,38
+Dewey,08 White Horse,State Treasurer,,John Cunningham,DEM,49
+Dewey,08 White Horse,State Treasurer,,Josh Haeder,REP,5
+Dewey,09 Promise,State Treasurer,,John Cunningham,DEM,38
+Dewey,09 Promise,State Treasurer,,Josh Haeder,REP,20
+Dewey,?,State Treasurer,,John Cunningham,DEM,65
+Dewey,?,State Treasurer,,Josh Haeder,REP,12
+Dewey,North (Precinct-13 Eagle,State Treasurer,,John Cunningham,DEM,130
+Dewey,North (Precinct-13 Eagle,State Treasurer,,Josh Haeder,REP,73
+Dewey,?,State Treasurer,,John Cunningham,DEM,197
+Dewey,?,State Treasurer,,Josh Haeder,REP,39
+Dewey,?,State Treasurer,,John Cunningham,DEM,103
+Dewey,?,State Treasurer,,Josh Haeder,REP,66
+Dewey,02 Trail City,Commissioner of School and Public Lands,,Timothy Azure,DEM,2
+Dewey,02 Trail City,Commissioner of School and Public Lands,,Brock Greenfield,REP,31
+Dewey,04 Timber Lake,Commissioner of School and Public Lands,,Timothy Azure,DEM,86
+Dewey,04 Timber Lake,Commissioner of School and Public Lands,,Brock Greenfield,REP,214
+Dewey,05 Firesteel,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Dewey,05 Firesteel,Commissioner of School and Public Lands,,Brock Greenfield,REP,33
+Dewey,06 Isabel,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Dewey,06 Isabel,Commissioner of School and Public Lands,,Brock Greenfield,REP,90
+Dewey,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,183
+Dewey,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,30
+Dewey,08 White Horse,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Dewey,08 White Horse,Commissioner of School and Public Lands,,Brock Greenfield,REP,7
+Dewey,09 Promise,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
+Dewey,09 Promise,Commissioner of School and Public Lands,,Brock Greenfield,REP,17
+Dewey,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,67
+Dewey,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,12
+Dewey,North (Precinct-13 Eagle,Commissioner of School and Public Lands,,Timothy Azure,DEM,124
+Dewey,North (Precinct-13 Eagle,Commissioner of School and Public Lands,,Brock Greenfield,REP,77
+Dewey,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,191
+Dewey,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,41
+Dewey,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,104
+Dewey,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,62
+Dewey,02 Trail City,Public Utilities Commissioner,,Jeffrey Barth,DEM,2
+Dewey,02 Trail City,Public Utilities Commissioner,,Chris Nelson,REP,32
+Dewey,04 Timber Lake,Public Utilities Commissioner,,Jeffrey Barth,DEM,72
+Dewey,04 Timber Lake,Public Utilities Commissioner,,Chris Nelson,REP,231
+Dewey,05 Firesteel,Public Utilities Commissioner,,Jeffrey Barth,DEM,16
+Dewey,05 Firesteel,Public Utilities Commissioner,,Chris Nelson,REP,37
+Dewey,06 Isabel,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Dewey,06 Isabel,Public Utilities Commissioner,,Chris Nelson,REP,92
+Dewey,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,174
+Dewey,?,Public Utilities Commissioner,,Chris Nelson,REP,38
+Dewey,08 White Horse,Public Utilities Commissioner,,Jeffrey Barth,DEM,46
+Dewey,08 White Horse,Public Utilities Commissioner,,Chris Nelson,REP,7
+Dewey,09 Promise,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Dewey,09 Promise,Public Utilities Commissioner,,Chris Nelson,REP,22
+Dewey,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,68
+Dewey,?,Public Utilities Commissioner,,Chris Nelson,REP,11
+Dewey,North (Precinct-13 Eagle,Public Utilities Commissioner,,Jeffrey Barth,DEM,121
+Dewey,North (Precinct-13 Eagle,Public Utilities Commissioner,,Chris Nelson,REP,84
+Dewey,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,177
+Dewey,?,Public Utilities Commissioner,,Chris Nelson,REP,51
+Dewey,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,97
+Dewey,?,Public Utilities Commissioner,,Chris Nelson,REP,72
+Dewey,02 Trail City,State Senate,28,Ryan M. Maher,REP,32
+Dewey,04 Timber Lake,State Senate,28,Ryan M. Maher,REP,272
+Dewey,05 Firesteel,State Senate,28,Ryan M. Maher,REP,38
+Dewey,06 Isabel,State Senate,28,Ryan M. Maher,REP,98
+Dewey,?,State Senate,28,Ryan M. Maher,REP,86
+Dewey,08 White Horse,State Senate,28,Ryan M. Maher,REP,27
+Dewey,09 Promise,State Senate,28,Ryan M. Maher,REP,31
+Dewey,?,State Senate,28,Ryan M. Maher,REP,25
+Dewey,North (Precinct-13 Eagle,State Senate,28,Ryan M. Maher,REP,117
+Dewey,?,State Senate,28,Ryan M. Maher,REP,104
+Dewey,?,State Senate,28,Ryan M. Maher,REP,105
+Dewey,02 Trail City,State House,28A,Oren L Lesmeister,DEM,3
+Dewey,02 Trail City,State House,28A,Ralph Lyon,REP,32
+Dewey,04 Timber Lake,State House,28A,Oren L Lesmeister,DEM,127
+Dewey,04 Timber Lake,State House,28A,Ralph Lyon,REP,189
+Dewey,05 Firesteel,State House,28A,Oren L Lesmeister,DEM,21
+Dewey,05 Firesteel,State House,28A,Ralph Lyon,REP,32
+Dewey,06 Isabel,State House,28A,Oren L Lesmeister,DEM,22
+Dewey,06 Isabel,State House,28A,Ralph Lyon,REP,86
+Dewey,?,State House,28A,Oren L Lesmeister,DEM,196
+Dewey,?,State House,28A,Ralph Lyon,REP,23
+Dewey,08 White Horse,State House,28A,Oren L Lesmeister,DEM,52
+Dewey,08 White Horse,State House,28A,Ralph Lyon,REP,2
+Dewey,09 Promise,State House,28A,Oren L Lesmeister,DEM,45
+Dewey,09 Promise,State House,28A,Ralph Lyon,REP,14
+Dewey,?,State House,28A,Oren L Lesmeister,DEM,78
+Dewey,?,State House,28A,Ralph Lyon,REP,5
+Dewey,North (Precinct-13 Eagle,State House,28A,Oren L Lesmeister,DEM,154
+Dewey,North (Precinct-13 Eagle,State House,28A,Ralph Lyon,REP,58
+Dewey,?,State House,28A,Oren L Lesmeister,DEM,215
+Dewey,?,State House,28A,Ralph Lyon,REP,23
+Dewey,?,State House,28A,Oren L Lesmeister,DEM,124
+Dewey,?,State House,28A,Ralph Lyon,REP,50
+Dewey,02 Trail City,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,14
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,146
+Dewey,05 Firesteel,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,19
+Dewey,06 Isabel,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,40
+Dewey,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,70
+Dewey,08 White Horse,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,19
+Dewey,09 Promise,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,14
+Dewey,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,14
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,77
+Dewey,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,83
+Dewey,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,58
+Dewey,02 Trail City,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,14
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,151
+Dewey,05 Firesteel,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,21
+Dewey,06 Isabel,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,42
+Dewey,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,70
+Dewey,08 White Horse,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,19
+Dewey,09 Promise,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,16
+Dewey,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,15
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,77
+Dewey,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,84
+Dewey,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,65
+Dewey,02 Trail City,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,12
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,143
+Dewey,05 Firesteel,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,21
+Dewey,06 Isabel,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,38
+Dewey,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,72
+Dewey,08 White Horse,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,19
+Dewey,09 Promise,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,14
+Dewey,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,17
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,82
+Dewey,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,85
+Dewey,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,55
+Dewey,02 Trail City,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,1
+Dewey,02 Trail City,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,2
+Dewey,02 Trail City,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,5
+Dewey,02 Trail City,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,5
+Dewey,02 Trail City,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,1
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,24
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,29
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,49
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,40
+Dewey,04 Timber Lake,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,36
+Dewey,05 Firesteel,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
+Dewey,05 Firesteel,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Dewey,05 Firesteel,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,16
+Dewey,05 Firesteel,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,2
+Dewey,05 Firesteel,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,5
+Dewey,06 Isabel,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Dewey,06 Isabel,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,3
+Dewey,06 Isabel,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,24
+Dewey,06 Isabel,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,9
+Dewey,06 Isabel,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,23
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,23
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,42
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,10
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,14
+Dewey,08 White Horse,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Dewey,08 White Horse,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Dewey,08 White Horse,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,12
+Dewey,08 White Horse,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,5
+Dewey,08 White Horse,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,2
+Dewey,09 Promise,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Dewey,09 Promise,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,3
+Dewey,09 Promise,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,15
+Dewey,09 Promise,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,1
+Dewey,09 Promise,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,2
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,9
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,3
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,15
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,2
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,5
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,24
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,19
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,28
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,28
+Dewey,North (Precinct-13 Eagle,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,10
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,24
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,18
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,50
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,21
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,11
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,22
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,32
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,16
+Dewey,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,6
+Dewey,02 Trail City,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,22
+Dewey,02 Trail City,Supreme Court Retention,3,Patricia J. DeVaney - No,,4
+Dewey,04 Timber Lake,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,212
+Dewey,04 Timber Lake,Supreme Court Retention,3,Patricia J. DeVaney - No,,63
+Dewey,05 Firesteel,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,35
+Dewey,05 Firesteel,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Dewey,06 Isabel,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,77
+Dewey,06 Isabel,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,106
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,88
+Dewey,08 White Horse,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,29
+Dewey,08 White Horse,Supreme Court Retention,3,Patricia J. DeVaney - No,,20
+Dewey,09 Promise,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,24
+Dewey,09 Promise,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,36
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Dewey,North (Precinct-13 Eagle,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,122
+Dewey,North (Precinct-13 Eagle,Supreme Court Retention,3,Patricia J. DeVaney - No,,66
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,129
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,103
+Dewey,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,43
+Dewey,02 Trail City,Supreme Court Retention,2,Mark E. Salter - Yes,,22
+Dewey,02 Trail City,Supreme Court Retention,2,Mark E. Salter - No,,4
+Dewey,04 Timber Lake,Supreme Court Retention,2,Mark E. Salter - Yes,,214
+Dewey,04 Timber Lake,Supreme Court Retention,2,Mark E. Salter - No,,61
+Dewey,05 Firesteel,Supreme Court Retention,2,Mark E. Salter - Yes,,34
+Dewey,05 Firesteel,Supreme Court Retention,2,Mark E. Salter - No,,11
+Dewey,06 Isabel,Supreme Court Retention,2,Mark E. Salter - Yes,,73
+Dewey,06 Isabel,Supreme Court Retention,2,Mark E. Salter - No,,17
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - Yes,,99
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - No,,94
+Dewey,08 White Horse,Supreme Court Retention,2,Mark E. Salter - Yes,,30
+Dewey,08 White Horse,Supreme Court Retention,2,Mark E. Salter - No,,19
+Dewey,09 Promise,Supreme Court Retention,2,Mark E. Salter - Yes,,23
+Dewey,09 Promise,Supreme Court Retention,2,Mark E. Salter - No,,17
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - Yes,,29
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - No,,41
+Dewey,North (Precinct-13 Eagle,Supreme Court Retention,2,Mark E. Salter - Yes,,116
+Dewey,North (Precinct-13 Eagle,Supreme Court Retention,2,Mark E. Salter - No,,67
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - Yes,,125
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - No,,88
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - Yes,,97
+Dewey,?,Supreme Court Retention,2,Mark E. Salter - No,,48
+Dewey,02 Trail City,Constitutional Amendment D,,Yes,,10
+Dewey,02 Trail City,Constitutional Amendment D,,No,,25
+Dewey,04 Timber Lake,Constitutional Amendment D,,Yes,,150
+Dewey,04 Timber Lake,Constitutional Amendment D,,No,,161
+Dewey,05 Firesteel,Constitutional Amendment D,,Yes,,24
+Dewey,05 Firesteel,Constitutional Amendment D,,No,,28
+Dewey,06 Isabel,Constitutional Amendment D,,Yes,,49
+Dewey,06 Isabel,Constitutional Amendment D,,No,,58
+Dewey,?,Constitutional Amendment D,,Yes,,195
+Dewey,?,Constitutional Amendment D,,No,,25
+Dewey,08 White Horse,Constitutional Amendment D,,Yes,,42
+Dewey,08 White Horse,Constitutional Amendment D,,No,,10
+Dewey,09 Promise,Constitutional Amendment D,,Yes,,41
+Dewey,09 Promise,Constitutional Amendment D,,No,,12
+Dewey,?,Constitutional Amendment D,,Yes,,69
+Dewey,?,Constitutional Amendment D,,No,,10
+Dewey,North (Precinct-13 Eagle,Constitutional Amendment D,,Yes,,157
+Dewey,North (Precinct-13 Eagle,Constitutional Amendment D,,No,,48
+Dewey,?,Constitutional Amendment D,,Yes,,208
+Dewey,?,Constitutional Amendment D,,No,,31
+Dewey,?,Constitutional Amendment D,,Yes,,127
+Dewey,?,Constitutional Amendment D,,No,,45
+Dewey,02 Trail City,Initiated Measure 27,,Yes,,9
+Dewey,02 Trail City,Initiated Measure 27,,No,,26
+Dewey,04 Timber Lake,Initiated Measure 27,,Yes,,127
+Dewey,04 Timber Lake,Initiated Measure 27,,No,,191
+Dewey,05 Firesteel,Initiated Measure 27,,Yes,,20
+Dewey,05 Firesteel,Initiated Measure 27,,No,,33
+Dewey,06 Isabel,Initiated Measure 27,,Yes,,30
+Dewey,06 Isabel,Initiated Measure 27,,No,,79
+Dewey,?,Initiated Measure 27,,Yes,,166
+Dewey,?,Initiated Measure 27,,No,,53
+Dewey,08 White Horse,Initiated Measure 27,,Yes,,39
+Dewey,08 White Horse,Initiated Measure 27,,No,,11
+Dewey,09 Promise,Initiated Measure 27,,Yes,,32
+Dewey,09 Promise,Initiated Measure 27,,No,,21
+Dewey,?,Initiated Measure 27,,Yes,,66
+Dewey,?,Initiated Measure 27,,No,,14
+Dewey,North (Precinct-13 Eagle,Initiated Measure 27,,Yes,,136
+Dewey,North (Precinct-13 Eagle,Initiated Measure 27,,No,,70
+Dewey,?,Initiated Measure 27,,Yes,,194
+Dewey,?,Initiated Measure 27,,No,,47
+Dewey,?,Initiated Measure 27,,Yes,,105
+Dewey,?,Initiated Measure 27,,No,,71

@@ -1,0 +1,246 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,U.S. Senate,,Brian L. Bengs,DEM,29
+Faulk,1,U.S. Senate,,Tamara J Lesnar,LIB,6
+Faulk,1,U.S. Senate,,John R. Thune,REP,111
+Faulk,2,U.S. Senate,,Brian L. Bengs,DEM,4
+Faulk,2,U.S. Senate,,Tamara J Lesnar,LIB,3
+Faulk,2,U.S. Senate,,John R. Thune,REP,98
+Faulk,3,U.S. Senate,,Brian L. Bengs,DEM,9
+Faulk,3,U.S. Senate,,Tamara J Lesnar,LIB,6
+Faulk,3,U.S. Senate,,John R. Thune,REP,91
+Faulk,4,U.S. Senate,,Brian L. Bengs,DEM,8
+Faulk,4,U.S. Senate,,Tamara J Lesnar,LIB,6
+Faulk,4,U.S. Senate,,John R. Thune,REP,71
+Faulk,5,U.S. Senate,,Brian L. Bengs,DEM,13
+Faulk,5,U.S. Senate,,Tamara J Lesnar,LIB,6
+Faulk,5,U.S. Senate,,John R. Thune,REP,72
+Faulk,6,U.S. Senate,,Brian L. Bengs,DEM,22
+Faulk,6,U.S. Senate,,Tamara J Lesnar,LIB,9
+Faulk,6,U.S. Senate,,John R. Thune,REP,163
+Faulk,7,U.S. Senate,,Brian L. Bengs,DEM,35
+Faulk,7,U.S. Senate,,Tamara J Lesnar,LIB,11
+Faulk,7,U.S. Senate,,John R. Thune,REP,174
+Faulk,1,U.S. House,1,Collin Duprel,LIB,29
+Faulk,1,U.S. House,1,Dusty Johnson,REP,109
+Faulk,2,U.S. House,1,Collin Duprel,LIB,13
+Faulk,2,U.S. House,1,Dusty Johnson,REP,90
+Faulk,3,U.S. House,1,Collin Duprel,LIB,15
+Faulk,3,U.S. House,1,Dusty Johnson,REP,92
+Faulk,4,U.S. House,1,Collin Duprel,LIB,9
+Faulk,4,U.S. House,1,Dusty Johnson,REP,73
+Faulk,5,U.S. House,1,Collin Duprel,LIB,13
+Faulk,5,U.S. House,1,Dusty Johnson,REP,76
+Faulk,6,U.S. House,1,Collin Duprel,LIB,24
+Faulk,6,U.S. House,1,Dusty Johnson,REP,167
+Faulk,7,U.S. House,1,Collin Duprel,LIB,37
+Faulk,7,U.S. House,1,Dusty Johnson,REP,172
+Faulk,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,37
+Faulk,1,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Faulk,1,Governor,,Kristi Noem and Larry Rhoden,REP,109
+Faulk,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,7
+Faulk,2,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Faulk,2,Governor,,Kristi Noem and Larry Rhoden,REP,98
+Faulk,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Faulk,3,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Faulk,3,Governor,,Kristi Noem and Larry Rhoden,REP,92
+Faulk,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,13
+Faulk,4,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Faulk,4,Governor,,Kristi Noem and Larry Rhoden,REP,72
+Faulk,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,14
+Faulk,5,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Faulk,5,Governor,,Kristi Noem and Larry Rhoden,REP,77
+Faulk,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,35
+Faulk,6,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Faulk,6,Governor,,Kristi Noem and Larry Rhoden,REP,155
+Faulk,7,Governor,,Jamie Smith and Jennifer Keintz,DEM,44
+Faulk,7,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Faulk,7,Governor,,Kristi Noem and Larry Rhoden,REP,168
+Faulk,1,Secretary of State,,Thomas A Cool,DEM,38
+Faulk,1,Secretary of State,,Monae Johnson,REP,104
+Faulk,2,Secretary of State,,Thomas A Cool,DEM,9
+Faulk,2,Secretary of State,,Monae Johnson,REP,90
+Faulk,3,Secretary of State,,Thomas A Cool,DEM,17
+Faulk,3,Secretary of State,,Monae Johnson,REP,84
+Faulk,4,Secretary of State,,Thomas A Cool,DEM,19
+Faulk,4,Secretary of State,,Monae Johnson,REP,63
+Faulk,5,Secretary of State,,Thomas A Cool,DEM,16
+Faulk,5,Secretary of State,,Monae Johnson,REP,72
+Faulk,6,Secretary of State,,Thomas A Cool,DEM,41
+Faulk,6,Secretary of State,,Monae Johnson,REP,143
+Faulk,7,Secretary of State,,Thomas A Cool,DEM,53
+Faulk,7,Secretary of State,,Monae Johnson,REP,156
+Faulk,1,Attorney General,,Marty J. Jackley,REP,115
+Faulk,2,Attorney General,,Marty J. Jackley,REP,91
+Faulk,3,Attorney General,,Marty J. Jackley,REP,86
+Faulk,4,Attorney General,,Marty J. Jackley,REP,73
+Faulk,5,Attorney General,,Marty J. Jackley,REP,79
+Faulk,6,Attorney General,,Marty J. Jackley,REP,168
+Faulk,7,Attorney General,,Marty J. Jackley,REP,185
+Faulk,1,State Auditor,,Stephanie Marty,DEM,33
+Faulk,1,State Auditor,,Rene Meyer,LIB,2
+Faulk,1,State Auditor,,Richard Sattgast,REP,107
+Faulk,2,State Auditor,,Stephanie Marty,DEM,9
+Faulk,2,State Auditor,,Rene Meyer,LIB,2
+Faulk,2,State Auditor,,Richard Sattgast,REP,84
+Faulk,3,State Auditor,,Stephanie Marty,DEM,11
+Faulk,3,State Auditor,,Rene Meyer,LIB,2
+Faulk,3,State Auditor,,Richard Sattgast,REP,88
+Faulk,4,State Auditor,,Stephanie Marty,DEM,15
+Faulk,4,State Auditor,,Rene Meyer,LIB,6
+Faulk,4,State Auditor,,Richard Sattgast,REP,64
+Faulk,5,State Auditor,,Stephanie Marty,DEM,16
+Faulk,5,State Auditor,,Rene Meyer,LIB,4
+Faulk,5,State Auditor,,Richard Sattgast,REP,67
+Faulk,6,State Auditor,,Stephanie Marty,DEM,29
+Faulk,6,State Auditor,,Rene Meyer,LIB,10
+Faulk,6,State Auditor,,Richard Sattgast,REP,148
+Faulk,7,State Auditor,,Stephanie Marty,DEM,40
+Faulk,7,State Auditor,,Rene Meyer,LIB,5
+Faulk,7,State Auditor,,Richard Sattgast,REP,165
+Faulk,1,State Treasurer,,John Cunningham,DEM,36
+Faulk,1,State Treasurer,,Josh Haeder,REP,104
+Faulk,2,State Treasurer,,John Cunningham,DEM,8
+Faulk,2,State Treasurer,,Josh Haeder,REP,89
+Faulk,3,State Treasurer,,John Cunningham,DEM,13
+Faulk,3,State Treasurer,,Josh Haeder,REP,89
+Faulk,4,State Treasurer,,John Cunningham,DEM,17
+Faulk,4,State Treasurer,,Josh Haeder,REP,67
+Faulk,5,State Treasurer,,John Cunningham,DEM,15
+Faulk,5,State Treasurer,,Josh Haeder,REP,71
+Faulk,6,State Treasurer,,John Cunningham,DEM,38
+Faulk,6,State Treasurer,,Josh Haeder,REP,144
+Faulk,7,State Treasurer,,John Cunningham,DEM,40
+Faulk,7,State Treasurer,,Josh Haeder,REP,166
+Faulk,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Faulk,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,107
+Faulk,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Faulk,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,89
+Faulk,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Faulk,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,87
+Faulk,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,14
+Faulk,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,68
+Faulk,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,14
+Faulk,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,74
+Faulk,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Faulk,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,163
+Faulk,7,Commissioner of School and Public Lands,,Timothy Azure,DEM,43
+Faulk,7,Commissioner of School and Public Lands,,Brock Greenfield,REP,158
+Faulk,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Faulk,1,Public Utilities Commissioner,,Chris Nelson,REP,114
+Faulk,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,11
+Faulk,2,Public Utilities Commissioner,,Chris Nelson,REP,87
+Faulk,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Faulk,3,Public Utilities Commissioner,,Chris Nelson,REP,89
+Faulk,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,10
+Faulk,4,Public Utilities Commissioner,,Chris Nelson,REP,75
+Faulk,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Faulk,5,Public Utilities Commissioner,,Chris Nelson,REP,76
+Faulk,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,23
+Faulk,6,Public Utilities Commissioner,,Chris Nelson,REP,165
+Faulk,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,34
+Faulk,7,Public Utilities Commissioner,,Chris Nelson,REP,174
+Faulk,1,State Senate,23,Bryan J. Breitling,REP,110
+Faulk,2,State Senate,23,Bryan J. Breitling,REP,84
+Faulk,3,State Senate,23,Bryan J. Breitling,REP,80
+Faulk,4,State Senate,23,Bryan J. Breitling,REP,69
+Faulk,5,State Senate,23,Bryan J. Breitling,REP,72
+Faulk,6,State Senate,23,Bryan J. Breitling,REP,149
+Faulk,7,State Senate,23,Bryan J. Breitling,REP,166
+Faulk,1,State House,23,James D. Wangsness,REP,58
+Faulk,1,State House,23,Scott Moore,REP,95
+Faulk,2,State House,23,James D. Wangsness,REP,45
+Faulk,2,State House,23,Scott Moore,REP,79
+Faulk,3,State House,23,James D. Wangsness,REP,51
+Faulk,3,State House,23,Scott Moore,REP,78
+Faulk,4,State House,23,James D. Wangsness,REP,49
+Faulk,4,State House,23,Scott Moore,REP,66
+Faulk,5,State House,23,James D. Wangsness,REP,44
+Faulk,5,State House,23,Scott Moore,REP,72
+Faulk,6,State House,23,James D. Wangsness,REP,96
+Faulk,6,State House,23,Scott Moore,REP,137
+Faulk,7,State House,23,James D. Wangsness,REP,117
+Faulk,7,State House,23,Scott Moore,REP,154
+Faulk,1,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,81
+Faulk,2,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,57
+Faulk,3,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,59
+Faulk,4,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,45
+Faulk,5,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,46
+Faulk,6,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,99
+Faulk,7,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,138
+Faulk,1,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,77
+Faulk,2,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,52
+Faulk,3,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,54
+Faulk,4,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,48
+Faulk,5,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,45
+Faulk,6,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,103
+Faulk,7,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,135
+Faulk,1,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,70
+Faulk,2,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,43
+Faulk,3,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,41
+Faulk,4,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,44
+Faulk,5,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,42
+Faulk,6,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,89
+Faulk,7,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,122
+Faulk,1,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,76
+Faulk,2,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,45
+Faulk,3,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,46
+Faulk,4,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,45
+Faulk,5,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,40
+Faulk,6,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,94
+Faulk,7,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,129
+Faulk,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,103
+Faulk,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Faulk,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,70
+Faulk,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Faulk,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,70
+Faulk,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,11
+Faulk,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,65
+Faulk,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Faulk,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,62
+Faulk,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Faulk,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,140
+Faulk,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Faulk,7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
+Faulk,7,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Faulk,1,Supreme Court Retention,2,Mark E. Salter - Yes,,103
+Faulk,1,Supreme Court Retention,2,Mark E. Salter - No,,22
+Faulk,2,Supreme Court Retention,2,Mark E. Salter - Yes,,68
+Faulk,2,Supreme Court Retention,2,Mark E. Salter - No,,17
+Faulk,3,Supreme Court Retention,2,Mark E. Salter - Yes,,72
+Faulk,3,Supreme Court Retention,2,Mark E. Salter - No,,9
+Faulk,4,Supreme Court Retention,2,Mark E. Salter - Yes,,64
+Faulk,4,Supreme Court Retention,2,Mark E. Salter - No,,14
+Faulk,5,Supreme Court Retention,2,Mark E. Salter - Yes,,63
+Faulk,5,Supreme Court Retention,2,Mark E. Salter - No,,8
+Faulk,6,Supreme Court Retention,2,Mark E. Salter - Yes,,138
+Faulk,6,Supreme Court Retention,2,Mark E. Salter - No,,34
+Faulk,7,Supreme Court Retention,2,Mark E. Salter - Yes,,153
+Faulk,7,Supreme Court Retention,2,Mark E. Salter - No,,33
+Faulk,1,Constitutional Amendment D,,Yes,,72
+Faulk,1,Constitutional Amendment D,,No,,76
+Faulk,2,Constitutional Amendment D,,Yes,,38
+Faulk,2,Constitutional Amendment D,,No,,60
+Faulk,3,Constitutional Amendment D,,Yes,,27
+Faulk,3,Constitutional Amendment D,,No,,79
+Faulk,4,Constitutional Amendment D,,Yes,,28
+Faulk,4,Constitutional Amendment D,,No,,53
+Faulk,5,Constitutional Amendment D,,Yes,,32
+Faulk,5,Constitutional Amendment D,,No,,55
+Faulk,6,Constitutional Amendment D,,Yes,,74
+Faulk,6,Constitutional Amendment D,,No,,110
+Faulk,7,Constitutional Amendment D,,Yes,,91
+Faulk,7,Constitutional Amendment D,,No,,117
+Faulk,1,Initiated Measure 27,,Yes,,41
+Faulk,1,Initiated Measure 27,,No,,107
+Faulk,2,Initiated Measure 27,,Yes,,22
+Faulk,2,Initiated Measure 27,,No,,79
+Faulk,3,Initiated Measure 27,,Yes,,24
+Faulk,3,Initiated Measure 27,,No,,81
+Faulk,4,Initiated Measure 27,,Yes,,23
+Faulk,4,Initiated Measure 27,,No,,62
+Faulk,5,Initiated Measure 27,,Yes,,27
+Faulk,5,Initiated Measure 27,,No,,62
+Faulk,6,Initiated Measure 27,,Yes,,58
+Faulk,6,Initiated Measure 27,,No,,131
+Faulk,7,Initiated Measure 27,,Yes,,67
+Faulk,7,Initiated Measure 27,,No,,144

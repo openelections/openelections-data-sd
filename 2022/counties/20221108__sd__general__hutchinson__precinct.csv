@@ -1,0 +1,229 @@
+county,precinct,office,district,candidate,party,votes
+Hutchinson,01,U.S. Senate,,Brian L. Bengs,DEM,70
+Hutchinson,01,U.S. Senate,,Tamara J Lesnar,LIB,25
+Hutchinson,01,U.S. Senate,,John R. Thune,REP,492
+Hutchinson,02,U.S. Senate,,Brian L. Bengs,DEM,143
+Hutchinson,02,U.S. Senate,,Tamara J Lesnar,LIB,32
+Hutchinson,02,U.S. Senate,,John R. Thune,REP,658
+Hutchinson,03,U.S. Senate,,Brian L. Bengs,DEM,54
+Hutchinson,03,U.S. Senate,,Tamara J Lesnar,LIB,12
+Hutchinson,03,U.S. Senate,,John R. Thune,REP,390
+Hutchinson,04,U.S. Senate,,Brian L. Bengs,DEM,102
+Hutchinson,04,U.S. Senate,,Tamara J Lesnar,LIB,18
+Hutchinson,04,U.S. Senate,,John R. Thune,REP,504
+Hutchinson,05,U.S. Senate,,Brian L. Bengs,DEM,30
+Hutchinson,05,U.S. Senate,,Tamara J Lesnar,LIB,10
+Hutchinson,05,U.S. Senate,,John R. Thune,REP,349
+Hutchinson,06,U.S. Senate,,Brian L. Bengs,DEM,18
+Hutchinson,06,U.S. Senate,,Tamara J Lesnar,LIB,9
+Hutchinson,06,U.S. Senate,,John R. Thune,REP,226
+Hutchinson,01,U.S. House,1,Collin Duprel,LIB,89
+Hutchinson,01,U.S. House,1,Dusty Johnson,REP,480
+Hutchinson,02,U.S. House,1,Collin Duprel,LIB,117
+Hutchinson,02,U.S. House,1,Dusty Johnson,REP,682
+Hutchinson,03,U.S. House,1,Collin Duprel,LIB,47
+Hutchinson,03,U.S. House,1,Dusty Johnson,REP,402
+Hutchinson,04,U.S. House,1,Collin Duprel,LIB,63
+Hutchinson,04,U.S. House,1,Dusty Johnson,REP,540
+Hutchinson,05,U.S. House,1,Collin Duprel,LIB,24
+Hutchinson,05,U.S. House,1,Dusty Johnson,REP,358
+Hutchinson,06,U.S. House,1,Collin Duprel,LIB,18
+Hutchinson,06,U.S. House,1,Dusty Johnson,REP,228
+Hutchinson,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,90
+Hutchinson,01,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Hutchinson,01,Governor,,Kristi Noem and Larry Rhoden,REP,498
+Hutchinson,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,197
+Hutchinson,02,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Hutchinson,02,Governor,,Kristi Noem and Larry Rhoden,REP,628
+Hutchinson,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
+Hutchinson,03,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Hutchinson,03,Governor,,Kristi Noem and Larry Rhoden,REP,374
+Hutchinson,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,160
+Hutchinson,04,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Hutchinson,04,Governor,,Kristi Noem and Larry Rhoden,REP,446
+Hutchinson,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Hutchinson,05,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Hutchinson,05,Governor,,Kristi Noem and Larry Rhoden,REP,339
+Hutchinson,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Hutchinson,06,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Hutchinson,06,Governor,,Kristi Noem and Larry Rhoden,REP,222
+Hutchinson,01,Secretary of State,,Thomas A Cool,DEM,90
+Hutchinson,01,Secretary of State,,Monae Johnson,REP,474
+Hutchinson,02,Secretary of State,,Thomas A Cool,DEM,193
+Hutchinson,02,Secretary of State,,Monae Johnson,REP,606
+Hutchinson,03,Secretary of State,,Thomas A Cool,DEM,96
+Hutchinson,03,Secretary of State,,Monae Johnson,REP,344
+Hutchinson,04,Secretary of State,,Thomas A Cool,DEM,186
+Hutchinson,04,Secretary of State,,Monae Johnson,REP,397
+Hutchinson,05,Secretary of State,,Thomas A Cool,DEM,60
+Hutchinson,05,Secretary of State,,Monae Johnson,REP,313
+Hutchinson,06,Secretary of State,,Thomas A Cool,DEM,34
+Hutchinson,06,Secretary of State,,Monae Johnson,REP,208
+Hutchinson,01,Attorney General,,Marty J. Jackley,REP,483
+Hutchinson,02,Attorney General,,Marty J. Jackley,REP,678
+Hutchinson,03,Attorney General,,Marty J. Jackley,REP,388
+Hutchinson,04,Attorney General,,Marty J. Jackley,REP,518
+Hutchinson,05,Attorney General,,Marty J. Jackley,REP,343
+Hutchinson,06,Attorney General,,Marty J. Jackley,REP,224
+Hutchinson,01,State Auditor,,Stephanie Marty,DEM,83
+Hutchinson,01,State Auditor,,Rene Meyer,LIB,26
+Hutchinson,01,State Auditor,,Richard Sattgast,REP,445
+Hutchinson,02,State Auditor,,Stephanie Marty,DEM,164
+Hutchinson,02,State Auditor,,Rene Meyer,LIB,42
+Hutchinson,02,State Auditor,,Richard Sattgast,REP,586
+Hutchinson,03,State Auditor,,Stephanie Marty,DEM,82
+Hutchinson,03,State Auditor,,Rene Meyer,LIB,13
+Hutchinson,03,State Auditor,,Richard Sattgast,REP,334
+Hutchinson,04,State Auditor,,Stephanie Marty,DEM,150
+Hutchinson,04,State Auditor,,Rene Meyer,LIB,18
+Hutchinson,04,State Auditor,,Richard Sattgast,REP,399
+Hutchinson,05,State Auditor,,Stephanie Marty,DEM,40
+Hutchinson,05,State Auditor,,Rene Meyer,LIB,13
+Hutchinson,05,State Auditor,,Richard Sattgast,REP,313
+Hutchinson,06,State Auditor,,Stephanie Marty,DEM,29
+Hutchinson,06,State Auditor,,Rene Meyer,LIB,7
+Hutchinson,06,State Auditor,,Richard Sattgast,REP,206
+Hutchinson,01,State Treasurer,,John Cunningham,DEM,85
+Hutchinson,01,State Treasurer,,Josh Haeder,REP,463
+Hutchinson,02,State Treasurer,,John Cunningham,DEM,171
+Hutchinson,02,State Treasurer,,Josh Haeder,REP,623
+Hutchinson,03,State Treasurer,,John Cunningham,DEM,85
+Hutchinson,03,State Treasurer,,Josh Haeder,REP,347
+Hutchinson,04,State Treasurer,,John Cunningham,DEM,159
+Hutchinson,04,State Treasurer,,Josh Haeder,REP,414
+Hutchinson,05,State Treasurer,,John Cunningham,DEM,43
+Hutchinson,05,State Treasurer,,Josh Haeder,REP,322
+Hutchinson,06,State Treasurer,,John Cunningham,DEM,26
+Hutchinson,06,State Treasurer,,Josh Haeder,REP,216
+Hutchinson,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,78
+Hutchinson,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,467
+Hutchinson,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,161
+Hutchinson,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,619
+Hutchinson,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,78
+Hutchinson,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,350
+Hutchinson,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,146
+Hutchinson,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,419
+Hutchinson,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,41
+Hutchinson,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,322
+Hutchinson,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,26
+Hutchinson,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,212
+Hutchinson,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,72
+Hutchinson,01,Public Utilities Commissioner,,Chris Nelson,REP,495
+Hutchinson,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,149
+Hutchinson,02,Public Utilities Commissioner,,Chris Nelson,REP,647
+Hutchinson,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,65
+Hutchinson,03,Public Utilities Commissioner,,Chris Nelson,REP,384
+Hutchinson,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,138
+Hutchinson,04,Public Utilities Commissioner,,Chris Nelson,REP,452
+Hutchinson,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,40
+Hutchinson,05,Public Utilities Commissioner,,Chris Nelson,REP,332
+Hutchinson,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,26
+Hutchinson,06,Public Utilities Commissioner,,Chris Nelson,REP,221
+Hutchinson,01,State Senate,19,Russell Graeff,DEM,74
+Hutchinson,01,State Senate,19,Kyle Schoenfish,REP,494
+Hutchinson,02,State Senate,19,Russell Graeff,DEM,150
+Hutchinson,02,State Senate,19,Kyle Schoenfish,REP,667
+Hutchinson,03,State Senate,19,Russell Graeff,DEM,59
+Hutchinson,03,State Senate,19,Kyle Schoenfish,REP,390
+Hutchinson,04,State Senate,19,Russell Graeff,DEM,93
+Hutchinson,04,State Senate,19,Kyle Schoenfish,REP,513
+Hutchinson,05,State Senate,19,Russell Graeff,DEM,32
+Hutchinson,05,State Senate,19,Kyle Schoenfish,REP,343
+Hutchinson,06,State Senate,19,Russell Graeff,DEM,20
+Hutchinson,06,State Senate,19,Kyle Schoenfish,REP,224
+Hutchinson,01,State House,19,Jessica Bahmuller,REP,354
+Hutchinson,01,State House,19,Drew Peterson,REP,379
+Hutchinson,02,State House,19,Jessica Bahmuller,REP,455
+Hutchinson,02,State House,19,Drew Peterson,REP,535
+Hutchinson,03,State House,19,Jessica Bahmuller,REP,310
+Hutchinson,03,State House,19,Drew Peterson,REP,247
+Hutchinson,04,State House,19,Jessica Bahmuller,REP,363
+Hutchinson,04,State House,19,Drew Peterson,REP,380
+Hutchinson,05,State House,19,Jessica Bahmuller,REP,243
+Hutchinson,05,State House,19,Drew Peterson,REP,264
+Hutchinson,06,State House,19,Jessica Bahmuller,REP,169
+Hutchinson,06,State House,19,Drew Peterson,REP,169
+Hutchinson,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,287
+Hutchinson,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,361
+Hutchinson,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,210
+Hutchinson,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,320
+Hutchinson,05,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,200
+Hutchinson,06,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,127
+Hutchinson,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,273
+Hutchinson,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,349
+Hutchinson,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,202
+Hutchinson,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,302
+Hutchinson,05,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,201
+Hutchinson,06,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,125
+Hutchinson,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,289
+Hutchinson,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,363
+Hutchinson,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,208
+Hutchinson,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,320
+Hutchinson,05,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,207
+Hutchinson,06,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,125
+Hutchinson,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,347
+Hutchinson,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,496
+Hutchinson,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,201
+Hutchinson,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,310
+Hutchinson,05,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,199
+Hutchinson,06,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,131
+Hutchinson,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,276
+Hutchinson,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,355
+Hutchinson,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,207
+Hutchinson,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,312
+Hutchinson,05,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,193
+Hutchinson,06,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,124
+Hutchinson,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,271
+Hutchinson,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,357
+Hutchinson,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,197
+Hutchinson,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,299
+Hutchinson,05,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,188
+Hutchinson,06,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,122
+Hutchinson,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,431
+Hutchinson,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
+Hutchinson,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,574
+Hutchinson,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,107
+Hutchinson,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,303
+Hutchinson,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,73
+Hutchinson,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,476
+Hutchinson,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,66
+Hutchinson,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,272
+Hutchinson,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,64
+Hutchinson,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,190
+Hutchinson,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Hutchinson,01,Supreme Court Retention,2,Mark E. Salter - Yes,,433
+Hutchinson,01,Supreme Court Retention,2,Mark E. Salter - No,,60
+Hutchinson,02,Supreme Court Retention,2,Mark E. Salter - Yes,,584
+Hutchinson,02,Supreme Court Retention,2,Mark E. Salter - No,,96
+Hutchinson,03,Supreme Court Retention,2,Mark E. Salter - Yes,,306
+Hutchinson,03,Supreme Court Retention,2,Mark E. Salter - No,,69
+Hutchinson,04,Supreme Court Retention,2,Mark E. Salter - Yes,,478
+Hutchinson,04,Supreme Court Retention,2,Mark E. Salter - No,,63
+Hutchinson,05,Supreme Court Retention,2,Mark E. Salter - Yes,,279
+Hutchinson,05,Supreme Court Retention,2,Mark E. Salter - No,,53
+Hutchinson,06,Supreme Court Retention,2,Mark E. Salter - Yes,,191
+Hutchinson,06,Supreme Court Retention,2,Mark E. Salter - No,,33
+Hutchinson,01,Constitutional Amendment D,,Yes,,193
+Hutchinson,01,Constitutional Amendment D,,No,,381
+Hutchinson,02,Constitutional Amendment D,,Yes,,359
+Hutchinson,02,Constitutional Amendment D,,No,,449
+Hutchinson,03,Constitutional Amendment D,,Yes,,192
+Hutchinson,03,Constitutional Amendment D,,No,,253
+Hutchinson,04,Constitutional Amendment D,,Yes,,294
+Hutchinson,04,Constitutional Amendment D,,No,,321
+Hutchinson,05,Constitutional Amendment D,,Yes,,169
+Hutchinson,05,Constitutional Amendment D,,No,,204
+Hutchinson,06,Constitutional Amendment D,,Yes,,107
+Hutchinson,06,Constitutional Amendment D,,No,,144
+Hutchinson,01,Initiated Measure 27,,Yes,,146
+Hutchinson,01,Initiated Measure 27,,No,,437
+Hutchinson,02,Initiated Measure 27,,Yes,,246
+Hutchinson,02,Initiated Measure 27,,No,,571
+Hutchinson,03,Initiated Measure 27,,Yes,,100
+Hutchinson,03,Initiated Measure 27,,No,,355
+Hutchinson,04,Initiated Measure 27,,Yes,,181
+Hutchinson,04,Initiated Measure 27,,No,,450
+Hutchinson,05,Initiated Measure 27,,Yes,,111
+Hutchinson,05,Initiated Measure 27,,No,,269
+Hutchinson,06,Initiated Measure 27,,Yes,,63
+Hutchinson,06,Initiated Measure 27,,No,,187

@@ -1,0 +1,141 @@
+county,precinct,office,district,candidate,party,votes
+Sully,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,35
+Sully,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,7
+Sully,Absentee Precinct,U.S. Senate,,John R. Thune,REP,103
+Sully,Agar Fire Hall,U.S. Senate,,Brian L. Bengs,DEM,12
+Sully,Agar Fire Hall,U.S. Senate,,Tamara J Lesnar,LIB,4
+Sully,Agar Fire Hall,U.S. Senate,,John R. Thune,REP,67
+Sully,Bill Floyd Shop,U.S. Senate,,Brian L. Bengs,DEM,20
+Sully,Bill Floyd Shop,U.S. Senate,,Tamara J Lesnar,LIB,7
+Sully,Bill Floyd Shop,U.S. Senate,,John R. Thune,REP,103
+Sully,Phoenix Center,U.S. Senate,,Brian L. Bengs,DEM,47
+Sully,Phoenix Center,U.S. Senate,,Tamara J Lesnar,LIB,29
+Sully,Phoenix Center,U.S. Senate,,John R. Thune,REP,349
+Sully,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,31
+Sully,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,105
+Sully,Agar Fire Hall,U.S. House,1,Collin Duprel,LIB,11
+Sully,Agar Fire Hall,U.S. House,1,Dusty Johnson,REP,70
+Sully,Bill Floyd Shop,U.S. House,1,Collin Duprel,LIB,27
+Sully,Bill Floyd Shop,U.S. House,1,Dusty Johnson,REP,104
+Sully,Phoenix Center,U.S. House,1,Collin Duprel,LIB,60
+Sully,Phoenix Center,U.S. House,1,Dusty Johnson,REP,346
+Sully,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,47
+Sully,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Sully,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Sully,Agar Fire Hall,Governor,,Jamie Smith and Jennifer Keintz,DEM,13
+Sully,Agar Fire Hall,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Sully,Agar Fire Hall,Governor,,Kristi Noem and Larry Rhoden,REP,71
+Sully,Bill Floyd Shop,Governor,,Jamie Smith and Jennifer Keintz,DEM,33
+Sully,Bill Floyd Shop,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Sully,Bill Floyd Shop,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Sully,Phoenix Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,76
+Sully,Phoenix Center,Governor,,Tracey Quint and Ashley Strand,LIB,16
+Sully,Phoenix Center,Governor,,Kristi Noem and Larry Rhoden,REP,336
+Sully,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,43
+Sully,Absentee Precinct,Secretary of State,,Monae Johnson,REP,97
+Sully,Agar Fire Hall,Secretary of State,,Thomas A Cool,DEM,16
+Sully,Agar Fire Hall,Secretary of State,,Monae Johnson,REP,65
+Sully,Bill Floyd Shop,Secretary of State,,Thomas A Cool,DEM,23
+Sully,Bill Floyd Shop,Secretary of State,,Monae Johnson,REP,108
+Sully,Phoenix Center,Secretary of State,,Thomas A Cool,DEM,87
+Sully,Phoenix Center,Secretary of State,,Monae Johnson,REP,314
+Sully,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,122
+Sully,Agar Fire Hall,Attorney General,,Marty J. Jackley,REP,72
+Sully,Bill Floyd Shop,Attorney General,,Marty J. Jackley,REP,112
+Sully,Phoenix Center,Attorney General,,Marty J. Jackley,REP,361
+Sully,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,40
+Sully,Absentee Precinct,State Auditor,,Rene Meyer,LIB,4
+Sully,Absentee Precinct,State Auditor,,Richard Sattgast,REP,102
+Sully,Agar Fire Hall,State Auditor,,Stephanie Marty,DEM,12
+Sully,Agar Fire Hall,State Auditor,,Rene Meyer,LIB,1
+Sully,Agar Fire Hall,State Auditor,,Richard Sattgast,REP,68
+Sully,Bill Floyd Shop,State Auditor,,Stephanie Marty,DEM,20
+Sully,Bill Floyd Shop,State Auditor,,Rene Meyer,LIB,2
+Sully,Bill Floyd Shop,State Auditor,,Richard Sattgast,REP,107
+Sully,Phoenix Center,State Auditor,,Stephanie Marty,DEM,62
+Sully,Phoenix Center,State Auditor,,Rene Meyer,LIB,26
+Sully,Phoenix Center,State Auditor,,Richard Sattgast,REP,321
+Sully,Absentee Precinct,State Treasurer,,John Cunningham,DEM,40
+Sully,Absentee Precinct,State Treasurer,,Josh Haeder,REP,103
+Sully,Agar Fire Hall,State Treasurer,,John Cunningham,DEM,13
+Sully,Agar Fire Hall,State Treasurer,,Josh Haeder,REP,68
+Sully,Bill Floyd Shop,State Treasurer,,John Cunningham,DEM,22
+Sully,Bill Floyd Shop,State Treasurer,,Josh Haeder,REP,104
+Sully,Phoenix Center,State Treasurer,,John Cunningham,DEM,67
+Sully,Phoenix Center,State Treasurer,,Josh Haeder,REP,341
+Sully,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,42
+Sully,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,99
+Sully,Agar Fire Hall,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Sully,Agar Fire Hall,Commissioner of School and Public Lands,,Brock Greenfield,REP,70
+Sully,Bill Floyd Shop,Commissioner of School and Public Lands,,Timothy Azure,DEM,27
+Sully,Bill Floyd Shop,Commissioner of School and Public Lands,,Brock Greenfield,REP,101
+Sully,Phoenix Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,61
+Sully,Phoenix Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,328
+Sully,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Sully,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,108
+Sully,Agar Fire Hall,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Sully,Agar Fire Hall,Public Utilities Commissioner,,Chris Nelson,REP,68
+Sully,Bill Floyd Shop,Public Utilities Commissioner,,Jeffrey Barth,DEM,23
+Sully,Bill Floyd Shop,Public Utilities Commissioner,,Chris Nelson,REP,106
+Sully,Phoenix Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,79
+Sully,Phoenix Center,Public Utilities Commissioner,,Chris Nelson,REP,337
+Sully,Absentee Precinct,State Senate,24,Jim Mehlhaff,REP,108
+Sully,Agar Fire Hall,State Senate,24,Jim Mehlhaff,REP,71
+Sully,Bill Floyd Shop,State Senate,24,Jim Mehlhaff,REP,109
+Sully,Phoenix Center,State Senate,24,Jim Mehlhaff,REP,338
+Sully,Absentee Precinct,State House,24,Mike Weisgram,REP,93
+Sully,Absentee Precinct,State House,24,Will D. Mortenson,REP,94
+Sully,Agar Fire Hall,State House,24,Mike Weisgram,REP,53
+Sully,Agar Fire Hall,State House,24,Will D. Mortenson,REP,60
+Sully,Bill Floyd Shop,State House,24,Mike Weisgram,REP,77
+Sully,Bill Floyd Shop,State House,24,Will D. Mortenson,REP,89
+Sully,Phoenix Center,State House,24,Mike Weisgram,REP,245
+Sully,Phoenix Center,State House,24,Will D. Mortenson,REP,299
+Sully,Absentee Precinct,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,86
+Sully,Agar Fire Hall,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,49
+Sully,Bill Floyd Shop,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,68
+Sully,Phoenix Center,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,242
+Sully,Absentee Precinct,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,84
+Sully,Agar Fire Hall,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,49
+Sully,Bill Floyd Shop,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,66
+Sully,Phoenix Center,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,255
+Sully,Absentee Precinct,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,82
+Sully,Agar Fire Hall,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,48
+Sully,Bill Floyd Shop,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,64
+Sully,Phoenix Center,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,246
+Sully,Absentee Precinct,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,80
+Sully,Agar Fire Hall,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,47
+Sully,Bill Floyd Shop,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,66
+Sully,Phoenix Center,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,234
+Sully,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,106
+Sully,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,23
+Sully,Agar Fire Hall,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,66
+Sully,Agar Fire Hall,Supreme Court Retention,3,Patricia J. DeVaney - No,,7
+Sully,Bill Floyd Shop,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,90
+Sully,Bill Floyd Shop,Supreme Court Retention,3,Patricia J. DeVaney - No,,19
+Sully,Phoenix Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,321
+Sully,Phoenix Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,58
+Sully,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Sully,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,22
+Sully,Agar Fire Hall,Supreme Court Retention,2,Mark E. Salter - Yes,,65
+Sully,Agar Fire Hall,Supreme Court Retention,2,Mark E. Salter - No,,7
+Sully,Bill Floyd Shop,Supreme Court Retention,2,Mark E. Salter - Yes,,93
+Sully,Bill Floyd Shop,Supreme Court Retention,2,Mark E. Salter - No,,15
+Sully,Phoenix Center,Supreme Court Retention,2,Mark E. Salter - Yes,,318
+Sully,Phoenix Center,Supreme Court Retention,2,Mark E. Salter - No,,55
+Sully,Absentee Precinct,Constitutional Amendment D,,Yes,,71
+Sully,Absentee Precinct,Constitutional Amendment D,,No,,73
+Sully,Agar Fire Hall,Constitutional Amendment D,,Yes,,30
+Sully,Agar Fire Hall,Constitutional Amendment D,,No,,50
+Sully,Bill Floyd Shop,Constitutional Amendment D,,Yes,,50
+Sully,Bill Floyd Shop,Constitutional Amendment D,,No,,82
+Sully,Phoenix Center,Constitutional Amendment D,,Yes,,189
+Sully,Phoenix Center,Constitutional Amendment D,,No,,238
+Sully,Absentee Precinct,Initiated Measure 27,,Yes,,56
+Sully,Absentee Precinct,Initiated Measure 27,,No,,92
+Sully,Agar Fire Hall,Initiated Measure 27,,Yes,,25
+Sully,Agar Fire Hall,Initiated Measure 27,,No,,57
+Sully,Bill Floyd Shop,Initiated Measure 27,,Yes,,61
+Sully,Bill Floyd Shop,Initiated Measure 27,,No,,75
+Sully,Phoenix Center,Initiated Measure 27,,Yes,,142
+Sully,Phoenix Center,Initiated Measure 27,,No,,284

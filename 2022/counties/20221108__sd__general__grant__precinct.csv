@@ -1,0 +1,685 @@
+county,precinct,office,district,candidate,party,votes
+Grant,11,U.S. Senate,,Brian L. Bengs,DEM,59
+Grant,11,U.S. Senate,,Tamara J Lesnar,LIB,9
+Grant,11,U.S. Senate,,John R. Thune,REP,236
+Grant,12,U.S. Senate,,Brian L. Bengs,DEM,20
+Grant,12,U.S. Senate,,Tamara J Lesnar,LIB,3
+Grant,12,U.S. Senate,,John R. Thune,REP,55
+Grant,21,U.S. Senate,,Brian L. Bengs,DEM,26
+Grant,21,U.S. Senate,,Tamara J Lesnar,LIB,6
+Grant,21,U.S. Senate,,John R. Thune,REP,102
+Grant,22,U.S. Senate,,Brian L. Bengs,DEM,71
+Grant,22,U.S. Senate,,Tamara J Lesnar,LIB,5
+Grant,22,U.S. Senate,,John R. Thune,REP,239
+Grant,31,U.S. Senate,,Brian L. Bengs,DEM,12
+Grant,31,U.S. Senate,,Tamara J Lesnar,LIB,0
+Grant,31,U.S. Senate,,John R. Thune,REP,44
+Grant,32,U.S. Senate,,Brian L. Bengs,DEM,21
+Grant,32,U.S. Senate,,Tamara J Lesnar,LIB,3
+Grant,32,U.S. Senate,,John R. Thune,REP,60
+Grant,33,U.S. Senate,,Brian L. Bengs,DEM,72
+Grant,33,U.S. Senate,,Tamara J Lesnar,LIB,10
+Grant,33,U.S. Senate,,John R. Thune,REP,281
+Grant,41,U.S. Senate,,Brian L. Bengs,DEM,53
+Grant,41,U.S. Senate,,Tamara J Lesnar,LIB,7
+Grant,41,U.S. Senate,,John R. Thune,REP,150
+Grant,42,U.S. Senate,,Brian L. Bengs,DEM,42
+Grant,42,U.S. Senate,,Tamara J Lesnar,LIB,10
+Grant,42,U.S. Senate,,John R. Thune,REP,216
+Grant,43,U.S. Senate,,Brian L. Bengs,DEM,68
+Grant,43,U.S. Senate,,Tamara J Lesnar,LIB,11
+Grant,43,U.S. Senate,,John R. Thune,REP,283
+Grant,44,U.S. Senate,,Brian L. Bengs,DEM,15
+Grant,44,U.S. Senate,,Tamara J Lesnar,LIB,7
+Grant,44,U.S. Senate,,John R. Thune,REP,90
+Grant,45,U.S. Senate,,Brian L. Bengs,DEM,27
+Grant,45,U.S. Senate,,Tamara J Lesnar,LIB,4
+Grant,45,U.S. Senate,,John R. Thune,REP,113
+Grant,46,U.S. Senate,,Brian L. Bengs,DEM,39
+Grant,46,U.S. Senate,,Tamara J Lesnar,LIB,6
+Grant,46,U.S. Senate,,John R. Thune,REP,156
+Grant,47,U.S. Senate,,Brian L. Bengs,DEM,15
+Grant,47,U.S. Senate,,Tamara J Lesnar,LIB,11
+Grant,47,U.S. Senate,,John R. Thune,REP,165
+Grant,49,U.S. Senate,,Brian L. Bengs,DEM,16
+Grant,49,U.S. Senate,,Tamara J Lesnar,LIB,4
+Grant,49,U.S. Senate,,John R. Thune,REP,77
+Grant,52,U.S. Senate,,Brian L. Bengs,DEM,8
+Grant,52,U.S. Senate,,Tamara J Lesnar,LIB,3
+Grant,52,U.S. Senate,,John R. Thune,REP,63
+Grant,53,U.S. Senate,,Brian L. Bengs,DEM,11
+Grant,53,U.S. Senate,,Tamara J Lesnar,LIB,1
+Grant,53,U.S. Senate,,John R. Thune,REP,44
+Grant,54,U.S. Senate,,Brian L. Bengs,DEM,26
+Grant,54,U.S. Senate,,Tamara J Lesnar,LIB,5
+Grant,54,U.S. Senate,,John R. Thune,REP,118
+Grant,11,U.S. House,1,Collin Duprel,LIB,44
+Grant,11,U.S. House,1,Dusty Johnson,REP,243
+Grant,12,U.S. House,1,Collin Duprel,LIB,16
+Grant,12,U.S. House,1,Dusty Johnson,REP,57
+Grant,21,U.S. House,1,Collin Duprel,LIB,17
+Grant,21,U.S. House,1,Dusty Johnson,REP,105
+Grant,22,U.S. House,1,Collin Duprel,LIB,45
+Grant,22,U.S. House,1,Dusty Johnson,REP,256
+Grant,31,U.S. House,1,Collin Duprel,LIB,6
+Grant,31,U.S. House,1,Dusty Johnson,REP,48
+Grant,32,U.S. House,1,Collin Duprel,LIB,15
+Grant,32,U.S. House,1,Dusty Johnson,REP,64
+Grant,33,U.S. House,1,Collin Duprel,LIB,50
+Grant,33,U.S. House,1,Dusty Johnson,REP,298
+Grant,41,U.S. House,1,Collin Duprel,LIB,38
+Grant,41,U.S. House,1,Dusty Johnson,REP,157
+Grant,42,U.S. House,1,Collin Duprel,LIB,30
+Grant,42,U.S. House,1,Dusty Johnson,REP,228
+Grant,43,U.S. House,1,Collin Duprel,LIB,60
+Grant,43,U.S. House,1,Dusty Johnson,REP,288
+Grant,44,U.S. House,1,Collin Duprel,LIB,14
+Grant,44,U.S. House,1,Dusty Johnson,REP,94
+Grant,45,U.S. House,1,Collin Duprel,LIB,25
+Grant,45,U.S. House,1,Dusty Johnson,REP,117
+Grant,46,U.S. House,1,Collin Duprel,LIB,27
+Grant,46,U.S. House,1,Dusty Johnson,REP,166
+Grant,47,U.S. House,1,Collin Duprel,LIB,21
+Grant,47,U.S. House,1,Dusty Johnson,REP,166
+Grant,49,U.S. House,1,Collin Duprel,LIB,16
+Grant,49,U.S. House,1,Dusty Johnson,REP,76
+Grant,52,U.S. House,1,Collin Duprel,LIB,10
+Grant,52,U.S. House,1,Dusty Johnson,REP,61
+Grant,53,U.S. House,1,Collin Duprel,LIB,10
+Grant,53,U.S. House,1,Dusty Johnson,REP,43
+Grant,54,U.S. House,1,Collin Duprel,LIB,24
+Grant,54,U.S. House,1,Dusty Johnson,REP,120
+Grant,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,69
+Grant,11,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Grant,11,Governor,,Kristi Noem and Larry Rhoden,REP,229
+Grant,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Grant,12,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,12,Governor,,Kristi Noem and Larry Rhoden,REP,54
+Grant,21,Governor,,Jamie Smith and Jennifer Keintz,DEM,39
+Grant,21,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,21,Governor,,Kristi Noem and Larry Rhoden,REP,92
+Grant,22,Governor,,Jamie Smith and Jennifer Keintz,DEM,85
+Grant,22,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Grant,22,Governor,,Kristi Noem and Larry Rhoden,REP,221
+Grant,31,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Grant,31,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Grant,31,Governor,,Kristi Noem and Larry Rhoden,REP,35
+Grant,32,Governor,,Jamie Smith and Jennifer Keintz,DEM,25
+Grant,32,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,32,Governor,,Kristi Noem and Larry Rhoden,REP,59
+Grant,33,Governor,,Jamie Smith and Jennifer Keintz,DEM,104
+Grant,33,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Grant,33,Governor,,Kristi Noem and Larry Rhoden,REP,257
+Grant,41,Governor,,Jamie Smith and Jennifer Keintz,DEM,69
+Grant,41,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Grant,41,Governor,,Kristi Noem and Larry Rhoden,REP,138
+Grant,42,Governor,,Jamie Smith and Jennifer Keintz,DEM,67
+Grant,42,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,42,Governor,,Kristi Noem and Larry Rhoden,REP,197
+Grant,43,Governor,,Jamie Smith and Jennifer Keintz,DEM,92
+Grant,43,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Grant,43,Governor,,Kristi Noem and Larry Rhoden,REP,269
+Grant,44,Governor,,Jamie Smith and Jennifer Keintz,DEM,26
+Grant,44,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Grant,44,Governor,,Kristi Noem and Larry Rhoden,REP,87
+Grant,45,Governor,,Jamie Smith and Jennifer Keintz,DEM,41
+Grant,45,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Grant,45,Governor,,Kristi Noem and Larry Rhoden,REP,99
+Grant,46,Governor,,Jamie Smith and Jennifer Keintz,DEM,46
+Grant,46,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Grant,46,Governor,,Kristi Noem and Larry Rhoden,REP,154
+Grant,47,Governor,,Jamie Smith and Jennifer Keintz,DEM,29
+Grant,47,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Grant,47,Governor,,Kristi Noem and Larry Rhoden,REP,160
+Grant,49,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Grant,49,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,49,Governor,,Kristi Noem and Larry Rhoden,REP,74
+Grant,52,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Grant,52,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Grant,52,Governor,,Kristi Noem and Larry Rhoden,REP,58
+Grant,53,Governor,,Jamie Smith and Jennifer Keintz,DEM,18
+Grant,53,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Grant,53,Governor,,Kristi Noem and Larry Rhoden,REP,39
+Grant,54,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Grant,54,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Grant,54,Governor,,Kristi Noem and Larry Rhoden,REP,106
+Grant,11,Secretary of State,,Thomas A Cool,DEM,80
+Grant,11,Secretary of State,,Monae Johnson,REP,196
+Grant,12,Secretary of State,,Thomas A Cool,DEM,26
+Grant,12,Secretary of State,,Monae Johnson,REP,50
+Grant,21,Secretary of State,,Thomas A Cool,DEM,39
+Grant,21,Secretary of State,,Monae Johnson,REP,92
+Grant,22,Secretary of State,,Thomas A Cool,DEM,93
+Grant,22,Secretary of State,,Monae Johnson,REP,209
+Grant,31,Secretary of State,,Thomas A Cool,DEM,17
+Grant,31,Secretary of State,,Monae Johnson,REP,37
+Grant,32,Secretary of State,,Thomas A Cool,DEM,25
+Grant,32,Secretary of State,,Monae Johnson,REP,56
+Grant,33,Secretary of State,,Thomas A Cool,DEM,113
+Grant,33,Secretary of State,,Monae Johnson,REP,234
+Grant,41,Secretary of State,,Thomas A Cool,DEM,66
+Grant,41,Secretary of State,,Monae Johnson,REP,134
+Grant,42,Secretary of State,,Thomas A Cool,DEM,66
+Grant,42,Secretary of State,,Monae Johnson,REP,185
+Grant,43,Secretary of State,,Thomas A Cool,DEM,95
+Grant,43,Secretary of State,,Monae Johnson,REP,252
+Grant,44,Secretary of State,,Thomas A Cool,DEM,27
+Grant,44,Secretary of State,,Monae Johnson,REP,75
+Grant,45,Secretary of State,,Thomas A Cool,DEM,41
+Grant,45,Secretary of State,,Monae Johnson,REP,96
+Grant,46,Secretary of State,,Thomas A Cool,DEM,45
+Grant,46,Secretary of State,,Monae Johnson,REP,148
+Grant,47,Secretary of State,,Thomas A Cool,DEM,36
+Grant,47,Secretary of State,,Monae Johnson,REP,148
+Grant,49,Secretary of State,,Thomas A Cool,DEM,21
+Grant,49,Secretary of State,,Monae Johnson,REP,71
+Grant,52,Secretary of State,,Thomas A Cool,DEM,11
+Grant,52,Secretary of State,,Monae Johnson,REP,57
+Grant,53,Secretary of State,,Thomas A Cool,DEM,12
+Grant,53,Secretary of State,,Monae Johnson,REP,39
+Grant,54,Secretary of State,,Thomas A Cool,DEM,40
+Grant,54,Secretary of State,,Monae Johnson,REP,98
+Grant,11,Attorney General,,Marty J. Jackley,REP,230
+Grant,12,Attorney General,,Marty J. Jackley,REP,54
+Grant,21,Attorney General,,Marty J. Jackley,REP,107
+Grant,22,Attorney General,,Marty J. Jackley,REP,253
+Grant,31,Attorney General,,Marty J. Jackley,REP,42
+Grant,32,Attorney General,,Marty J. Jackley,REP,68
+Grant,33,Attorney General,,Marty J. Jackley,REP,290
+Grant,41,Attorney General,,Marty J. Jackley,REP,143
+Grant,42,Attorney General,,Marty J. Jackley,REP,220
+Grant,43,Attorney General,,Marty J. Jackley,REP,283
+Grant,44,Attorney General,,Marty J. Jackley,REP,89
+Grant,45,Attorney General,,Marty J. Jackley,REP,115
+Grant,46,Attorney General,,Marty J. Jackley,REP,170
+Grant,47,Attorney General,,Marty J. Jackley,REP,166
+Grant,49,Attorney General,,Marty J. Jackley,REP,76
+Grant,52,Attorney General,,Marty J. Jackley,REP,55
+Grant,53,Attorney General,,Marty J. Jackley,REP,44
+Grant,54,Attorney General,,Marty J. Jackley,REP,124
+Grant,11,State Auditor,,Stephanie Marty,DEM,76
+Grant,11,State Auditor,,Rene Meyer,LIB,13
+Grant,11,State Auditor,,Richard Sattgast,REP,194
+Grant,12,State Auditor,,Stephanie Marty,DEM,24
+Grant,12,State Auditor,,Rene Meyer,LIB,2
+Grant,12,State Auditor,,Richard Sattgast,REP,50
+Grant,21,State Auditor,,Stephanie Marty,DEM,38
+Grant,21,State Auditor,,Rene Meyer,LIB,9
+Grant,21,State Auditor,,Richard Sattgast,REP,79
+Grant,22,State Auditor,,Stephanie Marty,DEM,84
+Grant,22,State Auditor,,Rene Meyer,LIB,12
+Grant,22,State Auditor,,Richard Sattgast,REP,199
+Grant,31,State Auditor,,Stephanie Marty,DEM,17
+Grant,31,State Auditor,,Rene Meyer,LIB,1
+Grant,31,State Auditor,,Richard Sattgast,REP,36
+Grant,32,State Auditor,,Stephanie Marty,DEM,19
+Grant,32,State Auditor,,Rene Meyer,LIB,3
+Grant,32,State Auditor,,Richard Sattgast,REP,57
+Grant,33,State Auditor,,Stephanie Marty,DEM,95
+Grant,33,State Auditor,,Rene Meyer,LIB,15
+Grant,33,State Auditor,,Richard Sattgast,REP,235
+Grant,41,State Auditor,,Stephanie Marty,DEM,65
+Grant,41,State Auditor,,Rene Meyer,LIB,15
+Grant,41,State Auditor,,Richard Sattgast,REP,118
+Grant,42,State Auditor,,Stephanie Marty,DEM,57
+Grant,42,State Auditor,,Rene Meyer,LIB,5
+Grant,42,State Auditor,,Richard Sattgast,REP,186
+Grant,43,State Auditor,,Stephanie Marty,DEM,79
+Grant,43,State Auditor,,Rene Meyer,LIB,21
+Grant,43,State Auditor,,Richard Sattgast,REP,236
+Grant,44,State Auditor,,Stephanie Marty,DEM,24
+Grant,44,State Auditor,,Rene Meyer,LIB,3
+Grant,44,State Auditor,,Richard Sattgast,REP,74
+Grant,45,State Auditor,,Stephanie Marty,DEM,40
+Grant,45,State Auditor,,Rene Meyer,LIB,7
+Grant,45,State Auditor,,Richard Sattgast,REP,88
+Grant,46,State Auditor,,Stephanie Marty,DEM,41
+Grant,46,State Auditor,,Rene Meyer,LIB,9
+Grant,46,State Auditor,,Richard Sattgast,REP,141
+Grant,47,State Auditor,,Stephanie Marty,DEM,27
+Grant,47,State Auditor,,Rene Meyer,LIB,14
+Grant,47,State Auditor,,Richard Sattgast,REP,145
+Grant,49,State Auditor,,Stephanie Marty,DEM,19
+Grant,49,State Auditor,,Rene Meyer,LIB,4
+Grant,49,State Auditor,,Richard Sattgast,REP,68
+Grant,52,State Auditor,,Stephanie Marty,DEM,12
+Grant,52,State Auditor,,Rene Meyer,LIB,6
+Grant,52,State Auditor,,Richard Sattgast,REP,50
+Grant,53,State Auditor,,Stephanie Marty,DEM,13
+Grant,53,State Auditor,,Rene Meyer,LIB,2
+Grant,53,State Auditor,,Richard Sattgast,REP,33
+Grant,54,State Auditor,,Stephanie Marty,DEM,37
+Grant,54,State Auditor,,Rene Meyer,LIB,6
+Grant,54,State Auditor,,Richard Sattgast,REP,95
+Grant,11,State Treasurer,,John Cunningham,DEM,74
+Grant,11,State Treasurer,,Josh Haeder,REP,196
+Grant,12,State Treasurer,,John Cunningham,DEM,23
+Grant,12,State Treasurer,,Josh Haeder,REP,49
+Grant,21,State Treasurer,,John Cunningham,DEM,38
+Grant,21,State Treasurer,,Josh Haeder,REP,92
+Grant,22,State Treasurer,,John Cunningham,DEM,87
+Grant,22,State Treasurer,,Josh Haeder,REP,208
+Grant,31,State Treasurer,,John Cunningham,DEM,15
+Grant,31,State Treasurer,,Josh Haeder,REP,39
+Grant,32,State Treasurer,,John Cunningham,DEM,21
+Grant,32,State Treasurer,,Josh Haeder,REP,59
+Grant,33,State Treasurer,,John Cunningham,DEM,93
+Grant,33,State Treasurer,,Josh Haeder,REP,243
+Grant,41,State Treasurer,,John Cunningham,DEM,65
+Grant,41,State Treasurer,,Josh Haeder,REP,133
+Grant,42,State Treasurer,,John Cunningham,DEM,53
+Grant,42,State Treasurer,,Josh Haeder,REP,191
+Grant,43,State Treasurer,,John Cunningham,DEM,91
+Grant,43,State Treasurer,,Josh Haeder,REP,253
+Grant,44,State Treasurer,,John Cunningham,DEM,23
+Grant,44,State Treasurer,,Josh Haeder,REP,77
+Grant,45,State Treasurer,,John Cunningham,DEM,36
+Grant,45,State Treasurer,,Josh Haeder,REP,100
+Grant,46,State Treasurer,,John Cunningham,DEM,42
+Grant,46,State Treasurer,,Josh Haeder,REP,148
+Grant,47,State Treasurer,,John Cunningham,DEM,26
+Grant,47,State Treasurer,,Josh Haeder,REP,154
+Grant,49,State Treasurer,,John Cunningham,DEM,20
+Grant,49,State Treasurer,,Josh Haeder,REP,73
+Grant,52,State Treasurer,,John Cunningham,DEM,14
+Grant,52,State Treasurer,,Josh Haeder,REP,53
+Grant,53,State Treasurer,,John Cunningham,DEM,12
+Grant,53,State Treasurer,,Josh Haeder,REP,37
+Grant,54,State Treasurer,,John Cunningham,DEM,43
+Grant,54,State Treasurer,,Josh Haeder,REP,96
+Grant,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,69
+Grant,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,202
+Grant,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,22
+Grant,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,51
+Grant,21,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Grant,21,Commissioner of School and Public Lands,,Brock Greenfield,REP,96
+Grant,22,Commissioner of School and Public Lands,,Timothy Azure,DEM,74
+Grant,22,Commissioner of School and Public Lands,,Brock Greenfield,REP,222
+Grant,31,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Grant,31,Commissioner of School and Public Lands,,Brock Greenfield,REP,39
+Grant,32,Commissioner of School and Public Lands,,Timothy Azure,DEM,22
+Grant,32,Commissioner of School and Public Lands,,Brock Greenfield,REP,57
+Grant,33,Commissioner of School and Public Lands,,Timothy Azure,DEM,91
+Grant,33,Commissioner of School and Public Lands,,Brock Greenfield,REP,246
+Grant,41,Commissioner of School and Public Lands,,Timothy Azure,DEM,61
+Grant,41,Commissioner of School and Public Lands,,Brock Greenfield,REP,137
+Grant,42,Commissioner of School and Public Lands,,Timothy Azure,DEM,52
+Grant,42,Commissioner of School and Public Lands,,Brock Greenfield,REP,189
+Grant,43,Commissioner of School and Public Lands,,Timothy Azure,DEM,87
+Grant,43,Commissioner of School and Public Lands,,Brock Greenfield,REP,244
+Grant,44,Commissioner of School and Public Lands,,Timothy Azure,DEM,24
+Grant,44,Commissioner of School and Public Lands,,Brock Greenfield,REP,76
+Grant,45,Commissioner of School and Public Lands,,Timothy Azure,DEM,37
+Grant,45,Commissioner of School and Public Lands,,Brock Greenfield,REP,95
+Grant,46,Commissioner of School and Public Lands,,Timothy Azure,DEM,39
+Grant,46,Commissioner of School and Public Lands,,Brock Greenfield,REP,146
+Grant,47,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Grant,47,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
+Grant,49,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Grant,49,Commissioner of School and Public Lands,,Brock Greenfield,REP,72
+Grant,52,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Grant,52,Commissioner of School and Public Lands,,Brock Greenfield,REP,54
+Grant,53,Commissioner of School and Public Lands,,Timothy Azure,DEM,12
+Grant,53,Commissioner of School and Public Lands,,Brock Greenfield,REP,38
+Grant,54,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Grant,54,Commissioner of School and Public Lands,,Brock Greenfield,REP,99
+Grant,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,66
+Grant,11,Public Utilities Commissioner,,Chris Nelson,REP,221
+Grant,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Grant,12,Public Utilities Commissioner,,Chris Nelson,REP,55
+Grant,21,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Grant,21,Public Utilities Commissioner,,Chris Nelson,REP,102
+Grant,22,Public Utilities Commissioner,,Jeffrey Barth,DEM,69
+Grant,22,Public Utilities Commissioner,,Chris Nelson,REP,231
+Grant,31,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Grant,31,Public Utilities Commissioner,,Chris Nelson,REP,39
+Grant,32,Public Utilities Commissioner,,Jeffrey Barth,DEM,17
+Grant,32,Public Utilities Commissioner,,Chris Nelson,REP,62
+Grant,33,Public Utilities Commissioner,,Jeffrey Barth,DEM,79
+Grant,33,Public Utilities Commissioner,,Chris Nelson,REP,263
+Grant,41,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Grant,41,Public Utilities Commissioner,,Chris Nelson,REP,142
+Grant,42,Public Utilities Commissioner,,Jeffrey Barth,DEM,47
+Grant,42,Public Utilities Commissioner,,Chris Nelson,REP,198
+Grant,43,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Grant,43,Public Utilities Commissioner,,Chris Nelson,REP,265
+Grant,44,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Grant,44,Public Utilities Commissioner,,Chris Nelson,REP,79
+Grant,45,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Grant,45,Public Utilities Commissioner,,Chris Nelson,REP,99
+Grant,46,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Grant,46,Public Utilities Commissioner,,Chris Nelson,REP,157
+Grant,47,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Grant,47,Public Utilities Commissioner,,Chris Nelson,REP,162
+Grant,49,Public Utilities Commissioner,,Jeffrey Barth,DEM,21
+Grant,49,Public Utilities Commissioner,,Chris Nelson,REP,73
+Grant,52,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Grant,52,Public Utilities Commissioner,,Chris Nelson,REP,53
+Grant,53,Public Utilities Commissioner,,Jeffrey Barth,DEM,11
+Grant,53,Public Utilities Commissioner,,Chris Nelson,REP,42
+Grant,54,Public Utilities Commissioner,,Jeffrey Barth,DEM,33
+Grant,54,Public Utilities Commissioner,,Chris Nelson,REP,107
+Grant,11,State Senate,04,John Wiik,REP,241
+Grant,12,State Senate,04,John Wiik,REP,53
+Grant,21,State Senate,04,John Wiik,REP,99
+Grant,22,State Senate,04,John Wiik,REP,234
+Grant,31,State Senate,04,John Wiik,REP,41
+Grant,32,State Senate,04,John Wiik,REP,65
+Grant,33,State Senate,04,John Wiik,REP,273
+Grant,41,State Senate,04,John Wiik,REP,141
+Grant,42,State Senate,04,John Wiik,REP,208
+Grant,43,State Senate,04,John Wiik,REP,268
+Grant,44,State Senate,04,John Wiik,REP,84
+Grant,45,State Senate,04,John Wiik,REP,103
+Grant,46,State Senate,04,John Wiik,REP,160
+Grant,47,State Senate,04,John Wiik,REP,160
+Grant,49,State Senate,04,John Wiik,REP,77
+Grant,52,State Senate,04,John Wiik,REP,57
+Grant,53,State Senate,04,John Wiik,REP,39
+Grant,54,State Senate,04,John Wiik,REP,109
+Grant,11,State House,04,Stephanie Sauder,REP,148
+Grant,11,State House,04,Fred Deutsch,REP,192
+Grant,12,State House,04,Stephanie Sauder,REP,35
+Grant,12,State House,04,Fred Deutsch,REP,47
+Grant,21,State House,04,Stephanie Sauder,REP,56
+Grant,21,State House,04,Fred Deutsch,REP,86
+Grant,22,State House,04,Stephanie Sauder,REP,162
+Grant,22,State House,04,Fred Deutsch,REP,187
+Grant,31,State House,04,Stephanie Sauder,REP,27
+Grant,31,State House,04,Fred Deutsch,REP,33
+Grant,32,State House,04,Stephanie Sauder,REP,37
+Grant,32,State House,04,Fred Deutsch,REP,55
+Grant,33,State House,04,Stephanie Sauder,REP,190
+Grant,33,State House,04,Fred Deutsch,REP,229
+Grant,41,State House,04,Stephanie Sauder,REP,105
+Grant,41,State House,04,Fred Deutsch,REP,120
+Grant,42,State House,04,Stephanie Sauder,REP,128
+Grant,42,State House,04,Fred Deutsch,REP,177
+Grant,43,State House,04,Stephanie Sauder,REP,160
+Grant,43,State House,04,Fred Deutsch,REP,242
+Grant,44,State House,04,Stephanie Sauder,REP,45
+Grant,44,State House,04,Fred Deutsch,REP,66
+Grant,45,State House,04,Stephanie Sauder,REP,58
+Grant,45,State House,04,Fred Deutsch,REP,91
+Grant,46,State House,04,Stephanie Sauder,REP,88
+Grant,46,State House,04,Fred Deutsch,REP,133
+Grant,47,State House,04,Stephanie Sauder,REP,103
+Grant,47,State House,04,Fred Deutsch,REP,152
+Grant,49,State House,04,Stephanie Sauder,REP,48
+Grant,49,State House,04,Fred Deutsch,REP,54
+Grant,52,State House,04,Stephanie Sauder,REP,25
+Grant,52,State House,04,Fred Deutsch,REP,49
+Grant,53,State House,04,Stephanie Sauder,REP,23
+Grant,53,State House,04,Fred Deutsch,REP,29
+Grant,54,State House,04,Stephanie Sauder,REP,70
+Grant,54,State House,04,Fred Deutsch,REP,98
+Grant,11,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,120
+Grant,12,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,33
+Grant,21,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,59
+Grant,22,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,154
+Grant,31,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,30
+Grant,32,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,37
+Grant,33,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,179
+Grant,41,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,100
+Grant,42,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,114
+Grant,43,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,168
+Grant,44,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,52
+Grant,45,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,66
+Grant,46,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,95
+Grant,47,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,103
+Grant,49,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,47
+Grant,52,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,28
+Grant,53,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,22
+Grant,54,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,72
+Grant,11,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,147
+Grant,12,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,38
+Grant,21,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,64
+Grant,22,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,162
+Grant,31,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,34
+Grant,32,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,41
+Grant,33,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,187
+Grant,41,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,107
+Grant,42,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,126
+Grant,43,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,178
+Grant,44,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,49
+Grant,45,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,72
+Grant,46,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,101
+Grant,47,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,114
+Grant,49,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,43
+Grant,52,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,35
+Grant,53,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,24
+Grant,54,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,77
+Grant,11,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,116
+Grant,12,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,33
+Grant,21,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,60
+Grant,22,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,147
+Grant,31,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,28
+Grant,32,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,37
+Grant,33,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,170
+Grant,41,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,91
+Grant,42,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,104
+Grant,43,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,162
+Grant,44,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,44
+Grant,45,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,63
+Grant,46,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,89
+Grant,47,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,100
+Grant,49,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,44
+Grant,52,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,27
+Grant,53,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,23
+Grant,54,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,69
+Grant,11,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,116
+Grant,12,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,31
+Grant,21,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,60
+Grant,22,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,148
+Grant,31,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,26
+Grant,32,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,36
+Grant,33,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,174
+Grant,41,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,102
+Grant,42,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,111
+Grant,43,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,158
+Grant,44,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,50
+Grant,45,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,66
+Grant,46,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,92
+Grant,47,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,102
+Grant,49,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,41
+Grant,52,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,27
+Grant,53,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,22
+Grant,54,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,66
+Grant,11,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,90
+Grant,11,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,80
+Grant,12,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,25
+Grant,12,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,22
+Grant,21,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,38
+Grant,21,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,44
+Grant,22,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,97
+Grant,22,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,112
+Grant,31,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,14
+Grant,31,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,21
+Grant,32,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,21
+Grant,32,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,27
+Grant,33,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,117
+Grant,33,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,111
+Grant,41,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,54
+Grant,41,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,66
+Grant,42,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,62
+Grant,42,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,81
+Grant,43,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,104
+Grant,43,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,107
+Grant,44,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,38
+Grant,44,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,19
+Grant,45,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,37
+Grant,45,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,47
+Grant,46,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,46
+Grant,46,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,71
+Grant,47,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,63
+Grant,47,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,71
+Grant,49,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,22
+Grant,49,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,28
+Grant,52,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,20
+Grant,52,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,21
+Grant,53,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,12
+Grant,53,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,16
+Grant,54,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,49
+Grant,54,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,42
+Grant,11,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,107
+Grant,12,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,33
+Grant,21,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,56
+Grant,22,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,143
+Grant,31,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,27
+Grant,32,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,36
+Grant,33,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,172
+Grant,41,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,93
+Grant,42,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,106
+Grant,43,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,155
+Grant,44,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,47
+Grant,45,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,67
+Grant,46,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,88
+Grant,47,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,100
+Grant,49,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,39
+Grant,52,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,27
+Grant,53,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,20
+Grant,54,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,64
+Grant,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,190
+Grant,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,55
+Grant,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,52
+Grant,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Grant,21,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,99
+Grant,21,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Grant,22,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,223
+Grant,22,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Grant,31,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,40
+Grant,31,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Grant,32,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,54
+Grant,32,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Grant,33,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,273
+Grant,33,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Grant,41,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,136
+Grant,41,Supreme Court Retention,3,Patricia J. DeVaney - No,,37
+Grant,42,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,187
+Grant,42,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Grant,43,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,268
+Grant,43,Supreme Court Retention,3,Patricia J. DeVaney - No,,48
+Grant,44,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,76
+Grant,44,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Grant,45,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,104
+Grant,45,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Grant,46,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,142
+Grant,46,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Grant,47,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,143
+Grant,47,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Grant,49,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,62
+Grant,49,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Grant,52,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,47
+Grant,52,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Grant,53,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,31
+Grant,53,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Grant,54,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,106
+Grant,54,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Grant,11,Supreme Court Retention,2,Mark E. Salter - Yes,,197
+Grant,11,Supreme Court Retention,2,Mark E. Salter - No,,50
+Grant,12,Supreme Court Retention,2,Mark E. Salter - Yes,,51
+Grant,12,Supreme Court Retention,2,Mark E. Salter - No,,14
+Grant,21,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Grant,21,Supreme Court Retention,2,Mark E. Salter - No,,19
+Grant,22,Supreme Court Retention,2,Mark E. Salter - Yes,,220
+Grant,22,Supreme Court Retention,2,Mark E. Salter - No,,43
+Grant,31,Supreme Court Retention,2,Mark E. Salter - Yes,,42
+Grant,31,Supreme Court Retention,2,Mark E. Salter - No,,9
+Grant,32,Supreme Court Retention,2,Mark E. Salter - Yes,,54
+Grant,32,Supreme Court Retention,2,Mark E. Salter - No,,12
+Grant,33,Supreme Court Retention,2,Mark E. Salter - Yes,,275
+Grant,33,Supreme Court Retention,2,Mark E. Salter - No,,44
+Grant,41,Supreme Court Retention,2,Mark E. Salter - Yes,,139
+Grant,41,Supreme Court Retention,2,Mark E. Salter - No,,34
+Grant,42,Supreme Court Retention,2,Mark E. Salter - Yes,,189
+Grant,42,Supreme Court Retention,2,Mark E. Salter - No,,35
+Grant,43,Supreme Court Retention,2,Mark E. Salter - Yes,,269
+Grant,43,Supreme Court Retention,2,Mark E. Salter - No,,44
+Grant,44,Supreme Court Retention,2,Mark E. Salter - Yes,,77
+Grant,44,Supreme Court Retention,2,Mark E. Salter - No,,15
+Grant,45,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Grant,45,Supreme Court Retention,2,Mark E. Salter - No,,17
+Grant,46,Supreme Court Retention,2,Mark E. Salter - Yes,,144
+Grant,46,Supreme Court Retention,2,Mark E. Salter - No,,27
+Grant,47,Supreme Court Retention,2,Mark E. Salter - Yes,,142
+Grant,47,Supreme Court Retention,2,Mark E. Salter - No,,24
+Grant,49,Supreme Court Retention,2,Mark E. Salter - Yes,,63
+Grant,49,Supreme Court Retention,2,Mark E. Salter - No,,20
+Grant,52,Supreme Court Retention,2,Mark E. Salter - Yes,,46
+Grant,52,Supreme Court Retention,2,Mark E. Salter - No,,12
+Grant,53,Supreme Court Retention,2,Mark E. Salter - Yes,,29
+Grant,53,Supreme Court Retention,2,Mark E. Salter - No,,13
+Grant,54,Supreme Court Retention,2,Mark E. Salter - Yes,,103
+Grant,54,Supreme Court Retention,2,Mark E. Salter - No,,26
+Grant,11,Constitutional Amendment D,,Yes,,150
+Grant,11,Constitutional Amendment D,,No,,140
+Grant,12,Constitutional Amendment D,,Yes,,33
+Grant,12,Constitutional Amendment D,,No,,41
+Grant,21,Constitutional Amendment D,,Yes,,73
+Grant,21,Constitutional Amendment D,,No,,57
+Grant,22,Constitutional Amendment D,,Yes,,158
+Grant,22,Constitutional Amendment D,,No,,156
+Grant,31,Constitutional Amendment D,,Yes,,33
+Grant,31,Constitutional Amendment D,,No,,22
+Grant,32,Constitutional Amendment D,,Yes,,42
+Grant,32,Constitutional Amendment D,,No,,40
+Grant,33,Constitutional Amendment D,,Yes,,183
+Grant,33,Constitutional Amendment D,,No,,172
+Grant,41,Constitutional Amendment D,,Yes,,107
+Grant,41,Constitutional Amendment D,,No,,95
+Grant,42,Constitutional Amendment D,,Yes,,105
+Grant,42,Constitutional Amendment D,,No,,149
+Grant,43,Constitutional Amendment D,,Yes,,175
+Grant,43,Constitutional Amendment D,,No,,178
+Grant,44,Constitutional Amendment D,,Yes,,52
+Grant,44,Constitutional Amendment D,,No,,54
+Grant,45,Constitutional Amendment D,,Yes,,66
+Grant,45,Constitutional Amendment D,,No,,72
+Grant,46,Constitutional Amendment D,,Yes,,83
+Grant,46,Constitutional Amendment D,,No,,112
+Grant,47,Constitutional Amendment D,,Yes,,75
+Grant,47,Constitutional Amendment D,,No,,107
+Grant,49,Constitutional Amendment D,,Yes,,35
+Grant,49,Constitutional Amendment D,,No,,58
+Grant,52,Constitutional Amendment D,,Yes,,36
+Grant,52,Constitutional Amendment D,,No,,37
+Grant,53,Constitutional Amendment D,,Yes,,35
+Grant,53,Constitutional Amendment D,,No,,20
+Grant,54,Constitutional Amendment D,,Yes,,65
+Grant,54,Constitutional Amendment D,,No,,81
+Grant,11,Initiated Measure 27,,Yes,,124
+Grant,11,Initiated Measure 27,,No,,176
+Grant,12,Initiated Measure 27,,Yes,,30
+Grant,12,Initiated Measure 27,,No,,44
+Grant,21,Initiated Measure 27,,Yes,,64
+Grant,21,Initiated Measure 27,,No,,68
+Grant,22,Initiated Measure 27,,Yes,,137
+Grant,22,Initiated Measure 27,,No,,175
+Grant,31,Initiated Measure 27,,Yes,,26
+Grant,31,Initiated Measure 27,,No,,29
+Grant,32,Initiated Measure 27,,Yes,,42
+Grant,32,Initiated Measure 27,,No,,40
+Grant,33,Initiated Measure 27,,Yes,,150
+Grant,33,Initiated Measure 27,,No,,215
+Grant,41,Initiated Measure 27,,Yes,,73
+Grant,41,Initiated Measure 27,,No,,135
+Grant,42,Initiated Measure 27,,Yes,,82
+Grant,42,Initiated Measure 27,,No,,178
+Grant,43,Initiated Measure 27,,Yes,,135
+Grant,43,Initiated Measure 27,,No,,222
+Grant,44,Initiated Measure 27,,Yes,,32
+Grant,44,Initiated Measure 27,,No,,77
+Grant,45,Initiated Measure 27,,Yes,,48
+Grant,45,Initiated Measure 27,,No,,92
+Grant,46,Initiated Measure 27,,Yes,,72
+Grant,46,Initiated Measure 27,,No,,126
+Grant,47,Initiated Measure 27,,Yes,,51
+Grant,47,Initiated Measure 27,,No,,133
+Grant,49,Initiated Measure 27,,Yes,,36
+Grant,49,Initiated Measure 27,,No,,62
+Grant,52,Initiated Measure 27,,Yes,,27
+Grant,52,Initiated Measure 27,,No,,48
+Grant,53,Initiated Measure 27,,Yes,,32
+Grant,53,Initiated Measure 27,,No,,25
+Grant,54,Initiated Measure 27,,Yes,,52
+Grant,54,Initiated Measure 27,,No,,98

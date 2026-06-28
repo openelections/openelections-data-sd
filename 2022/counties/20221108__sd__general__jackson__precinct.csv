@@ -1,0 +1,305 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,1,U.S. Senate,,Brian L. Bengs,DEM,0
+Jackson,1,U.S. Senate,,Tamara J Lesnar,LIB,3
+Jackson,1,U.S. Senate,,John R. Thune,REP,26
+Jackson,2,U.S. Senate,,Brian L. Bengs,DEM,15
+Jackson,2,U.S. Senate,,Tamara J Lesnar,LIB,4
+Jackson,2,U.S. Senate,,John R. Thune,REP,76
+Jackson,3,U.S. Senate,,Brian L. Bengs,DEM,9
+Jackson,3,U.S. Senate,,Tamara J Lesnar,LIB,15
+Jackson,3,U.S. Senate,,John R. Thune,REP,195
+Jackson,4,U.S. Senate,,Brian L. Bengs,DEM,15
+Jackson,4,U.S. Senate,,Tamara J Lesnar,LIB,3
+Jackson,4,U.S. Senate,,John R. Thune,REP,105
+Jackson,5,U.S. Senate,,Brian L. Bengs,DEM,6
+Jackson,5,U.S. Senate,,Tamara J Lesnar,LIB,7
+Jackson,5,U.S. Senate,,John R. Thune,REP,62
+Jackson,6,U.S. Senate,,Brian L. Bengs,DEM,15
+Jackson,6,U.S. Senate,,Tamara J Lesnar,LIB,10
+Jackson,6,U.S. Senate,,John R. Thune,REP,68
+Jackson,7,U.S. Senate,,Brian L. Bengs,DEM,137
+Jackson,7,U.S. Senate,,Tamara J Lesnar,LIB,20
+Jackson,7,U.S. Senate,,John R. Thune,REP,54
+Jackson,8,U.S. Senate,,Brian L. Bengs,DEM,18
+Jackson,8,U.S. Senate,,Tamara J Lesnar,LIB,5
+Jackson,8,U.S. Senate,,John R. Thune,REP,31
+Jackson,1,U.S. House,1,Collin Duprel,LIB,5
+Jackson,1,U.S. House,1,Dusty Johnson,REP,24
+Jackson,2,U.S. House,1,Collin Duprel,LIB,20
+Jackson,2,U.S. House,1,Dusty Johnson,REP,69
+Jackson,3,U.S. House,1,Collin Duprel,LIB,36
+Jackson,3,U.S. House,1,Dusty Johnson,REP,179
+Jackson,4,U.S. House,1,Collin Duprel,LIB,14
+Jackson,4,U.S. House,1,Dusty Johnson,REP,100
+Jackson,5,U.S. House,1,Collin Duprel,LIB,18
+Jackson,5,U.S. House,1,Dusty Johnson,REP,59
+Jackson,6,U.S. House,1,Collin Duprel,LIB,29
+Jackson,6,U.S. House,1,Dusty Johnson,REP,63
+Jackson,7,U.S. House,1,Collin Duprel,LIB,109
+Jackson,7,U.S. House,1,Dusty Johnson,REP,70
+Jackson,8,U.S. House,1,Collin Duprel,LIB,16
+Jackson,8,U.S. House,1,Dusty Johnson,REP,34
+Jackson,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,1
+Jackson,1,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Jackson,1,Governor,,Kristi Noem and Larry Rhoden,REP,30
+Jackson,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Jackson,2,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Jackson,2,Governor,,Kristi Noem and Larry Rhoden,REP,75
+Jackson,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Jackson,3,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Jackson,3,Governor,,Kristi Noem and Larry Rhoden,REP,201
+Jackson,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,25
+Jackson,4,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Jackson,4,Governor,,Kristi Noem and Larry Rhoden,REP,100
+Jackson,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,7
+Jackson,5,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Jackson,5,Governor,,Kristi Noem and Larry Rhoden,REP,73
+Jackson,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,20
+Jackson,6,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Jackson,6,Governor,,Kristi Noem and Larry Rhoden,REP,76
+Jackson,7,Governor,,Jamie Smith and Jennifer Keintz,DEM,165
+Jackson,7,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Jackson,7,Governor,,Kristi Noem and Larry Rhoden,REP,36
+Jackson,8,Governor,,Jamie Smith and Jennifer Keintz,DEM,22
+Jackson,8,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Jackson,8,Governor,,Kristi Noem and Larry Rhoden,REP,32
+Jackson,1,Secretary of State,,Thomas A Cool,DEM,2
+Jackson,1,Secretary of State,,Monae Johnson,REP,27
+Jackson,2,Secretary of State,,Thomas A Cool,DEM,18
+Jackson,2,Secretary of State,,Monae Johnson,REP,73
+Jackson,3,Secretary of State,,Thomas A Cool,DEM,25
+Jackson,3,Secretary of State,,Monae Johnson,REP,190
+Jackson,4,Secretary of State,,Thomas A Cool,DEM,21
+Jackson,4,Secretary of State,,Monae Johnson,REP,98
+Jackson,5,Secretary of State,,Thomas A Cool,DEM,6
+Jackson,5,Secretary of State,,Monae Johnson,REP,74
+Jackson,6,Secretary of State,,Thomas A Cool,DEM,19
+Jackson,6,Secretary of State,,Monae Johnson,REP,77
+Jackson,7,Secretary of State,,Thomas A Cool,DEM,161
+Jackson,7,Secretary of State,,Monae Johnson,REP,48
+Jackson,8,Secretary of State,,Thomas A Cool,DEM,27
+Jackson,8,Secretary of State,,Monae Johnson,REP,31
+Jackson,1,Attorney General,,Marty J. Jackley,REP,29
+Jackson,2,Attorney General,,Marty J. Jackley,REP,72
+Jackson,3,Attorney General,,Marty J. Jackley,REP,200
+Jackson,4,Attorney General,,Marty J. Jackley,REP,108
+Jackson,5,Attorney General,,Marty J. Jackley,REP,71
+Jackson,6,Attorney General,,Marty J. Jackley,REP,78
+Jackson,7,Attorney General,,Marty J. Jackley,REP,93
+Jackson,8,Attorney General,,Marty J. Jackley,REP,37
+Jackson,1,State Auditor,,Stephanie Marty,DEM,1
+Jackson,1,State Auditor,,Rene Meyer,LIB,1
+Jackson,1,State Auditor,,Richard Sattgast,REP,27
+Jackson,2,State Auditor,,Stephanie Marty,DEM,13
+Jackson,2,State Auditor,,Rene Meyer,LIB,5
+Jackson,2,State Auditor,,Richard Sattgast,REP,72
+Jackson,3,State Auditor,,Stephanie Marty,DEM,18
+Jackson,3,State Auditor,,Rene Meyer,LIB,12
+Jackson,3,State Auditor,,Richard Sattgast,REP,183
+Jackson,4,State Auditor,,Stephanie Marty,DEM,20
+Jackson,4,State Auditor,,Rene Meyer,LIB,3
+Jackson,4,State Auditor,,Richard Sattgast,REP,94
+Jackson,5,State Auditor,,Stephanie Marty,DEM,10
+Jackson,5,State Auditor,,Rene Meyer,LIB,3
+Jackson,5,State Auditor,,Richard Sattgast,REP,66
+Jackson,6,State Auditor,,Stephanie Marty,DEM,17
+Jackson,6,State Auditor,,Rene Meyer,LIB,5
+Jackson,6,State Auditor,,Richard Sattgast,REP,72
+Jackson,7,State Auditor,,Stephanie Marty,DEM,159
+Jackson,7,State Auditor,,Rene Meyer,LIB,14
+Jackson,7,State Auditor,,Richard Sattgast,REP,36
+Jackson,8,State Auditor,,Stephanie Marty,DEM,25
+Jackson,8,State Auditor,,Rene Meyer,LIB,5
+Jackson,8,State Auditor,,Richard Sattgast,REP,27
+Jackson,1,State Treasurer,,John Cunningham,DEM,1
+Jackson,1,State Treasurer,,Josh Haeder,REP,29
+Jackson,2,State Treasurer,,John Cunningham,DEM,16
+Jackson,2,State Treasurer,,Josh Haeder,REP,75
+Jackson,3,State Treasurer,,John Cunningham,DEM,21
+Jackson,3,State Treasurer,,Josh Haeder,REP,190
+Jackson,4,State Treasurer,,John Cunningham,DEM,22
+Jackson,4,State Treasurer,,Josh Haeder,REP,93
+Jackson,5,State Treasurer,,John Cunningham,DEM,8
+Jackson,5,State Treasurer,,Josh Haeder,REP,71
+Jackson,6,State Treasurer,,John Cunningham,DEM,18
+Jackson,6,State Treasurer,,Josh Haeder,REP,78
+Jackson,7,State Treasurer,,John Cunningham,DEM,167
+Jackson,7,State Treasurer,,Josh Haeder,REP,40
+Jackson,8,State Treasurer,,John Cunningham,DEM,27
+Jackson,8,State Treasurer,,Josh Haeder,REP,33
+Jackson,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,2
+Jackson,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,28
+Jackson,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Jackson,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,75
+Jackson,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,18
+Jackson,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,199
+Jackson,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Jackson,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,96
+Jackson,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,7
+Jackson,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,69
+Jackson,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Jackson,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,75
+Jackson,7,Commissioner of School and Public Lands,,Timothy Azure,DEM,162
+Jackson,7,Commissioner of School and Public Lands,,Brock Greenfield,REP,43
+Jackson,8,Commissioner of School and Public Lands,,Timothy Azure,DEM,22
+Jackson,8,Commissioner of School and Public Lands,,Brock Greenfield,REP,36
+Jackson,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,1
+Jackson,1,Public Utilities Commissioner,,Chris Nelson,REP,30
+Jackson,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Jackson,2,Public Utilities Commissioner,,Chris Nelson,REP,75
+Jackson,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Jackson,3,Public Utilities Commissioner,,Chris Nelson,REP,202
+Jackson,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,20
+Jackson,4,Public Utilities Commissioner,,Chris Nelson,REP,101
+Jackson,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
+Jackson,5,Public Utilities Commissioner,,Chris Nelson,REP,72
+Jackson,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,17
+Jackson,6,Public Utilities Commissioner,,Chris Nelson,REP,80
+Jackson,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,163
+Jackson,7,Public Utilities Commissioner,,Chris Nelson,REP,44
+Jackson,8,Public Utilities Commissioner,,Jeffrey Barth,DEM,25
+Jackson,8,Public Utilities Commissioner,,Chris Nelson,REP,34
+Jackson,1,State Senate,27,Red Dawn Foster,DEM,1
+Jackson,1,State Senate,27,David Jones,REP,29
+Jackson,2,State Senate,27,Red Dawn Foster,DEM,16
+Jackson,2,State Senate,27,David Jones,REP,78
+Jackson,3,State Senate,27,Red Dawn Foster,DEM,18
+Jackson,3,State Senate,27,David Jones,REP,197
+Jackson,4,State Senate,27,Red Dawn Foster,DEM,21
+Jackson,4,State Senate,27,David Jones,REP,100
+Jackson,5,State Senate,27,Red Dawn Foster,DEM,8
+Jackson,5,State Senate,27,David Jones,REP,71
+Jackson,6,State Senate,27,Red Dawn Foster,DEM,20
+Jackson,6,State Senate,27,David Jones,REP,76
+Jackson,7,State Senate,27,Red Dawn Foster,DEM,177
+Jackson,7,State Senate,27,David Jones,REP,36
+Jackson,8,State Senate,27,Red Dawn Foster,DEM,25
+Jackson,8,State Senate,27,David Jones,REP,31
+Jackson,1,State House,27,Peri Pourier,DEM,2
+Jackson,1,State House,27,Norma Rendon,DEM,2
+Jackson,1,State House,27,Liz May,REP,26
+Jackson,1,State House,27,Bud May,REP,25
+Jackson,2,State House,27,Peri Pourier,DEM,17
+Jackson,2,State House,27,Norma Rendon,DEM,20
+Jackson,2,State House,27,Liz May,REP,72
+Jackson,2,State House,27,Bud May,REP,47
+Jackson,3,State House,27,Peri Pourier,DEM,31
+Jackson,3,State House,27,Norma Rendon,DEM,23
+Jackson,3,State House,27,Liz May,REP,178
+Jackson,3,State House,27,Bud May,REP,119
+Jackson,4,State House,27,Peri Pourier,DEM,24
+Jackson,4,State House,27,Norma Rendon,DEM,14
+Jackson,4,State House,27,Liz May,REP,92
+Jackson,4,State House,27,Bud May,REP,75
+Jackson,5,State House,27,Peri Pourier,DEM,10
+Jackson,5,State House,27,Norma Rendon,DEM,6
+Jackson,5,State House,27,Liz May,REP,71
+Jackson,5,State House,27,Bud May,REP,55
+Jackson,6,State House,27,Peri Pourier,DEM,20
+Jackson,6,State House,27,Norma Rendon,DEM,13
+Jackson,6,State House,27,Liz May,REP,75
+Jackson,6,State House,27,Bud May,REP,54
+Jackson,7,State House,27,Peri Pourier,DEM,170
+Jackson,7,State House,27,Norma Rendon,DEM,127
+Jackson,7,State House,27,Liz May,REP,37
+Jackson,7,State House,27,Bud May,REP,23
+Jackson,8,State House,27,Peri Pourier,DEM,39
+Jackson,8,State House,27,Norma Rendon,DEM,27
+Jackson,8,State House,27,Liz May,REP,24
+Jackson,8,State House,27,Bud May,REP,13
+Jackson,1,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,16
+Jackson,2,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,35
+Jackson,3,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,95
+Jackson,4,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,62
+Jackson,5,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,39
+Jackson,6,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,36
+Jackson,7,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,69
+Jackson,8,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,20
+Jackson,1,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,17
+Jackson,2,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,33
+Jackson,3,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,87
+Jackson,4,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,57
+Jackson,5,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,40
+Jackson,6,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,38
+Jackson,7,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,68
+Jackson,8,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,21
+Jackson,1,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,17
+Jackson,2,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,34
+Jackson,3,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,88
+Jackson,4,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,61
+Jackson,5,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,37
+Jackson,6,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,36
+Jackson,7,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,63
+Jackson,8,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,22
+Jackson,1,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,16
+Jackson,2,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,33
+Jackson,3,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,86
+Jackson,4,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,58
+Jackson,5,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,36
+Jackson,6,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,36
+Jackson,7,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,61
+Jackson,8,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,20
+Jackson,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,23
+Jackson,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,5
+Jackson,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,53
+Jackson,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Jackson,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,149
+Jackson,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Jackson,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Jackson,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Jackson,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,53
+Jackson,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Jackson,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,65
+Jackson,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Jackson,7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,118
+Jackson,7,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
+Jackson,8,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,35
+Jackson,8,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Jackson,1,Supreme Court Retention,2,Mark E. Salter - Yes,,23
+Jackson,1,Supreme Court Retention,2,Mark E. Salter - No,,4
+Jackson,2,Supreme Court Retention,2,Mark E. Salter - Yes,,55
+Jackson,2,Supreme Court Retention,2,Mark E. Salter - No,,16
+Jackson,3,Supreme Court Retention,2,Mark E. Salter - Yes,,157
+Jackson,3,Supreme Court Retention,2,Mark E. Salter - No,,31
+Jackson,4,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Jackson,4,Supreme Court Retention,2,Mark E. Salter - No,,14
+Jackson,5,Supreme Court Retention,2,Mark E. Salter - Yes,,50
+Jackson,5,Supreme Court Retention,2,Mark E. Salter - No,,17
+Jackson,6,Supreme Court Retention,2,Mark E. Salter - Yes,,65
+Jackson,6,Supreme Court Retention,2,Mark E. Salter - No,,15
+Jackson,7,Supreme Court Retention,2,Mark E. Salter - Yes,,111
+Jackson,7,Supreme Court Retention,2,Mark E. Salter - No,,65
+Jackson,8,Supreme Court Retention,2,Mark E. Salter - Yes,,33
+Jackson,8,Supreme Court Retention,2,Mark E. Salter - No,,17
+Jackson,1,Constitutional Amendment D,,Yes,,7
+Jackson,1,Constitutional Amendment D,,No,,23
+Jackson,2,Constitutional Amendment D,,Yes,,31
+Jackson,2,Constitutional Amendment D,,No,,62
+Jackson,3,Constitutional Amendment D,,Yes,,98
+Jackson,3,Constitutional Amendment D,,No,,120
+Jackson,4,Constitutional Amendment D,,Yes,,53
+Jackson,4,Constitutional Amendment D,,No,,67
+Jackson,5,Constitutional Amendment D,,Yes,,29
+Jackson,5,Constitutional Amendment D,,No,,48
+Jackson,6,Constitutional Amendment D,,Yes,,38
+Jackson,6,Constitutional Amendment D,,No,,59
+Jackson,7,Constitutional Amendment D,,Yes,,172
+Jackson,7,Constitutional Amendment D,,No,,34
+Jackson,8,Constitutional Amendment D,,Yes,,34
+Jackson,8,Constitutional Amendment D,,No,,24
+Jackson,1,Initiated Measure 27,,Yes,,8
+Jackson,1,Initiated Measure 27,,No,,23
+Jackson,2,Initiated Measure 27,,Yes,,29
+Jackson,2,Initiated Measure 27,,No,,66
+Jackson,3,Initiated Measure 27,,Yes,,51
+Jackson,3,Initiated Measure 27,,No,,172
+Jackson,4,Initiated Measure 27,,Yes,,42
+Jackson,4,Initiated Measure 27,,No,,80
+Jackson,5,Initiated Measure 27,,Yes,,23
+Jackson,5,Initiated Measure 27,,No,,54
+Jackson,6,Initiated Measure 27,,Yes,,21
+Jackson,6,Initiated Measure 27,,No,,76
+Jackson,7,Initiated Measure 27,,Yes,,161
+Jackson,7,Initiated Measure 27,,No,,52
+Jackson,8,Initiated Measure 27,,Yes,,27
+Jackson,8,Initiated Measure 27,,No,,32

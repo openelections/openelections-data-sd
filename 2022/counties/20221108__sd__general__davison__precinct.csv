@@ -1,0 +1,408 @@
+county,precinct,office,district,candidate,party,votes
+Davison,01,U.S. Senate,,Brian L. Bengs,DEM,31
+Davison,01,U.S. Senate,,Tamara J Lesnar,LIB,7
+Davison,01,U.S. Senate,,John R. Thune,REP,226
+Davison,02,U.S. Senate,,Brian L. Bengs,DEM,41
+Davison,02,U.S. Senate,,Tamara J Lesnar,LIB,17
+Davison,02,U.S. Senate,,John R. Thune,REP,294
+Davison,03,U.S. Senate,,Brian L. Bengs,DEM,94
+Davison,03,U.S. Senate,,Tamara J Lesnar,LIB,21
+Davison,03,U.S. Senate,,John R. Thune,REP,534
+Davison,04,U.S. Senate,,Brian L. Bengs,DEM,87
+Davison,04,U.S. Senate,,Tamara J Lesnar,LIB,15
+Davison,04,U.S. Senate,,John R. Thune,REP,449
+Davison,?,U.S. Senate,,Brian L. Bengs,DEM,174
+Davison,?,U.S. Senate,,Tamara J Lesnar,LIB,29
+Davison,?,U.S. Senate,,John R. Thune,REP,557
+Davison,06 (Precinct-07),U.S. Senate,,Brian L. Bengs,DEM,181
+Davison,06 (Precinct-07),U.S. Senate,,Tamara J Lesnar,LIB,11
+Davison,06 (Precinct-07),U.S. Senate,,John R. Thune,REP,649
+Davison,08 (Precinct-09),U.S. Senate,,Brian L. Bengs,DEM,173
+Davison,08 (Precinct-09),U.S. Senate,,Tamara J Lesnar,LIB,38
+Davison,08 (Precinct-09),U.S. Senate,,John R. Thune,REP,505
+Davison,10 (Precinct-11),U.S. Senate,,Brian L. Bengs,DEM,177
+Davison,10 (Precinct-11),U.S. Senate,,Tamara J Lesnar,LIB,30
+Davison,10 (Precinct-11),U.S. Senate,,John R. Thune,REP,523
+Davison,12 (Precinct-13),U.S. Senate,,Brian L. Bengs,DEM,131
+Davison,12 (Precinct-13),U.S. Senate,,Tamara J Lesnar,LIB,20
+Davison,12 (Precinct-13),U.S. Senate,,John R. Thune,REP,414
+Davison,?,U.S. Senate,,Brian L. Bengs,DEM,293
+Davison,?,U.S. Senate,,Tamara J Lesnar,LIB,56
+Davison,?,U.S. Senate,,John R. Thune,REP,824
+Davison,20,U.S. Senate,,Brian L. Bengs,DEM,142
+Davison,20,U.S. Senate,,Tamara J Lesnar,LIB,22
+Davison,20,U.S. Senate,,John R. Thune,REP,445
+Davison,01,U.S. House,1,Collin Duprel,LIB,32
+Davison,01,U.S. House,1,Dusty Johnson,REP,232
+Davison,02,U.S. House,1,Collin Duprel,LIB,54
+Davison,02,U.S. House,1,Dusty Johnson,REP,292
+Davison,03,U.S. House,1,Collin Duprel,LIB,80
+Davison,03,U.S. House,1,Dusty Johnson,REP,558
+Davison,04,U.S. House,1,Collin Duprel,LIB,77
+Davison,04,U.S. House,1,Dusty Johnson,REP,460
+Davison,?,U.S. House,1,Collin Duprel,LIB,128
+Davison,?,U.S. House,1,Dusty Johnson,REP,590
+Davison,06 (Precinct-07),U.S. House,1,Collin Duprel,LIB,106
+Davison,06 (Precinct-07),U.S. House,1,Dusty Johnson,REP,695
+Davison,08 (Precinct-09),U.S. House,1,Collin Duprel,LIB,140
+Davison,08 (Precinct-09),U.S. House,1,Dusty Johnson,REP,543
+Davison,10 (Precinct-11),U.S. House,1,Collin Duprel,LIB,125
+Davison,10 (Precinct-11),U.S. House,1,Dusty Johnson,REP,568
+Davison,12 (Precinct-13),U.S. House,1,Collin Duprel,LIB,97
+Davison,12 (Precinct-13),U.S. House,1,Dusty Johnson,REP,440
+Davison,?,U.S. House,1,Collin Duprel,LIB,222
+Davison,?,U.S. House,1,Dusty Johnson,REP,885
+Davison,20,U.S. House,1,Collin Duprel,LIB,82
+Davison,20,U.S. House,1,Dusty Johnson,REP,506
+Davison,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,42
+Davison,01,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Davison,01,Governor,,Kristi Noem and Larry Rhoden,REP,221
+Davison,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,64
+Davison,02,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Davison,02,Governor,,Kristi Noem and Larry Rhoden,REP,277
+Davison,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,133
+Davison,03,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Davison,03,Governor,,Kristi Noem and Larry Rhoden,REP,516
+Davison,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,124
+Davison,04,Governor,,Tracey Quint and Ashley Strand,LIB,20
+Davison,04,Governor,,Kristi Noem and Larry Rhoden,REP,412
+Davison,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,239
+Davison,?,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Davison,?,Governor,,Kristi Noem and Larry Rhoden,REP,500
+Davison,06 (Precinct-07),Governor,,Jamie Smith and Jennifer Keintz,DEM,272
+Davison,06 (Precinct-07),Governor,,Tracey Quint and Ashley Strand,LIB,15
+Davison,06 (Precinct-07),Governor,,Kristi Noem and Larry Rhoden,REP,555
+Davison,08 (Precinct-09),Governor,,Jamie Smith and Jennifer Keintz,DEM,232
+Davison,08 (Precinct-09),Governor,,Tracey Quint and Ashley Strand,LIB,25
+Davison,08 (Precinct-09),Governor,,Kristi Noem and Larry Rhoden,REP,457
+Davison,10 (Precinct-11),Governor,,Jamie Smith and Jennifer Keintz,DEM,257
+Davison,10 (Precinct-11),Governor,,Tracey Quint and Ashley Strand,LIB,14
+Davison,10 (Precinct-11),Governor,,Kristi Noem and Larry Rhoden,REP,462
+Davison,12 (Precinct-13),Governor,,Jamie Smith and Jennifer Keintz,DEM,188
+Davison,12 (Precinct-13),Governor,,Tracey Quint and Ashley Strand,LIB,8
+Davison,12 (Precinct-13),Governor,,Kristi Noem and Larry Rhoden,REP,373
+Davison,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,416
+Davison,?,Governor,,Tracey Quint and Ashley Strand,LIB,37
+Davison,?,Governor,,Kristi Noem and Larry Rhoden,REP,726
+Davison,20,Governor,,Jamie Smith and Jennifer Keintz,DEM,212
+Davison,20,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Davison,20,Governor,,Kristi Noem and Larry Rhoden,REP,388
+Davison,01,Secretary of State,,Thomas A Cool,DEM,53
+Davison,01,Secretary of State,,Monae Johnson,REP,191
+Davison,02,Secretary of State,,Thomas A Cool,DEM,66
+Davison,02,Secretary of State,,Monae Johnson,REP,269
+Davison,03,Secretary of State,,Thomas A Cool,DEM,155
+Davison,03,Secretary of State,,Monae Johnson,REP,473
+Davison,04,Secretary of State,,Thomas A Cool,DEM,124
+Davison,04,Secretary of State,,Monae Johnson,REP,400
+Davison,?,Secretary of State,,Thomas A Cool,DEM,256
+Davison,?,Secretary of State,,Monae Johnson,REP,473
+Davison,06 (Precinct-07),Secretary of State,,Thomas A Cool,DEM,266
+Davison,06 (Precinct-07),Secretary of State,,Monae Johnson,REP,554
+Davison,08 (Precinct-09),Secretary of State,,Thomas A Cool,DEM,250
+Davison,08 (Precinct-09),Secretary of State,,Monae Johnson,REP,435
+Davison,10 (Precinct-11),Secretary of State,,Thomas A Cool,DEM,261
+Davison,10 (Precinct-11),Secretary of State,,Monae Johnson,REP,439
+Davison,12 (Precinct-13),Secretary of State,,Thomas A Cool,DEM,183
+Davison,12 (Precinct-13),Secretary of State,,Monae Johnson,REP,352
+Davison,?,Secretary of State,,Thomas A Cool,DEM,407
+Davison,?,Secretary of State,,Monae Johnson,REP,710
+Davison,20,Secretary of State,,Thomas A Cool,DEM,209
+Davison,20,Secretary of State,,Monae Johnson,REP,384
+Davison,01,Attorney General,,Marty J. Jackley,REP,208
+Davison,02,Attorney General,,Marty J. Jackley,REP,290
+Davison,03,Attorney General,,Marty J. Jackley,REP,544
+Davison,04,Attorney General,,Marty J. Jackley,REP,464
+Davison,?,Attorney General,,Marty J. Jackley,REP,607
+Davison,06 (Precinct-07),Attorney General,,Marty J. Jackley,REP,676
+Davison,08 (Precinct-09),Attorney General,,Marty J. Jackley,REP,540
+Davison,10 (Precinct-11),Attorney General,,Marty J. Jackley,REP,552
+Davison,12 (Precinct-13),Attorney General,,Marty J. Jackley,REP,431
+Davison,?,Attorney General,,Marty J. Jackley,REP,897
+Davison,20,Attorney General,,Marty J. Jackley,REP,477
+Davison,01,State Auditor,,Stephanie Marty,DEM,47
+Davison,01,State Auditor,,Rene Meyer,LIB,11
+Davison,01,State Auditor,,Richard Sattgast,REP,188
+Davison,02,State Auditor,,Stephanie Marty,DEM,57
+Davison,02,State Auditor,,Rene Meyer,LIB,19
+Davison,02,State Auditor,,Richard Sattgast,REP,257
+Davison,03,State Auditor,,Stephanie Marty,DEM,118
+Davison,03,State Auditor,,Rene Meyer,LIB,22
+Davison,03,State Auditor,,Richard Sattgast,REP,484
+Davison,04,State Auditor,,Stephanie Marty,DEM,105
+Davison,04,State Auditor,,Rene Meyer,LIB,27
+Davison,04,State Auditor,,Richard Sattgast,REP,392
+Davison,?,State Auditor,,Stephanie Marty,DEM,206
+Davison,?,State Auditor,,Rene Meyer,LIB,33
+Davison,?,State Auditor,,Richard Sattgast,REP,478
+Davison,06 (Precinct-07),State Auditor,,Stephanie Marty,DEM,224
+Davison,06 (Precinct-07),State Auditor,,Rene Meyer,LIB,17
+Davison,06 (Precinct-07),State Auditor,,Richard Sattgast,REP,561
+Davison,08 (Precinct-09),State Auditor,,Stephanie Marty,DEM,220
+Davison,08 (Precinct-09),State Auditor,,Rene Meyer,LIB,43
+Davison,08 (Precinct-09),State Auditor,,Richard Sattgast,REP,420
+Davison,10 (Precinct-11),State Auditor,,Stephanie Marty,DEM,223
+Davison,10 (Precinct-11),State Auditor,,Rene Meyer,LIB,38
+Davison,10 (Precinct-11),State Auditor,,Richard Sattgast,REP,429
+Davison,12 (Precinct-13),State Auditor,,Stephanie Marty,DEM,163
+Davison,12 (Precinct-13),State Auditor,,Rene Meyer,LIB,17
+Davison,12 (Precinct-13),State Auditor,,Richard Sattgast,REP,362
+Davison,?,State Auditor,,Stephanie Marty,DEM,333
+Davison,?,State Auditor,,Rene Meyer,LIB,70
+Davison,?,State Auditor,,Richard Sattgast,REP,702
+Davison,20,State Auditor,,Stephanie Marty,DEM,178
+Davison,20,State Auditor,,Rene Meyer,LIB,21
+Davison,20,State Auditor,,Richard Sattgast,REP,390
+Davison,01,State Treasurer,,John Cunningham,DEM,54
+Davison,01,State Treasurer,,Josh Haeder,REP,190
+Davison,02,State Treasurer,,John Cunningham,DEM,62
+Davison,02,State Treasurer,,Josh Haeder,REP,267
+Davison,03,State Treasurer,,John Cunningham,DEM,127
+Davison,03,State Treasurer,,Josh Haeder,REP,492
+Davison,04,State Treasurer,,John Cunningham,DEM,117
+Davison,04,State Treasurer,,Josh Haeder,REP,397
+Davison,?,State Treasurer,,John Cunningham,DEM,223
+Davison,?,State Treasurer,,Josh Haeder,REP,486
+Davison,06 (Precinct-07),State Treasurer,,John Cunningham,DEM,227
+Davison,06 (Precinct-07),State Treasurer,,Josh Haeder,REP,570
+Davison,08 (Precinct-09),State Treasurer,,John Cunningham,DEM,245
+Davison,08 (Precinct-09),State Treasurer,,Josh Haeder,REP,431
+Davison,10 (Precinct-11),State Treasurer,,John Cunningham,DEM,237
+Davison,10 (Precinct-11),State Treasurer,,Josh Haeder,REP,447
+Davison,12 (Precinct-13),State Treasurer,,John Cunningham,DEM,171
+Davison,12 (Precinct-13),State Treasurer,,Josh Haeder,REP,364
+Davison,?,State Treasurer,,John Cunningham,DEM,357
+Davison,?,State Treasurer,,Josh Haeder,REP,734
+Davison,20,State Treasurer,,John Cunningham,DEM,195
+Davison,20,State Treasurer,,Josh Haeder,REP,383
+Davison,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,46
+Davison,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,192
+Davison,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Davison,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,264
+Davison,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,116
+Davison,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,482
+Davison,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,112
+Davison,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,395
+Davison,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,206
+Davison,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,488
+Davison,06 (Precinct-07),Commissioner of School and Public Lands,,Timothy Azure,DEM,215
+Davison,06 (Precinct-07),Commissioner of School and Public Lands,,Brock Greenfield,REP,567
+Davison,08 (Precinct-09),Commissioner of School and Public Lands,,Timothy Azure,DEM,222
+Davison,08 (Precinct-09),Commissioner of School and Public Lands,,Brock Greenfield,REP,444
+Davison,10 (Precinct-11),Commissioner of School and Public Lands,,Timothy Azure,DEM,218
+Davison,10 (Precinct-11),Commissioner of School and Public Lands,,Brock Greenfield,REP,446
+Davison,12 (Precinct-13),Commissioner of School and Public Lands,,Timothy Azure,DEM,161
+Davison,12 (Precinct-13),Commissioner of School and Public Lands,,Brock Greenfield,REP,364
+Davison,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,341
+Davison,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,737
+Davison,20,Commissioner of School and Public Lands,,Timothy Azure,DEM,173
+Davison,20,Commissioner of School and Public Lands,,Brock Greenfield,REP,397
+Davison,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Davison,01,Public Utilities Commissioner,,Chris Nelson,REP,215
+Davison,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,50
+Davison,02,Public Utilities Commissioner,,Chris Nelson,REP,289
+Davison,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,102
+Davison,03,Public Utilities Commissioner,,Chris Nelson,REP,526
+Davison,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,108
+Davison,04,Public Utilities Commissioner,,Chris Nelson,REP,417
+Davison,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,191
+Davison,?,Public Utilities Commissioner,,Chris Nelson,REP,530
+Davison,06 (Precinct-07),Public Utilities Commissioner,,Jeffrey Barth,DEM,198
+Davison,06 (Precinct-07),Public Utilities Commissioner,,Chris Nelson,REP,613
+Davison,08 (Precinct-09),Public Utilities Commissioner,,Jeffrey Barth,DEM,212
+Davison,08 (Precinct-09),Public Utilities Commissioner,,Chris Nelson,REP,474
+Davison,10 (Precinct-11),Public Utilities Commissioner,,Jeffrey Barth,DEM,208
+Davison,10 (Precinct-11),Public Utilities Commissioner,,Chris Nelson,REP,487
+Davison,12 (Precinct-13),Public Utilities Commissioner,,Jeffrey Barth,DEM,155
+Davison,12 (Precinct-13),Public Utilities Commissioner,,Chris Nelson,REP,393
+Davison,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,306
+Davison,?,Public Utilities Commissioner,,Chris Nelson,REP,793
+Davison,20,Public Utilities Commissioner,,Jeffrey Barth,DEM,164
+Davison,20,Public Utilities Commissioner,,Chris Nelson,REP,422
+Davison,01,State Senate,20,Joshua Klumb,REP,224
+Davison,02,State Senate,20,Joshua Klumb,REP,299
+Davison,03,State Senate,20,Joshua Klumb,REP,540
+Davison,04,State Senate,20,Joshua Klumb,REP,450
+Davison,?,State Senate,20,Joshua Klumb,REP,567
+Davison,06 (Precinct-07),State Senate,20,Joshua Klumb,REP,650
+Davison,08 (Precinct-09),State Senate,20,Joshua Klumb,REP,534
+Davison,10 (Precinct-11),State Senate,20,Joshua Klumb,REP,532
+Davison,12 (Precinct-13),State Senate,20,Joshua Klumb,REP,416
+Davison,?,State Senate,20,Joshua Klumb,REP,854
+Davison,20,State Senate,20,Joshua Klumb,REP,446
+Davison,01,State House,20,Ben Krohmer,REP,121
+Davison,01,State House,20,Lance Koth,REP,182
+Davison,02,State House,20,Ben Krohmer,REP,189
+Davison,02,State House,20,Lance Koth,REP,233
+Davison,03,State House,20,Ben Krohmer,REP,376
+Davison,03,State House,20,Lance Koth,REP,449
+Davison,04,State House,20,Ben Krohmer,REP,320
+Davison,04,State House,20,Lance Koth,REP,385
+Davison,?,State House,20,Ben Krohmer,REP,412
+Davison,?,State House,20,Lance Koth,REP,461
+Davison,06 (Precinct-07),State House,20,Ben Krohmer,REP,482
+Davison,06 (Precinct-07),State House,20,Lance Koth,REP,576
+Davison,08 (Precinct-09),State House,20,Ben Krohmer,REP,400
+Davison,08 (Precinct-09),State House,20,Lance Koth,REP,404
+Davison,10 (Precinct-11),State House,20,Ben Krohmer,REP,402
+Davison,10 (Precinct-11),State House,20,Lance Koth,REP,404
+Davison,12 (Precinct-13),State House,20,Ben Krohmer,REP,316
+Davison,12 (Precinct-13),State House,20,Lance Koth,REP,335
+Davison,?,State House,20,Ben Krohmer,REP,644
+Davison,?,State House,20,Lance Koth,REP,694
+Davison,20,State House,20,Ben Krohmer,REP,370
+Davison,20,State House,20,Lance Koth,REP,367
+Davison,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,117
+Davison,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,181
+Davison,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,324
+Davison,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,271
+Davison,?,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,366
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,433
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,336
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,365
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,284
+Davison,?,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,588
+Davison,20,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,292
+Davison,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,110
+Davison,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,166
+Davison,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,294
+Davison,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,254
+Davison,?,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,331
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,407
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,298
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,328
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,255
+Davison,?,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,540
+Davison,20,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,255
+Davison,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,110
+Davison,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,172
+Davison,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,294
+Davison,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,253
+Davison,?,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,336
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,416
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,301
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,335
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,267
+Davison,?,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,545
+Davison,20,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,264
+Davison,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,114
+Davison,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,166
+Davison,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,294
+Davison,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,257
+Davison,?,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,328
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,410
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,301
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,324
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,256
+Davison,?,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,539
+Davison,20,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,264
+Davison,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,115
+Davison,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,178
+Davison,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,325
+Davison,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,289
+Davison,?,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,376
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,467
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,351
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,370
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,288
+Davison,?,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,617
+Davison,20,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,303
+Davison,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,108
+Davison,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,166
+Davison,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,296
+Davison,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,256
+Davison,?,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,331
+Davison,06 (Precinct-07),Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,404
+Davison,08 (Precinct-09),Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,301
+Davison,10 (Precinct-11),Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,324
+Davison,12 (Precinct-13),Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,256
+Davison,?,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,538
+Davison,20,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,250
+Davison,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,184
+Davison,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Davison,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,269
+Davison,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Davison,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,468
+Davison,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,97
+Davison,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,393
+Davison,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,78
+Davison,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,529
+Davison,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,117
+Davison,06 (Precinct-07),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,636
+Davison,06 (Precinct-07),Supreme Court Retention,3,Patricia J. DeVaney - No,,99
+Davison,08 (Precinct-09),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,502
+Davison,08 (Precinct-09),Supreme Court Retention,3,Patricia J. DeVaney - No,,121
+Davison,10 (Precinct-11),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,500
+Davison,10 (Precinct-11),Supreme Court Retention,3,Patricia J. DeVaney - No,,129
+Davison,12 (Precinct-13),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,379
+Davison,12 (Precinct-13),Supreme Court Retention,3,Patricia J. DeVaney - No,,89
+Davison,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,796
+Davison,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,213
+Davison,20,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,413
+Davison,20,Supreme Court Retention,3,Patricia J. DeVaney - No,,103
+Davison,01,Supreme Court Retention,2,Mark E. Salter - Yes,,181
+Davison,01,Supreme Court Retention,2,Mark E. Salter - No,,41
+Davison,02,Supreme Court Retention,2,Mark E. Salter - Yes,,264
+Davison,02,Supreme Court Retention,2,Mark E. Salter - No,,45
+Davison,03,Supreme Court Retention,2,Mark E. Salter - Yes,,473
+Davison,03,Supreme Court Retention,2,Mark E. Salter - No,,85
+Davison,04,Supreme Court Retention,2,Mark E. Salter - Yes,,396
+Davison,04,Supreme Court Retention,2,Mark E. Salter - No,,71
+Davison,?,Supreme Court Retention,2,Mark E. Salter - Yes,,539
+Davison,?,Supreme Court Retention,2,Mark E. Salter - No,,103
+Davison,06 (Precinct-07),Supreme Court Retention,2,Mark E. Salter - Yes,,639
+Davison,06 (Precinct-07),Supreme Court Retention,2,Mark E. Salter - No,,91
+Davison,08 (Precinct-09),Supreme Court Retention,2,Mark E. Salter - Yes,,505
+Davison,08 (Precinct-09),Supreme Court Retention,2,Mark E. Salter - No,,117
+Davison,10 (Precinct-11),Supreme Court Retention,2,Mark E. Salter - Yes,,502
+Davison,10 (Precinct-11),Supreme Court Retention,2,Mark E. Salter - No,,124
+Davison,12 (Precinct-13),Supreme Court Retention,2,Mark E. Salter - Yes,,382
+Davison,12 (Precinct-13),Supreme Court Retention,2,Mark E. Salter - No,,85
+Davison,?,Supreme Court Retention,2,Mark E. Salter - Yes,,798
+Davison,?,Supreme Court Retention,2,Mark E. Salter - No,,203
+Davison,20,Supreme Court Retention,2,Mark E. Salter - Yes,,417
+Davison,20,Supreme Court Retention,2,Mark E. Salter - No,,98
+Davison,01,Constitutional Amendment D,,Yes,,117
+Davison,01,Constitutional Amendment D,,No,,147
+Davison,02,Constitutional Amendment D,,Yes,,137
+Davison,02,Constitutional Amendment D,,No,,198
+Davison,03,Constitutional Amendment D,,Yes,,260
+Davison,03,Constitutional Amendment D,,No,,371
+Davison,04,Constitutional Amendment D,,Yes,,262
+Davison,04,Constitutional Amendment D,,No,,284
+Davison,?,Constitutional Amendment D,,Yes,,378
+Davison,?,Constitutional Amendment D,,No,,362
+Davison,06 (Precinct-07),Constitutional Amendment D,,Yes,,406
+Davison,06 (Precinct-07),Constitutional Amendment D,,No,,425
+Davison,08 (Precinct-09),Constitutional Amendment D,,Yes,,400
+Davison,08 (Precinct-09),Constitutional Amendment D,,No,,291
+Davison,10 (Precinct-11),Constitutional Amendment D,,Yes,,415
+Davison,10 (Precinct-11),Constitutional Amendment D,,No,,305
+Davison,12 (Precinct-13),Constitutional Amendment D,,Yes,,279
+Davison,12 (Precinct-13),Constitutional Amendment D,,No,,270
+Davison,?,Constitutional Amendment D,,Yes,,646
+Davison,?,Constitutional Amendment D,,No,,507
+Davison,20,Constitutional Amendment D,,Yes,,320
+Davison,20,Constitutional Amendment D,,No,,281
+Davison,01,Initiated Measure 27,,Yes,,92
+Davison,01,Initiated Measure 27,,No,,178
+Davison,02,Initiated Measure 27,,Yes,,102
+Davison,02,Initiated Measure 27,,No,,240
+Davison,03,Initiated Measure 27,,Yes,,205
+Davison,03,Initiated Measure 27,,No,,437
+Davison,04,Initiated Measure 27,,Yes,,192
+Davison,04,Initiated Measure 27,,No,,362
+Davison,?,Initiated Measure 27,,Yes,,330
+Davison,?,Initiated Measure 27,,No,,425
+Davison,06 (Precinct-07),Initiated Measure 27,,Yes,,308
+Davison,06 (Precinct-07),Initiated Measure 27,,No,,532
+Davison,08 (Precinct-09),Initiated Measure 27,,Yes,,339
+Davison,08 (Precinct-09),Initiated Measure 27,,No,,362
+Davison,10 (Precinct-11),Initiated Measure 27,,Yes,,343
+Davison,10 (Precinct-11),Initiated Measure 27,,No,,390
+Davison,12 (Precinct-13),Initiated Measure 27,,Yes,,213
+Davison,12 (Precinct-13),Initiated Measure 27,,No,,346
+Davison,?,Initiated Measure 27,,Yes,,547
+Davison,?,Initiated Measure 27,,No,,614
+Davison,20,Initiated Measure 27,,Yes,,256
+Davison,20,Initiated Measure 27,,No,,356

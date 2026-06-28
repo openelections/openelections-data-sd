@@ -1,0 +1,381 @@
+county,precinct,office,district,candidate,party,votes
+Lake,Chester-Franklin,U.S. Senate,,Brian L. Bengs,DEM,82
+Lake,Chester-Franklin,U.S. Senate,,Tamara J Lesnar,LIB,18
+Lake,Chester-Franklin,U.S. Senate,,John R. Thune,REP,363
+Lake,?,U.S. Senate,,Brian L. Bengs,DEM,43
+Lake,?,U.S. Senate,,Tamara J Lesnar,LIB,6
+Lake,?,U.S. Senate,,John R. Thune,REP,178
+Lake,?,U.S. Senate,,Brian L. Bengs,DEM,57
+Lake,?,U.S. Senate,,Tamara J Lesnar,LIB,12
+Lake,?,U.S. Senate,,John R. Thune,REP,248
+Lake,Herman-Winfred,U.S. Senate,,Brian L. Bengs,DEM,88
+Lake,Herman-Winfred,U.S. Senate,,Tamara J Lesnar,LIB,10
+Lake,Herman-Winfred,U.S. Senate,,John R. Thune,REP,320
+Lake,Lakeview,U.S. Senate,,Brian L. Bengs,DEM,108
+Lake,Lakeview,U.S. Senate,,Tamara J Lesnar,LIB,18
+Lake,Lakeview,U.S. Senate,,John R. Thune,REP,380
+Lake,Nunda-Summit,U.S. Senate,,Brian L. Bengs,DEM,19
+Lake,Nunda-Summit,U.S. Senate,,Tamara J Lesnar,LIB,10
+Lake,Nunda-Summit,U.S. Senate,,John R. Thune,REP,161
+Lake,Ward One,U.S. Senate,,Brian L. Bengs,DEM,297
+Lake,Ward One,U.S. Senate,,Tamara J Lesnar,LIB,33
+Lake,Ward One,U.S. Senate,,John R. Thune,REP,774
+Lake,Ward Three,U.S. Senate,,Brian L. Bengs,DEM,159
+Lake,Ward Three,U.S. Senate,,Tamara J Lesnar,LIB,19
+Lake,Ward Three,U.S. Senate,,John R. Thune,REP,401
+Lake,Ward Two,U.S. Senate,,Brian L. Bengs,DEM,179
+Lake,Ward Two,U.S. Senate,,Tamara J Lesnar,LIB,26
+Lake,Ward Two,U.S. Senate,,John R. Thune,REP,424
+Lake,Wentworth-Rutland,U.S. Senate,,Brian L. Bengs,DEM,107
+Lake,Wentworth-Rutland,U.S. Senate,,Tamara J Lesnar,LIB,12
+Lake,Wentworth-Rutland,U.S. Senate,,John R. Thune,REP,366
+Lake,Chester-Franklin,U.S. House,1,Collin Duprel,LIB,78
+Lake,Chester-Franklin,U.S. House,1,Dusty Johnson,REP,365
+Lake,?,U.S. House,1,Collin Duprel,LIB,32
+Lake,?,U.S. House,1,Dusty Johnson,REP,185
+Lake,?,U.S. House,1,Collin Duprel,LIB,46
+Lake,?,U.S. House,1,Dusty Johnson,REP,254
+Lake,Herman-Winfred,U.S. House,1,Collin Duprel,LIB,55
+Lake,Herman-Winfred,U.S. House,1,Dusty Johnson,REP,345
+Lake,Lakeview,U.S. House,1,Collin Duprel,LIB,74
+Lake,Lakeview,U.S. House,1,Dusty Johnson,REP,404
+Lake,Nunda-Summit,U.S. House,1,Collin Duprel,LIB,26
+Lake,Nunda-Summit,U.S. House,1,Dusty Johnson,REP,160
+Lake,Ward One,U.S. House,1,Collin Duprel,LIB,196
+Lake,Ward One,U.S. House,1,Dusty Johnson,REP,843
+Lake,Ward Three,U.S. House,1,Collin Duprel,LIB,134
+Lake,Ward Three,U.S. House,1,Dusty Johnson,REP,416
+Lake,Ward Two,U.S. House,1,Collin Duprel,LIB,131
+Lake,Ward Two,U.S. House,1,Dusty Johnson,REP,451
+Lake,Wentworth-Rutland,U.S. House,1,Collin Duprel,LIB,73
+Lake,Wentworth-Rutland,U.S. House,1,Dusty Johnson,REP,387
+Lake,Chester-Franklin,Governor,,Jamie Smith and Jennifer Keintz,DEM,130
+Lake,Chester-Franklin,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Lake,Chester-Franklin,Governor,,Kristi Noem and Larry Rhoden,REP,335
+Lake,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
+Lake,?,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Lake,?,Governor,,Kristi Noem and Larry Rhoden,REP,166
+Lake,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
+Lake,?,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Lake,?,Governor,,Kristi Noem and Larry Rhoden,REP,228
+Lake,Herman-Winfred,Governor,,Jamie Smith and Jennifer Keintz,DEM,135
+Lake,Herman-Winfred,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Lake,Herman-Winfred,Governor,,Kristi Noem and Larry Rhoden,REP,275
+Lake,Lakeview,Governor,,Jamie Smith and Jennifer Keintz,DEM,178
+Lake,Lakeview,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Lake,Lakeview,Governor,,Kristi Noem and Larry Rhoden,REP,319
+Lake,Nunda-Summit,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Lake,Nunda-Summit,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Lake,Nunda-Summit,Governor,,Kristi Noem and Larry Rhoden,REP,153
+Lake,Ward One,Governor,,Jamie Smith and Jennifer Keintz,DEM,472
+Lake,Ward One,Governor,,Tracey Quint and Ashley Strand,LIB,28
+Lake,Ward One,Governor,,Kristi Noem and Larry Rhoden,REP,623
+Lake,Ward Three,Governor,,Jamie Smith and Jennifer Keintz,DEM,230
+Lake,Ward Three,Governor,,Tracey Quint and Ashley Strand,LIB,20
+Lake,Ward Three,Governor,,Kristi Noem and Larry Rhoden,REP,336
+Lake,Ward Two,Governor,,Jamie Smith and Jennifer Keintz,DEM,260
+Lake,Ward Two,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Lake,Ward Two,Governor,,Kristi Noem and Larry Rhoden,REP,358
+Lake,Wentworth-Rutland,Governor,,Jamie Smith and Jennifer Keintz,DEM,142
+Lake,Wentworth-Rutland,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Lake,Wentworth-Rutland,Governor,,Kristi Noem and Larry Rhoden,REP,338
+Lake,Chester-Franklin,Secretary of State,,Thomas A Cool,DEM,129
+Lake,Chester-Franklin,Secretary of State,,Monae Johnson,REP,315
+Lake,?,Secretary of State,,Thomas A Cool,DEM,68
+Lake,?,Secretary of State,,Monae Johnson,REP,152
+Lake,?,Secretary of State,,Thomas A Cool,DEM,80
+Lake,?,Secretary of State,,Monae Johnson,REP,222
+Lake,Herman-Winfred,Secretary of State,,Thomas A Cool,DEM,132
+Lake,Herman-Winfred,Secretary of State,,Monae Johnson,REP,264
+Lake,Lakeview,Secretary of State,,Thomas A Cool,DEM,171
+Lake,Lakeview,Secretary of State,,Monae Johnson,REP,310
+Lake,Nunda-Summit,Secretary of State,,Thomas A Cool,DEM,40
+Lake,Nunda-Summit,Secretary of State,,Monae Johnson,REP,136
+Lake,Ward One,Secretary of State,,Thomas A Cool,DEM,428
+Lake,Ward One,Secretary of State,,Monae Johnson,REP,613
+Lake,Ward Three,Secretary of State,,Thomas A Cool,DEM,228
+Lake,Ward Three,Secretary of State,,Monae Johnson,REP,325
+Lake,Ward Two,Secretary of State,,Thomas A Cool,DEM,257
+Lake,Ward Two,Secretary of State,,Monae Johnson,REP,337
+Lake,Wentworth-Rutland,Secretary of State,,Thomas A Cool,DEM,146
+Lake,Wentworth-Rutland,Secretary of State,,Monae Johnson,REP,333
+Lake,Chester-Franklin,Attorney General,,Marty J. Jackley,REP,378
+Lake,?,Attorney General,,Marty J. Jackley,REP,185
+Lake,?,Attorney General,,Marty J. Jackley,REP,254
+Lake,Herman-Winfred,Attorney General,,Marty J. Jackley,REP,347
+Lake,Lakeview,Attorney General,,Marty J. Jackley,REP,406
+Lake,Nunda-Summit,Attorney General,,Marty J. Jackley,REP,164
+Lake,Ward One,Attorney General,,Marty J. Jackley,REP,846
+Lake,Ward Three,Attorney General,,Marty J. Jackley,REP,432
+Lake,Ward Two,Attorney General,,Marty J. Jackley,REP,476
+Lake,Wentworth-Rutland,Attorney General,,Marty J. Jackley,REP,400
+Lake,Chester-Franklin,State Auditor,,Stephanie Marty,DEM,110
+Lake,Chester-Franklin,State Auditor,,Rene Meyer,LIB,15
+Lake,Chester-Franklin,State Auditor,,Richard Sattgast,REP,300
+Lake,?,State Auditor,,Stephanie Marty,DEM,52
+Lake,?,State Auditor,,Rene Meyer,LIB,4
+Lake,?,State Auditor,,Richard Sattgast,REP,154
+Lake,?,State Auditor,,Stephanie Marty,DEM,64
+Lake,?,State Auditor,,Rene Meyer,LIB,7
+Lake,?,State Auditor,,Richard Sattgast,REP,223
+Lake,Herman-Winfred,State Auditor,,Stephanie Marty,DEM,118
+Lake,Herman-Winfred,State Auditor,,Rene Meyer,LIB,11
+Lake,Herman-Winfred,State Auditor,,Richard Sattgast,REP,266
+Lake,Lakeview,State Auditor,,Stephanie Marty,DEM,143
+Lake,Lakeview,State Auditor,,Rene Meyer,LIB,15
+Lake,Lakeview,State Auditor,,Richard Sattgast,REP,325
+Lake,Nunda-Summit,State Auditor,,Stephanie Marty,DEM,26
+Lake,Nunda-Summit,State Auditor,,Rene Meyer,LIB,4
+Lake,Nunda-Summit,State Auditor,,Richard Sattgast,REP,152
+Lake,Ward One,State Auditor,,Stephanie Marty,DEM,372
+Lake,Ward One,State Auditor,,Rene Meyer,LIB,51
+Lake,Ward One,State Auditor,,Richard Sattgast,REP,612
+Lake,Ward Three,State Auditor,,Stephanie Marty,DEM,198
+Lake,Ward Three,State Auditor,,Rene Meyer,LIB,37
+Lake,Ward Three,State Auditor,,Richard Sattgast,REP,309
+Lake,Ward Two,State Auditor,,Stephanie Marty,DEM,220
+Lake,Ward Two,State Auditor,,Rene Meyer,LIB,33
+Lake,Ward Two,State Auditor,,Richard Sattgast,REP,338
+Lake,Wentworth-Rutland,State Auditor,,Stephanie Marty,DEM,129
+Lake,Wentworth-Rutland,State Auditor,,Rene Meyer,LIB,18
+Lake,Wentworth-Rutland,State Auditor,,Richard Sattgast,REP,322
+Lake,Chester-Franklin,State Treasurer,,John Cunningham,DEM,112
+Lake,Chester-Franklin,State Treasurer,,Josh Haeder,REP,313
+Lake,?,State Treasurer,,John Cunningham,DEM,54
+Lake,?,State Treasurer,,Josh Haeder,REP,153
+Lake,?,State Treasurer,,John Cunningham,DEM,70
+Lake,?,State Treasurer,,Josh Haeder,REP,216
+Lake,Herman-Winfred,State Treasurer,,John Cunningham,DEM,115
+Lake,Herman-Winfred,State Treasurer,,Josh Haeder,REP,274
+Lake,Lakeview,State Treasurer,,John Cunningham,DEM,147
+Lake,Lakeview,State Treasurer,,Josh Haeder,REP,328
+Lake,Nunda-Summit,State Treasurer,,John Cunningham,DEM,29
+Lake,Nunda-Summit,State Treasurer,,Josh Haeder,REP,149
+Lake,Ward One,State Treasurer,,John Cunningham,DEM,386
+Lake,Ward One,State Treasurer,,Josh Haeder,REP,635
+Lake,Ward Three,State Treasurer,,John Cunningham,DEM,206
+Lake,Ward Three,State Treasurer,,Josh Haeder,REP,330
+Lake,Ward Two,State Treasurer,,John Cunningham,DEM,218
+Lake,Ward Two,State Treasurer,,Josh Haeder,REP,360
+Lake,Wentworth-Rutland,State Treasurer,,John Cunningham,DEM,124
+Lake,Wentworth-Rutland,State Treasurer,,Josh Haeder,REP,334
+Lake,Chester-Franklin,Commissioner of School and Public Lands,,Timothy Azure,DEM,113
+Lake,Chester-Franklin,Commissioner of School and Public Lands,,Brock Greenfield,REP,311
+Lake,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Lake,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
+Lake,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,62
+Lake,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,223
+Lake,Herman-Winfred,Commissioner of School and Public Lands,,Timothy Azure,DEM,117
+Lake,Herman-Winfred,Commissioner of School and Public Lands,,Brock Greenfield,REP,273
+Lake,Lakeview,Commissioner of School and Public Lands,,Timothy Azure,DEM,144
+Lake,Lakeview,Commissioner of School and Public Lands,,Brock Greenfield,REP,325
+Lake,Nunda-Summit,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Lake,Nunda-Summit,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
+Lake,Ward One,Commissioner of School and Public Lands,,Timothy Azure,DEM,368
+Lake,Ward One,Commissioner of School and Public Lands,,Brock Greenfield,REP,632
+Lake,Ward Three,Commissioner of School and Public Lands,,Timothy Azure,DEM,203
+Lake,Ward Three,Commissioner of School and Public Lands,,Brock Greenfield,REP,329
+Lake,Ward Two,Commissioner of School and Public Lands,,Timothy Azure,DEM,228
+Lake,Ward Two,Commissioner of School and Public Lands,,Brock Greenfield,REP,345
+Lake,Wentworth-Rutland,Commissioner of School and Public Lands,,Timothy Azure,DEM,118
+Lake,Wentworth-Rutland,Commissioner of School and Public Lands,,Brock Greenfield,REP,333
+Lake,Chester-Franklin,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
+Lake,Chester-Franklin,Public Utilities Commissioner,,Chris Nelson,REP,335
+Lake,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Lake,?,Public Utilities Commissioner,,Chris Nelson,REP,176
+Lake,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,67
+Lake,?,Public Utilities Commissioner,,Chris Nelson,REP,232
+Lake,Herman-Winfred,Public Utilities Commissioner,,Jeffrey Barth,DEM,109
+Lake,Herman-Winfred,Public Utilities Commissioner,,Chris Nelson,REP,290
+Lake,Lakeview,Public Utilities Commissioner,,Jeffrey Barth,DEM,143
+Lake,Lakeview,Public Utilities Commissioner,,Chris Nelson,REP,349
+Lake,Nunda-Summit,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Lake,Nunda-Summit,Public Utilities Commissioner,,Chris Nelson,REP,154
+Lake,Ward One,Public Utilities Commissioner,,Jeffrey Barth,DEM,335
+Lake,Ward One,Public Utilities Commissioner,,Chris Nelson,REP,712
+Lake,Ward Three,Public Utilities Commissioner,,Jeffrey Barth,DEM,197
+Lake,Ward Three,Public Utilities Commissioner,,Chris Nelson,REP,362
+Lake,Ward Two,Public Utilities Commissioner,,Jeffrey Barth,DEM,198
+Lake,Ward Two,Public Utilities Commissioner,,Chris Nelson,REP,400
+Lake,Wentworth-Rutland,Public Utilities Commissioner,,Jeffrey Barth,DEM,103
+Lake,Wentworth-Rutland,Public Utilities Commissioner,,Chris Nelson,REP,359
+Lake,Chester-Franklin,State Senate,08,Casey Crabtree,REP,355
+Lake,?,State Senate,08,Casey Crabtree,REP,176
+Lake,?,State Senate,08,Casey Crabtree,REP,245
+Lake,Herman-Winfred,State Senate,08,Casey Crabtree,REP,339
+Lake,Lakeview,State Senate,08,Casey Crabtree,REP,385
+Lake,Nunda-Summit,State Senate,08,Casey Crabtree,REP,157
+Lake,Ward One,State Senate,08,Casey Crabtree,REP,848
+Lake,Ward Three,State Senate,08,Casey Crabtree,REP,418
+Lake,Ward Two,State Senate,08,Casey Crabtree,REP,464
+Lake,Wentworth-Rutland,State Senate,08,Casey Crabtree,REP,379
+Lake,Chester-Franklin,State House,08,Tim Reisch,REP,286
+Lake,Chester-Franklin,State House,08,John Mills,REP,262
+Lake,?,State House,08,Tim Reisch,REP,146
+Lake,?,State House,08,John Mills,REP,115
+Lake,?,State House,08,Tim Reisch,REP,211
+Lake,?,State House,08,John Mills,REP,183
+Lake,Herman-Winfred,State House,08,Tim Reisch,REP,302
+Lake,Herman-Winfred,State House,08,John Mills,REP,213
+Lake,Lakeview,State House,08,Tim Reisch,REP,314
+Lake,Lakeview,State House,08,John Mills,REP,270
+Lake,Nunda-Summit,State House,08,Tim Reisch,REP,121
+Lake,Nunda-Summit,State House,08,John Mills,REP,111
+Lake,Ward One,State House,08,Tim Reisch,REP,697
+Lake,Ward One,State House,08,John Mills,REP,559
+Lake,Ward Three,State House,08,Tim Reisch,REP,344
+Lake,Ward Three,State House,08,John Mills,REP,270
+Lake,Ward Two,State House,08,Tim Reisch,REP,390
+Lake,Ward Two,State House,08,John Mills,REP,310
+Lake,Wentworth-Rutland,State House,08,Tim Reisch,REP,283
+Lake,Wentworth-Rutland,State House,08,John Mills,REP,276
+Lake,Chester-Franklin,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,195
+Lake,?,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,93
+Lake,?,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,153
+Lake,Herman-Winfred,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,193
+Lake,Lakeview,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,266
+Lake,Nunda-Summit,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,90
+Lake,Ward One,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,575
+Lake,Ward Three,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,302
+Lake,Ward Two,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,342
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,233
+Lake,Chester-Franklin,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,181
+Lake,?,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,92
+Lake,?,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,148
+Lake,Herman-Winfred,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,182
+Lake,Lakeview,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,252
+Lake,Nunda-Summit,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,87
+Lake,Ward One,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,532
+Lake,Ward Three,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,282
+Lake,Ward Two,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,304
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,227
+Lake,Chester-Franklin,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,185
+Lake,?,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,91
+Lake,?,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,142
+Lake,Herman-Winfred,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,180
+Lake,Lakeview,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,242
+Lake,Nunda-Summit,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,84
+Lake,Ward One,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,526
+Lake,Ward Three,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,272
+Lake,Ward Two,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,303
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,218
+Lake,Chester-Franklin,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,191
+Lake,?,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,95
+Lake,?,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,141
+Lake,Herman-Winfred,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,184
+Lake,Lakeview,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,244
+Lake,Nunda-Summit,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,83
+Lake,Ward One,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,533
+Lake,Ward Three,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,277
+Lake,Ward Two,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,309
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,222
+Lake,Chester-Franklin,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,81
+Lake,Chester-Franklin,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,114
+Lake,?,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,48
+Lake,?,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,61
+Lake,?,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,62
+Lake,?,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,92
+Lake,Herman-Winfred,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,70
+Lake,Herman-Winfred,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,118
+Lake,Lakeview,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,107
+Lake,Lakeview,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,146
+Lake,Nunda-Summit,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,40
+Lake,Nunda-Summit,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,55
+Lake,Ward One,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,216
+Lake,Ward One,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,330
+Lake,Ward Three,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,122
+Lake,Ward Three,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,181
+Lake,Ward Two,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,131
+Lake,Ward Two,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,209
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,92
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,127
+Lake,Chester-Franklin,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,226
+Lake,?,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,129
+Lake,?,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,180
+Lake,Herman-Winfred,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,247
+Lake,Lakeview,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,288
+Lake,Nunda-Summit,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,95
+Lake,Ward One,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,655
+Lake,Ward Three,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,344
+Lake,Ward Two,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,378
+Lake,Wentworth-Rutland,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,241
+Lake,Chester-Franklin,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,327
+Lake,Chester-Franklin,Supreme Court Retention,3,Patricia J. DeVaney - No,,63
+Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
+Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,228
+Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Lake,Herman-Winfred,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,312
+Lake,Herman-Winfred,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
+Lake,Lakeview,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,393
+Lake,Lakeview,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Lake,Nunda-Summit,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,137
+Lake,Nunda-Summit,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Lake,Ward One,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,826
+Lake,Ward One,Supreme Court Retention,3,Patricia J. DeVaney - No,,145
+Lake,Ward Three,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,414
+Lake,Ward Three,Supreme Court Retention,3,Patricia J. DeVaney - No,,85
+Lake,Ward Two,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,454
+Lake,Ward Two,Supreme Court Retention,3,Patricia J. DeVaney - No,,93
+Lake,Wentworth-Rutland,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,373
+Lake,Wentworth-Rutland,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Lake,Chester-Franklin,Supreme Court Retention,2,Mark E. Salter - Yes,,316
+Lake,Chester-Franklin,Supreme Court Retention,2,Mark E. Salter - No,,68
+Lake,?,Supreme Court Retention,2,Mark E. Salter - Yes,,155
+Lake,?,Supreme Court Retention,2,Mark E. Salter - No,,26
+Lake,?,Supreme Court Retention,2,Mark E. Salter - Yes,,221
+Lake,?,Supreme Court Retention,2,Mark E. Salter - No,,42
+Lake,Herman-Winfred,Supreme Court Retention,2,Mark E. Salter - Yes,,309
+Lake,Herman-Winfred,Supreme Court Retention,2,Mark E. Salter - No,,44
+Lake,Lakeview,Supreme Court Retention,2,Mark E. Salter - Yes,,391
+Lake,Lakeview,Supreme Court Retention,2,Mark E. Salter - No,,49
+Lake,Nunda-Summit,Supreme Court Retention,2,Mark E. Salter - Yes,,140
+Lake,Nunda-Summit,Supreme Court Retention,2,Mark E. Salter - No,,12
+Lake,Ward One,Supreme Court Retention,2,Mark E. Salter - Yes,,816
+Lake,Ward One,Supreme Court Retention,2,Mark E. Salter - No,,145
+Lake,Ward Three,Supreme Court Retention,2,Mark E. Salter - Yes,,408
+Lake,Ward Three,Supreme Court Retention,2,Mark E. Salter - No,,83
+Lake,Ward Two,Supreme Court Retention,2,Mark E. Salter - Yes,,443
+Lake,Ward Two,Supreme Court Retention,2,Mark E. Salter - No,,90
+Lake,Wentworth-Rutland,Supreme Court Retention,2,Mark E. Salter - Yes,,369
+Lake,Wentworth-Rutland,Supreme Court Retention,2,Mark E. Salter - No,,51
+Lake,Chester-Franklin,Constitutional Amendment D,,Yes,,198
+Lake,Chester-Franklin,Constitutional Amendment D,,No,,261
+Lake,?,Constitutional Amendment D,,Yes,,110
+Lake,?,Constitutional Amendment D,,No,,109
+Lake,?,Constitutional Amendment D,,Yes,,124
+Lake,?,Constitutional Amendment D,,No,,177
+Lake,Herman-Winfred,Constitutional Amendment D,,Yes,,208
+Lake,Herman-Winfred,Constitutional Amendment D,,No,,195
+Lake,Lakeview,Constitutional Amendment D,,Yes,,249
+Lake,Lakeview,Constitutional Amendment D,,No,,246
+Lake,Nunda-Summit,Constitutional Amendment D,,Yes,,77
+Lake,Nunda-Summit,Constitutional Amendment D,,No,,96
+Lake,Ward One,Constitutional Amendment D,,Yes,,636
+Lake,Ward One,Constitutional Amendment D,,No,,463
+Lake,Ward Three,Constitutional Amendment D,,Yes,,351
+Lake,Ward Three,Constitutional Amendment D,,No,,222
+Lake,Ward Two,Constitutional Amendment D,,Yes,,352
+Lake,Ward Two,Constitutional Amendment D,,No,,266
+Lake,Wentworth-Rutland,Constitutional Amendment D,,Yes,,235
+Lake,Wentworth-Rutland,Constitutional Amendment D,,No,,238
+Lake,Chester-Franklin,Initiated Measure 27,,Yes,,199
+Lake,Chester-Franklin,Initiated Measure 27,,No,,262
+Lake,?,Initiated Measure 27,,Yes,,104
+Lake,?,Initiated Measure 27,,No,,120
+Lake,?,Initiated Measure 27,,Yes,,117
+Lake,?,Initiated Measure 27,,No,,190
+Lake,Herman-Winfred,Initiated Measure 27,,Yes,,174
+Lake,Herman-Winfred,Initiated Measure 27,,No,,238
+Lake,Lakeview,Initiated Measure 27,,Yes,,240
+Lake,Lakeview,Initiated Measure 27,,No,,262
+Lake,Nunda-Summit,Initiated Measure 27,,Yes,,61
+Lake,Nunda-Summit,Initiated Measure 27,,No,,120
+Lake,Ward One,Initiated Measure 27,,Yes,,558
+Lake,Ward One,Initiated Measure 27,,No,,552
+Lake,Ward Three,Initiated Measure 27,,Yes,,292
+Lake,Ward Three,Initiated Measure 27,,No,,287
+Lake,Ward Two,Initiated Measure 27,,Yes,,334
+Lake,Ward Two,Initiated Measure 27,,No,,294
+Lake,Wentworth-Rutland,Initiated Measure 27,,Yes,,223
+Lake,Wentworth-Rutland,Initiated Measure 27,,No,,258

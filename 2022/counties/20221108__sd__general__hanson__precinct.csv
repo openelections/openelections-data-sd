@@ -1,0 +1,191 @@
+county,precinct,office,district,candidate,party,votes
+Hanson,1,U.S. Senate,,Brian L. Bengs,DEM,101
+Hanson,1,U.S. Senate,,Tamara J Lesnar,LIB,16
+Hanson,1,U.S. Senate,,John R. Thune,REP,372
+Hanson,2,U.S. Senate,,Brian L. Bengs,DEM,57
+Hanson,2,U.S. Senate,,Tamara J Lesnar,LIB,12
+Hanson,2,U.S. Senate,,John R. Thune,REP,249
+Hanson,3,U.S. Senate,,Brian L. Bengs,DEM,39
+Hanson,3,U.S. Senate,,Tamara J Lesnar,LIB,6
+Hanson,3,U.S. Senate,,John R. Thune,REP,231
+Hanson,4,U.S. Senate,,Brian L. Bengs,DEM,28
+Hanson,4,U.S. Senate,,Tamara J Lesnar,LIB,12
+Hanson,4,U.S. Senate,,John R. Thune,REP,262
+Hanson,5,U.S. Senate,,Brian L. Bengs,DEM,29
+Hanson,5,U.S. Senate,,Tamara J Lesnar,LIB,6
+Hanson,5,U.S. Senate,,John R. Thune,REP,209
+Hanson,1,U.S. House,1,Collin Duprel,LIB,78
+Hanson,1,U.S. House,1,Dusty Johnson,REP,384
+Hanson,2,U.S. House,1,Collin Duprel,LIB,58
+Hanson,2,U.S. House,1,Dusty Johnson,REP,247
+Hanson,3,U.S. House,1,Collin Duprel,LIB,40
+Hanson,3,U.S. House,1,Dusty Johnson,REP,222
+Hanson,4,U.S. House,1,Collin Duprel,LIB,28
+Hanson,4,U.S. House,1,Dusty Johnson,REP,268
+Hanson,5,U.S. House,1,Collin Duprel,LIB,29
+Hanson,5,U.S. House,1,Dusty Johnson,REP,215
+Hanson,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,122
+Hanson,1,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Hanson,1,Governor,,Kristi Noem and Larry Rhoden,REP,358
+Hanson,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,83
+Hanson,2,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Hanson,2,Governor,,Kristi Noem and Larry Rhoden,REP,232
+Hanson,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,54
+Hanson,3,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Hanson,3,Governor,,Kristi Noem and Larry Rhoden,REP,213
+Hanson,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,38
+Hanson,4,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Hanson,4,Governor,,Kristi Noem and Larry Rhoden,REP,255
+Hanson,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,39
+Hanson,5,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Hanson,5,Governor,,Kristi Noem and Larry Rhoden,REP,209
+Hanson,1,Secretary of State,,Thomas A Cool,DEM,118
+Hanson,1,Secretary of State,,Monae Johnson,REP,346
+Hanson,2,Secretary of State,,Thomas A Cool,DEM,90
+Hanson,2,Secretary of State,,Monae Johnson,REP,209
+Hanson,3,Secretary of State,,Thomas A Cool,DEM,71
+Hanson,3,Secretary of State,,Monae Johnson,REP,184
+Hanson,4,Secretary of State,,Thomas A Cool,DEM,40
+Hanson,4,Secretary of State,,Monae Johnson,REP,254
+Hanson,5,Secretary of State,,Thomas A Cool,DEM,51
+Hanson,5,Secretary of State,,Monae Johnson,REP,179
+Hanson,1,Attorney General,,Marty J. Jackley,REP,382
+Hanson,2,Attorney General,,Marty J. Jackley,REP,239
+Hanson,3,Attorney General,,Marty J. Jackley,REP,212
+Hanson,4,Attorney General,,Marty J. Jackley,REP,261
+Hanson,5,Attorney General,,Marty J. Jackley,REP,206
+Hanson,1,State Auditor,,Stephanie Marty,DEM,108
+Hanson,1,State Auditor,,Rene Meyer,LIB,19
+Hanson,1,State Auditor,,Richard Sattgast,REP,339
+Hanson,2,State Auditor,,Stephanie Marty,DEM,77
+Hanson,2,State Auditor,,Rene Meyer,LIB,9
+Hanson,2,State Auditor,,Richard Sattgast,REP,214
+Hanson,3,State Auditor,,Stephanie Marty,DEM,50
+Hanson,3,State Auditor,,Rene Meyer,LIB,14
+Hanson,3,State Auditor,,Richard Sattgast,REP,188
+Hanson,4,State Auditor,,Stephanie Marty,DEM,38
+Hanson,4,State Auditor,,Rene Meyer,LIB,17
+Hanson,4,State Auditor,,Richard Sattgast,REP,238
+Hanson,5,State Auditor,,Stephanie Marty,DEM,37
+Hanson,5,State Auditor,,Rene Meyer,LIB,6
+Hanson,5,State Auditor,,Richard Sattgast,REP,190
+Hanson,1,State Treasurer,,John Cunningham,DEM,113
+Hanson,1,State Treasurer,,Josh Haeder,REP,353
+Hanson,2,State Treasurer,,John Cunningham,DEM,76
+Hanson,2,State Treasurer,,Josh Haeder,REP,217
+Hanson,3,State Treasurer,,John Cunningham,DEM,43
+Hanson,3,State Treasurer,,Josh Haeder,REP,204
+Hanson,4,State Treasurer,,John Cunningham,DEM,40
+Hanson,4,State Treasurer,,Josh Haeder,REP,249
+Hanson,5,State Treasurer,,John Cunningham,DEM,35
+Hanson,5,State Treasurer,,Josh Haeder,REP,193
+Hanson,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,107
+Hanson,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,348
+Hanson,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,73
+Hanson,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,215
+Hanson,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,51
+Hanson,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,187
+Hanson,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Hanson,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,250
+Hanson,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,31
+Hanson,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,188
+Hanson,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,102
+Hanson,1,Public Utilities Commissioner,,Chris Nelson,REP,358
+Hanson,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,65
+Hanson,2,Public Utilities Commissioner,,Chris Nelson,REP,240
+Hanson,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,46
+Hanson,3,Public Utilities Commissioner,,Chris Nelson,REP,207
+Hanson,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,31
+Hanson,4,Public Utilities Commissioner,,Chris Nelson,REP,265
+Hanson,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,38
+Hanson,5,Public Utilities Commissioner,,Chris Nelson,REP,199
+Hanson,1,State Senate,19,Russell Graeff,DEM,102
+Hanson,1,State Senate,19,Kyle Schoenfish,REP,363
+Hanson,2,State Senate,19,Russell Graeff,DEM,66
+Hanson,2,State Senate,19,Kyle Schoenfish,REP,228
+Hanson,3,State Senate,19,Russell Graeff,DEM,48
+Hanson,3,State Senate,19,Kyle Schoenfish,REP,205
+Hanson,4,State Senate,19,Russell Graeff,DEM,33
+Hanson,4,State Senate,19,Kyle Schoenfish,REP,258
+Hanson,5,State Senate,19,Russell Graeff,DEM,37
+Hanson,5,State Senate,19,Kyle Schoenfish,REP,192
+Hanson,1,State House,19,Jessica Bahmuller,REP,252
+Hanson,1,State House,19,Drew Peterson,REP,284
+Hanson,2,State House,19,Jessica Bahmuller,REP,247
+Hanson,2,State House,19,Drew Peterson,REP,139
+Hanson,3,State House,19,Jessica Bahmuller,REP,186
+Hanson,3,State House,19,Drew Peterson,REP,123
+Hanson,4,State House,19,Jessica Bahmuller,REP,172
+Hanson,4,State House,19,Drew Peterson,REP,222
+Hanson,5,State House,19,Jessica Bahmuller,REP,158
+Hanson,5,State House,19,Drew Peterson,REP,134
+Hanson,1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,218
+Hanson,2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,182
+Hanson,3,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,126
+Hanson,4,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,130
+Hanson,5,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,115
+Hanson,1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,202
+Hanson,2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,132
+Hanson,3,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,97
+Hanson,4,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,114
+Hanson,5,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,97
+Hanson,1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,199
+Hanson,2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,133
+Hanson,3,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,93
+Hanson,4,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,115
+Hanson,5,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,99
+Hanson,1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,199
+Hanson,2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,131
+Hanson,3,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,98
+Hanson,4,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,115
+Hanson,5,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,98
+Hanson,1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,196
+Hanson,2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,142
+Hanson,3,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,112
+Hanson,4,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,128
+Hanson,5,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,102
+Hanson,1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,200
+Hanson,2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,132
+Hanson,3,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,97
+Hanson,4,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,115
+Hanson,5,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,97
+Hanson,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,346
+Hanson,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,66
+Hanson,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,233
+Hanson,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,37
+Hanson,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,191
+Hanson,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Hanson,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,193
+Hanson,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Hanson,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,167
+Hanson,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Hanson,1,Supreme Court Retention,2,Mark E. Salter - Yes,,340
+Hanson,1,Supreme Court Retention,2,Mark E. Salter - No,,62
+Hanson,2,Supreme Court Retention,2,Mark E. Salter - Yes,,232
+Hanson,2,Supreme Court Retention,2,Mark E. Salter - No,,36
+Hanson,3,Supreme Court Retention,2,Mark E. Salter - Yes,,195
+Hanson,3,Supreme Court Retention,2,Mark E. Salter - No,,29
+Hanson,4,Supreme Court Retention,2,Mark E. Salter - Yes,,195
+Hanson,4,Supreme Court Retention,2,Mark E. Salter - No,,39
+Hanson,5,Supreme Court Retention,2,Mark E. Salter - Yes,,159
+Hanson,5,Supreme Court Retention,2,Mark E. Salter - No,,40
+Hanson,1,Constitutional Amendment D,,Yes,,215
+Hanson,1,Constitutional Amendment D,,No,,249
+Hanson,2,Constitutional Amendment D,,Yes,,159
+Hanson,2,Constitutional Amendment D,,No,,153
+Hanson,3,Constitutional Amendment D,,Yes,,118
+Hanson,3,Constitutional Amendment D,,No,,154
+Hanson,4,Constitutional Amendment D,,Yes,,132
+Hanson,4,Constitutional Amendment D,,No,,159
+Hanson,5,Constitutional Amendment D,,Yes,,87
+Hanson,5,Constitutional Amendment D,,No,,140
+Hanson,1,Initiated Measure 27,,Yes,,187
+Hanson,1,Initiated Measure 27,,No,,286
+Hanson,2,Initiated Measure 27,,Yes,,109
+Hanson,2,Initiated Measure 27,,No,,201
+Hanson,3,Initiated Measure 27,,Yes,,64
+Hanson,3,Initiated Measure 27,,No,,208
+Hanson,4,Initiated Measure 27,,Yes,,62
+Hanson,4,Initiated Measure 27,,No,,240
+Hanson,5,Initiated Measure 27,,Yes,,55
+Hanson,5,Initiated Measure 27,,No,,176

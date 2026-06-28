@@ -1,0 +1,191 @@
+county,precinct,office,district,candidate,party,votes
+Bon Homme,1,U.S. Senate,,Brian L. Bengs,DEM,62
+Bon Homme,1,U.S. Senate,,Tamara J Lesnar,LIB,12
+Bon Homme,1,U.S. Senate,,John R. Thune,REP,396
+Bon Homme,2,U.S. Senate,,Brian L. Bengs,DEM,70
+Bon Homme,2,U.S. Senate,,Tamara J Lesnar,LIB,10
+Bon Homme,2,U.S. Senate,,John R. Thune,REP,364
+Bon Homme,3,U.S. Senate,,Brian L. Bengs,DEM,137
+Bon Homme,3,U.S. Senate,,Tamara J Lesnar,LIB,35
+Bon Homme,3,U.S. Senate,,John R. Thune,REP,468
+Bon Homme,4,U.S. Senate,,Brian L. Bengs,DEM,96
+Bon Homme,4,U.S. Senate,,Tamara J Lesnar,LIB,16
+Bon Homme,4,U.S. Senate,,John R. Thune,REP,346
+Bon Homme,5,U.S. Senate,,Brian L. Bengs,DEM,88
+Bon Homme,5,U.S. Senate,,Tamara J Lesnar,LIB,18
+Bon Homme,5,U.S. Senate,,John R. Thune,REP,436
+Bon Homme,1,U.S. House,1,Collin Duprel,LIB,49
+Bon Homme,1,U.S. House,1,Dusty Johnson,REP,397
+Bon Homme,2,U.S. House,1,Collin Duprel,LIB,55
+Bon Homme,2,U.S. House,1,Dusty Johnson,REP,370
+Bon Homme,3,U.S. House,1,Collin Duprel,LIB,126
+Bon Homme,3,U.S. House,1,Dusty Johnson,REP,490
+Bon Homme,4,U.S. House,1,Collin Duprel,LIB,72
+Bon Homme,4,U.S. House,1,Dusty Johnson,REP,358
+Bon Homme,5,U.S. House,1,Collin Duprel,LIB,86
+Bon Homme,5,U.S. House,1,Dusty Johnson,REP,442
+Bon Homme,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,84
+Bon Homme,1,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Bon Homme,1,Governor,,Kristi Noem and Larry Rhoden,REP,380
+Bon Homme,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,111
+Bon Homme,2,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Bon Homme,2,Governor,,Kristi Noem and Larry Rhoden,REP,332
+Bon Homme,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,205
+Bon Homme,3,Governor,,Tracey Quint and Ashley Strand,LIB,24
+Bon Homme,3,Governor,,Kristi Noem and Larry Rhoden,REP,416
+Bon Homme,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,123
+Bon Homme,4,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Bon Homme,4,Governor,,Kristi Noem and Larry Rhoden,REP,320
+Bon Homme,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,127
+Bon Homme,5,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Bon Homme,5,Governor,,Kristi Noem and Larry Rhoden,REP,410
+Bon Homme,1,Secretary of State,,Thomas A Cool,DEM,94
+Bon Homme,1,Secretary of State,,Monae Johnson,REP,349
+Bon Homme,2,Secretary of State,,Thomas A Cool,DEM,115
+Bon Homme,2,Secretary of State,,Monae Johnson,REP,313
+Bon Homme,3,Secretary of State,,Thomas A Cool,DEM,228
+Bon Homme,3,Secretary of State,,Monae Johnson,REP,385
+Bon Homme,4,Secretary of State,,Thomas A Cool,DEM,159
+Bon Homme,4,Secretary of State,,Monae Johnson,REP,259
+Bon Homme,5,Secretary of State,,Thomas A Cool,DEM,118
+Bon Homme,5,Secretary of State,,Monae Johnson,REP,411
+Bon Homme,1,Attorney General,,Marty J. Jackley,REP,397
+Bon Homme,2,Attorney General,,Marty J. Jackley,REP,330
+Bon Homme,3,Attorney General,,Marty J. Jackley,REP,472
+Bon Homme,4,Attorney General,,Marty J. Jackley,REP,337
+Bon Homme,5,Attorney General,,Marty J. Jackley,REP,427
+Bon Homme,1,State Auditor,,Stephanie Marty,DEM,80
+Bon Homme,1,State Auditor,,Rene Meyer,LIB,15
+Bon Homme,1,State Auditor,,Richard Sattgast,REP,354
+Bon Homme,2,State Auditor,,Stephanie Marty,DEM,100
+Bon Homme,2,State Auditor,,Rene Meyer,LIB,18
+Bon Homme,2,State Auditor,,Richard Sattgast,REP,298
+Bon Homme,3,State Auditor,,Stephanie Marty,DEM,183
+Bon Homme,3,State Auditor,,Rene Meyer,LIB,30
+Bon Homme,3,State Auditor,,Richard Sattgast,REP,376
+Bon Homme,4,State Auditor,,Stephanie Marty,DEM,138
+Bon Homme,4,State Auditor,,Rene Meyer,LIB,17
+Bon Homme,4,State Auditor,,Richard Sattgast,REP,258
+Bon Homme,5,State Auditor,,Stephanie Marty,DEM,105
+Bon Homme,5,State Auditor,,Rene Meyer,LIB,21
+Bon Homme,5,State Auditor,,Richard Sattgast,REP,398
+Bon Homme,1,State Treasurer,,John Cunningham,DEM,78
+Bon Homme,1,State Treasurer,,Josh Haeder,REP,361
+Bon Homme,2,State Treasurer,,John Cunningham,DEM,98
+Bon Homme,2,State Treasurer,,Josh Haeder,REP,317
+Bon Homme,3,State Treasurer,,John Cunningham,DEM,197
+Bon Homme,3,State Treasurer,,Josh Haeder,REP,384
+Bon Homme,4,State Treasurer,,John Cunningham,DEM,143
+Bon Homme,4,State Treasurer,,Josh Haeder,REP,265
+Bon Homme,5,State Treasurer,,John Cunningham,DEM,106
+Bon Homme,5,State Treasurer,,Josh Haeder,REP,418
+Bon Homme,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,79
+Bon Homme,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,362
+Bon Homme,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,98
+Bon Homme,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,316
+Bon Homme,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,180
+Bon Homme,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,402
+Bon Homme,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,133
+Bon Homme,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,268
+Bon Homme,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,108
+Bon Homme,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,405
+Bon Homme,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Bon Homme,1,Public Utilities Commissioner,,Chris Nelson,REP,384
+Bon Homme,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,93
+Bon Homme,2,Public Utilities Commissioner,,Chris Nelson,REP,325
+Bon Homme,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,175
+Bon Homme,3,Public Utilities Commissioner,,Chris Nelson,REP,424
+Bon Homme,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,126
+Bon Homme,4,Public Utilities Commissioner,,Chris Nelson,REP,299
+Bon Homme,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
+Bon Homme,5,Public Utilities Commissioner,,Chris Nelson,REP,423
+Bon Homme,1,State Senate,19,Russell Graeff,DEM,60
+Bon Homme,1,State Senate,19,Kyle Schoenfish,REP,395
+Bon Homme,2,State Senate,19,Russell Graeff,DEM,88
+Bon Homme,2,State Senate,19,Kyle Schoenfish,REP,338
+Bon Homme,3,State Senate,19,Russell Graeff,DEM,166
+Bon Homme,3,State Senate,19,Kyle Schoenfish,REP,436
+Bon Homme,4,State Senate,19,Russell Graeff,DEM,99
+Bon Homme,4,State Senate,19,Kyle Schoenfish,REP,333
+Bon Homme,5,State Senate,19,Russell Graeff,DEM,99
+Bon Homme,5,State Senate,19,Kyle Schoenfish,REP,434
+Bon Homme,1,State House,19,Jessica Bahmuller,REP,267
+Bon Homme,1,State House,19,Drew Peterson,REP,303
+Bon Homme,2,State House,19,Jessica Bahmuller,REP,201
+Bon Homme,2,State House,19,Drew Peterson,REP,310
+Bon Homme,3,State House,19,Jessica Bahmuller,REP,302
+Bon Homme,3,State House,19,Drew Peterson,REP,352
+Bon Homme,4,State House,19,Jessica Bahmuller,REP,214
+Bon Homme,4,State House,19,Drew Peterson,REP,255
+Bon Homme,5,State House,19,Jessica Bahmuller,REP,273
+Bon Homme,5,State House,19,Drew Peterson,REP,355
+Bon Homme,1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,226
+Bon Homme,2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,206
+Bon Homme,3,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,275
+Bon Homme,4,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,203
+Bon Homme,5,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,232
+Bon Homme,1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,231
+Bon Homme,2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,205
+Bon Homme,3,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,280
+Bon Homme,4,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,206
+Bon Homme,5,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,241
+Bon Homme,1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,234
+Bon Homme,2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,222
+Bon Homme,3,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,272
+Bon Homme,4,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,200
+Bon Homme,5,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,246
+Bon Homme,1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,240
+Bon Homme,2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,214
+Bon Homme,3,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,290
+Bon Homme,4,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,209
+Bon Homme,5,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,257
+Bon Homme,1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,222
+Bon Homme,2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,200
+Bon Homme,3,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,274
+Bon Homme,4,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,195
+Bon Homme,5,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,231
+Bon Homme,1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,220
+Bon Homme,2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,203
+Bon Homme,3,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,276
+Bon Homme,4,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,200
+Bon Homme,5,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,238
+Bon Homme,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,342
+Bon Homme,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,71
+Bon Homme,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,313
+Bon Homme,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,81
+Bon Homme,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,436
+Bon Homme,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,103
+Bon Homme,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,320
+Bon Homme,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Bon Homme,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,386
+Bon Homme,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,79
+Bon Homme,1,Supreme Court Retention,2,Mark E. Salter - Yes,,341
+Bon Homme,1,Supreme Court Retention,2,Mark E. Salter - No,,67
+Bon Homme,2,Supreme Court Retention,2,Mark E. Salter - Yes,,305
+Bon Homme,2,Supreme Court Retention,2,Mark E. Salter - No,,86
+Bon Homme,3,Supreme Court Retention,2,Mark E. Salter - Yes,,445
+Bon Homme,3,Supreme Court Retention,2,Mark E. Salter - No,,95
+Bon Homme,4,Supreme Court Retention,2,Mark E. Salter - Yes,,323
+Bon Homme,4,Supreme Court Retention,2,Mark E. Salter - No,,62
+Bon Homme,5,Supreme Court Retention,2,Mark E. Salter - Yes,,383
+Bon Homme,5,Supreme Court Retention,2,Mark E. Salter - No,,81
+Bon Homme,1,Constitutional Amendment D,,Yes,,220
+Bon Homme,1,Constitutional Amendment D,,No,,246
+Bon Homme,2,Constitutional Amendment D,,Yes,,198
+Bon Homme,2,Constitutional Amendment D,,No,,229
+Bon Homme,3,Constitutional Amendment D,,Yes,,339
+Bon Homme,3,Constitutional Amendment D,,No,,276
+Bon Homme,4,Constitutional Amendment D,,Yes,,210
+Bon Homme,4,Constitutional Amendment D,,No,,232
+Bon Homme,5,Constitutional Amendment D,,Yes,,241
+Bon Homme,5,Constitutional Amendment D,,No,,292
+Bon Homme,1,Initiated Measure 27,,Yes,,150
+Bon Homme,1,Initiated Measure 27,,No,,324
+Bon Homme,2,Initiated Measure 27,,Yes,,149
+Bon Homme,2,Initiated Measure 27,,No,,284
+Bon Homme,3,Initiated Measure 27,,Yes,,254
+Bon Homme,3,Initiated Measure 27,,No,,378
+Bon Homme,4,Initiated Measure 27,,Yes,,152
+Bon Homme,4,Initiated Measure 27,,No,,290
+Bon Homme,5,Initiated Measure 27,,Yes,,216
+Bon Homme,5,Initiated Measure 27,,No,,323

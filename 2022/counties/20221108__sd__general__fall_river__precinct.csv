@@ -1,0 +1,361 @@
+county,precinct,office,district,candidate,party,votes
+Fall River,BEA,U.S. Senate,,Brian L. Bengs,DEM,8
+Fall River,BEA,U.S. Senate,,Tamara J Lesnar,LIB,15
+Fall River,BEA,U.S. Senate,,John R. Thune,REP,114
+Fall River,CAS,U.S. Senate,,Brian L. Bengs,DEM,25
+Fall River,CAS,U.S. Senate,,Tamara J Lesnar,LIB,20
+Fall River,CAS,U.S. Senate,,John R. Thune,REP,130
+Fall River,EDA,U.S. Senate,,Brian L. Bengs,DEM,70
+Fall River,EDA,U.S. Senate,,Tamara J Lesnar,LIB,33
+Fall River,EDA,U.S. Senate,,John R. Thune,REP,437
+Fall River,HS 1,U.S. Senate,,Brian L. Bengs,DEM,105
+Fall River,HS 1,U.S. Senate,,Tamara J Lesnar,LIB,29
+Fall River,HS 1,U.S. Senate,,John R. Thune,REP,303
+Fall River,HS 2,U.S. Senate,,Brian L. Bengs,DEM,95
+Fall River,HS 2,U.S. Senate,,Tamara J Lesnar,LIB,22
+Fall River,HS 2,U.S. Senate,,John R. Thune,REP,319
+Fall River,HS 3,U.S. Senate,,Brian L. Bengs,DEM,88
+Fall River,HS 3,U.S. Senate,,Tamara J Lesnar,LIB,20
+Fall River,HS 3,U.S. Senate,,John R. Thune,REP,229
+Fall River,HS 4,U.S. Senate,,Brian L. Bengs,DEM,101
+Fall River,HS 4,U.S. Senate,,Tamara J Lesnar,LIB,16
+Fall River,HS 4,U.S. Senate,,John R. Thune,REP,248
+Fall River,JAC,U.S. Senate,,Brian L. Bengs,DEM,162
+Fall River,JAC,U.S. Senate,,Tamara J Lesnar,LIB,50
+Fall River,JAC,U.S. Senate,,John R. Thune,REP,818
+Fall River,Oelrichs Area,U.S. Senate,,Brian L. Bengs,DEM,11
+Fall River,Oelrichs Area,U.S. Senate,,Tamara J Lesnar,LIB,17
+Fall River,Oelrichs Area,U.S. Senate,,John R. Thune,REP,156
+Fall River,BEA,U.S. House,1,Collin Duprel,LIB,26
+Fall River,BEA,U.S. House,1,Dusty Johnson,REP,110
+Fall River,CAS,U.S. House,1,Collin Duprel,LIB,35
+Fall River,CAS,U.S. House,1,Dusty Johnson,REP,132
+Fall River,EDA,U.S. House,1,Collin Duprel,LIB,100
+Fall River,EDA,U.S. House,1,Dusty Johnson,REP,421
+Fall River,HS 1,U.S. House,1,Collin Duprel,LIB,102
+Fall River,HS 1,U.S. House,1,Dusty Johnson,REP,312
+Fall River,HS 2,U.S. House,1,Collin Duprel,LIB,91
+Fall River,HS 2,U.S. House,1,Dusty Johnson,REP,319
+Fall River,HS 3,U.S. House,1,Collin Duprel,LIB,86
+Fall River,HS 3,U.S. House,1,Dusty Johnson,REP,228
+Fall River,HS 4,U.S. House,1,Collin Duprel,LIB,87
+Fall River,HS 4,U.S. House,1,Dusty Johnson,REP,248
+Fall River,JAC,U.S. House,1,Collin Duprel,LIB,196
+Fall River,JAC,U.S. House,1,Dusty Johnson,REP,786
+Fall River,Oelrichs Area,U.S. House,1,Collin Duprel,LIB,36
+Fall River,Oelrichs Area,U.S. House,1,Dusty Johnson,REP,144
+Fall River,BEA,Governor,,Jamie Smith and Jennifer Keintz,DEM,11
+Fall River,BEA,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Fall River,BEA,Governor,,Kristi Noem and Larry Rhoden,REP,130
+Fall River,CAS,Governor,,Jamie Smith and Jennifer Keintz,DEM,37
+Fall River,CAS,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Fall River,CAS,Governor,,Kristi Noem and Larry Rhoden,REP,131
+Fall River,EDA,Governor,,Jamie Smith and Jennifer Keintz,DEM,88
+Fall River,EDA,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Fall River,EDA,Governor,,Kristi Noem and Larry Rhoden,REP,440
+Fall River,HS 1,Governor,,Jamie Smith and Jennifer Keintz,DEM,130
+Fall River,HS 1,Governor,,Tracey Quint and Ashley Strand,LIB,16
+Fall River,HS 1,Governor,,Kristi Noem and Larry Rhoden,REP,298
+Fall River,HS 2,Governor,,Jamie Smith and Jennifer Keintz,DEM,126
+Fall River,HS 2,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Fall River,HS 2,Governor,,Kristi Noem and Larry Rhoden,REP,293
+Fall River,HS 3,Governor,,Jamie Smith and Jennifer Keintz,DEM,110
+Fall River,HS 3,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Fall River,HS 3,Governor,,Kristi Noem and Larry Rhoden,REP,212
+Fall River,HS 4,Governor,,Jamie Smith and Jennifer Keintz,DEM,127
+Fall River,HS 4,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Fall River,HS 4,Governor,,Kristi Noem and Larry Rhoden,REP,224
+Fall River,JAC,Governor,,Jamie Smith and Jennifer Keintz,DEM,214
+Fall River,JAC,Governor,,Tracey Quint and Ashley Strand,LIB,31
+Fall River,JAC,Governor,,Kristi Noem and Larry Rhoden,REP,790
+Fall River,Oelrichs Area,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Fall River,Oelrichs Area,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Fall River,Oelrichs Area,Governor,,Kristi Noem and Larry Rhoden,REP,161
+Fall River,BEA,Secretary of State,,Thomas A Cool,DEM,13
+Fall River,BEA,Secretary of State,,Monae Johnson,REP,123
+Fall River,CAS,Secretary of State,,Thomas A Cool,DEM,37
+Fall River,CAS,Secretary of State,,Monae Johnson,REP,134
+Fall River,EDA,Secretary of State,,Thomas A Cool,DEM,107
+Fall River,EDA,Secretary of State,,Monae Johnson,REP,427
+Fall River,HS 1,Secretary of State,,Thomas A Cool,DEM,132
+Fall River,HS 1,Secretary of State,,Monae Johnson,REP,300
+Fall River,HS 2,Secretary of State,,Thomas A Cool,DEM,121
+Fall River,HS 2,Secretary of State,,Monae Johnson,REP,293
+Fall River,HS 3,Secretary of State,,Thomas A Cool,DEM,107
+Fall River,HS 3,Secretary of State,,Monae Johnson,REP,218
+Fall River,HS 4,Secretary of State,,Thomas A Cool,DEM,129
+Fall River,HS 4,Secretary of State,,Monae Johnson,REP,220
+Fall River,JAC,Secretary of State,,Thomas A Cool,DEM,236
+Fall River,JAC,Secretary of State,,Monae Johnson,REP,774
+Fall River,Oelrichs Area,Secretary of State,,Thomas A Cool,DEM,16
+Fall River,Oelrichs Area,Secretary of State,,Monae Johnson,REP,157
+Fall River,BEA,Attorney General,,Marty J. Jackley,REP,122
+Fall River,CAS,Attorney General,,Marty J. Jackley,REP,134
+Fall River,EDA,Attorney General,,Marty J. Jackley,REP,457
+Fall River,HS 1,Attorney General,,Marty J. Jackley,REP,310
+Fall River,HS 2,Attorney General,,Marty J. Jackley,REP,333
+Fall River,HS 3,Attorney General,,Marty J. Jackley,REP,252
+Fall River,HS 4,Attorney General,,Marty J. Jackley,REP,264
+Fall River,JAC,Attorney General,,Marty J. Jackley,REP,835
+Fall River,Oelrichs Area,Attorney General,,Marty J. Jackley,REP,157
+Fall River,BEA,State Auditor,,Stephanie Marty,DEM,9
+Fall River,BEA,State Auditor,,Rene Meyer,LIB,17
+Fall River,BEA,State Auditor,,Richard Sattgast,REP,111
+Fall River,CAS,State Auditor,,Stephanie Marty,DEM,29
+Fall River,CAS,State Auditor,,Rene Meyer,LIB,14
+Fall River,CAS,State Auditor,,Richard Sattgast,REP,131
+Fall River,EDA,State Auditor,,Stephanie Marty,DEM,95
+Fall River,EDA,State Auditor,,Rene Meyer,LIB,36
+Fall River,EDA,State Auditor,,Richard Sattgast,REP,402
+Fall River,HS 1,State Auditor,,Stephanie Marty,DEM,118
+Fall River,HS 1,State Auditor,,Rene Meyer,LIB,33
+Fall River,HS 1,State Auditor,,Richard Sattgast,REP,276
+Fall River,HS 2,State Auditor,,Stephanie Marty,DEM,121
+Fall River,HS 2,State Auditor,,Rene Meyer,LIB,21
+Fall River,HS 2,State Auditor,,Richard Sattgast,REP,275
+Fall River,HS 3,State Auditor,,Stephanie Marty,DEM,98
+Fall River,HS 3,State Auditor,,Rene Meyer,LIB,37
+Fall River,HS 3,State Auditor,,Richard Sattgast,REP,199
+Fall River,HS 4,State Auditor,,Stephanie Marty,DEM,123
+Fall River,HS 4,State Auditor,,Rene Meyer,LIB,15
+Fall River,HS 4,State Auditor,,Richard Sattgast,REP,213
+Fall River,JAC,State Auditor,,Stephanie Marty,DEM,196
+Fall River,JAC,State Auditor,,Rene Meyer,LIB,58
+Fall River,JAC,State Auditor,,Richard Sattgast,REP,743
+Fall River,Oelrichs Area,State Auditor,,Stephanie Marty,DEM,11
+Fall River,Oelrichs Area,State Auditor,,Rene Meyer,LIB,11
+Fall River,Oelrichs Area,State Auditor,,Richard Sattgast,REP,149
+Fall River,BEA,State Treasurer,,John Cunningham,DEM,10
+Fall River,BEA,State Treasurer,,Josh Haeder,REP,121
+Fall River,CAS,State Treasurer,,John Cunningham,DEM,35
+Fall River,CAS,State Treasurer,,Josh Haeder,REP,136
+Fall River,EDA,State Treasurer,,John Cunningham,DEM,98
+Fall River,EDA,State Treasurer,,Josh Haeder,REP,431
+Fall River,HS 1,State Treasurer,,John Cunningham,DEM,127
+Fall River,HS 1,State Treasurer,,Josh Haeder,REP,298
+Fall River,HS 2,State Treasurer,,John Cunningham,DEM,114
+Fall River,HS 2,State Treasurer,,Josh Haeder,REP,302
+Fall River,HS 3,State Treasurer,,John Cunningham,DEM,102
+Fall River,HS 3,State Treasurer,,Josh Haeder,REP,226
+Fall River,HS 4,State Treasurer,,John Cunningham,DEM,117
+Fall River,HS 4,State Treasurer,,Josh Haeder,REP,230
+Fall River,JAC,State Treasurer,,John Cunningham,DEM,213
+Fall River,JAC,State Treasurer,,Josh Haeder,REP,780
+Fall River,Oelrichs Area,State Treasurer,,John Cunningham,DEM,11
+Fall River,Oelrichs Area,State Treasurer,,Josh Haeder,REP,161
+Fall River,BEA,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Fall River,BEA,Commissioner of School and Public Lands,,Brock Greenfield,REP,127
+Fall River,CAS,Commissioner of School and Public Lands,,Timothy Azure,DEM,36
+Fall River,CAS,Commissioner of School and Public Lands,,Brock Greenfield,REP,132
+Fall River,EDA,Commissioner of School and Public Lands,,Timothy Azure,DEM,87
+Fall River,EDA,Commissioner of School and Public Lands,,Brock Greenfield,REP,434
+Fall River,HS 1,Commissioner of School and Public Lands,,Timothy Azure,DEM,124
+Fall River,HS 1,Commissioner of School and Public Lands,,Brock Greenfield,REP,299
+Fall River,HS 2,Commissioner of School and Public Lands,,Timothy Azure,DEM,116
+Fall River,HS 2,Commissioner of School and Public Lands,,Brock Greenfield,REP,287
+Fall River,HS 3,Commissioner of School and Public Lands,,Timothy Azure,DEM,106
+Fall River,HS 3,Commissioner of School and Public Lands,,Brock Greenfield,REP,214
+Fall River,HS 4,Commissioner of School and Public Lands,,Timothy Azure,DEM,117
+Fall River,HS 4,Commissioner of School and Public Lands,,Brock Greenfield,REP,228
+Fall River,JAC,Commissioner of School and Public Lands,,Timothy Azure,DEM,203
+Fall River,JAC,Commissioner of School and Public Lands,,Brock Greenfield,REP,776
+Fall River,Oelrichs Area,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Fall River,Oelrichs Area,Commissioner of School and Public Lands,,Brock Greenfield,REP,159
+Fall River,BEA,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Fall River,BEA,Public Utilities Commissioner,,Chris Nelson,REP,125
+Fall River,CAS,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Fall River,CAS,Public Utilities Commissioner,,Chris Nelson,REP,138
+Fall River,EDA,Public Utilities Commissioner,,Jeffrey Barth,DEM,84
+Fall River,EDA,Public Utilities Commissioner,,Chris Nelson,REP,439
+Fall River,HS 1,Public Utilities Commissioner,,Jeffrey Barth,DEM,125
+Fall River,HS 1,Public Utilities Commissioner,,Chris Nelson,REP,299
+Fall River,HS 2,Public Utilities Commissioner,,Jeffrey Barth,DEM,110
+Fall River,HS 2,Public Utilities Commissioner,,Chris Nelson,REP,299
+Fall River,HS 3,Public Utilities Commissioner,,Jeffrey Barth,DEM,94
+Fall River,HS 3,Public Utilities Commissioner,,Chris Nelson,REP,233
+Fall River,HS 4,Public Utilities Commissioner,,Jeffrey Barth,DEM,114
+Fall River,HS 4,Public Utilities Commissioner,,Chris Nelson,REP,233
+Fall River,JAC,Public Utilities Commissioner,,Jeffrey Barth,DEM,202
+Fall River,JAC,Public Utilities Commissioner,,Chris Nelson,REP,794
+Fall River,Oelrichs Area,Public Utilities Commissioner,,Jeffrey Barth,DEM,16
+Fall River,Oelrichs Area,Public Utilities Commissioner,,Chris Nelson,REP,159
+Fall River,BEA,State Senate,30,Julie Frye-Mueller,REP,116
+Fall River,CAS,State Senate,30,Julie Frye-Mueller,REP,132
+Fall River,EDA,State Senate,30,Julie Frye-Mueller,REP,437
+Fall River,HS 1,State Senate,30,Julie Frye-Mueller,REP,304
+Fall River,HS 2,State Senate,30,Julie Frye-Mueller,REP,314
+Fall River,HS 3,State Senate,30,Julie Frye-Mueller,REP,238
+Fall River,HS 4,State Senate,30,Julie Frye-Mueller,REP,249
+Fall River,JAC,State Senate,30,Julie Frye-Mueller,REP,788
+Fall River,Oelrichs Area,State Senate,30,Julie Frye-Mueller,REP,151
+Fall River,BEA,State House,30,Bret Swanson,DEM,13
+Fall River,BEA,State House,30,Dennis Krull,REP,84
+Fall River,BEA,State House,30,Trish Ladner,REP,104
+Fall River,CAS,State House,30,Bret Swanson,DEM,37
+Fall River,CAS,State House,30,Dennis Krull,REP,96
+Fall River,CAS,State House,30,Trish Ladner,REP,119
+Fall River,EDA,State House,30,Bret Swanson,DEM,98
+Fall River,EDA,State House,30,Dennis Krull,REP,291
+Fall River,EDA,State House,30,Trish Ladner,REP,386
+Fall River,HS 1,State House,30,Bret Swanson,DEM,127
+Fall River,HS 1,State House,30,Dennis Krull,REP,192
+Fall River,HS 1,State House,30,Trish Ladner,REP,277
+Fall River,HS 2,State House,30,Bret Swanson,DEM,120
+Fall River,HS 2,State House,30,Dennis Krull,REP,199
+Fall River,HS 2,State House,30,Trish Ladner,REP,278
+Fall River,HS 3,State House,30,Bret Swanson,DEM,98
+Fall River,HS 3,State House,30,Dennis Krull,REP,153
+Fall River,HS 3,State House,30,Trish Ladner,REP,209
+Fall River,HS 4,State House,30,Bret Swanson,DEM,121
+Fall River,HS 4,State House,30,Dennis Krull,REP,143
+Fall River,HS 4,State House,30,Trish Ladner,REP,210
+Fall River,JAC,State House,30,Bret Swanson,DEM,219
+Fall River,JAC,State House,30,Dennis Krull,REP,508
+Fall River,JAC,State House,30,Trish Ladner,REP,719
+Fall River,Oelrichs Area,State House,30,Bret Swanson,DEM,12
+Fall River,Oelrichs Area,State House,30,Dennis Krull,REP,107
+Fall River,Oelrichs Area,State House,30,Trish Ladner,REP,150
+Fall River,BEA,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,55
+Fall River,CAS,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,65
+Fall River,EDA,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,226
+Fall River,HS 1,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,165
+Fall River,HS 2,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,180
+Fall River,HS 3,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,133
+Fall River,HS 4,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,150
+Fall River,JAC,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,412
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,65
+Fall River,BEA,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,56
+Fall River,CAS,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,62
+Fall River,EDA,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,225
+Fall River,HS 1,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,160
+Fall River,HS 2,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,173
+Fall River,HS 3,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,131
+Fall River,HS 4,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,137
+Fall River,JAC,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,384
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,62
+Fall River,BEA,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,59
+Fall River,CAS,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,68
+Fall River,EDA,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,231
+Fall River,HS 1,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,168
+Fall River,HS 2,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,177
+Fall River,HS 3,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,140
+Fall River,HS 4,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,149
+Fall River,JAC,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,409
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,64
+Fall River,BEA,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,56
+Fall River,CAS,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,59
+Fall River,EDA,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,215
+Fall River,HS 1,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,150
+Fall River,HS 2,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,172
+Fall River,HS 3,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,132
+Fall River,HS 4,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,136
+Fall River,JAC,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,382
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,67
+Fall River,BEA,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,54
+Fall River,CAS,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,61
+Fall River,EDA,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,220
+Fall River,HS 1,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,159
+Fall River,HS 2,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,170
+Fall River,HS 3,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,129
+Fall River,HS 4,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,135
+Fall River,JAC,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,384
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,58
+Fall River,BEA,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,56
+Fall River,CAS,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,60
+Fall River,EDA,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,217
+Fall River,HS 1,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,147
+Fall River,HS 2,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,165
+Fall River,HS 3,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,130
+Fall River,HS 4,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,130
+Fall River,JAC,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,384
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,57
+Fall River,BEA,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,53
+Fall River,CAS,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,61
+Fall River,EDA,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,215
+Fall River,HS 1,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,148
+Fall River,HS 2,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,164
+Fall River,HS 3,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,130
+Fall River,HS 4,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,133
+Fall River,JAC,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,374
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,58
+Fall River,BEA,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,54
+Fall River,CAS,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,59
+Fall River,EDA,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,241
+Fall River,HS 1,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,154
+Fall River,HS 2,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,167
+Fall River,HS 3,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,132
+Fall River,HS 4,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,140
+Fall River,JAC,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,389
+Fall River,Oelrichs Area,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,62
+Fall River,BEA,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Fall River,BEA,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Fall River,CAS,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,112
+Fall River,CAS,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Fall River,EDA,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,365
+Fall River,EDA,Supreme Court Retention,3,Patricia J. DeVaney - No,,102
+Fall River,HS 1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,252
+Fall River,HS 1,Supreme Court Retention,3,Patricia J. DeVaney - No,,91
+Fall River,HS 2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,299
+Fall River,HS 2,Supreme Court Retention,3,Patricia J. DeVaney - No,,71
+Fall River,HS 3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,218
+Fall River,HS 3,Supreme Court Retention,3,Patricia J. DeVaney - No,,56
+Fall River,HS 4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,236
+Fall River,HS 4,Supreme Court Retention,3,Patricia J. DeVaney - No,,77
+Fall River,JAC,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,679
+Fall River,JAC,Supreme Court Retention,3,Patricia J. DeVaney - No,,155
+Fall River,Oelrichs Area,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,109
+Fall River,Oelrichs Area,Supreme Court Retention,3,Patricia J. DeVaney - No,,38
+Fall River,BEA,Supreme Court Retention,2,Mark E. Salter - Yes,,88
+Fall River,BEA,Supreme Court Retention,2,Mark E. Salter - No,,24
+Fall River,CAS,Supreme Court Retention,2,Mark E. Salter - Yes,,111
+Fall River,CAS,Supreme Court Retention,2,Mark E. Salter - No,,29
+Fall River,EDA,Supreme Court Retention,2,Mark E. Salter - Yes,,367
+Fall River,EDA,Supreme Court Retention,2,Mark E. Salter - No,,99
+Fall River,HS 1,Supreme Court Retention,2,Mark E. Salter - Yes,,244
+Fall River,HS 1,Supreme Court Retention,2,Mark E. Salter - No,,96
+Fall River,HS 2,Supreme Court Retention,2,Mark E. Salter - Yes,,296
+Fall River,HS 2,Supreme Court Retention,2,Mark E. Salter - No,,71
+Fall River,HS 3,Supreme Court Retention,2,Mark E. Salter - Yes,,213
+Fall River,HS 3,Supreme Court Retention,2,Mark E. Salter - No,,59
+Fall River,HS 4,Supreme Court Retention,2,Mark E. Salter - Yes,,246
+Fall River,HS 4,Supreme Court Retention,2,Mark E. Salter - No,,69
+Fall River,JAC,Supreme Court Retention,2,Mark E. Salter - Yes,,663
+Fall River,JAC,Supreme Court Retention,2,Mark E. Salter - No,,164
+Fall River,Oelrichs Area,Supreme Court Retention,2,Mark E. Salter - Yes,,110
+Fall River,Oelrichs Area,Supreme Court Retention,2,Mark E. Salter - No,,38
+Fall River,BEA,Constitutional Amendment D,,Yes,,39
+Fall River,BEA,Constitutional Amendment D,,No,,95
+Fall River,CAS,Constitutional Amendment D,,Yes,,80
+Fall River,CAS,Constitutional Amendment D,,No,,85
+Fall River,EDA,Constitutional Amendment D,,Yes,,240
+Fall River,EDA,Constitutional Amendment D,,No,,273
+Fall River,HS 1,Constitutional Amendment D,,Yes,,249
+Fall River,HS 1,Constitutional Amendment D,,No,,177
+Fall River,HS 2,Constitutional Amendment D,,Yes,,246
+Fall River,HS 2,Constitutional Amendment D,,No,,176
+Fall River,HS 3,Constitutional Amendment D,,Yes,,184
+Fall River,HS 3,Constitutional Amendment D,,No,,153
+Fall River,HS 4,Constitutional Amendment D,,Yes,,218
+Fall River,HS 4,Constitutional Amendment D,,No,,139
+Fall River,JAC,Constitutional Amendment D,,Yes,,473
+Fall River,JAC,Constitutional Amendment D,,No,,533
+Fall River,Oelrichs Area,Constitutional Amendment D,,Yes,,61
+Fall River,Oelrichs Area,Constitutional Amendment D,,No,,116
+Fall River,BEA,Initiated Measure 27,,Yes,,45
+Fall River,BEA,Initiated Measure 27,,No,,91
+Fall River,CAS,Initiated Measure 27,,Yes,,83
+Fall River,CAS,Initiated Measure 27,,No,,87
+Fall River,EDA,Initiated Measure 27,,Yes,,227
+Fall River,EDA,Initiated Measure 27,,No,,296
+Fall River,HS 1,Initiated Measure 27,,Yes,,222
+Fall River,HS 1,Initiated Measure 27,,No,,210
+Fall River,HS 2,Initiated Measure 27,,Yes,,214
+Fall River,HS 2,Initiated Measure 27,,No,,217
+Fall River,HS 3,Initiated Measure 27,,Yes,,176
+Fall River,HS 3,Initiated Measure 27,,No,,164
+Fall River,HS 4,Initiated Measure 27,,Yes,,199
+Fall River,HS 4,Initiated Measure 27,,No,,163
+Fall River,JAC,Initiated Measure 27,,Yes,,423
+Fall River,JAC,Initiated Measure 27,,No,,599
+Fall River,Oelrichs Area,Initiated Measure 27,,Yes,,40
+Fall River,Oelrichs Area,Initiated Measure 27,,No,,138

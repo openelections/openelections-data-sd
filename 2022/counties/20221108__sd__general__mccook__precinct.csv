@@ -1,0 +1,229 @@
+county,precinct,office,district,candidate,party,votes
+McCook,01,U.S. Senate,,Brian L. Bengs,DEM,118
+McCook,01,U.S. Senate,,Tamara J Lesnar,LIB,14
+McCook,01,U.S. Senate,,John R. Thune,REP,389
+McCook,02,U.S. Senate,,Brian L. Bengs,DEM,27
+McCook,02,U.S. Senate,,Tamara J Lesnar,LIB,4
+McCook,02,U.S. Senate,,John R. Thune,REP,116
+McCook,03,U.S. Senate,,Brian L. Bengs,DEM,86
+McCook,03,U.S. Senate,,Tamara J Lesnar,LIB,27
+McCook,03,U.S. Senate,,John R. Thune,REP,440
+McCook,04,U.S. Senate,,Brian L. Bengs,DEM,37
+McCook,04,U.S. Senate,,Tamara J Lesnar,LIB,11
+McCook,04,U.S. Senate,,John R. Thune,REP,387
+McCook,05,U.S. Senate,,Brian L. Bengs,DEM,103
+McCook,05,U.S. Senate,,Tamara J Lesnar,LIB,27
+McCook,05,U.S. Senate,,John R. Thune,REP,439
+McCook,06,U.S. Senate,,Brian L. Bengs,DEM,37
+McCook,06,U.S. Senate,,Tamara J Lesnar,LIB,9
+McCook,06,U.S. Senate,,John R. Thune,REP,262
+McCook,01,U.S. House,1,Collin Duprel,LIB,105
+McCook,01,U.S. House,1,Dusty Johnson,REP,391
+McCook,02,U.S. House,1,Collin Duprel,LIB,25
+McCook,02,U.S. House,1,Dusty Johnson,REP,116
+McCook,03,U.S. House,1,Collin Duprel,LIB,93
+McCook,03,U.S. House,1,Dusty Johnson,REP,438
+McCook,04,U.S. House,1,Collin Duprel,LIB,42
+McCook,04,U.S. House,1,Dusty Johnson,REP,383
+McCook,05,U.S. House,1,Collin Duprel,LIB,83
+McCook,05,U.S. House,1,Dusty Johnson,REP,470
+McCook,06,U.S. House,1,Collin Duprel,LIB,41
+McCook,06,U.S. House,1,Dusty Johnson,REP,256
+McCook,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,163
+McCook,01,Governor,,Tracey Quint and Ashley Strand,LIB,7
+McCook,01,Governor,,Kristi Noem and Larry Rhoden,REP,354
+McCook,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+McCook,02,Governor,,Tracey Quint and Ashley Strand,LIB,7
+McCook,02,Governor,,Kristi Noem and Larry Rhoden,REP,98
+McCook,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,141
+McCook,03,Governor,,Tracey Quint and Ashley Strand,LIB,19
+McCook,03,Governor,,Kristi Noem and Larry Rhoden,REP,396
+McCook,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,67
+McCook,04,Governor,,Tracey Quint and Ashley Strand,LIB,6
+McCook,04,Governor,,Kristi Noem and Larry Rhoden,REP,366
+McCook,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,152
+McCook,05,Governor,,Tracey Quint and Ashley Strand,LIB,28
+McCook,05,Governor,,Kristi Noem and Larry Rhoden,REP,396
+McCook,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,62
+McCook,06,Governor,,Tracey Quint and Ashley Strand,LIB,4
+McCook,06,Governor,,Kristi Noem and Larry Rhoden,REP,241
+McCook,01,Secretary of State,,Thomas A Cool,DEM,159
+McCook,01,Secretary of State,,Monae Johnson,REP,336
+McCook,02,Secretary of State,,Thomas A Cool,DEM,46
+McCook,02,Secretary of State,,Monae Johnson,REP,94
+McCook,03,Secretary of State,,Thomas A Cool,DEM,151
+McCook,03,Secretary of State,,Monae Johnson,REP,367
+McCook,04,Secretary of State,,Thomas A Cool,DEM,66
+McCook,04,Secretary of State,,Monae Johnson,REP,346
+McCook,05,Secretary of State,,Thomas A Cool,DEM,165
+McCook,05,Secretary of State,,Monae Johnson,REP,381
+McCook,06,Secretary of State,,Thomas A Cool,DEM,82
+McCook,06,Secretary of State,,Monae Johnson,REP,211
+McCook,01,Attorney General,,Marty J. Jackley,REP,391
+McCook,02,Attorney General,,Marty J. Jackley,REP,118
+McCook,03,Attorney General,,Marty J. Jackley,REP,441
+McCook,04,Attorney General,,Marty J. Jackley,REP,378
+McCook,05,Attorney General,,Marty J. Jackley,REP,453
+McCook,06,Attorney General,,Marty J. Jackley,REP,255
+McCook,01,State Auditor,,Stephanie Marty,DEM,149
+McCook,01,State Auditor,,Rene Meyer,LIB,23
+McCook,01,State Auditor,,Richard Sattgast,REP,320
+McCook,02,State Auditor,,Stephanie Marty,DEM,37
+McCook,02,State Auditor,,Rene Meyer,LIB,8
+McCook,02,State Auditor,,Richard Sattgast,REP,96
+McCook,03,State Auditor,,Stephanie Marty,DEM,118
+McCook,03,State Auditor,,Rene Meyer,LIB,34
+McCook,03,State Auditor,,Richard Sattgast,REP,364
+McCook,04,State Auditor,,Stephanie Marty,DEM,56
+McCook,04,State Auditor,,Rene Meyer,LIB,13
+McCook,04,State Auditor,,Richard Sattgast,REP,338
+McCook,05,State Auditor,,Stephanie Marty,DEM,145
+McCook,05,State Auditor,,Rene Meyer,LIB,28
+McCook,05,State Auditor,,Richard Sattgast,REP,370
+McCook,06,State Auditor,,Stephanie Marty,DEM,60
+McCook,06,State Auditor,,Rene Meyer,LIB,10
+McCook,06,State Auditor,,Richard Sattgast,REP,219
+McCook,01,State Treasurer,,John Cunningham,DEM,153
+McCook,01,State Treasurer,,Josh Haeder,REP,331
+McCook,02,State Treasurer,,John Cunningham,DEM,46
+McCook,02,State Treasurer,,Josh Haeder,REP,93
+McCook,03,State Treasurer,,John Cunningham,DEM,129
+McCook,03,State Treasurer,,Josh Haeder,REP,376
+McCook,04,State Treasurer,,John Cunningham,DEM,56
+McCook,04,State Treasurer,,Josh Haeder,REP,350
+McCook,05,State Treasurer,,John Cunningham,DEM,147
+McCook,05,State Treasurer,,Josh Haeder,REP,384
+McCook,06,State Treasurer,,John Cunningham,DEM,74
+McCook,06,State Treasurer,,Josh Haeder,REP,218
+McCook,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,148
+McCook,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,320
+McCook,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+McCook,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,100
+McCook,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,116
+McCook,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,377
+McCook,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,49
+McCook,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,347
+McCook,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,146
+McCook,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,380
+McCook,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,61
+McCook,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,226
+McCook,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,137
+McCook,01,Public Utilities Commissioner,,Chris Nelson,REP,352
+McCook,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,33
+McCook,02,Public Utilities Commissioner,,Chris Nelson,REP,110
+McCook,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,121
+McCook,03,Public Utilities Commissioner,,Chris Nelson,REP,399
+McCook,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,47
+McCook,04,Public Utilities Commissioner,,Chris Nelson,REP,370
+McCook,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,131
+McCook,05,Public Utilities Commissioner,,Chris Nelson,REP,425
+McCook,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,54
+McCook,06,Public Utilities Commissioner,,Chris Nelson,REP,242
+McCook,01,State Senate,19,Russell Graeff,DEM,136
+McCook,01,State Senate,19,Kyle Schoenfish,REP,350
+McCook,02,State Senate,19,Russell Graeff,DEM,37
+McCook,02,State Senate,19,Kyle Schoenfish,REP,104
+McCook,03,State Senate,19,Russell Graeff,DEM,113
+McCook,03,State Senate,19,Kyle Schoenfish,REP,399
+McCook,04,State Senate,19,Russell Graeff,DEM,48
+McCook,04,State Senate,19,Kyle Schoenfish,REP,364
+McCook,05,State Senate,19,Russell Graeff,DEM,125
+McCook,05,State Senate,19,Kyle Schoenfish,REP,417
+McCook,06,State Senate,19,Russell Graeff,DEM,51
+McCook,06,State Senate,19,Kyle Schoenfish,REP,236
+McCook,01,State House,19,Jessica Bahmuller,REP,227
+McCook,01,State House,19,Drew Peterson,REP,331
+McCook,02,State House,19,Jessica Bahmuller,REP,79
+McCook,02,State House,19,Drew Peterson,REP,95
+McCook,03,State House,19,Jessica Bahmuller,REP,285
+McCook,03,State House,19,Drew Peterson,REP,336
+McCook,04,State House,19,Jessica Bahmuller,REP,258
+McCook,04,State House,19,Drew Peterson,REP,284
+McCook,05,State House,19,Jessica Bahmuller,REP,280
+McCook,05,State House,19,Drew Peterson,REP,415
+McCook,06,State House,19,Jessica Bahmuller,REP,164
+McCook,06,State House,19,Drew Peterson,REP,220
+McCook,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,219
+McCook,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,68
+McCook,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,264
+McCook,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,206
+McCook,05,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,297
+McCook,06,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,141
+McCook,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,213
+McCook,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,60
+McCook,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,239
+McCook,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,185
+McCook,05,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,269
+McCook,06,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,133
+McCook,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,196
+McCook,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,63
+McCook,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,239
+McCook,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,186
+McCook,05,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,265
+McCook,06,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,137
+McCook,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,200
+McCook,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,61
+McCook,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,243
+McCook,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,192
+McCook,05,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,268
+McCook,06,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,133
+McCook,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,199
+McCook,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,62
+McCook,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,238
+McCook,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,184
+McCook,05,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,262
+McCook,06,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,134
+McCook,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,201
+McCook,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,63
+McCook,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,236
+McCook,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,189
+McCook,05,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,261
+McCook,06,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,135
+McCook,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,348
+McCook,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,74
+McCook,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,103
+McCook,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+McCook,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,409
+McCook,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,72
+McCook,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,285
+McCook,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+McCook,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,420
+McCook,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,73
+McCook,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,228
+McCook,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+McCook,01,Supreme Court Retention,2,Mark E. Salter - Yes,,353
+McCook,01,Supreme Court Retention,2,Mark E. Salter - No,,71
+McCook,02,Supreme Court Retention,2,Mark E. Salter - Yes,,100
+McCook,02,Supreme Court Retention,2,Mark E. Salter - No,,24
+McCook,03,Supreme Court Retention,2,Mark E. Salter - Yes,,411
+McCook,03,Supreme Court Retention,2,Mark E. Salter - No,,71
+McCook,04,Supreme Court Retention,2,Mark E. Salter - Yes,,287
+McCook,04,Supreme Court Retention,2,Mark E. Salter - No,,77
+McCook,05,Supreme Court Retention,2,Mark E. Salter - Yes,,420
+McCook,05,Supreme Court Retention,2,Mark E. Salter - No,,74
+McCook,06,Supreme Court Retention,2,Mark E. Salter - Yes,,228
+McCook,06,Supreme Court Retention,2,Mark E. Salter - No,,42
+McCook,01,Constitutional Amendment D,,Yes,,247
+McCook,01,Constitutional Amendment D,,No,,251
+McCook,02,Constitutional Amendment D,,Yes,,78
+McCook,02,Constitutional Amendment D,,No,,65
+McCook,03,Constitutional Amendment D,,Yes,,249
+McCook,03,Constitutional Amendment D,,No,,291
+McCook,04,Constitutional Amendment D,,Yes,,169
+McCook,04,Constitutional Amendment D,,No,,262
+McCook,05,Constitutional Amendment D,,Yes,,293
+McCook,05,Constitutional Amendment D,,No,,278
+McCook,06,Constitutional Amendment D,,Yes,,123
+McCook,06,Constitutional Amendment D,,No,,179
+McCook,01,Initiated Measure 27,,Yes,,224
+McCook,01,Initiated Measure 27,,No,,292
+McCook,02,Initiated Measure 27,,Yes,,49
+McCook,02,Initiated Measure 27,,No,,95
+McCook,03,Initiated Measure 27,,Yes,,217
+McCook,03,Initiated Measure 27,,No,,329
+McCook,04,Initiated Measure 27,,Yes,,132
+McCook,04,Initiated Measure 27,,No,,305
+McCook,05,Initiated Measure 27,,Yes,,221
+McCook,05,Initiated Measure 27,,No,,353
+McCook,06,Initiated Measure 27,,Yes,,96
+McCook,06,Initiated Measure 27,,No,,210

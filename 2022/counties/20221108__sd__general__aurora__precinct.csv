@@ -1,0 +1,191 @@
+county,precinct,office,district,candidate,party,votes
+Aurora,1,U.S. Senate,,Brian L. Bengs,DEM,31
+Aurora,1,U.S. Senate,,Tamara J Lesnar,LIB,10
+Aurora,1,U.S. Senate,,John R. Thune,REP,230
+Aurora,2,U.S. Senate,,Brian L. Bengs,DEM,15
+Aurora,2,U.S. Senate,,Tamara J Lesnar,LIB,7
+Aurora,2,U.S. Senate,,John R. Thune,REP,117
+Aurora,3,U.S. Senate,,Brian L. Bengs,DEM,51
+Aurora,3,U.S. Senate,,Tamara J Lesnar,LIB,22
+Aurora,3,U.S. Senate,,John R. Thune,REP,295
+Aurora,5,U.S. Senate,,Brian L. Bengs,DEM,31
+Aurora,5,U.S. Senate,,Tamara J Lesnar,LIB,9
+Aurora,5,U.S. Senate,,John R. Thune,REP,128
+Aurora,7,U.S. Senate,,Brian L. Bengs,DEM,42
+Aurora,7,U.S. Senate,,Tamara J Lesnar,LIB,18
+Aurora,7,U.S. Senate,,John R. Thune,REP,208
+Aurora,1,U.S. House,1,Collin Duprel,LIB,26
+Aurora,1,U.S. House,1,Dusty Johnson,REP,232
+Aurora,2,U.S. House,1,Collin Duprel,LIB,17
+Aurora,2,U.S. House,1,Dusty Johnson,REP,118
+Aurora,3,U.S. House,1,Collin Duprel,LIB,53
+Aurora,3,U.S. House,1,Dusty Johnson,REP,302
+Aurora,5,U.S. House,1,Collin Duprel,LIB,30
+Aurora,5,U.S. House,1,Dusty Johnson,REP,129
+Aurora,7,U.S. House,1,Collin Duprel,LIB,53
+Aurora,7,U.S. House,1,Dusty Johnson,REP,208
+Aurora,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,58
+Aurora,1,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Aurora,1,Governor,,Kristi Noem and Larry Rhoden,REP,209
+Aurora,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,22
+Aurora,2,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Aurora,2,Governor,,Kristi Noem and Larry Rhoden,REP,110
+Aurora,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,99
+Aurora,3,Governor,,Tracey Quint and Ashley Strand,LIB,17
+Aurora,3,Governor,,Kristi Noem and Larry Rhoden,REP,256
+Aurora,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Aurora,5,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Aurora,5,Governor,,Kristi Noem and Larry Rhoden,REP,118
+Aurora,7,Governor,,Jamie Smith and Jennifer Keintz,DEM,57
+Aurora,7,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Aurora,7,Governor,,Kristi Noem and Larry Rhoden,REP,201
+Aurora,1,Secretary of State,,Thomas A Cool,DEM,61
+Aurora,1,Secretary of State,,Monae Johnson,REP,195
+Aurora,2,Secretary of State,,Thomas A Cool,DEM,32
+Aurora,2,Secretary of State,,Monae Johnson,REP,98
+Aurora,3,Secretary of State,,Thomas A Cool,DEM,122
+Aurora,3,Secretary of State,,Monae Johnson,REP,218
+Aurora,5,Secretary of State,,Thomas A Cool,DEM,55
+Aurora,5,Secretary of State,,Monae Johnson,REP,106
+Aurora,7,Secretary of State,,Thomas A Cool,DEM,81
+Aurora,7,Secretary of State,,Monae Johnson,REP,168
+Aurora,1,Attorney General,,Marty J. Jackley,REP,204
+Aurora,2,Attorney General,,Marty J. Jackley,REP,100
+Aurora,3,Attorney General,,Marty J. Jackley,REP,252
+Aurora,5,Attorney General,,Marty J. Jackley,REP,115
+Aurora,7,Attorney General,,Marty J. Jackley,REP,204
+Aurora,1,State Auditor,,Stephanie Marty,DEM,60
+Aurora,1,State Auditor,,Rene Meyer,LIB,10
+Aurora,1,State Auditor,,Richard Sattgast,REP,186
+Aurora,2,State Auditor,,Stephanie Marty,DEM,28
+Aurora,2,State Auditor,,Rene Meyer,LIB,9
+Aurora,2,State Auditor,,Richard Sattgast,REP,92
+Aurora,3,State Auditor,,Stephanie Marty,DEM,92
+Aurora,3,State Auditor,,Rene Meyer,LIB,28
+Aurora,3,State Auditor,,Richard Sattgast,REP,215
+Aurora,5,State Auditor,,Stephanie Marty,DEM,44
+Aurora,5,State Auditor,,Rene Meyer,LIB,9
+Aurora,5,State Auditor,,Richard Sattgast,REP,103
+Aurora,7,State Auditor,,Stephanie Marty,DEM,58
+Aurora,7,State Auditor,,Rene Meyer,LIB,20
+Aurora,7,State Auditor,,Richard Sattgast,REP,175
+Aurora,1,State Treasurer,,John Cunningham,DEM,58
+Aurora,1,State Treasurer,,Josh Haeder,REP,198
+Aurora,2,State Treasurer,,John Cunningham,DEM,24
+Aurora,2,State Treasurer,,Josh Haeder,REP,100
+Aurora,3,State Treasurer,,John Cunningham,DEM,102
+Aurora,3,State Treasurer,,Josh Haeder,REP,224
+Aurora,5,State Treasurer,,John Cunningham,DEM,51
+Aurora,5,State Treasurer,,Josh Haeder,REP,105
+Aurora,7,State Treasurer,,John Cunningham,DEM,67
+Aurora,7,State Treasurer,,Josh Haeder,REP,184
+Aurora,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,52
+Aurora,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,198
+Aurora,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,24
+Aurora,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,103
+Aurora,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,99
+Aurora,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,225
+Aurora,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Aurora,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,107
+Aurora,7,Commissioner of School and Public Lands,,Timothy Azure,DEM,62
+Aurora,7,Commissioner of School and Public Lands,,Brock Greenfield,REP,182
+Aurora,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,52
+Aurora,1,Public Utilities Commissioner,,Chris Nelson,REP,209
+Aurora,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Aurora,2,Public Utilities Commissioner,,Chris Nelson,REP,107
+Aurora,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,50
+Aurora,3,Public Utilities Commissioner,,Chris Nelson,REP,309
+Aurora,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,33
+Aurora,5,Public Utilities Commissioner,,Chris Nelson,REP,131
+Aurora,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,40
+Aurora,7,Public Utilities Commissioner,,Chris Nelson,REP,217
+Aurora,1,State Senate,21,Dan Andersson,DEM,41
+Aurora,1,State Senate,21,Erin Tobin,REP,217
+Aurora,2,State Senate,21,Dan Andersson,DEM,21
+Aurora,2,State Senate,21,Erin Tobin,REP,111
+Aurora,3,State Senate,21,Dan Andersson,DEM,74
+Aurora,3,State Senate,21,Erin Tobin,REP,259
+Aurora,5,State Senate,21,Dan Andersson,DEM,39
+Aurora,5,State Senate,21,Erin Tobin,REP,127
+Aurora,7,State Senate,21,Dan Andersson,DEM,43
+Aurora,7,State Senate,21,Erin Tobin,REP,210
+Aurora,1,State House,21,Rocky Blare,REP,106
+Aurora,1,State House,21,Marty Overweg,REP,207
+Aurora,2,State House,21,Rocky Blare,REP,51
+Aurora,2,State House,21,Marty Overweg,REP,113
+Aurora,3,State House,21,Rocky Blare,REP,135
+Aurora,3,State House,21,Marty Overweg,REP,249
+Aurora,5,State House,21,Rocky Blare,REP,54
+Aurora,5,State House,21,Marty Overweg,REP,102
+Aurora,7,State House,21,Rocky Blare,REP,115
+Aurora,7,State House,21,Marty Overweg,REP,188
+Aurora,1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,121
+Aurora,2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,63
+Aurora,3,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,173
+Aurora,5,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,82
+Aurora,7,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,134
+Aurora,1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,115
+Aurora,2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,61
+Aurora,3,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,169
+Aurora,5,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,77
+Aurora,7,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,126
+Aurora,1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,117
+Aurora,2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,65
+Aurora,3,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,178
+Aurora,5,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,79
+Aurora,7,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,129
+Aurora,1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,120
+Aurora,2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,58
+Aurora,3,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,165
+Aurora,5,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,76
+Aurora,7,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,125
+Aurora,1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,122
+Aurora,2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,65
+Aurora,3,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,175
+Aurora,5,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,79
+Aurora,7,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,142
+Aurora,1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,110
+Aurora,2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,58
+Aurora,3,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,170
+Aurora,5,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,78
+Aurora,7,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,127
+Aurora,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,187
+Aurora,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Aurora,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,91
+Aurora,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Aurora,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,245
+Aurora,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,52
+Aurora,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,125
+Aurora,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,20
+Aurora,7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,198
+Aurora,7,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Aurora,1,Supreme Court Retention,2,Mark E. Salter - Yes,,186
+Aurora,1,Supreme Court Retention,2,Mark E. Salter - No,,29
+Aurora,2,Supreme Court Retention,2,Mark E. Salter - Yes,,87
+Aurora,2,Supreme Court Retention,2,Mark E. Salter - No,,22
+Aurora,3,Supreme Court Retention,2,Mark E. Salter - Yes,,242
+Aurora,3,Supreme Court Retention,2,Mark E. Salter - No,,53
+Aurora,5,Supreme Court Retention,2,Mark E. Salter - Yes,,120
+Aurora,5,Supreme Court Retention,2,Mark E. Salter - No,,24
+Aurora,7,Supreme Court Retention,2,Mark E. Salter - Yes,,191
+Aurora,7,Supreme Court Retention,2,Mark E. Salter - No,,37
+Aurora,1,Constitutional Amendment D,,Yes,,116
+Aurora,1,Constitutional Amendment D,,No,,149
+Aurora,2,Constitutional Amendment D,,Yes,,49
+Aurora,2,Constitutional Amendment D,,No,,86
+Aurora,3,Constitutional Amendment D,,Yes,,177
+Aurora,3,Constitutional Amendment D,,No,,180
+Aurora,5,Constitutional Amendment D,,Yes,,76
+Aurora,5,Constitutional Amendment D,,No,,88
+Aurora,7,Constitutional Amendment D,,Yes,,135
+Aurora,7,Constitutional Amendment D,,No,,131
+Aurora,1,Initiated Measure 27,,Yes,,76
+Aurora,1,Initiated Measure 27,,No,,193
+Aurora,2,Initiated Measure 27,,Yes,,32
+Aurora,2,Initiated Measure 27,,No,,106
+Aurora,3,Initiated Measure 27,,Yes,,113
+Aurora,3,Initiated Measure 27,,No,,249
+Aurora,5,Initiated Measure 27,,Yes,,43
+Aurora,5,Initiated Measure 27,,No,,122
+Aurora,7,Initiated Measure 27,,Yes,,91
+Aurora,7,Initiated Measure 27,,No,,176

@@ -1,0 +1,141 @@
+county,precinct,office,district,candidate,party,votes
+McPherson,1,U.S. Senate,,Brian L. Bengs,DEM,30
+McPherson,1,U.S. Senate,,Tamara J Lesnar,LIB,7
+McPherson,1,U.S. Senate,,John R. Thune,REP,227
+McPherson,2,U.S. Senate,,Brian L. Bengs,DEM,21
+McPherson,2,U.S. Senate,,Tamara J Lesnar,LIB,10
+McPherson,2,U.S. Senate,,John R. Thune,REP,233
+McPherson,3,U.S. Senate,,Brian L. Bengs,DEM,24
+McPherson,3,U.S. Senate,,Tamara J Lesnar,LIB,12
+McPherson,3,U.S. Senate,,John R. Thune,REP,228
+McPherson,4,U.S. Senate,,Brian L. Bengs,DEM,33
+McPherson,4,U.S. Senate,,Tamara J Lesnar,LIB,11
+McPherson,4,U.S. Senate,,John R. Thune,REP,266
+McPherson,1,U.S. House,1,Collin Duprel,LIB,34
+McPherson,1,U.S. House,1,Dusty Johnson,REP,220
+McPherson,2,U.S. House,1,Collin Duprel,LIB,17
+McPherson,2,U.S. House,1,Dusty Johnson,REP,246
+McPherson,3,U.S. House,1,Collin Duprel,LIB,36
+McPherson,3,U.S. House,1,Dusty Johnson,REP,226
+McPherson,4,U.S. House,1,Collin Duprel,LIB,36
+McPherson,4,U.S. House,1,Dusty Johnson,REP,261
+McPherson,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+McPherson,1,Governor,,Tracey Quint and Ashley Strand,LIB,7
+McPherson,1,Governor,,Kristi Noem and Larry Rhoden,REP,208
+McPherson,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,30
+McPherson,2,Governor,,Tracey Quint and Ashley Strand,LIB,5
+McPherson,2,Governor,,Kristi Noem and Larry Rhoden,REP,229
+McPherson,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,41
+McPherson,3,Governor,,Tracey Quint and Ashley Strand,LIB,5
+McPherson,3,Governor,,Kristi Noem and Larry Rhoden,REP,220
+McPherson,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+McPherson,4,Governor,,Tracey Quint and Ashley Strand,LIB,5
+McPherson,4,Governor,,Kristi Noem and Larry Rhoden,REP,254
+McPherson,1,Secretary of State,,Thomas A Cool,DEM,47
+McPherson,1,Secretary of State,,Monae Johnson,REP,204
+McPherson,2,Secretary of State,,Thomas A Cool,DEM,38
+McPherson,2,Secretary of State,,Monae Johnson,REP,220
+McPherson,3,Secretary of State,,Thomas A Cool,DEM,38
+McPherson,3,Secretary of State,,Monae Johnson,REP,223
+McPherson,4,Secretary of State,,Thomas A Cool,DEM,48
+McPherson,4,Secretary of State,,Monae Johnson,REP,248
+McPherson,1,Attorney General,,Marty J. Jackley,REP,225
+McPherson,2,Attorney General,,Marty J. Jackley,REP,234
+McPherson,3,Attorney General,,Marty J. Jackley,REP,233
+McPherson,4,Attorney General,,Marty J. Jackley,REP,276
+McPherson,1,State Auditor,,Stephanie Marty,DEM,41
+McPherson,1,State Auditor,,Rene Meyer,LIB,11
+McPherson,1,State Auditor,,Richard Sattgast,REP,201
+McPherson,2,State Auditor,,Stephanie Marty,DEM,36
+McPherson,2,State Auditor,,Rene Meyer,LIB,3
+McPherson,2,State Auditor,,Richard Sattgast,REP,214
+McPherson,3,State Auditor,,Stephanie Marty,DEM,34
+McPherson,3,State Auditor,,Rene Meyer,LIB,9
+McPherson,3,State Auditor,,Richard Sattgast,REP,211
+McPherson,4,State Auditor,,Stephanie Marty,DEM,33
+McPherson,4,State Auditor,,Rene Meyer,LIB,15
+McPherson,4,State Auditor,,Richard Sattgast,REP,243
+McPherson,1,State Treasurer,,John Cunningham,DEM,47
+McPherson,1,State Treasurer,,Josh Haeder,REP,207
+McPherson,2,State Treasurer,,John Cunningham,DEM,34
+McPherson,2,State Treasurer,,Josh Haeder,REP,217
+McPherson,3,State Treasurer,,John Cunningham,DEM,34
+McPherson,3,State Treasurer,,Josh Haeder,REP,224
+McPherson,4,State Treasurer,,John Cunningham,DEM,33
+McPherson,4,State Treasurer,,Josh Haeder,REP,258
+McPherson,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
+McPherson,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,218
+McPherson,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,27
+McPherson,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,230
+McPherson,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+McPherson,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,219
+McPherson,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,39
+McPherson,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,250
+McPherson,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,66
+McPherson,1,Public Utilities Commissioner,,Chris Nelson,REP,192
+McPherson,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,47
+McPherson,2,Public Utilities Commissioner,,Chris Nelson,REP,210
+McPherson,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+McPherson,3,Public Utilities Commissioner,,Chris Nelson,REP,225
+McPherson,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,41
+McPherson,4,Public Utilities Commissioner,,Chris Nelson,REP,255
+McPherson,1,State Senate,23,Bryan J. Breitling,REP,218
+McPherson,2,State Senate,23,Bryan J. Breitling,REP,227
+McPherson,3,State Senate,23,Bryan J. Breitling,REP,233
+McPherson,4,State Senate,23,Bryan J. Breitling,REP,264
+McPherson,1,State House,23,James D. Wangsness,REP,143
+McPherson,1,State House,23,Scott Moore,REP,209
+McPherson,2,State House,23,James D. Wangsness,REP,91
+McPherson,2,State House,23,Scott Moore,REP,234
+McPherson,3,State House,23,James D. Wangsness,REP,122
+McPherson,3,State House,23,Scott Moore,REP,219
+McPherson,4,State House,23,James D. Wangsness,REP,148
+McPherson,4,State House,23,Scott Moore,REP,251
+McPherson,1,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,170
+McPherson,2,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,169
+McPherson,3,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,157
+McPherson,4,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,181
+McPherson,1,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,166
+McPherson,2,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,157
+McPherson,3,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,149
+McPherson,4,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,179
+McPherson,1,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,164
+McPherson,2,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,156
+McPherson,3,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,149
+McPherson,4,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,168
+McPherson,1,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,171
+McPherson,2,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,162
+McPherson,3,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,154
+McPherson,4,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,171
+McPherson,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,208
+McPherson,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+McPherson,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,182
+McPherson,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+McPherson,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,190
+McPherson,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+McPherson,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,221
+McPherson,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+McPherson,1,Supreme Court Retention,2,Mark E. Salter - Yes,,201
+McPherson,1,Supreme Court Retention,2,Mark E. Salter - No,,38
+McPherson,2,Supreme Court Retention,2,Mark E. Salter - Yes,,181
+McPherson,2,Supreme Court Retention,2,Mark E. Salter - No,,29
+McPherson,3,Supreme Court Retention,2,Mark E. Salter - Yes,,187
+McPherson,3,Supreme Court Retention,2,Mark E. Salter - No,,38
+McPherson,4,Supreme Court Retention,2,Mark E. Salter - Yes,,217
+McPherson,4,Supreme Court Retention,2,Mark E. Salter - No,,42
+McPherson,1,Constitutional Amendment D,,Yes,,130
+McPherson,1,Constitutional Amendment D,,No,,126
+McPherson,2,Constitutional Amendment D,,Yes,,164
+McPherson,2,Constitutional Amendment D,,No,,93
+McPherson,3,Constitutional Amendment D,,Yes,,119
+McPherson,3,Constitutional Amendment D,,No,,140
+McPherson,4,Constitutional Amendment D,,Yes,,142
+McPherson,4,Constitutional Amendment D,,No,,154
+McPherson,1,Initiated Measure 27,,Yes,,74
+McPherson,1,Initiated Measure 27,,No,,187
+McPherson,2,Initiated Measure 27,,Yes,,46
+McPherson,2,Initiated Measure 27,,No,,212
+McPherson,3,Initiated Measure 27,,Yes,,91
+McPherson,3,Initiated Measure 27,,No,,171
+McPherson,4,Initiated Measure 27,,Yes,,93
+McPherson,4,Initiated Measure 27,,No,,214

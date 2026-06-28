@@ -1,0 +1,352 @@
+county,precinct,office,district,candidate,party,votes
+Beadle,1,U.S. Senate,,Brian L. Bengs,DEM,232
+Beadle,1,U.S. Senate,,Tamara J Lesnar,LIB,38
+Beadle,1,U.S. Senate,,John R. Thune,REP,663
+Beadle,2,U.S. Senate,,Brian L. Bengs,DEM,161
+Beadle,2,U.S. Senate,,Tamara J Lesnar,LIB,18
+Beadle,2,U.S. Senate,,John R. Thune,REP,573
+Beadle,3,U.S. Senate,,Brian L. Bengs,DEM,129
+Beadle,3,U.S. Senate,,Tamara J Lesnar,LIB,13
+Beadle,3,U.S. Senate,,John R. Thune,REP,478
+Beadle,4,U.S. Senate,,Brian L. Bengs,DEM,123
+Beadle,4,U.S. Senate,,Tamara J Lesnar,LIB,14
+Beadle,4,U.S. Senate,,John R. Thune,REP,453
+Beadle,5,U.S. Senate,,Brian L. Bengs,DEM,275
+Beadle,5,U.S. Senate,,Tamara J Lesnar,LIB,38
+Beadle,5,U.S. Senate,,John R. Thune,REP,724
+Beadle,6,U.S. Senate,,Brian L. Bengs,DEM,124
+Beadle,6,U.S. Senate,,Tamara J Lesnar,LIB,23
+Beadle,6,U.S. Senate,,John R. Thune,REP,471
+Beadle,8,U.S. Senate,,Brian L. Bengs,DEM,24
+Beadle,8,U.S. Senate,,Tamara J Lesnar,LIB,4
+Beadle,8,U.S. Senate,,John R. Thune,REP,239
+Beadle,9,U.S. Senate,,Brian L. Bengs,DEM,48
+Beadle,9,U.S. Senate,,Tamara J Lesnar,LIB,8
+Beadle,9,U.S. Senate,,John R. Thune,REP,190
+Beadle,7,U.S. Senate,,Brian L. Bengs,DEM,98
+Beadle,7,U.S. Senate,,Tamara J Lesnar,LIB,26
+Beadle,7,U.S. Senate,,John R. Thune,REP,650
+Beadle,1,U.S. House,1,Collin Duprel,LIB,167
+Beadle,1,U.S. House,1,Dusty Johnson,REP,707
+Beadle,2,U.S. House,1,Collin Duprel,LIB,118
+Beadle,2,U.S. House,1,Dusty Johnson,REP,605
+Beadle,3,U.S. House,1,Collin Duprel,LIB,82
+Beadle,3,U.S. House,1,Dusty Johnson,REP,504
+Beadle,4,U.S. House,1,Collin Duprel,LIB,82
+Beadle,4,U.S. House,1,Dusty Johnson,REP,487
+Beadle,5,U.S. House,1,Collin Duprel,LIB,183
+Beadle,5,U.S. House,1,Dusty Johnson,REP,806
+Beadle,6,U.S. House,1,Collin Duprel,LIB,94
+Beadle,6,U.S. House,1,Dusty Johnson,REP,490
+Beadle,8,U.S. House,1,Collin Duprel,LIB,25
+Beadle,8,U.S. House,1,Dusty Johnson,REP,235
+Beadle,9,U.S. House,1,Collin Duprel,LIB,38
+Beadle,9,U.S. House,1,Dusty Johnson,REP,204
+Beadle,7,U.S. House,1,Collin Duprel,LIB,81
+Beadle,7,U.S. House,1,Dusty Johnson,REP,674
+Beadle,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,308
+Beadle,1,Governor,,Tracey Quint and Ashley Strand,LIB,54
+Beadle,1,Governor,,Kristi Noem and Larry Rhoden,REP,574
+Beadle,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,230
+Beadle,2,Governor,,Tracey Quint and Ashley Strand,LIB,28
+Beadle,2,Governor,,Kristi Noem and Larry Rhoden,REP,492
+Beadle,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,195
+Beadle,3,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Beadle,3,Governor,,Kristi Noem and Larry Rhoden,REP,409
+Beadle,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,176
+Beadle,4,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Beadle,4,Governor,,Kristi Noem and Larry Rhoden,REP,401
+Beadle,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,377
+Beadle,5,Governor,,Tracey Quint and Ashley Strand,LIB,47
+Beadle,5,Governor,,Kristi Noem and Larry Rhoden,REP,611
+Beadle,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,176
+Beadle,6,Governor,,Tracey Quint and Ashley Strand,LIB,25
+Beadle,6,Governor,,Kristi Noem and Larry Rhoden,REP,417
+Beadle,8,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Beadle,8,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Beadle,8,Governor,,Kristi Noem and Larry Rhoden,REP,226
+Beadle,9,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
+Beadle,9,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Beadle,9,Governor,,Kristi Noem and Larry Rhoden,REP,172
+Beadle,7,Governor,,Jamie Smith and Jennifer Keintz,DEM,151
+Beadle,7,Governor,,Tracey Quint and Ashley Strand,LIB,23
+Beadle,7,Governor,,Kristi Noem and Larry Rhoden,REP,599
+Beadle,1,Secretary of State,,Thomas A Cool,DEM,327
+Beadle,1,Secretary of State,,Monae Johnson,REP,567
+Beadle,2,Secretary of State,,Thomas A Cool,DEM,233
+Beadle,2,Secretary of State,,Monae Johnson,REP,481
+Beadle,3,Secretary of State,,Thomas A Cool,DEM,186
+Beadle,3,Secretary of State,,Monae Johnson,REP,403
+Beadle,4,Secretary of State,,Thomas A Cool,DEM,174
+Beadle,4,Secretary of State,,Monae Johnson,REP,396
+Beadle,5,Secretary of State,,Thomas A Cool,DEM,392
+Beadle,5,Secretary of State,,Monae Johnson,REP,611
+Beadle,6,Secretary of State,,Thomas A Cool,DEM,186
+Beadle,6,Secretary of State,,Monae Johnson,REP,409
+Beadle,8,Secretary of State,,Thomas A Cool,DEM,36
+Beadle,8,Secretary of State,,Monae Johnson,REP,221
+Beadle,9,Secretary of State,,Thomas A Cool,DEM,73
+Beadle,9,Secretary of State,,Monae Johnson,REP,160
+Beadle,7,Secretary of State,,Thomas A Cool,DEM,185
+Beadle,7,Secretary of State,,Monae Johnson,REP,559
+Beadle,1,Attorney General,,Marty J. Jackley,REP,713
+Beadle,2,Attorney General,,Marty J. Jackley,REP,605
+Beadle,3,Attorney General,,Marty J. Jackley,REP,505
+Beadle,4,Attorney General,,Marty J. Jackley,REP,481
+Beadle,5,Attorney General,,Marty J. Jackley,REP,806
+Beadle,6,Attorney General,,Marty J. Jackley,REP,501
+Beadle,8,Attorney General,,Marty J. Jackley,REP,231
+Beadle,9,Attorney General,,Marty J. Jackley,REP,200
+Beadle,7,Attorney General,,Marty J. Jackley,REP,668
+Beadle,1,State Auditor,,Stephanie Marty,DEM,281
+Beadle,1,State Auditor,,Rene Meyer,LIB,55
+Beadle,1,State Auditor,,Richard Sattgast,REP,558
+Beadle,2,State Auditor,,Stephanie Marty,DEM,195
+Beadle,2,State Auditor,,Rene Meyer,LIB,30
+Beadle,2,State Auditor,,Richard Sattgast,REP,492
+Beadle,3,State Auditor,,Stephanie Marty,DEM,153
+Beadle,3,State Auditor,,Rene Meyer,LIB,15
+Beadle,3,State Auditor,,Richard Sattgast,REP,432
+Beadle,4,State Auditor,,Stephanie Marty,DEM,140
+Beadle,4,State Auditor,,Rene Meyer,LIB,15
+Beadle,4,State Auditor,,Richard Sattgast,REP,416
+Beadle,5,State Auditor,,Stephanie Marty,DEM,316
+Beadle,5,State Auditor,,Rene Meyer,LIB,45
+Beadle,5,State Auditor,,Richard Sattgast,REP,653
+Beadle,6,State Auditor,,Stephanie Marty,DEM,164
+Beadle,6,State Auditor,,Rene Meyer,LIB,20
+Beadle,6,State Auditor,,Richard Sattgast,REP,408
+Beadle,8,State Auditor,,Stephanie Marty,DEM,32
+Beadle,8,State Auditor,,Rene Meyer,LIB,4
+Beadle,8,State Auditor,,Richard Sattgast,REP,227
+Beadle,9,State Auditor,,Stephanie Marty,DEM,52
+Beadle,9,State Auditor,,Rene Meyer,LIB,12
+Beadle,9,State Auditor,,Richard Sattgast,REP,169
+Beadle,7,State Auditor,,Stephanie Marty,DEM,131
+Beadle,7,State Auditor,,Rene Meyer,LIB,28
+Beadle,7,State Auditor,,Richard Sattgast,REP,583
+Beadle,1,State Treasurer,,John Cunningham,DEM,219
+Beadle,1,State Treasurer,,Josh Haeder,REP,699
+Beadle,2,State Treasurer,,John Cunningham,DEM,155
+Beadle,2,State Treasurer,,Josh Haeder,REP,584
+Beadle,3,State Treasurer,,John Cunningham,DEM,111
+Beadle,3,State Treasurer,,Josh Haeder,REP,505
+Beadle,4,State Treasurer,,John Cunningham,DEM,101
+Beadle,4,State Treasurer,,Josh Haeder,REP,485
+Beadle,5,State Treasurer,,John Cunningham,DEM,224
+Beadle,5,State Treasurer,,Josh Haeder,REP,799
+Beadle,6,State Treasurer,,John Cunningham,DEM,116
+Beadle,6,State Treasurer,,Josh Haeder,REP,490
+Beadle,8,State Treasurer,,John Cunningham,DEM,24
+Beadle,8,State Treasurer,,Josh Haeder,REP,242
+Beadle,9,State Treasurer,,John Cunningham,DEM,47
+Beadle,9,State Treasurer,,Josh Haeder,REP,196
+Beadle,7,State Treasurer,,John Cunningham,DEM,109
+Beadle,7,State Treasurer,,Josh Haeder,REP,656
+Beadle,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,297
+Beadle,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,590
+Beadle,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,214
+Beadle,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,496
+Beadle,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,164
+Beadle,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,425
+Beadle,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,155
+Beadle,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,408
+Beadle,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,361
+Beadle,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,634
+Beadle,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,165
+Beadle,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,423
+Beadle,8,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Beadle,8,Commissioner of School and Public Lands,,Brock Greenfield,REP,229
+Beadle,9,Commissioner of School and Public Lands,,Timothy Azure,DEM,56
+Beadle,9,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Beadle,7,Commissioner of School and Public Lands,,Timothy Azure,DEM,147
+Beadle,7,Commissioner of School and Public Lands,,Brock Greenfield,REP,586
+Beadle,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,272
+Beadle,1,Public Utilities Commissioner,,Chris Nelson,REP,625
+Beadle,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,194
+Beadle,2,Public Utilities Commissioner,,Chris Nelson,REP,529
+Beadle,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,147
+Beadle,3,Public Utilities Commissioner,,Chris Nelson,REP,451
+Beadle,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,143
+Beadle,4,Public Utilities Commissioner,,Chris Nelson,REP,427
+Beadle,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,310
+Beadle,5,Public Utilities Commissioner,,Chris Nelson,REP,696
+Beadle,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,165
+Beadle,6,Public Utilities Commissioner,,Chris Nelson,REP,429
+Beadle,8,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Beadle,8,Public Utilities Commissioner,,Chris Nelson,REP,229
+Beadle,9,Public Utilities Commissioner,,Jeffrey Barth,DEM,55
+Beadle,9,Public Utilities Commissioner,,Chris Nelson,REP,176
+Beadle,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,143
+Beadle,7,Public Utilities Commissioner,,Chris Nelson,REP,601
+Beadle,1,State Senate,22,David Wheeler,REP,697
+Beadle,2,State Senate,22,David Wheeler,REP,594
+Beadle,3,State Senate,22,David Wheeler,REP,481
+Beadle,4,State Senate,22,David Wheeler,REP,450
+Beadle,5,State Senate,22,David Wheeler,REP,813
+Beadle,6,State Senate,22,David Wheeler,REP,498
+Beadle,8,State Senate,22,David Wheeler,REP,234
+Beadle,9,State Senate,22,David Wheeler,REP,187
+Beadle,7,State Senate,22,David Wheeler,REP,630
+Beadle,1,State House,22,Shane Milne,DEM,288
+Beadle,1,State House,22,Roger Chase,REP,542
+Beadle,1,State House,22,Lynn Schneider,REP,565
+Beadle,2,State House,22,Shane Milne,DEM,192
+Beadle,2,State House,22,Roger Chase,REP,477
+Beadle,2,State House,22,Lynn Schneider,REP,505
+Beadle,3,State House,22,Shane Milne,DEM,157
+Beadle,3,State House,22,Roger Chase,REP,395
+Beadle,3,State House,22,Lynn Schneider,REP,439
+Beadle,4,State House,22,Shane Milne,DEM,150
+Beadle,4,State House,22,Roger Chase,REP,378
+Beadle,4,State House,22,Lynn Schneider,REP,406
+Beadle,5,State House,22,Shane Milne,DEM,331
+Beadle,5,State House,22,Roger Chase,REP,597
+Beadle,5,State House,22,Lynn Schneider,REP,659
+Beadle,6,State House,22,Shane Milne,DEM,165
+Beadle,6,State House,22,Roger Chase,REP,407
+Beadle,6,State House,22,Lynn Schneider,REP,390
+Beadle,8,State House,22,Shane Milne,DEM,33
+Beadle,8,State House,22,Roger Chase,REP,188
+Beadle,8,State House,22,Lynn Schneider,REP,215
+Beadle,9,State House,22,Shane Milne,DEM,59
+Beadle,9,State House,22,Roger Chase,REP,150
+Beadle,9,State House,22,Lynn Schneider,REP,160
+Beadle,7,State House,22,Shane Milne,DEM,163
+Beadle,7,State House,22,Roger Chase,REP,505
+Beadle,7,State House,22,Lynn Schneider,REP,532
+Beadle,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,513
+Beadle,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,409
+Beadle,3,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,324
+Beadle,4,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,335
+Beadle,5,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,557
+Beadle,6,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,318
+Beadle,8,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,111
+Beadle,9,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,115
+Beadle,7,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,417
+Beadle,1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,446
+Beadle,2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,388
+Beadle,3,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,302
+Beadle,4,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,314
+Beadle,5,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,500
+Beadle,6,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,290
+Beadle,8,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,106
+Beadle,9,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,108
+Beadle,7,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,386
+Beadle,1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,584
+Beadle,2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,502
+Beadle,3,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,408
+Beadle,4,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,413
+Beadle,5,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,669
+Beadle,6,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,390
+Beadle,8,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,148
+Beadle,9,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,131
+Beadle,7,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,460
+Beadle,1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,460
+Beadle,2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,388
+Beadle,3,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,299
+Beadle,4,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,321
+Beadle,5,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,495
+Beadle,6,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,301
+Beadle,8,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,111
+Beadle,9,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,108
+Beadle,7,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,389
+Beadle,1,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,339
+Beadle,1,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,406
+Beadle,2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,253
+Beadle,2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,350
+Beadle,3,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,181
+Beadle,3,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,309
+Beadle,4,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,182
+Beadle,4,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,314
+Beadle,5,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,336
+Beadle,5,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,466
+Beadle,6,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,208
+Beadle,6,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,275
+Beadle,8,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,71
+Beadle,8,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,114
+Beadle,9,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,76
+Beadle,9,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,98
+Beadle,7,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,224
+Beadle,7,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,355
+Beadle,1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,444
+Beadle,2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,371
+Beadle,3,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,298
+Beadle,4,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,318
+Beadle,5,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,501
+Beadle,6,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,294
+Beadle,8,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,105
+Beadle,9,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,107
+Beadle,7,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,374
+Beadle,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,627
+Beadle,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,155
+Beadle,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,544
+Beadle,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,105
+Beadle,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,450
+Beadle,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,60
+Beadle,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,420
+Beadle,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,76
+Beadle,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,747
+Beadle,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,126
+Beadle,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,431
+Beadle,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Beadle,8,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,172
+Beadle,8,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Beadle,9,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,152
+Beadle,9,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Beadle,7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,533
+Beadle,7,Supreme Court Retention,3,Patricia J. DeVaney - No,,104
+Beadle,1,Supreme Court Retention,2,Mark E. Salter - Yes,,638
+Beadle,1,Supreme Court Retention,2,Mark E. Salter - No,,143
+Beadle,2,Supreme Court Retention,2,Mark E. Salter - Yes,,544
+Beadle,2,Supreme Court Retention,2,Mark E. Salter - No,,105
+Beadle,3,Supreme Court Retention,2,Mark E. Salter - Yes,,457
+Beadle,3,Supreme Court Retention,2,Mark E. Salter - No,,52
+Beadle,4,Supreme Court Retention,2,Mark E. Salter - Yes,,428
+Beadle,4,Supreme Court Retention,2,Mark E. Salter - No,,66
+Beadle,5,Supreme Court Retention,2,Mark E. Salter - Yes,,744
+Beadle,5,Supreme Court Retention,2,Mark E. Salter - No,,128
+Beadle,6,Supreme Court Retention,2,Mark E. Salter - Yes,,433
+Beadle,6,Supreme Court Retention,2,Mark E. Salter - No,,78
+Beadle,8,Supreme Court Retention,2,Mark E. Salter - Yes,,176
+Beadle,8,Supreme Court Retention,2,Mark E. Salter - No,,33
+Beadle,9,Supreme Court Retention,2,Mark E. Salter - Yes,,156
+Beadle,9,Supreme Court Retention,2,Mark E. Salter - No,,28
+Beadle,7,Supreme Court Retention,2,Mark E. Salter - Yes,,543
+Beadle,7,Supreme Court Retention,2,Mark E. Salter - No,,93
+Beadle,1,Constitutional Amendment D,,Yes,,554
+Beadle,1,Constitutional Amendment D,,No,,372
+Beadle,2,Constitutional Amendment D,,Yes,,393
+Beadle,2,Constitutional Amendment D,,No,,350
+Beadle,3,Constitutional Amendment D,,Yes,,311
+Beadle,3,Constitutional Amendment D,,No,,305
+Beadle,4,Constitutional Amendment D,,Yes,,317
+Beadle,4,Constitutional Amendment D,,No,,257
+Beadle,5,Constitutional Amendment D,,Yes,,599
+Beadle,5,Constitutional Amendment D,,No,,409
+Beadle,6,Constitutional Amendment D,,Yes,,334
+Beadle,6,Constitutional Amendment D,,No,,282
+Beadle,8,Constitutional Amendment D,,Yes,,90
+Beadle,8,Constitutional Amendment D,,No,,159
+Beadle,9,Constitutional Amendment D,,Yes,,115
+Beadle,9,Constitutional Amendment D,,No,,118
+Beadle,7,Constitutional Amendment D,,Yes,,335
+Beadle,7,Constitutional Amendment D,,No,,426
+Beadle,1,Initiated Measure 27,,Yes,,492
+Beadle,1,Initiated Measure 27,,No,,444
+Beadle,2,Initiated Measure 27,,Yes,,352
+Beadle,2,Initiated Measure 27,,No,,400
+Beadle,3,Initiated Measure 27,,Yes,,256
+Beadle,3,Initiated Measure 27,,No,,371
+Beadle,4,Initiated Measure 27,,Yes,,235
+Beadle,4,Initiated Measure 27,,No,,351
+Beadle,5,Initiated Measure 27,,Yes,,495
+Beadle,5,Initiated Measure 27,,No,,539
+Beadle,6,Initiated Measure 27,,Yes,,253
+Beadle,6,Initiated Measure 27,,No,,364
+Beadle,8,Initiated Measure 27,,Yes,,63
+Beadle,8,Initiated Measure 27,,No,,198
+Beadle,9,Initiated Measure 27,,Yes,,91
+Beadle,9,Initiated Measure 27,,No,,154
+Beadle,7,Initiated Measure 27,,Yes,,240
+Beadle,7,Initiated Measure 27,,No,,533

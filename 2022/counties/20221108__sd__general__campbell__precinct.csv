@@ -1,0 +1,176 @@
+county,precinct,office,district,candidate,party,votes
+Campbell,1,U.S. Senate,,Brian L. Bengs,DEM,12
+Campbell,1,U.S. Senate,,Tamara J Lesnar,LIB,6
+Campbell,1,U.S. Senate,,John R. Thune,REP,99
+Campbell,2,U.S. Senate,,Brian L. Bengs,DEM,15
+Campbell,2,U.S. Senate,,Tamara J Lesnar,LIB,6
+Campbell,2,U.S. Senate,,John R. Thune,REP,125
+Campbell,3,U.S. Senate,,Brian L. Bengs,DEM,15
+Campbell,3,U.S. Senate,,Tamara J Lesnar,LIB,5
+Campbell,3,U.S. Senate,,John R. Thune,REP,104
+Campbell,4,U.S. Senate,,Brian L. Bengs,DEM,11
+Campbell,4,U.S. Senate,,Tamara J Lesnar,LIB,3
+Campbell,4,U.S. Senate,,John R. Thune,REP,120
+Campbell,5,U.S. Senate,,Brian L. Bengs,DEM,13
+Campbell,5,U.S. Senate,,Tamara J Lesnar,LIB,6
+Campbell,5,U.S. Senate,,John R. Thune,REP,123
+Campbell,1,U.S. House,1,Collin Duprel,LIB,9
+Campbell,1,U.S. House,1,Dusty Johnson,REP,105
+Campbell,2,U.S. House,1,Collin Duprel,LIB,15
+Campbell,2,U.S. House,1,Dusty Johnson,REP,128
+Campbell,3,U.S. House,1,Collin Duprel,LIB,12
+Campbell,3,U.S. House,1,Dusty Johnson,REP,109
+Campbell,4,U.S. House,1,Collin Duprel,LIB,9
+Campbell,4,U.S. House,1,Dusty Johnson,REP,120
+Campbell,5,U.S. House,1,Collin Duprel,LIB,19
+Campbell,5,U.S. House,1,Dusty Johnson,REP,121
+Campbell,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Campbell,1,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Campbell,1,Governor,,Kristi Noem and Larry Rhoden,REP,93
+Campbell,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Campbell,2,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Campbell,2,Governor,,Kristi Noem and Larry Rhoden,REP,122
+Campbell,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,18
+Campbell,3,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Campbell,3,Governor,,Kristi Noem and Larry Rhoden,REP,106
+Campbell,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,14
+Campbell,4,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Campbell,4,Governor,,Kristi Noem and Larry Rhoden,REP,116
+Campbell,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Campbell,5,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Campbell,5,Governor,,Kristi Noem and Larry Rhoden,REP,124
+Campbell,1,Secretary of State,,Thomas A Cool,DEM,16
+Campbell,1,Secretary of State,,Monae Johnson,REP,96
+Campbell,2,Secretary of State,,Thomas A Cool,DEM,23
+Campbell,2,Secretary of State,,Monae Johnson,REP,116
+Campbell,3,Secretary of State,,Thomas A Cool,DEM,20
+Campbell,3,Secretary of State,,Monae Johnson,REP,96
+Campbell,4,Secretary of State,,Thomas A Cool,DEM,16
+Campbell,4,Secretary of State,,Monae Johnson,REP,114
+Campbell,5,Secretary of State,,Thomas A Cool,DEM,20
+Campbell,5,Secretary of State,,Monae Johnson,REP,120
+Campbell,1,Attorney General,,Marty J. Jackley,REP,97
+Campbell,2,Attorney General,,Marty J. Jackley,REP,128
+Campbell,3,Attorney General,,Marty J. Jackley,REP,103
+Campbell,4,Attorney General,,Marty J. Jackley,REP,120
+Campbell,5,Attorney General,,Marty J. Jackley,REP,128
+Campbell,1,State Auditor,,Stephanie Marty,DEM,14
+Campbell,1,State Auditor,,Rene Meyer,LIB,6
+Campbell,1,State Auditor,,Richard Sattgast,REP,89
+Campbell,2,State Auditor,,Stephanie Marty,DEM,22
+Campbell,2,State Auditor,,Rene Meyer,LIB,7
+Campbell,2,State Auditor,,Richard Sattgast,REP,112
+Campbell,3,State Auditor,,Stephanie Marty,DEM,20
+Campbell,3,State Auditor,,Rene Meyer,LIB,2
+Campbell,3,State Auditor,,Richard Sattgast,REP,97
+Campbell,4,State Auditor,,Stephanie Marty,DEM,11
+Campbell,4,State Auditor,,Rene Meyer,LIB,5
+Campbell,4,State Auditor,,Richard Sattgast,REP,112
+Campbell,5,State Auditor,,Stephanie Marty,DEM,17
+Campbell,5,State Auditor,,Rene Meyer,LIB,5
+Campbell,5,State Auditor,,Richard Sattgast,REP,119
+Campbell,1,State Treasurer,,John Cunningham,DEM,15
+Campbell,1,State Treasurer,,Josh Haeder,REP,96
+Campbell,2,State Treasurer,,John Cunningham,DEM,19
+Campbell,2,State Treasurer,,Josh Haeder,REP,121
+Campbell,3,State Treasurer,,John Cunningham,DEM,23
+Campbell,3,State Treasurer,,Josh Haeder,REP,95
+Campbell,4,State Treasurer,,John Cunningham,DEM,11
+Campbell,4,State Treasurer,,Josh Haeder,REP,115
+Campbell,5,State Treasurer,,John Cunningham,DEM,15
+Campbell,5,State Treasurer,,Josh Haeder,REP,126
+Campbell,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Campbell,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,98
+Campbell,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Campbell,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,118
+Campbell,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Campbell,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,96
+Campbell,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Campbell,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,111
+Campbell,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,14
+Campbell,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,126
+Campbell,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Campbell,1,Public Utilities Commissioner,,Chris Nelson,REP,101
+Campbell,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Campbell,2,Public Utilities Commissioner,,Chris Nelson,REP,123
+Campbell,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Campbell,3,Public Utilities Commissioner,,Chris Nelson,REP,101
+Campbell,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,8
+Campbell,4,Public Utilities Commissioner,,Chris Nelson,REP,118
+Campbell,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Campbell,5,Public Utilities Commissioner,,Chris Nelson,REP,128
+Campbell,1,State Senate,23,Bryan J. Breitling,REP,95
+Campbell,2,State Senate,23,Bryan J. Breitling,REP,120
+Campbell,3,State Senate,23,Bryan J. Breitling,REP,101
+Campbell,4,State Senate,23,Bryan J. Breitling,REP,110
+Campbell,5,State Senate,23,Bryan J. Breitling,REP,123
+Campbell,1,State House,23,James D. Wangsness,REP,61
+Campbell,1,State House,23,Scott Moore,REP,85
+Campbell,2,State House,23,James D. Wangsness,REP,79
+Campbell,2,State House,23,Scott Moore,REP,115
+Campbell,3,State House,23,James D. Wangsness,REP,54
+Campbell,3,State House,23,Scott Moore,REP,92
+Campbell,4,State House,23,James D. Wangsness,REP,74
+Campbell,4,State House,23,Scott Moore,REP,92
+Campbell,5,State House,23,James D. Wangsness,REP,70
+Campbell,5,State House,23,Scott Moore,REP,114
+Campbell,1,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,66
+Campbell,2,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,82
+Campbell,3,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,66
+Campbell,4,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,71
+Campbell,5,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,72
+Campbell,1,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,68
+Campbell,2,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,77
+Campbell,3,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,59
+Campbell,4,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,60
+Campbell,5,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,70
+Campbell,1,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,61
+Campbell,2,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,79
+Campbell,3,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,58
+Campbell,4,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,58
+Campbell,5,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,71
+Campbell,1,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,63
+Campbell,2,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,81
+Campbell,3,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,61
+Campbell,4,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,63
+Campbell,5,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,70
+Campbell,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,76
+Campbell,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Campbell,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,102
+Campbell,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Campbell,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,76
+Campbell,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Campbell,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,84
+Campbell,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Campbell,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Campbell,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Campbell,1,Supreme Court Retention,2,Mark E. Salter - Yes,,78
+Campbell,1,Supreme Court Retention,2,Mark E. Salter - No,,14
+Campbell,2,Supreme Court Retention,2,Mark E. Salter - Yes,,100
+Campbell,2,Supreme Court Retention,2,Mark E. Salter - No,,22
+Campbell,3,Supreme Court Retention,2,Mark E. Salter - Yes,,74
+Campbell,3,Supreme Court Retention,2,Mark E. Salter - No,,20
+Campbell,4,Supreme Court Retention,2,Mark E. Salter - Yes,,83
+Campbell,4,Supreme Court Retention,2,Mark E. Salter - No,,23
+Campbell,5,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Campbell,5,Supreme Court Retention,2,Mark E. Salter - No,,17
+Campbell,1,Constitutional Amendment D,,Yes,,54
+Campbell,1,Constitutional Amendment D,,No,,59
+Campbell,2,Constitutional Amendment D,,Yes,,78
+Campbell,2,Constitutional Amendment D,,No,,66
+Campbell,3,Constitutional Amendment D,,Yes,,43
+Campbell,3,Constitutional Amendment D,,No,,72
+Campbell,4,Constitutional Amendment D,,Yes,,50
+Campbell,4,Constitutional Amendment D,,No,,77
+Campbell,5,Constitutional Amendment D,,Yes,,54
+Campbell,5,Constitutional Amendment D,,No,,81
+Campbell,1,Initiated Measure 27,,Yes,,43
+Campbell,1,Initiated Measure 27,,No,,75
+Campbell,2,Initiated Measure 27,,Yes,,54
+Campbell,2,Initiated Measure 27,,No,,89
+Campbell,3,Initiated Measure 27,,Yes,,33
+Campbell,3,Initiated Measure 27,,No,,86
+Campbell,4,Initiated Measure 27,,Yes,,43
+Campbell,4,Initiated Measure 27,,No,,87
+Campbell,5,Initiated Measure 27,,Yes,,47
+Campbell,5,Initiated Measure 27,,No,,93

@@ -1,0 +1,229 @@
+county,precinct,office,district,candidate,party,votes
+Hughes,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,555
+Hughes,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,51
+Hughes,Absentee Precinct,U.S. Senate,,John R. Thune,REP,1205
+Hughes,Blunt Community Center,U.S. Senate,,Brian L. Bengs,DEM,26
+Hughes,Blunt Community Center,U.S. Senate,,Tamara J Lesnar,LIB,15
+Hughes,Blunt Community Center,U.S. Senate,,John R. Thune,REP,148
+Hughes,Capitol Lake Visitors Center,U.S. Senate,,Brian L. Bengs,DEM,195
+Hughes,Capitol Lake Visitors Center,U.S. Senate,,Tamara J Lesnar,LIB,44
+Hughes,Capitol Lake Visitors Center,U.S. Senate,,John R. Thune,REP,547
+Hughes,Faith Lutheran Church,U.S. Senate,,Brian L. Bengs,DEM,485
+Hughes,Faith Lutheran Church,U.S. Senate,,Tamara J Lesnar,LIB,95
+Hughes,Faith Lutheran Church,U.S. Senate,,John R. Thune,REP,1682
+Hughes,Harrold City Auditoruim,U.S. Senate,,Brian L. Bengs,DEM,8
+Hughes,Harrold City Auditoruim,U.S. Senate,,Tamara J Lesnar,LIB,5
+Hughes,Harrold City Auditoruim,U.S. Senate,,John R. Thune,REP,79
+Hughes,?,U.S. Senate,,Brian L. Bengs,DEM,414
+Hughes,?,U.S. Senate,,Tamara J Lesnar,LIB,91
+Hughes,?,U.S. Senate,,John R. Thune,REP,1806
+Hughes,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,371
+Hughes,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,1308
+Hughes,Blunt Community Center,U.S. House,1,Collin Duprel,LIB,32
+Hughes,Blunt Community Center,U.S. House,1,Dusty Johnson,REP,150
+Hughes,Capitol Lake Visitors Center,U.S. House,1,Collin Duprel,LIB,175
+Hughes,Capitol Lake Visitors Center,U.S. House,1,Dusty Johnson,REP,569
+Hughes,Faith Lutheran Church,U.S. House,1,Collin Duprel,LIB,408
+Hughes,Faith Lutheran Church,U.S. House,1,Dusty Johnson,REP,1760
+Hughes,Harrold City Auditoruim,U.S. House,1,Collin Duprel,LIB,17
+Hughes,Harrold City Auditoruim,U.S. House,1,Dusty Johnson,REP,73
+Hughes,?,U.S. House,1,Collin Duprel,LIB,407
+Hughes,?,U.S. House,1,Dusty Johnson,REP,1846
+Hughes,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,817
+Hughes,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,49
+Hughes,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,955
+Hughes,Blunt Community Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Hughes,Blunt Community Center,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Hughes,Blunt Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,151
+Hughes,Capitol Lake Visitors Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,316
+Hughes,Capitol Lake Visitors Center,Governor,,Tracey Quint and Ashley Strand,LIB,29
+Hughes,Capitol Lake Visitors Center,Governor,,Kristi Noem and Larry Rhoden,REP,440
+Hughes,Faith Lutheran Church,Governor,,Jamie Smith and Jennifer Keintz,DEM,808
+Hughes,Faith Lutheran Church,Governor,,Tracey Quint and Ashley Strand,LIB,69
+Hughes,Faith Lutheran Church,Governor,,Kristi Noem and Larry Rhoden,REP,1373
+Hughes,Harrold City Auditoruim,Governor,,Jamie Smith and Jennifer Keintz,DEM,13
+Hughes,Harrold City Auditoruim,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Hughes,Harrold City Auditoruim,Governor,,Kristi Noem and Larry Rhoden,REP,80
+Hughes,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,666
+Hughes,?,Governor,,Tracey Quint and Ashley Strand,LIB,68
+Hughes,?,Governor,,Kristi Noem and Larry Rhoden,REP,1572
+Hughes,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,743
+Hughes,Absentee Precinct,Secretary of State,,Monae Johnson,REP,1008
+Hughes,Blunt Community Center,Secretary of State,,Thomas A Cool,DEM,36
+Hughes,Blunt Community Center,Secretary of State,,Monae Johnson,REP,143
+Hughes,Capitol Lake Visitors Center,Secretary of State,,Thomas A Cool,DEM,322
+Hughes,Capitol Lake Visitors Center,Secretary of State,,Monae Johnson,REP,409
+Hughes,Faith Lutheran Church,Secretary of State,,Thomas A Cool,DEM,770
+Hughes,Faith Lutheran Church,Secretary of State,,Monae Johnson,REP,1383
+Hughes,Harrold City Auditoruim,Secretary of State,,Thomas A Cool,DEM,12
+Hughes,Harrold City Auditoruim,Secretary of State,,Monae Johnson,REP,82
+Hughes,?,Secretary of State,,Thomas A Cool,DEM,680
+Hughes,?,Secretary of State,,Monae Johnson,REP,1538
+Hughes,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,1411
+Hughes,Blunt Community Center,Attorney General,,Marty J. Jackley,REP,151
+Hughes,Capitol Lake Visitors Center,Attorney General,,Marty J. Jackley,REP,610
+Hughes,Faith Lutheran Church,Attorney General,,Marty J. Jackley,REP,1858
+Hughes,Harrold City Auditoruim,Attorney General,,Marty J. Jackley,REP,75
+Hughes,?,Attorney General,,Marty J. Jackley,REP,1910
+Hughes,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,572
+Hughes,Absentee Precinct,State Auditor,,Rene Meyer,LIB,59
+Hughes,Absentee Precinct,State Auditor,,Richard Sattgast,REP,1160
+Hughes,Blunt Community Center,State Auditor,,Stephanie Marty,DEM,26
+Hughes,Blunt Community Center,State Auditor,,Rene Meyer,LIB,15
+Hughes,Blunt Community Center,State Auditor,,Richard Sattgast,REP,141
+Hughes,Capitol Lake Visitors Center,State Auditor,,Stephanie Marty,DEM,217
+Hughes,Capitol Lake Visitors Center,State Auditor,,Rene Meyer,LIB,57
+Hughes,Capitol Lake Visitors Center,State Auditor,,Richard Sattgast,REP,476
+Hughes,Faith Lutheran Church,State Auditor,,Stephanie Marty,DEM,511
+Hughes,Faith Lutheran Church,State Auditor,,Rene Meyer,LIB,109
+Hughes,Faith Lutheran Church,State Auditor,,Richard Sattgast,REP,1577
+Hughes,Harrold City Auditoruim,State Auditor,,Stephanie Marty,DEM,9
+Hughes,Harrold City Auditoruim,State Auditor,,Rene Meyer,LIB,3
+Hughes,Harrold City Auditoruim,State Auditor,,Richard Sattgast,REP,82
+Hughes,?,State Auditor,,Stephanie Marty,DEM,453
+Hughes,?,State Auditor,,Rene Meyer,LIB,117
+Hughes,?,State Auditor,,Richard Sattgast,REP,1682
+Hughes,Absentee Precinct,State Treasurer,,John Cunningham,DEM,586
+Hughes,Absentee Precinct,State Treasurer,,Josh Haeder,REP,1181
+Hughes,Blunt Community Center,State Treasurer,,John Cunningham,DEM,31
+Hughes,Blunt Community Center,State Treasurer,,Josh Haeder,REP,151
+Hughes,Capitol Lake Visitors Center,State Treasurer,,John Cunningham,DEM,224
+Hughes,Capitol Lake Visitors Center,State Treasurer,,Josh Haeder,REP,509
+Hughes,Faith Lutheran Church,State Treasurer,,John Cunningham,DEM,541
+Hughes,Faith Lutheran Church,State Treasurer,,Josh Haeder,REP,1648
+Hughes,Harrold City Auditoruim,State Treasurer,,John Cunningham,DEM,14
+Hughes,Harrold City Auditoruim,State Treasurer,,Josh Haeder,REP,81
+Hughes,?,State Treasurer,,John Cunningham,DEM,496
+Hughes,?,State Treasurer,,Josh Haeder,REP,1734
+Hughes,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,658
+Hughes,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,1069
+Hughes,Blunt Community Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,31
+Hughes,Blunt Community Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
+Hughes,Capitol Lake Visitors Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,254
+Hughes,Capitol Lake Visitors Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,465
+Hughes,Faith Lutheran Church,Commissioner of School and Public Lands,,Timothy Azure,DEM,621
+Hughes,Faith Lutheran Church,Commissioner of School and Public Lands,,Brock Greenfield,REP,1495
+Hughes,Harrold City Auditoruim,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Hughes,Harrold City Auditoruim,Commissioner of School and Public Lands,,Brock Greenfield,REP,79
+Hughes,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,549
+Hughes,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,1606
+Hughes,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,541
+Hughes,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,1235
+Hughes,Blunt Community Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,30
+Hughes,Blunt Community Center,Public Utilities Commissioner,,Chris Nelson,REP,151
+Hughes,Capitol Lake Visitors Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,208
+Hughes,Capitol Lake Visitors Center,Public Utilities Commissioner,,Chris Nelson,REP,540
+Hughes,Faith Lutheran Church,Public Utilities Commissioner,,Jeffrey Barth,DEM,511
+Hughes,Faith Lutheran Church,Public Utilities Commissioner,,Chris Nelson,REP,1693
+Hughes,Harrold City Auditoruim,Public Utilities Commissioner,,Jeffrey Barth,DEM,11
+Hughes,Harrold City Auditoruim,Public Utilities Commissioner,,Chris Nelson,REP,83
+Hughes,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,445
+Hughes,?,Public Utilities Commissioner,,Chris Nelson,REP,1806
+Hughes,Absentee Precinct,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,1115
+Hughes,Blunt Community Center,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,111
+Hughes,Capitol Lake Visitors Center,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,483
+Hughes,Faith Lutheran Church,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,1516
+Hughes,Harrold City Auditoruim,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,51
+Hughes,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,1482
+Hughes,Absentee Precinct,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,1107
+Hughes,Blunt Community Center,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,104
+Hughes,Capitol Lake Visitors Center,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,486
+Hughes,Faith Lutheran Church,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,1518
+Hughes,Harrold City Auditoruim,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,49
+Hughes,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,1459
+Hughes,Absentee Precinct,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,1106
+Hughes,Blunt Community Center,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,101
+Hughes,Capitol Lake Visitors Center,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,481
+Hughes,Faith Lutheran Church,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,1510
+Hughes,Harrold City Auditoruim,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,46
+Hughes,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,1461
+Hughes,Absentee Precinct,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,1063
+Hughes,Blunt Community Center,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,100
+Hughes,Capitol Lake Visitors Center,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,484
+Hughes,Faith Lutheran Church,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,1457
+Hughes,Harrold City Auditoruim,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,45
+Hughes,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,1385
+Hughes,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1421
+Hughes,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,244
+Hughes,Blunt Community Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,145
+Hughes,Blunt Community Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,24
+Hughes,Capitol Lake Visitors Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,580
+Hughes,Capitol Lake Visitors Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,122
+Hughes,Faith Lutheran Church,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1779
+Hughes,Faith Lutheran Church,Supreme Court Retention,3,Patricia J. DeVaney - No,,287
+Hughes,Harrold City Auditoruim,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,73
+Hughes,Harrold City Auditoruim,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Hughes,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1795
+Hughes,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,300
+Hughes,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,1402
+Hughes,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,231
+Hughes,Blunt Community Center,Supreme Court Retention,2,Mark E. Salter - Yes,,139
+Hughes,Blunt Community Center,Supreme Court Retention,2,Mark E. Salter - No,,30
+Hughes,Capitol Lake Visitors Center,Supreme Court Retention,2,Mark E. Salter - Yes,,574
+Hughes,Capitol Lake Visitors Center,Supreme Court Retention,2,Mark E. Salter - No,,117
+Hughes,Faith Lutheran Church,Supreme Court Retention,2,Mark E. Salter - Yes,,1742
+Hughes,Faith Lutheran Church,Supreme Court Retention,2,Mark E. Salter - No,,288
+Hughes,Harrold City Auditoruim,Supreme Court Retention,2,Mark E. Salter - Yes,,75
+Hughes,Harrold City Auditoruim,Supreme Court Retention,2,Mark E. Salter - No,,8
+Hughes,?,Supreme Court Retention,2,Mark E. Salter - Yes,,1770
+Hughes,?,Supreme Court Retention,2,Mark E. Salter - No,,285
+Hughes,Absentee Precinct,Constitutional Amendment D,,Yes,,1105
+Hughes,Absentee Precinct,Constitutional Amendment D,,No,,705
+Hughes,Blunt Community Center,Constitutional Amendment D,,Yes,,88
+Hughes,Blunt Community Center,Constitutional Amendment D,,No,,100
+Hughes,Capitol Lake Visitors Center,Constitutional Amendment D,,Yes,,454
+Hughes,Capitol Lake Visitors Center,Constitutional Amendment D,,No,,331
+Hughes,Faith Lutheran Church,Constitutional Amendment D,,Yes,,1259
+Hughes,Faith Lutheran Church,Constitutional Amendment D,,No,,990
+Hughes,Harrold City Auditoruim,Constitutional Amendment D,,Yes,,30
+Hughes,Harrold City Auditoruim,Constitutional Amendment D,,No,,61
+Hughes,?,Constitutional Amendment D,,Yes,,1179
+Hughes,?,Constitutional Amendment D,,No,,1108
+Hughes,Absentee Precinct,Initiated Measure 27,,Yes,,831
+Hughes,Absentee Precinct,Initiated Measure 27,,No,,1003
+Hughes,Blunt Community Center,Initiated Measure 27,,Yes,,70
+Hughes,Blunt Community Center,Initiated Measure 27,,No,,122
+Hughes,Capitol Lake Visitors Center,Initiated Measure 27,,Yes,,429
+Hughes,Capitol Lake Visitors Center,Initiated Measure 27,,No,,366
+Hughes,Faith Lutheran Church,Initiated Measure 27,,Yes,,1102
+Hughes,Faith Lutheran Church,Initiated Measure 27,,No,,1169
+Hughes,Harrold City Auditoruim,Initiated Measure 27,,Yes,,31
+Hughes,Harrold City Auditoruim,Initiated Measure 27,,No,,62
+Hughes,?,Initiated Measure 27,,Yes,,1013
+Hughes,?,Initiated Measure 27,,No,,1310
+Hughes,Absentee Precinct,State Senate,24,Jim Mehlhaff,REP,1169
+Hughes,Absentee Precinct,State Senate,26,Shawn Bordeaux,DEM,2
+Hughes,Absentee Precinct,State Senate,26,Joel Koskan,REP,2
+Hughes,Blunt Community Center,State Senate,24,Jim Mehlhaff,REP,140
+Hughes,Blunt Community Center,State Senate,26,Shawn Bordeaux,DEM,0
+Hughes,Blunt Community Center,State Senate,26,Joel Koskan,REP,0
+Hughes,Capitol Lake Visitors Center,State Senate,24,Jim Mehlhaff,REP,507
+Hughes,Capitol Lake Visitors Center,State Senate,26,Shawn Bordeaux,DEM,3
+Hughes,Capitol Lake Visitors Center,State Senate,26,Joel Koskan,REP,0
+Hughes,Faith Lutheran Church,State Senate,24,Jim Mehlhaff,REP,1653
+Hughes,Faith Lutheran Church,State Senate,26,Shawn Bordeaux,DEM,6
+Hughes,Faith Lutheran Church,State Senate,26,Joel Koskan,REP,2
+Hughes,Harrold City Auditoruim,State Senate,24,Jim Mehlhaff,REP,70
+Hughes,Harrold City Auditoruim,State Senate,26,Shawn Bordeaux,DEM,5
+Hughes,Harrold City Auditoruim,State Senate,26,Joel Koskan,REP,0
+Hughes,New Life Assembly of God Church 10 of 21,State Senate,24,Jim Mehlhaff,REP,1701
+Hughes,New Life Assembly of God Church 10 of 21,State Senate,26,Shawn Bordeaux,DEM,6
+Hughes,New Life Assembly of God Church 10 of 21,State Senate,26,Joel Koskan,REP,1
+Hughes,Absentee Precinct,State House,24,Mike Weisgram,REP,1135
+Hughes,Absentee Precinct,State House,24,Will D. Mortenson,REP,1185
+Hughes,Absentee Precinct,State House,26B,Rebecca Reimer,REP,2
+Hughes,Blunt Community Center,State House,24,Mike Weisgram,REP,106
+Hughes,Blunt Community Center,State House,24,Will D. Mortenson,REP,127
+Hughes,Blunt Community Center,State House,26B,Rebecca Reimer,REP,0
+Hughes,Capitol Lake Visitors Center,State House,24,Mike Weisgram,REP,453
+Hughes,Capitol Lake Visitors Center,State House,24,Will D. Mortenson,REP,509
+Hughes,Capitol Lake Visitors Center,State House,26B,Rebecca Reimer,REP,0
+Hughes,Faith Lutheran Church,State House,24,Mike Weisgram,REP,1475
+Hughes,Faith Lutheran Church,State House,24,Will D. Mortenson,REP,1610
+Hughes,Faith Lutheran Church,State House,26B,Rebecca Reimer,REP,8
+Hughes,Harrold City Auditoruim,State House,24,Mike Weisgram,REP,55
+Hughes,Harrold City Auditoruim,State House,24,Will D. Mortenson,REP,66
+Hughes,Harrold City Auditoruim,State House,26B,Rebecca Reimer,REP,0
+Hughes,New Life Assembly of God Church 11 of 21,State House,24,Mike Weisgram,REP,1467
+Hughes,New Life Assembly of God Church 11 of 21,State House,24,Will D. Mortenson,REP,1628
+Hughes,New Life Assembly of God Church 11 of 21,State House,26B,Rebecca Reimer,REP,1

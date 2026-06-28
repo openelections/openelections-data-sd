@@ -1,0 +1,319 @@
+county,precinct,office,district,candidate,party,votes
+Turner,01,U.S. Senate,,Brian L. Bengs,DEM,104
+Turner,01,U.S. Senate,,Tamara J Lesnar,LIB,42
+Turner,01,U.S. Senate,,John R. Thune,REP,584
+Turner,02,U.S. Senate,,Brian L. Bengs,DEM,112
+Turner,02,U.S. Senate,,Tamara J Lesnar,LIB,33
+Turner,02,U.S. Senate,,John R. Thune,REP,557
+Turner,03,U.S. Senate,,Brian L. Bengs,DEM,75
+Turner,03,U.S. Senate,,Tamara J Lesnar,LIB,21
+Turner,03,U.S. Senate,,John R. Thune,REP,378
+Turner,04,U.S. Senate,,Brian L. Bengs,DEM,47
+Turner,04,U.S. Senate,,Tamara J Lesnar,LIB,10
+Turner,04,U.S. Senate,,John R. Thune,REP,242
+Turner,05,U.S. Senate,,Brian L. Bengs,DEM,72
+Turner,05,U.S. Senate,,Tamara J Lesnar,LIB,15
+Turner,05,U.S. Senate,,John R. Thune,REP,346
+Turner,06,U.S. Senate,,Brian L. Bengs,DEM,80
+Turner,06,U.S. Senate,,Tamara J Lesnar,LIB,18
+Turner,06,U.S. Senate,,John R. Thune,REP,414
+Turner,07,U.S. Senate,,Brian L. Bengs,DEM,35
+Turner,07,U.S. Senate,,Tamara J Lesnar,LIB,11
+Turner,07,U.S. Senate,,John R. Thune,REP,120
+Turner,08,U.S. Senate,,Brian L. Bengs,DEM,77
+Turner,08,U.S. Senate,,Tamara J Lesnar,LIB,18
+Turner,08,U.S. Senate,,John R. Thune,REP,437
+Turner,01,U.S. House,1,Collin Duprel,LIB,105
+Turner,01,U.S. House,1,Dusty Johnson,REP,594
+Turner,02,U.S. House,1,Collin Duprel,LIB,119
+Turner,02,U.S. House,1,Dusty Johnson,REP,573
+Turner,03,U.S. House,1,Collin Duprel,LIB,75
+Turner,03,U.S. House,1,Dusty Johnson,REP,391
+Turner,04,U.S. House,1,Collin Duprel,LIB,39
+Turner,04,U.S. House,1,Dusty Johnson,REP,253
+Turner,05,U.S. House,1,Collin Duprel,LIB,57
+Turner,05,U.S. House,1,Dusty Johnson,REP,360
+Turner,06,U.S. House,1,Collin Duprel,LIB,65
+Turner,06,U.S. House,1,Dusty Johnson,REP,432
+Turner,07,U.S. House,1,Collin Duprel,LIB,29
+Turner,07,U.S. House,1,Dusty Johnson,REP,125
+Turner,08,U.S. House,1,Collin Duprel,LIB,72
+Turner,08,U.S. House,1,Dusty Johnson,REP,446
+Turner,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,160
+Turner,01,Governor,,Tracey Quint and Ashley Strand,LIB,30
+Turner,01,Governor,,Kristi Noem and Larry Rhoden,REP,547
+Turner,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,184
+Turner,02,Governor,,Tracey Quint and Ashley Strand,LIB,16
+Turner,02,Governor,,Kristi Noem and Larry Rhoden,REP,507
+Turner,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,113
+Turner,03,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Turner,03,Governor,,Kristi Noem and Larry Rhoden,REP,351
+Turner,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,65
+Turner,04,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Turner,04,Governor,,Kristi Noem and Larry Rhoden,REP,228
+Turner,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Turner,05,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Turner,05,Governor,,Kristi Noem and Larry Rhoden,REP,320
+Turner,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,117
+Turner,06,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Turner,06,Governor,,Kristi Noem and Larry Rhoden,REP,384
+Turner,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,51
+Turner,07,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Turner,07,Governor,,Kristi Noem and Larry Rhoden,REP,106
+Turner,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,123
+Turner,08,Governor,,Tracey Quint and Ashley Strand,LIB,17
+Turner,08,Governor,,Kristi Noem and Larry Rhoden,REP,391
+Turner,01,Secretary of State,,Thomas A Cool,DEM,162
+Turner,01,Secretary of State,,Monae Johnson,REP,542
+Turner,02,Secretary of State,,Thomas A Cool,DEM,188
+Turner,02,Secretary of State,,Monae Johnson,REP,492
+Turner,03,Secretary of State,,Thomas A Cool,DEM,113
+Turner,03,Secretary of State,,Monae Johnson,REP,347
+Turner,04,Secretary of State,,Thomas A Cool,DEM,73
+Turner,04,Secretary of State,,Monae Johnson,REP,211
+Turner,05,Secretary of State,,Thomas A Cool,DEM,115
+Turner,05,Secretary of State,,Monae Johnson,REP,291
+Turner,06,Secretary of State,,Thomas A Cool,DEM,127
+Turner,06,Secretary of State,,Monae Johnson,REP,365
+Turner,07,Secretary of State,,Thomas A Cool,DEM,59
+Turner,07,Secretary of State,,Monae Johnson,REP,99
+Turner,08,Secretary of State,,Thomas A Cool,DEM,129
+Turner,08,Secretary of State,,Monae Johnson,REP,384
+Turner,01,Attorney General,,Marty J. Jackley,REP,576
+Turner,02,Attorney General,,Marty J. Jackley,REP,572
+Turner,03,Attorney General,,Marty J. Jackley,REP,389
+Turner,04,Attorney General,,Marty J. Jackley,REP,237
+Turner,05,Attorney General,,Marty J. Jackley,REP,350
+Turner,06,Attorney General,,Marty J. Jackley,REP,428
+Turner,07,Attorney General,,Marty J. Jackley,REP,121
+Turner,08,Attorney General,,Marty J. Jackley,REP,448
+Turner,01,State Auditor,,Stephanie Marty,DEM,137
+Turner,01,State Auditor,,Rene Meyer,LIB,42
+Turner,01,State Auditor,,Richard Sattgast,REP,518
+Turner,02,State Auditor,,Stephanie Marty,DEM,153
+Turner,02,State Auditor,,Rene Meyer,LIB,41
+Turner,02,State Auditor,,Richard Sattgast,REP,480
+Turner,03,State Auditor,,Stephanie Marty,DEM,95
+Turner,03,State Auditor,,Rene Meyer,LIB,28
+Turner,03,State Auditor,,Richard Sattgast,REP,326
+Turner,04,State Auditor,,Stephanie Marty,DEM,65
+Turner,04,State Auditor,,Rene Meyer,LIB,17
+Turner,04,State Auditor,,Richard Sattgast,REP,201
+Turner,05,State Auditor,,Stephanie Marty,DEM,91
+Turner,05,State Auditor,,Rene Meyer,LIB,23
+Turner,05,State Auditor,,Richard Sattgast,REP,290
+Turner,06,State Auditor,,Stephanie Marty,DEM,101
+Turner,06,State Auditor,,Rene Meyer,LIB,17
+Turner,06,State Auditor,,Richard Sattgast,REP,372
+Turner,07,State Auditor,,Stephanie Marty,DEM,46
+Turner,07,State Auditor,,Rene Meyer,LIB,13
+Turner,07,State Auditor,,Richard Sattgast,REP,96
+Turner,08,State Auditor,,Stephanie Marty,DEM,111
+Turner,08,State Auditor,,Rene Meyer,LIB,31
+Turner,08,State Auditor,,Richard Sattgast,REP,364
+Turner,01,State Treasurer,,John Cunningham,DEM,141
+Turner,01,State Treasurer,,Josh Haeder,REP,554
+Turner,02,State Treasurer,,John Cunningham,DEM,166
+Turner,02,State Treasurer,,Josh Haeder,REP,501
+Turner,03,State Treasurer,,John Cunningham,DEM,100
+Turner,03,State Treasurer,,Josh Haeder,REP,348
+Turner,04,State Treasurer,,John Cunningham,DEM,67
+Turner,04,State Treasurer,,Josh Haeder,REP,213
+Turner,05,State Treasurer,,John Cunningham,DEM,98
+Turner,05,State Treasurer,,Josh Haeder,REP,309
+Turner,06,State Treasurer,,John Cunningham,DEM,114
+Turner,06,State Treasurer,,Josh Haeder,REP,372
+Turner,07,State Treasurer,,John Cunningham,DEM,54
+Turner,07,State Treasurer,,Josh Haeder,REP,101
+Turner,08,State Treasurer,,John Cunningham,DEM,121
+Turner,08,State Treasurer,,Josh Haeder,REP,384
+Turner,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,136
+Turner,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,541
+Turner,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,158
+Turner,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,497
+Turner,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
+Turner,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,343
+Turner,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Turner,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,214
+Turner,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,92
+Turner,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,311
+Turner,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,99
+Turner,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,382
+Turner,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Turner,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,109
+Turner,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,123
+Turner,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,374
+Turner,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,129
+Turner,01,Public Utilities Commissioner,,Chris Nelson,REP,570
+Turner,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,157
+Turner,02,Public Utilities Commissioner,,Chris Nelson,REP,531
+Turner,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,101
+Turner,03,Public Utilities Commissioner,,Chris Nelson,REP,353
+Turner,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,52
+Turner,04,Public Utilities Commissioner,,Chris Nelson,REP,238
+Turner,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,88
+Turner,05,Public Utilities Commissioner,,Chris Nelson,REP,329
+Turner,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,95
+Turner,06,Public Utilities Commissioner,,Chris Nelson,REP,398
+Turner,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,36
+Turner,07,Public Utilities Commissioner,,Chris Nelson,REP,122
+Turner,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,98
+Turner,08,Public Utilities Commissioner,,Chris Nelson,REP,417
+Turner,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,312
+Turner,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,308
+Turner,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,186
+Turner,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,102
+Turner,05,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,187
+Turner,06,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,220
+Turner,07,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,79
+Turner,08,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,240
+Turner,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,298
+Turner,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,295
+Turner,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,175
+Turner,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,99
+Turner,05,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,180
+Turner,06,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,217
+Turner,07,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,79
+Turner,08,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,232
+Turner,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,301
+Turner,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,288
+Turner,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,183
+Turner,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,101
+Turner,05,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,183
+Turner,06,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,214
+Turner,07,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,76
+Turner,08,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,231
+Turner,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,323
+Turner,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,289
+Turner,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,182
+Turner,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,150
+Turner,05,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,185
+Turner,06,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,224
+Turner,07,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,76
+Turner,08,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,230
+Turner,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,297
+Turner,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,286
+Turner,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,175
+Turner,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,100
+Turner,05,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,181
+Turner,06,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,209
+Turner,07,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,75
+Turner,08,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,229
+Turner,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,301
+Turner,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,289
+Turner,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,178
+Turner,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,100
+Turner,05,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,185
+Turner,06,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,208
+Turner,07,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,77
+Turner,08,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,234
+Turner,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,480
+Turner,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,125
+Turner,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,510
+Turner,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,102
+Turner,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,338
+Turner,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,59
+Turner,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,188
+Turner,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,40
+Turner,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,306
+Turner,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,60
+Turner,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,365
+Turner,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Turner,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,116
+Turner,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,20
+Turner,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,384
+Turner,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,85
+Turner,01,Supreme Court Retention,2,Mark E. Salter - Yes,,483
+Turner,01,Supreme Court Retention,2,Mark E. Salter - No,,122
+Turner,02,Supreme Court Retention,2,Mark E. Salter - Yes,,541
+Turner,02,Supreme Court Retention,2,Mark E. Salter - No,,84
+Turner,03,Supreme Court Retention,2,Mark E. Salter - Yes,,348
+Turner,03,Supreme Court Retention,2,Mark E. Salter - No,,55
+Turner,04,Supreme Court Retention,2,Mark E. Salter - Yes,,192
+Turner,04,Supreme Court Retention,2,Mark E. Salter - No,,37
+Turner,05,Supreme Court Retention,2,Mark E. Salter - Yes,,309
+Turner,05,Supreme Court Retention,2,Mark E. Salter - No,,54
+Turner,06,Supreme Court Retention,2,Mark E. Salter - Yes,,370
+Turner,06,Supreme Court Retention,2,Mark E. Salter - No,,63
+Turner,07,Supreme Court Retention,2,Mark E. Salter - Yes,,113
+Turner,07,Supreme Court Retention,2,Mark E. Salter - No,,21
+Turner,08,Supreme Court Retention,2,Mark E. Salter - Yes,,391
+Turner,08,Supreme Court Retention,2,Mark E. Salter - No,,78
+Turner,01,Constitutional Amendment D,,Yes,,329
+Turner,01,Constitutional Amendment D,,No,,388
+Turner,02,Constitutional Amendment D,,Yes,,335
+Turner,02,Constitutional Amendment D,,No,,351
+Turner,03,Constitutional Amendment D,,Yes,,229
+Turner,03,Constitutional Amendment D,,No,,234
+Turner,04,Constitutional Amendment D,,Yes,,140
+Turner,04,Constitutional Amendment D,,No,,148
+Turner,05,Constitutional Amendment D,,Yes,,233
+Turner,05,Constitutional Amendment D,,No,,190
+Turner,06,Constitutional Amendment D,,Yes,,252
+Turner,06,Constitutional Amendment D,,No,,233
+Turner,07,Constitutional Amendment D,,Yes,,98
+Turner,07,Constitutional Amendment D,,No,,67
+Turner,08,Constitutional Amendment D,,Yes,,239
+Turner,08,Constitutional Amendment D,,No,,276
+Turner,01,Initiated Measure 27,,Yes,,288
+Turner,01,Initiated Measure 27,,No,,437
+Turner,02,Initiated Measure 27,,Yes,,277
+Turner,02,Initiated Measure 27,,No,,421
+Turner,03,Initiated Measure 27,,Yes,,160
+Turner,03,Initiated Measure 27,,No,,306
+Turner,04,Initiated Measure 27,,Yes,,93
+Turner,04,Initiated Measure 27,,No,,200
+Turner,05,Initiated Measure 27,,Yes,,155
+Turner,05,Initiated Measure 27,,No,,269
+Turner,06,Initiated Measure 27,,Yes,,174
+Turner,06,Initiated Measure 27,,No,,322
+Turner,07,Initiated Measure 27,,Yes,,77
+Turner,07,Initiated Measure 27,,No,,86
+Turner,08,Initiated Measure 27,,Yes,,185
+Turner,08,Initiated Measure 27,,No,,335
+Turner,01,State Senate,16,Donn Larson,DEM,110
+Turner,01,State Senate,16,Jim Bolin,REP,387
+Turner,01,State Senate,16,Brian J. Burge,IND,219
+Turner,02,State Senate,16,Donn Larson,DEM,150
+Turner,02,State Senate,16,Jim Bolin,REP,459
+Turner,02,State Senate,16,Brian J. Burge,IND,71
+Turner,03,State Senate,16,Donn Larson,DEM,88
+Turner,03,State Senate,16,Jim Bolin,REP,335
+Turner,03,State Senate,16,Brian J. Burge,IND,26
+Turner,04,State Senate,19,Russell Graeff,DEM,56
+Turner,04,State Senate,19,Kyle Schoenfish,REP,223
+Turner,05,State Senate,16,Donn Larson,DEM,110
+Turner,05,State Senate,16,Jim Bolin,REP,282
+Turner,05,State Senate,16,Brian J. Burge,IND,25
+Turner,06,State Senate,16,Donn Larson,DEM,113
+Turner,06,State Senate,16,Jim Bolin,REP,343
+Turner,06,State Senate,16,Brian J. Burge,IND,38
+Turner,07,State Senate,16,Donn Larson,DEM,53
+Turner,07,State Senate,16,Jim Bolin,REP,92
+Turner,07,State Senate,16,Brian J. Burge,IND,11
+Turner,08 10 of 22,State Senate,16,Donn Larson,DEM,159
+Turner,08 10 of 22,State Senate,16,Jim Bolin,REP,332
+Turner,08 10 of 22,State Senate,16,Brian J. Burge,IND,27
+Turner,01,State House,16,Matt Ness,DEM,148
+Turner,01,State House,16,Kevin D. Jensen,REP,408
+Turner,01,State House,16,Karla J. Lems,REP,487
+Turner,02,State House,16,Matt Ness,DEM,165
+Turner,02,State House,16,Kevin D. Jensen,REP,377
+Turner,02,State House,16,Karla J. Lems,REP,392
+Turner,03,State House,16,Matt Ness,DEM,104
+Turner,03,State House,16,Kevin D. Jensen,REP,250
+Turner,03,State House,16,Karla J. Lems,REP,277
+Turner,04,State House,19,Jessica Bahmuller,REP,137
+Turner,04,State House,19,Drew Peterson,REP,191
+Turner,05,State House,16,Matt Ness,DEM,105
+Turner,05,State House,16,Kevin D. Jensen,REP,227
+Turner,05,State House,16,Karla J. Lems,REP,268
+Turner,06,State House,16,Matt Ness,DEM,111
+Turner,06,State House,16,Kevin D. Jensen,REP,291
+Turner,06,State House,16,Karla J. Lems,REP,290
+Turner,07,State House,16,Matt Ness,DEM,52
+Turner,07,State House,16,Kevin D. Jensen,REP,92
+Turner,07,State House,16,Karla J. Lems,REP,67
+Turner,08 11 of 22,State House,16,Matt Ness,DEM,122
+Turner,08 11 of 22,State House,16,Kevin D. Jensen,REP,308
+Turner,08 11 of 22,State House,16,Karla J. Lems,REP,307

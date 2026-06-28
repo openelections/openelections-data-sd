@@ -1,0 +1,191 @@
+county,precinct,office,district,candidate,party,votes
+Jerauld,1,U.S. Senate,,Brian L. Bengs,DEM,89
+Jerauld,1,U.S. Senate,,Tamara J Lesnar,LIB,19
+Jerauld,1,U.S. Senate,,John R. Thune,REP,316
+Jerauld,2,U.S. Senate,,Brian L. Bengs,DEM,22
+Jerauld,2,U.S. Senate,,Tamara J Lesnar,LIB,6
+Jerauld,2,U.S. Senate,,John R. Thune,REP,108
+Jerauld,3,U.S. Senate,,Brian L. Bengs,DEM,14
+Jerauld,3,U.S. Senate,,Tamara J Lesnar,LIB,1
+Jerauld,3,U.S. Senate,,John R. Thune,REP,107
+Jerauld,4,U.S. Senate,,Brian L. Bengs,DEM,15
+Jerauld,4,U.S. Senate,,Tamara J Lesnar,LIB,4
+Jerauld,4,U.S. Senate,,John R. Thune,REP,70
+Jerauld,5,U.S. Senate,,Brian L. Bengs,DEM,14
+Jerauld,5,U.S. Senate,,Tamara J Lesnar,LIB,4
+Jerauld,5,U.S. Senate,,John R. Thune,REP,75
+Jerauld,1,U.S. House,1,Collin Duprel,LIB,59
+Jerauld,1,U.S. House,1,Dusty Johnson,REP,339
+Jerauld,2,U.S. House,1,Collin Duprel,LIB,12
+Jerauld,2,U.S. House,1,Dusty Johnson,REP,122
+Jerauld,3,U.S. House,1,Collin Duprel,LIB,12
+Jerauld,3,U.S. House,1,Dusty Johnson,REP,107
+Jerauld,4,U.S. House,1,Collin Duprel,LIB,15
+Jerauld,4,U.S. House,1,Dusty Johnson,REP,68
+Jerauld,5,U.S. House,1,Collin Duprel,LIB,7
+Jerauld,5,U.S. House,1,Dusty Johnson,REP,84
+Jerauld,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,139
+Jerauld,1,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Jerauld,1,Governor,,Kristi Noem and Larry Rhoden,REP,277
+Jerauld,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Jerauld,2,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Jerauld,2,Governor,,Kristi Noem and Larry Rhoden,REP,103
+Jerauld,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,22
+Jerauld,3,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Jerauld,3,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Jerauld,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Jerauld,4,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Jerauld,4,Governor,,Kristi Noem and Larry Rhoden,REP,60
+Jerauld,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Jerauld,5,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Jerauld,5,Governor,,Kristi Noem and Larry Rhoden,REP,69
+Jerauld,1,Secretary of State,,Thomas A Cool,DEM,148
+Jerauld,1,Secretary of State,,Monae Johnson,REP,252
+Jerauld,2,Secretary of State,,Thomas A Cool,DEM,35
+Jerauld,2,Secretary of State,,Monae Johnson,REP,93
+Jerauld,3,Secretary of State,,Thomas A Cool,DEM,31
+Jerauld,3,Secretary of State,,Monae Johnson,REP,79
+Jerauld,4,Secretary of State,,Thomas A Cool,DEM,28
+Jerauld,4,Secretary of State,,Monae Johnson,REP,53
+Jerauld,5,Secretary of State,,Thomas A Cool,DEM,23
+Jerauld,5,Secretary of State,,Monae Johnson,REP,62
+Jerauld,1,Attorney General,,Marty J. Jackley,REP,332
+Jerauld,2,Attorney General,,Marty J. Jackley,REP,112
+Jerauld,3,Attorney General,,Marty J. Jackley,REP,105
+Jerauld,4,Attorney General,,Marty J. Jackley,REP,70
+Jerauld,5,Attorney General,,Marty J. Jackley,REP,78
+Jerauld,1,State Auditor,,Stephanie Marty,DEM,111
+Jerauld,1,State Auditor,,Rene Meyer,LIB,11
+Jerauld,1,State Auditor,,Richard Sattgast,REP,272
+Jerauld,2,State Auditor,,Stephanie Marty,DEM,28
+Jerauld,2,State Auditor,,Rene Meyer,LIB,5
+Jerauld,2,State Auditor,,Richard Sattgast,REP,98
+Jerauld,3,State Auditor,,Stephanie Marty,DEM,23
+Jerauld,3,State Auditor,,Rene Meyer,LIB,4
+Jerauld,3,State Auditor,,Richard Sattgast,REP,89
+Jerauld,4,State Auditor,,Stephanie Marty,DEM,24
+Jerauld,4,State Auditor,,Rene Meyer,LIB,3
+Jerauld,4,State Auditor,,Richard Sattgast,REP,54
+Jerauld,5,State Auditor,,Stephanie Marty,DEM,22
+Jerauld,5,State Auditor,,Rene Meyer,LIB,1
+Jerauld,5,State Auditor,,Richard Sattgast,REP,66
+Jerauld,1,State Treasurer,,John Cunningham,DEM,99
+Jerauld,1,State Treasurer,,Josh Haeder,REP,295
+Jerauld,2,State Treasurer,,John Cunningham,DEM,26
+Jerauld,2,State Treasurer,,Josh Haeder,REP,107
+Jerauld,3,State Treasurer,,John Cunningham,DEM,19
+Jerauld,3,State Treasurer,,Josh Haeder,REP,101
+Jerauld,4,State Treasurer,,John Cunningham,DEM,21
+Jerauld,4,State Treasurer,,Josh Haeder,REP,61
+Jerauld,5,State Treasurer,,John Cunningham,DEM,12
+Jerauld,5,State Treasurer,,Josh Haeder,REP,76
+Jerauld,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,146
+Jerauld,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,254
+Jerauld,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,44
+Jerauld,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,90
+Jerauld,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,30
+Jerauld,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,86
+Jerauld,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,30
+Jerauld,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,52
+Jerauld,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,23
+Jerauld,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,62
+Jerauld,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,94
+Jerauld,1,Public Utilities Commissioner,,Chris Nelson,REP,313
+Jerauld,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Jerauld,2,Public Utilities Commissioner,,Chris Nelson,REP,108
+Jerauld,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Jerauld,3,Public Utilities Commissioner,,Chris Nelson,REP,100
+Jerauld,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Jerauld,4,Public Utilities Commissioner,,Chris Nelson,REP,59
+Jerauld,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Jerauld,5,Public Utilities Commissioner,,Chris Nelson,REP,71
+Jerauld,1,State Senate,20,Joshua Klumb,REP,315
+Jerauld,2,State Senate,20,Joshua Klumb,REP,104
+Jerauld,3,State Senate,20,Joshua Klumb,REP,96
+Jerauld,4,State Senate,20,Joshua Klumb,REP,63
+Jerauld,5,State Senate,20,Joshua Klumb,REP,66
+Jerauld,1,State House,20,Ben Krohmer,REP,199
+Jerauld,1,State House,20,Lance Koth,REP,273
+Jerauld,2,State House,20,Ben Krohmer,REP,80
+Jerauld,2,State House,20,Lance Koth,REP,92
+Jerauld,3,State House,20,Ben Krohmer,REP,56
+Jerauld,3,State House,20,Lance Koth,REP,85
+Jerauld,4,State House,20,Ben Krohmer,REP,40
+Jerauld,4,State House,20,Lance Koth,REP,51
+Jerauld,5,State House,20,Ben Krohmer,REP,39
+Jerauld,5,State House,20,Lance Koth,REP,65
+Jerauld,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,208
+Jerauld,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,67
+Jerauld,3,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,63
+Jerauld,4,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,35
+Jerauld,5,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,41
+Jerauld,1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,190
+Jerauld,2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,61
+Jerauld,3,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,57
+Jerauld,4,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,33
+Jerauld,5,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,37
+Jerauld,1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,199
+Jerauld,2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,69
+Jerauld,3,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,77
+Jerauld,4,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,39
+Jerauld,5,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,37
+Jerauld,1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,178
+Jerauld,2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,65
+Jerauld,3,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,57
+Jerauld,4,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,33
+Jerauld,5,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,38
+Jerauld,1,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,112
+Jerauld,1,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,117
+Jerauld,2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,25
+Jerauld,2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,52
+Jerauld,3,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,23
+Jerauld,3,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,57
+Jerauld,4,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,22
+Jerauld,4,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,22
+Jerauld,5,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,15
+Jerauld,5,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,30
+Jerauld,1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,200
+Jerauld,2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,70
+Jerauld,3,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,60
+Jerauld,4,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,34
+Jerauld,5,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,41
+Jerauld,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,296
+Jerauld,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,58
+Jerauld,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,99
+Jerauld,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Jerauld,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,91
+Jerauld,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Jerauld,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,60
+Jerauld,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Jerauld,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,62
+Jerauld,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Jerauld,1,Supreme Court Retention,2,Mark E. Salter - Yes,,299
+Jerauld,1,Supreme Court Retention,2,Mark E. Salter - No,,58
+Jerauld,2,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Jerauld,2,Supreme Court Retention,2,Mark E. Salter - No,,23
+Jerauld,3,Supreme Court Retention,2,Mark E. Salter - Yes,,91
+Jerauld,3,Supreme Court Retention,2,Mark E. Salter - No,,15
+Jerauld,4,Supreme Court Retention,2,Mark E. Salter - Yes,,62
+Jerauld,4,Supreme Court Retention,2,Mark E. Salter - No,,11
+Jerauld,5,Supreme Court Retention,2,Mark E. Salter - Yes,,63
+Jerauld,5,Supreme Court Retention,2,Mark E. Salter - No,,12
+Jerauld,1,Constitutional Amendment D,,Yes,,230
+Jerauld,1,Constitutional Amendment D,,No,,186
+Jerauld,2,Constitutional Amendment D,,Yes,,64
+Jerauld,2,Constitutional Amendment D,,No,,71
+Jerauld,3,Constitutional Amendment D,,Yes,,57
+Jerauld,3,Constitutional Amendment D,,No,,64
+Jerauld,4,Constitutional Amendment D,,Yes,,40
+Jerauld,4,Constitutional Amendment D,,No,,49
+Jerauld,5,Constitutional Amendment D,,Yes,,43
+Jerauld,5,Constitutional Amendment D,,No,,48
+Jerauld,1,Initiated Measure 27,,Yes,,150
+Jerauld,1,Initiated Measure 27,,No,,267
+Jerauld,2,Initiated Measure 27,,Yes,,32
+Jerauld,2,Initiated Measure 27,,No,,103
+Jerauld,3,Initiated Measure 27,,Yes,,58
+Jerauld,3,Initiated Measure 27,,No,,65
+Jerauld,4,Initiated Measure 27,,Yes,,26
+Jerauld,4,Initiated Measure 27,,No,,63
+Jerauld,5,Initiated Measure 27,,Yes,,16
+Jerauld,5,Initiated Measure 27,,No,,76

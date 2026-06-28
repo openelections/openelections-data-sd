@@ -1,0 +1,401 @@
+county,precinct,office,district,candidate,party,votes
+Custer,01,U.S. Senate,,Brian L. Bengs,DEM,152
+Custer,01,U.S. Senate,,Tamara J Lesnar,LIB,67
+Custer,01,U.S. Senate,,John R. Thune,REP,815
+Custer,02,U.S. Senate,,Brian L. Bengs,DEM,24
+Custer,02,U.S. Senate,,Tamara J Lesnar,LIB,21
+Custer,02,U.S. Senate,,John R. Thune,REP,123
+Custer,03,U.S. Senate,,Brian L. Bengs,DEM,48
+Custer,03,U.S. Senate,,Tamara J Lesnar,LIB,8
+Custer,03,U.S. Senate,,John R. Thune,REP,133
+Custer,04,U.S. Senate,,Brian L. Bengs,DEM,94
+Custer,04,U.S. Senate,,Tamara J Lesnar,LIB,23
+Custer,04,U.S. Senate,,John R. Thune,REP,380
+Custer,05,U.S. Senate,,Brian L. Bengs,DEM,142
+Custer,05,U.S. Senate,,Tamara J Lesnar,LIB,27
+Custer,05,U.S. Senate,,John R. Thune,REP,516
+Custer,06,U.S. Senate,,Brian L. Bengs,DEM,100
+Custer,06,U.S. Senate,,Tamara J Lesnar,LIB,14
+Custer,06,U.S. Senate,,John R. Thune,REP,243
+Custer,07,U.S. Senate,,Brian L. Bengs,DEM,51
+Custer,07,U.S. Senate,,Tamara J Lesnar,LIB,14
+Custer,07,U.S. Senate,,John R. Thune,REP,155
+Custer,08,U.S. Senate,,Brian L. Bengs,DEM,123
+Custer,08,U.S. Senate,,Tamara J Lesnar,LIB,11
+Custer,08,U.S. Senate,,John R. Thune,REP,279
+Custer,09,U.S. Senate,,Brian L. Bengs,DEM,256
+Custer,09,U.S. Senate,,Tamara J Lesnar,LIB,72
+Custer,09,U.S. Senate,,John R. Thune,REP,965
+Custer,10,U.S. Senate,,Brian L. Bengs,DEM,27
+Custer,10,U.S. Senate,,Tamara J Lesnar,LIB,10
+Custer,10,U.S. Senate,,John R. Thune,REP,147
+Custer,01,U.S. House,1,Collin Duprel,LIB,194
+Custer,01,U.S. House,1,Dusty Johnson,REP,789
+Custer,02,U.S. House,1,Collin Duprel,LIB,57
+Custer,02,U.S. House,1,Dusty Johnson,REP,107
+Custer,03,U.S. House,1,Collin Duprel,LIB,39
+Custer,03,U.S. House,1,Dusty Johnson,REP,139
+Custer,04,U.S. House,1,Collin Duprel,LIB,101
+Custer,04,U.S. House,1,Dusty Johnson,REP,378
+Custer,05,U.S. House,1,Collin Duprel,LIB,112
+Custer,05,U.S. House,1,Dusty Johnson,REP,524
+Custer,06,U.S. House,1,Collin Duprel,LIB,76
+Custer,06,U.S. House,1,Dusty Johnson,REP,256
+Custer,07,U.S. House,1,Collin Duprel,LIB,57
+Custer,07,U.S. House,1,Dusty Johnson,REP,154
+Custer,08,U.S. House,1,Collin Duprel,LIB,94
+Custer,08,U.S. House,1,Dusty Johnson,REP,292
+Custer,09,U.S. House,1,Collin Duprel,LIB,253
+Custer,09,U.S. House,1,Dusty Johnson,REP,974
+Custer,10,U.S. House,1,Collin Duprel,LIB,40
+Custer,10,U.S. House,1,Dusty Johnson,REP,140
+Custer,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,226
+Custer,01,Governor,,Tracey Quint and Ashley Strand,LIB,40
+Custer,01,Governor,,Kristi Noem and Larry Rhoden,REP,777
+Custer,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,29
+Custer,02,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Custer,02,Governor,,Kristi Noem and Larry Rhoden,REP,133
+Custer,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,52
+Custer,03,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Custer,03,Governor,,Kristi Noem and Larry Rhoden,REP,133
+Custer,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,110
+Custer,04,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Custer,04,Governor,,Kristi Noem and Larry Rhoden,REP,379
+Custer,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,183
+Custer,05,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Custer,05,Governor,,Kristi Noem and Larry Rhoden,REP,490
+Custer,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,126
+Custer,06,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Custer,06,Governor,,Kristi Noem and Larry Rhoden,REP,220
+Custer,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Custer,07,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Custer,07,Governor,,Kristi Noem and Larry Rhoden,REP,149
+Custer,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,146
+Custer,08,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Custer,08,Governor,,Kristi Noem and Larry Rhoden,REP,264
+Custer,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,333
+Custer,09,Governor,,Tracey Quint and Ashley Strand,LIB,36
+Custer,09,Governor,,Kristi Noem and Larry Rhoden,REP,933
+Custer,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,28
+Custer,10,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Custer,10,Governor,,Kristi Noem and Larry Rhoden,REP,155
+Custer,01,Secretary of State,,Thomas A Cool,DEM,211
+Custer,01,Secretary of State,,Monae Johnson,REP,787
+Custer,02,Secretary of State,,Thomas A Cool,DEM,30
+Custer,02,Secretary of State,,Monae Johnson,REP,136
+Custer,03,Secretary of State,,Thomas A Cool,DEM,51
+Custer,03,Secretary of State,,Monae Johnson,REP,132
+Custer,04,Secretary of State,,Thomas A Cool,DEM,107
+Custer,04,Secretary of State,,Monae Johnson,REP,377
+Custer,05,Secretary of State,,Thomas A Cool,DEM,174
+Custer,05,Secretary of State,,Monae Johnson,REP,501
+Custer,06,Secretary of State,,Thomas A Cool,DEM,116
+Custer,06,Secretary of State,,Monae Johnson,REP,227
+Custer,07,Secretary of State,,Thomas A Cool,DEM,66
+Custer,07,Secretary of State,,Monae Johnson,REP,146
+Custer,08,Secretary of State,,Thomas A Cool,DEM,143
+Custer,08,Secretary of State,,Monae Johnson,REP,260
+Custer,09,Secretary of State,,Thomas A Cool,DEM,313
+Custer,09,Secretary of State,,Monae Johnson,REP,945
+Custer,10,Secretary of State,,Thomas A Cool,DEM,32
+Custer,10,Secretary of State,,Monae Johnson,REP,149
+Custer,01,Attorney General,,Marty J. Jackley,REP,819
+Custer,02,Attorney General,,Marty J. Jackley,REP,136
+Custer,03,Attorney General,,Marty J. Jackley,REP,141
+Custer,04,Attorney General,,Marty J. Jackley,REP,397
+Custer,05,Attorney General,,Marty J. Jackley,REP,525
+Custer,06,Attorney General,,Marty J. Jackley,REP,262
+Custer,07,Attorney General,,Marty J. Jackley,REP,163
+Custer,08,Attorney General,,Marty J. Jackley,REP,310
+Custer,09,Attorney General,,Marty J. Jackley,REP,1016
+Custer,10,Attorney General,,Marty J. Jackley,REP,151
+Custer,01,State Auditor,,Stephanie Marty,DEM,185
+Custer,01,State Auditor,,Rene Meyer,LIB,69
+Custer,01,State Auditor,,Richard Sattgast,REP,733
+Custer,02,State Auditor,,Stephanie Marty,DEM,33
+Custer,02,State Auditor,,Rene Meyer,LIB,18
+Custer,02,State Auditor,,Richard Sattgast,REP,115
+Custer,03,State Auditor,,Stephanie Marty,DEM,49
+Custer,03,State Auditor,,Rene Meyer,LIB,9
+Custer,03,State Auditor,,Richard Sattgast,REP,128
+Custer,04,State Auditor,,Stephanie Marty,DEM,104
+Custer,04,State Auditor,,Rene Meyer,LIB,30
+Custer,04,State Auditor,,Richard Sattgast,REP,350
+Custer,05,State Auditor,,Stephanie Marty,DEM,166
+Custer,05,State Auditor,,Rene Meyer,LIB,44
+Custer,05,State Auditor,,Richard Sattgast,REP,465
+Custer,06,State Auditor,,Stephanie Marty,DEM,108
+Custer,06,State Auditor,,Rene Meyer,LIB,22
+Custer,06,State Auditor,,Richard Sattgast,REP,209
+Custer,07,State Auditor,,Stephanie Marty,DEM,66
+Custer,07,State Auditor,,Rene Meyer,LIB,11
+Custer,07,State Auditor,,Richard Sattgast,REP,132
+Custer,08,State Auditor,,Stephanie Marty,DEM,136
+Custer,08,State Auditor,,Rene Meyer,LIB,21
+Custer,08,State Auditor,,Richard Sattgast,REP,247
+Custer,09,State Auditor,,Stephanie Marty,DEM,285
+Custer,09,State Auditor,,Rene Meyer,LIB,65
+Custer,09,State Auditor,,Richard Sattgast,REP,908
+Custer,10,State Auditor,,Stephanie Marty,DEM,27
+Custer,10,State Auditor,,Rene Meyer,LIB,9
+Custer,10,State Auditor,,Richard Sattgast,REP,148
+Custer,01,State Treasurer,,John Cunningham,DEM,192
+Custer,01,State Treasurer,,Josh Haeder,REP,789
+Custer,02,State Treasurer,,John Cunningham,DEM,28
+Custer,02,State Treasurer,,Josh Haeder,REP,137
+Custer,03,State Treasurer,,John Cunningham,DEM,49
+Custer,03,State Treasurer,,Josh Haeder,REP,132
+Custer,04,State Treasurer,,John Cunningham,DEM,105
+Custer,04,State Treasurer,,Josh Haeder,REP,373
+Custer,05,State Treasurer,,John Cunningham,DEM,166
+Custer,05,State Treasurer,,Josh Haeder,REP,508
+Custer,06,State Treasurer,,John Cunningham,DEM,113
+Custer,06,State Treasurer,,Josh Haeder,REP,229
+Custer,07,State Treasurer,,John Cunningham,DEM,65
+Custer,07,State Treasurer,,Josh Haeder,REP,144
+Custer,08,State Treasurer,,John Cunningham,DEM,135
+Custer,08,State Treasurer,,Josh Haeder,REP,261
+Custer,09,State Treasurer,,John Cunningham,DEM,291
+Custer,09,State Treasurer,,Josh Haeder,REP,954
+Custer,10,State Treasurer,,John Cunningham,DEM,28
+Custer,10,State Treasurer,,Josh Haeder,REP,153
+Custer,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,198
+Custer,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,782
+Custer,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Custer,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,135
+Custer,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Custer,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,133
+Custer,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,105
+Custer,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,375
+Custer,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,173
+Custer,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,489
+Custer,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,115
+Custer,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,226
+Custer,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,67
+Custer,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,141
+Custer,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
+Custer,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,259
+Custer,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,283
+Custer,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,943
+Custer,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,31
+Custer,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,151
+Custer,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,183
+Custer,01,Public Utilities Commissioner,,Chris Nelson,REP,807
+Custer,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,26
+Custer,02,Public Utilities Commissioner,,Chris Nelson,REP,140
+Custer,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Custer,03,Public Utilities Commissioner,,Chris Nelson,REP,138
+Custer,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,98
+Custer,04,Public Utilities Commissioner,,Chris Nelson,REP,385
+Custer,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,161
+Custer,05,Public Utilities Commissioner,,Chris Nelson,REP,501
+Custer,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,106
+Custer,06,Public Utilities Commissioner,,Chris Nelson,REP,238
+Custer,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,62
+Custer,07,Public Utilities Commissioner,,Chris Nelson,REP,150
+Custer,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,135
+Custer,08,Public Utilities Commissioner,,Chris Nelson,REP,264
+Custer,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,283
+Custer,09,Public Utilities Commissioner,,Chris Nelson,REP,956
+Custer,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,28
+Custer,10,Public Utilities Commissioner,,Chris Nelson,REP,154
+Custer,01,State Senate,30,Julie Frye-Mueller,REP,759
+Custer,02,State Senate,30,Julie Frye-Mueller,REP,126
+Custer,03,State Senate,30,Julie Frye-Mueller,REP,132
+Custer,04,State Senate,30,Julie Frye-Mueller,REP,381
+Custer,05,State Senate,30,Julie Frye-Mueller,REP,477
+Custer,06,State Senate,30,Julie Frye-Mueller,REP,232
+Custer,07,State Senate,30,Julie Frye-Mueller,REP,140
+Custer,08,State Senate,30,Julie Frye-Mueller,REP,264
+Custer,09,State Senate,30,Julie Frye-Mueller,REP,941
+Custer,10,State Senate,30,Julie Frye-Mueller,REP,148
+Custer,01,State House,30,Bret Swanson,DEM,207
+Custer,01,State House,30,Dennis Krull,REP,572
+Custer,01,State House,30,Trish Ladner,REP,707
+Custer,02,State House,30,Bret Swanson,DEM,28
+Custer,02,State House,30,Dennis Krull,REP,100
+Custer,02,State House,30,Trish Ladner,REP,127
+Custer,03,State House,30,Bret Swanson,DEM,50
+Custer,03,State House,30,Dennis Krull,REP,92
+Custer,03,State House,30,Trish Ladner,REP,123
+Custer,04,State House,30,Bret Swanson,DEM,110
+Custer,04,State House,30,Dennis Krull,REP,296
+Custer,04,State House,30,Trish Ladner,REP,316
+Custer,05,State House,30,Bret Swanson,DEM,170
+Custer,05,State House,30,Dennis Krull,REP,426
+Custer,05,State House,30,Trish Ladner,REP,429
+Custer,06,State House,30,Bret Swanson,DEM,109
+Custer,06,State House,30,Dennis Krull,REP,210
+Custer,06,State House,30,Trish Ladner,REP,200
+Custer,07,State House,30,Bret Swanson,DEM,59
+Custer,07,State House,30,Dennis Krull,REP,134
+Custer,07,State House,30,Trish Ladner,REP,111
+Custer,08,State House,30,Bret Swanson,DEM,135
+Custer,08,State House,30,Dennis Krull,REP,250
+Custer,08,State House,30,Trish Ladner,REP,224
+Custer,09,State House,30,Bret Swanson,DEM,300
+Custer,09,State House,30,Dennis Krull,REP,842
+Custer,09,State House,30,Trish Ladner,REP,802
+Custer,10,State House,30,Bret Swanson,DEM,33
+Custer,10,State House,30,Dennis Krull,REP,126
+Custer,10,State House,30,Trish Ladner,REP,126
+Custer,01,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,384
+Custer,02,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,68
+Custer,03,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,71
+Custer,04,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,207
+Custer,05,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,262
+Custer,06,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,139
+Custer,07,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,81
+Custer,08,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,161
+Custer,09,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,475
+Custer,10,Judge of the Circuit Court,Position A Seventh Circuit,Stacy Vinberg-Wickre,NON,80
+Custer,01,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,376
+Custer,02,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,70
+Custer,03,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,69
+Custer,04,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,204
+Custer,05,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,244
+Custer,06,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,136
+Custer,07,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,87
+Custer,08,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,164
+Custer,09,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,476
+Custer,10,Judge of the Circuit Court,Position B Seventh Circuit,Jeffrey R. Connolly,NON,77
+Custer,01,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,385
+Custer,02,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,71
+Custer,03,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,70
+Custer,04,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,206
+Custer,05,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,266
+Custer,06,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,139
+Custer,07,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,95
+Custer,08,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,166
+Custer,09,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,480
+Custer,10,Judge of the Circuit Court,Position C Seventh Circuit,Heidi L. Linngren,NON,79
+Custer,01,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,369
+Custer,02,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,60
+Custer,03,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,68
+Custer,04,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,204
+Custer,05,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,244
+Custer,06,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,130
+Custer,07,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,80
+Custer,08,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,155
+Custer,09,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,460
+Custer,10,Judge of the Circuit Court,Position D Seventh Circuit,Joshua K. Hendrickson,NON,75
+Custer,01,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,391
+Custer,02,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,59
+Custer,03,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,70
+Custer,04,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,204
+Custer,05,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,250
+Custer,06,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,135
+Custer,07,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,89
+Custer,08,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,163
+Custer,09,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,477
+Custer,10,Judge of the Circuit Court,Position E Seventh Circuit,Jane Wipf Pfeifle,NON,76
+Custer,01,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,377
+Custer,02,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,58
+Custer,03,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,66
+Custer,04,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,200
+Custer,05,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,244
+Custer,06,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,138
+Custer,07,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,89
+Custer,08,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,156
+Custer,09,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,466
+Custer,10,Judge of the Circuit Court,Position F Seventh Circuit,Craig A Pfeifle,NON,77
+Custer,01,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,361
+Custer,02,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,59
+Custer,03,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,69
+Custer,04,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,193
+Custer,05,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,242
+Custer,06,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,131
+Custer,07,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,86
+Custer,08,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,154
+Custer,09,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,458
+Custer,10,Judge of the Circuit Court,Position G Seventh Circuit,Robert Gusinsky,NON,76
+Custer,01,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,381
+Custer,02,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,71
+Custer,03,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,72
+Custer,04,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,233
+Custer,05,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,364
+Custer,06,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,186
+Custer,07,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,129
+Custer,08,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,228
+Custer,09,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,639
+Custer,10,Judge of the Circuit Court,Position H Seventh Circuit,Matthew M. Brown,NON,83
+Custer,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,664
+Custer,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,149
+Custer,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,104
+Custer,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,27
+Custer,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,127
+Custer,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Custer,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,331
+Custer,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,82
+Custer,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,486
+Custer,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,91
+Custer,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,224
+Custer,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,68
+Custer,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,146
+Custer,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,44
+Custer,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,275
+Custer,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
+Custer,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,849
+Custer,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,204
+Custer,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,127
+Custer,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Custer,01,Supreme Court Retention,2,Mark E. Salter - Yes,,665
+Custer,01,Supreme Court Retention,2,Mark E. Salter - No,,142
+Custer,02,Supreme Court Retention,2,Mark E. Salter - Yes,,98
+Custer,02,Supreme Court Retention,2,Mark E. Salter - No,,29
+Custer,03,Supreme Court Retention,2,Mark E. Salter - Yes,,124
+Custer,03,Supreme Court Retention,2,Mark E. Salter - No,,31
+Custer,04,Supreme Court Retention,2,Mark E. Salter - Yes,,322
+Custer,04,Supreme Court Retention,2,Mark E. Salter - No,,88
+Custer,05,Supreme Court Retention,2,Mark E. Salter - Yes,,466
+Custer,05,Supreme Court Retention,2,Mark E. Salter - No,,103
+Custer,06,Supreme Court Retention,2,Mark E. Salter - Yes,,230
+Custer,06,Supreme Court Retention,2,Mark E. Salter - No,,59
+Custer,07,Supreme Court Retention,2,Mark E. Salter - Yes,,148
+Custer,07,Supreme Court Retention,2,Mark E. Salter - No,,43
+Custer,08,Supreme Court Retention,2,Mark E. Salter - Yes,,270
+Custer,08,Supreme Court Retention,2,Mark E. Salter - No,,64
+Custer,09,Supreme Court Retention,2,Mark E. Salter - Yes,,836
+Custer,09,Supreme Court Retention,2,Mark E. Salter - No,,210
+Custer,10,Supreme Court Retention,2,Mark E. Salter - Yes,,128
+Custer,10,Supreme Court Retention,2,Mark E. Salter - No,,26
+Custer,01,Constitutional Amendment D,,Yes,,463
+Custer,01,Constitutional Amendment D,,No,,560
+Custer,02,Constitutional Amendment D,,Yes,,69
+Custer,02,Constitutional Amendment D,,No,,100
+Custer,03,Constitutional Amendment D,,Yes,,95
+Custer,03,Constitutional Amendment D,,No,,94
+Custer,04,Constitutional Amendment D,,Yes,,240
+Custer,04,Constitutional Amendment D,,No,,247
+Custer,05,Constitutional Amendment D,,Yes,,329
+Custer,05,Constitutional Amendment D,,No,,351
+Custer,06,Constitutional Amendment D,,Yes,,184
+Custer,06,Constitutional Amendment D,,No,,164
+Custer,07,Constitutional Amendment D,,Yes,,131
+Custer,07,Constitutional Amendment D,,No,,90
+Custer,08,Constitutional Amendment D,,Yes,,220
+Custer,08,Constitutional Amendment D,,No,,190
+Custer,09,Constitutional Amendment D,,Yes,,613
+Custer,09,Constitutional Amendment D,,No,,665
+Custer,10,Constitutional Amendment D,,Yes,,76
+Custer,10,Constitutional Amendment D,,No,,110
+Custer,01,Initiated Measure 27,,Yes,,401
+Custer,01,Initiated Measure 27,,No,,636
+Custer,02,Initiated Measure 27,,Yes,,46
+Custer,02,Initiated Measure 27,,No,,123
+Custer,03,Initiated Measure 27,,Yes,,82
+Custer,03,Initiated Measure 27,,No,,107
+Custer,04,Initiated Measure 27,,Yes,,203
+Custer,04,Initiated Measure 27,,No,,291
+Custer,05,Initiated Measure 27,,Yes,,310
+Custer,05,Initiated Measure 27,,No,,380
+Custer,06,Initiated Measure 27,,Yes,,169
+Custer,06,Initiated Measure 27,,No,,183
+Custer,07,Initiated Measure 27,,Yes,,104
+Custer,07,Initiated Measure 27,,No,,120
+Custer,08,Initiated Measure 27,,Yes,,173
+Custer,08,Initiated Measure 27,,No,,243
+Custer,09,Initiated Measure 27,,Yes,,563
+Custer,09,Initiated Measure 27,,No,,729
+Custer,10,Initiated Measure 27,,Yes,,73
+Custer,10,Initiated Measure 27,,No,,114

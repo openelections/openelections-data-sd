@@ -1,0 +1,191 @@
+county,precinct,office,district,candidate,party,votes
+Hand,01,U.S. Senate,,Brian L. Bengs,DEM,16
+Hand,01,U.S. Senate,,Tamara J Lesnar,LIB,20
+Hand,01,U.S. Senate,,John R. Thune,REP,240
+Hand,02,U.S. Senate,,Brian L. Bengs,DEM,39
+Hand,02,U.S. Senate,,Tamara J Lesnar,LIB,14
+Hand,02,U.S. Senate,,John R. Thune,REP,213
+Hand,03,U.S. Senate,,Brian L. Bengs,DEM,55
+Hand,03,U.S. Senate,,Tamara J Lesnar,LIB,7
+Hand,03,U.S. Senate,,John R. Thune,REP,261
+Hand,04,U.S. Senate,,Brian L. Bengs,DEM,57
+Hand,04,U.S. Senate,,Tamara J Lesnar,LIB,15
+Hand,04,U.S. Senate,,John R. Thune,REP,269
+Hand,05,U.S. Senate,,Brian L. Bengs,DEM,31
+Hand,05,U.S. Senate,,Tamara J Lesnar,LIB,14
+Hand,05,U.S. Senate,,John R. Thune,REP,259
+Hand,01,U.S. House,1,Collin Duprel,LIB,27
+Hand,01,U.S. House,1,Dusty Johnson,REP,240
+Hand,02,U.S. House,1,Collin Duprel,LIB,36
+Hand,02,U.S. House,1,Dusty Johnson,REP,220
+Hand,03,U.S. House,1,Collin Duprel,LIB,50
+Hand,03,U.S. House,1,Dusty Johnson,REP,262
+Hand,04,U.S. House,1,Collin Duprel,LIB,50
+Hand,04,U.S. House,1,Dusty Johnson,REP,276
+Hand,05,U.S. House,1,Collin Duprel,LIB,34
+Hand,05,U.S. House,1,Dusty Johnson,REP,261
+Hand,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,30
+Hand,01,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Hand,01,Governor,,Kristi Noem and Larry Rhoden,REP,241
+Hand,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,53
+Hand,02,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Hand,02,Governor,,Kristi Noem and Larry Rhoden,REP,198
+Hand,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
+Hand,03,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Hand,03,Governor,,Kristi Noem and Larry Rhoden,REP,232
+Hand,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,81
+Hand,04,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Hand,04,Governor,,Kristi Noem and Larry Rhoden,REP,254
+Hand,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Hand,05,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Hand,05,Governor,,Kristi Noem and Larry Rhoden,REP,252
+Hand,01,Secretary of State,,Thomas A Cool,DEM,30
+Hand,01,Secretary of State,,Monae Johnson,REP,238
+Hand,02,Secretary of State,,Thomas A Cool,DEM,62
+Hand,02,Secretary of State,,Monae Johnson,REP,196
+Hand,03,Secretary of State,,Thomas A Cool,DEM,83
+Hand,03,Secretary of State,,Monae Johnson,REP,222
+Hand,04,Secretary of State,,Thomas A Cool,DEM,85
+Hand,04,Secretary of State,,Monae Johnson,REP,231
+Hand,05,Secretary of State,,Thomas A Cool,DEM,48
+Hand,05,Secretary of State,,Monae Johnson,REP,247
+Hand,01,Attorney General,,Marty J. Jackley,REP,239
+Hand,02,Attorney General,,Marty J. Jackley,REP,229
+Hand,03,Attorney General,,Marty J. Jackley,REP,269
+Hand,04,Attorney General,,Marty J. Jackley,REP,258
+Hand,05,Attorney General,,Marty J. Jackley,REP,271
+Hand,01,State Auditor,,Stephanie Marty,DEM,28
+Hand,01,State Auditor,,Rene Meyer,LIB,10
+Hand,01,State Auditor,,Richard Sattgast,REP,220
+Hand,02,State Auditor,,Stephanie Marty,DEM,46
+Hand,02,State Auditor,,Rene Meyer,LIB,10
+Hand,02,State Auditor,,Richard Sattgast,REP,199
+Hand,03,State Auditor,,Stephanie Marty,DEM,69
+Hand,03,State Auditor,,Rene Meyer,LIB,13
+Hand,03,State Auditor,,Richard Sattgast,REP,223
+Hand,04,State Auditor,,Stephanie Marty,DEM,77
+Hand,04,State Auditor,,Rene Meyer,LIB,17
+Hand,04,State Auditor,,Richard Sattgast,REP,232
+Hand,05,State Auditor,,Stephanie Marty,DEM,39
+Hand,05,State Auditor,,Rene Meyer,LIB,10
+Hand,05,State Auditor,,Richard Sattgast,REP,250
+Hand,01,State Treasurer,,John Cunningham,DEM,20
+Hand,01,State Treasurer,,Josh Haeder,REP,240
+Hand,02,State Treasurer,,John Cunningham,DEM,46
+Hand,02,State Treasurer,,Josh Haeder,REP,211
+Hand,03,State Treasurer,,John Cunningham,DEM,64
+Hand,03,State Treasurer,,Josh Haeder,REP,243
+Hand,04,State Treasurer,,John Cunningham,DEM,58
+Hand,04,State Treasurer,,Josh Haeder,REP,267
+Hand,05,State Treasurer,,John Cunningham,DEM,38
+Hand,05,State Treasurer,,Josh Haeder,REP,258
+Hand,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,26
+Hand,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,229
+Hand,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,48
+Hand,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,191
+Hand,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,73
+Hand,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,219
+Hand,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,74
+Hand,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,238
+Hand,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Hand,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,247
+Hand,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,33
+Hand,01,Public Utilities Commissioner,,Chris Nelson,REP,228
+Hand,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,51
+Hand,02,Public Utilities Commissioner,,Chris Nelson,REP,204
+Hand,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,63
+Hand,03,Public Utilities Commissioner,,Chris Nelson,REP,238
+Hand,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,80
+Hand,04,Public Utilities Commissioner,,Chris Nelson,REP,243
+Hand,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,55
+Hand,05,Public Utilities Commissioner,,Chris Nelson,REP,246
+Hand,01,State Senate,23,Bryan J. Breitling,REP,219
+Hand,02,State Senate,23,Bryan J. Breitling,REP,209
+Hand,03,State Senate,23,Bryan J. Breitling,REP,243
+Hand,04,State Senate,23,Bryan J. Breitling,REP,249
+Hand,05,State Senate,23,Bryan J. Breitling,REP,246
+Hand,01,State House,23,James D. Wangsness,REP,180
+Hand,01,State House,23,Scott Moore,REP,187
+Hand,02,State House,23,James D. Wangsness,REP,198
+Hand,02,State House,23,Scott Moore,REP,147
+Hand,03,State House,23,James D. Wangsness,REP,216
+Hand,03,State House,23,Scott Moore,REP,179
+Hand,04,State House,23,James D. Wangsness,REP,201
+Hand,04,State House,23,Scott Moore,REP,180
+Hand,05,State House,23,James D. Wangsness,REP,182
+Hand,05,State House,23,Scott Moore,REP,205
+Hand,01,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,146
+Hand,02,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,156
+Hand,03,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,157
+Hand,04,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,148
+Hand,05,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,180
+Hand,01,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,147
+Hand,02,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,151
+Hand,03,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,157
+Hand,04,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,146
+Hand,05,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,178
+Hand,01,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,150
+Hand,02,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,164
+Hand,03,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,165
+Hand,04,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,170
+Hand,05,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,179
+Hand,01,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,143
+Hand,02,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,146
+Hand,03,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,154
+Hand,04,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,143
+Hand,05,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,175
+Hand,01,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,54
+Hand,01,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,109
+Hand,02,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,72
+Hand,02,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,106
+Hand,03,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,69
+Hand,03,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,125
+Hand,04,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,81
+Hand,04,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,112
+Hand,05,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,56
+Hand,05,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,149
+Hand,01,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,135
+Hand,02,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,143
+Hand,03,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,149
+Hand,04,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,137
+Hand,05,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,175
+Hand,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,217
+Hand,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Hand,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,215
+Hand,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Hand,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,233
+Hand,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,40
+Hand,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,234
+Hand,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,47
+Hand,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,236
+Hand,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,40
+Hand,01,Supreme Court Retention,2,Mark E. Salter - Yes,,215
+Hand,01,Supreme Court Retention,2,Mark E. Salter - No,,19
+Hand,02,Supreme Court Retention,2,Mark E. Salter - Yes,,213
+Hand,02,Supreme Court Retention,2,Mark E. Salter - No,,27
+Hand,03,Supreme Court Retention,2,Mark E. Salter - Yes,,231
+Hand,03,Supreme Court Retention,2,Mark E. Salter - No,,42
+Hand,04,Supreme Court Retention,2,Mark E. Salter - Yes,,236
+Hand,04,Supreme Court Retention,2,Mark E. Salter - No,,42
+Hand,05,Supreme Court Retention,2,Mark E. Salter - Yes,,233
+Hand,05,Supreme Court Retention,2,Mark E. Salter - No,,39
+Hand,01,Constitutional Amendment D,,Yes,,122
+Hand,01,Constitutional Amendment D,,No,,143
+Hand,02,Constitutional Amendment D,,Yes,,143
+Hand,02,Constitutional Amendment D,,No,,113
+Hand,03,Constitutional Amendment D,,Yes,,174
+Hand,03,Constitutional Amendment D,,No,,135
+Hand,04,Constitutional Amendment D,,Yes,,182
+Hand,04,Constitutional Amendment D,,No,,151
+Hand,05,Constitutional Amendment D,,Yes,,121
+Hand,05,Constitutional Amendment D,,No,,180
+Hand,01,Initiated Measure 27,,Yes,,54
+Hand,01,Initiated Measure 27,,No,,220
+Hand,02,Initiated Measure 27,,Yes,,97
+Hand,02,Initiated Measure 27,,No,,164
+Hand,03,Initiated Measure 27,,Yes,,108
+Hand,03,Initiated Measure 27,,No,,207
+Hand,04,Initiated Measure 27,,Yes,,102
+Hand,04,Initiated Measure 27,,No,,232
+Hand,05,Initiated Measure 27,,Yes,,67
+Hand,05,Initiated Measure 27,,No,,237

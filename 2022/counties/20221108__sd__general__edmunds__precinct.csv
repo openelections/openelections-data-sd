@@ -1,0 +1,211 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,1,U.S. Senate,,Brian L. Bengs,DEM,65
+Edmunds,1,U.S. Senate,,Tamara J Lesnar,LIB,7
+Edmunds,1,U.S. Senate,,John R. Thune,REP,312
+Edmunds,2,U.S. Senate,,Brian L. Bengs,DEM,45
+Edmunds,2,U.S. Senate,,Tamara J Lesnar,LIB,12
+Edmunds,2,U.S. Senate,,John R. Thune,REP,281
+Edmunds,3,U.S. Senate,,Brian L. Bengs,DEM,36
+Edmunds,3,U.S. Senate,,Tamara J Lesnar,LIB,12
+Edmunds,3,U.S. Senate,,John R. Thune,REP,237
+Edmunds,4,U.S. Senate,,Brian L. Bengs,DEM,45
+Edmunds,4,U.S. Senate,,Tamara J Lesnar,LIB,6
+Edmunds,4,U.S. Senate,,John R. Thune,REP,190
+Edmunds,5,U.S. Senate,,Brian L. Bengs,DEM,45
+Edmunds,5,U.S. Senate,,Tamara J Lesnar,LIB,7
+Edmunds,5,U.S. Senate,,John R. Thune,REP,257
+Edmunds,6,U.S. Senate,,Brian L. Bengs,DEM,17
+Edmunds,6,U.S. Senate,,Tamara J Lesnar,LIB,5
+Edmunds,6,U.S. Senate,,John R. Thune,REP,108
+Edmunds,1,U.S. House,1,Collin Duprel,LIB,46
+Edmunds,1,U.S. House,1,Dusty Johnson,REP,327
+Edmunds,2,U.S. House,1,Collin Duprel,LIB,42
+Edmunds,2,U.S. House,1,Dusty Johnson,REP,286
+Edmunds,3,U.S. House,1,Collin Duprel,LIB,29
+Edmunds,3,U.S. House,1,Dusty Johnson,REP,246
+Edmunds,4,U.S. House,1,Collin Duprel,LIB,28
+Edmunds,4,U.S. House,1,Dusty Johnson,REP,206
+Edmunds,5,U.S. House,1,Collin Duprel,LIB,39
+Edmunds,5,U.S. House,1,Dusty Johnson,REP,264
+Edmunds,6,U.S. House,1,Collin Duprel,LIB,16
+Edmunds,6,U.S. House,1,Dusty Johnson,REP,111
+Edmunds,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,85
+Edmunds,1,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Edmunds,1,Governor,,Kristi Noem and Larry Rhoden,REP,293
+Edmunds,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,67
+Edmunds,2,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Edmunds,2,Governor,,Kristi Noem and Larry Rhoden,REP,263
+Edmunds,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Edmunds,3,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Edmunds,3,Governor,,Kristi Noem and Larry Rhoden,REP,237
+Edmunds,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,52
+Edmunds,4,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Edmunds,4,Governor,,Kristi Noem and Larry Rhoden,REP,187
+Edmunds,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,64
+Edmunds,5,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Edmunds,5,Governor,,Kristi Noem and Larry Rhoden,REP,246
+Edmunds,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,30
+Edmunds,6,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Edmunds,6,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Edmunds,1,Secretary of State,,Thomas A Cool,DEM,92
+Edmunds,1,Secretary of State,,Monae Johnson,REP,280
+Edmunds,2,Secretary of State,,Thomas A Cool,DEM,76
+Edmunds,2,Secretary of State,,Monae Johnson,REP,239
+Edmunds,3,Secretary of State,,Thomas A Cool,DEM,53
+Edmunds,3,Secretary of State,,Monae Johnson,REP,206
+Edmunds,4,Secretary of State,,Thomas A Cool,DEM,68
+Edmunds,4,Secretary of State,,Monae Johnson,REP,164
+Edmunds,5,Secretary of State,,Thomas A Cool,DEM,58
+Edmunds,5,Secretary of State,,Monae Johnson,REP,236
+Edmunds,6,Secretary of State,,Thomas A Cool,DEM,32
+Edmunds,6,Secretary of State,,Monae Johnson,REP,90
+Edmunds,1,Attorney General,,Marty J. Jackley,REP,318
+Edmunds,2,Attorney General,,Marty J. Jackley,REP,269
+Edmunds,3,Attorney General,,Marty J. Jackley,REP,238
+Edmunds,4,Attorney General,,Marty J. Jackley,REP,193
+Edmunds,5,Attorney General,,Marty J. Jackley,REP,268
+Edmunds,6,Attorney General,,Marty J. Jackley,REP,112
+Edmunds,1,State Auditor,,Stephanie Marty,DEM,80
+Edmunds,1,State Auditor,,Rene Meyer,LIB,12
+Edmunds,1,State Auditor,,Richard Sattgast,REP,277
+Edmunds,2,State Auditor,,Stephanie Marty,DEM,58
+Edmunds,2,State Auditor,,Rene Meyer,LIB,17
+Edmunds,2,State Auditor,,Richard Sattgast,REP,240
+Edmunds,3,State Auditor,,Stephanie Marty,DEM,42
+Edmunds,3,State Auditor,,Rene Meyer,LIB,3
+Edmunds,3,State Auditor,,Richard Sattgast,REP,216
+Edmunds,4,State Auditor,,Stephanie Marty,DEM,62
+Edmunds,4,State Auditor,,Rene Meyer,LIB,7
+Edmunds,4,State Auditor,,Richard Sattgast,REP,152
+Edmunds,5,State Auditor,,Stephanie Marty,DEM,54
+Edmunds,5,State Auditor,,Rene Meyer,LIB,9
+Edmunds,5,State Auditor,,Richard Sattgast,REP,231
+Edmunds,6,State Auditor,,Stephanie Marty,DEM,31
+Edmunds,6,State Auditor,,Rene Meyer,LIB,3
+Edmunds,6,State Auditor,,Richard Sattgast,REP,89
+Edmunds,1,State Treasurer,,John Cunningham,DEM,81
+Edmunds,1,State Treasurer,,Josh Haeder,REP,289
+Edmunds,2,State Treasurer,,John Cunningham,DEM,71
+Edmunds,2,State Treasurer,,Josh Haeder,REP,241
+Edmunds,3,State Treasurer,,John Cunningham,DEM,45
+Edmunds,3,State Treasurer,,Josh Haeder,REP,217
+Edmunds,4,State Treasurer,,John Cunningham,DEM,68
+Edmunds,4,State Treasurer,,Josh Haeder,REP,151
+Edmunds,5,State Treasurer,,John Cunningham,DEM,56
+Edmunds,5,State Treasurer,,Josh Haeder,REP,235
+Edmunds,6,State Treasurer,,John Cunningham,DEM,25
+Edmunds,6,State Treasurer,,Josh Haeder,REP,97
+Edmunds,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,75
+Edmunds,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,294
+Edmunds,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Edmunds,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,242
+Edmunds,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,41
+Edmunds,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,222
+Edmunds,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Edmunds,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,162
+Edmunds,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,48
+Edmunds,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,241
+Edmunds,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,27
+Edmunds,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,96
+Edmunds,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,72
+Edmunds,1,Public Utilities Commissioner,,Chris Nelson,REP,301
+Edmunds,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,58
+Edmunds,2,Public Utilities Commissioner,,Chris Nelson,REP,252
+Edmunds,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,47
+Edmunds,3,Public Utilities Commissioner,,Chris Nelson,REP,228
+Edmunds,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Edmunds,4,Public Utilities Commissioner,,Chris Nelson,REP,181
+Edmunds,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,46
+Edmunds,5,Public Utilities Commissioner,,Chris Nelson,REP,252
+Edmunds,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,25
+Edmunds,6,Public Utilities Commissioner,,Chris Nelson,REP,102
+Edmunds,1,State Senate,23,Bryan J. Breitling,REP,301
+Edmunds,2,State Senate,23,Bryan J. Breitling,REP,277
+Edmunds,3,State Senate,23,Bryan J. Breitling,REP,233
+Edmunds,4,State Senate,23,Bryan J. Breitling,REP,207
+Edmunds,5,State Senate,23,Bryan J. Breitling,REP,266
+Edmunds,6,State Senate,23,Bryan J. Breitling,REP,111
+Edmunds,1,State House,23,James D. Wangsness,REP,170
+Edmunds,1,State House,23,Scott Moore,REP,287
+Edmunds,2,State House,23,James D. Wangsness,REP,159
+Edmunds,2,State House,23,Scott Moore,REP,232
+Edmunds,3,State House,23,James D. Wangsness,REP,126
+Edmunds,3,State House,23,Scott Moore,REP,203
+Edmunds,4,State House,23,James D. Wangsness,REP,104
+Edmunds,4,State House,23,Scott Moore,REP,180
+Edmunds,5,State House,23,James D. Wangsness,REP,118
+Edmunds,5,State House,23,Scott Moore,REP,230
+Edmunds,6,State House,23,James D. Wangsness,REP,46
+Edmunds,6,State House,23,Scott Moore,REP,100
+Edmunds,1,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,223
+Edmunds,2,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,200
+Edmunds,3,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,141
+Edmunds,4,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,127
+Edmunds,5,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,153
+Edmunds,6,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,75
+Edmunds,1,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,224
+Edmunds,2,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,183
+Edmunds,3,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,131
+Edmunds,4,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,116
+Edmunds,5,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,150
+Edmunds,6,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,71
+Edmunds,1,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,202
+Edmunds,2,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,177
+Edmunds,3,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,125
+Edmunds,4,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,121
+Edmunds,5,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,147
+Edmunds,6,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,67
+Edmunds,1,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,222
+Edmunds,2,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,184
+Edmunds,3,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,132
+Edmunds,4,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,122
+Edmunds,5,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,149
+Edmunds,6,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,66
+Edmunds,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,266
+Edmunds,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,61
+Edmunds,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,252
+Edmunds,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,48
+Edmunds,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,195
+Edmunds,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Edmunds,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,162
+Edmunds,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Edmunds,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,217
+Edmunds,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,53
+Edmunds,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,88
+Edmunds,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Edmunds,1,Supreme Court Retention,2,Mark E. Salter - Yes,,273
+Edmunds,1,Supreme Court Retention,2,Mark E. Salter - No,,54
+Edmunds,2,Supreme Court Retention,2,Mark E. Salter - Yes,,254
+Edmunds,2,Supreme Court Retention,2,Mark E. Salter - No,,45
+Edmunds,3,Supreme Court Retention,2,Mark E. Salter - Yes,,198
+Edmunds,3,Supreme Court Retention,2,Mark E. Salter - No,,37
+Edmunds,4,Supreme Court Retention,2,Mark E. Salter - Yes,,162
+Edmunds,4,Supreme Court Retention,2,Mark E. Salter - No,,41
+Edmunds,5,Supreme Court Retention,2,Mark E. Salter - Yes,,219
+Edmunds,5,Supreme Court Retention,2,Mark E. Salter - No,,51
+Edmunds,6,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Edmunds,6,Supreme Court Retention,2,Mark E. Salter - No,,25
+Edmunds,1,Constitutional Amendment D,,Yes,,164
+Edmunds,1,Constitutional Amendment D,,No,,215
+Edmunds,2,Constitutional Amendment D,,Yes,,150
+Edmunds,2,Constitutional Amendment D,,No,,175
+Edmunds,3,Constitutional Amendment D,,Yes,,95
+Edmunds,3,Constitutional Amendment D,,No,,173
+Edmunds,4,Constitutional Amendment D,,Yes,,111
+Edmunds,4,Constitutional Amendment D,,No,,122
+Edmunds,5,Constitutional Amendment D,,Yes,,108
+Edmunds,5,Constitutional Amendment D,,No,,195
+Edmunds,6,Constitutional Amendment D,,Yes,,50
+Edmunds,6,Constitutional Amendment D,,No,,72
+Edmunds,1,Initiated Measure 27,,Yes,,161
+Edmunds,1,Initiated Measure 27,,No,,223
+Edmunds,2,Initiated Measure 27,,Yes,,124
+Edmunds,2,Initiated Measure 27,,No,,210
+Edmunds,3,Initiated Measure 27,,Yes,,79
+Edmunds,3,Initiated Measure 27,,No,,199
+Edmunds,4,Initiated Measure 27,,Yes,,86
+Edmunds,4,Initiated Measure 27,,No,,153
+Edmunds,5,Initiated Measure 27,,Yes,,85
+Edmunds,5,Initiated Measure 27,,No,,221
+Edmunds,6,Initiated Measure 27,,Yes,,54
+Edmunds,6,Initiated Measure 27,,No,,69
