@@ -1,0 +1,783 @@
+county,precinct,office,district,candidate,party,votes
+Meade,ALKALI #6A,President,,Marianne Williamson,DEM,1
+Meade,ALKALI #6A,President,,Joseph R Biden Jr,DEM,1
+Meade,ALKALI #6A,President,,Dean Phillips,DEM,1
+Meade,ALKALI #6A,President,,Armando Perez-Serrano,DEM,1
+Meade,BASE #23,President,,Marianne Williamson,DEM,2
+Meade,BASE #23,President,,Joseph R Biden Jr,DEM,9
+Meade,BASE #23,President,,Dean Phillips,DEM,1
+Meade,BASE #23,President,,Armando Perez-Serrano,DEM,1
+Meade,BEAR BUTTE #9,President,,Marianne Williamson,DEM,1
+Meade,BEAR BUTTE #9,President,,Joseph R Biden Jr,DEM,2
+Meade,BEAR BUTTE #9,President,,Dean Phillips,DEM,2
+Meade,BEAR BUTTE #9,President,,Armando Perez-Serrano,DEM,0
+Meade,BLACK HAWK #14,President,,Marianne Williamson,DEM,1
+Meade,BLACK HAWK #14,President,,Joseph R Biden Jr,DEM,4
+Meade,BLACK HAWK #14,President,,Dean Phillips,DEM,0
+Meade,BLACK HAWK #14,President,,Armando Perez-Serrano,DEM,1
+Meade,CENTRAL BLACK HAWK #19,President,,Marianne Williamson,DEM,8
+Meade,CENTRAL BLACK HAWK #19,President,,Joseph R Biden Jr,DEM,29
+Meade,CENTRAL BLACK HAWK #19,President,,Dean Phillips,DEM,6
+Meade,CENTRAL BLACK HAWK #19,President,,Armando Perez-Serrano,DEM,1
+Meade,CENTRAL STURGIS #3,President,,Marianne Williamson,DEM,0
+Meade,CENTRAL STURGIS #3,President,,Joseph R Biden Jr,DEM,15
+Meade,CENTRAL STURGIS #3,President,,Dean Phillips,DEM,1
+Meade,CENTRAL STURGIS #3,President,,Armando Perez-Serrano,DEM,2
+Meade,HALK BUTTE #27,President,,Marianne Williamson,DEM,0
+Meade,HALK BUTTE #27,President,,Joseph R Biden Jr,DEM,5
+Meade,HALK BUTTE #27,President,,Dean Phillips,DEM,2
+Meade,HALK BUTTE #27,President,,Armando Perez-Serrano,DEM,0
+Meade,EAST ELK VALE #21A,President,,Marianne Williamson,DEM,2
+Meade,EAST ELK VALE #21A,President,,Joseph R Biden Jr,DEM,1
+Meade,EAST ELK VALE #21A,President,,Dean Phillips,DEM,0
+Meade,EAST ELK VALE #21A,President,,Armando Perez-Serrano,DEM,0
+Meade,EAST PIEDMONT #12A,President,,Marianne Williamson,DEM,0
+Meade,EAST PIEDMONT #12A,President,,Joseph R Biden Jr,DEM,3
+Meade,EAST PIEDMONT #12A,President,,Dean Phillips,DEM,0
+Meade,EAST PIEDMONT #12A,President,,Armando Perez-Serrano,DEM,0
+Meade,EAST STURGIS #1,President,,Marianne Williamson,DEM,2
+Meade,EAST STURGIS #1,President,,Joseph R Biden Jr,DEM,11
+Meade,EAST STURGIS #1,President,,Dean Phillips,DEM,1
+Meade,EAST STURGIS #1,President,,Armando Perez-Serrano,DEM,0
+Meade,ELK VALE #21,President,,Marianne Williamson,DEM,0
+Meade,ELK VALE #21,President,,Joseph R Biden Jr,DEM,1
+Meade,ELK VALE #21,President,,Dean Phillips,DEM,1
+Meade,ELK VALE #21,President,,Armando Perez-Serrano,DEM,0
+Meade,ELM SPRINGS #18,President,,Marianne Williamson,DEM,1
+Meade,ELM SPRINGS #18,President,,Joseph R Biden Jr,DEM,2
+Meade,ELM SPRINGS #18,President,,Dean Phillips,DEM,0
+Meade,ELM SPRINGS #18,President,,Armando Perez-Serrano,DEM,0
+Meade,FAIRPOINT #29,President,,Marianne Williamson,DEM,1
+Meade,FAIRPOINT #29,President,,Joseph R Biden Jr,DEM,0
+Meade,FAIRPOINT #29,President,,Dean Phillips,DEM,0
+Meade,FAIRPOINT #29,President,,Armando Perez-Serrano,DEM,0
+Meade,FAITH #31,President,,Marianne Williamson,DEM,3
+Meade,FAITH #31,President,,Joseph R Biden Jr,DEM,4
+Meade,FAITH #31,President,,Dean Phillips,DEM,1
+Meade,FAITH #31,President,,Armando Perez-Serrano,DEM,0
+Meade,FORT MEADE #1A,President,,Marianne Williamson,DEM,0
+Meade,FORT MEADE #1A,President,,Joseph R Biden Jr,DEM,0
+Meade,FORT MEADE #1A,President,,Dean Phillips,DEM,0
+Meade,FORT MEADE #1A,President,,Armando Perez-Serrano,DEM,0
+Meade,HARMONY #8,President,,Marianne Williamson,DEM,2
+Meade,HARMONY #8,President,,Joseph R Biden Jr,DEM,15
+Meade,HARMONY #8,President,,Dean Phillips,DEM,0
+Meade,HARMONY #8,President,,Armando Perez-Serrano,DEM,0
+Meade,HEREFORD #20,President,,Marianne Williamson,DEM,2
+Meade,HEREFORD #20,President,,Joseph R Biden Jr,DEM,1
+Meade,HEREFORD #20,President,,Dean Phillips,DEM,1
+Meade,HEREFORD #20,President,,Armando Perez-Serrano,DEM,0
+Meade,MARCUS #41,President,,Marianne Williamson,DEM,0
+Meade,MARCUS #41,President,,Joseph R Biden Jr,DEM,0
+Meade,MARCUS #41,President,,Dean Phillips,DEM,0
+Meade,MARCUS #41,President,,Armando Perez-Serrano,DEM,0
+Meade,NORTHEAST PIEDMONT #12,President,,Marianne Williamson,DEM,1
+Meade,NORTHEAST PIEDMONT #12,President,,Joseph R Biden Jr,DEM,17
+Meade,NORTHEAST PIEDMONT #12,President,,Dean Phillips,DEM,2
+Meade,NORTHEAST PIEDMONT #12,President,,Armando Perez-Serrano,DEM,0
+Meade,NORTHEAST STURGIS #1-A,President,,Marianne Williamson,DEM,0
+Meade,NORTHEAST STURGIS #1-A,President,,Joseph R Biden Jr,DEM,5
+Meade,NORTHEAST STURGIS #1-A,President,,Dean Phillips,DEM,0
+Meade,NORTHEAST STURGIS #1-A,President,,Armando Perez-Serrano,DEM,0
+Meade,NORTHWEST STURGIS #5,President,,Marianne Williamson,DEM,6
+Meade,NORTHWEST STURGIS #5,President,,Joseph R Biden Jr,DEM,10
+Meade,NORTHWEST STURGIS #5,President,,Dean Phillips,DEM,0
+Meade,NORTHWEST STURGIS #5,President,,Armando Perez-Serrano,DEM,1
+Meade,PIEDMONT CENTRAL #11A,President,,Marianne Williamson,DEM,2
+Meade,PIEDMONT CENTRAL #11A,President,,Joseph R Biden Jr,DEM,6
+Meade,PIEDMONT CENTRAL #11A,President,,Dean Phillips,DEM,0
+Meade,PIEDMONT CENTRAL #11A,President,,Armando Perez-Serrano,DEM,1
+Meade,PIEDMONT WEST #11,President,,Marianne Williamson,DEM,3
+Meade,PIEDMONT WEST #11,President,,Joseph R Biden Jr,DEM,13
+Meade,PIEDMONT WEST #11,President,,Dean Phillips,DEM,3
+Meade,PIEDMONT WEST #11,President,,Armando Perez-Serrano,DEM,0
+Meade,PINE #33,President,,Marianne Williamson,DEM,0
+Meade,PINE #33,President,,Joseph R Biden Jr,DEM,0
+Meade,PINE #33,President,,Dean Phillips,DEM,0
+Meade,PINE #33,President,,Armando Perez-Serrano,DEM,0
+Meade,RED OWL #30,President,,Marianne Williamson,DEM,1
+Meade,RED OWL #30,President,,Joseph R Biden Jr,DEM,2
+Meade,RED OWL #30,President,,Dean Phillips,DEM,0
+Meade,RED OWL #30,President,,Armando Perez-Serrano,DEM,0
+Meade,RURAL BLACK HAWK #15,President,,Marianne Williamson,DEM,1
+Meade,RURAL BLACK HAWK #15,President,,Joseph R Biden Jr,DEM,9
+Meade,RURAL BLACK HAWK #15,President,,Dean Phillips,DEM,1
+Meade,RURAL BLACK HAWK #15,President,,Armando Perez-Serrano,DEM,1
+Meade,RURAL STURGIS #7,President,,Marianne Williamson,DEM,2
+Meade,RURAL STURGIS #7,President,,Joseph R Biden Jr,DEM,14
+Meade,RURAL STURGIS #7,President,,Dean Phillips,DEM,1
+Meade,RURAL STURGIS #7,President,,Armando Perez-Serrano,DEM,0
+Meade,SOUTH STURGIS #2A,President,,Marianne Williamson,DEM,1
+Meade,SOUTH STURGIS #2A,President,,Joseph R Biden Jr,DEM,26
+Meade,SOUTH STURGIS #2A,President,,Dean Phillips,DEM,3
+Meade,SOUTH STURGIS #2A,President,,Armando Perez-Serrano,DEM,5
+Meade,SOUTHEAST PIEDMONT #13,President,,Marianne Williamson,DEM,3
+Meade,SOUTHEAST PIEDMONT #13,President,,Joseph R Biden Jr,DEM,22
+Meade,SOUTHEAST PIEDMONT #13,President,,Dean Phillips,DEM,5
+Meade,SOUTHEAST PIEDMONT #13,President,,Armando Perez-Serrano,DEM,1
+Meade,SOUTHEAST STURGIS #2,President,,Marianne Williamson,DEM,2
+Meade,SOUTHEAST STURGIS #2,President,,Joseph R Biden Jr,DEM,16
+Meade,SOUTHEAST STURGIS #2,President,,Dean Phillips,DEM,4
+Meade,SOUTHEAST STURGIS #2,President,,Armando Perez-Serrano,DEM,1
+Meade,SOUTHWEST STURGIS #4A,President,,Marianne Williamson,DEM,0
+Meade,SOUTHWEST STURGIS #4A,President,,Joseph R Biden Jr,DEM,19
+Meade,SOUTHWEST STURGIS #4A,President,,Dean Phillips,DEM,0
+Meade,SOUTHWEST STURGIS #4A,President,,Armando Perez-Serrano,DEM,0
+Meade,STURGIS #5A,President,,Marianne Williamson,DEM,1
+Meade,STURGIS #5A,President,,Joseph R Biden Jr,DEM,18
+Meade,STURGIS #5A,President,,Dean Phillips,DEM,0
+Meade,STURGIS #5A,President,,Armando Perez-Serrano,DEM,2
+Meade,SULPHUR #35,President,,Marianne Williamson,DEM,0
+Meade,SULPHUR #35,President,,Joseph R Biden Jr,DEM,0
+Meade,SULPHUR #35,President,,Dean Phillips,DEM,0
+Meade,SULPHUR #35,President,,Armando Perez-Serrano,DEM,0
+Meade,SUMMERSET #10,President,,Marianne Williamson,DEM,14
+Meade,SUMMERSET #10,President,,Joseph R Biden Jr,DEM,28
+Meade,SUMMERSET #10,President,,Dean Phillips,DEM,7
+Meade,SUMMERSET #10,President,,Armando Perez-Serrano,DEM,2
+Meade,TILTFORD #6,President,,Marianne Williamson,DEM,3
+Meade,TILTFORD #6,President,,Joseph R Biden Jr,DEM,19
+Meade,TILTFORD #6,President,,Dean Phillips,DEM,1
+Meade,TILTFORD #6,President,,Armando Perez-Serrano,DEM,0
+Meade,UNION #40,President,,Marianne Williamson,DEM,1
+Meade,UNION #40,President,,Joseph R Biden Jr,DEM,2
+Meade,UNION #40,President,,Dean Phillips,DEM,0
+Meade,UNION #40,President,,Armando Perez-Serrano,DEM,0
+Meade,VIEWFIELD #17,President,,Marianne Williamson,DEM,0
+Meade,VIEWFIELD #17,President,,Joseph R Biden Jr,DEM,0
+Meade,VIEWFIELD #17,President,,Dean Phillips,DEM,2
+Meade,VIEWFIELD #17,President,,Armando Perez-Serrano,DEM,0
+Meade,WEST BLACK HAWK #16,President,,Marianne Williamson,DEM,4
+Meade,WEST BLACK HAWK #16,President,,Joseph R Biden Jr,DEM,15
+Meade,WEST BLACK HAWK #16,President,,Dean Phillips,DEM,4
+Meade,WEST BLACK HAWK #16,President,,Armando Perez-Serrano,DEM,0
+Meade,WEST ELK VALE #24,President,,Marianne Williamson,DEM,0
+Meade,WEST ELK VALE #24,President,,Joseph R Biden Jr,DEM,4
+Meade,WEST ELK VALE #24,President,,Dean Phillips,DEM,0
+Meade,WEST ELK VALE #24,President,,Armando Perez-Serrano,DEM,0
+Meade,WEST STURGIS #4,President,,Marianne Williamson,DEM,1
+Meade,WEST STURGIS #4,President,,Joseph R Biden Jr,DEM,5
+Meade,WEST STURGIS #4,President,,Dean Phillips,DEM,0
+Meade,WEST STURGIS #4,President,,Armando Perez-Serrano,DEM,1
+Meade,WHITE OWL #25,President,,Marianne Williamson,DEM,0
+Meade,WHITE OWL #25,President,,Joseph R Biden Jr,DEM,0
+Meade,WHITE OWL #25,President,,Dean Phillips,DEM,1
+Meade,WHITE OWL #25,President,,Armando Perez-Serrano,DEM,0
+Meade,ALKALI #6A,State Senate,29,Kirk Chaffee,REP,31
+Meade,ALKALI #6A,State Senate,29,John Carley,REP,31
+Meade,BASE #23,State Senate,29,Kirk Chaffee,REP,9
+Meade,BASE #23,State Senate,29,John Carley,REP,23
+Meade,BEAR BUTTE #9,State Senate,29,Kirk Chaffee,REP,31
+Meade,BEAR BUTTE #9,State Senate,29,John Carley,REP,30
+Meade,BLACK HAWK #14,State Senate,29,Kirk Chaffee,REP,20
+Meade,BLACK HAWK #14,State Senate,29,John Carley,REP,56
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,David Johnson,REP,102
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,Curt Voight,REP,113
+Meade,CENTRAL STURGIS #3,State Senate,29,Kirk Chaffee,REP,43
+Meade,CENTRAL STURGIS #3,State Senate,29,John Carley,REP,47
+Meade,CHALK BUTTE #27,State Senate,29,Kirk Chaffee,REP,36
+Meade,CHALK BUTTE #27,State Senate,29,John Carley,REP,26
+Meade,EAST ELK VALE #21A,State Senate,29,Kirk Chaffee,REP,23
+Meade,EAST ELK VALE #21A,State Senate,29,John Carley,REP,78
+Meade,EAST PIEDMONT #12A,State Senate,29,Kirk Chaffee,REP,25
+Meade,EAST PIEDMONT #12A,State Senate,29,John Carley,REP,72
+Meade,EAST STURGIS #1,State Senate,29,Kirk Chaffee,REP,56
+Meade,EAST STURGIS #1,State Senate,29,John Carley,REP,52
+Meade,ELK VALE #21,State Senate,29,Kirk Chaffee,REP,7
+Meade,ELK VALE #21,State Senate,29,John Carley,REP,15
+Meade,ELM SPRINGS #18,State Senate,29,Kirk Chaffee,REP,21
+Meade,ELM SPRINGS #18,State Senate,29,John Carley,REP,33
+Meade,FAIRPOINT #29,State Senate,29,Kirk Chaffee,REP,11
+Meade,FAIRPOINT #29,State Senate,29,John Carley,REP,5
+Meade,FAITH #31,State Senate,29,Kirk Chaffee,REP,32
+Meade,FAITH #31,State Senate,29,John Carley,REP,44
+Meade,FORT MEADE #1A,State Senate,29,Kirk Chaffee,REP,5
+Meade,FORT MEADE #1A,State Senate,29,John Carley,REP,4
+Meade,HARMONY #8,State Senate,29,Kirk Chaffee,REP,64
+Meade,HARMONY #8,State Senate,29,John Carley,REP,79
+Meade,HEREFORD #20,State Senate,29,Kirk Chaffee,REP,14
+Meade,HEREFORD #20,State Senate,29,John Carley,REP,11
+Meade,MARCUS #41,State Senate,29,Kirk Chaffee,REP,10
+Meade,MARCUS #41,State Senate,29,John Carley,REP,14
+Meade,NORTHEAST PIEDMONT #12,State Senate,29,Kirk Chaffee,REP,58
+Meade,NORTHEAST PIEDMONT #12,State Senate,29,John Carley,REP,151
+Meade,NORTHEAST STURGIS #1-A,State Senate,29,Kirk Chaffee,REP,9
+Meade,NORTHEAST STURGIS #1-A,State Senate,29,John Carley,REP,17
+Meade,NORTHWEST STURGIS #5,State Senate,29,Kirk Chaffee,REP,34
+Meade,NORTHWEST STURGIS #5,State Senate,29,John Carley,REP,69
+Meade,PIEDMONT CENTRAL #11A,State Senate,29,Kirk Chaffee,REP,61
+Meade,PIEDMONT CENTRAL #11A,State Senate,29,John Carley,REP,164
+Meade,PIEDMONT WEST #11,State Senate,29,Kirk Chaffee,REP,58
+Meade,PIEDMONT WEST #11,State Senate,29,John Carley,REP,119
+Meade,PINE #33,State Senate,29,Kirk Chaffee,REP,9
+Meade,PINE #33,State Senate,29,John Carley,REP,32
+Meade,RED OWL #30,State Senate,29,Kirk Chaffee,REP,30
+Meade,RED OWL #30,State Senate,29,John Carley,REP,23
+Meade,RURAL BLACK HAWK #15,State Senate,29,Kirk Chaffee,REP,28
+Meade,RURAL BLACK HAWK #15,State Senate,29,John Carley,REP,80
+Meade,RURAL STURGIS #7,State Senate,29,Kirk Chaffee,REP,102
+Meade,RURAL STURGIS #7,State Senate,29,John Carley,REP,62
+Meade,SOUTH STURGIS #2A,State Senate,29,Kirk Chaffee,REP,65
+Meade,SOUTH STURGIS #2A,State Senate,29,John Carley,REP,47
+Meade,SOUTHEAST PIEDMONT #13,State Senate,29,Kirk Chaffee,REP,59
+Meade,SOUTHEAST PIEDMONT #13,State Senate,29,John Carley,REP,144
+Meade,SOUTHEAST STURGIS #2,State Senate,29,Kirk Chaffee,REP,110
+Meade,SOUTHEAST STURGIS #2,State Senate,29,John Carley,REP,103
+Meade,SOUTHWEST STURGIS #4A,State Senate,29,Kirk Chaffee,REP,43
+Meade,SOUTHWEST STURGIS #4A,State Senate,29,John Carley,REP,43
+Meade,STURGIS #5A,State Senate,29,Kirk Chaffee,REP,48
+Meade,STURGIS #5A,State Senate,29,John Carley,REP,38
+Meade,SULPHUR #35,State Senate,29,Kirk Chaffee,REP,5
+Meade,SULPHUR #35,State Senate,29,John Carley,REP,20
+Meade,SUMMERSET #10,State Senate,33,David Johnson,REP,150
+Meade,SUMMERSET #10,State Senate,33,Curt Voight,REP,136
+Meade,TILFORD #6,State Senate,29,Kirk Chaffee,REP,116
+Meade,TILFORD #6,State Senate,29,John Carley,REP,155
+Meade,UNION #40,State Senate,29,Kirk Chaffee,REP,6
+Meade,UNION #40,State Senate,29,John Carley,REP,7
+Meade,VIEWFIELD #17,State Senate,29,Kirk Chaffee,REP,27
+Meade,VIEWFIELD #17,State Senate,29,John Carley,REP,31
+Meade,WEST BLACK HAWK #16,State Senate,33,David Johnson,REP,35
+Meade,WEST BLACK HAWK #16,State Senate,33,Curt Voight,REP,58
+Meade,WEST ELK VALE #24,State Senate,29,Kirk Chaffee,REP,9
+Meade,WEST ELK VALE #24,State Senate,29,John Carley,REP,30
+Meade,WEST STURGIS #4,State Senate,29,Kirk Chaffee,REP,27
+Meade,WEST STURGIS #4,State Senate,29,John Carley,REP,24
+Meade,WHITE OWL #25,State Senate,29,Kirk Chaffee,REP,20
+Meade,WHITE OWL #25,State Senate,29,John Carley,REP,6
+Meade,ALKALI #6A,State House,29,Gary L. Cammack,REP,30
+Meade,ALKALI #6A,State House,29,Terri Jorgenson,REP,31
+Meade,ALKALI #6A,State House,29,Kathy Rice,REP,35
+Meade,BASE #23,State House,29,Gary L. Cammack,REP,11
+Meade,BASE #23,State House,29,Terri Jorgenson,REP,14
+Meade,BASE #23,State House,29,Kathy Rice,REP,20
+Meade,BEAR BUTTE #9,State House,29,Gary L. Cammack,REP,34
+Meade,BEAR BUTTE #9,State House,29,Terri Jorgenson,REP,36
+Meade,BEAR BUTTE #9,State House,29,Kathy Rice,REP,27
+Meade,BLACK HAWK #14,State House,29,Gary L. Cammack,REP,23
+Meade,BLACK HAWK #14,State House,29,Terri Jorgenson,REP,49
+Meade,BLACK HAWK #14,State House,29,Kathy Rice,REP,48
+Meade,CENTRAL STURGIS #3,State House,29,Gary L. Cammack,REP,41
+Meade,CENTRAL STURGIS #3,State House,29,Terri Jorgenson,REP,48
+Meade,CENTRAL STURGIS #3,State House,29,Kathy Rice,REP,47
+Meade,CHALK BUTTE #27,State House,29,Gary L. Cammack,REP,37
+Meade,CHALK BUTTE #27,State House,29,Terri Jorgenson,REP,32
+Meade,CHALK BUTTE #27,State House,29,Kathy Rice,REP,20
+Meade,EAST ELK VALE #21A,State House,29,Gary L. Cammack,REP,39
+Meade,EAST ELK VALE #21A,State House,29,Terri Jorgenson,REP,49
+Meade,EAST ELK VALE #21A,State House,29,Kathy Rice,REP,59
+Meade,EAST PIEDMONT #12A,State House,29,Gary L. Cammack,REP,38
+Meade,EAST PIEDMONT #12A,State House,29,Terri Jorgenson,REP,43
+Meade,EAST PIEDMONT #12A,State House,29,Kathy Rice,REP,70
+Meade,EAST STURGIS #1,State House,29,Gary L. Cammack,REP,54
+Meade,EAST STURGIS #1,State House,29,Terri Jorgenson,REP,49
+Meade,EAST STURGIS #1,State House,29,Kathy Rice,REP,48
+Meade,ELK VALE #21,State House,29,Gary L. Cammack,REP,5
+Meade,ELK VALE #21,State House,29,Terri Jorgenson,REP,11
+Meade,ELK VALE #21,State House,29,Kathy Rice,REP,15
+Meade,ELM SPRINGS #18,State House,29,Gary L. Cammack,REP,18
+Meade,ELM SPRINGS #18,State House,29,Terri Jorgenson,REP,28
+Meade,ELM SPRINGS #18,State House,29,Kathy Rice,REP,32
+Meade,FAIRPOINT #29,State House,29,Gary L. Cammack,REP,11
+Meade,FAIRPOINT #29,State House,29,Terri Jorgenson,REP,10
+Meade,FAIRPOINT #29,State House,29,Kathy Rice,REP,5
+Meade,FAITH #31,State House,29,Gary L. Cammack,REP,31
+Meade,FAITH #31,State House,29,Terri Jorgenson,REP,47
+Meade,FAITH #31,State House,29,Kathy Rice,REP,40
+Meade,FORT MEADE #1A,State House,29,Gary L. Cammack,REP,8
+Meade,FORT MEADE #1A,State House,29,Terri Jorgenson,REP,3
+Meade,FORT MEADE #1A,State House,29,Kathy Rice,REP,2
+Meade,HARMONY #8,State House,29,Gary L. Cammack,REP,66
+Meade,HARMONY #8,State House,29,Terri Jorgenson,REP,67
+Meade,HARMONY #8,State House,29,Kathy Rice,REP,75
+Meade,HEREFORD #20,State House,29,Gary L. Cammack,REP,15
+Meade,HEREFORD #20,State House,29,Terri Jorgenson,REP,16
+Meade,HEREFORD #20,State House,29,Kathy Rice,REP,9
+Meade,MARCUS #41,State House,29,Gary L. Cammack,REP,7
+Meade,MARCUS #41,State House,29,Terri Jorgenson,REP,13
+Meade,MARCUS #41,State House,29,Kathy Rice,REP,19
+Meade,NORTHEAST PIEDMONT #12,State House,29,Gary L. Cammack,REP,62
+Meade,NORTHEAST PIEDMONT #12,State House,29,Terri Jorgenson,REP,94
+Meade,NORTHEAST PIEDMONT #12,State House,29,Kathy Rice,REP,167
+Meade,NORTHEAST STURGIS #1-A,State House,29,Gary L. Cammack,REP,7
+Meade,NORTHEAST STURGIS #1-A,State House,29,Terri Jorgenson,REP,18
+Meade,NORTHEAST STURGIS #1-A,State House,29,Kathy Rice,REP,15
+Meade,NORTHWEST STURGIS #5,State House,29,Gary L. Cammack,REP,43
+Meade,NORTHWEST STURGIS #5,State House,29,Terri Jorgenson,REP,57
+Meade,NORTHWEST STURGIS #5,State House,29,Kathy Rice,REP,61
+Meade,PIEDMONT CENTRAL #11A,State House,29,Gary L. Cammack,REP,79
+Meade,PIEDMONT CENTRAL #11A,State House,29,Terri Jorgenson,REP,87
+Meade,PIEDMONT CENTRAL #11A,State House,29,Kathy Rice,REP,164
+Meade,PIEDMONT WEST #11,State House,29,Gary L. Cammack,REP,73
+Meade,PIEDMONT WEST #11,State House,29,Terri Jorgenson,REP,85
+Meade,PIEDMONT WEST #11,State House,29,Kathy Rice,REP,122
+Meade,PINE #33,State House,29,Gary L. Cammack,REP,6
+Meade,PINE #33,State House,29,Terri Jorgenson,REP,22
+Meade,PINE #33,State House,29,Kathy Rice,REP,34
+Meade,RED OWL #30,State House,29,Gary L. Cammack,REP,28
+Meade,RED OWL #30,State House,29,Terri Jorgenson,REP,28
+Meade,RED OWL #30,State House,29,Kathy Rice,REP,20
+Meade,RURAL BLACK HAWK #15,State House,29,Gary L. Cammack,REP,37
+Meade,RURAL BLACK HAWK #15,State House,29,Terri Jorgenson,REP,56
+Meade,RURAL BLACK HAWK #15,State House,29,Kathy Rice,REP,75
+Meade,RURAL STURGIS #7,State House,29,Gary L. Cammack,REP,86
+Meade,RURAL STURGIS #7,State House,29,Terri Jorgenson,REP,95
+Meade,RURAL STURGIS #7,State House,29,Kathy Rice,REP,73
+Meade,SOUTH STURGIS #2A,State House,29,Gary L. Cammack,REP,69
+Meade,SOUTH STURGIS #2A,State House,29,Terri Jorgenson,REP,61
+Meade,SOUTH STURGIS #2A,State House,29,Kathy Rice,REP,53
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Gary L. Cammack,REP,73
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Terri Jorgenson,REP,88
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Kathy Rice,REP,144
+Meade,SOUTHEAST STURGIS #2,State House,29,Gary L. Cammack,REP,117
+Meade,SOUTHEAST STURGIS #2,State House,29,Terri Jorgenson,REP,120
+Meade,SOUTHEAST STURGIS #2,State House,29,Kathy Rice,REP,88
+Meade,SOUTHWEST STURGIS #4A,State House,29,Gary L. Cammack,REP,37
+Meade,SOUTHWEST STURGIS #4A,State House,29,Terri Jorgenson,REP,46
+Meade,SOUTHWEST STURGIS #4A,State House,29,Kathy Rice,REP,51
+Meade,STURGIS #5A,State House,29,Gary L. Cammack,REP,49
+Meade,STURGIS #5A,State House,29,Terri Jorgenson,REP,56
+Meade,STURGIS #5A,State House,29,Kathy Rice,REP,38
+Meade,SULPHUR #35,State House,29,Gary L. Cammack,REP,6
+Meade,SULPHUR #35,State House,29,Terri Jorgenson,REP,12
+Meade,SULPHUR #35,State House,29,Kathy Rice,REP,20
+Meade,TILFORD #6,State House,29,Gary L. Cammack,REP,126
+Meade,TILFORD #6,State House,29,Terri Jorgenson,REP,151
+Meade,TILFORD #6,State House,29,Kathy Rice,REP,151
+Meade,UNION #40,State House,29,Gary L. Cammack,REP,7
+Meade,UNION #40,State House,29,Terri Jorgenson,REP,8
+Meade,UNION #40,State House,29,Kathy Rice,REP,4
+Meade,VIEWFIELD #17,State House,29,Gary L. Cammack,REP,29
+Meade,VIEWFIELD #17,State House,29,Terri Jorgenson,REP,38
+Meade,VIEWFIELD #17,State House,29,Kathy Rice,REP,32
+Meade,WEST ELK VALE #24,State House,29,Gary L. Cammack,REP,10
+Meade,WEST ELK VALE #24,State House,29,Terri Jorgenson,REP,23
+Meade,WEST ELK VALE #24,State House,29,Kathy Rice,REP,26
+Meade,WEST STURGIS #4,State House,29,Gary L. Cammack,REP,26
+Meade,WEST STURGIS #4,State House,29,Terri Jorgenson,REP,35
+Meade,WEST STURGIS #4,State House,29,Kathy Rice,REP,21
+Meade,WHITE OWL #25,State House,29,Gary L. Cammack,REP,16
+Meade,WHITE OWL #25,State House,29,Terri Jorgenson,REP,8
+Meade,WHITE OWL #25,State House,29,Kathy Rice,REP,8
+Meade,ALKALI #6A,County Treasurer,,Robin Shrake,REP,37
+Meade,ALKALI #6A,County Treasurer,,Robin Harrison Korth,REP,20
+Meade,BASE #23,County Treasurer,,Robin Shrake,REP,18
+Meade,BASE #23,County Treasurer,,Robin Harrison Korth,REP,10
+Meade,BEAR BUTTE #9,County Treasurer,,Robin Shrake,REP,26
+Meade,BEAR BUTTE #9,County Treasurer,,Robin Harrison Korth,REP,36
+Meade,BLACK HAWK #14,County Treasurer,,Robin Shrake,REP,36
+Meade,BLACK HAWK #14,County Treasurer,,Robin Harrison Korth,REP,33
+Meade,CENTRAL BLACK HAWK #19,County Treasurer,,Robin Shrake,REP,111
+Meade,CENTRAL BLACK HAWK #19,County Treasurer,,Robin Harrison Korth,REP,85
+Meade,CENTRAL STURGIS #3,County Treasurer,,Robin Shrake,REP,32
+Meade,CENTRAL STURGIS #3,County Treasurer,,Robin Harrison Korth,REP,58
+Meade,CHALK BUTTE #27,County Treasurer,,Robin Shrake,REP,31
+Meade,CHALK BUTTE #27,County Treasurer,,Robin Harrison Korth,REP,28
+Meade,EAST ELK VALE #21A,County Treasurer,,Robin Shrake,REP,46
+Meade,EAST ELK VALE #21A,County Treasurer,,Robin Harrison Korth,REP,40
+Meade,EAST PIEDMONT #12A,County Treasurer,,Robin Shrake,REP,50
+Meade,EAST PIEDMONT #12A,County Treasurer,,Robin Harrison Korth,REP,38
+Meade,EAST STURGIS #1,County Treasurer,,Robin Shrake,REP,61
+Meade,EAST STURGIS #1,County Treasurer,,Robin Harrison Korth,REP,42
+Meade,ELK VALE #21,County Treasurer,,Robin Shrake,REP,7
+Meade,ELK VALE #21,County Treasurer,,Robin Harrison Korth,REP,11
+Meade,ELM SPRINGS #18,County Treasurer,,Robin Shrake,REP,27
+Meade,ELM SPRINGS #18,County Treasurer,,Robin Harrison Korth,REP,23
+Meade,FAIRPOINT #29,County Treasurer,,Robin Shrake,REP,11
+Meade,FAIRPOINT #29,County Treasurer,,Robin Harrison Korth,REP,7
+Meade,FAITH #31,County Treasurer,,Robin Shrake,REP,53
+Meade,FAITH #31,County Treasurer,,Robin Harrison Korth,REP,14
+Meade,FORT MEADE #1A,County Treasurer,,Robin Shrake,REP,4
+Meade,FORT MEADE #1A,County Treasurer,,Robin Harrison Korth,REP,4
+Meade,HARMONY #8,County Treasurer,,Robin Shrake,REP,69
+Meade,HARMONY #8,County Treasurer,,Robin Harrison Korth,REP,69
+Meade,HEREFORD #20,County Treasurer,,Robin Shrake,REP,17
+Meade,HEREFORD #20,County Treasurer,,Robin Harrison Korth,REP,5
+Meade,MARCUS #41,County Treasurer,,Robin Shrake,REP,21
+Meade,MARCUS #41,County Treasurer,,Robin Harrison Korth,REP,4
+Meade,NORTHEAST PIEDMONT #12,County Treasurer,,Robin Shrake,REP,102
+Meade,NORTHEAST PIEDMONT #12,County Treasurer,,Robin Harrison Korth,REP,95
+Meade,NORTHEAST STURGIS #1-A,County Treasurer,,Robin Shrake,REP,10
+Meade,NORTHEAST STURGIS #1-A,County Treasurer,,Robin Harrison Korth,REP,16
+Meade,NORTHWEST STURGIS #5,County Treasurer,,Robin Shrake,REP,42
+Meade,NORTHWEST STURGIS #5,County Treasurer,,Robin Harrison Korth,REP,56
+Meade,PIEDMONT CENTRAL #11A,County Treasurer,,Robin Shrake,REP,89
+Meade,PIEDMONT CENTRAL #11A,County Treasurer,,Robin Harrison Korth,REP,109
+Meade,PIEDMONT WEST #11,County Treasurer,,Robin Shrake,REP,92
+Meade,PIEDMONT WEST #11,County Treasurer,,Robin Harrison Korth,REP,66
+Meade,PINE #33,County Treasurer,,Robin Shrake,REP,27
+Meade,PINE #33,County Treasurer,,Robin Harrison Korth,REP,14
+Meade,RED OWL #30,County Treasurer,,Robin Shrake,REP,9
+Meade,RED OWL #30,County Treasurer,,Robin Harrison Korth,REP,41
+Meade,RURAL BLACK HAWK #15,County Treasurer,,Robin Shrake,REP,41
+Meade,RURAL BLACK HAWK #15,County Treasurer,,Robin Harrison Korth,REP,44
+Meade,RURAL STURGIS #7,County Treasurer,,Robin Shrake,REP,68
+Meade,RURAL STURGIS #7,County Treasurer,,Robin Harrison Korth,REP,101
+Meade,SOUTH STURGIS #2A,County Treasurer,,Robin Shrake,REP,42
+Meade,SOUTH STURGIS #2A,County Treasurer,,Robin Harrison Korth,REP,60
+Meade,SOUTHEAST PIEDMONT #13,County Treasurer,,Robin Shrake,REP,86
+Meade,SOUTHEAST PIEDMONT #13,County Treasurer,,Robin Harrison Korth,REP,104
+Meade,SOUTHEAST STURGIS #2,County Treasurer,,Robin Shrake,REP,119
+Meade,SOUTHEAST STURGIS #2,County Treasurer,,Robin Harrison Korth,REP,96
+Meade,SOUTHWEST STURGIS #4A,County Treasurer,,Robin Shrake,REP,42
+Meade,SOUTHWEST STURGIS #4A,County Treasurer,,Robin Harrison Korth,REP,42
+Meade,STURGIS #5A,County Treasurer,,Robin Shrake,REP,42
+Meade,STURGIS #5A,County Treasurer,,Robin Harrison Korth,REP,39
+Meade,SULPHUR #35,County Treasurer,,Robin Shrake,REP,4
+Meade,SULPHUR #35,County Treasurer,,Robin Harrison Korth,REP,17
+Meade,SUMMERSET #10,County Treasurer,,Robin Shrake,REP,141
+Meade,SUMMERSET #10,County Treasurer,,Robin Harrison Korth,REP,120
+Meade,TILFORD #6,County Treasurer,,Robin Shrake,REP,113
+Meade,TILFORD #6,County Treasurer,,Robin Harrison Korth,REP,149
+Meade,UNION #40,County Treasurer,,Robin Shrake,REP,8
+Meade,UNION #40,County Treasurer,,Robin Harrison Korth,REP,4
+Meade,VIEWFIELD #17,County Treasurer,,Robin Shrake,REP,17
+Meade,VIEWFIELD #17,County Treasurer,,Robin Harrison Korth,REP,37
+Meade,WEST BLACK HAWK #16,County Treasurer,,Robin Shrake,REP,47
+Meade,WEST BLACK HAWK #16,County Treasurer,,Robin Harrison Korth,REP,35
+Meade,WEST ELK VALE #24,County Treasurer,,Robin Shrake,REP,23
+Meade,WEST ELK VALE #24,County Treasurer,,Robin Harrison Korth,REP,9
+Meade,WEST STURGIS #4,County Treasurer,,Robin Shrake,REP,19
+Meade,WEST STURGIS #4,County Treasurer,,Robin Harrison Korth,REP,33
+Meade,WHITE OWL #25,County Treasurer,,Robin Shrake,REP,22
+Meade,WHITE OWL #25,County Treasurer,,Robin Harrison Korth,REP,4
+Meade,BLACK HAWK #14,County Commissioner,Meade-2,Joshua Ross,REP,0
+Meade,BLACK HAWK #14,County Commissioner,Meade-2,Doreen Allison Creed,REP,0
+Meade,BLACK HAWK #14,County Commissioner,Meade-4,Earl Severn,REP,50
+Meade,BLACK HAWK #14,County Commissioner,Meade-4,Melanie Torno,REP,27
+Meade,CENTRAL BLACK HAWK #19,County Commissioner,Meade-2,Joshua Ross,REP,0
+Meade,CENTRAL BLACK HAWK #19,County Commissioner,Meade-2,Doreen Allison Creed,REP,0
+Meade,CENTRAL BLACK HAWK #19,County Commissioner,Meade-4,Earl Severn,REP,153
+Meade,CENTRAL BLACK HAWK #19,County Commissioner,Meade-4,Melanie Torno,REP,51
+Meade,CENTRAL STURGIS #3,County Commissioner,Meade-2,Joshua Ross,REP,42
+Meade,CENTRAL STURGIS #3,County Commissioner,Meade-2,Doreen Allison Creed,REP,47
+Meade,CENTRAL STURGIS #3,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,CENTRAL STURGIS #3,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,EAST STURGIS #1,County Commissioner,Meade-2,Joshua Ross,REP,35
+Meade,EAST STURGIS #1,County Commissioner,Meade-2,Doreen Allison Creed,REP,68
+Meade,EAST STURGIS #1,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,EAST STURGIS #1,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,FORT MEADE #1A,County Commissioner,Meade-2,Joshua Ross,REP,4
+Meade,FORT MEADE #1A,County Commissioner,Meade-2,Doreen Allison Creed,REP,3
+Meade,FORT MEADE #1A,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,FORT MEADE #1A,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,NORTHEAST STURGIS #1-A,County Commissioner,Meade-2,Joshua Ross,REP,9
+Meade,NORTHEAST STURGIS #1-A,County Commissioner,Meade-2,Doreen Allison Creed,REP,15
+Meade,NORTHEAST STURGIS #1-A,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,NORTHEAST STURGIS #1-A,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,PIEDMONT WEST #11,County Commissioner,Meade-2,Joshua Ross,REP,0
+Meade,PIEDMONT WEST #11,County Commissioner,Meade-2,Doreen Allison Creed,REP,0
+Meade,PIEDMONT WEST #11,County Commissioner,Meade-4,Earl Severn,REP,105
+Meade,PIEDMONT WEST #11,County Commissioner,Meade-4,Melanie Torno,REP,63
+Meade,RURAL STURGIS #7,County Commissioner,Meade-2,Joshua Ross,REP,65
+Meade,RURAL STURGIS #7,County Commissioner,Meade-2,Doreen Allison Creed,REP,96
+Meade,RURAL STURGIS #7,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,RURAL STURGIS #7,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,SOUTH STURGIS #2A,County Commissioner,Meade-2,Joshua Ross,REP,51
+Meade,SOUTH STURGIS #2A,County Commissioner,Meade-2,Doreen Allison Creed,REP,58
+Meade,SOUTH STURGIS #2A,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,SOUTH STURGIS #2A,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,SOUTHEAST STURGIS #2,County Commissioner,Meade-2,Joshua Ross,REP,87
+Meade,SOUTHEAST STURGIS #2,County Commissioner,Meade-2,Doreen Allison Creed,REP,122
+Meade,SOUTHEAST STURGIS #2,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,SOUTHEAST STURGIS #2,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,SOUTHWEST STURGIS #4A,County Commissioner,Meade-2,Joshua Ross,REP,41
+Meade,SOUTHWEST STURGIS #4A,County Commissioner,Meade-2,Doreen Allison Creed,REP,42
+Meade,SOUTHWEST STURGIS #4A,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,SOUTHWEST STURGIS #4A,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,STURGIS #5A,County Commissioner,Meade-2,Joshua Ross,REP,33
+Meade,STURGIS #5A,County Commissioner,Meade-2,Doreen Allison Creed,REP,50
+Meade,STURGIS #5A,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,STURGIS #5A,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,SUMMERSET #10,County Commissioner,Meade-2,Joshua Ross,REP,0
+Meade,SUMMERSET #10,County Commissioner,Meade-2,Doreen Allison Creed,REP,0
+Meade,SUMMERSET #10,County Commissioner,Meade-4,Earl Severn,REP,208
+Meade,SUMMERSET #10,County Commissioner,Meade-4,Melanie Torno,REP,80
+Meade,WEST BLACK HAWK #16,County Commissioner,Meade-2,Joshua Ross,REP,0
+Meade,WEST BLACK HAWK #16,County Commissioner,Meade-2,Doreen Allison Creed,REP,0
+Meade,WEST BLACK HAWK #16,County Commissioner,Meade-4,Earl Severn,REP,60
+Meade,WEST BLACK HAWK #16,County Commissioner,Meade-4,Melanie Torno,REP,27
+Meade,WEST STURGIS #4,County Commissioner,Meade-2,Joshua Ross,REP,21
+Meade,WEST STURGIS #4,County Commissioner,Meade-2,Doreen Allison Creed,REP,30
+Meade,WEST STURGIS #4,County Commissioner,Meade-4,Earl Severn,REP,0
+Meade,WEST STURGIS #4,County Commissioner,Meade-4,Melanie Torno,REP,0
+Meade,ELK VALE #21,Precinct Committeeman,ELK VALE #21,Timothy Henning Amdahl,REP,15
+Meade,ELK VALE #21,Precinct Committeeman,ELK VALE #21,Cody Rhoden,REP,7
+Meade,PIEDMONT WEST #11,Precinct Committeeman,PIEDMONT WEST #11,Robert V. Westman,REP,69
+Meade,PIEDMONT WEST #11,Precinct Committeeman,PIEDMONT WEST #11,Edwin C Egbert,REP,47
+Meade,SOUTHEAST PIEDMONT #13,Precinct Committeeman,SOUTHEAST PIEDMONT #13,Roger Wagoner,REP,77
+Meade,SOUTHEAST PIEDMONT #13,Precinct Committeeman,SOUTHEAST PIEDMONT #13,Scott Kendall,REP,85
+Meade,VIEWFIELD #17,Precinct Committeeman,VIEWFIELD #17,Jason Simmons,REP,36
+Meade,VIEWFIELD #17,Precinct Committeeman,VIEWFIELD #17,Jake Julson,REP,25
+Meade,EAST ELK VALE #21A,Precinct Committeewoman,EAST ELK VALE #21A,Terri Jorgenson,REP,61
+Meade,EAST ELK VALE #21A,Precinct Committeewoman,EAST ELK VALE #21A,Carmen Hays,REP,34
+Meade,SOUTHEAST PIEDMONT #13,Precinct Committeewoman,SOUTHEAST PIEDMONT #13,Lynn Kendall,REP,71
+Meade,SOUTHEAST PIEDMONT #13,Precinct Committeewoman,SOUTHEAST PIEDMONT #13,Julie Korth,REP,100
+Meade,VIEWFIELD #17,Precinct Committeewoman,VIEWFIELD #17,Chastity Julson,REP,27
+Meade,VIEWFIELD #17,Precinct Committeewoman,VIEWFIELD #17,Teri L. Farland,REP,34
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Aaron Oedegaard,,37
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,10
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Kolten K Odle,,15
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Charles M Wheeler,,18
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Terry Koontz,,26
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Scottie Bruch,,46
+Meade,ALKALI #6A,School Board Member Meade School-1,46,Amber Lopez,,11
+Meade,BASE #23,School Board Member Meade School-1,46,Aaron Oedegaard,,1
+Meade,BASE #23,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,0
+Meade,BASE #23,School Board Member Meade School-1,46,Kolten K Odle,,1
+Meade,BASE #23,School Board Member Meade School-1,46,Charles M Wheeler,,0
+Meade,BASE #23,School Board Member Meade School-1,46,Terry Koontz,,0
+Meade,BASE #23,School Board Member Meade School-1,46,Scottie Bruch,,0
+Meade,BASE #23,School Board Member Meade School-1,46,Amber Lopez,,1
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Aaron Oedegaard,,18
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,9
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Kolten K Odle,,23
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Charles M Wheeler,,19
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Terry Koontz,,24
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Scottie Bruch,,49
+Meade,BEAR BUTTE #9,School Board Member Meade School-1,46,Amber Lopez,,15
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Aaron Oedegaard,,53
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,11
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Kolten K Odle,,28
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Charles M Wheeler,,31
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Terry Koontz,,54
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Scottie Bruch,,53
+Meade,CENTRAL STURGIS #3,School Board Member Meade School-1,46,Amber Lopez,,34
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Aaron Oedegaard,,38
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,7
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Kolten K Odle,,15
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Charles M Wheeler,,24
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Terry Koontz,,11
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Scottie Bruch,,60
+Meade,CHALK BUTTE #27,School Board Member Meade School-1,46,Amber Lopez,,13
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Aaron Oedegaard,,6
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,1
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Kolten K Odle,,2
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Charles M Wheeler,,1
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Terry Koontz,,3
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Scottie Bruch,,0
+Meade,ELK VALE #22 1A,School Board Member Meade School-1,46,Amber Lopez,,1
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Aaron Oedegaard,,51
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,31
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Kolten K Odle,,30
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Charles M Wheeler,,19
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Terry Koontz,,35
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Scottie Bruch,,29
+Meade,EAST PIEDMONT #12A,School Board Member Meade School-1,46,Amber Lopez,,37
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Aaron Oedegaard,,64
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,23
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Kolten K Odle,,11
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Charles M Wheeler,,40
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Terry Koontz,,51
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Scottie Bruch,,72
+Meade,EAST STURGIS #1,School Board Member Meade School-1,46,Amber Lopez,,26
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Aaron Oedegaard,,2
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,4
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Kolten K Odle,,5
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Charles M Wheeler,,1
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Terry Koontz,,2
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Scottie Bruch,,4
+Meade,ELK VALE #21,School Board Member Meade School-1,46,Amber Lopez,,2
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Aaron Oedegaard,,5
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,33
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Kolten K Odle,,37
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Charles M Wheeler,,2
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Terry Koontz,,4
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Scottie Bruch,,51
+Meade,ELM SPRINGS #18,School Board Member Meade School-1,46,Amber Lopez,,5
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Aaron Oedegaard,,6
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,0
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Kolten K Odle,,5
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Charles M Wheeler,,5
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Terry Koontz,,8
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Scottie Bruch,,16
+Meade,FAIRPOINT #29,School Board Member Meade School-1,46,Amber Lopez,,5
+Meade,FAITH #31,School Board Member Meade School-1,46,Aaron Oedegaard,,1
+Meade,FAITH #31,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,0
+Meade,FAITH #31,School Board Member Meade School-1,46,Kolten K Odle,,0
+Meade,FAITH #31,School Board Member Meade School-1,46,Charles M Wheeler,,0
+Meade,FAITH #31,School Board Member Meade School-1,46,Terry Koontz,,1
+Meade,FAITH #31,School Board Member Meade School-1,46,Scottie Bruch,,1
+Meade,FAITH #31,School Board Member Meade School-1,46,Amber Lopez,,1
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Aaron Oedegaard,,3
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,3
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Kolten K Odle,,1
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Charles M Wheeler,,3
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Terry Koontz,,2
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Scottie Bruch,,5
+Meade,FORT MEADE #1A,School Board Member Meade School-1,46,Amber Lopez,,3
+Meade,HARMONY #8,School Board Member Meade School-1,46,Aaron Oedegaard,,71
+Meade,HARMONY #8,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,23
+Meade,HARMONY #8,School Board Member Meade School-1,46,Kolten K Odle,,37
+Meade,HARMONY #8,School Board Member Meade School-1,46,Charles M Wheeler,,54
+Meade,HARMONY #8,School Board Member Meade School-1,46,Terry Koontz,,69
+Meade,HARMONY #8,School Board Member Meade School-1,46,Scottie Bruch,,99
+Meade,HARMONY #8,School Board Member Meade School-1,46,Amber Lopez,,32
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Aaron Oedegaard,,11
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,3
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Kolten K Odle,,5
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Charles M Wheeler,,7
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Terry Koontz,,9
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Scottie Bruch,,18
+Meade,HEREFORD #20,School Board Member Meade School-1,46,Amber Lopez,,4
+Meade,MARCUS #41,School Board Member Meade School-1,46,Aaron Oedegaard,,3
+Meade,MARCUS #41,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,1
+Meade,MARCUS #41,School Board Member Meade School-1,46,Kolten K Odle,,5
+Meade,MARCUS #41,School Board Member Meade School-1,46,Charles M Wheeler,,2
+Meade,MARCUS #41,School Board Member Meade School-1,46,Terry Koontz,,3
+Meade,MARCUS #41,School Board Member Meade School-1,46,Scottie Bruch,,10
+Meade,MARCUS #41,School Board Member Meade School-1,46,Amber Lopez,,2
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Aaron Oedegaard,,121
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,58
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Kolten K Odle,,54
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Charles M Wheeler,,57
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Terry Koontz,,58
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Scottie Bruch,,86
+Meade,NORTHEAST PIEDMONT #12,School Board Member Meade School-1,46,Amber Lopez,,60
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Aaron Oedegaard,,13
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,4
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Kolten K Odle,,9
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Charles M Wheeler,,12
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Terry Koontz,,12
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Scottie Bruch,,21
+Meade,NORTHEAST STURGIS #1-,School Board Member Meade School-1,46,Amber Lopez,,14
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Aaron Oedegaard,,38
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,11
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Kolten K Odle,,36
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Charles M Wheeler,,49
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Terry Koontz,,48
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Scottie Bruch,,78
+Meade,NORTHWEST STURGIS #5,School Board Member Meade School-1,46,Amber Lopez,,34
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Aaron Oedegaard,,149
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,46
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Kolten K Odle,,58
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Charles M Wheeler,,73
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Terry Koontz,,78
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Scottie Bruch,,77
+Meade,PIEDMONT CENTRAL #11A,School Board Member Meade School-1,46,Amber Lopez,,41
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Aaron Oedegaard,,97
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,34
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Kolten K Odle,,41
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Charles M Wheeler,,63
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Terry Koontz,,64
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Scottie Bruch,,64
+Meade,PIEDMONT WEST #11,School Board Member Meade School-1,46,Amber Lopez,,58
+Meade,PINE #33,School Board Member Meade School-1,46,Aaron Oedegaard,,10
+Meade,PINE #33,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,9
+Meade,PINE #33,School Board Member Meade School-1,46,Kolten K Odle,,12
+Meade,PINE #33,School Board Member Meade School-1,46,Charles M Wheeler,,2
+Meade,PINE #33,School Board Member Meade School-1,46,Terry Koontz,,5
+Meade,PINE #33,School Board Member Meade School-1,46,Scottie Bruch,,22
+Meade,PINE #33,School Board Member Meade School-1,46,Amber Lopez,,4
+Meade,RED OWL #30,School Board Member Meade School-1,46,Aaron Oedegaard,,23
+Meade,RED OWL #30,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,7
+Meade,RED OWL #30,School Board Member Meade School-1,46,Kolten K Odle,,24
+Meade,RED OWL #30,School Board Member Meade School-1,46,Charles M Wheeler,,12
+Meade,RED OWL #30,School Board Member Meade School-1,46,Terry Koontz,,9
+Meade,RED OWL #30,School Board Member Meade School-1,46,Scottie Bruch,,37
+Meade,RED OWL #30,School Board Member Meade School-1,46,Amber Lopez,,9
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Aaron Oedegaard,,34
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,26
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Kolten K Odle,,25
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Charles M Wheeler,,17
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Terry Koontz,,32
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Scottie Bruch,,16
+Meade,RURAL BLACK HAWK #15,School Board Member Meade School-1,46,Amber Lopez,,25
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Aaron Oedegaard,,89
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,21
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Kolten K Odle,,34
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Charles M Wheeler,,57
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Terry Koontz,,82
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Scottie Bruch,,136
+Meade,RURAL STURGIS #7,School Board Member Meade School-1,46,Amber Lopez,,43
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Aaron Oedegaard,,66
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,22
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Kolten K Odle,,36
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Charles M Wheeler,,48
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Terry Koontz,,62
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Scottie Bruch,,96
+Meade,SOUTH STURGIS #2A,School Board Member Meade School-1,46,Amber Lopez,,46
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Aaron Oedegaard,,117
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,45
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Kolten K Odle,,57
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Charles M Wheeler,,70
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Terry Koontz,,73
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Scottie Bruch,,86
+Meade,SOUTHEAST PIEDMONT #13,School Board Member Meade School-1,46,Amber Lopez,,79
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Aaron Oedegaard,,118
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,18
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Kolten K Odle,,41
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Charles M Wheeler,,95
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Terry Koontz,,95
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Scottie Bruch,,163
+Meade,SOUTHEAST STURGIS #2,School Board Member Meade School-1,46,Amber Lopez,,72
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Aaron Oedegaard,,46
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,14
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Kolten K Odle,,27
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Charles M Wheeler,,28
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Terry Koontz,,56
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Scottie Bruch,,59
+Meade,SOUTHWEST STURGIS #4A,School Board Member Meade School-1,46,Amber Lopez,,40
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Aaron Oedegaard,,55
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,9
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Kolten K Odle,,15
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Charles M Wheeler,,54
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Terry Koontz,,43
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Scottie Bruch,,81
+Meade,STURGIS #5A,School Board Member Meade School-1,46,Amber Lopez,,33
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Aaron Oedegaard,,7
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,2
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Kolten K Odle,,1
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Charles M Wheeler,,2
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Terry Koontz,,1
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Scottie Bruch,,9
+Meade,SULPHUR #35,School Board Member Meade School-1,46,Amber Lopez,,3
+Meade,TILFORD #6,School Board Member Meade School-1,46,Aaron Oedegaard,,128
+Meade,TILFORD #6,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,42
+Meade,TILFORD #6,School Board Member Meade School-1,46,Kolten K Odle,,62
+Meade,TILFORD #6,School Board Member Meade School-1,46,Charles M Wheeler,,89
+Meade,TILFORD #6,School Board Member Meade School-1,46,Terry Koontz,,125
+Meade,TILFORD #6,School Board Member Meade School-1,46,Scottie Bruch,,175
+Meade,TILFORD #6,School Board Member Meade School-1,46,Amber Lopez,,72
+Meade,UNION #40,School Board Member Meade School-1,46,Aaron Oedegaard,,1
+Meade,UNION #40,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,1
+Meade,UNION #40,School Board Member Meade School-1,46,Kolten K Odle,,1
+Meade,UNION #40,School Board Member Meade School-1,46,Charles M Wheeler,,1
+Meade,UNION #40,School Board Member Meade School-1,46,Terry Koontz,,1
+Meade,UNION #40,School Board Member Meade School-1,46,Scottie Bruch,,3
+Meade,UNION #40,School Board Member Meade School-1,46,Amber Lopez,,1
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Aaron Oedegaard,,20
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,6
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Kolten K Odle,,9
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Charles M Wheeler,,3
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Terry Koontz,,12
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Scottie Bruch,,26
+Meade,VIEWFIELD #17,School Board Member Meade School-1,46,Amber Lopez,,5
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Aaron Oedegaard,,3
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,1
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Kolten K Odle,,0
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Charles M Wheeler,,1
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Terry Koontz,,2
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Scottie Bruch,,1
+Meade,WEST BLACK HAWK #16,School Board Member Meade School-1,46,Amber Lopez,,1
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Aaron Oedegaard,,5
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,0
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Kolten K Odle,,1
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Charles M Wheeler,,0
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Terry Koontz,,1
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Scottie Bruch,,0
+Meade,WEST ELK VALE #24,School Board Member Meade School-1,46,Amber Lopez,,2
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Aaron Oedegaard,,32
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,11
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Kolten K Odle,,11
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Charles M Wheeler,,21
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Terry Koontz,,22
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Scottie Bruch,,39
+Meade,WEST STURGIS #4,School Board Member Meade School-1,46,Amber Lopez,,14
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Aaron Oedegaard,,4
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Thomas Christopher Schmeller,,3
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Kolten K Odle,,2
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Charles M Wheeler,,5
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Terry Koontz,,13
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Scottie Bruch,,19
+Meade,WHITE OWL #25,School Board Member Meade School-1,46,Amber Lopez,,2

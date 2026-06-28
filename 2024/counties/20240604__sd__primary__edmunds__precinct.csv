@@ -1,0 +1,55 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,1,President,,Marianne Williamson,DEM,5
+Edmunds,1,President,,Joseph R Biden Jr,DEM,9
+Edmunds,1,President,,Dean Phillips,DEM,5
+Edmunds,1,President,,Armando Perez-Serrato,DEM,1
+Edmunds,2,President,,Marianne Williamson,DEM,2
+Edmunds,2,President,,Joseph R Biden Jr,DEM,12
+Edmunds,2,President,,Dean Phillips,DEM,4
+Edmunds,2,President,,Armando Perez-Serrato,DEM,1
+Edmunds,3,President,,Marianne Williamson,DEM,5
+Edmunds,3,President,,Joseph R Biden Jr,DEM,4
+Edmunds,3,President,,Dean Phillips,DEM,2
+Edmunds,3,President,,Armando Perez-Serrato,DEM,1
+Edmunds,4,President,,Marianne Williamson,DEM,3
+Edmunds,4,President,,Joseph R Biden Jr,DEM,11
+Edmunds,4,President,,Dean Phillips,DEM,2
+Edmunds,4,President,,Armando Perez-Serrato,DEM,3
+Edmunds,5,President,,Marianne Williamson,DEM,1
+Edmunds,5,President,,Joseph R Biden Jr,DEM,3
+Edmunds,5,President,,Dean Phillips,DEM,6
+Edmunds,5,President,,Armando Perez-Serrato,DEM,0
+Edmunds,6,President,,Marianne Williamson,DEM,2
+Edmunds,6,President,,Joseph R Biden Jr,DEM,7
+Edmunds,6,President,,Dean Phillips,DEM,4
+Edmunds,6,President,,Armando Perez-Serrato,DEM,2
+Edmunds,1,State Senate,23,Steven Ray Roseland,REP,63
+Edmunds,1,State Senate,23,Mark Lapka,REP,71
+Edmunds,2,State Senate,23,Steven Ray Roseland,REP,35
+Edmunds,2,State Senate,23,Mark Lapka,REP,70
+Edmunds,3,State Senate,23,Steven Ray Roseland,REP,33
+Edmunds,3,State Senate,23,Mark Lapka,REP,81
+Edmunds,4,State Senate,23,Steven Ray Roseland,REP,18
+Edmunds,4,State Senate,23,Mark Lapka,REP,44
+Edmunds,5,State Senate,23,Steven Ray Roseland,REP,34
+Edmunds,5,State Senate,23,Mark Lapka,REP,50
+Edmunds,6,State Senate,23,Steven Ray Roseland,REP,10
+Edmunds,6,State Senate,23,Mark Lapka,REP,40
+Edmunds,1,State House,23,Spencer Gosch,REP,79
+Edmunds,1,State House,23,Scott Moore,REP,114
+Edmunds,1,State House,23,James D. Wangsness,REP,44
+Edmunds,2,State House,23,Spencer Gosch,REP,63
+Edmunds,2,State House,23,Scott Moore,REP,88
+Edmunds,2,State House,23,James D. Wangsness,REP,39
+Edmunds,3,State House,23,Spencer Gosch,REP,54
+Edmunds,3,State House,23,Scott Moore,REP,99
+Edmunds,3,State House,23,James D. Wangsness,REP,42
+Edmunds,4,State House,23,Spencer Gosch,REP,40
+Edmunds,4,State House,23,Scott Moore,REP,52
+Edmunds,4,State House,23,James D. Wangsness,REP,24
+Edmunds,5,State House,23,Spencer Gosch,REP,55
+Edmunds,5,State House,23,Scott Moore,REP,67
+Edmunds,5,State House,23,James D. Wangsness,REP,25
+Edmunds,6,State House,23,Spencer Gosch,REP,24
+Edmunds,6,State House,23,Scott Moore,REP,45
+Edmunds,6,State House,23,James D. Wangsness,REP,21

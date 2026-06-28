@@ -1,0 +1,145 @@
+county,precinct,office,district,candidate,party,votes
+Union,01,President,,Marianne Williamson,DEM,0
+Union,01,President,,Joseph R Biden Jr,DEM,12
+Union,01,President,,Dean Phillips,DEM,2
+Union,01,President,,Armando Perez-Serrato,DEM,0
+Union,02,President,,Marianne Williamson,DEM,6
+Union,02,President,,Joseph R Biden Jr,DEM,24
+Union,02,President,,Dean Phillips,DEM,2
+Union,02,President,,Armando Perez-Serrato,DEM,1
+Union,03,President,,Marianne Williamson,DEM,8
+Union,03,President,,Joseph R Biden Jr,DEM,41
+Union,03,President,,Dean Phillips,DEM,5
+Union,03,President,,Armando Perez-Serrato,DEM,2
+Union,04,President,,Marianne Williamson,DEM,3
+Union,04,President,,Joseph R Biden Jr,DEM,13
+Union,04,President,,Dean Phillips,DEM,3
+Union,04,President,,Armando Perez-Serrato,DEM,0
+Union,05,President,,Marianne Williamson,DEM,1
+Union,05,President,,Joseph R Biden Jr,DEM,30
+Union,05,President,,Dean Phillips,DEM,3
+Union,05,President,,Armando Perez-Serrato,DEM,2
+Union,06,President,,Marianne Williamson,DEM,3
+Union,06,President,,Joseph R Biden Jr,DEM,16
+Union,06,President,,Dean Phillips,DEM,4
+Union,06,President,,Armando Perez-Serrato,DEM,0
+Union,07,President,,Marianne Williamson,DEM,3
+Union,07,President,,Joseph R Biden Jr,DEM,6
+Union,07,President,,Dean Phillips,DEM,3
+Union,07,President,,Armando Perez-Serrato,DEM,0
+Union,08,President,,Marianne Williamson,DEM,5
+Union,08,President,,Joseph R Biden Jr,DEM,20
+Union,08,President,,Dean Phillips,DEM,3
+Union,08,President,,Armando Perez-Serrato,DEM,2
+Union,09,President,,Marianne Williamson,DEM,2
+Union,09,President,,Joseph R Biden Jr,DEM,17
+Union,09,President,,Dean Phillips,DEM,6
+Union,09,President,,Armando Perez-Serrato,DEM,1
+Union,10,President,,Marianne Williamson,DEM,8
+Union,10,President,,Joseph R Biden Jr,DEM,13
+Union,10,President,,Dean Phillips,DEM,4
+Union,10,President,,Armando Perez-Serrato,DEM,0
+Union,11,President,,Marianne Williamson,DEM,0
+Union,11,President,,Joseph R Biden Jr,DEM,9
+Union,11,President,,Dean Phillips,DEM,0
+Union,11,President,,Armando Perez-Serrato,DEM,3
+Union,12,President,,Marianne Williamson,DEM,2
+Union,12,President,,Joseph R Biden Jr,DEM,12
+Union,12,President,,Dean Phillips,DEM,2
+Union,12,President,,Armando Perez-Serrato,DEM,0
+Union,01,State Senate,16,Kevin D. Jensen,REP,29
+Union,01,State Senate,16,Eric Hohman,REP,25
+Union,02,State Senate,16,Kevin D. Jensen,REP,53
+Union,02,State Senate,16,Eric Hohman,REP,22
+Union,03,State Senate,17,Sydney Davis,REP,209
+Union,03,State Senate,17,Jeffrey Church,REP,107
+Union,04,State Senate,16,Kevin D. Jensen,REP,60
+Union,04,State Senate,16,Eric Hohman,REP,40
+Union,05,State Senate,16,Kevin D. Jensen,REP,90
+Union,05,State Senate,16,Eric Hohman,REP,51
+Union,06,State Senate,17,Sydney Davis,REP,118
+Union,06,State Senate,17,Jeffrey Church,REP,47
+Union,07,State Senate,16,Kevin D. Jensen,REP,44
+Union,07,State Senate,16,Eric Hohman,REP,17
+Union,07,State Senate,17,Sydney Davis,REP,22
+Union,07,State Senate,17,Jeffrey Church,REP,13
+Union,08,State Senate,17,Sydney Davis,REP,59
+Union,08,State Senate,17,Jeffrey Church,REP,42
+Union,09,State Senate,17,Sydney Davis,REP,108
+Union,09,State Senate,17,Jeffrey Church,REP,20
+Union,10,State Senate,17,Sydney Davis,REP,70
+Union,10,State Senate,17,Jeffrey Church,REP,34
+Union,11,State Senate,17,Sydney Davis,REP,112
+Union,11,State Senate,17,Jeffrey Church,REP,57
+Union,12,State Senate,17,Sydney Davis,REP,132
+Union,12,State Senate,17,Jeffrey Church,REP,79
+Union,01,State House,16,Karla J Lems,REP,42
+Union,01,State House,16,Richard Vasgaard,REP,29
+Union,01,State House,16,Brian J Burge,REP,10
+Union,02,State House,16,Karla J Lems,REP,56
+Union,02,State House,16,Richard Vasgaard,REP,39
+Union,02,State House,16,Brian J Burge,REP,11
+Union,03,State House,17,William (Bill) Shorma,REP,225
+Union,03,State House,17,Chris Kassin,REP,259
+Union,03,State House,17,Robin J. Schiro,REP,24
+Union,04,State House,16,Karla J Lems,REP,73
+Union,04,State House,16,Richard Vasgaard,REP,57
+Union,04,State House,16,Brian J Burge,REP,33
+Union,05,State House,16,Karla J Lems,REP,102
+Union,05,State House,16,Richard Vasgaard,REP,89
+Union,05,State House,16,Brian J Burge,REP,40
+Union,06,State House,17,William (Bill) Shorma,REP,120
+Union,06,State House,17,Chris Kassin,REP,121
+Union,06,State House,17,Robin J. Schiro,REP,22
+Union,07,State House,16,Karla J Lems,REP,35
+Union,07,State House,16,Richard Vasgaard,REP,31
+Union,07,State House,16,Brian J Burge,REP,24
+Union,07,State House,17,William (Bill) Shorma,REP,16
+Union,07,State House,17,Chris Kassin,REP,28
+Union,07,State House,17,Robin J. Schiro,REP,8
+Union,08,State House,17,William (Bill) Shorma,REP,58
+Union,08,State House,17,Chris Kassin,REP,73
+Union,08,State House,17,Robin J. Schiro,REP,13
+Union,09,State House,17,William (Bill) Shorma,REP,85
+Union,09,State House,17,Chris Kassin,REP,108
+Union,09,State House,17,Robin J. Schiro,REP,12
+Union,10,State House,17,William (Bill) Shorma,REP,63
+Union,10,State House,17,Chris Kassin,REP,85
+Union,10,State House,17,Robin J. Schiro,REP,10
+Union,11,State House,17,William (Bill) Shorma,REP,132
+Union,11,State House,17,Chris Kassin,REP,143
+Union,11,State House,17,Robin J. Schiro,REP,25
+Union,12,State House,17,William (Bill) Shorma,REP,176
+Union,12,State House,17,Chris Kassin,REP,147
+Union,12,State House,17,Robin J. Schiro,REP,33
+Union,01,Sheriff,,Richard Roy William Headid,REP,8
+Union,01,Sheriff,,James Dean Prouty,REP,53
+Union,02,Sheriff,,Richard Roy William Headid,REP,11
+Union,02,Sheriff,,James Dean Prouty,REP,63
+Union,03,Sheriff,,Richard Roy William Headid,REP,24
+Union,03,Sheriff,,James Dean Prouty,REP,314
+Union,04,Sheriff,,Richard Roy William Headid,REP,15
+Union,04,Sheriff,,James Dean Prouty,REP,82
+Union,05,Sheriff,,Richard Roy William Headid,REP,17
+Union,05,Sheriff,,James Dean Prouty,REP,118
+Union,06,Sheriff,,Richard Roy William Headid,REP,44
+Union,06,Sheriff,,James Dean Prouty,REP,129
+Union,07,Sheriff,,Richard Roy William Headid,REP,2
+Union,07,Sheriff,,James Dean Prouty,REP,107
+Union,08,Sheriff,,Richard Roy William Headid,REP,8
+Union,08,Sheriff,,James Dean Prouty,REP,104
+Union,09,Sheriff,,Richard Roy William Headid,REP,72
+Union,09,Sheriff,,James Dean Prouty,REP,66
+Union,10,Sheriff,,Richard Roy William Headid,REP,56
+Union,10,Sheriff,,James Dean Prouty,REP,54
+Union,11,Sheriff,,Richard Roy William Headid,REP,50
+Union,11,Sheriff,,James Dean Prouty,REP,124
+Union,12,Sheriff,,Richard Roy William Headid,REP,55
+Union,12,Sheriff,,James Dean Prouty,REP,153
+Union,03,Precinct Committeewoman,03,Robin Joyce Schiro,REP,82
+Union,03,Precinct Committeewoman,03,Alesha Marie Voeltz,REP,196
+Union,06,Precinct Committeewoman,06,Rachelle Teresa Gerkin,REP,59
+Union,06,Precinct Committeewoman,06,Constance Jean Larson,REP,53
+Union,07,School Board Member,Vermillion School District 13-1,Michael Phelan,,7
+Union,07,School Board Member,Vermillion School District 13-1,Corey L Thomason,,6
+Union,07,School Board Member,Vermillion School District 13-1,Rachel E Olson,,3

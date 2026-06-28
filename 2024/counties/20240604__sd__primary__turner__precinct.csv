@@ -1,0 +1,94 @@
+county,precinct,office,district,candidate,party,votes
+Turner,01,President,,Marianne Williamson,DEM,16
+Turner,01,President,,Joseph R Biden Jr,DEM,42
+Turner,01,President,,Dean Phillips,DEM,21
+Turner,01,President,,Armando Perez-Serrato,DEM,5
+Turner,02,President,,Marianne Williamson,DEM,10
+Turner,02,President,,Joseph R Biden Jr,DEM,20
+Turner,02,President,,Dean Phillips,DEM,6
+Turner,02,President,,Armando Perez-Serrato,DEM,4
+Turner,03,President,,Marianne Williamson,DEM,3
+Turner,03,President,,Joseph R Biden Jr,DEM,8
+Turner,03,President,,Dean Phillips,DEM,0
+Turner,03,President,,Armando Perez-Serrato,DEM,1
+Turner,04,President,,Marianne Williamson,DEM,4
+Turner,04,President,,Joseph R Biden Jr,DEM,7
+Turner,04,President,,Dean Phillips,DEM,2
+Turner,04,President,,Armando Perez-Serrato,DEM,1
+Turner,05,President,,Marianne Williamson,DEM,1
+Turner,05,President,,Joseph R Biden Jr,DEM,5
+Turner,05,President,,Dean Phillips,DEM,4
+Turner,05,President,,Armando Perez-Serrato,DEM,0
+Turner,06,President,,Marianne Williamson,DEM,3
+Turner,06,President,,Joseph R Biden Jr,DEM,21
+Turner,06,President,,Dean Phillips,DEM,4
+Turner,06,President,,Armando Perez-Serrato,DEM,3
+Turner,07,President,,Marianne Williamson,DEM,3
+Turner,07,President,,Joseph R Biden Jr,DEM,3
+Turner,07,President,,Dean Phillips,DEM,1
+Turner,07,President,,Armando Perez-Serrato,DEM,1
+Turner,08,President,,Marianne Williamson,DEM,2
+Turner,08,President,,Joseph R Biden Jr,DEM,15
+Turner,08,President,,Dean Phillips,DEM,2
+Turner,08,President,,Armando Perez-Serrato,DEM,1
+Turner,01,State Senate,16,Kevin D. Jensen,REP,196
+Turner,01,State Senate,16,Eric Hohman,REP,95
+Turner,02,State Senate,16,Kevin D. Jensen,REP,159
+Turner,02,State Senate,16,Eric Hohman,REP,70
+Turner,03,State Senate,16,Kevin D. Jensen,REP,81
+Turner,03,State Senate,16,Eric Hohman,REP,23
+Turner,05,State Senate,16,Kevin D. Jensen,REP,66
+Turner,05,State Senate,16,Eric Hohman,REP,28
+Turner,06,State Senate,16,Kevin D. Jensen,REP,144
+Turner,06,State Senate,16,Eric Hohman,REP,43
+Turner,07,State Senate,16,Kevin D. Jensen,REP,22
+Turner,07,State Senate,16,Eric Hohman,REP,4
+Turner,08,State Senate,16,Kevin D. Jensen,REP,74
+Turner,08,State Senate,16,Eric Hohman,REP,49
+Turner,01,State House,16,Karla J Lems,REP,208
+Turner,01,State House,16,Richard Vasgaard,REP,145
+Turner,01,State House,16,Brian J Burge,REP,131
+Turner,02,State House,16,Karla J Lems,REP,159
+Turner,02,State House,16,Richard Vasgaard,REP,148
+Turner,02,State House,16,Brian J Burge,REP,60
+Turner,03,State House,16,Karla J Lems,REP,83
+Turner,03,State House,16,Richard Vasgaard,REP,61
+Turner,03,State House,16,Brian J Burge,REP,21
+Turner,04,State House,19,Drew Peterson,REP,26
+Turner,04,State House,19,Steven Mettler,REP,34
+Turner,04,State House,19,Jessica Bahmuller,REP,35
+Turner,05,State House,16,Karla J Lems,REP,65
+Turner,05,State House,16,Richard Vasgaard,REP,70
+Turner,05,State House,16,Brian J Burge,REP,20
+Turner,06,State House,16,Karla J Lems,REP,121
+Turner,06,State House,16,Richard Vasgaard,REP,139
+Turner,06,State House,16,Brian J Burge,REP,31
+Turner,07,State House,16,Karla J Lems,REP,20
+Turner,07,State House,16,Richard Vasgaard,REP,21
+Turner,07,State House,16,Brian J Burge,REP,5
+Turner,08,State House,16,Karla J Lems,REP,63
+Turner,08,State House,16,Richard Vasgaard,REP,109
+Turner,08,State House,16,Brian J Burge,REP,22
+Turner,02,County Commissioner,2,James A Jones,REP,100
+Turner,02,County Commissioner,2,Joyce Willoughby,REP,25
+Turner,02,County Commissioner,2,Sheila Hagemann,REP,112
+Turner,04,County Commissioner,4,"Ross ""Mick"" Miller",REP,16
+Turner,04,County Commissioner,4,Greg Benson,REP,25
+Turner,04,County Commissioner,4,Daniel Roth,REP,14
+Turner,06,County Commissioner,4,"Ross ""Mick"" Miller",REP,76
+Turner,06,County Commissioner,4,Greg Benson,REP,76
+Turner,06,County Commissioner,4,Daniel Roth,REP,36
+Turner,02,Precinct Committeeman,02,David Hurtado,REP,47
+Turner,02,Precinct Committeeman,02,Joseph Plucker,REP,176
+Turner,03,Precinct Committeeman,03,Blake Olson,REP,59
+Turner,03,Precinct Committeeman,03,Allen Weis,REP,28
+Turner,05,Precinct Committeeman,05,Kerry R Norton,REP,38
+Turner,05,Precinct Committeeman,05,Troi Andernacht,REP,47
+Turner,08,Precinct Committeeman,08,Charles N Oster,REP,44
+Turner,08,Precinct Committeeman,08,Richard Vasgaard,REP,81
+Turner,02,Precinct Committeewoman,02,Monique Hurtado,REP,59
+Turner,02,Precinct Committeewoman,02,Kay Plucker,REP,165
+Turner,03,Precinct Committeewoman,03,Tamera Weis,REP,37
+Turner,03,Precinct Committeewoman,03,Janae Olson,REP,50
+Turner,06,Precinct Committeewoman,06,Shelley Fox,REP,79
+Turner,06,Precinct Committeewoman,06,Lisa M Johnson,REP,83

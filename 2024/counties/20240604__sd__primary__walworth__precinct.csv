@@ -1,0 +1,91 @@
+county,precinct,office,district,candidate,party,votes
+Walworth,01,President,,Marianne Williamson,DEM,0
+Walworth,01,President,,Joseph R Biden Jr,DEM,2
+Walworth,01,President,,Dean Phillips,DEM,2
+Walworth,01,President,,Armando Perez-Serrato,DEM,0
+Walworth,02,President,,Marianne Williamson,DEM,1
+Walworth,02,President,,Joseph R Biden Jr,DEM,0
+Walworth,02,President,,Dean Phillips,DEM,0
+Walworth,02,President,,Armando Perez-Serrato,DEM,0
+Walworth,03,President,,Marianne Williamson,DEM,1
+Walworth,03,President,,Joseph R Biden Jr,DEM,2
+Walworth,03,President,,Dean Phillips,DEM,3
+Walworth,03,President,,Armando Perez-Serrato,DEM,0
+Walworth,04,President,,Marianne Williamson,DEM,0
+Walworth,04,President,,Joseph R Biden Jr,DEM,6
+Walworth,04,President,,Dean Phillips,DEM,0
+Walworth,04,President,,Armando Perez-Serrato,DEM,0
+Walworth,05,President,,Marianne Williamson,DEM,3
+Walworth,05,President,,Joseph R Biden Jr,DEM,6
+Walworth,05,President,,Dean Phillips,DEM,1
+Walworth,05,President,,Armando Perez-Serrato,DEM,0
+Walworth,06,President,,Marianne Williamson,DEM,2
+Walworth,06,President,,Joseph R Biden Jr,DEM,4
+Walworth,06,President,,Dean Phillips,DEM,1
+Walworth,06,President,,Armando Perez-Serrato,DEM,1
+Walworth,07,President,,Marianne Williamson,DEM,0
+Walworth,07,President,,Joseph R Biden Jr,DEM,5
+Walworth,07,President,,Dean Phillips,DEM,0
+Walworth,07,President,,Armando Perez-Serrato,DEM,1
+Walworth,08,President,,Marianne Williamson,DEM,2
+Walworth,08,President,,Joseph R Biden Jr,DEM,0
+Walworth,08,President,,Dean Phillips,DEM,0
+Walworth,08,President,,Armando Perez-Serrato,DEM,0
+Walworth,09,President,,Marianne Williamson,DEM,1
+Walworth,09,President,,Joseph R Biden Jr,DEM,0
+Walworth,09,President,,Dean Phillips,DEM,0
+Walworth,09,President,,Armando Perez-Serrato,DEM,0
+Walworth,10,President,,Marianne Williamson,DEM,0
+Walworth,10,President,,Joseph R Biden Jr,DEM,2
+Walworth,10,President,,Dean Phillips,DEM,1
+Walworth,10,President,,Armando Perez-Serrato,DEM,0
+Walworth,01,State Senate,23,Steven Ray Roseland,REP,25
+Walworth,01,State Senate,23,Mark Lapka,REP,38
+Walworth,02,State Senate,23,Steven Ray Roseland,REP,32
+Walworth,02,State Senate,23,Mark Lapka,REP,39
+Walworth,03,State Senate,23,Steven Ray Roseland,REP,82
+Walworth,03,State Senate,23,Mark Lapka,REP,105
+Walworth,04,State Senate,23,Steven Ray Roseland,REP,15
+Walworth,04,State Senate,23,Mark Lapka,REP,41
+Walworth,05,State Senate,23,Steven Ray Roseland,REP,27
+Walworth,05,State Senate,23,Mark Lapka,REP,48
+Walworth,06,State Senate,23,Steven Ray Roseland,REP,44
+Walworth,06,State Senate,23,Mark Lapka,REP,66
+Walworth,07,State Senate,23,Steven Ray Roseland,REP,39
+Walworth,07,State Senate,23,Mark Lapka,REP,91
+Walworth,08,State Senate,23,Steven Ray Roseland,REP,12
+Walworth,08,State Senate,23,Mark Lapka,REP,16
+Walworth,09,State Senate,23,Steven Ray Roseland,REP,1
+Walworth,09,State Senate,23,Mark Lapka,REP,29
+Walworth,10,State Senate,23,Steven Ray Roseland,REP,25
+Walworth,10,State Senate,23,Mark Lapka,REP,40
+Walworth,01,State House,23,Spencer Gosch,REP,44
+Walworth,01,State House,23,Scott Moore,REP,44
+Walworth,01,State House,23,James D. Wangsness,REP,23
+Walworth,02,State House,23,Spencer Gosch,REP,49
+Walworth,02,State House,23,Scott Moore,REP,42
+Walworth,02,State House,23,James D. Wangsness,REP,34
+Walworth,03,State House,23,Spencer Gosch,REP,149
+Walworth,03,State House,23,Scott Moore,REP,113
+Walworth,03,State House,23,James D. Wangsness,REP,61
+Walworth,04,State House,23,Spencer Gosch,REP,49
+Walworth,04,State House,23,Scott Moore,REP,26
+Walworth,04,State House,23,James D. Wangsness,REP,15
+Walworth,05,State House,23,Spencer Gosch,REP,58
+Walworth,05,State House,23,Scott Moore,REP,47
+Walworth,05,State House,23,James D. Wangsness,REP,24
+Walworth,06,State House,23,Spencer Gosch,REP,85
+Walworth,06,State House,23,Scott Moore,REP,58
+Walworth,06,State House,23,James D. Wangsness,REP,41
+Walworth,07,State House,23,Spencer Gosch,REP,115
+Walworth,07,State House,23,Scott Moore,REP,78
+Walworth,07,State House,23,James D. Wangsness,REP,26
+Walworth,08,State House,23,Spencer Gosch,REP,24
+Walworth,08,State House,23,Scott Moore,REP,16
+Walworth,08,State House,23,James D. Wangsness,REP,8
+Walworth,09,State House,23,Spencer Gosch,REP,29
+Walworth,09,State House,23,Scott Moore,REP,10
+Walworth,09,State House,23,James D. Wangsness,REP,2
+Walworth,10,State House,23,Spencer Gosch,REP,50
+Walworth,10,State House,23,Scott Moore,REP,44
+Walworth,10,State House,23,James D. Wangsness,REP,20

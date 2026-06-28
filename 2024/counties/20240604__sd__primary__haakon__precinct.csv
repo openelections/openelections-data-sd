@@ -1,0 +1,41 @@
+county,precinct,office,district,candidate,party,votes
+Haakon,Absentee Precinct,Initiated Measure 2024,,Yes,,12
+Haakon,Absentee Precinct,Initiated Measure 2024,,No,,31
+Haakon,Courthouse Community Room,Initiated Measure 2024,,Yes,,99
+Haakon,Courthouse Community Room,Initiated Measure 2024,,No,,166
+Haakon,Deep Creek Church,Initiated Measure 2024,,Yes,,6
+Haakon,Deep Creek Church,Initiated Measure 2024,,No,,12
+Haakon,Midland Fire Hall,Initiated Measure 2024,,Yes,,42
+Haakon,Midland Fire Hall,Initiated Measure 2024,,No,,40
+Haakon,Milesville Hall,Initiated Measure 2024,,Yes,,18
+Haakon,Milesville Hall,Initiated Measure 2024,,No,,27
+Haakon,Absentee Precinct,Sheriff,,Dillon Armour,REP,20
+Haakon,Absentee Precinct,Sheriff,,Tim Quinn,REP,24
+Haakon,Courthouse Community Room,Sheriff,,Dillon Armour,REP,129
+Haakon,Courthouse Community Room,Sheriff,,Tim Quinn,REP,121
+Haakon,Deep Creek Church,Sheriff,,Dillon Armour,REP,13
+Haakon,Deep Creek Church,Sheriff,,Tim Quinn,REP,3
+Haakon,Midland Fire Hall,Sheriff,,Dillon Armour,REP,29
+Haakon,Midland Fire Hall,Sheriff,,Tim Quinn,REP,48
+Haakon,Milesville Hall,Sheriff,,Dillon Armour,REP,11
+Haakon,Milesville Hall,Sheriff,,Tim Quinn,REP,32
+Haakon,Absentee Precinct,President,,Marianne Williamson,DEM,0
+Haakon,Absentee Precinct,President,,Joseph R Biden Jr,DEM,1
+Haakon,Absentee Precinct,President,,Dean Phillips,DEM,0
+Haakon,Absentee Precinct,President,,Armando Perez-Serrato,DEM,0
+Haakon,Courthouse Community Room,President,,Marianne Williamson,DEM,4
+Haakon,Courthouse Community Room,President,,Joseph R Biden Jr,DEM,10
+Haakon,Courthouse Community Room,President,,Dean Phillips,DEM,2
+Haakon,Courthouse Community Room,President,,Armando Perez-Serrato,DEM,0
+Haakon,Deep Creek Church,President,,Marianne Williamson,DEM,0
+Haakon,Deep Creek Church,President,,Joseph R Biden Jr,DEM,2
+Haakon,Deep Creek Church,President,,Dean Phillips,DEM,1
+Haakon,Deep Creek Church,President,,Armando Perez-Serrato,DEM,1
+Haakon,Midland Fire Hall,President,,Marianne Williamson,DEM,1
+Haakon,Midland Fire Hall,President,,Joseph R Biden Jr,DEM,1
+Haakon,Midland Fire Hall,President,,Dean Phillips,DEM,0
+Haakon,Midland Fire Hall,President,,Armando Perez-Serrato,DEM,0
+Haakon,Milesville Hall,President,,Marianne Williamson,DEM,0
+Haakon,Milesville Hall,President,,Joseph R Biden Jr,DEM,1
+Haakon,Milesville Hall,President,,Dean Phillips,DEM,0
+Haakon,Milesville Hall,President,,Armando Perez-Serrato,DEM,1

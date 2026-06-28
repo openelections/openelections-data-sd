@@ -1,0 +1,235 @@
+county,precinct,office,district,candidate,party,votes
+Lawrence,Absentee Precinct,President,,Marianne Williamson,DEM,15
+Lawrence,Absentee Precinct,President,,Joseph R Biden Jr,DEM,189
+Lawrence,Absentee Precinct,President,,Dean Phillips,DEM,4
+Lawrence,Absentee Precinct,President,,Armando Perez-Serrato,DEM,3
+Lawrence,01,President,,Marianne Williamson,DEM,8
+Lawrence,01,President,,Joseph R Biden Jr,DEM,51
+Lawrence,01,President,,Dean Phillips,DEM,9
+Lawrence,01,President,,Armando Perez-Serrato,DEM,4
+Lawrence,02,President,,Marianne Williamson,DEM,7
+Lawrence,02,President,,Joseph R Biden Jr,DEM,52
+Lawrence,02,President,,Dean Phillips,DEM,5
+Lawrence,02,President,,Armando Perez-Serrato,DEM,2
+Lawrence,03,President,,Marianne Williamson,DEM,8
+Lawrence,03,President,,Joseph R Biden Jr,DEM,82
+Lawrence,03,President,,Dean Phillips,DEM,5
+Lawrence,03,President,,Armando Perez-Serrato,DEM,1
+Lawrence,04,President,,Marianne Williamson,DEM,3
+Lawrence,04,President,,Joseph R Biden Jr,DEM,38
+Lawrence,04,President,,Dean Phillips,DEM,3
+Lawrence,04,President,,Armando Perez-Serrato,DEM,2
+Lawrence,05,President,,Marianne Williamson,DEM,0
+Lawrence,05,President,,Joseph R Biden Jr,DEM,22
+Lawrence,05,President,,Dean Phillips,DEM,0
+Lawrence,05,President,,Armando Perez-Serrato,DEM,4
+Lawrence,06,President,,Marianne Williamson,DEM,2
+Lawrence,06,President,,Joseph R Biden Jr,DEM,6
+Lawrence,06,President,,Dean Phillips,DEM,2
+Lawrence,06,President,,Armando Perez-Serrato,DEM,0
+Lawrence,07,President,,Marianne Williamson,DEM,3
+Lawrence,07,President,,Joseph R Biden Jr,DEM,26
+Lawrence,07,President,,Dean Phillips,DEM,3
+Lawrence,07,President,,Armando Perez-Serrato,DEM,1
+Lawrence,08,President,,Marianne Williamson,DEM,2
+Lawrence,08,President,,Joseph R Biden Jr,DEM,6
+Lawrence,08,President,,Dean Phillips,DEM,0
+Lawrence,08,President,,Armando Perez-Serrato,DEM,0
+Lawrence,09,President,,Marianne Williamson,DEM,10
+Lawrence,09,President,,Joseph R Biden Jr,DEM,26
+Lawrence,09,President,,Dean Phillips,DEM,4
+Lawrence,09,President,,Armando Perez-Serrato,DEM,2
+Lawrence,10,President,,Marianne Williamson,DEM,11
+Lawrence,10,President,,Joseph R Biden Jr,DEM,44
+Lawrence,10,President,,Dean Phillips,DEM,4
+Lawrence,10,President,,Armando Perez-Serrato,DEM,2
+Lawrence,Absentee Precinct,State Senate,31,Randy Deibert,REP,452
+Lawrence,Absentee Precinct,State Senate,31,Kate Crowley-Johnson,REP,265
+Lawrence,01,State Senate,31,Randy Deibert,REP,182
+Lawrence,01,State Senate,31,Kate Crowley-Johnson,REP,103
+Lawrence,02,State Senate,31,Randy Deibert,REP,178
+Lawrence,02,State Senate,31,Kate Crowley-Johnson,REP,104
+Lawrence,03,State Senate,31,Randy Deibert,REP,267
+Lawrence,03,State Senate,31,Kate Crowley-Johnson,REP,135
+Lawrence,04,State Senate,31,Randy Deibert,REP,107
+Lawrence,04,State Senate,31,Kate Crowley-Johnson,REP,57
+Lawrence,05,State Senate,31,Randy Deibert,REP,58
+Lawrence,05,State Senate,31,Kate Crowley-Johnson,REP,31
+Lawrence,06,State Senate,31,Randy Deibert,REP,19
+Lawrence,06,State Senate,31,Kate Crowley-Johnson,REP,24
+Lawrence,07,State Senate,31,Randy Deibert,REP,113
+Lawrence,07,State Senate,31,Kate Crowley-Johnson,REP,97
+Lawrence,08,State Senate,31,Randy Deibert,REP,45
+Lawrence,08,State Senate,31,Kate Crowley-Johnson,REP,25
+Lawrence,09,State Senate,31,Randy Deibert,REP,116
+Lawrence,09,State Senate,31,Kate Crowley-Johnson,REP,143
+Lawrence,10,State Senate,31,Randy Deibert,REP,287
+Lawrence,10,State Senate,31,Kate Crowley-Johnson,REP,264
+Lawrence,Absentee Precinct,State House,31,Mark Mowry,REP,298
+Lawrence,Absentee Precinct,State House,31,Mary J Fitzgerald,REP,387
+Lawrence,Absentee Precinct,State House,31,Scott Odenbach,REP,534
+Lawrence,01,State House,31,Mark Mowry,REP,112
+Lawrence,01,State House,31,Mary J Fitzgerald,REP,161
+Lawrence,01,State House,31,Scott Odenbach,REP,217
+Lawrence,02,State House,31,Mark Mowry,REP,123
+Lawrence,02,State House,31,Mary J Fitzgerald,REP,164
+Lawrence,02,State House,31,Scott Odenbach,REP,199
+Lawrence,03,State House,31,Mark Mowry,REP,162
+Lawrence,03,State House,31,Mary J Fitzgerald,REP,216
+Lawrence,03,State House,31,Scott Odenbach,REP,332
+Lawrence,04,State House,31,Mark Mowry,REP,65
+Lawrence,04,State House,31,Mary J Fitzgerald,REP,99
+Lawrence,04,State House,31,Scott Odenbach,REP,126
+Lawrence,05,State House,31,Mark Mowry,REP,42
+Lawrence,05,State House,31,Mary J Fitzgerald,REP,46
+Lawrence,05,State House,31,Scott Odenbach,REP,53
+Lawrence,06,State House,31,Mark Mowry,REP,18
+Lawrence,06,State House,31,Mary J Fitzgerald,REP,17
+Lawrence,06,State House,31,Scott Odenbach,REP,32
+Lawrence,07,State House,31,Mark Mowry,REP,105
+Lawrence,07,State House,31,Mary J Fitzgerald,REP,100
+Lawrence,07,State House,31,Scott Odenbach,REP,152
+Lawrence,08,State House,31,Mark Mowry,REP,34
+Lawrence,08,State House,31,Mary J Fitzgerald,REP,34
+Lawrence,08,State House,31,Scott Odenbach,REP,41
+Lawrence,09,State House,31,Mark Mowry,REP,153
+Lawrence,09,State House,31,Mary J Fitzgerald,REP,92
+Lawrence,09,State House,31,Scott Odenbach,REP,198
+Lawrence,10,State House,31,Mark Mowry,REP,294
+Lawrence,10,State House,31,Mary J Fitzgerald,REP,243
+Lawrence,10,State House,31,Scott Odenbach,REP,437
+Lawrence,Absentee Precinct,County Commissioner At Large,,Bob Ewing,REP,444
+Lawrence,Absentee Precinct,County Commissioner At Large,,Rick Tysdal,REP,389
+Lawrence,Absentee Precinct,County Commissioner At Large,,Erica Douglas,REP,339
+Lawrence,01,County Commissioner At Large,,Bob Ewing,REP,164
+Lawrence,01,County Commissioner At Large,,Rick Tysdal,REP,178
+Lawrence,01,County Commissioner At Large,,Erica Douglas,REP,131
+Lawrence,02,County Commissioner At Large,,Bob Ewing,REP,183
+Lawrence,02,County Commissioner At Large,,Rick Tysdal,REP,173
+Lawrence,02,County Commissioner At Large,,Erica Douglas,REP,116
+Lawrence,03,County Commissioner At Large,,Bob Ewing,REP,246
+Lawrence,03,County Commissioner At Large,,Rick Tysdal,REP,229
+Lawrence,03,County Commissioner At Large,,Erica Douglas,REP,184
+Lawrence,04,County Commissioner At Large,,Bob Ewing,REP,101
+Lawrence,04,County Commissioner At Large,,Rick Tysdal,REP,90
+Lawrence,04,County Commissioner At Large,,Erica Douglas,REP,85
+Lawrence,05,County Commissioner At Large,,Bob Ewing,REP,47
+Lawrence,05,County Commissioner At Large,,Rick Tysdal,REP,37
+Lawrence,05,County Commissioner At Large,,Erica Douglas,REP,51
+Lawrence,06,County Commissioner At Large,,Bob Ewing,REP,21
+Lawrence,06,County Commissioner At Large,,Rick Tysdal,REP,20
+Lawrence,06,County Commissioner At Large,,Erica Douglas,REP,30
+Lawrence,07,County Commissioner At Large,,Bob Ewing,REP,105
+Lawrence,07,County Commissioner At Large,,Rick Tysdal,REP,86
+Lawrence,07,County Commissioner At Large,,Erica Douglas,REP,133
+Lawrence,08,County Commissioner At Large,,Bob Ewing,REP,40
+Lawrence,08,County Commissioner At Large,,Rick Tysdal,REP,30
+Lawrence,08,County Commissioner At Large,,Erica Douglas,REP,33
+Lawrence,09,County Commissioner At Large,,Bob Ewing,REP,129
+Lawrence,09,County Commissioner At Large,,Rick Tysdal,REP,98
+Lawrence,09,County Commissioner At Large,,Erica Douglas,REP,163
+Lawrence,10,County Commissioner At Large,,Bob Ewing,REP,331
+Lawrence,10,County Commissioner At Large,,Rick Tysdal,REP,284
+Lawrence,10,County Commissioner At Large,,Erica Douglas,REP,292
+Lawrence,Absentee Precinct,Delegates To State Convention,,Naomi Merchant,REP,332
+Lawrence,Absentee Precinct,Delegates To State Convention,,David L. Gross,REP,269
+Lawrence,Absentee Precinct,Delegates To State Convention,,Ellen L. Gross,REP,259
+Lawrence,Absentee Precinct,Delegates To State Convention,,Meta Halverson,REP,270
+Lawrence,01,Delegates To State Convention,,Naomi Merchant,REP,118
+Lawrence,01,Delegates To State Convention,,David L. Gross,REP,97
+Lawrence,01,Delegates To State Convention,,Ellen L. Gross,REP,89
+Lawrence,01,Delegates To State Convention,,Meta Halverson,REP,93
+Lawrence,02,Delegates To State Convention,,Naomi Merchant,REP,130
+Lawrence,02,Delegates To State Convention,,David L. Gross,REP,102
+Lawrence,02,Delegates To State Convention,,Ellen L. Gross,REP,93
+Lawrence,02,Delegates To State Convention,,Meta Halverson,REP,100
+Lawrence,03,Delegates To State Convention,,Naomi Merchant,REP,181
+Lawrence,03,Delegates To State Convention,,David L. Gross,REP,150
+Lawrence,03,Delegates To State Convention,,Ellen L. Gross,REP,122
+Lawrence,03,Delegates To State Convention,,Meta Halverson,REP,141
+Lawrence,04,Delegates To State Convention,,Naomi Merchant,REP,89
+Lawrence,04,Delegates To State Convention,,David L. Gross,REP,77
+Lawrence,04,Delegates To State Convention,,Ellen L. Gross,REP,68
+Lawrence,04,Delegates To State Convention,,Meta Halverson,REP,69
+Lawrence,05,Delegates To State Convention,,Naomi Merchant,REP,40
+Lawrence,05,Delegates To State Convention,,David L. Gross,REP,34
+Lawrence,05,Delegates To State Convention,,Ellen L. Gross,REP,31
+Lawrence,05,Delegates To State Convention,,Meta Halverson,REP,27
+Lawrence,06,Delegates To State Convention,,Naomi Merchant,REP,26
+Lawrence,06,Delegates To State Convention,,David L. Gross,REP,15
+Lawrence,06,Delegates To State Convention,,Ellen L. Gross,REP,9
+Lawrence,06,Delegates To State Convention,,Meta Halverson,REP,21
+Lawrence,07,Delegates To State Convention,,Naomi Merchant,REP,92
+Lawrence,07,Delegates To State Convention,,David L. Gross,REP,86
+Lawrence,07,Delegates To State Convention,,Ellen L. Gross,REP,77
+Lawrence,07,Delegates To State Convention,,Meta Halverson,REP,84
+Lawrence,08,Delegates To State Convention,,Naomi Merchant,REP,29
+Lawrence,08,Delegates To State Convention,,David L. Gross,REP,30
+Lawrence,08,Delegates To State Convention,,Ellen L. Gross,REP,29
+Lawrence,08,Delegates To State Convention,,Meta Halverson,REP,22
+Lawrence,09,Delegates To State Convention,,Naomi Merchant,REP,117
+Lawrence,09,Delegates To State Convention,,David L. Gross,REP,93
+Lawrence,09,Delegates To State Convention,,Ellen L. Gross,REP,73
+Lawrence,09,Delegates To State Convention,,Meta Halverson,REP,154
+Lawrence,10,Delegates To State Convention,,Naomi Merchant,REP,270
+Lawrence,10,Delegates To State Convention,,David L. Gross,REP,172
+Lawrence,10,Delegates To State Convention,,Ellen L. Gross,REP,148
+Lawrence,10,Delegates To State Convention,,Meta Halverson,REP,222
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-01,Donald Lutz,REP,34
+Lawrence,01,Precinct Committeeman,Precinct-01,Donald Lutz,REP,111
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-01,Jimmy J. Roberts,REP,9
+Lawrence,01,Precinct Committeeman,Precinct-01,Jimmy J. Roberts,REP,62
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-02,Ayden Q. Wrisley,REP,4
+Lawrence,02,Precinct Committeeman,Precinct-02,Ayden Q. Wrisley,REP,8
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-02,Nathan Hoogshagen,REP,37
+Lawrence,02,Precinct Committeeman,Precinct-02,Nathan Hoogshagen,REP,152
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-02,Thomas R. Nelson,REP,31
+Lawrence,02,Precinct Committeeman,Precinct-02,Thomas R. Nelson,REP,63
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-03,Richard Prezkuta,REP,31
+Lawrence,03,Precinct Committeeman,Precinct-03,Richard Prezkuta,REP,150
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-03,Perry Washenberger,REP,33
+Lawrence,03,Precinct Committeeman,Precinct-03,Perry Washenberger,REP,124
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-04,Lloyd A. Rich,REP,15
+Lawrence,04,Precinct Committeeman,Precinct-04,Lloyd A. Rich,REP,74
+Lawrence,Absentee Precinct,Precinct Committeeman,Precinct-04,Gary Coe,REP,16
+Lawrence,04,Precinct Committeeman,Precinct-04,Gary Coe,REP,62
+Lawrence,Absentee Precinct,Precinct Committeeman,07,Joseph Palmer,REP,31
+Lawrence,Absentee Precinct,Precinct Committeeman,07,Ronald J. Moeller,REP,44
+Lawrence,Absentee Precinct,Precinct Committeeman,08,Justin Tupper,REP,0
+Lawrence,Absentee Precinct,Precinct Committeeman,08,Dave Samuelson,REP,5
+Lawrence,Absentee Precinct,Precinct Committeeman,09,Dahl H. McLean,REP,27
+Lawrence,Absentee Precinct,Precinct Committeeman,09,Tristen Rhoden,REP,10
+Lawrence,Absentee Precinct,Precinct Committeeman,10,Timothy A. Braithwait,REP,110
+Lawrence,Absentee Precinct,Precinct Committeeman,10,Richard D Sleep,REP,94
+Lawrence,07,Precinct Committeeman,07,Joseph Palmer,REP,61
+Lawrence,07,Precinct Committeeman,07,Ronald J. Moeller,REP,90
+Lawrence,08,Precinct Committeeman,08,Justin Tupper,REP,31
+Lawrence,08,Precinct Committeeman,08,Dave Samuelson,REP,39
+Lawrence,09,Precinct Committeeman,09,Dahl H. McLean,REP,142
+Lawrence,09,Precinct Committeeman,09,Tristen Rhoden,REP,97
+Lawrence,10,Precinct Committeeman,10,Timothy A. Braithwait,REP,255
+Lawrence,10,Precinct Committeeman,10,Richard D Sleep,REP,264
+Lawrence,Absentee Precinct,Precinct Committeewoman,01,Cindy K. Roberts,REP,17
+Lawrence,Absentee Precinct,Precinct Committeewoman,01,Dawn M. Lutz,REP,28
+Lawrence,01,Precinct Committeewoman,01,Cindy K. Roberts,REP,97
+Lawrence,01,Precinct Committeewoman,01,Dawn M. Lutz,REP,82
+Lawrence,Absentee Precinct,Precinct Committeewoman,03,Paulette Washenberger,REP,45
+Lawrence,Absentee Precinct,Precinct Committeewoman,03,Delia Prezkuta,REP,18
+Lawrence,03,Precinct Committeewoman,03,Paulette Washenberger,REP,150
+Lawrence,03,Precinct Committeewoman,03,Delia Prezkuta,REP,125
+Lawrence,Absentee Precinct,Precinct Committeewoman,06,Ami M Keller,REP,3
+Lawrence,Absentee Precinct,Precinct Committeewoman,06,Susan Johnson,REP,6
+Lawrence,06,Precinct Committeewoman,06,Ami M Keller,REP,14
+Lawrence,06,Precinct Committeewoman,06,Susan Johnson,REP,20
+Lawrence,Absentee Precinct,Precinct Committeewoman,08,Valerie Samuelson,REP,6
+Lawrence,Absentee Precinct,Precinct Committeewoman,08,Mary J Fitzgerald,REP,0
+Lawrence,08,Precinct Committeewoman,08,Valerie Samuelson,REP,43
+Lawrence,08,Precinct Committeewoman,08,Mary J Fitzgerald,REP,22
+Lawrence,Absentee Precinct,Precinct Committeewoman,09,Kalen Lemmel,REP,9
+Lawrence,Absentee Precinct,Precinct Committeewoman,09,Anna P. Marrs,REP,27
+Lawrence,Absentee Precinct,Precinct Committeewoman,10,Laura Odenbach,REP,138
+Lawrence,Absentee Precinct,Precinct Committeewoman,10,Karen E. Sleep,REP,63
+Lawrence,09,Precinct Committeewoman,09,Kalen Lemmel,REP,75
+Lawrence,09,Precinct Committeewoman,09,Anna P. Marrs,REP,178
+Lawrence,10,Precinct Committeewoman,10,Laura Odenbach,REP,320
+Lawrence,10,Precinct Committeewoman,10,Karen E. Sleep,REP,211

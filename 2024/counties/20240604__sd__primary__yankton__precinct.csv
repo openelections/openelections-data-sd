@@ -1,0 +1,288 @@
+county,precinct,office,district,candidate,party,votes
+Yankton,Absentee Precinct,President,,Marianne Williamson,DEM,9
+Yankton,Absentee Precinct,President,,Joseph R Biden Jr,DEM,88
+Yankton,Absentee Precinct,President,,Dean Phillips,DEM,4
+Yankton,Absentee Precinct,President,,Armando Perez-Serrato,DEM,4
+Yankton,Gayville Community Center,President,,Marianne Williamson,DEM,5
+Yankton,Gayville Community Center,President,,Joseph R Biden Jr,DEM,10
+Yankton,Gayville Community Center,President,,Dean Phillips,DEM,1
+Yankton,Gayville Community Center,President,,Armando Perez-Serrato,DEM,1
+Yankton,Lesterville Fire Hall,President,,Marianne Williamson,DEM,1
+Yankton,Lesterville Fire Hall,President,,Joseph R Biden Jr,DEM,0
+Yankton,Lesterville Fire Hall,President,,Dean Phillips,DEM,1
+Yankton,Lesterville Fire Hall,President,,Armando Perez-Serrato,DEM,0
+Yankton,Lewis and Clark Recreation Area,President,,Marianne Williamson,DEM,2
+Yankton,Lewis and Clark Recreation Area,President,,Joseph R Biden Jr,DEM,25
+Yankton,Lewis and Clark Recreation Area,President,,Dean Phillips,DEM,1
+Yankton,Lewis and Clark Recreation Area,President,,Armando Perez-Serrato,DEM,3
+Yankton,Mayfield Store,President,,Marianne Williamson,DEM,1
+Yankton,Mayfield Store,President,,Joseph R Biden Jr,DEM,3
+Yankton,Mayfield Store,President,,Dean Phillips,DEM,2
+Yankton,Mayfield Store,President,,Armando Perez-Serrato,DEM,1
+Yankton,Yankton City Hall,President,,Marianne Williamson,DEM,8
+Yankton,Yankton City Hall,President,,Joseph R Biden Jr,DEM,88
+Yankton,Yankton City Hall,President,,Dean Phillips,DEM,7
+Yankton,Yankton City Hall,President,,Armando Perez-Serrato,DEM,8
+Yankton,Yankton Fire Station #2,President,,Marianne Williamson,DEM,15
+Yankton,Yankton Fire Station #2,President,,Joseph R Biden Jr,DEM,80
+Yankton,Yankton Fire Station #2,President,,Dean Phillips,DEM,15
+Yankton,Yankton Fire Station #2,President,,Armando Perez-Serrato,DEM,6
+Yankton,Absentee Precinct,State Senate,18,Lauren Nelson,REP,246
+Yankton,Absentee Precinct,State Senate,18,Jean M. Hunhoff,REP,345
+Yankton,Gayville Community Center,State Senate,18,Lauren Nelson,REP,52
+Yankton,Gayville Community Center,State Senate,18,Jean M. Hunhoff,REP,15
+Yankton,Lesterville Fire Hall,State Senate,18,Lauren Nelson,REP,79
+Yankton,Lesterville Fire Hall,State Senate,18,Jean M. Hunhoff,REP,37
+Yankton,Lewis and Clark Recreation Area,State Senate,18,Lauren Nelson,REP,91
+Yankton,Lewis and Clark Recreation Area,State Senate,18,Jean M. Hunhoff,REP,69
+Yankton,Mayfield Store,State Senate,18,Lauren Nelson,REP,61
+Yankton,Mayfield Store,State Senate,18,Jean M. Hunhoff,REP,23
+Yankton,Yankton City Hall,State Senate,18,Lauren Nelson,REP,286
+Yankton,Yankton City Hall,State Senate,18,Jean M. Hunhoff,REP,255
+Yankton,Yankton Fire Station #2,State Senate,18,Lauren Nelson,REP,385
+Yankton,Yankton Fire Station #2,State Senate,18,Jean M. Hunhoff,REP,379
+Yankton,Absentee Precinct,State House,18,Mike Stevens,REP,365
+Yankton,Absentee Precinct,State House,18,Julie Auch,REP,308
+Yankton,Absentee Precinct,State House,18,John R Marquardt,REP,334
+Yankton,Gayville Community Center,State House,18,Mike Stevens,REP,27
+Yankton,Gayville Community Center,State House,18,Julie Auch,REP,52
+Yankton,Gayville Community Center,State House,18,John R Marquardt,REP,26
+Yankton,Lesterville Fire Hall,State House,18,Mike Stevens,REP,37
+Yankton,Lesterville Fire Hall,State House,18,Julie Auch,REP,101
+Yankton,Lesterville Fire Hall,State House,18,John R Marquardt,REP,35
+Yankton,Lewis and Clark Recreation Area,State House,18,Mike Stevens,REP,76
+Yankton,Lewis and Clark Recreation Area,State House,18,Julie Auch,REP,106
+Yankton,Lewis and Clark Recreation Area,State House,18,John R Marquardt,REP,78
+Yankton,Mayfield Store,State House,18,Mike Stevens,REP,27
+Yankton,Mayfield Store,State House,18,Julie Auch,REP,73
+Yankton,Mayfield Store,State House,18,John R Marquardt,REP,26
+Yankton,Yankton City Hall,State House,18,Mike Stevens,REP,292
+Yankton,Yankton City Hall,State House,18,Julie Auch,REP,352
+Yankton,Yankton City Hall,State House,18,John R Marquardt,REP,244
+Yankton,Yankton Fire Station #2,State House,18,Mike Stevens,REP,425
+Yankton,Yankton Fire Station #2,State House,18,Julie Auch,REP,474
+Yankton,Yankton Fire Station #2,State House,18,John R Marquardt,REP,366
+Yankton,Absentee Precinct,Precinct Committeeman,01,Dan M Korus,REP,8
+Yankton,Absentee Precinct,Precinct Committeeman,01,Roger Meyer,REP,12
+Yankton,Absentee Precinct,Precinct Committeeman,02,John Mattacola,REP,9
+Yankton,Absentee Precinct,Precinct Committeeman,02,Wayne R Diede,REP,17
+Yankton,Absentee Precinct,Precinct Committeeman,03,Thomas D Stotz,REP,38
+Yankton,Absentee Precinct,Precinct Committeeman,03,Christopher J Patton,REP,11
+Yankton,Absentee Precinct,Precinct Committeeman,04,Nick Moser,REP,47
+Yankton,Absentee Precinct,Precinct Committeeman,04,Mark Konrad,REP,22
+Yankton,Gayville Community Center,Precinct Committeeman,01,Dan M Korus,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,01,Roger Meyer,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,02,John Mattacola,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,02,Wayne R Diede,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,03,Thomas D Stotz,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,03,Christopher J Patton,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,04,Nick Moser,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,04,Mark Konrad,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,01,Dan M Korus,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,01,Roger Meyer,REP,3
+Yankton,Lesterville Fire Hall,Precinct Committeeman,02,John Mattacola,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,02,Wayne R Diede,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,03,Thomas D Stotz,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,03,Christopher J Patton,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,04,Nick Moser,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,04,Mark Konrad,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,01,Dan M Korus,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,01,Roger Meyer,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,02,John Mattacola,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,02,Wayne R Diede,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,03,Thomas D Stotz,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,03,Christopher J Patton,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,04,Nick Moser,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,04,Mark Konrad,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,01,Dan M Korus,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,01,Roger Meyer,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,02,John Mattacola,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,02,Wayne R Diede,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,03,Thomas D Stotz,REP,2
+Yankton,Mayfield Store,Precinct Committeeman,03,Christopher J Patton,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,04,Nick Moser,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,04,Mark Konrad,REP,0
+Yankton,Yankton City Hall,Precinct Committeeman,01,Dan M Korus,REP,23
+Yankton,Yankton City Hall,Precinct Committeeman,01,Roger Meyer,REP,29
+Yankton,Yankton City Hall,Precinct Committeeman,02,John Mattacola,REP,18
+Yankton,Yankton City Hall,Precinct Committeeman,02,Wayne R Diede,REP,29
+Yankton,Yankton City Hall,Precinct Committeeman,03,Thomas D Stotz,REP,28
+Yankton,Yankton City Hall,Precinct Committeeman,03,Christopher J Patton,REP,11
+Yankton,Yankton City Hall,Precinct Committeeman,04,Nick Moser,REP,65
+Yankton,Yankton City Hall,Precinct Committeeman,04,Mark Konrad,REP,30
+Yankton,Yankton Fire Station #2,Precinct Committeeman,01,Dan M Korus,REP,2
+Yankton,Yankton Fire Station #2,Precinct Committeeman,01,Roger Meyer,REP,7
+Yankton,Yankton Fire Station #2,Precinct Committeeman,02,John Mattacola,REP,18
+Yankton,Yankton Fire Station #2,Precinct Committeeman,02,Wayne R Diede,REP,33
+Yankton,Yankton Fire Station #2,Precinct Committeeman,03,Thomas D Stotz,REP,75
+Yankton,Yankton Fire Station #2,Precinct Committeeman,03,Christopher J Patton,REP,29
+Yankton,Yankton Fire Station #2,Precinct Committeeman,04,Nick Moser,REP,46
+Yankton,Yankton Fire Station #2,Precinct Committeeman,04,Mark Konrad,REP,20
+Yankton,Absentee Precinct,Precinct Committeeman,05,Lance Anderson,REP,65
+Yankton,Absentee Precinct,Precinct Committeeman,05,Doug Marquardt,REP,74
+Yankton,Absentee Precinct,Precinct Committeeman,14,John H Gunderson,REP,8
+Yankton,Absentee Precinct,Precinct Committeeman,14,Jake McManus,REP,13
+Yankton,Absentee Precinct,Precinct Committeeman,26,Steven Rokahr,REP,42
+Yankton,Absentee Precinct,Precinct Committeeman,26,Duane (Butch) G Becker,REP,81
+Yankton,Absentee Precinct,Precinct Committeeman,28,Dan Tacke,REP,8
+Yankton,Absentee Precinct,Precinct Committeeman,28,Jared Adamson,REP,4
+Yankton,Gayville Community Center,Precinct Committeeman,05,Lance Anderson,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,05,Doug Marquardt,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,14,John H Gunderson,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,14,Jake McManus,REP,1
+Yankton,Gayville Community Center,Precinct Committeeman,26,Steven Rokahr,REP,0
+Yankton,Gayville Community Center,Precinct Committeeman,26,Duane (Butch) G Becker,REP,2
+Yankton,Gayville Community Center,Precinct Committeeman,28,Dan Tacke,REP,1
+Yankton,Gayville Community Center,Precinct Committeeman,28,Jared Adamson,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,05,Lance Anderson,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,05,Doug Marquardt,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,14,John H Gunderson,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,14,Jake McManus,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,26,Steven Rokahr,REP,1
+Yankton,Lesterville Fire Hall,Precinct Committeeman,26,Duane (Butch) G Becker,REP,1
+Yankton,Lesterville Fire Hall,Precinct Committeeman,28,Dan Tacke,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeeman,28,Jared Adamson,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,05,Lance Anderson,REP,7
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,05,Doug Marquardt,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,14,John H Gunderson,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,14,Jake McManus,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,26,Steven Rokahr,REP,51
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,26,Duane (Butch) G Becker,REP,59
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,28,Dan Tacke,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeeman,28,Jared Adamson,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,05,Lance Anderson,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,05,Doug Marquardt,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,14,John H Gunderson,REP,30
+Yankton,Mayfield Store,Precinct Committeeman,14,Jake McManus,REP,32
+Yankton,Mayfield Store,Precinct Committeeman,26,Steven Rokahr,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,26,Duane (Butch) G Becker,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,28,Dan Tacke,REP,0
+Yankton,Mayfield Store,Precinct Committeeman,28,Jared Adamson,REP,0
+Yankton,Yankton City Hall,Precinct Committeeman,05,Lance Anderson,REP,48
+Yankton,Yankton City Hall,Precinct Committeeman,05,Doug Marquardt,REP,27
+Yankton,Yankton City Hall,Precinct Committeeman,14,John H Gunderson,REP,1
+Yankton,Yankton City Hall,Precinct Committeeman,14,Jake McManus,REP,1
+Yankton,Yankton City Hall,Precinct Committeeman,26,Steven Rokahr,REP,28
+Yankton,Yankton City Hall,Precinct Committeeman,26,Duane (Butch) G Becker,REP,21
+Yankton,Yankton City Hall,Precinct Committeeman,28,Dan Tacke,REP,19
+Yankton,Yankton City Hall,Precinct Committeeman,28,Jared Adamson,REP,6
+Yankton,Yankton Fire Station #2,Precinct Committeeman,05,Lance Anderson,REP,176
+Yankton,Yankton Fire Station #2,Precinct Committeeman,05,Doug Marquardt,REP,118
+Yankton,Yankton Fire Station #2,Precinct Committeeman,14,John H Gunderson,REP,5
+Yankton,Yankton Fire Station #2,Precinct Committeeman,14,Jake McManus,REP,3
+Yankton,Yankton Fire Station #2,Precinct Committeeman,26,Steven Rokahr,REP,26
+Yankton,Yankton Fire Station #2,Precinct Committeeman,26,Duane (Butch) G Becker,REP,26
+Yankton,Yankton Fire Station #2,Precinct Committeeman,28,Dan Tacke,REP,9
+Yankton,Yankton Fire Station #2,Precinct Committeeman,28,Jared Adamson,REP,10
+Yankton,Absentee Precinct,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,8
+Yankton,Absentee Precinct,Precinct Committeewoman,01,Diane Korus,REP,12
+Yankton,Absentee Precinct,Precinct Committeewoman,02,Kimberlee Kappel,REP,13
+Yankton,Absentee Precinct,Precinct Committeewoman,02,Malena Diede,REP,14
+Yankton,Absentee Precinct,Precinct Committeewoman,03,Stacey Nickels,REP,17
+Yankton,Absentee Precinct,Precinct Committeewoman,03,Julie A Stotz,REP,32
+Yankton,Absentee Precinct,Precinct Committeewoman,04,Patricia Konrad,REP,22
+Yankton,Absentee Precinct,Precinct Committeewoman,04,Barbara M Law,REP,43
+Yankton,Gayville Community Center,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,01,Diane Korus,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,02,Kimberlee Kappel,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,02,Malena Diede,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,03,Stacey Nickels,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,03,Julie A Stotz,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,04,Patricia Konrad,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,04,Barbara M Law,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,2
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,01,Diane Korus,REP,1
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,02,Kimberlee Kappel,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,02,Malena Diede,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,03,Stacey Nickels,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,03,Julie A Stotz,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,04,Patricia Konrad,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,04,Barbara M Law,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,01,Diane Korus,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,02,Kimberlee Kappel,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,02,Malena Diede,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,03,Stacey Nickels,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,03,Julie A Stotz,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,04,Patricia Konrad,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,04,Barbara M Law,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,01,Diane Korus,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,02,Kimberlee Kappel,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,02,Malena Diede,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,03,Stacey Nickels,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,03,Julie A Stotz,REP,2
+Yankton,Mayfield Store,Precinct Committeewoman,04,Patricia Konrad,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,04,Barbara M Law,REP,0
+Yankton,Yankton City Hall,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,19
+Yankton,Yankton City Hall,Precinct Committeewoman,01,Diane Korus,REP,31
+Yankton,Yankton City Hall,Precinct Committeewoman,02,Kimberlee Kappel,REP,32
+Yankton,Yankton City Hall,Precinct Committeewoman,02,Malena Diede,REP,19
+Yankton,Yankton City Hall,Precinct Committeewoman,03,Stacey Nickels,REP,27
+Yankton,Yankton City Hall,Precinct Committeewoman,03,Julie A Stotz,REP,24
+Yankton,Yankton City Hall,Precinct Committeewoman,04,Patricia Konrad,REP,36
+Yankton,Yankton City Hall,Precinct Committeewoman,04,Barbara M Law,REP,53
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,01,(Van) Veandeen Pace,REP,7
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,01,Diane Korus,REP,2
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,02,Kimberlee Kappel,REP,25
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,02,Malena Diede,REP,26
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,03,Stacey Nickels,REP,49
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,03,Julie A Stotz,REP,64
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,04,Patricia Konrad,REP,22
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,04,Barbara M Law,REP,42
+Yankton,Absentee Precinct,Precinct Committeewoman,05,Jean M Hunhoff,REP,92
+Yankton,Absentee Precinct,Precinct Committeewoman,05,Lisa Anderson,REP,57
+Yankton,Absentee Precinct,Precinct Committeewoman,14,Amanda Hauger,REP,9
+Yankton,Absentee Precinct,Precinct Committeewoman,14,Cassondra K Richelieu,REP,12
+Yankton,Absentee Precinct,Precinct Committeewoman,23,Jacqueline I Sempek,REP,3
+Yankton,Absentee Precinct,Precinct Committeewoman,23,Lauren Nelson,REP,11
+Yankton,Absentee Precinct,Precinct Committeewoman,26,Jennifer Morkve,REP,28
+Yankton,Absentee Precinct,Precinct Committeewoman,26,Linda Stevens,REP,110
+Yankton,Gayville Community Center,Precinct Committeewoman,05,Jean M Hunhoff,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,05,Lisa Anderson,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,14,Amanda Hauger,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,14,Cassondra K Richelieu,REP,1
+Yankton,Gayville Community Center,Precinct Committeewoman,23,Jacqueline I Sempek,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,23,Lauren Nelson,REP,1
+Yankton,Gayville Community Center,Precinct Committeewoman,26,Jennifer Morkve,REP,0
+Yankton,Gayville Community Center,Precinct Committeewoman,26,Linda Stevens,REP,2
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,05,Jean M Hunhoff,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,05,Lisa Anderson,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,14,Amanda Hauger,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,14,Cassondra K Richelieu,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,23,Jacqueline I Sempek,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,23,Lauren Nelson,REP,0
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,26,Jennifer Morkve,REP,1
+Yankton,Lesterville Fire Hall,Precinct Committeewoman,26,Linda Stevens,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,05,Jean M Hunhoff,REP,2
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,05,Lisa Anderson,REP,7
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,14,Amanda Hauger,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,14,Cassondra K Richelieu,REP,1
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,23,Jacqueline I Sempek,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,23,Lauren Nelson,REP,0
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,26,Jennifer Morkve,REP,37
+Yankton,Lewis and Clark Recreation Area,Precinct Committeewoman,26,Linda Stevens,REP,77
+Yankton,Mayfield Store,Precinct Committeewoman,05,Jean M Hunhoff,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,05,Lisa Anderson,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,14,Amanda Hauger,REP,12
+Yankton,Mayfield Store,Precinct Committeewoman,14,Cassondra K Richelieu,REP,47
+Yankton,Mayfield Store,Precinct Committeewoman,23,Jacqueline I Sempek,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,23,Lauren Nelson,REP,6
+Yankton,Mayfield Store,Precinct Committeewoman,26,Jennifer Morkve,REP,0
+Yankton,Mayfield Store,Precinct Committeewoman,26,Linda Stevens,REP,0
+Yankton,Yankton City Hall,Precinct Committeewoman,05,Jean M Hunhoff,REP,38
+Yankton,Yankton City Hall,Precinct Committeewoman,05,Lisa Anderson,REP,39
+Yankton,Yankton City Hall,Precinct Committeewoman,14,Amanda Hauger,REP,1
+Yankton,Yankton City Hall,Precinct Committeewoman,14,Cassondra K Richelieu,REP,0
+Yankton,Yankton City Hall,Precinct Committeewoman,23,Jacqueline I Sempek,REP,2
+Yankton,Yankton City Hall,Precinct Committeewoman,23,Lauren Nelson,REP,8
+Yankton,Yankton City Hall,Precinct Committeewoman,26,Jennifer Morkve,REP,21
+Yankton,Yankton City Hall,Precinct Committeewoman,26,Linda Stevens,REP,27
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,05,Jean M Hunhoff,REP,163
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,05,Lisa Anderson,REP,154
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,14,Amanda Hauger,REP,8
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,14,Cassondra K Richelieu,REP,1
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,23,Jacqueline I Sempek,REP,6
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,23,Lauren Nelson,REP,4
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,26,Jennifer Morkve,REP,18
+Yankton,Yankton Fire Station #2,Precinct Committeewoman,26,Linda Stevens,REP,32

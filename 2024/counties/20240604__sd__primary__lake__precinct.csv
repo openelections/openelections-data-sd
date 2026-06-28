@@ -1,0 +1,151 @@
+county,precinct,office,district,candidate,party,votes
+Lake,Chester-Franklin,State Senate,08,Casey Crabtree,REP,79
+Lake,Chester-Franklin,State Senate,08,Rick Weible,REP,44
+Lake,Wentworth-Rutland,State Senate,08,Casey Crabtree,REP,101
+Lake,Wentworth-Rutland,State Senate,08,Rick Weible,REP,38
+Lake,Nunda-Summit,State Senate,08,Casey Crabtree,REP,32
+Lake,Nunda-Summit,State Senate,08,Rick Weible,REP,22
+Lake,Concord-Badus-Wayne/Ramona,State Senate,08,Casey Crabtree,REP,55
+Lake,Concord-Badus-Wayne/Ramona,State Senate,08,Rick Weible,REP,14
+Lake,Herman-Winfred,State Senate,08,Casey Crabtree,REP,102
+Lake,Herman-Winfred,State Senate,08,Rick Weible,REP,20
+Lake,Farmington-Leroy-Clarno-Orland,State Senate,08,Casey Crabtree,REP,64
+Lake,Farmington-Leroy-Clarno-Orland,State Senate,08,Rick Weible,REP,11
+Lake,Lakeview,State Senate,08,Casey Crabtree,REP,104
+Lake,Lakeview,State Senate,08,Rick Weible,REP,22
+Lake,Ward One,State Senate,08,Casey Crabtree,REP,266
+Lake,Ward One,State Senate,08,Rick Weible,REP,52
+Lake,Ward Two,State Senate,08,Casey Crabtree,REP,122
+Lake,Ward Two,State Senate,08,Rick Weible,REP,36
+Lake,Ward Three,State Senate,08,Casey Crabtree,REP,103
+Lake,Ward Three,State Senate,08,Rick Weible,REP,28
+Lake,Chester-Franklin,State House,08,Matt Wagner,REP,64
+Lake,Chester-Franklin,State House,08,Tim Walburg,REP,91
+Lake,Chester-Franklin,State House,08,Tim Reisch,REP,62
+Lake,Wentworth-Rutland,State House,08,Matt Wagner,REP,52
+Lake,Wentworth-Rutland,State House,08,Tim Walburg,REP,118
+Lake,Wentworth-Rutland,State House,08,Tim Reisch,REP,73
+Lake,Nunda-Summit,State House,08,Matt Wagner,REP,34
+Lake,Nunda-Summit,State House,08,Tim Walburg,REP,46
+Lake,Nunda-Summit,State House,08,Tim Reisch,REP,18
+Lake,Concord-Badus-Wayne/Ramona,State House,08,Matt Wagner,REP,24
+Lake,Concord-Badus-Wayne/Ramona,State House,08,Tim Walburg,REP,55
+Lake,Concord-Badus-Wayne/Ramona,State House,08,Tim Reisch,REP,42
+Lake,Herman-Winfred,State House,08,Matt Wagner,REP,31
+Lake,Herman-Winfred,State House,08,Tim Walburg,REP,102
+Lake,Herman-Winfred,State House,08,Tim Reisch,REP,85
+Lake,Farmington-Leroy-Clarno-Orland,State House,08,Matt Wagner,REP,23
+Lake,Farmington-Leroy-Clarno-Orland,State House,08,Tim Walburg,REP,61
+Lake,Farmington-Leroy-Clarno-Orland,State House,08,Tim Reisch,REP,53
+Lake,Lakeview,State House,08,Matt Wagner,REP,25
+Lake,Lakeview,State House,08,Tim Walburg,REP,111
+Lake,Lakeview,State House,08,Tim Reisch,REP,102
+Lake,Ward One,State House,08,Matt Wagner,REP,78
+Lake,Ward One,State House,08,Tim Walburg,REP,261
+Lake,Ward One,State House,08,Tim Reisch,REP,244
+Lake,Ward Two,State House,08,Matt Wagner,REP,68
+Lake,Ward Two,State House,08,Tim Walburg,REP,114
+Lake,Ward Two,State House,08,Tim Reisch,REP,108
+Lake,Ward Three,State House,08,Matt Wagner,REP,47
+Lake,Ward Three,State House,08,Tim Walburg,REP,105
+Lake,Ward Three,State House,08,Tim Reisch,REP,96
+Lake,Chester-Franklin,States Attorney,,Aaron Francis McGowan,REP,58
+Lake,Chester-Franklin,States Attorney,,Wendy Kloeppner,REP,50
+Lake,Wentworth-Rutland,States Attorney,,Aaron Francis McGowan,REP,68
+Lake,Wentworth-Rutland,States Attorney,,Wendy Kloeppner,REP,48
+Lake,Nunda-Summit,States Attorney,,Aaron Francis McGowan,REP,31
+Lake,Nunda-Summit,States Attorney,,Wendy Kloeppner,REP,16
+Lake,Concord-Badus-Wayne/Ramona,States Attorney,,Aaron Francis McGowan,REP,37
+Lake,Concord-Badus-Wayne/Ramona,States Attorney,,Wendy Kloeppner,REP,32
+Lake,Herman-Winfred,States Attorney,,Aaron Francis McGowan,REP,83
+Lake,Herman-Winfred,States Attorney,,Wendy Kloeppner,REP,28
+Lake,Farmington-Leroy-Clarno-Orland,States Attorney,,Aaron Francis McGowan,REP,49
+Lake,Farmington-Leroy-Clarno-Orland,States Attorney,,Wendy Kloeppner,REP,23
+Lake,Lakeview,States Attorney,,Aaron Francis McGowan,REP,75
+Lake,Lakeview,States Attorney,,Wendy Kloeppner,REP,41
+Lake,Ward One,States Attorney,,Aaron Francis McGowan,REP,229
+Lake,Ward One,States Attorney,,Wendy Kloeppner,REP,68
+Lake,Ward Two,States Attorney,,Aaron Francis McGowan,REP,93
+Lake,Ward Two,States Attorney,,Wendy Kloeppner,REP,66
+Lake,Ward Three,States Attorney,,Aaron Francis McGowan,REP,99
+Lake,Ward Three,States Attorney,,Wendy Kloeppner,REP,35
+Lake,Chester-Franklin,County Commissioner At Large,,Ryan J Gebauer,REP,50
+Lake,Chester-Franklin,County Commissioner At Large,,Adam Leighton,REP,74
+Lake,Chester-Franklin,County Commissioner At Large,,Deb Reinicke,REP,81
+Lake,Chester-Franklin,County Commissioner At Large,,Dennis Slaughter,REP,74
+Lake,Wentworth-Rutland,County Commissioner At Large,,Ryan J Gebauer,REP,56
+Lake,Wentworth-Rutland,County Commissioner At Large,,Adam Leighton,REP,103
+Lake,Wentworth-Rutland,County Commissioner At Large,,Deb Reinicke,REP,92
+Lake,Wentworth-Rutland,County Commissioner At Large,,Dennis Slaughter,REP,69
+Lake,Nunda-Summit,County Commissioner At Large,,Ryan J Gebauer,REP,26
+Lake,Nunda-Summit,County Commissioner At Large,,Adam Leighton,REP,43
+Lake,Nunda-Summit,County Commissioner At Large,,Deb Reinicke,REP,26
+Lake,Nunda-Summit,County Commissioner At Large,,Dennis Slaughter,REP,34
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Ryan J Gebauer,REP,27
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Adam Leighton,REP,48
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Deb Reinicke,REP,41
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Dennis Slaughter,REP,53
+Lake,Herman-Winfred,County Commissioner At Large,,Ryan J Gebauer,REP,41
+Lake,Herman-Winfred,County Commissioner At Large,,Adam Leighton,REP,96
+Lake,Herman-Winfred,County Commissioner At Large,,Deb Reinicke,REP,78
+Lake,Herman-Winfred,County Commissioner At Large,,Dennis Slaughter,REP,89
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Ryan J Gebauer,REP,20
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Adam Leighton,REP,58
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Deb Reinicke,REP,49
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Dennis Slaughter,REP,50
+Lake,Lakeview,County Commissioner At Large,,Ryan J Gebauer,REP,62
+Lake,Lakeview,County Commissioner At Large,,Adam Leighton,REP,90
+Lake,Lakeview,County Commissioner At Large,,Deb Reinicke,REP,66
+Lake,Lakeview,County Commissioner At Large,,Dennis Slaughter,REP,88
+Lake,Ward One,County Commissioner At Large,,Ryan J Gebauer,REP,119
+Lake,Ward One,County Commissioner At Large,,Adam Leighton,REP,250
+Lake,Ward One,County Commissioner At Large,,Deb Reinicke,REP,185
+Lake,Ward One,County Commissioner At Large,,Dennis Slaughter,REP,218
+Lake,Ward Two,County Commissioner At Large,,Ryan J Gebauer,REP,71
+Lake,Ward Two,County Commissioner At Large,,Adam Leighton,REP,121
+Lake,Ward Two,County Commissioner At Large,,Deb Reinicke,REP,94
+Lake,Ward Two,County Commissioner At Large,,Dennis Slaughter,REP,121
+Lake,Ward Three,County Commissioner At Large,,Ryan J Gebauer,REP,53
+Lake,Ward Three,County Commissioner At Large,,Adam Leighton,REP,105
+Lake,Ward Three,County Commissioner At Large,,Deb Reinicke,REP,82
+Lake,Ward Three,County Commissioner At Large,,Dennis Slaughter,REP,91
+Lake,Chester-Franklin,President,,Marianne Williamson,DEM,3
+Lake,Chester-Franklin,President,,Joseph R Biden Jr,DEM,12
+Lake,Chester-Franklin,President,,Dean Phillips,DEM,0
+Lake,Chester-Franklin,President,,Armando Perez-Serrato,DEM,1
+Lake,Wentworth – Rutland,President,,Marianne Williamson,DEM,3
+Lake,Wentworth – Rutland,President,,Joseph R Biden Jr,DEM,16
+Lake,Wentworth – Rutland,President,,Dean Phillips,DEM,3
+Lake,Wentworth – Rutland,President,,Armando Perez-Serrato,DEM,1
+Lake,Nunda-Summit,President,,Marianne Williamson,DEM,1
+Lake,Nunda-Summit,President,,Joseph R Biden Jr,DEM,2
+Lake,Nunda-Summit,President,,Dean Phillips,DEM,4
+Lake,Nunda-Summit,President,,Armando Perez-Serrato,DEM,0
+Lake,Concord-Badus-Wayne/Ramona,President,,Marianne Williamson,DEM,1
+Lake,Concord-Badus-Wayne/Ramona,President,,Joseph R Biden Jr,DEM,9
+Lake,Concord-Badus-Wayne/Ramona,President,,Dean Phillips,DEM,2
+Lake,Concord-Badus-Wayne/Ramona,President,,Armando Perez-Serrato,DEM,0
+Lake,Herman-Winfred,President,,Marianne Williamson,DEM,3
+Lake,Herman-Winfred,President,,Joseph R Biden Jr,DEM,11
+Lake,Herman-Winfred,President,,Dean Phillips,DEM,5
+Lake,Herman-Winfred,President,,Armando Perez-Serrato,DEM,0
+Lake,Farmington-Leroy-Clarno-Orland,President,,Marianne Williamson,DEM,2
+Lake,Farmington-Leroy-Clarno-Orland,President,,Joseph R Biden Jr,DEM,6
+Lake,Farmington-Leroy-Clarno-Orland,President,,Dean Phillips,DEM,2
+Lake,Farmington-Leroy-Clarno-Orland,President,,Armando Perez-Serrato,DEM,0
+Lake,Lakeview,President,,Marianne Williamson,DEM,1
+Lake,Lakeview,President,,Joseph R Biden Jr,DEM,14
+Lake,Lakeview,President,,Dean Phillips,DEM,1
+Lake,Lakeview,President,,Armando Perez-Serrato,DEM,0
+Lake,Ward One,President,,Marianne Williamson,DEM,6
+Lake,Ward One,President,,Joseph R Biden Jr,DEM,41
+Lake,Ward One,President,,Dean Phillips,DEM,5
+Lake,Ward One,President,,Armando Perez-Serrato,DEM,0
+Lake,Ward Two,President,,Marianne Williamson,DEM,2
+Lake,Ward Two,President,,Joseph R Biden Jr,DEM,21
+Lake,Ward Two,President,,Dean Phillips,DEM,4
+Lake,Ward Two,President,,Armando Perez-Serrato,DEM,2
+Lake,Ward Three,President,,Marianne Williamson,DEM,4
+Lake,Ward Three,President,,Joseph R Biden Jr,DEM,20
+Lake,Ward Three,President,,Dean Phillips,DEM,7
+Lake,Ward Three,President,,Armando Perez-Serrato,DEM,2

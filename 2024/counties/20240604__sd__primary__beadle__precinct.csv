@@ -1,0 +1,68 @@
+county,precinct,office,district,candidate,party,votes
+Beadle,1,President,,Marianne Williamson,DEM,9
+Beadle,1,President,,Joseph R Biden Jr,DEM,28
+Beadle,1,President,,Dean Phillips,DEM,5
+Beadle,1,President,,Armando Perez-Serrato,DEM,4
+Beadle,2,President,,Marianne Williamson,DEM,5
+Beadle,2,President,,Joseph R Biden Jr,DEM,8
+Beadle,2,President,,Dean Phillips,DEM,5
+Beadle,2,President,,Armando Perez-Serrato,DEM,0
+Beadle,3,President,,Marianne Williamson,DEM,2
+Beadle,3,President,,Joseph R Biden Jr,DEM,26
+Beadle,3,President,,Dean Phillips,DEM,1
+Beadle,3,President,,Armando Perez-Serrato,DEM,1
+Beadle,4,President,,Marianne Williamson,DEM,2
+Beadle,4,President,,Joseph R Biden Jr,DEM,20
+Beadle,4,President,,Dean Phillips,DEM,2
+Beadle,4,President,,Armando Perez-Serrato,DEM,0
+Beadle,5,President,,Marianne Williamson,DEM,5
+Beadle,5,President,,Joseph R Biden Jr,DEM,35
+Beadle,5,President,,Dean Phillips,DEM,7
+Beadle,5,President,,Armando Perez-Serrato,DEM,3
+Beadle,6,President,,Marianne Williamson,DEM,6
+Beadle,6,President,,Joseph R Biden Jr,DEM,16
+Beadle,6,President,,Dean Phillips,DEM,1
+Beadle,6,President,,Armando Perez-Serrato,DEM,1
+Beadle,8,President,,Marianne Williamson,DEM,0
+Beadle,8,President,,Joseph R Biden Jr,DEM,4
+Beadle,8,President,,Dean Phillips,DEM,0
+Beadle,8,President,,Armando Perez-Serrato,DEM,1
+Beadle,9,President,,Marianne Williamson,DEM,1
+Beadle,9,President,,Joseph R Biden Jr,DEM,6
+Beadle,9,President,,Dean Phillips,DEM,1
+Beadle,9,President,,Armando Perez-Serrato,DEM,1
+Beadle,7,President,,Marianne Williamson,DEM,3
+Beadle,7,President,,Joseph R Biden Jr,DEM,11
+Beadle,7,President,,Dean Phillips,DEM,14
+Beadle,7,President,,Armando Perez-Serrato,DEM,0
+Beadle,1,State House,22,Kevin Van Diepen,REP,92
+Beadle,1,State House,22,Terry Nebelsick,REP,77
+Beadle,1,State House,22,Lana Greenfield,REP,84
+Beadle,2,State House,22,Kevin Van Diepen,REP,98
+Beadle,2,State House,22,Terry Nebelsick,REP,67
+Beadle,2,State House,22,Lana Greenfield,REP,60
+Beadle,3,State House,22,Kevin Van Diepen,REP,92
+Beadle,3,State House,22,Terry Nebelsick,REP,71
+Beadle,3,State House,22,Lana Greenfield,REP,61
+Beadle,4,State House,22,Kevin Van Diepen,REP,98
+Beadle,4,State House,22,Terry Nebelsick,REP,74
+Beadle,4,State House,22,Lana Greenfield,REP,55
+Beadle,5,State House,22,Kevin Van Diepen,REP,135
+Beadle,5,State House,22,Terry Nebelsick,REP,109
+Beadle,5,State House,22,Lana Greenfield,REP,82
+Beadle,6,State House,22,Kevin Van Diepen,REP,74
+Beadle,6,State House,22,Terry Nebelsick,REP,49
+Beadle,6,State House,22,Lana Greenfield,REP,60
+Beadle,8,State House,22,Kevin Van Diepen,REP,34
+Beadle,8,State House,22,Terry Nebelsick,REP,28
+Beadle,8,State House,22,Lana Greenfield,REP,32
+Beadle,9,State House,22,Kevin Van Diepen,REP,20
+Beadle,9,State House,22,Terry Nebelsick,REP,15
+Beadle,9,State House,22,Lana Greenfield,REP,18
+Beadle,7,State House,22,Kevin Van Diepen,REP,95
+Beadle,7,State House,22,Terry Nebelsick,REP,84
+Beadle,7,State House,22,Lana Greenfield,REP,80
+Beadle,6,County Commissioner,Beadle-2,Rick Benson,REP,55
+Beadle,6,County Commissioner,Beadle-2,Jared Zerfoss,REP,41
+Beadle,7,County Commissioner,Beadle-2,Rick Benson,REP,50
+Beadle,7,County Commissioner,Beadle-2,Jared Zerfoss,REP,95

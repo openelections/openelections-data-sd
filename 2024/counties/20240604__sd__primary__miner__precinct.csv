@@ -1,0 +1,68 @@
+county,precinct,office,district,candidate,party,votes
+Miner,1,President,,Marianne Williamson,DEM,0
+Miner,1,President,,Joseph R Biden Jr,DEM,10
+Miner,1,President,,Dean Phillips,DEM,2
+Miner,1,President,,Armando Perez-Serrato,DEM,3
+Miner,2,President,,Marianne Williamson,DEM,2
+Miner,2,President,,Joseph R Biden Jr,DEM,9
+Miner,2,President,,Dean Phillips,DEM,1
+Miner,2,President,,Armando Perez-Serrato,DEM,3
+Miner,3,President,,Marianne Williamson,DEM,3
+Miner,3,President,,Joseph R Biden Jr,DEM,6
+Miner,3,President,,Dean Phillips,DEM,2
+Miner,3,President,,Armando Perez-Serrato,DEM,0
+Miner,4,President,,Marianne Williamson,DEM,0
+Miner,4,President,,Joseph R Biden Jr,DEM,5
+Miner,4,President,,Dean Phillips,DEM,2
+Miner,4,President,,Armando Perez-Serrato,DEM,0
+Miner,5,President,,Marianne Williamson,DEM,1
+Miner,5,President,,Joseph R Biden Jr,DEM,4
+Miner,5,President,,Dean Phillips,DEM,2
+Miner,5,President,,Armando Perez-Serrato,DEM,1
+Miner,6,President,,Marianne Williamson,DEM,0
+Miner,6,President,,Joseph R Biden Jr,DEM,7
+Miner,6,President,,Dean Phillips,DEM,1
+Miner,6,President,,Armando Perez-Serrato,DEM,0
+Miner,7,President,,Marianne Williamson,DEM,2
+Miner,7,President,,Joseph R Biden Jr,DEM,7
+Miner,7,President,,Dean Phillips,DEM,6
+Miner,7,President,,Armando Perez-Serrato,DEM,0
+Miner,8,President,,Marianne Williamson,DEM,1
+Miner,8,President,,Joseph R Biden Jr,DEM,5
+Miner,8,President,,Dean Phillips,DEM,0
+Miner,8,President,,Armando Perez-Serrato,DEM,0
+Miner,1,State Senate,08,Casey Crabtree,REP,22
+Miner,1,State Senate,08,Rick Weible,REP,6
+Miner,2,State Senate,08,Casey Crabtree,REP,18
+Miner,2,State Senate,08,Rick Weible,REP,10
+Miner,3,State Senate,08,Casey Crabtree,REP,24
+Miner,3,State Senate,08,Rick Weible,REP,2
+Miner,4,State Senate,08,Casey Crabtree,REP,17
+Miner,4,State Senate,08,Rick Weible,REP,3
+Miner,6,State Senate,08,Casey Crabtree,REP,46
+Miner,6,State Senate,08,Rick Weible,REP,23
+Miner,7,State Senate,08,Casey Crabtree,REP,19
+Miner,7,State Senate,08,Rick Weible,REP,15
+Miner,8,State Senate,08,Casey Crabtree,REP,22
+Miner,8,State Senate,08,Rick Weible,REP,12
+Miner,1,State House,08,Matt Wagner,REP,12
+Miner,1,State House,08,Tim Walburg,REP,12
+Miner,1,State House,08,Tim Reisch,REP,23
+Miner,2,State House,08,Matt Wagner,REP,13
+Miner,2,State House,08,Tim Walburg,REP,14
+Miner,2,State House,08,Tim Reisch,REP,21
+Miner,3,State House,08,Matt Wagner,REP,6
+Miner,3,State House,08,Tim Walburg,REP,10
+Miner,3,State House,08,Tim Reisch,REP,24
+Miner,4,State House,08,Matt Wagner,REP,8
+Miner,4,State House,08,Tim Walburg,REP,6
+Miner,4,State House,08,Tim Reisch,REP,18
+Miner,6,State House,08,Matt Wagner,REP,37
+Miner,6,State House,08,Tim Walburg,REP,23
+Miner,6,State House,08,Tim Reisch,REP,47
+Miner,7,State House,08,Matt Wagner,REP,22
+Miner,7,State House,08,Tim Walburg,REP,6
+Miner,7,State House,08,Tim Reisch,REP,19
+Miner,8,State House,08,Matt Wagner,REP,18
+Miner,8,State House,08,Tim Walburg,REP,16
+Miner,8,State House,08,Tim Reisch,REP,26

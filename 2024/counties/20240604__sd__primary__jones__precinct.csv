@@ -1,0 +1,13 @@
+county,precinct,office,district,candidate,party,votes
+Jones,1,County Commissioner,,Rodney Mann,REP,32
+Jones,1,County Commissioner,,Steven W. Iwan,REP,29
+Jones,2,County Commissioner,,Rodney Mann,REP,85
+Jones,2,County Commissioner,,Steven W. Iwan,REP,89
+Jones,1,President,,Marianne Williamson,DEM,1
+Jones,1,President,,Joseph R Biden Jr,DEM,3
+Jones,1,President,,Dean Phillips,DEM,0
+Jones,1,President,,Armando Perez-Serrato,DEM,1
+Jones,2,President,,Marianne Williamson,DEM,4
+Jones,2,President,,Joseph R Biden Jr,DEM,8
+Jones,2,President,,Dean Phillips,DEM,2
+Jones,2,President,,Armando Perez-Serrato,DEM,4

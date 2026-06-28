@@ -1,0 +1,67 @@
+county,precinct,office,district,candidate,party,votes
+Kingsbury,Arlington Precinct,President,,Marianne Williamson,DEM,5
+Kingsbury,Arlington Precinct,President,,Joseph R Biden Jr,DEM,21
+Kingsbury,Arlington Precinct,President,,Dean Phillips,DEM,1
+Kingsbury,Arlington Precinct,President,,Armando Perez-Serrato,DEM,1
+Kingsbury,Badger Precinct,President,,Marianne Williamson,DEM,3
+Kingsbury,Badger Precinct,President,,Joseph R Biden Jr,DEM,0
+Kingsbury,Badger Precinct,President,,Dean Phillips,DEM,2
+Kingsbury,Badger Precinct,President,,Armando Perez-Serrato,DEM,0
+Kingsbury,De Smet Precinct,President,,Marianne Williamson,DEM,1
+Kingsbury,De Smet Precinct,President,,Joseph R Biden Jr,DEM,28
+Kingsbury,De Smet Precinct,President,,Dean Phillips,DEM,0
+Kingsbury,De Smet Precinct,President,,Armando Perez-Serrato,DEM,1
+Kingsbury,Iroquois Precinct,President,,Marianne Williamson,DEM,0
+Kingsbury,Iroquois Precinct,President,,Joseph R Biden Jr,DEM,14
+Kingsbury,Iroquois Precinct,President,,Dean Phillips,DEM,1
+Kingsbury,Iroquois Precinct,President,,Armando Perez-Serrato,DEM,1
+Kingsbury,Lake Preston Precinct,President,,Marianne Williamson,DEM,0
+Kingsbury,Lake Preston Precinct,President,,Joseph R Biden Jr,DEM,13
+Kingsbury,Lake Preston Precinct,President,,Dean Phillips,DEM,0
+Kingsbury,Lake Preston Precinct,President,,Armando Perez-Serrato,DEM,0
+Kingsbury,Oldham Precinct,President,,Marianne Williamson,DEM,1
+Kingsbury,Oldham Precinct,President,,Joseph R Biden Jr,DEM,4
+Kingsbury,Oldham Precinct,President,,Dean Phillips,DEM,2
+Kingsbury,Oldham Precinct,President,,Armando Perez-Serrato,DEM,0
+Kingsbury,Arlington Precinct,State Senate,08,Casey Crabtree,REP,100
+Kingsbury,Arlington Precinct,State Senate,08,Rick Weible,REP,40
+Kingsbury,Badger Precinct,State Senate,08,Casey Crabtree,REP,46
+Kingsbury,Badger Precinct,State Senate,08,Rick Weible,REP,25
+Kingsbury,De Smet Precinct,State Senate,08,Casey Crabtree,REP,141
+Kingsbury,De Smet Precinct,State Senate,08,Rick Weible,REP,36
+Kingsbury,Iroquois Precinct,State Senate,08,Casey Crabtree,REP,29
+Kingsbury,Iroquois Precinct,State Senate,08,Rick Weible,REP,13
+Kingsbury,Lake Preston Precinct,State Senate,08,Casey Crabtree,REP,78
+Kingsbury,Lake Preston Precinct,State Senate,08,Rick Weible,REP,24
+Kingsbury,Oldham Precinct,State Senate,08,Casey Crabtree,REP,41
+Kingsbury,Oldham Precinct,State Senate,08,Rick Weible,REP,11
+Kingsbury,Arlington Precinct,State House,08,Matt Wagner,REP,77
+Kingsbury,Arlington Precinct,State House,08,Tim Walburg,REP,66
+Kingsbury,Arlington Precinct,State House,08,Tim Reisch,REP,82
+Kingsbury,Badger Precinct,State House,08,Matt Wagner,REP,41
+Kingsbury,Badger Precinct,State House,08,Tim Walburg,REP,43
+Kingsbury,Badger Precinct,State House,08,Tim Reisch,REP,33
+Kingsbury,De Smet Precinct,State House,08,Matt Wagner,REP,95
+Kingsbury,De Smet Precinct,State House,08,Tim Walburg,REP,88
+Kingsbury,De Smet Precinct,State House,08,Tim Reisch,REP,135
+Kingsbury,Iroquois Precinct,State House,08,Matt Wagner,REP,23
+Kingsbury,Iroquois Precinct,State House,08,Tim Walburg,REP,21
+Kingsbury,Iroquois Precinct,State House,08,Tim Reisch,REP,27
+Kingsbury,Lake Preston Precinct,State House,08,Matt Wagner,REP,51
+Kingsbury,Lake Preston Precinct,State House,08,Tim Walburg,REP,47
+Kingsbury,Lake Preston Precinct,State House,08,Tim Reisch,REP,63
+Kingsbury,Oldham Precinct,State House,08,Matt Wagner,REP,32
+Kingsbury,Oldham Precinct,State House,08,Tim Walburg,REP,26
+Kingsbury,Oldham Precinct,State House,08,Tim Reisch,REP,28
+Kingsbury,Arlington Precinct,Coroner,,Steven A Strande,REP,76
+Kingsbury,Arlington Precinct,Coroner,,Garth Johnson,REP,64
+Kingsbury,Badger Precinct,Coroner,,Steven A Strande,REP,43
+Kingsbury,Badger Precinct,Coroner,,Garth Johnson,REP,28
+Kingsbury,De Smet Precinct,Coroner,,Steven A Strande,REP,121
+Kingsbury,De Smet Precinct,Coroner,,Garth Johnson,REP,60
+Kingsbury,Iroquois Precinct,Coroner,,Steven A Strande,REP,29
+Kingsbury,Iroquois Precinct,Coroner,,Garth Johnson,REP,12
+Kingsbury,Lake Preston Precinct,Coroner,,Steven A Strande,REP,78
+Kingsbury,Lake Preston Precinct,Coroner,,Garth Johnson,REP,23
+Kingsbury,Oldham Precinct,Coroner,,Steven A Strande,REP,32
+Kingsbury,Oldham Precinct,Coroner,,Garth Johnson,REP,22

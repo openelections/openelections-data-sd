@@ -1,0 +1,82 @@
+county,precinct,office,district,candidate,party,votes
+Day,01,President,,Marianne Williamson,DEM,4
+Day,01,President,,Joseph R Biden Jr,DEM,14
+Day,01,President,,Dean Phillips,DEM,1
+Day,01,President,,Armando Perez-Serrato,DEM,0
+Day,02,President,,Marianne Williamson,DEM,0
+Day,02,President,,Joseph R Biden Jr,DEM,7
+Day,02,President,,Dean Phillips,DEM,1
+Day,02,President,,Armando Perez-Serrato,DEM,0
+Day,03,President,,Marianne Williamson,DEM,0
+Day,03,President,,Joseph R Biden Jr,DEM,13
+Day,03,President,,Dean Phillips,DEM,2
+Day,03,President,,Armando Perez-Serrato,DEM,0
+Day,04,President,,Marianne Williamson,DEM,5
+Day,04,President,,Joseph R Biden Jr,DEM,17
+Day,04,President,,Dean Phillips,DEM,0
+Day,04,President,,Armando Perez-Serrato,DEM,1
+Day,05,President,,Marianne Williamson,DEM,0
+Day,05,President,,Joseph R Biden Jr,DEM,25
+Day,05,President,,Dean Phillips,DEM,1
+Day,05,President,,Armando Perez-Serrato,DEM,0
+Day,06,President,,Marianne Williamson,DEM,2
+Day,06,President,,Joseph R Biden Jr,DEM,2
+Day,06,President,,Dean Phillips,DEM,1
+Day,06,President,,Armando Perez-Serrato,DEM,0
+Day,07,President,,Marianne Williamson,DEM,3
+Day,07,President,,Joseph R Biden Jr,DEM,9
+Day,07,President,,Dean Phillips,DEM,5
+Day,07,President,,Armando Perez-Serrato,DEM,2
+Day,08,President,,Marianne Williamson,DEM,0
+Day,08,President,,Joseph R Biden Jr,DEM,13
+Day,08,President,,Dean Phillips,DEM,3
+Day,08,President,,Armando Perez-Serrato,DEM,0
+Day,09,President,,Marianne Williamson,DEM,0
+Day,09,President,,Joseph R Biden Jr,DEM,4
+Day,09,President,,Dean Phillips,DEM,2
+Day,09,President,,Armando Perez-Serrato,DEM,0
+Day,10,President,,Marianne Williamson,DEM,2
+Day,10,President,,Joseph R Biden Jr,DEM,0
+Day,10,President,,Dean Phillips,DEM,0
+Day,10,President,,Armando Perez-Serrato,DEM,0
+Day,11,President,,Marianne Williamson,DEM,1
+Day,11,President,,Joseph R Biden Jr,DEM,15
+Day,11,President,,Dean Phillips,DEM,5
+Day,11,President,,Armando Perez-Serrato,DEM,1
+Day,01,State House,01,Logan Manhart,REP,17
+Day,01,State House,01,Tamara St John,REP,28
+Day,01,State House,01,Christopher Reder,REP,21
+Day,02,State House,01,Logan Manhart,REP,25
+Day,02,State House,01,Tamara St John,REP,27
+Day,02,State House,01,Christopher Reder,REP,18
+Day,03,State House,01,Logan Manhart,REP,29
+Day,03,State House,01,Tamara St John,REP,35
+Day,03,State House,01,Christopher Reder,REP,24
+Day,04,State House,01,Logan Manhart,REP,27
+Day,04,State House,01,Tamara St John,REP,39
+Day,04,State House,01,Christopher Reder,REP,23
+Day,05,State House,01,Logan Manhart,REP,45
+Day,05,State House,01,Tamara St John,REP,52
+Day,05,State House,01,Christopher Reder,REP,33
+Day,06,State House,01,Logan Manhart,REP,21
+Day,06,State House,01,Tamara St John,REP,12
+Day,06,State House,01,Christopher Reder,REP,14
+Day,07,State House,01,Logan Manhart,REP,16
+Day,07,State House,01,Tamara St John,REP,23
+Day,07,State House,01,Christopher Reder,REP,19
+Day,08,State House,01,Logan Manhart,REP,23
+Day,08,State House,01,Tamara St John,REP,9
+Day,08,State House,01,Christopher Reder,REP,24
+Day,09,State House,01,Logan Manhart,REP,16
+Day,09,State House,01,Tamara St John,REP,4
+Day,09,State House,01,Christopher Reder,REP,10
+Day,10,State House,01,Logan Manhart,REP,8
+Day,10,State House,01,Tamara St John,REP,2
+Day,10,State House,01,Christopher Reder,REP,7
+Day,11,State House,01,Logan Manhart,REP,30
+Day,11,State House,01,Tamara St John,REP,19
+Day,11,State House,01,Christopher Reder,REP,28
+Day,04,County Commissioner,4,Roy Aldrich,REP,34
+Day,04,County Commissioner,4,Jim Walter,REP,24
+Day,05,County Commissioner,4,Roy Aldrich,REP,68
+Day,05,County Commissioner,4,Jim Walter,REP,29

@@ -1,0 +1,64 @@
+county,precinct,office,district,candidate,party,votes
+Spink,01,President,,Marianne Williamson,DEM,5
+Spink,01,President,,Joseph R Biden Jr,DEM,6
+Spink,01,President,,Dean Phillips,DEM,2
+Spink,01,President,,Armando Perez-Serrato,DEM,0
+Spink,03,President,,Marianne Williamson,DEM,2
+Spink,03,President,,Joseph R Biden Jr,DEM,5
+Spink,03,President,,Dean Phillips,DEM,1
+Spink,03,President,,Armando Perez-Serrato,DEM,0
+Spink,04,President,,Marianne Williamson,DEM,2
+Spink,04,President,,Joseph R Biden Jr,DEM,8
+Spink,04,President,,Dean Phillips,DEM,1
+Spink,04,President,,Armando Perez-Serrato,DEM,0
+Spink,05,President,,Marianne Williamson,DEM,0
+Spink,05,President,,Joseph R Biden Jr,DEM,8
+Spink,05,President,,Dean Phillips,DEM,2
+Spink,05,President,,Armando Perez-Serrato,DEM,0
+Spink,06,President,,Marianne Williamson,DEM,0
+Spink,06,President,,Joseph R Biden Jr,DEM,2
+Spink,06,President,,Dean Phillips,DEM,2
+Spink,06,President,,Armando Perez-Serrato,DEM,0
+Spink,07,President,,Marianne Williamson,DEM,3
+Spink,07,President,,Joseph R Biden Jr,DEM,12
+Spink,07,President,,Dean Phillips,DEM,2
+Spink,07,President,,Armando Perez-Serrato,DEM,1
+Spink,08,President,,Marianne Williamson,DEM,1
+Spink,08,President,,Joseph R Biden Jr,DEM,4
+Spink,08,President,,Dean Phillips,DEM,2
+Spink,08,President,,Armando Perez-Serrato,DEM,0
+Spink,09,President,,Marianne Williamson,DEM,2
+Spink,09,President,,Joseph R Biden Jr,DEM,13
+Spink,09,President,,Dean Phillips,DEM,3
+Spink,09,President,,Armando Perez-Serrato,DEM,0
+Spink,10,President,,Marianne Williamson,DEM,2
+Spink,10,President,,Joseph R Biden Jr,DEM,17
+Spink,10,President,,Dean Phillips,DEM,0
+Spink,10,President,,Armando Perez-Serrato,DEM,0
+Spink,01,State House,22,Kevin Van Diepen,REP,13
+Spink,01,State House,22,Terry Nebelsick,REP,19
+Spink,01,State House,22,Lana Greenfield,REP,91
+Spink,03,State House,22,Kevin Van Diepen,REP,37
+Spink,03,State House,22,Terry Nebelsick,REP,33
+Spink,03,State House,22,Lana Greenfield,REP,69
+Spink,04,State House,22,Kevin Van Diepen,REP,15
+Spink,04,State House,22,Terry Nebelsick,REP,22
+Spink,04,State House,22,Lana Greenfield,REP,44
+Spink,05,State House,22,Kevin Van Diepen,REP,7
+Spink,05,State House,22,Terry Nebelsick,REP,6
+Spink,05,State House,22,Lana Greenfield,REP,44
+Spink,06,State House,22,Kevin Van Diepen,REP,2
+Spink,06,State House,22,Terry Nebelsick,REP,5
+Spink,06,State House,22,Lana Greenfield,REP,10
+Spink,07,State House,22,Kevin Van Diepen,REP,32
+Spink,07,State House,22,Terry Nebelsick,REP,34
+Spink,07,State House,22,Lana Greenfield,REP,91
+Spink,08,State House,22,Kevin Van Diepen,REP,6
+Spink,08,State House,22,Terry Nebelsick,REP,10
+Spink,08,State House,22,Lana Greenfield,REP,16
+Spink,09,State House,22,Kevin Van Diepen,REP,28
+Spink,09,State House,22,Terry Nebelsick,REP,29
+Spink,09,State House,22,Lana Greenfield,REP,43
+Spink,10,State House,22,Kevin Van Diepen,REP,24
+Spink,10,State House,22,Terry Nebelsick,REP,39
+Spink,10,State House,22,Lana Greenfield,REP,57

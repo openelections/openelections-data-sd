@@ -1,0 +1,46 @@
+county,precinct,office,district,candidate,party,votes
+Hand,01,President,,Marianne Williamson,DEM,2
+Hand,01,President,,Joseph R Biden Jr,DEM,6
+Hand,01,President,,Dean Phillips,DEM,0
+Hand,01,President,,Armando Perez-Serrato,DEM,0
+Hand,02,President,,Marianne Williamson,DEM,1
+Hand,02,President,,Joseph R Biden Jr,DEM,8
+Hand,02,President,,Dean Phillips,DEM,2
+Hand,02,President,,Armando Perez-Serrato,DEM,1
+Hand,03,President,,Marianne Williamson,DEM,2
+Hand,03,President,,Joseph R Biden Jr,DEM,10
+Hand,03,President,,Dean Phillips,DEM,3
+Hand,03,President,,Armando Perez-Serrato,DEM,0
+Hand,04,President,,Marianne Williamson,DEM,0
+Hand,04,President,,Joseph R Biden Jr,DEM,4
+Hand,04,President,,Dean Phillips,DEM,1
+Hand,04,President,,Armando Perez-Serrato,DEM,0
+Hand,05,President,,Marianne Williamson,DEM,2
+Hand,05,President,,Joseph R Biden Jr,DEM,5
+Hand,05,President,,Dean Phillips,DEM,0
+Hand,05,President,,Armando Perez-Serrato,DEM,2
+Hand,01,State Senate,23,Steven Ray Roseland,REP,40
+Hand,01,State Senate,23,Mark Lapka,REP,35
+Hand,02,State Senate,23,Steven Ray Roseland,REP,60
+Hand,02,State Senate,23,Mark Lapka,REP,41
+Hand,03,State Senate,23,Steven Ray Roseland,REP,69
+Hand,03,State Senate,23,Mark Lapka,REP,41
+Hand,04,State Senate,23,Steven Ray Roseland,REP,40
+Hand,04,State Senate,23,Mark Lapka,REP,62
+Hand,05,State Senate,23,Steven Ray Roseland,REP,62
+Hand,05,State Senate,23,Mark Lapka,REP,64
+Hand,01,State House,23,Spencer Gosch,REP,37
+Hand,01,State House,23,Scott Moore,REP,59
+Hand,01,State House,23,James D. Wangsness,REP,35
+Hand,02,State House,23,Spencer Gosch,REP,39
+Hand,02,State House,23,Scott Moore,REP,77
+Hand,02,State House,23,James D. Wangsness,REP,69
+Hand,03,State House,23,Spencer Gosch,REP,51
+Hand,03,State House,23,Scott Moore,REP,88
+Hand,03,State House,23,James D. Wangsness,REP,65
+Hand,04,State House,23,Spencer Gosch,REP,77
+Hand,04,State House,23,Scott Moore,REP,88
+Hand,04,State House,23,James D. Wangsness,REP,29
+Hand,05,State House,23,Spencer Gosch,REP,85
+Hand,05,State House,23,Scott Moore,REP,99
+Hand,05,State House,23,James D. Wangsness,REP,37

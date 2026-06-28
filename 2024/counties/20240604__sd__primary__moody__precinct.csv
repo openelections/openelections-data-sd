@@ -1,0 +1,39 @@
+county,precinct,office,district,candidate,party,votes
+Moody,1,President,,Marianne Williamson,DEM,0
+Moody,1,President,,Joseph R Biden Jr,DEM,21
+Moody,1,President,,Dean Phillips,DEM,0
+Moody,1,President,,Armando Perez-Serrato,DEM,0
+Moody,2,President,,Marianne Williamson,DEM,0
+Moody,2,President,,Joseph R Biden Jr,DEM,14
+Moody,2,President,,Dean Phillips,DEM,2
+Moody,2,President,,Armando Perez-Serrato,DEM,0
+Moody,3,President,,Marianne Williamson,DEM,7
+Moody,3,President,,Joseph R Biden Jr,DEM,14
+Moody,3,President,,Dean Phillips,DEM,8
+Moody,3,President,,Armando Perez-Serrato,DEM,3
+Moody,34,President,,Marianne Williamson,DEM,0
+Moody,34,President,,Joseph R Biden Jr,DEM,6
+Moody,34,President,,Dean Phillips,DEM,3
+Moody,34,President,,Armando Perez-Serrato,DEM,0
+Moody,4,President,,Marianne Williamson,DEM,4
+Moody,4,President,,Joseph R Biden Jr,DEM,7
+Moody,4,President,,Dean Phillips,DEM,2
+Moody,4,President,,Armando Perez-Serrato,DEM,0
+Moody,5,President,,Marianne Williamson,DEM,4
+Moody,5,President,,Joseph R Biden Jr,DEM,14
+Moody,5,President,,Dean Phillips,DEM,0
+Moody,5,President,,Armando Perez-Serrato,DEM,0
+Moody,1,State Senate,25,Jordan Youngberg,REP,19
+Moody,1,State Senate,25,Tom Pischke,REP,19
+Moody,2,State Senate,25,Jordan Youngberg,REP,26
+Moody,2,State Senate,25,Tom Pischke,REP,25
+Moody,3,State Senate,25,Jordan Youngberg,REP,36
+Moody,3,State Senate,25,Tom Pischke,REP,80
+Moody,34,State Senate,25,Jordan Youngberg,REP,18
+Moody,34,State Senate,25,Tom Pischke,REP,35
+Moody,4,State Senate,25,Jordan Youngberg,REP,31
+Moody,4,State Senate,25,Tom Pischke,REP,60
+Moody,5,State Senate,25,Jordan Youngberg,REP,54
+Moody,5,State Senate,25,Tom Pischke,REP,65
+Moody,3,Trustee Trent Town,,Kathy Baty,,26
+Moody,3,Trustee Trent Town,,Jami Alberts,,19

@@ -1,0 +1,81 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,1,President,,Marianne Williamson,DEM,0
+Jackson,1,President,,Joseph R Biden Jr,DEM,0
+Jackson,1,President,,Dean Phillips,DEM,0
+Jackson,1,President,,Armando Perez-Serrato,DEM,0
+Jackson,2,President,,Marianne Williamson,DEM,1
+Jackson,2,President,,Joseph R Biden Jr,DEM,5
+Jackson,2,President,,Dean Phillips,DEM,0
+Jackson,2,President,,Armando Perez-Serrato,DEM,0
+Jackson,3,President,,Marianne Williamson,DEM,2
+Jackson,3,President,,Joseph R Biden Jr,DEM,4
+Jackson,3,President,,Dean Phillips,DEM,2
+Jackson,3,President,,Armando Perez-Serrato,DEM,1
+Jackson,4,President,,Marianne Williamson,DEM,0
+Jackson,4,President,,Joseph R Biden Jr,DEM,5
+Jackson,4,President,,Dean Phillips,DEM,1
+Jackson,4,President,,Armando Perez-Serrato,DEM,0
+Jackson,5,President,,Marianne Williamson,DEM,0
+Jackson,5,President,,Joseph R Biden Jr,DEM,2
+Jackson,5,President,,Dean Phillips,DEM,0
+Jackson,5,President,,Armando Perez-Serrato,DEM,0
+Jackson,6,President,,Marianne Williamson,DEM,0
+Jackson,6,President,,Joseph R Biden Jr,DEM,3
+Jackson,6,President,,Dean Phillips,DEM,0
+Jackson,6,President,,Armando Perez-Serrato,DEM,0
+Jackson,7,President,,Marianne Williamson,DEM,2
+Jackson,7,President,,Joseph R Biden Jr,DEM,18
+Jackson,7,President,,Dean Phillips,DEM,2
+Jackson,7,President,,Armando Perez-Serrato,DEM,1
+Jackson,8,President,,Marianne Williamson,DEM,0
+Jackson,8,President,,Joseph R Biden Jr,DEM,1
+Jackson,8,President,,Dean Phillips,DEM,0
+Jackson,8,President,,Armando Perez-Serrato,DEM,0
+Jackson,1,State Senate,27,Gerald M Cournoyer Jr,DEM,0
+Jackson,1,State Senate,27,Red Dawn Foster,DEM,0
+Jackson,1,State Senate,27,Anthony G. Kathol,REP,5
+Jackson,1,State Senate,27,Bruce Whalen,REP,5
+Jackson,2,State Senate,27,Gerald M Cournoyer Jr,DEM,2
+Jackson,2,State Senate,27,Red Dawn Foster,DEM,3
+Jackson,2,State Senate,27,Anthony G. Kathol,REP,18
+Jackson,2,State Senate,27,Bruce Whalen,REP,9
+Jackson,3,State Senate,27,Gerald M Cournoyer Jr,DEM,6
+Jackson,3,State Senate,27,Red Dawn Foster,DEM,4
+Jackson,3,State Senate,27,Anthony G. Kathol,REP,60
+Jackson,3,State Senate,27,Bruce Whalen,REP,32
+Jackson,4,State Senate,27,Gerald M Cournoyer Jr,DEM,1
+Jackson,4,State Senate,27,Red Dawn Foster,DEM,7
+Jackson,4,State Senate,27,Anthony G. Kathol,REP,32
+Jackson,4,State Senate,27,Bruce Whalen,REP,17
+Jackson,5,State Senate,27,Gerald M Cournoyer Jr,DEM,0
+Jackson,5,State Senate,27,Red Dawn Foster,DEM,2
+Jackson,5,State Senate,27,Anthony G. Kathol,REP,15
+Jackson,5,State Senate,27,Bruce Whalen,REP,19
+Jackson,6,State Senate,27,Gerald M Cournoyer Jr,DEM,0
+Jackson,6,State Senate,27,Red Dawn Foster,DEM,3
+Jackson,6,State Senate,27,Anthony G. Kathol,REP,19
+Jackson,6,State Senate,27,Bruce Whalen,REP,11
+Jackson,7,State Senate,27,Gerald M Cournoyer Jr,DEM,3
+Jackson,7,State Senate,27,Red Dawn Foster,DEM,20
+Jackson,7,State Senate,27,Anthony G. Kathol,REP,0
+Jackson,7,State Senate,27,Bruce Whalen,REP,2
+Jackson,8,State Senate,27,Gerald M Cournoyer Jr,DEM,0
+Jackson,8,State Senate,27,Red Dawn Foster,DEM,1
+Jackson,8,State Senate,27,Anthony G. Kathol,REP,7
+Jackson,8,State Senate,27,Bruce Whalen,REP,3
+Jackson,1,States Attorney,,Daniel Van Gorp,REP,4
+Jackson,1,States Attorney,,Cassie J. Wendt,REP,7
+Jackson,2,States Attorney,,Daniel Van Gorp,REP,11
+Jackson,2,States Attorney,,Cassie J. Wendt,REP,17
+Jackson,3,States Attorney,,Daniel Van Gorp,REP,45
+Jackson,3,States Attorney,,Cassie J. Wendt,REP,56
+Jackson,4,States Attorney,,Daniel Van Gorp,REP,23
+Jackson,4,States Attorney,,Cassie J. Wendt,REP,31
+Jackson,5,States Attorney,,Daniel Van Gorp,REP,10
+Jackson,5,States Attorney,,Cassie J. Wendt,REP,26
+Jackson,6,States Attorney,,Daniel Van Gorp,REP,10
+Jackson,6,States Attorney,,Cassie J. Wendt,REP,17
+Jackson,7,States Attorney,,Daniel Van Gorp,REP,1
+Jackson,7,States Attorney,,Cassie J. Wendt,REP,4
+Jackson,8,States Attorney,,Daniel Van Gorp,REP,2
+Jackson,8,States Attorney,,Cassie J. Wendt,REP,7

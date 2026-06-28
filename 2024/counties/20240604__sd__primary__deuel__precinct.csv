@@ -1,0 +1,101 @@
+county,precinct,office,district,candidate,party,votes
+Deuel,01,President,,Marianne Williamson,DEM,0
+Deuel,01,President,,Joseph R Biden Jr,DEM,2
+Deuel,01,President,,Dean Phillips,DEM,1
+Deuel,01,President,,Armando Perez-Serrato,DEM,1
+Deuel,03,President,,Marianne Williamson,DEM,1
+Deuel,03,President,,Joseph R Biden Jr,DEM,3
+Deuel,03,President,,Dean Phillips,DEM,0
+Deuel,03,President,,Armando Perez-Serrato,DEM,1
+Deuel,04,President,,Marianne Williamson,DEM,2
+Deuel,04,President,,Joseph R Biden Jr,DEM,7
+Deuel,04,President,,Dean Phillips,DEM,2
+Deuel,04,President,,Armando Perez-Serrato,DEM,1
+Deuel,05,President,,Marianne Williamson,DEM,0
+Deuel,05,President,,Joseph R Biden Jr,DEM,6
+Deuel,05,President,,Dean Phillips,DEM,1
+Deuel,05,President,,Armando Perez-Serrato,DEM,0
+Deuel,06,President,,Marianne Williamson,DEM,1
+Deuel,06,President,,Joseph R Biden Jr,DEM,3
+Deuel,06,President,,Dean Phillips,DEM,1
+Deuel,06,President,,Armando Perez-Serrato,DEM,0
+Deuel,07,President,,Marianne Williamson,DEM,1
+Deuel,07,President,,Joseph R Biden Jr,DEM,0
+Deuel,07,President,,Dean Phillips,DEM,2
+Deuel,07,President,,Armando Perez-Serrato,DEM,1
+Deuel,08,President,,Marianne Williamson,DEM,1
+Deuel,08,President,,Joseph R Biden Jr,DEM,9
+Deuel,08,President,,Dean Phillips,DEM,2
+Deuel,08,President,,Armando Perez-Serrato,DEM,1
+Deuel,09,President,,Marianne Williamson,DEM,0
+Deuel,09,President,,Joseph R Biden Jr,DEM,5
+Deuel,09,President,,Dean Phillips,DEM,0
+Deuel,09,President,,Armando Perez-Serrato,DEM,0
+Deuel,10,President,,Marianne Williamson,DEM,1
+Deuel,10,President,,Joseph R Biden Jr,DEM,2
+Deuel,10,President,,Dean Phillips,DEM,0
+Deuel,10,President,,Armando Perez-Serrato,DEM,0
+Deuel,11,President,,Marianne Williamson,DEM,1
+Deuel,11,President,,Joseph R Biden Jr,DEM,4
+Deuel,11,President,,Dean Phillips,DEM,2
+Deuel,11,President,,Armando Perez-Serrato,DEM,0
+Deuel,01,State Senate,04,Fred Deutsch,REP,18
+Deuel,01,State Senate,04,Stephanie Sauder,REP,12
+Deuel,03,State Senate,04,Fred Deutsch,REP,22
+Deuel,03,State Senate,04,Stephanie Sauder,REP,17
+Deuel,04,State Senate,04,Fred Deutsch,REP,13
+Deuel,04,State Senate,04,Stephanie Sauder,REP,9
+Deuel,05,State Senate,04,Fred Deutsch,REP,25
+Deuel,05,State Senate,04,Stephanie Sauder,REP,15
+Deuel,06,State Senate,04,Fred Deutsch,REP,32
+Deuel,06,State Senate,04,Stephanie Sauder,REP,21
+Deuel,07,State Senate,04,Fred Deutsch,REP,37
+Deuel,07,State Senate,04,Stephanie Sauder,REP,21
+Deuel,08,State Senate,04,Fred Deutsch,REP,62
+Deuel,08,State Senate,04,Stephanie Sauder,REP,24
+Deuel,09,State Senate,04,Fred Deutsch,REP,45
+Deuel,09,State Senate,04,Stephanie Sauder,REP,27
+Deuel,10,State Senate,04,Fred Deutsch,REP,17
+Deuel,10,State Senate,04,Stephanie Sauder,REP,20
+Deuel,11,State Senate,04,Fred Deutsch,REP,23
+Deuel,11,State Senate,04,Stephanie Sauder,REP,12
+Deuel,01,State House,04,Dylan C. Jordan,REP,13
+Deuel,01,State House,04,Vanessa Namken,REP,13
+Deuel,01,State House,04,Barbara Guenette,REP,9
+Deuel,01,State House,04,Kent Roe,REP,16
+Deuel,03,State House,04,Dylan C. Jordan,REP,22
+Deuel,03,State House,04,Vanessa Namken,REP,18
+Deuel,03,State House,04,Barbara Guenette,REP,13
+Deuel,03,State House,04,Kent Roe,REP,20
+Deuel,04,State House,04,Dylan C. Jordan,REP,12
+Deuel,04,State House,04,Vanessa Namken,REP,10
+Deuel,04,State House,04,Barbara Guenette,REP,5
+Deuel,04,State House,04,Kent Roe,REP,12
+Deuel,05,State House,04,Dylan C. Jordan,REP,29
+Deuel,05,State House,04,Vanessa Namken,REP,20
+Deuel,05,State House,04,Barbara Guenette,REP,9
+Deuel,05,State House,04,Kent Roe,REP,14
+Deuel,06,State House,04,Dylan C. Jordan,REP,32
+Deuel,06,State House,04,Vanessa Namken,REP,26
+Deuel,06,State House,04,Barbara Guenette,REP,15
+Deuel,06,State House,04,Kent Roe,REP,24
+Deuel,07,State House,04,Dylan C. Jordan,REP,34
+Deuel,07,State House,04,Vanessa Namken,REP,29
+Deuel,07,State House,04,Barbara Guenette,REP,13
+Deuel,07,State House,04,Kent Roe,REP,22
+Deuel,08,State House,04,Dylan C. Jordan,REP,53
+Deuel,08,State House,04,Vanessa Namken,REP,48
+Deuel,08,State House,04,Barbara Guenette,REP,20
+Deuel,08,State House,04,Kent Roe,REP,35
+Deuel,09,State House,04,Dylan C. Jordan,REP,44
+Deuel,09,State House,04,Vanessa Namken,REP,38
+Deuel,09,State House,04,Barbara Guenette,REP,15
+Deuel,09,State House,04,Kent Roe,REP,25
+Deuel,10,State House,04,Dylan C. Jordan,REP,8
+Deuel,10,State House,04,Vanessa Namken,REP,8
+Deuel,10,State House,04,Barbara Guenette,REP,20
+Deuel,10,State House,04,Kent Roe,REP,28
+Deuel,11,State House,04,Dylan C. Jordan,REP,16
+Deuel,11,State House,04,Vanessa Namken,REP,13
+Deuel,11,State House,04,Barbara Guenette,REP,10
+Deuel,11,State House,04,Kent Roe,REP,21

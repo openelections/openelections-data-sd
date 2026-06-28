@@ -1,0 +1,89 @@
+county,precinct,office,district,candidate,party,votes
+Harding,01,President,,Marianne Williamson,DEM,0
+Harding,01,President,,Joseph R Biden Jr,DEM,5
+Harding,01,President,,Dean Phillips,DEM,1
+Harding,01,President,,Armando Perez-Serrato,DEM,0
+Harding,02,President,,Marianne Williamson,DEM,2
+Harding,02,President,,Joseph R Biden Jr,DEM,3
+Harding,02,President,,Dean Phillips,DEM,1
+Harding,02,President,,Armando Perez-Serrato,DEM,1
+Harding,03,President,,Marianne Williamson,DEM,0
+Harding,03,President,,Joseph R Biden Jr,DEM,1
+Harding,03,President,,Dean Phillips,DEM,0
+Harding,03,President,,Armando Perez-Serrato,DEM,0
+Harding,05,President,,Marianne Williamson,DEM,2
+Harding,05,President,,Joseph R Biden Jr,DEM,2
+Harding,05,President,,Dean Phillips,DEM,1
+Harding,05,President,,Armando Perez-Serrato,DEM,1
+Harding,06,President,,Marianne Williamson,DEM,0
+Harding,06,President,,Joseph R Biden Jr,DEM,0
+Harding,06,President,,Dean Phillips,DEM,0
+Harding,06,President,,Armando Perez-Serrato,DEM,0
+Harding,07,President,,Marianne Williamson,DEM,0
+Harding,07,President,,Joseph R Biden Jr,DEM,1
+Harding,07,President,,Dean Phillips,DEM,0
+Harding,07,President,,Armando Perez-Serrato,DEM,1
+Harding,08,President,,Marianne Williamson,DEM,0
+Harding,08,President,,Joseph R Biden Jr,DEM,0
+Harding,08,President,,Dean Phillips,DEM,0
+Harding,08,President,,Armando Perez-Serrato,DEM,0
+Harding,09,President,,Marianne Williamson,DEM,0
+Harding,09,President,,Joseph R Biden Jr,DEM,0
+Harding,09,President,,Dean Phillips,DEM,0
+Harding,09,President,,Armando Perez-Serrato,DEM,1
+Harding,01,State Senate,28,Susan M. Peterson,REP,18
+Harding,01,State Senate,28,Sam Marty,REP,55
+Harding,02,State Senate,28,Susan M. Peterson,REP,12
+Harding,02,State Senate,28,Sam Marty,REP,44
+Harding,03,State Senate,28,Susan M. Peterson,REP,5
+Harding,03,State Senate,28,Sam Marty,REP,19
+Harding,05,State Senate,28,Susan M. Peterson,REP,30
+Harding,05,State Senate,28,Sam Marty,REP,42
+Harding,06,State Senate,28,Susan M. Peterson,REP,4
+Harding,06,State Senate,28,Sam Marty,REP,6
+Harding,07,State Senate,28,Susan M. Peterson,REP,6
+Harding,07,State Senate,28,Sam Marty,REP,17
+Harding,08,State Senate,28,Susan M. Peterson,REP,16
+Harding,08,State Senate,28,Sam Marty,REP,19
+Harding,09,State Senate,28,Susan M. Peterson,REP,7
+Harding,09,State Senate,28,Sam Marty,REP,62
+Harding,01,State House,28B,Travis Ismay,REP,37
+Harding,01,State House,28B,Travis W. Martin,REP,36
+Harding,02,State House,28B,Travis Ismay,REP,31
+Harding,02,State House,28B,Travis W. Martin,REP,22
+Harding,03,State House,28B,Travis Ismay,REP,17
+Harding,03,State House,28B,Travis W. Martin,REP,6
+Harding,05,State House,28B,Travis Ismay,REP,32
+Harding,05,State House,28B,Travis W. Martin,REP,37
+Harding,06,State House,28B,Travis Ismay,REP,7
+Harding,06,State House,28B,Travis W. Martin,REP,3
+Harding,07,State House,28B,Travis Ismay,REP,16
+Harding,07,State House,28B,Travis W. Martin,REP,5
+Harding,08,State House,28B,Travis Ismay,REP,17
+Harding,08,State House,28B,Travis W. Martin,REP,18
+Harding,09,State House,28B,Travis Ismay,REP,61
+Harding,09,State House,28B,Travis W. Martin,REP,7
+Harding,01,School Board Member,31-1,Nathan Wagner,,38
+Harding,01,School Board Member,31-1,Taz Olson,,48
+Harding,01,School Board Member,31-1,Clint Doll,,68
+Harding,02,School Board Member,31-1,Nathan Wagner,,32
+Harding,02,School Board Member,31-1,Taz Olson,,27
+Harding,02,School Board Member,31-1,Clint Doll,,51
+Harding,03,School Board Member,31-1,Nathan Wagner,,4
+Harding,03,School Board Member,31-1,Taz Olson,,22
+Harding,03,School Board Member,31-1,Clint Doll,,23
+Harding,05,School Board Member,31-1,Nathan Wagner,,26
+Harding,05,School Board Member,31-1,Taz Olson,,49
+Harding,05,School Board Member,31-1,Clint Doll,,71
+Harding,06,School Board Member,31-1,Nathan Wagner,,11
+Harding,06,School Board Member,31-1,Taz Olson,,1
+Harding,06,School Board Member,31-1,Clint Doll,,7
+Harding,07,School Board Member,31-1,Nathan Wagner,,17
+Harding,07,School Board Member,31-1,Taz Olson,,6
+Harding,07,School Board Member,31-1,Clint Doll,,25
+Harding,08,School Board Member,31-1,Nathan Wagner,,10
+Harding,08,School Board Member,31-1,Taz Olson,,28
+Harding,08,School Board Member,31-1,Clint Doll,,33
+Harding,09,School Board Member,31-1,Nathan Wagner,,11
+Harding,09,School Board Member,31-1,Taz Olson,,48
+Harding,09,School Board Member,31-1,Clint Doll,,64

@@ -1,0 +1,89 @@
+county,precinct,office,district,candidate,party,votes
+Dewey,02 Trail City,President,,Marianne Williamson,DEM,1
+Dewey,02 Trail City,President,,Joseph R Biden Jr,DEM,0
+Dewey,02 Trail City,President,,Dean Phillips,DEM,0
+Dewey,02 Trail City,President,,Armando Perez-Serrato,DEM,0
+Dewey,04 Timber Lake,President,,Marianne Williamson,DEM,24
+Dewey,04 Timber Lake,President,,Joseph R Biden Jr,DEM,25
+Dewey,04 Timber Lake,President,,Dean Phillips,DEM,13
+Dewey,04 Timber Lake,President,,Armando Perez-Serrato,DEM,5
+Dewey,05 Firesteel,President,,Marianne Williamson,DEM,0
+Dewey,05 Firesteel,President,,Joseph R Biden Jr,DEM,2
+Dewey,05 Firesteel,President,,Dean Phillips,DEM,1
+Dewey,05 Firesteel,President,,Armando Perez-Serrato,DEM,1
+Dewey,06 Isabel,President,,Marianne Williamson,DEM,1
+Dewey,06 Isabel,President,,Joseph R Biden Jr,DEM,4
+Dewey,06 Isabel,President,,Dean Phillips,DEM,1
+Dewey,06 Isabel,President,,Armando Perez-Serrato,DEM,1
+Dewey,07 Eagle Butte East,President,,Marianne Williamson,DEM,0
+Dewey,07 Eagle Butte East,President,,Joseph R Biden Jr,DEM,15
+Dewey,07 Eagle Butte East,President,,Dean Phillips,DEM,1
+Dewey,07 Eagle Butte East,President,,Armando Perez-Serrato,DEM,2
+Dewey,08 White Horse,President,,Marianne Williamson,DEM,2
+Dewey,08 White Horse,President,,Joseph R Biden Jr,DEM,10
+Dewey,08 White Horse,President,,Dean Phillips,DEM,2
+Dewey,08 White Horse,President,,Armando Perez-Serrato,DEM,0
+Dewey,09 Promise,President,,Marianne Williamson,DEM,1
+Dewey,09 Promise,President,,Joseph R Biden Jr,DEM,15
+Dewey,09 Promise,President,,Dean Phillips,DEM,2
+Dewey,09 Promise,President,,Armando Perez-Serrato,DEM,1
+Dewey,11 Swiftbird/LaPlant,President,,Marianne Williamson,DEM,0
+Dewey,11 Swiftbird/LaPlant,President,,Joseph R Biden Jr,DEM,1
+Dewey,11 Swiftbird/LaPlant,President,,Dean Phillips,DEM,0
+Dewey,11 Swiftbird/LaPlant,President,,Armando Perez-Serrato,DEM,0
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Marianne Williamson,DEM,0
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Joseph R Biden Jr,DEM,13
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Dean Phillips,DEM,0
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Armando Perez-Serrato,DEM,0
+Dewey,14 Eagle Butte South,President,,Marianne Williamson,DEM,6
+Dewey,14 Eagle Butte South,President,,Joseph R Biden Jr,DEM,18
+Dewey,14 Eagle Butte South,President,,Dean Phillips,DEM,3
+Dewey,14 Eagle Butte South,President,,Armando Perez-Serrato,DEM,2
+Dewey,15 Eagle Butte West,President,,Marianne Williamson,DEM,3
+Dewey,15 Eagle Butte West,President,,Joseph R Biden Jr,DEM,9
+Dewey,15 Eagle Butte West,President,,Dean Phillips,DEM,0
+Dewey,15 Eagle Butte West,President,,Armando Perez-Serrato,DEM,1
+Dewey,02 Trail City,State Senate,28,Susan M. Peterson,REP,12
+Dewey,02 Trail City,State Senate,28,Sam Marty,REP,7
+Dewey,04 Timber Lake,State Senate,28,Susan M. Peterson,REP,59
+Dewey,04 Timber Lake,State Senate,28,Sam Marty,REP,26
+Dewey,05 Firesteel,State Senate,28,Susan M. Peterson,REP,10
+Dewey,05 Firesteel,State Senate,28,Sam Marty,REP,9
+Dewey,06 Isabel,State Senate,28,Susan M. Peterson,REP,33
+Dewey,06 Isabel,State Senate,28,Sam Marty,REP,21
+Dewey,07 Eagle Butte East,State Senate,28,Susan M. Peterson,REP,3
+Dewey,07 Eagle Butte East,State Senate,28,Sam Marty,REP,1
+Dewey,08 White Horse,State Senate,28,Susan M. Peterson,REP,1
+Dewey,08 White Horse,State Senate,28,Sam Marty,REP,2
+Dewey,09 Promise,State Senate,28,Susan M. Peterson,REP,5
+Dewey,09 Promise,State Senate,28,Sam Marty,REP,2
+Dewey,11 Swiftbird/LaPlant,State Senate,28,Susan M. Peterson,REP,0
+Dewey,11 Swiftbird/LaPlant,State Senate,28,Sam Marty,REP,2
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State Senate,28,Susan M. Peterson,REP,10
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State Senate,28,Sam Marty,REP,8
+Dewey,14 Eagle Butte South,State Senate,28,Susan M. Peterson,REP,4
+Dewey,14 Eagle Butte South,State Senate,28,Sam Marty,REP,8
+Dewey,15 Eagle Butte West,State Senate,28,Susan M. Peterson,REP,7
+Dewey,15 Eagle Butte West,State Senate,28,Sam Marty,REP,6
+Dewey,02 Trail City,State House,28A,Ryan Maher,REP,7
+Dewey,02 Trail City,State House,28A,Jana Hunt,REP,14
+Dewey,04 Timber Lake,State House,28A,Ryan Maher,REP,71
+Dewey,04 Timber Lake,State House,28A,Jana Hunt,REP,26
+Dewey,05 Firesteel,State House,28A,Ryan Maher,REP,13
+Dewey,05 Firesteel,State House,28A,Jana Hunt,REP,7
+Dewey,06 Isabel,State House,28A,Ryan Maher,REP,41
+Dewey,06 Isabel,State House,28A,Jana Hunt,REP,20
+Dewey,07 Eagle Butte East,State House,28A,Ryan Maher,REP,2
+Dewey,07 Eagle Butte East,State House,28A,Jana Hunt,REP,3
+Dewey,08 White Horse,State House,28A,Ryan Maher,REP,3
+Dewey,08 White Horse,State House,28A,Jana Hunt,REP,3
+Dewey,09 Promise,State House,28A,Ryan Maher,REP,4
+Dewey,09 Promise,State House,28A,Jana Hunt,REP,5
+Dewey,11 Swiftbird/LaPlant,State House,28A,Ryan Maher,REP,2
+Dewey,11 Swiftbird/LaPlant,State House,28A,Jana Hunt,REP,0
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State House,28A,Ryan Maher,REP,12
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State House,28A,Jana Hunt,REP,7
+Dewey,14 Eagle Butte South,State House,28A,Ryan Maher,REP,7
+Dewey,14 Eagle Butte South,State House,28A,Jana Hunt,REP,6
+Dewey,15 Eagle Butte West,State House,28A,Ryan Maher,REP,11
+Dewey,15 Eagle Butte West,State House,28A,Jana Hunt,REP,6

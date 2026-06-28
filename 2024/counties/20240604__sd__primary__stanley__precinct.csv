@@ -1,0 +1,15 @@
+county,precinct,office,district,candidate,party,votes
+Stanley,01,President,,Marianne Williamson,DEM,3
+Stanley,01,President,,Joseph R Biden Jr,DEM,45
+Stanley,01,President,,Dean Phillips,DEM,5
+Stanley,01,President,,Armando Perez-Serrato,DEM,0
+Stanley,02,President,,Marianne Williamson,DEM,0
+Stanley,02,President,,Joseph R Biden Jr,DEM,1
+Stanley,02,President,,Dean Phillips,DEM,2
+Stanley,02,President,,Armando Perez-Serrato,DEM,0
+Stanley,03,President,,Marianne Williamson,DEM,1
+Stanley,03,President,,Joseph R Biden Jr,DEM,2
+Stanley,03,President,,Dean Phillips,DEM,0
+Stanley,03,President,,Armando Perez-Serrato,DEM,0
+Stanley,01,Precinct Committeewoman,01,Kathryn Sieverding,REP,58
+Stanley,01,Precinct Committeewoman,01,Kristin Gabriel,REP,199
