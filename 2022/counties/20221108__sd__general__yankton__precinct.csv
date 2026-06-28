@@ -1,0 +1,330 @@
+county,precinct,office,district,candidate,party,votes
+Yankton,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,2655
+Yankton,Gayville Community Center,Attorney General,,Marty J. Jackley,REP,229
+Yankton,Lesterville Fire Hall,Attorney General,,Marty J. Jackley,REP,201
+Yankton,Lewis and Clark Recreation Area,Attorney General,,Marty J. Jackley,REP,375
+Yankton,Mayfield Store,Attorney General,,Marty J. Jackley,REP,173
+Yankton,Yankton City Hall,Attorney General,,Marty J. Jackley,REP,1155
+Yankton,Yankton Fire Station #2,Attorney General,,Marty J. Jackley,REP,1559
+Yankton,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,2069
+Yankton,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,1475
+Yankton,Gayville Community Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,198
+Yankton,Gayville Community Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,69
+Yankton,Lesterville Fire Hall,Commissioner of School and Public Lands,,Brock Greenfield,REP,195
+Yankton,Lesterville Fire Hall,Commissioner of School and Public Lands,,Timothy Azure,DEM,41
+Yankton,Lewis and Clark Recreation Area,Commissioner of School and Public Lands,,Brock Greenfield,REP,328
+Yankton,Lewis and Clark Recreation Area,Commissioner of School and Public Lands,,Timothy Azure,DEM,90
+Yankton,Mayfield Store,Commissioner of School and Public Lands,,Brock Greenfield,REP,158
+Yankton,Mayfield Store,Commissioner of School and Public Lands,,Timothy Azure,DEM,63
+Yankton,Yankton City Hall,Commissioner of School and Public Lands,,Brock Greenfield,REP,917
+Yankton,Yankton City Hall,Commissioner of School and Public Lands,,Timothy Azure,DEM,544
+Yankton,Yankton Fire Station #2,Commissioner of School and Public Lands,,Brock Greenfield,REP,1304
+Yankton,Yankton Fire Station #2,Commissioner of School and Public Lands,,Timothy Azure,DEM,536
+Yankton,Absentee Precinct,Constitutional Amendment D,,No,,1573
+Yankton,Absentee Precinct,Constitutional Amendment D,,Yes,,2254
+Yankton,Gayville Community Center,Constitutional Amendment D,,No,,139
+Yankton,Gayville Community Center,Constitutional Amendment D,,Yes,,169
+Yankton,Lesterville Fire Hall,Constitutional Amendment D,,No,,176
+Yankton,Lesterville Fire Hall,Constitutional Amendment D,,Yes,,90
+Yankton,Lewis and Clark Recreation Area,Constitutional Amendment D,,No,,239
+Yankton,Lewis and Clark Recreation Area,Constitutional Amendment D,,Yes,,217
+Yankton,Mayfield Store,Constitutional Amendment D,,No,,143
+Yankton,Mayfield Store,Constitutional Amendment D,,Yes,,96
+Yankton,Yankton City Hall,Constitutional Amendment D,,No,,609
+Yankton,Yankton City Hall,Constitutional Amendment D,,Yes,,1029
+Yankton,Yankton Fire Station #2,Constitutional Amendment D,,No,,910
+Yankton,Yankton Fire Station #2,Constitutional Amendment D,,Yes,,1108
+Yankton,Absentee Precinct,County Commissioner At Large,,Cheri Loest,IND,1814
+Yankton,Absentee Precinct,County Commissioner At Large,,Dan Klimisch,REP,2371
+Yankton,Absentee Precinct,County Commissioner At Large,,John R. Marquardt,REP,1611
+Yankton,Absentee Precinct,County Commissioner At Large,,Matt Evans,IND,1428
+Yankton,Absentee Precinct,County Commissioner At Large,,Ryan Heine,REP,1816
+Yankton,Gayville Community Center,County Commissioner At Large,,Cheri Loest,IND,113
+Yankton,Gayville Community Center,County Commissioner At Large,,Dan Klimisch,REP,143
+Yankton,Gayville Community Center,County Commissioner At Large,,John R. Marquardt,REP,164
+Yankton,Gayville Community Center,County Commissioner At Large,,Matt Evans,IND,111
+Yankton,Gayville Community Center,County Commissioner At Large,,Ryan Heine,REP,170
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Cheri Loest,IND,125
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Dan Klimisch,REP,145
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,John R. Marquardt,REP,139
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Matt Evans,IND,70
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Ryan Heine,REP,165
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Cheri Loest,IND,156
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Dan Klimisch,REP,293
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,John R. Marquardt,REP,252
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Matt Evans,IND,126
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Ryan Heine,REP,265
+Yankton,Mayfield Store,County Commissioner At Large,,Cheri Loest,IND,117
+Yankton,Mayfield Store,County Commissioner At Large,,Dan Klimisch,REP,95
+Yankton,Mayfield Store,County Commissioner At Large,,John R. Marquardt,REP,113
+Yankton,Mayfield Store,County Commissioner At Large,,Matt Evans,IND,80
+Yankton,Mayfield Store,County Commissioner At Large,,Ryan Heine,REP,146
+Yankton,Yankton City Hall,County Commissioner At Large,,Cheri Loest,IND,692
+Yankton,Yankton City Hall,County Commissioner At Large,,Dan Klimisch,REP,910
+Yankton,Yankton City Hall,County Commissioner At Large,,John R. Marquardt,REP,656
+Yankton,Yankton City Hall,County Commissioner At Large,,Matt Evans,IND,646
+Yankton,Yankton City Hall,County Commissioner At Large,,Ryan Heine,REP,751
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Cheri Loest,IND,763
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Dan Klimisch,REP,1218
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,John R. Marquardt,REP,957
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Matt Evans,IND,694
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Ryan Heine,REP,1071
+Yankton,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,1741
+Yankton,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,2054
+Yankton,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,108
+Yankton,Gayville Community Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,85
+Yankton,Gayville Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,210
+Yankton,Gayville Community Center,Governor,,Tracey Quint and Ashley Strand,LIB,20
+Yankton,Lesterville Fire Hall,Governor,,Jamie Smith and Jennifer Keintz,DEM,41
+Yankton,Lesterville Fire Hall,Governor,,Kristi Noem and Larry Rhoden,REP,224
+Yankton,Lesterville Fire Hall,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Yankton,Lewis and Clark Recreation Area,Governor,,Jamie Smith and Jennifer Keintz,DEM,105
+Yankton,Lewis and Clark Recreation Area,Governor,,Kristi Noem and Larry Rhoden,REP,349
+Yankton,Lewis and Clark Recreation Area,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Yankton,Mayfield Store,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
+Yankton,Mayfield Store,Governor,,Kristi Noem and Larry Rhoden,REP,175
+Yankton,Mayfield Store,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Yankton,Yankton City Hall,Governor,,Jamie Smith and Jennifer Keintz,DEM,656
+Yankton,Yankton City Hall,Governor,,Kristi Noem and Larry Rhoden,REP,926
+Yankton,Yankton City Hall,Governor,,Tracey Quint and Ashley Strand,LIB,69
+Yankton,Yankton Fire Station #2,Governor,,Jamie Smith and Jennifer Keintz,DEM,659
+Yankton,Yankton Fire Station #2,Governor,,Kristi Noem and Larry Rhoden,REP,1309
+Yankton,Yankton Fire Station #2,Governor,,Tracey Quint and Ashley Strand,LIB,85
+Yankton,Absentee Precinct,Initiated Measure 27,,No,,2054
+Yankton,Absentee Precinct,Initiated Measure 27,,Yes,,1823
+Yankton,Gayville Community Center,Initiated Measure 27,,No,,146
+Yankton,Gayville Community Center,Initiated Measure 27,,Yes,,166
+Yankton,Lesterville Fire Hall,Initiated Measure 27,,No,,209
+Yankton,Lesterville Fire Hall,Initiated Measure 27,,Yes,,61
+Yankton,Lewis and Clark Recreation Area,Initiated Measure 27,,No,,274
+Yankton,Lewis and Clark Recreation Area,Initiated Measure 27,,Yes,,186
+Yankton,Mayfield Store,Initiated Measure 27,,No,,182
+Yankton,Mayfield Store,Initiated Measure 27,,Yes,,69
+Yankton,Yankton City Hall,Initiated Measure 27,,No,,702
+Yankton,Yankton City Hall,Initiated Measure 27,,Yes,,953
+Yankton,Yankton Fire Station #2,Initiated Measure 27,,No,,1102
+Yankton,Yankton Fire Station #2,Initiated Measure 27,,Yes,,938
+Yankton,Absentee Precinct,James River Water Development District,,Dan Klimisch,NON,730
+Yankton,Absentee Precinct,James River Water Development District,,Sandy Williams,NON,384
+Yankton,Gayville Community Center,James River Water Development District,,Dan Klimisch,NON,149
+Yankton,Gayville Community Center,James River Water Development District,,Sandy Williams,NON,100
+Yankton,Lesterville Fire Hall,James River Water Development District,,Dan Klimisch,NON,126
+Yankton,Lesterville Fire Hall,James River Water Development District,,Sandy Williams,NON,92
+Yankton,Lewis and Clark Recreation Area,James River Water Development District,,Dan Klimisch,NON,213
+Yankton,Lewis and Clark Recreation Area,James River Water Development District,,Sandy Williams,NON,99
+Yankton,Mayfield Store,James River Water Development District,,Dan Klimisch,NON,74
+Yankton,Mayfield Store,James River Water Development District,,Sandy Williams,NON,122
+Yankton,Yankton City Hall,James River Water Development District,,Dan Klimisch,NON,194
+Yankton,Yankton City Hall,James River Water Development District,,Sandy Williams,NON,94
+Yankton,Yankton Fire Station #2,James River Water Development District,,Dan Klimisch,NON,273
+Yankton,Yankton Fire Station #2,James River Water Development District,,Sandy Williams,NON,105
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,1598
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,138
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,91
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,167
+Yankton,Mayfield Store,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,88
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,735
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,889
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,1970
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,142
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,99
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,200
+Yankton,Mayfield Store,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,101
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,827
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,1033
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,1589
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,138
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,89
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,165
+Yankton,Mayfield Store,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,93
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,719
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,903
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,1762
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,141
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,104
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,179
+Yankton,Mayfield Store,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,105
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,778
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,939
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,1554
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,126
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,85
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,166
+Yankton,Mayfield Store,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,89
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,708
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,862
+Yankton,Absentee Precinct,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,1623
+Yankton,Gayville Community Center,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,141
+Yankton,Lesterville Fire Hall,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,88
+Yankton,Lewis and Clark Recreation Area,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,164
+Yankton,Mayfield Store,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,89
+Yankton,Yankton City Hall,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,735
+Yankton,Yankton Fire Station #2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,889
+Yankton,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,2306
+Yankton,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,1364
+Yankton,Gayville Community Center,Public Utilities Commissioner,,Chris Nelson,REP,220
+Yankton,Gayville Community Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,67
+Yankton,Lesterville Fire Hall,Public Utilities Commissioner,,Chris Nelson,REP,207
+Yankton,Lesterville Fire Hall,Public Utilities Commissioner,,Jeffrey Barth,DEM,49
+Yankton,Lewis and Clark Recreation Area,Public Utilities Commissioner,,Chris Nelson,REP,354
+Yankton,Lewis and Clark Recreation Area,Public Utilities Commissioner,,Jeffrey Barth,DEM,81
+Yankton,Mayfield Store,Public Utilities Commissioner,,Chris Nelson,REP,179
+Yankton,Mayfield Store,Public Utilities Commissioner,,Jeffrey Barth,DEM,54
+Yankton,Yankton City Hall,Public Utilities Commissioner,,Chris Nelson,REP,996
+Yankton,Yankton City Hall,Public Utilities Commissioner,,Jeffrey Barth,DEM,507
+Yankton,Yankton Fire Station #2,Public Utilities Commissioner,,Chris Nelson,REP,1425
+Yankton,Yankton Fire Station #2,Public Utilities Commissioner,,Jeffrey Barth,DEM,470
+Yankton,Absentee Precinct,Secretary of State,,Monae Johnson,REP,2054
+Yankton,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,1598
+Yankton,Gayville Community Center,Secretary of State,,Monae Johnson,REP,201
+Yankton,Gayville Community Center,Secretary of State,,Thomas A Cool,DEM,97
+Yankton,Lesterville Fire Hall,Secretary of State,,Monae Johnson,REP,204
+Yankton,Lesterville Fire Hall,Secretary of State,,Thomas A Cool,DEM,40
+Yankton,Lewis and Clark Recreation Area,Secretary of State,,Monae Johnson,REP,328
+Yankton,Lewis and Clark Recreation Area,Secretary of State,,Thomas A Cool,DEM,113
+Yankton,Mayfield Store,Secretary of State,,Monae Johnson,REP,165
+Yankton,Mayfield Store,Secretary of State,,Thomas A Cool,DEM,70
+Yankton,Yankton City Hall,Secretary of State,,Monae Johnson,REP,901
+Yankton,Yankton City Hall,Secretary of State,,Thomas A Cool,DEM,637
+Yankton,Yankton Fire Station #2,Secretary of State,,Monae Johnson,REP,1289
+Yankton,Yankton Fire Station #2,Secretary of State,,Thomas A Cool,DEM,627
+Yankton,Absentee Precinct,State Auditor,,Rene Meyer,LIB,147
+Yankton,Absentee Precinct,State Auditor,,Richard Sattgast,REP,2014
+Yankton,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,1485
+Yankton,Gayville Community Center,State Auditor,,Rene Meyer,LIB,22
+Yankton,Gayville Community Center,State Auditor,,Richard Sattgast,REP,184
+Yankton,Gayville Community Center,State Auditor,,Stephanie Marty,DEM,75
+Yankton,Lesterville Fire Hall,State Auditor,,Rene Meyer,LIB,14
+Yankton,Lesterville Fire Hall,State Auditor,,Richard Sattgast,REP,192
+Yankton,Lesterville Fire Hall,State Auditor,,Stephanie Marty,DEM,33
+Yankton,Lewis and Clark Recreation Area,State Auditor,,Rene Meyer,LIB,27
+Yankton,Lewis and Clark Recreation Area,State Auditor,,Richard Sattgast,REP,305
+Yankton,Lewis and Clark Recreation Area,State Auditor,,Stephanie Marty,DEM,90
+Yankton,Mayfield Store,State Auditor,,Rene Meyer,LIB,22
+Yankton,Mayfield Store,State Auditor,,Richard Sattgast,REP,146
+Yankton,Mayfield Store,State Auditor,,Stephanie Marty,DEM,62
+Yankton,Yankton City Hall,State Auditor,,Rene Meyer,LIB,114
+Yankton,Yankton City Hall,State Auditor,,Richard Sattgast,REP,843
+Yankton,Yankton City Hall,State Auditor,,Stephanie Marty,DEM,549
+Yankton,Yankton Fire Station #2,State Auditor,,Rene Meyer,LIB,119
+Yankton,Yankton Fire Station #2,State Auditor,,Richard Sattgast,REP,1237
+Yankton,Yankton Fire Station #2,State Auditor,,Stephanie Marty,DEM,518
+Yankton,Absentee Precinct,State House,18,Jay Williams,DEM,997
+Yankton,Absentee Precinct,State House,18,Julie Auch,REP,1778
+Yankton,Absentee Precinct,State House,18,Mike Stevens,REP,2151
+Yankton,Absentee Precinct,State House,18,Ryan D. Cwach,DEM,2111
+Yankton,Gayville Community Center,State House,18,Jay Williams,DEM,57
+Yankton,Gayville Community Center,State House,18,Julie Auch,REP,192
+Yankton,Gayville Community Center,State House,18,Mike Stevens,REP,171
+Yankton,Gayville Community Center,State House,18,Ryan D. Cwach,DEM,126
+Yankton,Lesterville Fire Hall,State House,18,Jay Williams,DEM,20
+Yankton,Lesterville Fire Hall,State House,18,Julie Auch,REP,204
+Yankton,Lesterville Fire Hall,State House,18,Mike Stevens,REP,157
+Yankton,Lesterville Fire Hall,State House,18,Ryan D. Cwach,DEM,82
+Yankton,Lewis and Clark Recreation Area,State House,18,Jay Williams,DEM,47
+Yankton,Lewis and Clark Recreation Area,State House,18,Julie Auch,REP,290
+Yankton,Lewis and Clark Recreation Area,State House,18,Mike Stevens,REP,318
+Yankton,Lewis and Clark Recreation Area,State House,18,Ryan D. Cwach,DEM,167
+Yankton,Mayfield Store,State House,18,Jay Williams,DEM,41
+Yankton,Mayfield Store,State House,18,Julie Auch,REP,168
+Yankton,Mayfield Store,State House,18,Mike Stevens,REP,127
+Yankton,Mayfield Store,State House,18,Ryan D. Cwach,DEM,89
+Yankton,Yankton City Hall,State House,18,Jay Williams,DEM,363
+Yankton,Yankton City Hall,State House,18,Julie Auch,REP,742
+Yankton,Yankton City Hall,State House,18,Mike Stevens,REP,915
+Yankton,Yankton City Hall,State House,18,Ryan D. Cwach,DEM,855
+Yankton,Yankton Fire Station #2,State House,18,Jay Williams,DEM,310
+Yankton,Yankton Fire Station #2,State House,18,Julie Auch,REP,1116
+Yankton,Yankton Fire Station #2,State House,18,Mike Stevens,REP,1229
+Yankton,Yankton Fire Station #2,State House,18,Ryan D. Cwach,DEM,954
+Yankton,Absentee Precinct,State Senate,18,Fredrick Bender,DEM,1495
+Yankton,Absentee Precinct,State Senate,18,Jean M. Hunhoff,REP,2281
+Yankton,Gayville Community Center,State Senate,18,Fredrick Bender,DEM,89
+Yankton,Gayville Community Center,State Senate,18,Jean M. Hunhoff,REP,208
+Yankton,Lesterville Fire Hall,State Senate,18,Fredrick Bender,DEM,54
+Yankton,Lesterville Fire Hall,State Senate,18,Jean M. Hunhoff,REP,203
+Yankton,Lewis and Clark Recreation Area,State Senate,18,Fredrick Bender,DEM,87
+Yankton,Lewis and Clark Recreation Area,State Senate,18,Jean M. Hunhoff,REP,355
+Yankton,Mayfield Store,State Senate,18,Fredrick Bender,DEM,65
+Yankton,Mayfield Store,State Senate,18,Jean M. Hunhoff,REP,174
+Yankton,Yankton City Hall,State Senate,18,Fredrick Bender,DEM,609
+Yankton,Yankton City Hall,State Senate,18,Jean M. Hunhoff,REP,967
+Yankton,Yankton Fire Station #2,State Senate,18,Fredrick Bender,DEM,608
+Yankton,Yankton Fire Station #2,State Senate,18,Jean M. Hunhoff,REP,1347
+Yankton,Absentee Precinct,State Treasurer,,John Cunningham,DEM,1546
+Yankton,Absentee Precinct,State Treasurer,,Josh Haeder,REP,2069
+Yankton,Gayville Community Center,State Treasurer,,John Cunningham,DEM,76
+Yankton,Gayville Community Center,State Treasurer,,Josh Haeder,REP,203
+Yankton,Lesterville Fire Hall,State Treasurer,,John Cunningham,DEM,39
+Yankton,Lesterville Fire Hall,State Treasurer,,Josh Haeder,REP,196
+Yankton,Lewis and Clark Recreation Area,State Treasurer,,John Cunningham,DEM,99
+Yankton,Lewis and Clark Recreation Area,State Treasurer,,Josh Haeder,REP,331
+Yankton,Mayfield Store,State Treasurer,,John Cunningham,DEM,68
+Yankton,Mayfield Store,State Treasurer,,Josh Haeder,REP,161
+Yankton,Yankton City Hall,State Treasurer,,John Cunningham,DEM,574
+Yankton,Yankton City Hall,State Treasurer,,Josh Haeder,REP,922
+Yankton,Yankton Fire Station #2,State Treasurer,,John Cunningham,DEM,544
+Yankton,Yankton Fire Station #2,State Treasurer,,Josh Haeder,REP,1323
+Yankton,Absentee Precinct,Supreme Court Retention,2,No,,647
+Yankton,Absentee Precinct,Supreme Court Retention,2,Yes,,2507
+Yankton,Gayville Community Center,Supreme Court Retention,2,No,,58
+Yankton,Gayville Community Center,Supreme Court Retention,2,Yes,,193
+Yankton,Lesterville Fire Hall,Supreme Court Retention,2,No,,45
+Yankton,Lesterville Fire Hall,Supreme Court Retention,2,Yes,,159
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,2,No,,72
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,2,Yes,,303
+Yankton,Mayfield Store,Supreme Court Retention,2,No,,46
+Yankton,Mayfield Store,Supreme Court Retention,2,Yes,,149
+Yankton,Yankton City Hall,Supreme Court Retention,2,No,,280
+Yankton,Yankton City Hall,Supreme Court Retention,2,Yes,,1065
+Yankton,Yankton Fire Station #2,Supreme Court Retention,2,No,,310
+Yankton,Yankton Fire Station #2,Supreme Court Retention,2,Yes,,1334
+Yankton,Absentee Precinct,Supreme Court Retention,3,No,,648
+Yankton,Absentee Precinct,Supreme Court Retention,3,Yes,,2523
+Yankton,Gayville Community Center,Supreme Court Retention,3,No,,53
+Yankton,Gayville Community Center,Supreme Court Retention,3,Yes,,200
+Yankton,Lesterville Fire Hall,Supreme Court Retention,3,No,,48
+Yankton,Lesterville Fire Hall,Supreme Court Retention,3,Yes,,159
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,3,No,,76
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,3,Yes,,300
+Yankton,Mayfield Store,Supreme Court Retention,3,No,,45
+Yankton,Mayfield Store,Supreme Court Retention,3,Yes,,155
+Yankton,Yankton City Hall,Supreme Court Retention,3,No,,274
+Yankton,Yankton City Hall,Supreme Court Retention,3,Yes,,1072
+Yankton,Yankton Fire Station #2,Supreme Court Retention,3,No,,307
+Yankton,Yankton Fire Station #2,Supreme Court Retention,3,Yes,,1349
+Yankton,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,856
+Yankton,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,2693
+Yankton,Gayville Community Center,U.S. House,1,Collin Duprel,LIB,65
+Yankton,Gayville Community Center,U.S. House,1,Dusty Johnson,REP,231
+Yankton,Lesterville Fire Hall,U.S. House,1,Collin Duprel,LIB,41
+Yankton,Lesterville Fire Hall,U.S. House,1,Dusty Johnson,REP,221
+Yankton,Lewis and Clark Recreation Area,U.S. House,1,Collin Duprel,LIB,73
+Yankton,Lewis and Clark Recreation Area,U.S. House,1,Dusty Johnson,REP,372
+Yankton,Mayfield Store,U.S. House,1,Collin Duprel,LIB,52
+Yankton,Mayfield Store,U.S. House,1,Dusty Johnson,REP,195
+Yankton,Yankton City Hall,U.S. House,1,Collin Duprel,LIB,381
+Yankton,Yankton City Hall,U.S. House,1,Dusty Johnson,REP,1169
+Yankton,Yankton Fire Station #2,U.S. House,1,Collin Duprel,LIB,336
+Yankton,Yankton Fire Station #2,U.S. House,1,Dusty Johnson,REP,1618
+Yankton,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,1365
+Yankton,Absentee Precinct,U.S. Senate,,John R. Thune,REP,2408
+Yankton,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,106
+Yankton,Gayville Community Center,U.S. Senate,,Brian L. Bengs,DEM,58
+Yankton,Gayville Community Center,U.S. Senate,,John R. Thune,REP,237
+Yankton,Gayville Community Center,U.S. Senate,,Tamara J Lesnar,LIB,18
+Yankton,Lesterville Fire Hall,U.S. Senate,,Brian L. Bengs,DEM,24
+Yankton,Lesterville Fire Hall,U.S. Senate,,John R. Thune,REP,229
+Yankton,Lesterville Fire Hall,U.S. Senate,,Tamara J Lesnar,LIB,19
+Yankton,Lewis and Clark Recreation Area,U.S. Senate,,Brian L. Bengs,DEM,64
+Yankton,Lewis and Clark Recreation Area,U.S. Senate,,John R. Thune,REP,373
+Yankton,Lewis and Clark Recreation Area,U.S. Senate,,Tamara J Lesnar,LIB,25
+Yankton,Mayfield Store,U.S. Senate,,Brian L. Bengs,DEM,50
+Yankton,Mayfield Store,U.S. Senate,,John R. Thune,REP,183
+Yankton,Mayfield Store,U.S. Senate,,Tamara J Lesnar,LIB,18
+Yankton,Yankton City Hall,U.S. Senate,,Brian L. Bengs,DEM,477
+Yankton,Yankton City Hall,U.S. Senate,,John R. Thune,REP,1078
+Yankton,Yankton City Hall,U.S. Senate,,Tamara J Lesnar,LIB,84
+Yankton,Yankton Fire Station #2,U.S. Senate,,Brian L. Bengs,DEM,424
+Yankton,Yankton Fire Station #2,U.S. Senate,,John R. Thune,REP,1543
+Yankton,Yankton Fire Station #2,U.S. Senate,,Tamara J Lesnar,LIB,70
