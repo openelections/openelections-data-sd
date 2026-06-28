@@ -1,0 +1,112 @@
+county,precinct,office,district,candidate,party,votes
+Buffalo,1,U.S. Senate,,Brian L. Bengs,DEM,19
+Buffalo,1,U.S. Senate,,Tamara J Lesnar,LIB,4
+Buffalo,1,U.S. Senate,,John R. Thune,REP,78
+Buffalo,2,U.S. Senate,,Brian L. Bengs,DEM,20
+Buffalo,2,U.S. Senate,,Tamara J Lesnar,LIB,1
+Buffalo,2,U.S. Senate,,John R. Thune,REP,35
+Buffalo,3,U.S. Senate,,Brian L. Bengs,DEM,163
+Buffalo,3,U.S. Senate,,Tamara J Lesnar,LIB,10
+Buffalo,3,U.S. Senate,,John R. Thune,REP,60
+Buffalo,1,U.S. House,1,Collin Duprel,LIB,17
+Buffalo,1,U.S. House,1,Dusty Johnson,REP,85
+Buffalo,2,U.S. House,1,Collin Duprel,LIB,10
+Buffalo,2,U.S. House,1,Dusty Johnson,REP,42
+Buffalo,3,U.S. House,1,Collin Duprel,LIB,112
+Buffalo,3,U.S. House,1,Dusty Johnson,REP,84
+Buffalo,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Buffalo,1,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Buffalo,1,Governor,,Kristi Noem and Larry Rhoden,REP,83
+Buffalo,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Buffalo,2,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Buffalo,2,Governor,,Kristi Noem and Larry Rhoden,REP,27
+Buffalo,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,186
+Buffalo,3,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Buffalo,3,Governor,,Kristi Noem and Larry Rhoden,REP,34
+Buffalo,1,Secretary of State,,Thomas A Cool,DEM,23
+Buffalo,1,Secretary of State,,Monae Johnson,REP,73
+Buffalo,2,Secretary of State,,Thomas A Cool,DEM,31
+Buffalo,2,Secretary of State,,Monae Johnson,REP,24
+Buffalo,3,Secretary of State,,Thomas A Cool,DEM,190
+Buffalo,3,Secretary of State,,Monae Johnson,REP,37
+Buffalo,1,Attorney General,,Marty J. Jackley,REP,78
+Buffalo,2,Attorney General,,Marty J. Jackley,REP,38
+Buffalo,3,Attorney General,,Marty J. Jackley,REP,93
+Buffalo,1,State Auditor,,Stephanie Marty,DEM,20
+Buffalo,1,State Auditor,,Rene Meyer,LIB,3
+Buffalo,1,State Auditor,,Richard Sattgast,REP,76
+Buffalo,2,State Auditor,,Stephanie Marty,DEM,32
+Buffalo,2,State Auditor,,Rene Meyer,LIB,3
+Buffalo,2,State Auditor,,Richard Sattgast,REP,21
+Buffalo,3,State Auditor,,Stephanie Marty,DEM,179
+Buffalo,3,State Auditor,,Rene Meyer,LIB,15
+Buffalo,3,State Auditor,,Richard Sattgast,REP,33
+Buffalo,1,State Treasurer,,John Cunningham,DEM,21
+Buffalo,1,State Treasurer,,Josh Haeder,REP,78
+Buffalo,2,State Treasurer,,John Cunningham,DEM,32
+Buffalo,2,State Treasurer,,Josh Haeder,REP,22
+Buffalo,3,State Treasurer,,John Cunningham,DEM,183
+Buffalo,3,State Treasurer,,Josh Haeder,REP,39
+Buffalo,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Buffalo,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,78
+Buffalo,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Buffalo,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,23
+Buffalo,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,190
+Buffalo,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,32
+Buffalo,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,20
+Buffalo,1,Public Utilities Commissioner,,Chris Nelson,REP,80
+Buffalo,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,26
+Buffalo,2,Public Utilities Commissioner,,Chris Nelson,REP,29
+Buffalo,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,176
+Buffalo,3,Public Utilities Commissioner,,Chris Nelson,REP,44
+Buffalo,1,State Senate,26,Shawn Bordeaux,DEM,25
+Buffalo,1,State Senate,26,Joel Koskan,REP,64
+Buffalo,2,State Senate,26,Shawn Bordeaux,DEM,35
+Buffalo,2,State Senate,26,Joel Koskan,REP,16
+Buffalo,3,State Senate,26,Shawn Bordeaux,DEM,203
+Buffalo,3,State Senate,26,Joel Koskan,REP,26
+Buffalo,1,State House,26B,Rebecca Reimer,REP,78
+Buffalo,2,State House,26B,Rebecca Reimer,REP,33
+Buffalo,3,State House,26B,Rebecca Reimer,REP,63
+Buffalo,1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,52
+Buffalo,2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,17
+Buffalo,3,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,50
+Buffalo,1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,48
+Buffalo,2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,16
+Buffalo,3,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,49
+Buffalo,1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,50
+Buffalo,2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,19
+Buffalo,3,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,55
+Buffalo,1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,48
+Buffalo,2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,19
+Buffalo,3,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,48
+Buffalo,1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,48
+Buffalo,2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,19
+Buffalo,3,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,50
+Buffalo,1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,47
+Buffalo,2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,16
+Buffalo,3,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,52
+Buffalo,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,69
+Buffalo,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Buffalo,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,32
+Buffalo,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Buffalo,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,112
+Buffalo,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,90
+Buffalo,1,Supreme Court Retention,2,Mark E. Salter - Yes,,72
+Buffalo,1,Supreme Court Retention,2,Mark E. Salter - No,,15
+Buffalo,2,Supreme Court Retention,2,Mark E. Salter - Yes,,33
+Buffalo,2,Supreme Court Retention,2,Mark E. Salter - No,,16
+Buffalo,3,Supreme Court Retention,2,Mark E. Salter - Yes,,108
+Buffalo,3,Supreme Court Retention,2,Mark E. Salter - No,,90
+Buffalo,1,Constitutional Amendment D,,Yes,,41
+Buffalo,1,Constitutional Amendment D,,No,,58
+Buffalo,2,Constitutional Amendment D,,Yes,,43
+Buffalo,2,Constitutional Amendment D,,No,,12
+Buffalo,3,Constitutional Amendment D,,Yes,,191
+Buffalo,3,Constitutional Amendment D,,No,,34
+Buffalo,1,Initiated Measure 27,,Yes,,31
+Buffalo,1,Initiated Measure 27,,No,,72
+Buffalo,2,Initiated Measure 27,,Yes,,38
+Buffalo,2,Initiated Measure 27,,No,,19
+Buffalo,3,Initiated Measure 27,,Yes,,181
+Buffalo,3,Initiated Measure 27,,No,,49

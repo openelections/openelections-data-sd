@@ -1,0 +1,106 @@
+county,precinct,office,district,candidate,party,votes
+Potter,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,56
+Potter,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,7
+Potter,Absentee Precinct,U.S. Senate,,John R. Thune,REP,140
+Potter,Gettysburg Legion Annex,U.S. Senate,,Brian L. Bengs,DEM,52
+Potter,Gettysburg Legion Annex,U.S. Senate,,Tamara J Lesnar,LIB,19
+Potter,Gettysburg Legion Annex,U.S. Senate,,John R. Thune,REP,569
+Potter,Hoven American Legion,U.S. Senate,,Brian L. Bengs,DEM,15
+Potter,Hoven American Legion,U.S. Senate,,Tamara J Lesnar,LIB,7
+Potter,Hoven American Legion,U.S. Senate,,John R. Thune,REP,228
+Potter,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,49
+Potter,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,156
+Potter,Gettysburg Legion Annex,U.S. House,1,Collin Duprel,LIB,62
+Potter,Gettysburg Legion Annex,U.S. House,1,Dusty Johnson,REP,565
+Potter,Hoven American Legion,U.S. House,1,Collin Duprel,LIB,25
+Potter,Hoven American Legion,U.S. House,1,Dusty Johnson,REP,223
+Potter,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,68
+Potter,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Potter,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,137
+Potter,Gettysburg Legion Annex,Governor,,Jamie Smith and Jennifer Keintz,DEM,96
+Potter,Gettysburg Legion Annex,Governor,,Tracey Quint and Ashley Strand,LIB,16
+Potter,Gettysburg Legion Annex,Governor,,Kristi Noem and Larry Rhoden,REP,528
+Potter,Hoven American Legion,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Potter,Hoven American Legion,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Potter,Hoven American Legion,Governor,,Kristi Noem and Larry Rhoden,REP,227
+Potter,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,62
+Potter,Absentee Precinct,Secretary of State,,Monae Johnson,REP,139
+Potter,Gettysburg Legion Annex,Secretary of State,,Thomas A Cool,DEM,106
+Potter,Gettysburg Legion Annex,Secretary of State,,Monae Johnson,REP,508
+Potter,Hoven American Legion,Secretary of State,,Thomas A Cool,DEM,33
+Potter,Hoven American Legion,Secretary of State,,Monae Johnson,REP,204
+Potter,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,157
+Potter,Gettysburg Legion Annex,Attorney General,,Marty J. Jackley,REP,562
+Potter,Hoven American Legion,Attorney General,,Marty J. Jackley,REP,215
+Potter,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,55
+Potter,Absentee Precinct,State Auditor,,Rene Meyer,LIB,7
+Potter,Absentee Precinct,State Auditor,,Richard Sattgast,REP,139
+Potter,Gettysburg Legion Annex,State Auditor,,Stephanie Marty,DEM,75
+Potter,Gettysburg Legion Annex,State Auditor,,Rene Meyer,LIB,23
+Potter,Gettysburg Legion Annex,State Auditor,,Richard Sattgast,REP,510
+Potter,Hoven American Legion,State Auditor,,Stephanie Marty,DEM,23
+Potter,Hoven American Legion,State Auditor,,Rene Meyer,LIB,9
+Potter,Hoven American Legion,State Auditor,,Richard Sattgast,REP,204
+Potter,Absentee Precinct,State Treasurer,,John Cunningham,DEM,60
+Potter,Absentee Precinct,State Treasurer,,Josh Haeder,REP,138
+Potter,Gettysburg Legion Annex,State Treasurer,,John Cunningham,DEM,79
+Potter,Gettysburg Legion Annex,State Treasurer,,Josh Haeder,REP,525
+Potter,Hoven American Legion,State Treasurer,,John Cunningham,DEM,26
+Potter,Hoven American Legion,State Treasurer,,Josh Haeder,REP,208
+Potter,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Potter,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,140
+Potter,Gettysburg Legion Annex,Commissioner of School and Public Lands,,Timothy Azure,DEM,77
+Potter,Gettysburg Legion Annex,Commissioner of School and Public Lands,,Brock Greenfield,REP,519
+Potter,Hoven American Legion,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Potter,Hoven American Legion,Commissioner of School and Public Lands,,Brock Greenfield,REP,222
+Potter,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,52
+Potter,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,148
+Potter,Gettysburg Legion Annex,Public Utilities Commissioner,,Jeffrey Barth,DEM,73
+Potter,Gettysburg Legion Annex,Public Utilities Commissioner,,Chris Nelson,REP,544
+Potter,Hoven American Legion,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Potter,Hoven American Legion,Public Utilities Commissioner,,Chris Nelson,REP,222
+Potter,Absentee Precinct,State Senate,23,Bryan J. Breitling,REP,148
+Potter,Gettysburg Legion Annex,State Senate,23,Bryan J. Breitling,REP,529
+Potter,Hoven American Legion,State Senate,23,Bryan J. Breitling,REP,211
+Potter,Absentee Precinct,State House,23,James D. Wangsness,REP,96
+Potter,Absentee Precinct,State House,23,Scott Moore,REP,128
+Potter,Gettysburg Legion Annex,State House,23,James D. Wangsness,REP,326
+Potter,Gettysburg Legion Annex,State House,23,Scott Moore,REP,431
+Potter,Hoven American Legion,State House,23,James D. Wangsness,REP,128
+Potter,Hoven American Legion,State House,23,Scott Moore,REP,179
+Potter,Absentee Precinct,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,99
+Potter,Gettysburg Legion Annex,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,301
+Potter,Hoven American Legion,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,127
+Potter,Absentee Precinct,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,90
+Potter,Gettysburg Legion Annex,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,298
+Potter,Hoven American Legion,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,124
+Potter,Absentee Precinct,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,88
+Potter,Gettysburg Legion Annex,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,306
+Potter,Hoven American Legion,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,125
+Potter,Absentee Precinct,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,85
+Potter,Gettysburg Legion Annex,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,293
+Potter,Hoven American Legion,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,120
+Potter,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,131
+Potter,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Potter,Gettysburg Legion Annex,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,457
+Potter,Gettysburg Legion Annex,Supreme Court Retention,3,Patricia J. DeVaney - No,,95
+Potter,Hoven American Legion,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,187
+Potter,Hoven American Legion,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Potter,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,130
+Potter,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,32
+Potter,Gettysburg Legion Annex,Supreme Court Retention,2,Mark E. Salter - Yes,,456
+Potter,Gettysburg Legion Annex,Supreme Court Retention,2,Mark E. Salter - No,,95
+Potter,Hoven American Legion,Supreme Court Retention,2,Mark E. Salter - Yes,,184
+Potter,Hoven American Legion,Supreme Court Retention,2,Mark E. Salter - No,,35
+Potter,Absentee Precinct,Constitutional Amendment D,,Yes,,102
+Potter,Absentee Precinct,Constitutional Amendment D,,No,,100
+Potter,Gettysburg Legion Annex,Constitutional Amendment D,,Yes,,291
+Potter,Gettysburg Legion Annex,Constitutional Amendment D,,No,,334
+Potter,Hoven American Legion,Constitutional Amendment D,,Yes,,118
+Potter,Hoven American Legion,Constitutional Amendment D,,No,,121
+Potter,Absentee Precinct,Initiated Measure 27,,Yes,,101
+Potter,Absentee Precinct,Initiated Measure 27,,No,,106
+Potter,Gettysburg Legion Annex,Initiated Measure 27,,Yes,,209
+Potter,Gettysburg Legion Annex,Initiated Measure 27,,No,,425
+Potter,Hoven American Legion,Initiated Measure 27,,Yes,,71
+Potter,Hoven American Legion,Initiated Measure 27,,No,,170

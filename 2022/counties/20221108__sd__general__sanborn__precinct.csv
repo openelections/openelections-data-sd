@@ -1,0 +1,153 @@
+county,precinct,office,district,candidate,party,votes
+Sanborn,1,U.S. Senate,,Brian L. Bengs,DEM,29
+Sanborn,1,U.S. Senate,,Tamara J Lesnar,LIB,7
+Sanborn,1,U.S. Senate,,John R. Thune,REP,176
+Sanborn,2,U.S. Senate,,Brian L. Bengs,DEM,49
+Sanborn,2,U.S. Senate,,Tamara J Lesnar,LIB,7
+Sanborn,2,U.S. Senate,,John R. Thune,REP,238
+Sanborn,4,U.S. Senate,,Brian L. Bengs,DEM,39
+Sanborn,4,U.S. Senate,,Tamara J Lesnar,LIB,5
+Sanborn,4,U.S. Senate,,John R. Thune,REP,226
+Sanborn,5,U.S. Senate,,Brian L. Bengs,DEM,37
+Sanborn,5,U.S. Senate,,Tamara J Lesnar,LIB,8
+Sanborn,5,U.S. Senate,,John R. Thune,REP,181
+Sanborn,1,U.S. House,1,Collin Duprel,LIB,31
+Sanborn,1,U.S. House,1,Dusty Johnson,REP,175
+Sanborn,2,U.S. House,1,Collin Duprel,LIB,40
+Sanborn,2,U.S. House,1,Dusty Johnson,REP,244
+Sanborn,4,U.S. House,1,Collin Duprel,LIB,21
+Sanborn,4,U.S. House,1,Dusty Johnson,REP,239
+Sanborn,5,U.S. House,1,Collin Duprel,LIB,32
+Sanborn,5,U.S. House,1,Dusty Johnson,REP,187
+Sanborn,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,50
+Sanborn,1,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Sanborn,1,Governor,,Kristi Noem and Larry Rhoden,REP,165
+Sanborn,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,64
+Sanborn,2,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Sanborn,2,Governor,,Kristi Noem and Larry Rhoden,REP,222
+Sanborn,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,52
+Sanborn,4,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Sanborn,4,Governor,,Kristi Noem and Larry Rhoden,REP,212
+Sanborn,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Sanborn,5,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Sanborn,5,Governor,,Kristi Noem and Larry Rhoden,REP,158
+Sanborn,1,Secretary of State,,Thomas A Cool,DEM,53
+Sanborn,1,Secretary of State,,Monae Johnson,REP,142
+Sanborn,2,Secretary of State,,Thomas A Cool,DEM,72
+Sanborn,2,Secretary of State,,Monae Johnson,REP,208
+Sanborn,4,Secretary of State,,Thomas A Cool,DEM,67
+Sanborn,4,Secretary of State,,Monae Johnson,REP,190
+Sanborn,5,Secretary of State,,Thomas A Cool,DEM,63
+Sanborn,5,Secretary of State,,Monae Johnson,REP,152
+Sanborn,1,Attorney General,,Marty J. Jackley,REP,184
+Sanborn,2,Attorney General,,Marty J. Jackley,REP,230
+Sanborn,4,Attorney General,,Marty J. Jackley,REP,219
+Sanborn,5,Attorney General,,Marty J. Jackley,REP,177
+Sanborn,1,State Auditor,,Stephanie Marty,DEM,37
+Sanborn,1,State Auditor,,Rene Meyer,LIB,10
+Sanborn,1,State Auditor,,Richard Sattgast,REP,149
+Sanborn,2,State Auditor,,Stephanie Marty,DEM,61
+Sanborn,2,State Auditor,,Rene Meyer,LIB,7
+Sanborn,2,State Auditor,,Richard Sattgast,REP,207
+Sanborn,4,State Auditor,,Stephanie Marty,DEM,55
+Sanborn,4,State Auditor,,Rene Meyer,LIB,11
+Sanborn,4,State Auditor,,Richard Sattgast,REP,190
+Sanborn,5,State Auditor,,Stephanie Marty,DEM,48
+Sanborn,5,State Auditor,,Rene Meyer,LIB,15
+Sanborn,5,State Auditor,,Richard Sattgast,REP,154
+Sanborn,1,State Treasurer,,John Cunningham,DEM,39
+Sanborn,1,State Treasurer,,Josh Haeder,REP,157
+Sanborn,2,State Treasurer,,John Cunningham,DEM,60
+Sanborn,2,State Treasurer,,Josh Haeder,REP,220
+Sanborn,4,State Treasurer,,John Cunningham,DEM,46
+Sanborn,4,State Treasurer,,Josh Haeder,REP,216
+Sanborn,5,State Treasurer,,John Cunningham,DEM,48
+Sanborn,5,State Treasurer,,Josh Haeder,REP,169
+Sanborn,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Sanborn,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,152
+Sanborn,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Sanborn,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,216
+Sanborn,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Sanborn,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,196
+Sanborn,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Sanborn,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,154
+Sanborn,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,44
+Sanborn,1,Public Utilities Commissioner,,Chris Nelson,REP,157
+Sanborn,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,56
+Sanborn,2,Public Utilities Commissioner,,Chris Nelson,REP,222
+Sanborn,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Sanborn,4,Public Utilities Commissioner,,Chris Nelson,REP,217
+Sanborn,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,50
+Sanborn,5,Public Utilities Commissioner,,Chris Nelson,REP,163
+Sanborn,1,State Senate,20,Joshua Klumb,REP,169
+Sanborn,2,State Senate,20,Joshua Klumb,REP,230
+Sanborn,4,State Senate,20,Joshua Klumb,REP,208
+Sanborn,5,State Senate,20,Joshua Klumb,REP,157
+Sanborn,1,State House,20,Ben Krohmer,REP,109
+Sanborn,1,State House,20,Lance Koth,REP,127
+Sanborn,2,State House,20,Ben Krohmer,REP,160
+Sanborn,2,State House,20,Lance Koth,REP,186
+Sanborn,4,State House,20,Ben Krohmer,REP,128
+Sanborn,4,State House,20,Lance Koth,REP,177
+Sanborn,5,State House,20,Ben Krohmer,REP,97
+Sanborn,5,State House,20,Lance Koth,REP,130
+Sanborn,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,98
+Sanborn,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,129
+Sanborn,4,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,122
+Sanborn,5,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,104
+Sanborn,1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,97
+Sanborn,2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,125
+Sanborn,4,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,122
+Sanborn,5,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,96
+Sanborn,1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,105
+Sanborn,2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,125
+Sanborn,4,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,130
+Sanborn,5,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,108
+Sanborn,1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,101
+Sanborn,2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,123
+Sanborn,4,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,121
+Sanborn,5,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,94
+Sanborn,1,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,33
+Sanborn,1,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,84
+Sanborn,2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,38
+Sanborn,2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,119
+Sanborn,4,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,70
+Sanborn,4,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,94
+Sanborn,5,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,49
+Sanborn,5,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,97
+Sanborn,1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,110
+Sanborn,2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,132
+Sanborn,4,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,133
+Sanborn,5,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,105
+Sanborn,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,148
+Sanborn,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Sanborn,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,188
+Sanborn,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,50
+Sanborn,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,194
+Sanborn,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Sanborn,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,168
+Sanborn,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Sanborn,1,Supreme Court Retention,2,Mark E. Salter - Yes,,148
+Sanborn,1,Supreme Court Retention,2,Mark E. Salter - No,,26
+Sanborn,2,Supreme Court Retention,2,Mark E. Salter - Yes,,192
+Sanborn,2,Supreme Court Retention,2,Mark E. Salter - No,,44
+Sanborn,4,Supreme Court Retention,2,Mark E. Salter - Yes,,197
+Sanborn,4,Supreme Court Retention,2,Mark E. Salter - No,,29
+Sanborn,5,Supreme Court Retention,2,Mark E. Salter - Yes,,158
+Sanborn,5,Supreme Court Retention,2,Mark E. Salter - No,,35
+Sanborn,1,Constitutional Amendment D,,Yes,,105
+Sanborn,1,Constitutional Amendment D,,No,,101
+Sanborn,2,Constitutional Amendment D,,Yes,,127
+Sanborn,2,Constitutional Amendment D,,No,,155
+Sanborn,4,Constitutional Amendment D,,Yes,,125
+Sanborn,4,Constitutional Amendment D,,No,,135
+Sanborn,5,Constitutional Amendment D,,Yes,,126
+Sanborn,5,Constitutional Amendment D,,No,,95
+Sanborn,1,Initiated Measure 27,,Yes,,73
+Sanborn,1,Initiated Measure 27,,No,,139
+Sanborn,2,Initiated Measure 27,,Yes,,100
+Sanborn,2,Initiated Measure 27,,No,,187
+Sanborn,4,Initiated Measure 27,,Yes,,101
+Sanborn,4,Initiated Measure 27,,No,,163
+Sanborn,5,Initiated Measure 27,,Yes,,85
+Sanborn,5,Initiated Measure 27,,No,,140

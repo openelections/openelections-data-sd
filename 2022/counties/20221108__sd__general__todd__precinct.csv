@@ -1,0 +1,361 @@
+county,precinct,office,district,candidate,party,votes
+Todd,Bordeaux,U.S. Senate,,Brian L. Bengs,DEM,42
+Todd,Bordeaux,U.S. Senate,,Tamara J Lesnar,LIB,2
+Todd,Bordeaux,U.S. Senate,,John R. Thune,REP,16
+Todd,Fairgrounds-10,U.S. Senate,,Brian L. Bengs,DEM,37
+Todd,Fairgrounds-10,U.S. Senate,,Tamara J Lesnar,LIB,0
+Todd,Fairgrounds-10,U.S. Senate,,John R. Thune,REP,8
+Todd,Jeanette,U.S. Senate,,Brian L. Bengs,DEM,7
+Todd,Jeanette,U.S. Senate,,Tamara J Lesnar,LIB,4
+Todd,Jeanette,U.S. Senate,,John R. Thune,REP,47
+Todd,Lakeview,U.S. Senate,,Brian L. Bengs,DEM,12
+Todd,Lakeview,U.S. Senate,,Tamara J Lesnar,LIB,7
+Todd,Lakeview,U.S. Senate,,John R. Thune,REP,76
+Todd,Mission-N. Antelope,U.S. Senate,,Brian L. Bengs,DEM,288
+Todd,Mission-N. Antelope,U.S. Senate,,Tamara J Lesnar,LIB,19
+Todd,Mission-N. Antelope,U.S. Senate,,John R. Thune,REP,86
+Todd,OKreek,U.S. Senate,,Brian L. Bengs,DEM,49
+Todd,OKreek,U.S. Senate,,Tamara J Lesnar,LIB,6
+Todd,OKreek,U.S. Senate,,John R. Thune,REP,31
+Todd,Parmelee,U.S. Senate,,Brian L. Bengs,DEM,193
+Todd,Parmelee,U.S. Senate,,Tamara J Lesnar,LIB,17
+Todd,Parmelee,U.S. Senate,,John R. Thune,REP,47
+Todd,Rosebud,U.S. Senate,,Brian L. Bengs,DEM,313
+Todd,Rosebud,U.S. Senate,,Tamara J Lesnar,LIB,17
+Todd,Rosebud,U.S. Senate,,John R. Thune,REP,67
+Todd,S. Antelope,U.S. Senate,,Brian L. Bengs,DEM,172
+Todd,S. Antelope,U.S. Senate,,Tamara J Lesnar,LIB,18
+Todd,S. Antelope,U.S. Senate,,John R. Thune,REP,67
+Todd,Saint Francis,U.S. Senate,,Brian L. Bengs,DEM,195
+Todd,Saint Francis,U.S. Senate,,Tamara J Lesnar,LIB,11
+Todd,Saint Francis,U.S. Senate,,John R. Thune,REP,57
+Todd,Bordeaux,U.S. House,1,Collin Duprel,LIB,28
+Todd,Bordeaux,U.S. House,1,Dusty Johnson,REP,23
+Todd,Fairgrounds-10,U.S. House,1,Collin Duprel,LIB,18
+Todd,Fairgrounds-10,U.S. House,1,Dusty Johnson,REP,18
+Todd,Jeanette,U.S. House,1,Collin Duprel,LIB,7
+Todd,Jeanette,U.S. House,1,Dusty Johnson,REP,52
+Todd,Lakeview,U.S. House,1,Collin Duprel,LIB,15
+Todd,Lakeview,U.S. House,1,Dusty Johnson,REP,78
+Todd,Mission-N. Antelope,U.S. House,1,Collin Duprel,LIB,205
+Todd,Mission-N. Antelope,U.S. House,1,Dusty Johnson,REP,130
+Todd,OKreek,U.S. House,1,Collin Duprel,LIB,34
+Todd,OKreek,U.S. House,1,Dusty Johnson,REP,40
+Todd,Parmelee,U.S. House,1,Collin Duprel,LIB,141
+Todd,Parmelee,U.S. House,1,Dusty Johnson,REP,71
+Todd,Rosebud,U.S. House,1,Collin Duprel,LIB,218
+Todd,Rosebud,U.S. House,1,Dusty Johnson,REP,113
+Todd,S. Antelope,U.S. House,1,Collin Duprel,LIB,140
+Todd,S. Antelope,U.S. House,1,Dusty Johnson,REP,85
+Todd,Saint Francis,U.S. House,1,Collin Duprel,LIB,141
+Todd,Saint Francis,U.S. House,1,Dusty Johnson,REP,67
+Todd,Bordeaux,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
+Todd,Bordeaux,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Todd,Bordeaux,Governor,,Kristi Noem and Larry Rhoden,REP,15
+Todd,Fairgrounds-10,Governor,,Jamie Smith and Jennifer Keintz,DEM,39
+Todd,Fairgrounds-10,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Todd,Fairgrounds-10,Governor,,Kristi Noem and Larry Rhoden,REP,7
+Todd,Jeanette,Governor,,Jamie Smith and Jennifer Keintz,DEM,5
+Todd,Jeanette,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Todd,Jeanette,Governor,,Kristi Noem and Larry Rhoden,REP,55
+Todd,Lakeview,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Todd,Lakeview,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Todd,Lakeview,Governor,,Kristi Noem and Larry Rhoden,REP,80
+Todd,Mission-N. Antelope,Governor,,Jamie Smith and Jennifer Keintz,DEM,313
+Todd,Mission-N. Antelope,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Todd,Mission-N. Antelope,Governor,,Kristi Noem and Larry Rhoden,REP,61
+Todd,OKreek,Governor,,Jamie Smith and Jennifer Keintz,DEM,53
+Todd,OKreek,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Todd,OKreek,Governor,,Kristi Noem and Larry Rhoden,REP,31
+Todd,Parmelee,Governor,,Jamie Smith and Jennifer Keintz,DEM,215
+Todd,Parmelee,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Todd,Parmelee,Governor,,Kristi Noem and Larry Rhoden,REP,28
+Todd,Rosebud,Governor,,Jamie Smith and Jennifer Keintz,DEM,352
+Todd,Rosebud,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Todd,Rosebud,Governor,,Kristi Noem and Larry Rhoden,REP,39
+Todd,S. Antelope,Governor,,Jamie Smith and Jennifer Keintz,DEM,193
+Todd,S. Antelope,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Todd,S. Antelope,Governor,,Kristi Noem and Larry Rhoden,REP,54
+Todd,Saint Francis,Governor,,Jamie Smith and Jennifer Keintz,DEM,214
+Todd,Saint Francis,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Todd,Saint Francis,Governor,,Kristi Noem and Larry Rhoden,REP,32
+Todd,Bordeaux,Secretary of State,,Thomas A Cool,DEM,43
+Todd,Bordeaux,Secretary of State,,Monae Johnson,REP,17
+Todd,Fairgrounds-10,Secretary of State,,Thomas A Cool,DEM,38
+Todd,Fairgrounds-10,Secretary of State,,Monae Johnson,REP,7
+Todd,Jeanette,Secretary of State,,Thomas A Cool,DEM,5
+Todd,Jeanette,Secretary of State,,Monae Johnson,REP,50
+Todd,Lakeview,Secretary of State,,Thomas A Cool,DEM,15
+Todd,Lakeview,Secretary of State,,Monae Johnson,REP,76
+Todd,Mission-N. Antelope,Secretary of State,,Thomas A Cool,DEM,322
+Todd,Mission-N. Antelope,Secretary of State,,Monae Johnson,REP,71
+Todd,OKreek,Secretary of State,,Thomas A Cool,DEM,53
+Todd,OKreek,Secretary of State,,Monae Johnson,REP,31
+Todd,Parmelee,Secretary of State,,Thomas A Cool,DEM,221
+Todd,Parmelee,Secretary of State,,Monae Johnson,REP,31
+Todd,Rosebud,Secretary of State,,Thomas A Cool,DEM,342
+Todd,Rosebud,Secretary of State,,Monae Johnson,REP,47
+Todd,S. Antelope,Secretary of State,,Thomas A Cool,DEM,188
+Todd,S. Antelope,Secretary of State,,Monae Johnson,REP,66
+Todd,Saint Francis,Secretary of State,,Thomas A Cool,DEM,221
+Todd,Saint Francis,Secretary of State,,Monae Johnson,REP,39
+Todd,Bordeaux,Attorney General,,Marty J. Jackley,REP,27
+Todd,Fairgrounds-10,Attorney General,,Marty J. Jackley,REP,23
+Todd,Jeanette,Attorney General,,Marty J. Jackley,REP,53
+Todd,Lakeview,Attorney General,,Marty J. Jackley,REP,79
+Todd,Mission-N. Antelope,Attorney General,,Marty J. Jackley,REP,146
+Todd,OKreek,Attorney General,,Marty J. Jackley,REP,38
+Todd,Parmelee,Attorney General,,Marty J. Jackley,REP,86
+Todd,Rosebud,Attorney General,,Marty J. Jackley,REP,138
+Todd,S. Antelope,Attorney General,,Marty J. Jackley,REP,122
+Todd,Saint Francis,Attorney General,,Marty J. Jackley,REP,84
+Todd,Bordeaux,State Auditor,,Stephanie Marty,DEM,41
+Todd,Bordeaux,State Auditor,,Rene Meyer,LIB,2
+Todd,Bordeaux,State Auditor,,Richard Sattgast,REP,14
+Todd,Fairgrounds-10,State Auditor,,Stephanie Marty,DEM,36
+Todd,Fairgrounds-10,State Auditor,,Rene Meyer,LIB,0
+Todd,Fairgrounds-10,State Auditor,,Richard Sattgast,REP,8
+Todd,Jeanette,State Auditor,,Stephanie Marty,DEM,7
+Todd,Jeanette,State Auditor,,Rene Meyer,LIB,3
+Todd,Jeanette,State Auditor,,Richard Sattgast,REP,47
+Todd,Lakeview,State Auditor,,Stephanie Marty,DEM,17
+Todd,Lakeview,State Auditor,,Rene Meyer,LIB,10
+Todd,Lakeview,State Auditor,,Richard Sattgast,REP,63
+Todd,Mission-N. Antelope,State Auditor,,Stephanie Marty,DEM,293
+Todd,Mission-N. Antelope,State Auditor,,Rene Meyer,LIB,35
+Todd,Mission-N. Antelope,State Auditor,,Richard Sattgast,REP,60
+Todd,OKreek,State Auditor,,Stephanie Marty,DEM,52
+Todd,OKreek,State Auditor,,Rene Meyer,LIB,5
+Todd,OKreek,State Auditor,,Richard Sattgast,REP,28
+Todd,Parmelee,State Auditor,,Stephanie Marty,DEM,206
+Todd,Parmelee,State Auditor,,Rene Meyer,LIB,21
+Todd,Parmelee,State Auditor,,Richard Sattgast,REP,24
+Todd,Rosebud,State Auditor,,Stephanie Marty,DEM,334
+Todd,Rosebud,State Auditor,,Rene Meyer,LIB,20
+Todd,Rosebud,State Auditor,,Richard Sattgast,REP,35
+Todd,S. Antelope,State Auditor,,Stephanie Marty,DEM,181
+Todd,S. Antelope,State Auditor,,Rene Meyer,LIB,20
+Todd,S. Antelope,State Auditor,,Richard Sattgast,REP,53
+Todd,Saint Francis,State Auditor,,Stephanie Marty,DEM,213
+Todd,Saint Francis,State Auditor,,Rene Meyer,LIB,15
+Todd,Saint Francis,State Auditor,,Richard Sattgast,REP,32
+Todd,Bordeaux,State Treasurer,,John Cunningham,DEM,44
+Todd,Bordeaux,State Treasurer,,Josh Haeder,REP,17
+Todd,Fairgrounds-10,State Treasurer,,John Cunningham,DEM,37
+Todd,Fairgrounds-10,State Treasurer,,Josh Haeder,REP,8
+Todd,Jeanette,State Treasurer,,John Cunningham,DEM,7
+Todd,Jeanette,State Treasurer,,Josh Haeder,REP,50
+Todd,Lakeview,State Treasurer,,John Cunningham,DEM,16
+Todd,Lakeview,State Treasurer,,Josh Haeder,REP,76
+Todd,Mission-N. Antelope,State Treasurer,,John Cunningham,DEM,318
+Todd,Mission-N. Antelope,State Treasurer,,Josh Haeder,REP,68
+Todd,OKreek,State Treasurer,,John Cunningham,DEM,53
+Todd,OKreek,State Treasurer,,Josh Haeder,REP,30
+Todd,Parmelee,State Treasurer,,John Cunningham,DEM,218
+Todd,Parmelee,State Treasurer,,Josh Haeder,REP,33
+Todd,Rosebud,State Treasurer,,John Cunningham,DEM,350
+Todd,Rosebud,State Treasurer,,Josh Haeder,REP,43
+Todd,S. Antelope,State Treasurer,,John Cunningham,DEM,188
+Todd,S. Antelope,State Treasurer,,Josh Haeder,REP,62
+Todd,Saint Francis,State Treasurer,,John Cunningham,DEM,216
+Todd,Saint Francis,State Treasurer,,Josh Haeder,REP,42
+Todd,Bordeaux,Commissioner of School and Public Lands,,Timothy Azure,DEM,44
+Todd,Bordeaux,Commissioner of School and Public Lands,,Brock Greenfield,REP,17
+Todd,Fairgrounds-10,Commissioner of School and Public Lands,,Timothy Azure,DEM,37
+Todd,Fairgrounds-10,Commissioner of School and Public Lands,,Brock Greenfield,REP,7
+Todd,Jeanette,Commissioner of School and Public Lands,,Timothy Azure,DEM,6
+Todd,Jeanette,Commissioner of School and Public Lands,,Brock Greenfield,REP,49
+Todd,Lakeview,Commissioner of School and Public Lands,,Timothy Azure,DEM,16
+Todd,Lakeview,Commissioner of School and Public Lands,,Brock Greenfield,REP,73
+Todd,Mission-N. Antelope,Commissioner of School and Public Lands,,Timothy Azure,DEM,315
+Todd,Mission-N. Antelope,Commissioner of School and Public Lands,,Brock Greenfield,REP,70
+Todd,OKreek,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Todd,OKreek,Commissioner of School and Public Lands,,Brock Greenfield,REP,30
+Todd,Parmelee,Commissioner of School and Public Lands,,Timothy Azure,DEM,213
+Todd,Parmelee,Commissioner of School and Public Lands,,Brock Greenfield,REP,35
+Todd,Rosebud,Commissioner of School and Public Lands,,Timothy Azure,DEM,348
+Todd,Rosebud,Commissioner of School and Public Lands,,Brock Greenfield,REP,42
+Todd,S. Antelope,Commissioner of School and Public Lands,,Timothy Azure,DEM,189
+Todd,S. Antelope,Commissioner of School and Public Lands,,Brock Greenfield,REP,64
+Todd,Saint Francis,Commissioner of School and Public Lands,,Timothy Azure,DEM,218
+Todd,Saint Francis,Commissioner of School and Public Lands,,Brock Greenfield,REP,33
+Todd,Bordeaux,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Todd,Bordeaux,Public Utilities Commissioner,,Chris Nelson,REP,15
+Todd,Fairgrounds-10,Public Utilities Commissioner,,Jeffrey Barth,DEM,36
+Todd,Fairgrounds-10,Public Utilities Commissioner,,Chris Nelson,REP,9
+Todd,Jeanette,Public Utilities Commissioner,,Jeffrey Barth,DEM,5
+Todd,Jeanette,Public Utilities Commissioner,,Chris Nelson,REP,54
+Todd,Lakeview,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Todd,Lakeview,Public Utilities Commissioner,,Chris Nelson,REP,79
+Todd,Mission-N. Antelope,Public Utilities Commissioner,,Jeffrey Barth,DEM,299
+Todd,Mission-N. Antelope,Public Utilities Commissioner,,Chris Nelson,REP,80
+Todd,OKreek,Public Utilities Commissioner,,Jeffrey Barth,DEM,52
+Todd,OKreek,Public Utilities Commissioner,,Chris Nelson,REP,32
+Todd,Parmelee,Public Utilities Commissioner,,Jeffrey Barth,DEM,204
+Todd,Parmelee,Public Utilities Commissioner,,Chris Nelson,REP,45
+Todd,Rosebud,Public Utilities Commissioner,,Jeffrey Barth,DEM,336
+Todd,Rosebud,Public Utilities Commissioner,,Chris Nelson,REP,54
+Todd,S. Antelope,Public Utilities Commissioner,,Jeffrey Barth,DEM,186
+Todd,S. Antelope,Public Utilities Commissioner,,Chris Nelson,REP,66
+Todd,Saint Francis,Public Utilities Commissioner,,Jeffrey Barth,DEM,206
+Todd,Saint Francis,Public Utilities Commissioner,,Chris Nelson,REP,42
+Todd,Bordeaux,State Senate,26,Shawn Bordeaux,DEM,45
+Todd,Bordeaux,State Senate,26,Joel Koskan,REP,16
+Todd,Fairgrounds-10,State Senate,26,Shawn Bordeaux,DEM,35
+Todd,Fairgrounds-10,State Senate,26,Joel Koskan,REP,8
+Todd,Jeanette,State Senate,26,Shawn Bordeaux,DEM,9
+Todd,Jeanette,State Senate,26,Joel Koskan,REP,37
+Todd,Lakeview,State Senate,26,Shawn Bordeaux,DEM,21
+Todd,Lakeview,State Senate,26,Joel Koskan,REP,68
+Todd,Mission-N. Antelope,State Senate,26,Shawn Bordeaux,DEM,319
+Todd,Mission-N. Antelope,State Senate,26,Joel Koskan,REP,54
+Todd,OKreek,State Senate,26,Shawn Bordeaux,DEM,54
+Todd,OKreek,State Senate,26,Joel Koskan,REP,20
+Todd,Parmelee,State Senate,26,Shawn Bordeaux,DEM,227
+Todd,Parmelee,State Senate,26,Joel Koskan,REP,23
+Todd,Rosebud,State Senate,26,Shawn Bordeaux,DEM,359
+Todd,Rosebud,State Senate,26,Joel Koskan,REP,32
+Todd,S. Antelope,State Senate,26,Shawn Bordeaux,DEM,198
+Todd,S. Antelope,State Senate,26,Joel Koskan,REP,46
+Todd,Saint Francis,State Senate,26,Shawn Bordeaux,DEM,218
+Todd,Saint Francis,State Senate,26,Joel Koskan,REP,35
+Todd,Bordeaux,State House,26A,Eric Emery,DEM,47
+Todd,Bordeaux,State House,26A,Joyce Glynn,REP,15
+Todd,Fairgrounds-10,State House,26A,Eric Emery,DEM,38
+Todd,Fairgrounds-10,State House,26A,Joyce Glynn,REP,8
+Todd,Jeanette,State House,26A,Eric Emery,DEM,3
+Todd,Jeanette,State House,26A,Joyce Glynn,REP,55
+Todd,Lakeview,State House,26A,Eric Emery,DEM,18
+Todd,Lakeview,State House,26A,Joyce Glynn,REP,77
+Todd,Mission-N. Antelope,State House,26A,Eric Emery,DEM,324
+Todd,Mission-N. Antelope,State House,26A,Joyce Glynn,REP,67
+Todd,OKreek,State House,26A,Eric Emery,DEM,53
+Todd,OKreek,State House,26A,Joyce Glynn,REP,30
+Todd,Parmelee,State House,26A,Eric Emery,DEM,217
+Todd,Parmelee,State House,26A,Joyce Glynn,REP,31
+Todd,Rosebud,State House,26A,Eric Emery,DEM,360
+Todd,Rosebud,State House,26A,Joyce Glynn,REP,38
+Todd,S. Antelope,State House,26A,Eric Emery,DEM,194
+Todd,S. Antelope,State House,26A,Joyce Glynn,REP,59
+Todd,Saint Francis,State House,26A,Eric Emery,DEM,230
+Todd,Saint Francis,State House,26A,Joyce Glynn,REP,32
+Todd,Bordeaux,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,20
+Todd,Fairgrounds-10,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,17
+Todd,Jeanette,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,11
+Todd,Lakeview,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,35
+Todd,Mission-N. Antelope,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,110
+Todd,OKreek,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,18
+Todd,Parmelee,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,76
+Todd,Rosebud,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,121
+Todd,S. Antelope,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,79
+Todd,Saint Francis,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,53
+Todd,Bordeaux,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,20
+Todd,Fairgrounds-10,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,16
+Todd,Jeanette,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,12
+Todd,Lakeview,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,33
+Todd,Mission-N. Antelope,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,99
+Todd,OKreek,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,19
+Todd,Parmelee,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,69
+Todd,Rosebud,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,109
+Todd,S. Antelope,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,68
+Todd,Saint Francis,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,52
+Todd,Bordeaux,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,18
+Todd,Fairgrounds-10,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,17
+Todd,Jeanette,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,14
+Todd,Lakeview,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,31
+Todd,Mission-N. Antelope,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,103
+Todd,OKreek,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,17
+Todd,Parmelee,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,65
+Todd,Rosebud,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,116
+Todd,S. Antelope,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,69
+Todd,Saint Francis,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,53
+Todd,Bordeaux,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,20
+Todd,Fairgrounds-10,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,15
+Todd,Jeanette,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,20
+Todd,Lakeview,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,35
+Todd,Mission-N. Antelope,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,112
+Todd,OKreek,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,27
+Todd,Parmelee,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,69
+Todd,Rosebud,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,113
+Todd,S. Antelope,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,79
+Todd,Saint Francis,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,54
+Todd,Bordeaux,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,41
+Todd,Bordeaux,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Todd,Fairgrounds-10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,23
+Todd,Fairgrounds-10,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Todd,Jeanette,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,32
+Todd,Jeanette,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Todd,Lakeview,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,61
+Todd,Lakeview,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Todd,Mission-N. Antelope,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,179
+Todd,Mission-N. Antelope,Supreme Court Retention,3,Patricia J. DeVaney - No,,159
+Todd,OKreek,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,39
+Todd,OKreek,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Todd,Parmelee,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,119
+Todd,Parmelee,Supreme Court Retention,3,Patricia J. DeVaney - No,,109
+Todd,Rosebud,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,189
+Todd,Rosebud,Supreme Court Retention,3,Patricia J. DeVaney - No,,153
+Todd,S. Antelope,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,114
+Todd,S. Antelope,Supreme Court Retention,3,Patricia J. DeVaney - No,,111
+Todd,Saint Francis,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,120
+Todd,Saint Francis,Supreme Court Retention,3,Patricia J. DeVaney - No,,88
+Todd,Bordeaux,Supreme Court Retention,2,Mark E. Salter - Yes,,34
+Todd,Bordeaux,Supreme Court Retention,2,Mark E. Salter - No,,20
+Todd,Fairgrounds-10,Supreme Court Retention,2,Mark E. Salter - Yes,,24
+Todd,Fairgrounds-10,Supreme Court Retention,2,Mark E. Salter - No,,12
+Todd,Jeanette,Supreme Court Retention,2,Mark E. Salter - Yes,,31
+Todd,Jeanette,Supreme Court Retention,2,Mark E. Salter - No,,9
+Todd,Lakeview,Supreme Court Retention,2,Mark E. Salter - Yes,,57
+Todd,Lakeview,Supreme Court Retention,2,Mark E. Salter - No,,21
+Todd,Mission-N. Antelope,Supreme Court Retention,2,Mark E. Salter - Yes,,170
+Todd,Mission-N. Antelope,Supreme Court Retention,2,Mark E. Salter - No,,166
+Todd,OKreek,Supreme Court Retention,2,Mark E. Salter - Yes,,40
+Todd,OKreek,Supreme Court Retention,2,Mark E. Salter - No,,33
+Todd,Parmelee,Supreme Court Retention,2,Mark E. Salter - Yes,,103
+Todd,Parmelee,Supreme Court Retention,2,Mark E. Salter - No,,121
+Todd,Rosebud,Supreme Court Retention,2,Mark E. Salter - Yes,,166
+Todd,Rosebud,Supreme Court Retention,2,Mark E. Salter - No,,175
+Todd,S. Antelope,Supreme Court Retention,2,Mark E. Salter - Yes,,115
+Todd,S. Antelope,Supreme Court Retention,2,Mark E. Salter - No,,110
+Todd,Saint Francis,Supreme Court Retention,2,Mark E. Salter - Yes,,115
+Todd,Saint Francis,Supreme Court Retention,2,Mark E. Salter - No,,95
+Todd,Bordeaux,Constitutional Amendment D,,Yes,,43
+Todd,Bordeaux,Constitutional Amendment D,,No,,16
+Todd,Fairgrounds-10,Constitutional Amendment D,,Yes,,37
+Todd,Fairgrounds-10,Constitutional Amendment D,,No,,6
+Todd,Jeanette,Constitutional Amendment D,,Yes,,14
+Todd,Jeanette,Constitutional Amendment D,,No,,41
+Todd,Lakeview,Constitutional Amendment D,,Yes,,40
+Todd,Lakeview,Constitutional Amendment D,,No,,55
+Todd,Mission-N. Antelope,Constitutional Amendment D,,Yes,,348
+Todd,Mission-N. Antelope,Constitutional Amendment D,,No,,47
+Todd,OKreek,Constitutional Amendment D,,Yes,,64
+Todd,OKreek,Constitutional Amendment D,,No,,21
+Todd,Parmelee,Constitutional Amendment D,,Yes,,224
+Todd,Parmelee,Constitutional Amendment D,,No,,32
+Todd,Rosebud,Constitutional Amendment D,,Yes,,357
+Todd,Rosebud,Constitutional Amendment D,,No,,40
+Todd,S. Antelope,Constitutional Amendment D,,Yes,,200
+Todd,S. Antelope,Constitutional Amendment D,,No,,54
+Todd,Saint Francis,Constitutional Amendment D,,Yes,,208
+Todd,Saint Francis,Constitutional Amendment D,,No,,35
+Todd,Bordeaux,Initiated Measure 27,,Yes,,43
+Todd,Bordeaux,Initiated Measure 27,,No,,18
+Todd,Fairgrounds-10,Initiated Measure 27,,Yes,,36
+Todd,Fairgrounds-10,Initiated Measure 27,,No,,8
+Todd,Jeanette,Initiated Measure 27,,Yes,,9
+Todd,Jeanette,Initiated Measure 27,,No,,46
+Todd,Lakeview,Initiated Measure 27,,Yes,,23
+Todd,Lakeview,Initiated Measure 27,,No,,73
+Todd,Mission-N. Antelope,Initiated Measure 27,,Yes,,311
+Todd,Mission-N. Antelope,Initiated Measure 27,,No,,83
+Todd,OKreek,Initiated Measure 27,,Yes,,57
+Todd,OKreek,Initiated Measure 27,,No,,30
+Todd,Parmelee,Initiated Measure 27,,Yes,,204
+Todd,Parmelee,Initiated Measure 27,,No,,52
+Todd,Rosebud,Initiated Measure 27,,Yes,,343
+Todd,Rosebud,Initiated Measure 27,,No,,55
+Todd,S. Antelope,Initiated Measure 27,,Yes,,204
+Todd,S. Antelope,Initiated Measure 27,,No,,53
+Todd,Saint Francis,Initiated Measure 27,,Yes,,194
+Todd,Saint Francis,Initiated Measure 27,,No,,54

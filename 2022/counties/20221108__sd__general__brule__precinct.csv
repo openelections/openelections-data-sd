@@ -1,0 +1,149 @@
+county,precinct,office,district,candidate,party,votes
+Brule,01,U.S. Senate,,Brian L. Bengs,DEM,297
+Brule,01,U.S. Senate,,Tamara J Lesnar,LIB,37
+Brule,01,U.S. Senate,,John R. Thune,REP,794
+Brule,02,U.S. Senate,,Brian L. Bengs,DEM,56
+Brule,02,U.S. Senate,,Tamara J Lesnar,LIB,36
+Brule,02,U.S. Senate,,John R. Thune,REP,384
+Brule,03,U.S. Senate,,Brian L. Bengs,DEM,54
+Brule,03,U.S. Senate,,Tamara J Lesnar,LIB,17
+Brule,03,U.S. Senate,,John R. Thune,REP,271
+Brule,04,U.S. Senate,,Brian L. Bengs,DEM,21
+Brule,04,U.S. Senate,,Tamara J Lesnar,LIB,7
+Brule,04,U.S. Senate,,John R. Thune,REP,124
+Brule,01,U.S. House,1,Collin Duprel,LIB,195
+Brule,01,U.S. House,1,Dusty Johnson,REP,866
+Brule,02,U.S. House,1,Collin Duprel,LIB,84
+Brule,02,U.S. House,1,Dusty Johnson,REP,390
+Brule,03,U.S. House,1,Collin Duprel,LIB,65
+Brule,03,U.S. House,1,Dusty Johnson,REP,270
+Brule,04,U.S. House,1,Collin Duprel,LIB,23
+Brule,04,U.S. House,1,Dusty Johnson,REP,126
+Brule,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,399
+Brule,01,Governor,,Tracey Quint and Ashley Strand,LIB,23
+Brule,01,Governor,,Kristi Noem and Larry Rhoden,REP,708
+Brule,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,87
+Brule,02,Governor,,Tracey Quint and Ashley Strand,LIB,20
+Brule,02,Governor,,Kristi Noem and Larry Rhoden,REP,377
+Brule,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,72
+Brule,03,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Brule,03,Governor,,Kristi Noem and Larry Rhoden,REP,263
+Brule,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Brule,04,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Brule,04,Governor,,Kristi Noem and Larry Rhoden,REP,115
+Brule,01,Secretary of State,,Thomas A Cool,DEM,406
+Brule,01,Secretary of State,,Monae Johnson,REP,659
+Brule,02,Secretary of State,,Thomas A Cool,DEM,125
+Brule,02,Secretary of State,,Monae Johnson,REP,326
+Brule,03,Secretary of State,,Thomas A Cool,DEM,84
+Brule,03,Secretary of State,,Monae Johnson,REP,245
+Brule,04,Secretary of State,,Thomas A Cool,DEM,38
+Brule,04,Secretary of State,,Monae Johnson,REP,100
+Brule,01,Attorney General,,Marty J. Jackley,REP,859
+Brule,02,Attorney General,,Marty J. Jackley,REP,355
+Brule,03,Attorney General,,Marty J. Jackley,REP,272
+Brule,04,Attorney General,,Marty J. Jackley,REP,120
+Brule,01,State Auditor,,Stephanie Marty,DEM,332
+Brule,01,State Auditor,,Rene Meyer,LIB,59
+Brule,01,State Auditor,,Richard Sattgast,REP,670
+Brule,02,State Auditor,,Stephanie Marty,DEM,90
+Brule,02,State Auditor,,Rene Meyer,LIB,30
+Brule,02,State Auditor,,Richard Sattgast,REP,329
+Brule,03,State Auditor,,Stephanie Marty,DEM,73
+Brule,03,State Auditor,,Rene Meyer,LIB,16
+Brule,03,State Auditor,,Richard Sattgast,REP,232
+Brule,04,State Auditor,,Stephanie Marty,DEM,32
+Brule,04,State Auditor,,Rene Meyer,LIB,1
+Brule,04,State Auditor,,Richard Sattgast,REP,108
+Brule,01,State Treasurer,,John Cunningham,DEM,363
+Brule,01,State Treasurer,,Josh Haeder,REP,684
+Brule,02,State Treasurer,,John Cunningham,DEM,90
+Brule,02,State Treasurer,,Josh Haeder,REP,348
+Brule,03,State Treasurer,,John Cunningham,DEM,84
+Brule,03,State Treasurer,,Josh Haeder,REP,235
+Brule,04,State Treasurer,,John Cunningham,DEM,31
+Brule,04,State Treasurer,,Josh Haeder,REP,108
+Brule,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,352
+Brule,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,684
+Brule,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,96
+Brule,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,335
+Brule,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,71
+Brule,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,242
+Brule,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Brule,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,107
+Brule,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,328
+Brule,01,Public Utilities Commissioner,,Chris Nelson,REP,734
+Brule,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Brule,02,Public Utilities Commissioner,,Chris Nelson,REP,381
+Brule,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Brule,03,Public Utilities Commissioner,,Chris Nelson,REP,268
+Brule,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,26
+Brule,04,Public Utilities Commissioner,,Chris Nelson,REP,118
+Brule,01,State Senate,26,Shawn Bordeaux,DEM,443
+Brule,01,State Senate,26,Joel Koskan,REP,553
+Brule,02,State Senate,26,Shawn Bordeaux,DEM,142
+Brule,02,State Senate,26,Joel Koskan,REP,266
+Brule,03,State Senate,26,Shawn Bordeaux,DEM,101
+Brule,03,State Senate,26,Joel Koskan,REP,186
+Brule,04,State Senate,26,Shawn Bordeaux,DEM,47
+Brule,04,State Senate,26,Joel Koskan,REP,72
+Brule,01,State House,26B,Rebecca Reimer,REP,777
+Brule,02,State House,26B,Rebecca Reimer,REP,383
+Brule,03,State House,26B,Rebecca Reimer,REP,271
+Brule,04,State House,26B,Rebecca Reimer,REP,126
+Brule,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,461
+Brule,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,208
+Brule,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,133
+Brule,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,63
+Brule,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,440
+Brule,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,197
+Brule,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,126
+Brule,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,55
+Brule,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,460
+Brule,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,213
+Brule,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,137
+Brule,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,60
+Brule,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,431
+Brule,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,197
+Brule,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,129
+Brule,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,53
+Brule,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,439
+Brule,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,203
+Brule,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,124
+Brule,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,58
+Brule,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,441
+Brule,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,192
+Brule,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,123
+Brule,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,54
+Brule,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,739
+Brule,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,189
+Brule,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,329
+Brule,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,72
+Brule,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,232
+Brule,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,64
+Brule,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,100
+Brule,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Brule,01,Supreme Court Retention,2,Mark E. Salter - Yes,,724
+Brule,01,Supreme Court Retention,2,Mark E. Salter - No,,197
+Brule,02,Supreme Court Retention,2,Mark E. Salter - Yes,,331
+Brule,02,Supreme Court Retention,2,Mark E. Salter - No,,67
+Brule,03,Supreme Court Retention,2,Mark E. Salter - Yes,,226
+Brule,03,Supreme Court Retention,2,Mark E. Salter - No,,67
+Brule,04,Supreme Court Retention,2,Mark E. Salter - Yes,,102
+Brule,04,Supreme Court Retention,2,Mark E. Salter - No,,18
+Brule,01,Constitutional Amendment D,,Yes,,645
+Brule,01,Constitutional Amendment D,,No,,452
+Brule,02,Constitutional Amendment D,,Yes,,209
+Brule,02,Constitutional Amendment D,,No,,254
+Brule,03,Constitutional Amendment D,,Yes,,170
+Brule,03,Constitutional Amendment D,,No,,173
+Brule,04,Constitutional Amendment D,,Yes,,70
+Brule,04,Constitutional Amendment D,,No,,77
+Brule,01,Initiated Measure 27,,Yes,,486
+Brule,01,Initiated Measure 27,,No,,629
+Brule,02,Initiated Measure 27,,Yes,,146
+Brule,02,Initiated Measure 27,,No,,330
+Brule,03,Initiated Measure 27,,Yes,,130
+Brule,03,Initiated Measure 27,,No,,219
+Brule,04,Initiated Measure 27,,Yes,,32
+Brule,04,Initiated Measure 27,,No,,119

@@ -1,0 +1,351 @@
+county,precinct,office,district,candidate,party,votes
+Walworth,01,U.S. Senate,,Brian L. Bengs,DEM,8
+Walworth,01,U.S. Senate,,Tamara J Lesnar,LIB,11
+Walworth,01,U.S. Senate,,John R. Thune,REP,102
+Walworth,02,U.S. Senate,,Brian L. Bengs,DEM,17
+Walworth,02,U.S. Senate,,Tamara J Lesnar,LIB,8
+Walworth,02,U.S. Senate,,John R. Thune,REP,107
+Walworth,03,U.S. Senate,,Brian L. Bengs,DEM,26
+Walworth,03,U.S. Senate,,Tamara J Lesnar,LIB,15
+Walworth,03,U.S. Senate,,John R. Thune,REP,306
+Walworth,04,U.S. Senate,,Brian L. Bengs,DEM,28
+Walworth,04,U.S. Senate,,Tamara J Lesnar,LIB,6
+Walworth,04,U.S. Senate,,John R. Thune,REP,100
+Walworth,05,U.S. Senate,,Brian L. Bengs,DEM,52
+Walworth,05,U.S. Senate,,Tamara J Lesnar,LIB,14
+Walworth,05,U.S. Senate,,John R. Thune,REP,191
+Walworth,06,U.S. Senate,,Brian L. Bengs,DEM,88
+Walworth,06,U.S. Senate,,Tamara J Lesnar,LIB,13
+Walworth,06,U.S. Senate,,John R. Thune,REP,283
+Walworth,07,U.S. Senate,,Brian L. Bengs,DEM,61
+Walworth,07,U.S. Senate,,Tamara J Lesnar,LIB,10
+Walworth,07,U.S. Senate,,John R. Thune,REP,316
+Walworth,08,U.S. Senate,,Brian L. Bengs,DEM,3
+Walworth,08,U.S. Senate,,Tamara J Lesnar,LIB,5
+Walworth,08,U.S. Senate,,John R. Thune,REP,62
+Walworth,09,U.S. Senate,,Brian L. Bengs,DEM,10
+Walworth,09,U.S. Senate,,Tamara J Lesnar,LIB,4
+Walworth,09,U.S. Senate,,John R. Thune,REP,54
+Walworth,10,U.S. Senate,,Brian L. Bengs,DEM,8
+Walworth,10,U.S. Senate,,Tamara J Lesnar,LIB,6
+Walworth,10,U.S. Senate,,John R. Thune,REP,124
+Walworth,01,U.S. House,1,Collin Duprel,LIB,21
+Walworth,01,U.S. House,1,Dusty Johnson,REP,102
+Walworth,02,U.S. House,1,Collin Duprel,LIB,18
+Walworth,02,U.S. House,1,Dusty Johnson,REP,112
+Walworth,03,U.S. House,1,Collin Duprel,LIB,31
+Walworth,03,U.S. House,1,Dusty Johnson,REP,308
+Walworth,04,U.S. House,1,Collin Duprel,LIB,22
+Walworth,04,U.S. House,1,Dusty Johnson,REP,108
+Walworth,05,U.S. House,1,Collin Duprel,LIB,44
+Walworth,05,U.S. House,1,Dusty Johnson,REP,200
+Walworth,06,U.S. House,1,Collin Duprel,LIB,57
+Walworth,06,U.S. House,1,Dusty Johnson,REP,304
+Walworth,07,U.S. House,1,Collin Duprel,LIB,41
+Walworth,07,U.S. House,1,Dusty Johnson,REP,327
+Walworth,08,U.S. House,1,Collin Duprel,LIB,7
+Walworth,08,U.S. House,1,Dusty Johnson,REP,60
+Walworth,09,U.S. House,1,Collin Duprel,LIB,14
+Walworth,09,U.S. House,1,Dusty Johnson,REP,48
+Walworth,10,U.S. House,1,Collin Duprel,LIB,16
+Walworth,10,U.S. House,1,Dusty Johnson,REP,122
+Walworth,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,8
+Walworth,01,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Walworth,01,Governor,,Kristi Noem and Larry Rhoden,REP,110
+Walworth,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,25
+Walworth,02,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Walworth,02,Governor,,Kristi Noem and Larry Rhoden,REP,104
+Walworth,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,46
+Walworth,03,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Walworth,03,Governor,,Kristi Noem and Larry Rhoden,REP,296
+Walworth,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,38
+Walworth,04,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Walworth,04,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Walworth,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,68
+Walworth,05,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Walworth,05,Governor,,Kristi Noem and Larry Rhoden,REP,178
+Walworth,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,116
+Walworth,06,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Walworth,06,Governor,,Kristi Noem and Larry Rhoden,REP,263
+Walworth,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,92
+Walworth,07,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Walworth,07,Governor,,Kristi Noem and Larry Rhoden,REP,289
+Walworth,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,5
+Walworth,08,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Walworth,08,Governor,,Kristi Noem and Larry Rhoden,REP,64
+Walworth,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Walworth,09,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Walworth,09,Governor,,Kristi Noem and Larry Rhoden,REP,51
+Walworth,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Walworth,10,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Walworth,10,Governor,,Kristi Noem and Larry Rhoden,REP,123
+Walworth,01,Secretary of State,,Thomas A Cool,DEM,15
+Walworth,01,Secretary of State,,Monae Johnson,REP,102
+Walworth,02,Secretary of State,,Thomas A Cool,DEM,29
+Walworth,02,Secretary of State,,Monae Johnson,REP,102
+Walworth,03,Secretary of State,,Thomas A Cool,DEM,58
+Walworth,03,Secretary of State,,Monae Johnson,REP,274
+Walworth,04,Secretary of State,,Thomas A Cool,DEM,31
+Walworth,04,Secretary of State,,Monae Johnson,REP,99
+Walworth,05,Secretary of State,,Thomas A Cool,DEM,73
+Walworth,05,Secretary of State,,Monae Johnson,REP,175
+Walworth,06,Secretary of State,,Thomas A Cool,DEM,120
+Walworth,06,Secretary of State,,Monae Johnson,REP,251
+Walworth,07,Secretary of State,,Thomas A Cool,DEM,77
+Walworth,07,Secretary of State,,Monae Johnson,REP,287
+Walworth,08,Secretary of State,,Thomas A Cool,DEM,7
+Walworth,08,Secretary of State,,Monae Johnson,REP,59
+Walworth,09,Secretary of State,,Thomas A Cool,DEM,12
+Walworth,09,Secretary of State,,Monae Johnson,REP,47
+Walworth,10,Secretary of State,,Thomas A Cool,DEM,14
+Walworth,10,Secretary of State,,Monae Johnson,REP,124
+Walworth,01,Attorney General,,Marty J. Jackley,REP,98
+Walworth,02,Attorney General,,Marty J. Jackley,REP,114
+Walworth,03,Attorney General,,Marty J. Jackley,REP,303
+Walworth,04,Attorney General,,Marty J. Jackley,REP,110
+Walworth,05,Attorney General,,Marty J. Jackley,REP,201
+Walworth,06,Attorney General,,Marty J. Jackley,REP,299
+Walworth,07,Attorney General,,Marty J. Jackley,REP,316
+Walworth,08,Attorney General,,Marty J. Jackley,REP,63
+Walworth,09,Attorney General,,Marty J. Jackley,REP,53
+Walworth,10,Attorney General,,Marty J. Jackley,REP,134
+Walworth,01,State Auditor,,Stephanie Marty,DEM,12
+Walworth,01,State Auditor,,Rene Meyer,LIB,7
+Walworth,01,State Auditor,,Richard Sattgast,REP,100
+Walworth,02,State Auditor,,Stephanie Marty,DEM,18
+Walworth,02,State Auditor,,Rene Meyer,LIB,7
+Walworth,02,State Auditor,,Richard Sattgast,REP,105
+Walworth,03,State Auditor,,Stephanie Marty,DEM,39
+Walworth,03,State Auditor,,Rene Meyer,LIB,13
+Walworth,03,State Auditor,,Richard Sattgast,REP,279
+Walworth,04,State Auditor,,Stephanie Marty,DEM,31
+Walworth,04,State Auditor,,Rene Meyer,LIB,9
+Walworth,04,State Auditor,,Richard Sattgast,REP,89
+Walworth,05,State Auditor,,Stephanie Marty,DEM,68
+Walworth,05,State Auditor,,Rene Meyer,LIB,12
+Walworth,05,State Auditor,,Richard Sattgast,REP,167
+Walworth,06,State Auditor,,Stephanie Marty,DEM,117
+Walworth,06,State Auditor,,Rene Meyer,LIB,14
+Walworth,06,State Auditor,,Richard Sattgast,REP,246
+Walworth,07,State Auditor,,Stephanie Marty,DEM,83
+Walworth,07,State Auditor,,Rene Meyer,LIB,11
+Walworth,07,State Auditor,,Richard Sattgast,REP,269
+Walworth,08,State Auditor,,Stephanie Marty,DEM,7
+Walworth,08,State Auditor,,Rene Meyer,LIB,0
+Walworth,08,State Auditor,,Richard Sattgast,REP,54
+Walworth,09,State Auditor,,Stephanie Marty,DEM,12
+Walworth,09,State Auditor,,Rene Meyer,LIB,1
+Walworth,09,State Auditor,,Richard Sattgast,REP,46
+Walworth,10,State Auditor,,Stephanie Marty,DEM,14
+Walworth,10,State Auditor,,Rene Meyer,LIB,2
+Walworth,10,State Auditor,,Richard Sattgast,REP,119
+Walworth,01,State Treasurer,,John Cunningham,DEM,12
+Walworth,01,State Treasurer,,Josh Haeder,REP,105
+Walworth,02,State Treasurer,,John Cunningham,DEM,20
+Walworth,02,State Treasurer,,Josh Haeder,REP,112
+Walworth,03,State Treasurer,,John Cunningham,DEM,36
+Walworth,03,State Treasurer,,Josh Haeder,REP,296
+Walworth,04,State Treasurer,,John Cunningham,DEM,31
+Walworth,04,State Treasurer,,Josh Haeder,REP,98
+Walworth,05,State Treasurer,,John Cunningham,DEM,69
+Walworth,05,State Treasurer,,Josh Haeder,REP,178
+Walworth,06,State Treasurer,,John Cunningham,DEM,113
+Walworth,06,State Treasurer,,Josh Haeder,REP,262
+Walworth,07,State Treasurer,,John Cunningham,DEM,70
+Walworth,07,State Treasurer,,Josh Haeder,REP,289
+Walworth,08,State Treasurer,,John Cunningham,DEM,5
+Walworth,08,State Treasurer,,Josh Haeder,REP,59
+Walworth,09,State Treasurer,,John Cunningham,DEM,9
+Walworth,09,State Treasurer,,Josh Haeder,REP,49
+Walworth,10,State Treasurer,,John Cunningham,DEM,12
+Walworth,10,State Treasurer,,Josh Haeder,REP,122
+Walworth,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Walworth,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,104
+Walworth,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,18
+Walworth,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,112
+Walworth,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Walworth,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,293
+Walworth,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Walworth,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,97
+Walworth,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,70
+Walworth,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Walworth,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,111
+Walworth,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,253
+Walworth,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,77
+Walworth,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,282
+Walworth,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,6
+Walworth,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,60
+Walworth,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Walworth,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,46
+Walworth,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,14
+Walworth,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,118
+Walworth,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,7
+Walworth,01,Public Utilities Commissioner,,Chris Nelson,REP,115
+Walworth,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,17
+Walworth,02,Public Utilities Commissioner,,Chris Nelson,REP,115
+Walworth,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,38
+Walworth,03,Public Utilities Commissioner,,Chris Nelson,REP,300
+Walworth,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,30
+Walworth,04,Public Utilities Commissioner,,Chris Nelson,REP,99
+Walworth,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,67
+Walworth,05,Public Utilities Commissioner,,Chris Nelson,REP,178
+Walworth,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,93
+Walworth,06,Public Utilities Commissioner,,Chris Nelson,REP,279
+Walworth,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,68
+Walworth,07,Public Utilities Commissioner,,Chris Nelson,REP,300
+Walworth,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
+Walworth,08,Public Utilities Commissioner,,Chris Nelson,REP,62
+Walworth,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,9
+Walworth,09,Public Utilities Commissioner,,Chris Nelson,REP,48
+Walworth,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,9
+Walworth,10,Public Utilities Commissioner,,Chris Nelson,REP,127
+Walworth,01,State Senate,23,Bryan J. Breitling,REP,98
+Walworth,02,State Senate,23,Bryan J. Breitling,REP,108
+Walworth,03,State Senate,23,Bryan J. Breitling,REP,299
+Walworth,04,State Senate,23,Bryan J. Breitling,REP,102
+Walworth,05,State Senate,23,Bryan J. Breitling,REP,192
+Walworth,06,State Senate,23,Bryan J. Breitling,REP,285
+Walworth,07,State Senate,23,Bryan J. Breitling,REP,295
+Walworth,08,State Senate,23,Bryan J. Breitling,REP,54
+Walworth,09,State Senate,23,Bryan J. Breitling,REP,47
+Walworth,10,State Senate,23,Bryan J. Breitling,REP,125
+Walworth,01,State House,23,James D. Wangsness,REP,67
+Walworth,01,State House,23,Scott Moore,REP,95
+Walworth,02,State House,23,James D. Wangsness,REP,59
+Walworth,02,State House,23,Scott Moore,REP,95
+Walworth,03,State House,23,James D. Wangsness,REP,163
+Walworth,03,State House,23,Scott Moore,REP,249
+Walworth,04,State House,23,James D. Wangsness,REP,56
+Walworth,04,State House,23,Scott Moore,REP,89
+Walworth,05,State House,23,James D. Wangsness,REP,118
+Walworth,05,State House,23,Scott Moore,REP,165
+Walworth,06,State House,23,James D. Wangsness,REP,158
+Walworth,06,State House,23,Scott Moore,REP,247
+Walworth,07,State House,23,James D. Wangsness,REP,160
+Walworth,07,State House,23,Scott Moore,REP,255
+Walworth,08,State House,23,James D. Wangsness,REP,34
+Walworth,08,State House,23,Scott Moore,REP,53
+Walworth,09,State House,23,James D. Wangsness,REP,26
+Walworth,09,State House,23,Scott Moore,REP,40
+Walworth,10,State House,23,James D. Wangsness,REP,68
+Walworth,10,State House,23,Scott Moore,REP,108
+Walworth,01,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,64
+Walworth,02,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,73
+Walworth,03,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,189
+Walworth,04,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,65
+Walworth,05,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,131
+Walworth,06,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,182
+Walworth,07,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,182
+Walworth,08,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,41
+Walworth,09,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,31
+Walworth,10,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,70
+Walworth,01,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,59
+Walworth,02,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,67
+Walworth,03,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,176
+Walworth,04,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,65
+Walworth,05,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,126
+Walworth,06,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,180
+Walworth,07,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,182
+Walworth,08,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,32
+Walworth,09,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,33
+Walworth,10,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,71
+Walworth,01,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,58
+Walworth,02,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,68
+Walworth,03,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,180
+Walworth,04,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,64
+Walworth,05,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,123
+Walworth,06,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,171
+Walworth,07,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,176
+Walworth,08,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,31
+Walworth,09,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,30
+Walworth,10,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,69
+Walworth,01,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,60
+Walworth,02,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,68
+Walworth,03,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,173
+Walworth,04,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,61
+Walworth,05,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,127
+Walworth,06,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,178
+Walworth,07,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,179
+Walworth,08,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,32
+Walworth,09,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,31
+Walworth,10,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,72
+Walworth,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,83
+Walworth,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Walworth,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,86
+Walworth,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Walworth,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,253
+Walworth,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,48
+Walworth,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,93
+Walworth,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,24
+Walworth,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,185
+Walworth,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Walworth,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,271
+Walworth,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,66
+Walworth,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,256
+Walworth,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
+Walworth,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,46
+Walworth,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Walworth,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,43
+Walworth,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Walworth,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,105
+Walworth,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Walworth,01,Supreme Court Retention,2,Mark E. Salter - Yes,,82
+Walworth,01,Supreme Court Retention,2,Mark E. Salter - No,,23
+Walworth,02,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Walworth,02,Supreme Court Retention,2,Mark E. Salter - No,,28
+Walworth,03,Supreme Court Retention,2,Mark E. Salter - Yes,,252
+Walworth,03,Supreme Court Retention,2,Mark E. Salter - No,,48
+Walworth,04,Supreme Court Retention,2,Mark E. Salter - Yes,,92
+Walworth,04,Supreme Court Retention,2,Mark E. Salter - No,,25
+Walworth,05,Supreme Court Retention,2,Mark E. Salter - Yes,,179
+Walworth,05,Supreme Court Retention,2,Mark E. Salter - No,,36
+Walworth,06,Supreme Court Retention,2,Mark E. Salter - Yes,,270
+Walworth,06,Supreme Court Retention,2,Mark E. Salter - No,,68
+Walworth,07,Supreme Court Retention,2,Mark E. Salter - Yes,,259
+Walworth,07,Supreme Court Retention,2,Mark E. Salter - No,,60
+Walworth,08,Supreme Court Retention,2,Mark E. Salter - Yes,,44
+Walworth,08,Supreme Court Retention,2,Mark E. Salter - No,,8
+Walworth,09,Supreme Court Retention,2,Mark E. Salter - Yes,,42
+Walworth,09,Supreme Court Retention,2,Mark E. Salter - No,,10
+Walworth,10,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Walworth,10,Supreme Court Retention,2,Mark E. Salter - No,,15
+Walworth,01,Constitutional Amendment D,,Yes,,38
+Walworth,01,Constitutional Amendment D,,No,,82
+Walworth,02,Constitutional Amendment D,,Yes,,69
+Walworth,02,Constitutional Amendment D,,No,,63
+Walworth,03,Constitutional Amendment D,,Yes,,160
+Walworth,03,Constitutional Amendment D,,No,,169
+Walworth,04,Constitutional Amendment D,,Yes,,58
+Walworth,04,Constitutional Amendment D,,No,,70
+Walworth,05,Constitutional Amendment D,,Yes,,142
+Walworth,05,Constitutional Amendment D,,No,,112
+Walworth,06,Constitutional Amendment D,,Yes,,201
+Walworth,06,Constitutional Amendment D,,No,,180
+Walworth,07,Constitutional Amendment D,,Yes,,166
+Walworth,07,Constitutional Amendment D,,No,,206
+Walworth,08,Constitutional Amendment D,,Yes,,26
+Walworth,08,Constitutional Amendment D,,No,,39
+Walworth,09,Constitutional Amendment D,,Yes,,27
+Walworth,09,Constitutional Amendment D,,No,,35
+Walworth,10,Constitutional Amendment D,,Yes,,50
+Walworth,10,Constitutional Amendment D,,No,,85
+Walworth,01,Initiated Measure 27,,Yes,,29
+Walworth,01,Initiated Measure 27,,No,,89
+Walworth,02,Initiated Measure 27,,Yes,,38
+Walworth,02,Initiated Measure 27,,No,,95
+Walworth,03,Initiated Measure 27,,Yes,,115
+Walworth,03,Initiated Measure 27,,No,,217
+Walworth,04,Initiated Measure 27,,Yes,,44
+Walworth,04,Initiated Measure 27,,No,,83
+Walworth,05,Initiated Measure 27,,Yes,,124
+Walworth,05,Initiated Measure 27,,No,,136
+Walworth,06,Initiated Measure 27,,Yes,,190
+Walworth,06,Initiated Measure 27,,No,,198
+Walworth,07,Initiated Measure 27,,Yes,,113
+Walworth,07,Initiated Measure 27,,No,,267
+Walworth,08,Initiated Measure 27,,Yes,,22
+Walworth,08,Initiated Measure 27,,No,,45
+Walworth,09,Initiated Measure 27,,Yes,,28
+Walworth,09,Initiated Measure 27,,No,,38
+Walworth,10,Initiated Measure 27,,Yes,,27
+Walworth,10,Initiated Measure 27,,No,,111

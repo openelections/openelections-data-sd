@@ -1,0 +1,106 @@
+county,precinct,office,district,candidate,party,votes
+Stanley,01,U.S. Senate,,Brian L. Bengs,DEM,225
+Stanley,01,U.S. Senate,,Tamara J Lesnar,LIB,59
+Stanley,01,U.S. Senate,,John R. Thune,REP,997
+Stanley,02,U.S. Senate,,Brian L. Bengs,DEM,8
+Stanley,02,U.S. Senate,,Tamara J Lesnar,LIB,2
+Stanley,02,U.S. Senate,,John R. Thune,REP,67
+Stanley,03,U.S. Senate,,Brian L. Bengs,DEM,12
+Stanley,03,U.S. Senate,,Tamara J Lesnar,LIB,3
+Stanley,03,U.S. Senate,,John R. Thune,REP,74
+Stanley,01,U.S. House,1,Collin Duprel,LIB,251
+Stanley,01,U.S. House,1,Dusty Johnson,REP,990
+Stanley,02,U.S. House,1,Collin Duprel,LIB,13
+Stanley,02,U.S. House,1,Dusty Johnson,REP,62
+Stanley,03,U.S. House,1,Collin Duprel,LIB,8
+Stanley,03,U.S. House,1,Dusty Johnson,REP,77
+Stanley,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,377
+Stanley,01,Governor,,Tracey Quint and Ashley Strand,LIB,38
+Stanley,01,Governor,,Kristi Noem and Larry Rhoden,REP,866
+Stanley,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,13
+Stanley,02,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Stanley,02,Governor,,Kristi Noem and Larry Rhoden,REP,61
+Stanley,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Stanley,03,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Stanley,03,Governor,,Kristi Noem and Larry Rhoden,REP,72
+Stanley,01,Secretary of State,,Thomas A Cool,DEM,363
+Stanley,01,Secretary of State,,Monae Johnson,REP,864
+Stanley,02,Secretary of State,,Thomas A Cool,DEM,18
+Stanley,02,Secretary of State,,Monae Johnson,REP,58
+Stanley,03,Secretary of State,,Thomas A Cool,DEM,14
+Stanley,03,Secretary of State,,Monae Johnson,REP,71
+Stanley,01,Attorney General,,Marty J. Jackley,REP,1055
+Stanley,02,Attorney General,,Marty J. Jackley,REP,66
+Stanley,03,Attorney General,,Marty J. Jackley,REP,77
+Stanley,01,State Auditor,,Stephanie Marty,DEM,268
+Stanley,01,State Auditor,,Rene Meyer,LIB,81
+Stanley,01,State Auditor,,Richard Sattgast,REP,894
+Stanley,02,State Auditor,,Stephanie Marty,DEM,13
+Stanley,02,State Auditor,,Rene Meyer,LIB,5
+Stanley,02,State Auditor,,Richard Sattgast,REP,58
+Stanley,03,State Auditor,,Stephanie Marty,DEM,13
+Stanley,03,State Auditor,,Rene Meyer,LIB,7
+Stanley,03,State Auditor,,Richard Sattgast,REP,68
+Stanley,01,State Treasurer,,John Cunningham,DEM,281
+Stanley,01,State Treasurer,,Josh Haeder,REP,954
+Stanley,02,State Treasurer,,John Cunningham,DEM,17
+Stanley,02,State Treasurer,,Josh Haeder,REP,58
+Stanley,03,State Treasurer,,John Cunningham,DEM,16
+Stanley,03,State Treasurer,,Josh Haeder,REP,70
+Stanley,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,299
+Stanley,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,909
+Stanley,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Stanley,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,56
+Stanley,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
+Stanley,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,68
+Stanley,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,261
+Stanley,01,Public Utilities Commissioner,,Chris Nelson,REP,982
+Stanley,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Stanley,02,Public Utilities Commissioner,,Chris Nelson,REP,61
+Stanley,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Stanley,03,Public Utilities Commissioner,,Chris Nelson,REP,71
+Stanley,01,State Senate,24,Jim Mehlhaff,REP,963
+Stanley,02,State Senate,24,Jim Mehlhaff,REP,63
+Stanley,03,State Senate,24,Jim Mehlhaff,REP,71
+Stanley,01,State House,24,Mike Weisgram,REP,839
+Stanley,01,State House,24,Will D. Mortenson,REP,915
+Stanley,02,State House,24,Mike Weisgram,REP,38
+Stanley,02,State House,24,Will D. Mortenson,REP,63
+Stanley,03,State House,24,Mike Weisgram,REP,48
+Stanley,03,State House,24,Will D. Mortenson,REP,73
+Stanley,01,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,803
+Stanley,02,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,54
+Stanley,03,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,64
+Stanley,01,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,808
+Stanley,02,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,50
+Stanley,03,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,63
+Stanley,01,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,811
+Stanley,02,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,52
+Stanley,03,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,63
+Stanley,01,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,762
+Stanley,02,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,50
+Stanley,03,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,63
+Stanley,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,955
+Stanley,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,191
+Stanley,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,60
+Stanley,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Stanley,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,70
+Stanley,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,7
+Stanley,01,Supreme Court Retention,2,Mark E. Salter - Yes,,947
+Stanley,01,Supreme Court Retention,2,Mark E. Salter - No,,184
+Stanley,02,Supreme Court Retention,2,Mark E. Salter - Yes,,57
+Stanley,02,Supreme Court Retention,2,Mark E. Salter - No,,11
+Stanley,03,Supreme Court Retention,2,Mark E. Salter - Yes,,70
+Stanley,03,Supreme Court Retention,2,Mark E. Salter - No,,6
+Stanley,01,Constitutional Amendment D,,Yes,,656
+Stanley,01,Constitutional Amendment D,,No,,618
+Stanley,02,Constitutional Amendment D,,Yes,,30
+Stanley,02,Constitutional Amendment D,,No,,43
+Stanley,03,Constitutional Amendment D,,Yes,,38
+Stanley,03,Constitutional Amendment D,,No,,49
+Stanley,01,Initiated Measure 27,,Yes,,579
+Stanley,01,Initiated Measure 27,,No,,705
+Stanley,02,Initiated Measure 27,,Yes,,26
+Stanley,02,Initiated Measure 27,,No,,48
+Stanley,03,Initiated Measure 27,,Yes,,23
+Stanley,03,Initiated Measure 27,,No,,65

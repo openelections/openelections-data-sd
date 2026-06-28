@@ -1,0 +1,241 @@
+county,precinct,office,district,candidate,party,votes
+Moody,1,U.S. Senate,,Brian L. Bengs,DEM,166
+Moody,1,U.S. Senate,,Tamara J Lesnar,LIB,13
+Moody,1,U.S. Senate,,John R. Thune,REP,252
+Moody,2,U.S. Senate,,Brian L. Bengs,DEM,199
+Moody,2,U.S. Senate,,Tamara J Lesnar,LIB,25
+Moody,2,U.S. Senate,,John R. Thune,REP,254
+Moody,3,U.S. Senate,,Brian L. Bengs,DEM,95
+Moody,3,U.S. Senate,,Tamara J Lesnar,LIB,22
+Moody,3,U.S. Senate,,John R. Thune,REP,398
+Moody,34,U.S. Senate,,Brian L. Bengs,DEM,74
+Moody,34,U.S. Senate,,Tamara J Lesnar,LIB,18
+Moody,34,U.S. Senate,,John R. Thune,REP,244
+Moody,4,U.S. Senate,,Brian L. Bengs,DEM,48
+Moody,4,U.S. Senate,,Tamara J Lesnar,LIB,10
+Moody,4,U.S. Senate,,John R. Thune,REP,210
+Moody,5,U.S. Senate,,Brian L. Bengs,DEM,112
+Moody,5,U.S. Senate,,Tamara J Lesnar,LIB,21
+Moody,5,U.S. Senate,,John R. Thune,REP,481
+Moody,1,U.S. House,1,Collin Duprel,LIB,121
+Moody,1,U.S. House,1,Dusty Johnson,REP,289
+Moody,2,U.S. House,1,Collin Duprel,LIB,150
+Moody,2,U.S. House,1,Dusty Johnson,REP,298
+Moody,3,U.S. House,1,Collin Duprel,LIB,83
+Moody,3,U.S. House,1,Dusty Johnson,REP,416
+Moody,34,U.S. House,1,Collin Duprel,LIB,77
+Moody,34,U.S. House,1,Dusty Johnson,REP,252
+Moody,4,U.S. House,1,Collin Duprel,LIB,42
+Moody,4,U.S. House,1,Dusty Johnson,REP,219
+Moody,5,U.S. House,1,Collin Duprel,LIB,101
+Moody,5,U.S. House,1,Dusty Johnson,REP,502
+Moody,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,213
+Moody,1,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Moody,1,Governor,,Kristi Noem and Larry Rhoden,REP,212
+Moody,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,257
+Moody,2,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Moody,2,Governor,,Kristi Noem and Larry Rhoden,REP,209
+Moody,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,138
+Moody,3,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Moody,3,Governor,,Kristi Noem and Larry Rhoden,REP,362
+Moody,34,Governor,,Jamie Smith and Jennifer Keintz,DEM,100
+Moody,34,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Moody,34,Governor,,Kristi Noem and Larry Rhoden,REP,225
+Moody,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,57
+Moody,4,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Moody,4,Governor,,Kristi Noem and Larry Rhoden,REP,204
+Moody,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,145
+Moody,5,Governor,,Tracey Quint and Ashley Strand,LIB,16
+Moody,5,Governor,,Kristi Noem and Larry Rhoden,REP,456
+Moody,1,Secretary of State,,Thomas A Cool,DEM,220
+Moody,1,Secretary of State,,Monae Johnson,REP,196
+Moody,2,Secretary of State,,Thomas A Cool,DEM,267
+Moody,2,Secretary of State,,Monae Johnson,REP,191
+Moody,3,Secretary of State,,Thomas A Cool,DEM,155
+Moody,3,Secretary of State,,Monae Johnson,REP,340
+Moody,34,Secretary of State,,Thomas A Cool,DEM,106
+Moody,34,Secretary of State,,Monae Johnson,REP,213
+Moody,4,Secretary of State,,Thomas A Cool,DEM,69
+Moody,4,Secretary of State,,Monae Johnson,REP,191
+Moody,5,Secretary of State,,Thomas A Cool,DEM,163
+Moody,5,Secretary of State,,Monae Johnson,REP,422
+Moody,1,Attorney General,,Marty J. Jackley,REP,285
+Moody,2,Attorney General,,Marty J. Jackley,REP,272
+Moody,3,Attorney General,,Marty J. Jackley,REP,394
+Moody,34,Attorney General,,Marty J. Jackley,REP,257
+Moody,4,Attorney General,,Marty J. Jackley,REP,215
+Moody,5,Attorney General,,Marty J. Jackley,REP,485
+Moody,1,State Auditor,,Stephanie Marty,DEM,191
+Moody,1,State Auditor,,Rene Meyer,LIB,23
+Moody,1,State Auditor,,Richard Sattgast,REP,197
+Moody,2,State Auditor,,Stephanie Marty,DEM,243
+Moody,2,State Auditor,,Rene Meyer,LIB,29
+Moody,2,State Auditor,,Richard Sattgast,REP,185
+Moody,3,State Auditor,,Stephanie Marty,DEM,145
+Moody,3,State Auditor,,Rene Meyer,LIB,22
+Moody,3,State Auditor,,Richard Sattgast,REP,321
+Moody,34,State Auditor,,Stephanie Marty,DEM,96
+Moody,34,State Auditor,,Rene Meyer,LIB,22
+Moody,34,State Auditor,,Richard Sattgast,REP,199
+Moody,4,State Auditor,,Stephanie Marty,DEM,62
+Moody,4,State Auditor,,Rene Meyer,LIB,11
+Moody,4,State Auditor,,Richard Sattgast,REP,177
+Moody,5,State Auditor,,Stephanie Marty,DEM,145
+Moody,5,State Auditor,,Rene Meyer,LIB,28
+Moody,5,State Auditor,,Richard Sattgast,REP,410
+Moody,1,State Treasurer,,John Cunningham,DEM,200
+Moody,1,State Treasurer,,Josh Haeder,REP,204
+Moody,2,State Treasurer,,John Cunningham,DEM,248
+Moody,2,State Treasurer,,Josh Haeder,REP,197
+Moody,3,State Treasurer,,John Cunningham,DEM,148
+Moody,3,State Treasurer,,Josh Haeder,REP,337
+Moody,34,State Treasurer,,John Cunningham,DEM,103
+Moody,34,State Treasurer,,Josh Haeder,REP,210
+Moody,4,State Treasurer,,John Cunningham,DEM,63
+Moody,4,State Treasurer,,Josh Haeder,REP,188
+Moody,5,State Treasurer,,John Cunningham,DEM,141
+Moody,5,State Treasurer,,Josh Haeder,REP,439
+Moody,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,197
+Moody,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,204
+Moody,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,242
+Moody,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,201
+Moody,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
+Moody,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,343
+Moody,34,Commissioner of School and Public Lands,,Timothy Azure,DEM,104
+Moody,34,Commissioner of School and Public Lands,,Brock Greenfield,REP,207
+Moody,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Moody,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,189
+Moody,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,144
+Moody,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,433
+Moody,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,198
+Moody,1,Public Utilities Commissioner,,Chris Nelson,REP,217
+Moody,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,228
+Moody,2,Public Utilities Commissioner,,Chris Nelson,REP,226
+Moody,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,145
+Moody,3,Public Utilities Commissioner,,Chris Nelson,REP,344
+Moody,34,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
+Moody,34,Public Utilities Commissioner,,Chris Nelson,REP,219
+Moody,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,79
+Moody,4,Public Utilities Commissioner,,Chris Nelson,REP,179
+Moody,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,132
+Moody,5,Public Utilities Commissioner,,Chris Nelson,REP,458
+Moody,1,State Senate,25,Tom Pischke,REP,240
+Moody,2,State Senate,25,Tom Pischke,REP,225
+Moody,3,State Senate,25,Tom Pischke,REP,373
+Moody,34,State Senate,25,Tom Pischke,REP,233
+Moody,4,State Senate,25,Tom Pischke,REP,206
+Moody,5,State Senate,25,Tom Pischke,REP,443
+Moody,1,State House,25,Dan Ahlers,DEM,209
+Moody,1,State House,25,David Kills A Hundred,DEM,154
+Moody,1,State House,25,Jon Hansen,REP,166
+Moody,1,State House,25,Randy Gross,REP,226
+Moody,2,State House,25,Dan Ahlers,DEM,228
+Moody,2,State House,25,David Kills A Hundred,DEM,196
+Moody,2,State House,25,Jon Hansen,REP,162
+Moody,2,State House,25,Randy Gross,REP,201
+Moody,3,State House,25,Dan Ahlers,DEM,198
+Moody,3,State House,25,David Kills A Hundred,DEM,77
+Moody,3,State House,25,Jon Hansen,REP,309
+Moody,3,State House,25,Randy Gross,REP,316
+Moody,34,State House,25,Dan Ahlers,DEM,101
+Moody,34,State House,25,David Kills A Hundred,DEM,77
+Moody,34,State House,25,Jon Hansen,REP,172
+Moody,34,State House,25,Randy Gross,REP,222
+Moody,4,State House,25,Dan Ahlers,DEM,73
+Moody,4,State House,25,David Kills A Hundred,DEM,37
+Moody,4,State House,25,Jon Hansen,REP,160
+Moody,4,State House,25,Randy Gross,REP,193
+Moody,5,State House,25,Dan Ahlers,DEM,192
+Moody,5,State House,25,David Kills A Hundred,DEM,101
+Moody,5,State House,25,Jon Hansen,REP,345
+Moody,5,State House,25,Randy Gross,REP,424
+Moody,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,188
+Moody,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,199
+Moody,3,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,214
+Moody,34,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,155
+Moody,4,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,107
+Moody,5,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,261
+Moody,1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,178
+Moody,2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,175
+Moody,3,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,212
+Moody,34,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,146
+Moody,4,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,104
+Moody,5,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,260
+Moody,1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,172
+Moody,2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,169
+Moody,3,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,204
+Moody,34,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,140
+Moody,4,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,106
+Moody,5,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,248
+Moody,1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,176
+Moody,2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,177
+Moody,3,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,208
+Moody,34,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,144
+Moody,4,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,106
+Moody,5,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,264
+Moody,1,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,115
+Moody,1,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,105
+Moody,2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,106
+Moody,2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,113
+Moody,3,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,92
+Moody,3,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,126
+Moody,34,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,79
+Moody,34,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,91
+Moody,4,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,48
+Moody,4,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,66
+Moody,5,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,124
+Moody,5,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,156
+Moody,1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,173
+Moody,2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,186
+Moody,3,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,202
+Moody,34,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,143
+Moody,4,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,105
+Moody,5,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,258
+Moody,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,319
+Moody,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,68
+Moody,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,335
+Moody,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,89
+Moody,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,382
+Moody,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,63
+Moody,34,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,223
+Moody,34,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
+Moody,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,188
+Moody,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Moody,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,447
+Moody,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,72
+Moody,1,Supreme Court Retention,2,Mark E. Salter - Yes,,307
+Moody,1,Supreme Court Retention,2,Mark E. Salter - No,,71
+Moody,2,Supreme Court Retention,2,Mark E. Salter - Yes,,323
+Moody,2,Supreme Court Retention,2,Mark E. Salter - No,,101
+Moody,3,Supreme Court Retention,2,Mark E. Salter - Yes,,368
+Moody,3,Supreme Court Retention,2,Mark E. Salter - No,,73
+Moody,34,Supreme Court Retention,2,Mark E. Salter - Yes,,220
+Moody,34,Supreme Court Retention,2,Mark E. Salter - No,,67
+Moody,4,Supreme Court Retention,2,Mark E. Salter - Yes,,184
+Moody,4,Supreme Court Retention,2,Mark E. Salter - No,,32
+Moody,5,Supreme Court Retention,2,Mark E. Salter - Yes,,449
+Moody,5,Supreme Court Retention,2,Mark E. Salter - No,,65
+Moody,1,Constitutional Amendment D,,Yes,,286
+Moody,1,Constitutional Amendment D,,No,,143
+Moody,2,Constitutional Amendment D,,Yes,,318
+Moody,2,Constitutional Amendment D,,No,,150
+Moody,3,Constitutional Amendment D,,Yes,,239
+Moody,3,Constitutional Amendment D,,No,,263
+Moody,34,Constitutional Amendment D,,Yes,,176
+Moody,34,Constitutional Amendment D,,No,,156
+Moody,4,Constitutional Amendment D,,Yes,,119
+Moody,4,Constitutional Amendment D,,No,,140
+Moody,5,Constitutional Amendment D,,Yes,,287
+Moody,5,Constitutional Amendment D,,No,,316
+Moody,1,Initiated Measure 27,,Yes,,225
+Moody,1,Initiated Measure 27,,No,,209
+Moody,2,Initiated Measure 27,,Yes,,273
+Moody,2,Initiated Measure 27,,No,,203
+Moody,3,Initiated Measure 27,,Yes,,205
+Moody,3,Initiated Measure 27,,No,,305
+Moody,34,Initiated Measure 27,,Yes,,122
+Moody,34,Initiated Measure 27,,No,,213
+Moody,4,Initiated Measure 27,,Yes,,93
+Moody,4,Initiated Measure 27,,No,,172
+Moody,5,Initiated Measure 27,,Yes,,250
+Moody,5,Initiated Measure 27,,No,,368

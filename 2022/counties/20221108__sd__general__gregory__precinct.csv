@@ -1,0 +1,109 @@
+county,precinct,office,district,candidate,party,votes
+Gregory,1,U.S. Senate,,Brian L. Bengs,DEM,119
+Gregory,1,U.S. Senate,,Tamara J Lesnar,LIB,49
+Gregory,1,U.S. Senate,,John R. Thune,REP,765
+Gregory,2,U.S. Senate,,Brian L. Bengs,DEM,105
+Gregory,2,U.S. Senate,,Tamara J Lesnar,LIB,27
+Gregory,2,U.S. Senate,,John R. Thune,REP,589
+Gregory,3,U.S. Senate,,Brian L. Bengs,DEM,55
+Gregory,3,U.S. Senate,,Tamara J Lesnar,LIB,6
+Gregory,3,U.S. Senate,,John R. Thune,REP,309
+Gregory,1,U.S. House,1,Collin Duprel,LIB,148
+Gregory,1,U.S. House,1,Dusty Johnson,REP,763
+Gregory,2,U.S. House,1,Collin Duprel,LIB,94
+Gregory,2,U.S. House,1,Dusty Johnson,REP,609
+Gregory,3,U.S. House,1,Collin Duprel,LIB,38
+Gregory,3,U.S. House,1,Dusty Johnson,REP,318
+Gregory,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,175
+Gregory,1,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Gregory,1,Governor,,Kristi Noem and Larry Rhoden,REP,756
+Gregory,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,148
+Gregory,2,Governor,,Tracey Quint and Ashley Strand,LIB,17
+Gregory,2,Governor,,Kristi Noem and Larry Rhoden,REP,564
+Gregory,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,70
+Gregory,3,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Gregory,3,Governor,,Kristi Noem and Larry Rhoden,REP,298
+Gregory,1,Secretary of State,,Thomas A Cool,DEM,207
+Gregory,1,Secretary of State,,Monae Johnson,REP,699
+Gregory,2,Secretary of State,,Thomas A Cool,DEM,181
+Gregory,2,Secretary of State,,Monae Johnson,REP,521
+Gregory,3,Secretary of State,,Thomas A Cool,DEM,74
+Gregory,3,Secretary of State,,Monae Johnson,REP,277
+Gregory,1,Attorney General,,Marty J. Jackley,REP,756
+Gregory,2,Attorney General,,Marty J. Jackley,REP,582
+Gregory,3,Attorney General,,Marty J. Jackley,REP,297
+Gregory,1,State Auditor,,Stephanie Marty,DEM,174
+Gregory,1,State Auditor,,Rene Meyer,LIB,38
+Gregory,1,State Auditor,,Richard Sattgast,REP,693
+Gregory,2,State Auditor,,Stephanie Marty,DEM,146
+Gregory,2,State Auditor,,Rene Meyer,LIB,32
+Gregory,2,State Auditor,,Richard Sattgast,REP,512
+Gregory,3,State Auditor,,Stephanie Marty,DEM,57
+Gregory,3,State Auditor,,Rene Meyer,LIB,10
+Gregory,3,State Auditor,,Richard Sattgast,REP,270
+Gregory,1,State Treasurer,,John Cunningham,DEM,188
+Gregory,1,State Treasurer,,Josh Haeder,REP,719
+Gregory,2,State Treasurer,,John Cunningham,DEM,141
+Gregory,2,State Treasurer,,Josh Haeder,REP,534
+Gregory,3,State Treasurer,,John Cunningham,DEM,62
+Gregory,3,State Treasurer,,Josh Haeder,REP,280
+Gregory,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,164
+Gregory,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,726
+Gregory,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,137
+Gregory,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,537
+Gregory,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Gregory,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,283
+Gregory,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,155
+Gregory,1,Public Utilities Commissioner,,Chris Nelson,REP,752
+Gregory,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,132
+Gregory,2,Public Utilities Commissioner,,Chris Nelson,REP,566
+Gregory,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,58
+Gregory,3,Public Utilities Commissioner,,Chris Nelson,REP,289
+Gregory,1,State Senate,21,Dan Andersson,DEM,131
+Gregory,1,State Senate,21,Erin Tobin,REP,807
+Gregory,2,State Senate,21,Dan Andersson,DEM,109
+Gregory,2,State Senate,21,Erin Tobin,REP,607
+Gregory,3,State Senate,21,Dan Andersson,DEM,49
+Gregory,3,State Senate,21,Erin Tobin,REP,312
+Gregory,1,State House,21,Rocky Blare,REP,625
+Gregory,1,State House,21,Marty Overweg,REP,431
+Gregory,2,State House,21,Rocky Blare,REP,475
+Gregory,2,State House,21,Marty Overweg,REP,368
+Gregory,3,State House,21,Rocky Blare,REP,203
+Gregory,3,State House,21,Marty Overweg,REP,195
+Gregory,1,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,373
+Gregory,2,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,337
+Gregory,3,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,126
+Gregory,1,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,355
+Gregory,2,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,321
+Gregory,3,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,120
+Gregory,1,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,358
+Gregory,2,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,326
+Gregory,3,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,123
+Gregory,1,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,416
+Gregory,2,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,381
+Gregory,3,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,119
+Gregory,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,656
+Gregory,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,156
+Gregory,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,521
+Gregory,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,119
+Gregory,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,239
+Gregory,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Gregory,1,Supreme Court Retention,2,Mark E. Salter - Yes,,656
+Gregory,1,Supreme Court Retention,2,Mark E. Salter - No,,155
+Gregory,2,Supreme Court Retention,2,Mark E. Salter - Yes,,521
+Gregory,2,Supreme Court Retention,2,Mark E. Salter - No,,113
+Gregory,3,Supreme Court Retention,2,Mark E. Salter - Yes,,250
+Gregory,3,Supreme Court Retention,2,Mark E. Salter - No,,44
+Gregory,1,Constitutional Amendment D,,Yes,,433
+Gregory,1,Constitutional Amendment D,,No,,488
+Gregory,2,Constitutional Amendment D,,Yes,,337
+Gregory,2,Constitutional Amendment D,,No,,376
+Gregory,3,Constitutional Amendment D,,Yes,,156
+Gregory,3,Constitutional Amendment D,,No,,198
+Gregory,1,Initiated Measure 27,,Yes,,287
+Gregory,1,Initiated Measure 27,,No,,644
+Gregory,2,Initiated Measure 27,,Yes,,224
+Gregory,2,Initiated Measure 27,,No,,496
+Gregory,3,Initiated Measure 27,,Yes,,76
+Gregory,3,Initiated Measure 27,,No,,285

@@ -1,0 +1,267 @@
+county,precinct,office,district,candidate,party,votes
+Hamlin,02,U.S. Senate,,Brian L. Bengs,DEM,12
+Hamlin,02,U.S. Senate,,Tamara J Lesnar,LIB,3
+Hamlin,02,U.S. Senate,,John R. Thune,REP,130
+Hamlin,21,U.S. Senate,,Brian L. Bengs,DEM,105
+Hamlin,21,U.S. Senate,,Tamara J Lesnar,LIB,23
+Hamlin,21,U.S. Senate,,John R. Thune,REP,565
+Hamlin,22,U.S. Senate,,Brian L. Bengs,DEM,7
+Hamlin,22,U.S. Senate,,Tamara J Lesnar,LIB,12
+Hamlin,22,U.S. Senate,,John R. Thune,REP,101
+Hamlin,23,U.S. Senate,,Brian L. Bengs,DEM,28
+Hamlin,23,U.S. Senate,,Tamara J Lesnar,LIB,14
+Hamlin,23,U.S. Senate,,John R. Thune,REP,232
+Hamlin,24,U.S. Senate,,Brian L. Bengs,DEM,80
+Hamlin,24,U.S. Senate,,Tamara J Lesnar,LIB,32
+Hamlin,24,U.S. Senate,,John R. Thune,REP,511
+Hamlin,25,U.S. Senate,,Brian L. Bengs,DEM,114
+Hamlin,25,U.S. Senate,,Tamara J Lesnar,LIB,17
+Hamlin,25,U.S. Senate,,John R. Thune,REP,331
+Hamlin,26,U.S. Senate,,Brian L. Bengs,DEM,20
+Hamlin,26,U.S. Senate,,Tamara J Lesnar,LIB,22
+Hamlin,26,U.S. Senate,,John R. Thune,REP,344
+Hamlin,02,U.S. House,1,Collin Duprel,LIB,9
+Hamlin,02,U.S. House,1,Dusty Johnson,REP,129
+Hamlin,21,U.S. House,1,Collin Duprel,LIB,92
+Hamlin,21,U.S. House,1,Dusty Johnson,REP,576
+Hamlin,22,U.S. House,1,Collin Duprel,LIB,19
+Hamlin,22,U.S. House,1,Dusty Johnson,REP,100
+Hamlin,23,U.S. House,1,Collin Duprel,LIB,39
+Hamlin,23,U.S. House,1,Dusty Johnson,REP,226
+Hamlin,24,U.S. House,1,Collin Duprel,LIB,84
+Hamlin,24,U.S. House,1,Dusty Johnson,REP,523
+Hamlin,25,U.S. House,1,Collin Duprel,LIB,73
+Hamlin,25,U.S. House,1,Dusty Johnson,REP,367
+Hamlin,26,U.S. House,1,Collin Duprel,LIB,50
+Hamlin,26,U.S. House,1,Dusty Johnson,REP,334
+Hamlin,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Hamlin,02,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Hamlin,02,Governor,,Kristi Noem and Larry Rhoden,REP,123
+Hamlin,21,Governor,,Jamie Smith and Jennifer Keintz,DEM,159
+Hamlin,21,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Hamlin,21,Governor,,Kristi Noem and Larry Rhoden,REP,523
+Hamlin,22,Governor,,Jamie Smith and Jennifer Keintz,DEM,9
+Hamlin,22,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Hamlin,22,Governor,,Kristi Noem and Larry Rhoden,REP,114
+Hamlin,23,Governor,,Jamie Smith and Jennifer Keintz,DEM,50
+Hamlin,23,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Hamlin,23,Governor,,Kristi Noem and Larry Rhoden,REP,222
+Hamlin,24,Governor,,Jamie Smith and Jennifer Keintz,DEM,104
+Hamlin,24,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Hamlin,24,Governor,,Kristi Noem and Larry Rhoden,REP,509
+Hamlin,25,Governor,,Jamie Smith and Jennifer Keintz,DEM,164
+Hamlin,25,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Hamlin,25,Governor,,Kristi Noem and Larry Rhoden,REP,283
+Hamlin,26,Governor,,Jamie Smith and Jennifer Keintz,DEM,43
+Hamlin,26,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Hamlin,26,Governor,,Kristi Noem and Larry Rhoden,REP,344
+Hamlin,02,Secretary of State,,Thomas A Cool,DEM,22
+Hamlin,02,Secretary of State,,Monae Johnson,REP,117
+Hamlin,21,Secretary of State,,Thomas A Cool,DEM,153
+Hamlin,21,Secretary of State,,Monae Johnson,REP,496
+Hamlin,22,Secretary of State,,Thomas A Cool,DEM,12
+Hamlin,22,Secretary of State,,Monae Johnson,REP,106
+Hamlin,23,Secretary of State,,Thomas A Cool,DEM,49
+Hamlin,23,Secretary of State,,Monae Johnson,REP,214
+Hamlin,24,Secretary of State,,Thomas A Cool,DEM,117
+Hamlin,24,Secretary of State,,Monae Johnson,REP,483
+Hamlin,25,Secretary of State,,Thomas A Cool,DEM,159
+Hamlin,25,Secretary of State,,Monae Johnson,REP,278
+Hamlin,26,Secretary of State,,Thomas A Cool,DEM,39
+Hamlin,26,Secretary of State,,Monae Johnson,REP,327
+Hamlin,02,Attorney General,,Marty J. Jackley,REP,125
+Hamlin,21,Attorney General,,Marty J. Jackley,REP,571
+Hamlin,22,Attorney General,,Marty J. Jackley,REP,108
+Hamlin,23,Attorney General,,Marty J. Jackley,REP,243
+Hamlin,24,Attorney General,,Marty J. Jackley,REP,507
+Hamlin,25,Attorney General,,Marty J. Jackley,REP,350
+Hamlin,26,Attorney General,,Marty J. Jackley,REP,342
+Hamlin,02,State Auditor,,Stephanie Marty,DEM,16
+Hamlin,02,State Auditor,,Rene Meyer,LIB,6
+Hamlin,02,State Auditor,,Richard Sattgast,REP,117
+Hamlin,21,State Auditor,,Stephanie Marty,DEM,140
+Hamlin,21,State Auditor,,Rene Meyer,LIB,27
+Hamlin,21,State Auditor,,Richard Sattgast,REP,481
+Hamlin,22,State Auditor,,Stephanie Marty,DEM,10
+Hamlin,22,State Auditor,,Rene Meyer,LIB,3
+Hamlin,22,State Auditor,,Richard Sattgast,REP,103
+Hamlin,23,State Auditor,,Stephanie Marty,DEM,37
+Hamlin,23,State Auditor,,Rene Meyer,LIB,8
+Hamlin,23,State Auditor,,Richard Sattgast,REP,216
+Hamlin,24,State Auditor,,Stephanie Marty,DEM,101
+Hamlin,24,State Auditor,,Rene Meyer,LIB,27
+Hamlin,24,State Auditor,,Richard Sattgast,REP,460
+Hamlin,25,State Auditor,,Stephanie Marty,DEM,139
+Hamlin,25,State Auditor,,Rene Meyer,LIB,22
+Hamlin,25,State Auditor,,Richard Sattgast,REP,277
+Hamlin,26,State Auditor,,Stephanie Marty,DEM,29
+Hamlin,26,State Auditor,,Rene Meyer,LIB,12
+Hamlin,26,State Auditor,,Richard Sattgast,REP,321
+Hamlin,02,State Treasurer,,John Cunningham,DEM,16
+Hamlin,02,State Treasurer,,Josh Haeder,REP,121
+Hamlin,21,State Treasurer,,John Cunningham,DEM,141
+Hamlin,21,State Treasurer,,Josh Haeder,REP,501
+Hamlin,22,State Treasurer,,John Cunningham,DEM,10
+Hamlin,22,State Treasurer,,Josh Haeder,REP,107
+Hamlin,23,State Treasurer,,John Cunningham,DEM,44
+Hamlin,23,State Treasurer,,Josh Haeder,REP,212
+Hamlin,24,State Treasurer,,John Cunningham,DEM,106
+Hamlin,24,State Treasurer,,Josh Haeder,REP,479
+Hamlin,25,State Treasurer,,John Cunningham,DEM,145
+Hamlin,25,State Treasurer,,Josh Haeder,REP,285
+Hamlin,26,State Treasurer,,John Cunningham,DEM,29
+Hamlin,26,State Treasurer,,Josh Haeder,REP,329
+Hamlin,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Hamlin,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,117
+Hamlin,21,Commissioner of School and Public Lands,,Timothy Azure,DEM,136
+Hamlin,21,Commissioner of School and Public Lands,,Brock Greenfield,REP,530
+Hamlin,22,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Hamlin,22,Commissioner of School and Public Lands,,Brock Greenfield,REP,111
+Hamlin,23,Commissioner of School and Public Lands,,Timothy Azure,DEM,52
+Hamlin,23,Commissioner of School and Public Lands,,Brock Greenfield,REP,213
+Hamlin,24,Commissioner of School and Public Lands,,Timothy Azure,DEM,120
+Hamlin,24,Commissioner of School and Public Lands,,Brock Greenfield,REP,476
+Hamlin,25,Commissioner of School and Public Lands,,Timothy Azure,DEM,149
+Hamlin,25,Commissioner of School and Public Lands,,Brock Greenfield,REP,294
+Hamlin,26,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Hamlin,26,Commissioner of School and Public Lands,,Brock Greenfield,REP,335
+Hamlin,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Hamlin,02,Public Utilities Commissioner,,Chris Nelson,REP,120
+Hamlin,21,Public Utilities Commissioner,,Jeffrey Barth,DEM,132
+Hamlin,21,Public Utilities Commissioner,,Chris Nelson,REP,522
+Hamlin,22,Public Utilities Commissioner,,Jeffrey Barth,DEM,9
+Hamlin,22,Public Utilities Commissioner,,Chris Nelson,REP,111
+Hamlin,23,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Hamlin,23,Public Utilities Commissioner,,Chris Nelson,REP,226
+Hamlin,24,Public Utilities Commissioner,,Jeffrey Barth,DEM,95
+Hamlin,24,Public Utilities Commissioner,,Chris Nelson,REP,505
+Hamlin,25,Public Utilities Commissioner,,Jeffrey Barth,DEM,123
+Hamlin,25,Public Utilities Commissioner,,Chris Nelson,REP,314
+Hamlin,26,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Hamlin,26,Public Utilities Commissioner,,Chris Nelson,REP,343
+Hamlin,02,State Senate,04,John Wiik,REP,124
+Hamlin,21,State Senate,04,John Wiik,REP,504
+Hamlin,22,State Senate,04,John Wiik,REP,108
+Hamlin,23,State Senate,04,John Wiik,REP,224
+Hamlin,24,State Senate,04,John Wiik,REP,470
+Hamlin,25,State Senate,04,John Wiik,REP,320
+Hamlin,26,State Senate,04,John Wiik,REP,311
+Hamlin,02,State House,04,Stephanie Sauder,REP,118
+Hamlin,02,State House,04,Fred Deutsch,REP,68
+Hamlin,21,State House,04,Stephanie Sauder,REP,378
+Hamlin,21,State House,04,Fred Deutsch,REP,409
+Hamlin,22,State House,04,Stephanie Sauder,REP,95
+Hamlin,22,State House,04,Fred Deutsch,REP,64
+Hamlin,23,State House,04,Stephanie Sauder,REP,221
+Hamlin,23,State House,04,Fred Deutsch,REP,108
+Hamlin,24,State House,04,Stephanie Sauder,REP,431
+Hamlin,24,State House,04,Fred Deutsch,REP,302
+Hamlin,25,State House,04,Stephanie Sauder,REP,247
+Hamlin,25,State House,04,Fred Deutsch,REP,234
+Hamlin,26,State House,04,Stephanie Sauder,REP,299
+Hamlin,26,State House,04,Fred Deutsch,REP,188
+Hamlin,02,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,69
+Hamlin,21,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,327
+Hamlin,22,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,45
+Hamlin,23,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,114
+Hamlin,24,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,239
+Hamlin,25,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,215
+Hamlin,26,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,153
+Hamlin,02,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,69
+Hamlin,21,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,339
+Hamlin,22,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,45
+Hamlin,23,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,117
+Hamlin,24,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,235
+Hamlin,25,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,212
+Hamlin,26,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,151
+Hamlin,02,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,71
+Hamlin,21,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,314
+Hamlin,22,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,44
+Hamlin,23,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,112
+Hamlin,24,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,235
+Hamlin,25,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,204
+Hamlin,26,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,147
+Hamlin,02,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,68
+Hamlin,21,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,330
+Hamlin,22,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,45
+Hamlin,23,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,110
+Hamlin,24,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,249
+Hamlin,25,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,235
+Hamlin,26,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,163
+Hamlin,02,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,66
+Hamlin,02,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,26
+Hamlin,21,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,265
+Hamlin,21,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,167
+Hamlin,22,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,49
+Hamlin,22,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,16
+Hamlin,23,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,77
+Hamlin,23,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,49
+Hamlin,24,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,170
+Hamlin,24,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,128
+Hamlin,25,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,135
+Hamlin,25,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,128
+Hamlin,26,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,152
+Hamlin,26,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,60
+Hamlin,02,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,66
+Hamlin,21,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,303
+Hamlin,22,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,44
+Hamlin,23,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,107
+Hamlin,24,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,229
+Hamlin,25,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,203
+Hamlin,26,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,142
+Hamlin,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,92
+Hamlin,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Hamlin,21,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,480
+Hamlin,21,Supreme Court Retention,3,Patricia J. DeVaney - No,,90
+Hamlin,22,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,91
+Hamlin,22,Supreme Court Retention,3,Patricia J. DeVaney - No,,11
+Hamlin,23,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,179
+Hamlin,23,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Hamlin,24,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,379
+Hamlin,24,Supreme Court Retention,3,Patricia J. DeVaney - No,,68
+Hamlin,25,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,333
+Hamlin,25,Supreme Court Retention,3,Patricia J. DeVaney - No,,68
+Hamlin,26,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,232
+Hamlin,26,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Hamlin,02,Supreme Court Retention,2,Mark E. Salter - Yes,,91
+Hamlin,02,Supreme Court Retention,2,Mark E. Salter - No,,16
+Hamlin,21,Supreme Court Retention,2,Mark E. Salter - Yes,,488
+Hamlin,21,Supreme Court Retention,2,Mark E. Salter - No,,83
+Hamlin,22,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Hamlin,22,Supreme Court Retention,2,Mark E. Salter - No,,12
+Hamlin,23,Supreme Court Retention,2,Mark E. Salter - Yes,,180
+Hamlin,23,Supreme Court Retention,2,Mark E. Salter - No,,29
+Hamlin,24,Supreme Court Retention,2,Mark E. Salter - Yes,,382
+Hamlin,24,Supreme Court Retention,2,Mark E. Salter - No,,63
+Hamlin,25,Supreme Court Retention,2,Mark E. Salter - Yes,,337
+Hamlin,25,Supreme Court Retention,2,Mark E. Salter - No,,59
+Hamlin,26,Supreme Court Retention,2,Mark E. Salter - Yes,,237
+Hamlin,26,Supreme Court Retention,2,Mark E. Salter - No,,29
+Hamlin,02,Constitutional Amendment D,,Yes,,39
+Hamlin,02,Constitutional Amendment D,,No,,99
+Hamlin,21,Constitutional Amendment D,,Yes,,295
+Hamlin,21,Constitutional Amendment D,,No,,380
+Hamlin,22,Constitutional Amendment D,,Yes,,35
+Hamlin,22,Constitutional Amendment D,,No,,89
+Hamlin,23,Constitutional Amendment D,,Yes,,94
+Hamlin,23,Constitutional Amendment D,,No,,174
+Hamlin,24,Constitutional Amendment D,,Yes,,228
+Hamlin,24,Constitutional Amendment D,,No,,379
+Hamlin,25,Constitutional Amendment D,,Yes,,257
+Hamlin,25,Constitutional Amendment D,,No,,201
+Hamlin,26,Constitutional Amendment D,,Yes,,115
+Hamlin,26,Constitutional Amendment D,,No,,262
+Hamlin,02,Initiated Measure 27,,Yes,,35
+Hamlin,02,Initiated Measure 27,,No,,109
+Hamlin,21,Initiated Measure 27,,Yes,,199
+Hamlin,21,Initiated Measure 27,,No,,494
+Hamlin,22,Initiated Measure 27,,Yes,,30
+Hamlin,22,Initiated Measure 27,,No,,95
+Hamlin,23,Initiated Measure 27,,Yes,,73
+Hamlin,23,Initiated Measure 27,,No,,199
+Hamlin,24,Initiated Measure 27,,Yes,,153
+Hamlin,24,Initiated Measure 27,,No,,468
+Hamlin,25,Initiated Measure 27,,Yes,,217
+Hamlin,25,Initiated Measure 27,,No,,248
+Hamlin,26,Initiated Measure 27,,Yes,,77
+Hamlin,26,Initiated Measure 27,,No,,316

@@ -1,0 +1,469 @@
+county,precinct,office,district,candidate,party,votes
+Tripp,Clearfield Consolidated,U.S. Senate,,Brian L. Bengs,DEM,19
+Tripp,Clearfield Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,12
+Tripp,Clearfield Consolidated,U.S. Senate,,John R. Thune,REP,101
+Tripp,Colome Consolidated,U.S. Senate,,Brian L. Bengs,DEM,43
+Tripp,Colome Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,17
+Tripp,Colome Consolidated,U.S. Senate,,John R. Thune,REP,285
+Tripp,Hamill Consolidated,U.S. Senate,,Brian L. Bengs,DEM,5
+Tripp,Hamill Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,3
+Tripp,Hamill Consolidated,U.S. Senate,,John R. Thune,REP,73
+Tripp,Ideal Consolidated,U.S. Senate,,Brian L. Bengs,DEM,8
+Tripp,Ideal Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,0
+Tripp,Ideal Consolidated,U.S. Senate,,John R. Thune,REP,57
+Tripp,Lake Consolidated,U.S. Senate,,Brian L. Bengs,DEM,15
+Tripp,Lake Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,9
+Tripp,Lake Consolidated,U.S. Senate,,John R. Thune,REP,115
+Tripp,Lamro Consolidated,U.S. Senate,,Brian L. Bengs,DEM,34
+Tripp,Lamro Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,19
+Tripp,Lamro Consolidated,U.S. Senate,,John R. Thune,REP,242
+Tripp,Sully Consolidated,U.S. Senate,,Brian L. Bengs,DEM,13
+Tripp,Sully Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,4
+Tripp,Sully Consolidated,U.S. Senate,,John R. Thune,REP,69
+Tripp,?,U.S. Senate,,Brian L. Bengs,DEM,8
+Tripp,?,U.S. Senate,,Tamara J Lesnar,LIB,4
+Tripp,?,U.S. Senate,,John R. Thune,REP,98
+Tripp,?,U.S. Senate,,Brian L. Bengs,DEM,25
+Tripp,?,U.S. Senate,,Tamara J Lesnar,LIB,11
+Tripp,?,U.S. Senate,,John R. Thune,REP,198
+Tripp,?,U.S. Senate,,Brian L. Bengs,DEM,25
+Tripp,?,U.S. Senate,,Tamara J Lesnar,LIB,11
+Tripp,?,U.S. Senate,,John R. Thune,REP,205
+Tripp,?,U.S. Senate,,Brian L. Bengs,DEM,38
+Tripp,?,U.S. Senate,,Tamara J Lesnar,LIB,10
+Tripp,?,U.S. Senate,,John R. Thune,REP,214
+Tripp,?,U.S. Senate,,Brian L. Bengs,DEM,19
+Tripp,?,U.S. Senate,,Tamara J Lesnar,LIB,8
+Tripp,?,U.S. Senate,,John R. Thune,REP,129
+Tripp,Witten Consolidated,U.S. Senate,,Brian L. Bengs,DEM,11
+Tripp,Witten Consolidated,U.S. Senate,,Tamara J Lesnar,LIB,5
+Tripp,Witten Consolidated,U.S. Senate,,John R. Thune,REP,75
+Tripp,Clearfield Consolidated,U.S. House,1,Collin Duprel,LIB,24
+Tripp,Clearfield Consolidated,U.S. House,1,Dusty Johnson,REP,105
+Tripp,Colome Consolidated,U.S. House,1,Collin Duprel,LIB,54
+Tripp,Colome Consolidated,U.S. House,1,Dusty Johnson,REP,292
+Tripp,Hamill Consolidated,U.S. House,1,Collin Duprel,LIB,7
+Tripp,Hamill Consolidated,U.S. House,1,Dusty Johnson,REP,73
+Tripp,Ideal Consolidated,U.S. House,1,Collin Duprel,LIB,7
+Tripp,Ideal Consolidated,U.S. House,1,Dusty Johnson,REP,54
+Tripp,Lake Consolidated,U.S. House,1,Collin Duprel,LIB,19
+Tripp,Lake Consolidated,U.S. House,1,Dusty Johnson,REP,117
+Tripp,Lamro Consolidated,U.S. House,1,Collin Duprel,LIB,46
+Tripp,Lamro Consolidated,U.S. House,1,Dusty Johnson,REP,239
+Tripp,Sully Consolidated,U.S. House,1,Collin Duprel,LIB,20
+Tripp,Sully Consolidated,U.S. House,1,Dusty Johnson,REP,63
+Tripp,?,U.S. House,1,Collin Duprel,LIB,7
+Tripp,?,U.S. House,1,Dusty Johnson,REP,100
+Tripp,?,U.S. House,1,Collin Duprel,LIB,33
+Tripp,?,U.S. House,1,Dusty Johnson,REP,196
+Tripp,?,U.S. House,1,Collin Duprel,LIB,35
+Tripp,?,U.S. House,1,Dusty Johnson,REP,204
+Tripp,?,U.S. House,1,Collin Duprel,LIB,32
+Tripp,?,U.S. House,1,Dusty Johnson,REP,226
+Tripp,?,U.S. House,1,Collin Duprel,LIB,20
+Tripp,?,U.S. House,1,Dusty Johnson,REP,126
+Tripp,Witten Consolidated,U.S. House,1,Collin Duprel,LIB,21
+Tripp,Witten Consolidated,U.S. House,1,Dusty Johnson,REP,70
+Tripp,Clearfield Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,28
+Tripp,Clearfield Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Tripp,Clearfield Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,108
+Tripp,Colome Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,49
+Tripp,Colome Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Tripp,Colome Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,299
+Tripp,Hamill Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,9
+Tripp,Hamill Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Tripp,Hamill Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,73
+Tripp,Ideal Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,12
+Tripp,Ideal Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Tripp,Ideal Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,53
+Tripp,Lake Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Tripp,Lake Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Tripp,Lake Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,117
+Tripp,Lamro Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,49
+Tripp,Lamro Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Tripp,Lamro Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,250
+Tripp,Sully Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Tripp,Sully Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Tripp,Sully Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,67
+Tripp,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Tripp,?,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Tripp,?,Governor,,Kristi Noem and Larry Rhoden,REP,93
+Tripp,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Tripp,?,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Tripp,?,Governor,,Kristi Noem and Larry Rhoden,REP,189
+Tripp,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Tripp,?,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Tripp,?,Governor,,Kristi Noem and Larry Rhoden,REP,208
+Tripp,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,46
+Tripp,?,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Tripp,?,Governor,,Kristi Noem and Larry Rhoden,REP,220
+Tripp,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,33
+Tripp,?,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Tripp,?,Governor,,Kristi Noem and Larry Rhoden,REP,123
+Tripp,Witten Consolidated,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Tripp,Witten Consolidated,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Tripp,Witten Consolidated,Governor,,Kristi Noem and Larry Rhoden,REP,73
+Tripp,Clearfield Consolidated,Secretary of State,,Thomas A Cool,DEM,29
+Tripp,Clearfield Consolidated,Secretary of State,,Monae Johnson,REP,107
+Tripp,Colome Consolidated,Secretary of State,,Thomas A Cool,DEM,62
+Tripp,Colome Consolidated,Secretary of State,,Monae Johnson,REP,278
+Tripp,Hamill Consolidated,Secretary of State,,Thomas A Cool,DEM,12
+Tripp,Hamill Consolidated,Secretary of State,,Monae Johnson,REP,70
+Tripp,Ideal Consolidated,Secretary of State,,Thomas A Cool,DEM,9
+Tripp,Ideal Consolidated,Secretary of State,,Monae Johnson,REP,55
+Tripp,Lake Consolidated,Secretary of State,,Thomas A Cool,DEM,24
+Tripp,Lake Consolidated,Secretary of State,,Monae Johnson,REP,115
+Tripp,Lamro Consolidated,Secretary of State,,Thomas A Cool,DEM,59
+Tripp,Lamro Consolidated,Secretary of State,,Monae Johnson,REP,231
+Tripp,Sully Consolidated,Secretary of State,,Thomas A Cool,DEM,20
+Tripp,Sully Consolidated,Secretary of State,,Monae Johnson,REP,64
+Tripp,?,Secretary of State,,Thomas A Cool,DEM,13
+Tripp,?,Secretary of State,,Monae Johnson,REP,95
+Tripp,?,Secretary of State,,Thomas A Cool,DEM,39
+Tripp,?,Secretary of State,,Monae Johnson,REP,186
+Tripp,?,Secretary of State,,Thomas A Cool,DEM,40
+Tripp,?,Secretary of State,,Monae Johnson,REP,204
+Tripp,?,Secretary of State,,Thomas A Cool,DEM,54
+Tripp,?,Secretary of State,,Monae Johnson,REP,207
+Tripp,?,Secretary of State,,Thomas A Cool,DEM,34
+Tripp,?,Secretary of State,,Monae Johnson,REP,119
+Tripp,Witten Consolidated,Secretary of State,,Thomas A Cool,DEM,22
+Tripp,Witten Consolidated,Secretary of State,,Monae Johnson,REP,69
+Tripp,Clearfield Consolidated,Attorney General,,Marty J. Jackley,REP,101
+Tripp,Colome Consolidated,Attorney General,,Marty J. Jackley,REP,302
+Tripp,Hamill Consolidated,Attorney General,,Marty J. Jackley,REP,70
+Tripp,Ideal Consolidated,Attorney General,,Marty J. Jackley,REP,55
+Tripp,Lake Consolidated,Attorney General,,Marty J. Jackley,REP,114
+Tripp,Lamro Consolidated,Attorney General,,Marty J. Jackley,REP,239
+Tripp,Sully Consolidated,Attorney General,,Marty J. Jackley,REP,80
+Tripp,?,Attorney General,,Marty J. Jackley,REP,97
+Tripp,?,Attorney General,,Marty J. Jackley,REP,198
+Tripp,?,Attorney General,,Marty J. Jackley,REP,206
+Tripp,?,Attorney General,,Marty J. Jackley,REP,222
+Tripp,?,Attorney General,,Marty J. Jackley,REP,122
+Tripp,Witten Consolidated,Attorney General,,Marty J. Jackley,REP,70
+Tripp,Clearfield Consolidated,State Auditor,,Stephanie Marty,DEM,25
+Tripp,Clearfield Consolidated,State Auditor,,Rene Meyer,LIB,5
+Tripp,Clearfield Consolidated,State Auditor,,Richard Sattgast,REP,103
+Tripp,Colome Consolidated,State Auditor,,Stephanie Marty,DEM,50
+Tripp,Colome Consolidated,State Auditor,,Rene Meyer,LIB,19
+Tripp,Colome Consolidated,State Auditor,,Richard Sattgast,REP,263
+Tripp,Hamill Consolidated,State Auditor,,Stephanie Marty,DEM,8
+Tripp,Hamill Consolidated,State Auditor,,Rene Meyer,LIB,4
+Tripp,Hamill Consolidated,State Auditor,,Richard Sattgast,REP,69
+Tripp,Ideal Consolidated,State Auditor,,Stephanie Marty,DEM,10
+Tripp,Ideal Consolidated,State Auditor,,Rene Meyer,LIB,0
+Tripp,Ideal Consolidated,State Auditor,,Richard Sattgast,REP,52
+Tripp,Lake Consolidated,State Auditor,,Stephanie Marty,DEM,21
+Tripp,Lake Consolidated,State Auditor,,Rene Meyer,LIB,4
+Tripp,Lake Consolidated,State Auditor,,Richard Sattgast,REP,111
+Tripp,Lamro Consolidated,State Auditor,,Stephanie Marty,DEM,53
+Tripp,Lamro Consolidated,State Auditor,,Rene Meyer,LIB,13
+Tripp,Lamro Consolidated,State Auditor,,Richard Sattgast,REP,221
+Tripp,Sully Consolidated,State Auditor,,Stephanie Marty,DEM,17
+Tripp,Sully Consolidated,State Auditor,,Rene Meyer,LIB,6
+Tripp,Sully Consolidated,State Auditor,,Richard Sattgast,REP,61
+Tripp,?,State Auditor,,Stephanie Marty,DEM,12
+Tripp,?,State Auditor,,Rene Meyer,LIB,3
+Tripp,?,State Auditor,,Richard Sattgast,REP,92
+Tripp,?,State Auditor,,Stephanie Marty,DEM,40
+Tripp,?,State Auditor,,Rene Meyer,LIB,9
+Tripp,?,State Auditor,,Richard Sattgast,REP,174
+Tripp,?,State Auditor,,Stephanie Marty,DEM,31
+Tripp,?,State Auditor,,Rene Meyer,LIB,15
+Tripp,?,State Auditor,,Richard Sattgast,REP,96
+Tripp,?,State Auditor,,Stephanie Marty,DEM,48
+Tripp,?,State Auditor,,Rene Meyer,LIB,14
+Tripp,?,State Auditor,,Richard Sattgast,REP,193
+Tripp,?,State Auditor,,Stephanie Marty,DEM,34
+Tripp,?,State Auditor,,Rene Meyer,LIB,8
+Tripp,?,State Auditor,,Richard Sattgast,REP,112
+Tripp,Witten Consolidated,State Auditor,,Stephanie Marty,DEM,15
+Tripp,Witten Consolidated,State Auditor,,Rene Meyer,LIB,8
+Tripp,Witten Consolidated,State Auditor,,Richard Sattgast,REP,65
+Tripp,Clearfield Consolidated,State Treasurer,,John Cunningham,DEM,25
+Tripp,Clearfield Consolidated,State Treasurer,,Josh Haeder,REP,109
+Tripp,Colome Consolidated,State Treasurer,,John Cunningham,DEM,56
+Tripp,Colome Consolidated,State Treasurer,,Josh Haeder,REP,276
+Tripp,Hamill Consolidated,State Treasurer,,John Cunningham,DEM,9
+Tripp,Hamill Consolidated,State Treasurer,,Josh Haeder,REP,71
+Tripp,Ideal Consolidated,State Treasurer,,John Cunningham,DEM,9
+Tripp,Ideal Consolidated,State Treasurer,,Josh Haeder,REP,54
+Tripp,Lake Consolidated,State Treasurer,,John Cunningham,DEM,23
+Tripp,Lake Consolidated,State Treasurer,,Josh Haeder,REP,108
+Tripp,Lamro Consolidated,State Treasurer,,John Cunningham,DEM,57
+Tripp,Lamro Consolidated,State Treasurer,,Josh Haeder,REP,229
+Tripp,Sully Consolidated,State Treasurer,,John Cunningham,DEM,19
+Tripp,Sully Consolidated,State Treasurer,,Josh Haeder,REP,64
+Tripp,?,State Treasurer,,John Cunningham,DEM,14
+Tripp,?,State Treasurer,,Josh Haeder,REP,87
+Tripp,?,State Treasurer,,John Cunningham,DEM,37
+Tripp,?,State Treasurer,,Josh Haeder,REP,183
+Tripp,?,State Treasurer,,John Cunningham,DEM,38
+Tripp,?,State Treasurer,,Josh Haeder,REP,203
+Tripp,?,State Treasurer,,John Cunningham,DEM,55
+Tripp,?,State Treasurer,,Josh Haeder,REP,196
+Tripp,?,State Treasurer,,John Cunningham,DEM,33
+Tripp,?,State Treasurer,,Josh Haeder,REP,117
+Tripp,Witten Consolidated,State Treasurer,,John Cunningham,DEM,23
+Tripp,Witten Consolidated,State Treasurer,,Josh Haeder,REP,63
+Tripp,Clearfield Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,23
+Tripp,Clearfield Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,109
+Tripp,Colome Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,42
+Tripp,Colome Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,287
+Tripp,Hamill Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,8
+Tripp,Hamill Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,72
+Tripp,Ideal Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,7
+Tripp,Ideal Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,54
+Tripp,Lake Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Tripp,Lake Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,110
+Tripp,Lamro Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,50
+Tripp,Lamro Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,234
+Tripp,Sully Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,16
+Tripp,Sully Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,66
+Tripp,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Tripp,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,88
+Tripp,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Tripp,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,184
+Tripp,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,36
+Tripp,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,198
+Tripp,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,48
+Tripp,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,201
+Tripp,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,30
+Tripp,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,118
+Tripp,Witten Consolidated,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Tripp,Witten Consolidated,Commissioner of School and Public Lands,,Brock Greenfield,REP,67
+Tripp,Clearfield Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Tripp,Clearfield Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,108
+Tripp,Colome Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,41
+Tripp,Colome Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,291
+Tripp,Hamill Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,7
+Tripp,Hamill Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,74
+Tripp,Ideal Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,8
+Tripp,Ideal Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,55
+Tripp,Lake Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,22
+Tripp,Lake Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,112
+Tripp,Lamro Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,48
+Tripp,Lamro Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,241
+Tripp,Sully Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Tripp,Sully Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,70
+Tripp,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Tripp,?,Public Utilities Commissioner,,Chris Nelson,REP,93
+Tripp,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Tripp,?,Public Utilities Commissioner,,Chris Nelson,REP,192
+Tripp,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Tripp,?,Public Utilities Commissioner,,Chris Nelson,REP,209
+Tripp,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,44
+Tripp,?,Public Utilities Commissioner,,Chris Nelson,REP,212
+Tripp,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,30
+Tripp,?,Public Utilities Commissioner,,Chris Nelson,REP,124
+Tripp,Witten Consolidated,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Tripp,Witten Consolidated,Public Utilities Commissioner,,Chris Nelson,REP,76
+Tripp,Clearfield Consolidated,State Senate,21,Dan Andersson,DEM,24
+Tripp,Clearfield Consolidated,State Senate,21,Erin Tobin,REP,114
+Tripp,Colome Consolidated,State Senate,21,Dan Andersson,DEM,49
+Tripp,Colome Consolidated,State Senate,21,Erin Tobin,REP,287
+Tripp,Hamill Consolidated,State Senate,21,Dan Andersson,DEM,8
+Tripp,Hamill Consolidated,State Senate,21,Erin Tobin,REP,69
+Tripp,Ideal Consolidated,State Senate,21,Dan Andersson,DEM,9
+Tripp,Ideal Consolidated,State Senate,21,Erin Tobin,REP,54
+Tripp,Lake Consolidated,State Senate,21,Dan Andersson,DEM,23
+Tripp,Lake Consolidated,State Senate,21,Erin Tobin,REP,110
+Tripp,Lamro Consolidated,State Senate,21,Dan Andersson,DEM,44
+Tripp,Lamro Consolidated,State Senate,21,Erin Tobin,REP,252
+Tripp,Sully Consolidated,State Senate,21,Dan Andersson,DEM,18
+Tripp,Sully Consolidated,State Senate,21,Erin Tobin,REP,68
+Tripp,?,State Senate,21,Dan Andersson,DEM,16
+Tripp,?,State Senate,21,Erin Tobin,REP,94
+Tripp,?,State Senate,21,Dan Andersson,DEM,33
+Tripp,?,State Senate,21,Erin Tobin,REP,196
+Tripp,?,State Senate,21,Dan Andersson,DEM,26
+Tripp,?,State Senate,21,Erin Tobin,REP,211
+Tripp,?,State Senate,21,Dan Andersson,DEM,34
+Tripp,?,State Senate,21,Erin Tobin,REP,226
+Tripp,?,State Senate,21,Dan Andersson,DEM,30
+Tripp,?,State Senate,21,Erin Tobin,REP,126
+Tripp,Witten Consolidated,State Senate,21,Dan Andersson,DEM,12
+Tripp,Witten Consolidated,State Senate,21,Erin Tobin,REP,75
+Tripp,Clearfield Consolidated,State House,21,Rocky Blare,REP,106
+Tripp,Clearfield Consolidated,State House,21,Marty Overweg,REP,59
+Tripp,Colome Consolidated,State House,21,Rocky Blare,REP,277
+Tripp,Colome Consolidated,State House,21,Marty Overweg,REP,162
+Tripp,Hamill Consolidated,State House,21,Rocky Blare,REP,66
+Tripp,Hamill Consolidated,State House,21,Marty Overweg,REP,42
+Tripp,Ideal Consolidated,State House,21,Rocky Blare,REP,52
+Tripp,Ideal Consolidated,State House,21,Marty Overweg,REP,30
+Tripp,Lake Consolidated,State House,21,Rocky Blare,REP,106
+Tripp,Lake Consolidated,State House,21,Marty Overweg,REP,59
+Tripp,Lamro Consolidated,State House,21,Rocky Blare,REP,249
+Tripp,Lamro Consolidated,State House,21,Marty Overweg,REP,118
+Tripp,Sully Consolidated,State House,21,Rocky Blare,REP,74
+Tripp,Sully Consolidated,State House,21,Marty Overweg,REP,41
+Tripp,?,State House,21,Rocky Blare,REP,92
+Tripp,?,State House,21,Marty Overweg,REP,37
+Tripp,?,State House,21,Rocky Blare,REP,187
+Tripp,?,State House,21,Marty Overweg,REP,92
+Tripp,?,State House,21,Rocky Blare,REP,211
+Tripp,?,State House,21,Marty Overweg,REP,102
+Tripp,?,State House,21,Rocky Blare,REP,218
+Tripp,?,State House,21,Marty Overweg,REP,112
+Tripp,?,State House,21,Rocky Blare,REP,124
+Tripp,?,State House,21,Marty Overweg,REP,58
+Tripp,Witten Consolidated,State House,21,Rocky Blare,REP,75
+Tripp,Witten Consolidated,State House,21,Marty Overweg,REP,28
+Tripp,Clearfield Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,53
+Tripp,Colome Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,156
+Tripp,Hamill Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,50
+Tripp,Ideal Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,33
+Tripp,Lake Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,51
+Tripp,Lamro Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,148
+Tripp,Sully Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,49
+Tripp,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,54
+Tripp,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,131
+Tripp,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,119
+Tripp,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,141
+Tripp,?,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,65
+Tripp,Witten Consolidated,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,37
+Tripp,Clearfield Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,50
+Tripp,Colome Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,150
+Tripp,Hamill Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,47
+Tripp,Ideal Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,33
+Tripp,Lake Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,49
+Tripp,Lamro Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,142
+Tripp,Sully Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,47
+Tripp,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,55
+Tripp,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,129
+Tripp,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,115
+Tripp,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,142
+Tripp,?,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,61
+Tripp,Witten Consolidated,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,36
+Tripp,Clearfield Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,55
+Tripp,Colome Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,148
+Tripp,Hamill Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,47
+Tripp,Ideal Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,36
+Tripp,Lake Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,49
+Tripp,Lamro Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,143
+Tripp,Sully Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,48
+Tripp,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,53
+Tripp,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,127
+Tripp,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,125
+Tripp,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,188
+Tripp,?,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,63
+Tripp,Witten Consolidated,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,37
+Tripp,Clearfield Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,85
+Tripp,Colome Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,93
+Tripp,Hamill Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,61
+Tripp,Ideal Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,48
+Tripp,Lake Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,81
+Tripp,Lamro Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,232
+Tripp,Sully Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,62
+Tripp,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,81
+Tripp,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,183
+Tripp,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,172
+Tripp,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,114
+Tripp,?,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,105
+Tripp,Witten Consolidated,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,58
+Tripp,Clearfield Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,90
+Tripp,Clearfield Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Tripp,Colome Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,248
+Tripp,Colome Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Tripp,Hamill Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,55
+Tripp,Hamill Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Tripp,Ideal Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,49
+Tripp,Ideal Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Tripp,Lake Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,96
+Tripp,Lake Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Tripp,Lamro Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,225
+Tripp,Lamro Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Tripp,Sully Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
+Tripp,Sully Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,78
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,171
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,190
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,38
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,199
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,44
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,124
+Tripp,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Tripp,Witten Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,60
+Tripp,Witten Consolidated,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Tripp,Clearfield Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,87
+Tripp,Clearfield Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,17
+Tripp,Colome Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,253
+Tripp,Colome Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,47
+Tripp,Hamill Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,55
+Tripp,Hamill Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,17
+Tripp,Ideal Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,46
+Tripp,Ideal Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,11
+Tripp,Lake Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,96
+Tripp,Lake Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,24
+Tripp,Lamro Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,224
+Tripp,Lamro Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,41
+Tripp,Sully Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,70
+Tripp,Sully Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,13
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - Yes,,78
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - No,,15
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - Yes,,173
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - No,,27
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - Yes,,191
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - No,,39
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - Yes,,188
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - No,,41
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - Yes,,118
+Tripp,?,Supreme Court Retention,2,Mark E. Salter - No,,27
+Tripp,Witten Consolidated,Supreme Court Retention,2,Mark E. Salter - Yes,,59
+Tripp,Witten Consolidated,Supreme Court Retention,2,Mark E. Salter - No,,13
+Tripp,Clearfield Consolidated,Constitutional Amendment D,,Yes,,51
+Tripp,Clearfield Consolidated,Constitutional Amendment D,,No,,87
+Tripp,Colome Consolidated,Constitutional Amendment D,,Yes,,162
+Tripp,Colome Consolidated,Constitutional Amendment D,,No,,171
+Tripp,Hamill Consolidated,Constitutional Amendment D,,Yes,,38
+Tripp,Hamill Consolidated,Constitutional Amendment D,,No,,42
+Tripp,Ideal Consolidated,Constitutional Amendment D,,Yes,,21
+Tripp,Ideal Consolidated,Constitutional Amendment D,,No,,41
+Tripp,Lake Consolidated,Constitutional Amendment D,,Yes,,59
+Tripp,Lake Consolidated,Constitutional Amendment D,,No,,79
+Tripp,Lamro Consolidated,Constitutional Amendment D,,Yes,,118
+Tripp,Lamro Consolidated,Constitutional Amendment D,,No,,175
+Tripp,Sully Consolidated,Constitutional Amendment D,,Yes,,45
+Tripp,Sully Consolidated,Constitutional Amendment D,,No,,42
+Tripp,?,Constitutional Amendment D,,Yes,,40
+Tripp,?,Constitutional Amendment D,,No,,67
+Tripp,?,Constitutional Amendment D,,Yes,,117
+Tripp,?,Constitutional Amendment D,,No,,113
+Tripp,?,Constitutional Amendment D,,Yes,,118
+Tripp,?,Constitutional Amendment D,,No,,117
+Tripp,?,Constitutional Amendment D,,Yes,,114
+Tripp,?,Constitutional Amendment D,,No,,147
+Tripp,?,Constitutional Amendment D,,Yes,,85
+Tripp,?,Constitutional Amendment D,,No,,67
+Tripp,Witten Consolidated,Constitutional Amendment D,,Yes,,44
+Tripp,Witten Consolidated,Constitutional Amendment D,,No,,47
+Tripp,Clearfield Consolidated,Initiated Measure 27,,Yes,,36
+Tripp,Clearfield Consolidated,Initiated Measure 27,,No,,102
+Tripp,Colome Consolidated,Initiated Measure 27,,Yes,,78
+Tripp,Colome Consolidated,Initiated Measure 27,,No,,263
+Tripp,Hamill Consolidated,Initiated Measure 27,,Yes,,16
+Tripp,Hamill Consolidated,Initiated Measure 27,,No,,64
+Tripp,Ideal Consolidated,Initiated Measure 27,,Yes,,17
+Tripp,Ideal Consolidated,Initiated Measure 27,,No,,44
+Tripp,Lake Consolidated,Initiated Measure 27,,Yes,,28
+Tripp,Lake Consolidated,Initiated Measure 27,,No,,114
+Tripp,Lamro Consolidated,Initiated Measure 27,,Yes,,69
+Tripp,Lamro Consolidated,Initiated Measure 27,,No,,227
+Tripp,Sully Consolidated,Initiated Measure 27,,Yes,,21
+Tripp,Sully Consolidated,Initiated Measure 27,,No,,66
+Tripp,?,Initiated Measure 27,,Yes,,28
+Tripp,?,Initiated Measure 27,,No,,81
+Tripp,?,Initiated Measure 27,,Yes,,72
+Tripp,?,Initiated Measure 27,,No,,159
+Tripp,?,Initiated Measure 27,,Yes,,67
+Tripp,?,Initiated Measure 27,,No,,169
+Tripp,?,Initiated Measure 27,,Yes,,77
+Tripp,?,Initiated Measure 27,,No,,189
+Tripp,?,Initiated Measure 27,,Yes,,51
+Tripp,?,Initiated Measure 27,,No,,103
+Tripp,Witten Consolidated,Initiated Measure 27,,Yes,,33
+Tripp,Witten Consolidated,Initiated Measure 27,,No,,59

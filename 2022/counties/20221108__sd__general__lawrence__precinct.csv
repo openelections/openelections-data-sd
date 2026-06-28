@@ -1,0 +1,430 @@
+county,precinct,office,district,candidate,party,votes
+Lawrence,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,1667
+Lawrence,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,229
+Lawrence,Absentee Precinct,U.S. Senate,,John R. Thune,REP,3521
+Lawrence,01,U.S. Senate,,Brian L. Bengs,DEM,232
+Lawrence,01,U.S. Senate,,Tamara J Lesnar,LIB,47
+Lawrence,01,U.S. Senate,,John R. Thune,REP,560
+Lawrence,02,U.S. Senate,,Brian L. Bengs,DEM,255
+Lawrence,02,U.S. Senate,,Tamara J Lesnar,LIB,59
+Lawrence,02,U.S. Senate,,John R. Thune,REP,644
+Lawrence,03,U.S. Senate,,Brian L. Bengs,DEM,257
+Lawrence,03,U.S. Senate,,Tamara J Lesnar,LIB,52
+Lawrence,03,U.S. Senate,,John R. Thune,REP,779
+Lawrence,04,U.S. Senate,,Brian L. Bengs,DEM,181
+Lawrence,04,U.S. Senate,,Tamara J Lesnar,LIB,50
+Lawrence,04,U.S. Senate,,John R. Thune,REP,476
+Lawrence,05,U.S. Senate,,Brian L. Bengs,DEM,60
+Lawrence,05,U.S. Senate,,Tamara J Lesnar,LIB,22
+Lawrence,05,U.S. Senate,,John R. Thune,REP,180
+Lawrence,06,U.S. Senate,,Brian L. Bengs,DEM,30
+Lawrence,06,U.S. Senate,,Tamara J Lesnar,LIB,3
+Lawrence,06,U.S. Senate,,John R. Thune,REP,125
+Lawrence,07,U.S. Senate,,Brian L. Bengs,DEM,73
+Lawrence,07,U.S. Senate,,Tamara J Lesnar,LIB,34
+Lawrence,07,U.S. Senate,,John R. Thune,REP,383
+Lawrence,08,U.S. Senate,,Brian L. Bengs,DEM,17
+Lawrence,08,U.S. Senate,,Tamara J Lesnar,LIB,9
+Lawrence,08,U.S. Senate,,John R. Thune,REP,115
+Lawrence,09,U.S. Senate,,Brian L. Bengs,DEM,76
+Lawrence,09,U.S. Senate,,Tamara J Lesnar,LIB,43
+Lawrence,09,U.S. Senate,,John R. Thune,REP,559
+Lawrence,10,U.S. Senate,,Brian L. Bengs,DEM,213
+Lawrence,10,U.S. Senate,,Tamara J Lesnar,LIB,98
+Lawrence,10,U.S. Senate,,John R. Thune,REP,1097
+Lawrence,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,1344
+Lawrence,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,3670
+Lawrence,01,U.S. House,1,Collin Duprel,LIB,218
+Lawrence,01,U.S. House,1,Dusty Johnson,REP,579
+Lawrence,02,U.S. House,1,Collin Duprel,LIB,253
+Lawrence,02,U.S. House,1,Dusty Johnson,REP,666
+Lawrence,03,U.S. House,1,Collin Duprel,LIB,258
+Lawrence,03,U.S. House,1,Dusty Johnson,REP,783
+Lawrence,04,U.S. House,1,Collin Duprel,LIB,197
+Lawrence,04,U.S. House,1,Dusty Johnson,REP,471
+Lawrence,05,U.S. House,1,Collin Duprel,LIB,79
+Lawrence,05,U.S. House,1,Dusty Johnson,REP,172
+Lawrence,06,U.S. House,1,Collin Duprel,LIB,32
+Lawrence,06,U.S. House,1,Dusty Johnson,REP,121
+Lawrence,07,U.S. House,1,Collin Duprel,LIB,108
+Lawrence,07,U.S. House,1,Dusty Johnson,REP,367
+Lawrence,08,U.S. House,1,Collin Duprel,LIB,37
+Lawrence,08,U.S. House,1,Dusty Johnson,REP,103
+Lawrence,09,U.S. House,1,Collin Duprel,LIB,179
+Lawrence,09,U.S. House,1,Dusty Johnson,REP,488
+Lawrence,10,U.S. House,1,Collin Duprel,LIB,294
+Lawrence,10,U.S. House,1,Dusty Johnson,REP,1059
+Lawrence,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,2118
+Lawrence,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,158
+Lawrence,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,3178
+Lawrence,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,326
+Lawrence,01,Governor,,Tracey Quint and Ashley Strand,LIB,40
+Lawrence,01,Governor,,Kristi Noem and Larry Rhoden,REP,473
+Lawrence,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,337
+Lawrence,02,Governor,,Tracey Quint and Ashley Strand,LIB,41
+Lawrence,02,Governor,,Kristi Noem and Larry Rhoden,REP,597
+Lawrence,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,338
+Lawrence,03,Governor,,Tracey Quint and Ashley Strand,LIB,47
+Lawrence,03,Governor,,Kristi Noem and Larry Rhoden,REP,716
+Lawrence,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,256
+Lawrence,04,Governor,,Tracey Quint and Ashley Strand,LIB,30
+Lawrence,04,Governor,,Kristi Noem and Larry Rhoden,REP,416
+Lawrence,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,86
+Lawrence,05,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Lawrence,05,Governor,,Kristi Noem and Larry Rhoden,REP,162
+Lawrence,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,35
+Lawrence,06,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Lawrence,06,Governor,,Kristi Noem and Larry Rhoden,REP,119
+Lawrence,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,110
+Lawrence,07,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Lawrence,07,Governor,,Kristi Noem and Larry Rhoden,REP,367
+Lawrence,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,21
+Lawrence,08,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Lawrence,08,Governor,,Kristi Noem and Larry Rhoden,REP,114
+Lawrence,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,102
+Lawrence,09,Governor,,Tracey Quint and Ashley Strand,LIB,34
+Lawrence,09,Governor,,Kristi Noem and Larry Rhoden,REP,549
+Lawrence,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,312
+Lawrence,10,Governor,,Tracey Quint and Ashley Strand,LIB,54
+Lawrence,10,Governor,,Kristi Noem and Larry Rhoden,REP,1058
+Lawrence,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,1966
+Lawrence,Absentee Precinct,Secretary of State,,Monae Johnson,REP,3229
+Lawrence,01,Secretary of State,,Thomas A Cool,DEM,312
+Lawrence,01,Secretary of State,,Monae Johnson,REP,484
+Lawrence,02,Secretary of State,,Thomas A Cool,DEM,306
+Lawrence,02,Secretary of State,,Monae Johnson,REP,603
+Lawrence,03,Secretary of State,,Thomas A Cool,DEM,341
+Lawrence,03,Secretary of State,,Monae Johnson,REP,707
+Lawrence,04,Secretary of State,,Thomas A Cool,DEM,246
+Lawrence,04,Secretary of State,,Monae Johnson,REP,421
+Lawrence,05,Secretary of State,,Thomas A Cool,DEM,85
+Lawrence,05,Secretary of State,,Monae Johnson,REP,165
+Lawrence,06,Secretary of State,,Thomas A Cool,DEM,37
+Lawrence,06,Secretary of State,,Monae Johnson,REP,116
+Lawrence,07,Secretary of State,,Thomas A Cool,DEM,103
+Lawrence,07,Secretary of State,,Monae Johnson,REP,365
+Lawrence,08,Secretary of State,,Thomas A Cool,DEM,21
+Lawrence,08,Secretary of State,,Monae Johnson,REP,116
+Lawrence,09,Secretary of State,,Thomas A Cool,DEM,111
+Lawrence,09,Secretary of State,,Monae Johnson,REP,543
+Lawrence,10,Secretary of State,,Thomas A Cool,DEM,303
+Lawrence,10,Secretary of State,,Monae Johnson,REP,1063
+Lawrence,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,3877
+Lawrence,01,Attorney General,,Marty J. Jackley,REP,591
+Lawrence,02,Attorney General,,Marty J. Jackley,REP,694
+Lawrence,03,Attorney General,,Marty J. Jackley,REP,834
+Lawrence,04,Attorney General,,Marty J. Jackley,REP,506
+Lawrence,05,Attorney General,,Marty J. Jackley,REP,203
+Lawrence,06,Attorney General,,Marty J. Jackley,REP,124
+Lawrence,07,Attorney General,,Marty J. Jackley,REP,400
+Lawrence,08,Attorney General,,Marty J. Jackley,REP,124
+Lawrence,09,Attorney General,,Marty J. Jackley,REP,577
+Lawrence,10,Attorney General,,Marty J. Jackley,REP,1128
+Lawrence,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,1793
+Lawrence,Absentee Precinct,State Auditor,,Rene Meyer,LIB,258
+Lawrence,Absentee Precinct,State Auditor,,Richard Sattgast,REP,3194
+Lawrence,01,State Auditor,,Stephanie Marty,DEM,257
+Lawrence,01,State Auditor,,Rene Meyer,LIB,72
+Lawrence,01,State Auditor,,Richard Sattgast,REP,472
+Lawrence,02,State Auditor,,Stephanie Marty,DEM,269
+Lawrence,02,State Auditor,,Rene Meyer,LIB,71
+Lawrence,02,State Auditor,,Richard Sattgast,REP,571
+Lawrence,03,State Auditor,,Stephanie Marty,DEM,289
+Lawrence,03,State Auditor,,Rene Meyer,LIB,70
+Lawrence,03,State Auditor,,Richard Sattgast,REP,678
+Lawrence,04,State Auditor,,Stephanie Marty,DEM,205
+Lawrence,04,State Auditor,,Rene Meyer,LIB,68
+Lawrence,04,State Auditor,,Richard Sattgast,REP,394
+Lawrence,05,State Auditor,,Stephanie Marty,DEM,80
+Lawrence,05,State Auditor,,Rene Meyer,LIB,30
+Lawrence,05,State Auditor,,Richard Sattgast,REP,144
+Lawrence,06,State Auditor,,Stephanie Marty,DEM,33
+Lawrence,06,State Auditor,,Rene Meyer,LIB,6
+Lawrence,06,State Auditor,,Richard Sattgast,REP,113
+Lawrence,07,State Auditor,,Stephanie Marty,DEM,89
+Lawrence,07,State Auditor,,Rene Meyer,LIB,39
+Lawrence,07,State Auditor,,Richard Sattgast,REP,340
+Lawrence,08,State Auditor,,Stephanie Marty,DEM,21
+Lawrence,08,State Auditor,,Rene Meyer,LIB,9
+Lawrence,08,State Auditor,,Richard Sattgast,REP,110
+Lawrence,09,State Auditor,,Stephanie Marty,DEM,74
+Lawrence,09,State Auditor,,Rene Meyer,LIB,63
+Lawrence,09,State Auditor,,Richard Sattgast,REP,510
+Lawrence,10,State Auditor,,Stephanie Marty,DEM,252
+Lawrence,10,State Auditor,,Rene Meyer,LIB,94
+Lawrence,10,State Auditor,,Richard Sattgast,REP,1018
+Lawrence,Absentee Precinct,State Treasurer,,John Cunningham,DEM,1869
+Lawrence,Absentee Precinct,State Treasurer,,Josh Haeder,REP,3338
+Lawrence,01,State Treasurer,,John Cunningham,DEM,276
+Lawrence,01,State Treasurer,,Josh Haeder,REP,505
+Lawrence,02,State Treasurer,,John Cunningham,DEM,290
+Lawrence,02,State Treasurer,,Josh Haeder,REP,603
+Lawrence,03,State Treasurer,,John Cunningham,DEM,305
+Lawrence,03,State Treasurer,,Josh Haeder,REP,721
+Lawrence,04,State Treasurer,,John Cunningham,DEM,226
+Lawrence,04,State Treasurer,,Josh Haeder,REP,429
+Lawrence,05,State Treasurer,,John Cunningham,DEM,79
+Lawrence,05,State Treasurer,,Josh Haeder,REP,166
+Lawrence,06,State Treasurer,,John Cunningham,DEM,33
+Lawrence,06,State Treasurer,,Josh Haeder,REP,118
+Lawrence,07,State Treasurer,,John Cunningham,DEM,104
+Lawrence,07,State Treasurer,,Josh Haeder,REP,361
+Lawrence,08,State Treasurer,,John Cunningham,DEM,24
+Lawrence,08,State Treasurer,,Josh Haeder,REP,113
+Lawrence,09,State Treasurer,,John Cunningham,DEM,93
+Lawrence,09,State Treasurer,,Josh Haeder,REP,552
+Lawrence,10,State Treasurer,,John Cunningham,DEM,273
+Lawrence,10,State Treasurer,,Josh Haeder,REP,1076
+Lawrence,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,1871
+Lawrence,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,3233
+Lawrence,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,281
+Lawrence,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,499
+Lawrence,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,290
+Lawrence,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,594
+Lawrence,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,311
+Lawrence,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,710
+Lawrence,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,218
+Lawrence,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,437
+Lawrence,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,84
+Lawrence,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,163
+Lawrence,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,30
+Lawrence,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,117
+Lawrence,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,98
+Lawrence,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,365
+Lawrence,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Lawrence,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,114
+Lawrence,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,96
+Lawrence,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,543
+Lawrence,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,276
+Lawrence,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,1057
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,1800
+Lawrence,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,3408
+Lawrence,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,255
+Lawrence,01,Public Utilities Commissioner,,Chris Nelson,REP,514
+Lawrence,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,280
+Lawrence,02,Public Utilities Commissioner,,Chris Nelson,REP,616
+Lawrence,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,302
+Lawrence,03,Public Utilities Commissioner,,Chris Nelson,REP,728
+Lawrence,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,221
+Lawrence,04,Public Utilities Commissioner,,Chris Nelson,REP,449
+Lawrence,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,86
+Lawrence,05,Public Utilities Commissioner,,Chris Nelson,REP,163
+Lawrence,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,31
+Lawrence,06,Public Utilities Commissioner,,Chris Nelson,REP,120
+Lawrence,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,106
+Lawrence,07,Public Utilities Commissioner,,Chris Nelson,REP,364
+Lawrence,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,22
+Lawrence,08,Public Utilities Commissioner,,Chris Nelson,REP,115
+Lawrence,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,99
+Lawrence,09,Public Utilities Commissioner,,Chris Nelson,REP,544
+Lawrence,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,252
+Lawrence,10,Public Utilities Commissioner,,Chris Nelson,REP,1100
+Lawrence,Absentee Precinct,State Senate,31,Randy Deibert,REP,3607
+Lawrence,01,State Senate,31,Randy Deibert,REP,562
+Lawrence,02,State Senate,31,Randy Deibert,REP,679
+Lawrence,03,State Senate,31,Randy Deibert,REP,791
+Lawrence,04,State Senate,31,Randy Deibert,REP,470
+Lawrence,05,State Senate,31,Randy Deibert,REP,183
+Lawrence,06,State Senate,31,Randy Deibert,REP,122
+Lawrence,07,State Senate,31,Randy Deibert,REP,370
+Lawrence,08,State Senate,31,Randy Deibert,REP,119
+Lawrence,09,State Senate,31,Randy Deibert,REP,531
+Lawrence,10,State Senate,31,Randy Deibert,REP,1102
+Lawrence,Absentee Precinct,State House,31,Mary J. Fitzgerald,REP,2611
+Lawrence,Absentee Precinct,State House,31,Scott Odenbach,REP,3055
+Lawrence,01,State House,31,Mary J. Fitzgerald,REP,415
+Lawrence,01,State House,31,Scott Odenbach,REP,466
+Lawrence,02,State House,31,Mary J. Fitzgerald,REP,463
+Lawrence,02,State House,31,Scott Odenbach,REP,560
+Lawrence,03,State House,31,Mary J. Fitzgerald,REP,574
+Lawrence,03,State House,31,Scott Odenbach,REP,669
+Lawrence,04,State House,31,Mary J. Fitzgerald,REP,359
+Lawrence,04,State House,31,Scott Odenbach,REP,380
+Lawrence,05,State House,31,Mary J. Fitzgerald,REP,128
+Lawrence,05,State House,31,Scott Odenbach,REP,154
+Lawrence,06,State House,31,Mary J. Fitzgerald,REP,82
+Lawrence,06,State House,31,Scott Odenbach,REP,104
+Lawrence,07,State House,31,Mary J. Fitzgerald,REP,255
+Lawrence,07,State House,31,Scott Odenbach,REP,321
+Lawrence,08,State House,31,Mary J. Fitzgerald,REP,80
+Lawrence,08,State House,31,Scott Odenbach,REP,94
+Lawrence,09,State House,31,Mary J. Fitzgerald,REP,372
+Lawrence,09,State House,31,Scott Odenbach,REP,472
+Lawrence,10,State House,31,Mary J. Fitzgerald,REP,777
+Lawrence,10,State House,31,Scott Odenbach,REP,955
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,2743
+Lawrence,01,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,459
+Lawrence,02,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,523
+Lawrence,03,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,623
+Lawrence,04,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,354
+Lawrence,05,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,129
+Lawrence,06,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,62
+Lawrence,07,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,243
+Lawrence,08,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,80
+Lawrence,09,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,366
+Lawrence,10,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,813
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,2571
+Lawrence,01,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,423
+Lawrence,02,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,486
+Lawrence,03,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,570
+Lawrence,04,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,335
+Lawrence,05,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,127
+Lawrence,06,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,63
+Lawrence,07,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,241
+Lawrence,08,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,83
+Lawrence,09,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,353
+Lawrence,10,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,761
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,2720
+Lawrence,01,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,437
+Lawrence,02,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,488
+Lawrence,03,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,568
+Lawrence,04,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,398
+Lawrence,05,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,144
+Lawrence,06,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,60
+Lawrence,07,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,262
+Lawrence,08,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,77
+Lawrence,09,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,353
+Lawrence,10,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,763
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,390
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,710
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,345
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,1822
+Lawrence,Absentee Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,640
+Lawrence,01,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,57
+Lawrence,01,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,105
+Lawrence,01,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,56
+Lawrence,01,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,255
+Lawrence,01,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,143
+Lawrence,02,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,50
+Lawrence,02,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,121
+Lawrence,02,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,63
+Lawrence,02,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,332
+Lawrence,02,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,144
+Lawrence,03,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,58
+Lawrence,03,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,133
+Lawrence,03,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,59
+Lawrence,03,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,358
+Lawrence,03,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,165
+Lawrence,04,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,70
+Lawrence,04,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,93
+Lawrence,04,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,41
+Lawrence,04,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,251
+Lawrence,04,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,50
+Lawrence,05,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,18
+Lawrence,05,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,25
+Lawrence,05,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,16
+Lawrence,05,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,101
+Lawrence,05,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,44
+Lawrence,06,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,13
+Lawrence,06,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,7
+Lawrence,06,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,5
+Lawrence,06,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,45
+Lawrence,06,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,17
+Lawrence,07,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,47
+Lawrence,07,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,68
+Lawrence,07,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,30
+Lawrence,07,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,139
+Lawrence,07,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,53
+Lawrence,08,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
+Lawrence,08,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,15
+Lawrence,08,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
+Lawrence,08,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,68
+Lawrence,08,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,26
+Lawrence,09,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,68
+Lawrence,09,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,64
+Lawrence,09,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,39
+Lawrence,09,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,212
+Lawrence,09,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,115
+Lawrence,10,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,54
+Lawrence,10,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,186
+Lawrence,10,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,74
+Lawrence,10,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,540
+Lawrence,10,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,238
+Lawrence,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,3547
+Lawrence,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,1021
+Lawrence,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,514
+Lawrence,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,157
+Lawrence,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,590
+Lawrence,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,191
+Lawrence,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,690
+Lawrence,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,190
+Lawrence,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,456
+Lawrence,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,143
+Lawrence,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,177
+Lawrence,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,46
+Lawrence,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,97
+Lawrence,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Lawrence,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,333
+Lawrence,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,75
+Lawrence,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,96
+Lawrence,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Lawrence,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,454
+Lawrence,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,111
+Lawrence,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,954
+Lawrence,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,248
+Lawrence,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,3553
+Lawrence,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,983
+Lawrence,01,Supreme Court Retention,2,Mark E. Salter - Yes,,508
+Lawrence,01,Supreme Court Retention,2,Mark E. Salter - No,,158
+Lawrence,02,Supreme Court Retention,2,Mark E. Salter - Yes,,581
+Lawrence,02,Supreme Court Retention,2,Mark E. Salter - No,,197
+Lawrence,03,Supreme Court Retention,2,Mark E. Salter - Yes,,688
+Lawrence,03,Supreme Court Retention,2,Mark E. Salter - No,,191
+Lawrence,04,Supreme Court Retention,2,Mark E. Salter - Yes,,449
+Lawrence,04,Supreme Court Retention,2,Mark E. Salter - No,,150
+Lawrence,05,Supreme Court Retention,2,Mark E. Salter - Yes,,170
+Lawrence,05,Supreme Court Retention,2,Mark E. Salter - No,,50
+Lawrence,06,Supreme Court Retention,2,Mark E. Salter - Yes,,97
+Lawrence,06,Supreme Court Retention,2,Mark E. Salter - No,,31
+Lawrence,07,Supreme Court Retention,2,Mark E. Salter - Yes,,339
+Lawrence,07,Supreme Court Retention,2,Mark E. Salter - No,,69
+Lawrence,08,Supreme Court Retention,2,Mark E. Salter - Yes,,98
+Lawrence,08,Supreme Court Retention,2,Mark E. Salter - No,,29
+Lawrence,09,Supreme Court Retention,2,Mark E. Salter - Yes,,442
+Lawrence,09,Supreme Court Retention,2,Mark E. Salter - No,,120
+Lawrence,10,Supreme Court Retention,2,Mark E. Salter - Yes,,940
+Lawrence,10,Supreme Court Retention,2,Mark E. Salter - No,,252
+Lawrence,Absentee Precinct,Constitutional Amendment D,,Yes,,3154
+Lawrence,Absentee Precinct,Constitutional Amendment D,,No,,2233
+Lawrence,01,Constitutional Amendment D,,Yes,,476
+Lawrence,01,Constitutional Amendment D,,No,,354
+Lawrence,02,Constitutional Amendment D,,Yes,,588
+Lawrence,02,Constitutional Amendment D,,No,,374
+Lawrence,03,Constitutional Amendment D,,Yes,,595
+Lawrence,03,Constitutional Amendment D,,No,,477
+Lawrence,04,Constitutional Amendment D,,Yes,,474
+Lawrence,04,Constitutional Amendment D,,No,,226
+Lawrence,05,Constitutional Amendment D,,Yes,,168
+Lawrence,05,Constitutional Amendment D,,No,,98
+Lawrence,06,Constitutional Amendment D,,Yes,,64
+Lawrence,06,Constitutional Amendment D,,No,,90
+Lawrence,07,Constitutional Amendment D,,Yes,,243
+Lawrence,07,Constitutional Amendment D,,No,,245
+Lawrence,08,Constitutional Amendment D,,Yes,,58
+Lawrence,08,Constitutional Amendment D,,No,,83
+Lawrence,09,Constitutional Amendment D,,Yes,,282
+Lawrence,09,Constitutional Amendment D,,No,,392
+Lawrence,10,Constitutional Amendment D,,Yes,,670
+Lawrence,10,Constitutional Amendment D,,No,,737
+Lawrence,Absentee Precinct,Initiated Measure 27,,Yes,,2728
+Lawrence,Absentee Precinct,Initiated Measure 27,,No,,2736
+Lawrence,01,Initiated Measure 27,,Yes,,439
+Lawrence,01,Initiated Measure 27,,No,,412
+Lawrence,02,Initiated Measure 27,,Yes,,550
+Lawrence,02,Initiated Measure 27,,No,,427
+Lawrence,03,Initiated Measure 27,,Yes,,488
+Lawrence,03,Initiated Measure 27,,No,,609
+Lawrence,04,Initiated Measure 27,,Yes,,432
+Lawrence,04,Initiated Measure 27,,No,,273
+Lawrence,05,Initiated Measure 27,,Yes,,159
+Lawrence,05,Initiated Measure 27,,No,,112
+Lawrence,06,Initiated Measure 27,,Yes,,59
+Lawrence,06,Initiated Measure 27,,No,,96
+Lawrence,07,Initiated Measure 27,,Yes,,226
+Lawrence,07,Initiated Measure 27,,No,,273
+Lawrence,08,Initiated Measure 27,,Yes,,54
+Lawrence,08,Initiated Measure 27,,No,,88
+Lawrence,09,Initiated Measure 27,,Yes,,295
+Lawrence,09,Initiated Measure 27,,No,,395
+Lawrence,10,Initiated Measure 27,,Yes,,549
+Lawrence,10,Initiated Measure 27,,No,,884

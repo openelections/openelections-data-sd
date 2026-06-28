@@ -1,0 +1,145 @@
+county,precinct,office,district,candidate,party,votes
+Mellette,2,U.S. Senate,,Brian L. Bengs,DEM,47
+Mellette,2,U.S. Senate,,Tamara J Lesnar,LIB,15
+Mellette,2,U.S. Senate,,John R. Thune,REP,124
+Mellette,3,U.S. Senate,,Brian L. Bengs,DEM,18
+Mellette,3,U.S. Senate,,Tamara J Lesnar,LIB,6
+Mellette,3,U.S. Senate,,John R. Thune,REP,95
+Mellette,5,U.S. Senate,,Brian L. Bengs,DEM,61
+Mellette,5,U.S. Senate,,Tamara J Lesnar,LIB,11
+Mellette,5,U.S. Senate,,John R. Thune,REP,100
+Mellette,6,U.S. Senate,,Brian L. Bengs,DEM,39
+Mellette,6,U.S. Senate,,Tamara J Lesnar,LIB,12
+Mellette,6,U.S. Senate,,John R. Thune,REP,96
+Mellette,2,U.S. House,1,Collin Duprel,LIB,48
+Mellette,2,U.S. House,1,Dusty Johnson,REP,129
+Mellette,3,U.S. House,1,Collin Duprel,LIB,20
+Mellette,3,U.S. House,1,Dusty Johnson,REP,95
+Mellette,5,U.S. House,1,Collin Duprel,LIB,53
+Mellette,5,U.S. House,1,Dusty Johnson,REP,107
+Mellette,6,U.S. House,1,Collin Duprel,LIB,38
+Mellette,6,U.S. House,1,Dusty Johnson,REP,98
+Mellette,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
+Mellette,2,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Mellette,2,Governor,,Kristi Noem and Larry Rhoden,REP,116
+Mellette,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Mellette,3,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Mellette,3,Governor,,Kristi Noem and Larry Rhoden,REP,94
+Mellette,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,81
+Mellette,5,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Mellette,5,Governor,,Kristi Noem and Larry Rhoden,REP,89
+Mellette,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,47
+Mellette,6,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Mellette,6,Governor,,Kristi Noem and Larry Rhoden,REP,87
+Mellette,2,Secretary of State,,Thomas A Cool,DEM,64
+Mellette,2,Secretary of State,,Monae Johnson,REP,117
+Mellette,3,Secretary of State,,Thomas A Cool,DEM,31
+Mellette,3,Secretary of State,,Monae Johnson,REP,87
+Mellette,5,Secretary of State,,Thomas A Cool,DEM,87
+Mellette,5,Secretary of State,,Monae Johnson,REP,79
+Mellette,6,Secretary of State,,Thomas A Cool,DEM,49
+Mellette,6,Secretary of State,,Monae Johnson,REP,91
+Mellette,2,Attorney General,,Marty J. Jackley,REP,138
+Mellette,3,Attorney General,,Marty J. Jackley,REP,98
+Mellette,5,Attorney General,,Marty J. Jackley,REP,111
+Mellette,6,Attorney General,,Marty J. Jackley,REP,111
+Mellette,2,State Auditor,,Stephanie Marty,DEM,59
+Mellette,2,State Auditor,,Rene Meyer,LIB,13
+Mellette,2,State Auditor,,Richard Sattgast,REP,105
+Mellette,3,State Auditor,,Stephanie Marty,DEM,24
+Mellette,3,State Auditor,,Rene Meyer,LIB,3
+Mellette,3,State Auditor,,Richard Sattgast,REP,90
+Mellette,5,State Auditor,,Stephanie Marty,DEM,76
+Mellette,5,State Auditor,,Rene Meyer,LIB,11
+Mellette,5,State Auditor,,Richard Sattgast,REP,76
+Mellette,6,State Auditor,,Stephanie Marty,DEM,48
+Mellette,6,State Auditor,,Rene Meyer,LIB,11
+Mellette,6,State Auditor,,Richard Sattgast,REP,82
+Mellette,2,State Treasurer,,John Cunningham,DEM,60
+Mellette,2,State Treasurer,,Josh Haeder,REP,117
+Mellette,3,State Treasurer,,John Cunningham,DEM,23
+Mellette,3,State Treasurer,,Josh Haeder,REP,92
+Mellette,5,State Treasurer,,John Cunningham,DEM,82
+Mellette,5,State Treasurer,,Josh Haeder,REP,80
+Mellette,6,State Treasurer,,John Cunningham,DEM,48
+Mellette,6,State Treasurer,,Josh Haeder,REP,94
+Mellette,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,61
+Mellette,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,115
+Mellette,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Mellette,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,91
+Mellette,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,81
+Mellette,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,79
+Mellette,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,50
+Mellette,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,90
+Mellette,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,57
+Mellette,2,Public Utilities Commissioner,,Chris Nelson,REP,121
+Mellette,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Mellette,3,Public Utilities Commissioner,,Chris Nelson,REP,91
+Mellette,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,73
+Mellette,5,Public Utilities Commissioner,,Chris Nelson,REP,91
+Mellette,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,44
+Mellette,6,Public Utilities Commissioner,,Chris Nelson,REP,97
+Mellette,2,State Senate,26,Shawn Bordeaux,DEM,86
+Mellette,2,State Senate,26,Joel Koskan,REP,54
+Mellette,3,State Senate,26,Shawn Bordeaux,DEM,39
+Mellette,3,State Senate,26,Joel Koskan,REP,42
+Mellette,5,State Senate,26,Shawn Bordeaux,DEM,101
+Mellette,5,State Senate,26,Joel Koskan,REP,44
+Mellette,6,State Senate,26,Shawn Bordeaux,DEM,71
+Mellette,6,State Senate,26,Joel Koskan,REP,55
+Mellette,2,State House,26A,Eric Emery,DEM,67
+Mellette,2,State House,26A,Joyce Glynn,REP,116
+Mellette,3,State House,26A,Eric Emery,DEM,35
+Mellette,3,State House,26A,Joyce Glynn,REP,80
+Mellette,5,State House,26A,Eric Emery,DEM,92
+Mellette,5,State House,26A,Joyce Glynn,REP,79
+Mellette,6,State House,26A,Eric Emery,DEM,68
+Mellette,6,State House,26A,Joyce Glynn,REP,71
+Mellette,2,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,69
+Mellette,3,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,52
+Mellette,5,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,63
+Mellette,6,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,67
+Mellette,2,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,67
+Mellette,3,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,52
+Mellette,5,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,57
+Mellette,6,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,61
+Mellette,2,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,65
+Mellette,3,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,53
+Mellette,5,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,61
+Mellette,6,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,61
+Mellette,2,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,64
+Mellette,3,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,61
+Mellette,5,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,64
+Mellette,6,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,59
+Mellette,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,125
+Mellette,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Mellette,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,78
+Mellette,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Mellette,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,109
+Mellette,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
+Mellette,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,100
+Mellette,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,24
+Mellette,2,Supreme Court Retention,2,Mark E. Salter - Yes,,123
+Mellette,2,Supreme Court Retention,2,Mark E. Salter - No,,41
+Mellette,3,Supreme Court Retention,2,Mark E. Salter - Yes,,77
+Mellette,3,Supreme Court Retention,2,Mark E. Salter - No,,25
+Mellette,5,Supreme Court Retention,2,Mark E. Salter - Yes,,99
+Mellette,5,Supreme Court Retention,2,Mark E. Salter - No,,24
+Mellette,6,Supreme Court Retention,2,Mark E. Salter - Yes,,95
+Mellette,6,Supreme Court Retention,2,Mark E. Salter - No,,31
+Mellette,2,Constitutional Amendment D,,Yes,,102
+Mellette,2,Constitutional Amendment D,,No,,80
+Mellette,3,Constitutional Amendment D,,Yes,,52
+Mellette,3,Constitutional Amendment D,,No,,64
+Mellette,5,Constitutional Amendment D,,Yes,,118
+Mellette,5,Constitutional Amendment D,,No,,51
+Mellette,6,Constitutional Amendment D,,Yes,,78
+Mellette,6,Constitutional Amendment D,,No,,67
+Mellette,2,Initiated Measure 27,,Yes,,89
+Mellette,2,Initiated Measure 27,,No,,95
+Mellette,3,Initiated Measure 27,,Yes,,42
+Mellette,3,Initiated Measure 27,,No,,78
+Mellette,5,Initiated Measure 27,,Yes,,102
+Mellette,5,Initiated Measure 27,,No,,70
+Mellette,6,Initiated Measure 27,,Yes,,62
+Mellette,6,Initiated Measure 27,,No,,83

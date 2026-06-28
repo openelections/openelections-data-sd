@@ -1,0 +1,352 @@
+county,precinct,office,district,candidate,party,votes
+Corson,Bullhead Precinct,U.S. Senate,,Brian L. Bengs,DEM,34
+Corson,Bullhead Precinct,U.S. Senate,,Tamara J Lesnar,LIB,0
+Corson,Bullhead Precinct,U.S. Senate,,John R. Thune,REP,4
+Corson,Kenel Precinct,U.S. Senate,,Brian L. Bengs,DEM,31
+Corson,Kenel Precinct,U.S. Senate,,Tamara J Lesnar,LIB,6
+Corson,Kenel Precinct,U.S. Senate,,John R. Thune,REP,7
+Corson,Lincoln Precinct,U.S. Senate,,Brian L. Bengs,DEM,63
+Corson,Lincoln Precinct,U.S. Senate,,Tamara J Lesnar,LIB,9
+Corson,Lincoln Precinct,U.S. Senate,,John R. Thune,REP,66
+Corson,Little Eagle Precinct,U.S. Senate,,Brian L. Bengs,DEM,35
+Corson,Little Eagle Precinct,U.S. Senate,,Tamara J Lesnar,LIB,5
+Corson,Little Eagle Precinct,U.S. Senate,,John R. Thune,REP,25
+Corson,McIntosh Precinct,U.S. Senate,,Brian L. Bengs,DEM,15
+Corson,McIntosh Precinct,U.S. Senate,,Tamara J Lesnar,LIB,10
+Corson,McIntosh Precinct,U.S. Senate,,John R. Thune,REP,152
+Corson,McLaughlin Precinct,U.S. Senate,,Brian L. Bengs,DEM,66
+Corson,McLaughlin Precinct,U.S. Senate,,Tamara J Lesnar,LIB,10
+Corson,McLaughlin Precinct,U.S. Senate,,John R. Thune,REP,65
+Corson,Morristown Precinct,U.S. Senate,,Brian L. Bengs,DEM,17
+Corson,Morristown Precinct,U.S. Senate,,Tamara J Lesnar,LIB,6
+Corson,Morristown Precinct,U.S. Senate,,John R. Thune,REP,140
+Corson,Ridgeland Precinct,U.S. Senate,,Brian L. Bengs,DEM,14
+Corson,Ridgeland Precinct,U.S. Senate,,Tamara J Lesnar,LIB,7
+Corson,Ridgeland Precinct,U.S. Senate,,John R. Thune,REP,63
+Corson,Wakpala Precinct,U.S. Senate,,Brian L. Bengs,DEM,59
+Corson,Wakpala Precinct,U.S. Senate,,Tamara J Lesnar,LIB,4
+Corson,Wakpala Precinct,U.S. Senate,,John R. Thune,REP,12
+Corson,Bullhead Precinct,U.S. House,1,Collin Duprel,LIB,17
+Corson,Bullhead Precinct,U.S. House,1,Dusty Johnson,REP,5
+Corson,Kenel Precinct,U.S. House,1,Collin Duprel,LIB,23
+Corson,Kenel Precinct,U.S. House,1,Dusty Johnson,REP,12
+Corson,Lincoln Precinct,U.S. House,1,Collin Duprel,LIB,39
+Corson,Lincoln Precinct,U.S. House,1,Dusty Johnson,REP,77
+Corson,Little Eagle Precinct,U.S. House,1,Collin Duprel,LIB,22
+Corson,Little Eagle Precinct,U.S. House,1,Dusty Johnson,REP,31
+Corson,McIntosh Precinct,U.S. House,1,Collin Duprel,LIB,27
+Corson,McIntosh Precinct,U.S. House,1,Dusty Johnson,REP,149
+Corson,McLaughlin Precinct,U.S. House,1,Collin Duprel,LIB,50
+Corson,McLaughlin Precinct,U.S. House,1,Dusty Johnson,REP,71
+Corson,Morristown Precinct,U.S. House,1,Collin Duprel,LIB,31
+Corson,Morristown Precinct,U.S. House,1,Dusty Johnson,REP,126
+Corson,Ridgeland Precinct,U.S. House,1,Collin Duprel,LIB,20
+Corson,Ridgeland Precinct,U.S. House,1,Dusty Johnson,REP,61
+Corson,Wakpala Precinct,U.S. House,1,Collin Duprel,LIB,40
+Corson,Wakpala Precinct,U.S. House,1,Dusty Johnson,REP,18
+Corson,Bullhead Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,34
+Corson,Bullhead Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Corson,Bullhead Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,2
+Corson,Kenel Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,35
+Corson,Kenel Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Corson,Kenel Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,6
+Corson,Lincoln Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,70
+Corson,Lincoln Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Corson,Lincoln Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,66
+Corson,Little Eagle Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,42
+Corson,Little Eagle Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Corson,Little Eagle Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,18
+Corson,McIntosh Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,18
+Corson,McIntosh Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Corson,McIntosh Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,156
+Corson,McLaughlin Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,83
+Corson,McLaughlin Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Corson,McLaughlin Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,55
+Corson,Morristown Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Corson,Morristown Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Corson,Morristown Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,145
+Corson,Ridgeland Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Corson,Ridgeland Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Corson,Ridgeland Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,64
+Corson,Wakpala Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,61
+Corson,Wakpala Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Corson,Wakpala Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,10
+Corson,Bullhead Precinct,Secretary of State,,Thomas A Cool,DEM,35
+Corson,Bullhead Precinct,Secretary of State,,Monae Johnson,REP,2
+Corson,Kenel Precinct,Secretary of State,,Thomas A Cool,DEM,34
+Corson,Kenel Precinct,Secretary of State,,Monae Johnson,REP,9
+Corson,Lincoln Precinct,Secretary of State,,Thomas A Cool,DEM,68
+Corson,Lincoln Precinct,Secretary of State,,Monae Johnson,REP,66
+Corson,Little Eagle Precinct,Secretary of State,,Thomas A Cool,DEM,39
+Corson,Little Eagle Precinct,Secretary of State,,Monae Johnson,REP,24
+Corson,McIntosh Precinct,Secretary of State,,Thomas A Cool,DEM,24
+Corson,McIntosh Precinct,Secretary of State,,Monae Johnson,REP,148
+Corson,McLaughlin Precinct,Secretary of State,,Thomas A Cool,DEM,82
+Corson,McLaughlin Precinct,Secretary of State,,Monae Johnson,REP,56
+Corson,Morristown Precinct,Secretary of State,,Thomas A Cool,DEM,23
+Corson,Morristown Precinct,Secretary of State,,Monae Johnson,REP,138
+Corson,Ridgeland Precinct,Secretary of State,,Thomas A Cool,DEM,17
+Corson,Ridgeland Precinct,Secretary of State,,Monae Johnson,REP,61
+Corson,Wakpala Precinct,Secretary of State,,Thomas A Cool,DEM,63
+Corson,Wakpala Precinct,Secretary of State,,Monae Johnson,REP,9
+Corson,Bullhead Precinct,Attorney General,,Marty J. Jackley,REP,6
+Corson,Kenel Precinct,Attorney General,,Marty J. Jackley,REP,11
+Corson,Lincoln Precinct,Attorney General,,Marty J. Jackley,REP,79
+Corson,Little Eagle Precinct,Attorney General,,Marty J. Jackley,REP,30
+Corson,McIntosh Precinct,Attorney General,,Marty J. Jackley,REP,156
+Corson,McLaughlin Precinct,Attorney General,,Marty J. Jackley,REP,65
+Corson,Morristown Precinct,Attorney General,,Marty J. Jackley,REP,136
+Corson,Ridgeland Precinct,Attorney General,,Marty J. Jackley,REP,67
+Corson,Wakpala Precinct,Attorney General,,Marty J. Jackley,REP,20
+Corson,Bullhead Precinct,State Auditor,,Stephanie Marty,DEM,34
+Corson,Bullhead Precinct,State Auditor,,Rene Meyer,LIB,2
+Corson,Bullhead Precinct,State Auditor,,Richard Sattgast,REP,1
+Corson,Kenel Precinct,State Auditor,,Stephanie Marty,DEM,34
+Corson,Kenel Precinct,State Auditor,,Rene Meyer,LIB,3
+Corson,Kenel Precinct,State Auditor,,Richard Sattgast,REP,6
+Corson,Lincoln Precinct,State Auditor,,Stephanie Marty,DEM,71
+Corson,Lincoln Precinct,State Auditor,,Rene Meyer,LIB,5
+Corson,Lincoln Precinct,State Auditor,,Richard Sattgast,REP,60
+Corson,Little Eagle Precinct,State Auditor,,Stephanie Marty,DEM,42
+Corson,Little Eagle Precinct,State Auditor,,Rene Meyer,LIB,7
+Corson,Little Eagle Precinct,State Auditor,,Richard Sattgast,REP,13
+Corson,McIntosh Precinct,State Auditor,,Stephanie Marty,DEM,24
+Corson,McIntosh Precinct,State Auditor,,Rene Meyer,LIB,10
+Corson,McIntosh Precinct,State Auditor,,Richard Sattgast,REP,136
+Corson,McLaughlin Precinct,State Auditor,,Stephanie Marty,DEM,77
+Corson,McLaughlin Precinct,State Auditor,,Rene Meyer,LIB,7
+Corson,McLaughlin Precinct,State Auditor,,Richard Sattgast,REP,53
+Corson,Morristown Precinct,State Auditor,,Stephanie Marty,DEM,21
+Corson,Morristown Precinct,State Auditor,,Rene Meyer,LIB,12
+Corson,Morristown Precinct,State Auditor,,Richard Sattgast,REP,125
+Corson,Ridgeland Precinct,State Auditor,,Stephanie Marty,DEM,16
+Corson,Ridgeland Precinct,State Auditor,,Rene Meyer,LIB,5
+Corson,Ridgeland Precinct,State Auditor,,Richard Sattgast,REP,59
+Corson,Wakpala Precinct,State Auditor,,Stephanie Marty,DEM,58
+Corson,Wakpala Precinct,State Auditor,,Rene Meyer,LIB,4
+Corson,Wakpala Precinct,State Auditor,,Richard Sattgast,REP,8
+Corson,Bullhead Precinct,State Treasurer,,John Cunningham,DEM,35
+Corson,Bullhead Precinct,State Treasurer,,Josh Haeder,REP,2
+Corson,Kenel Precinct,State Treasurer,,John Cunningham,DEM,35
+Corson,Kenel Precinct,State Treasurer,,Josh Haeder,REP,7
+Corson,Lincoln Precinct,State Treasurer,,John Cunningham,DEM,70
+Corson,Lincoln Precinct,State Treasurer,,Josh Haeder,REP,66
+Corson,Little Eagle Precinct,State Treasurer,,John Cunningham,DEM,45
+Corson,Little Eagle Precinct,State Treasurer,,Josh Haeder,REP,17
+Corson,McIntosh Precinct,State Treasurer,,John Cunningham,DEM,23
+Corson,McIntosh Precinct,State Treasurer,,Josh Haeder,REP,147
+Corson,McLaughlin Precinct,State Treasurer,,John Cunningham,DEM,80
+Corson,McLaughlin Precinct,State Treasurer,,Josh Haeder,REP,56
+Corson,Morristown Precinct,State Treasurer,,John Cunningham,DEM,23
+Corson,Morristown Precinct,State Treasurer,,Josh Haeder,REP,133
+Corson,Ridgeland Precinct,State Treasurer,,John Cunningham,DEM,15
+Corson,Ridgeland Precinct,State Treasurer,,Josh Haeder,REP,60
+Corson,Wakpala Precinct,State Treasurer,,John Cunningham,DEM,61
+Corson,Wakpala Precinct,State Treasurer,,Josh Haeder,REP,11
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,37
+Corson,Bullhead Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,1
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,36
+Corson,Kenel Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,7
+Corson,Lincoln Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,71
+Corson,Lincoln Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,64
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,44
+Corson,Little Eagle Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,20
+Corson,McIntosh Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,26
+Corson,McIntosh Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,146
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,83
+Corson,McLaughlin Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,55
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Corson,Morristown Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,138
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,20
+Corson,Ridgeland Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,59
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Corson,Wakpala Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,10
+Corson,Bullhead Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,35
+Corson,Bullhead Precinct,Public Utilities Commissioner,,Chris Nelson,REP,2
+Corson,Kenel Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,35
+Corson,Kenel Precinct,Public Utilities Commissioner,,Chris Nelson,REP,8
+Corson,Lincoln Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,70
+Corson,Lincoln Precinct,Public Utilities Commissioner,,Chris Nelson,REP,63
+Corson,Little Eagle Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Corson,Little Eagle Precinct,Public Utilities Commissioner,,Chris Nelson,REP,21
+Corson,McIntosh Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Corson,McIntosh Precinct,Public Utilities Commissioner,,Chris Nelson,REP,147
+Corson,McLaughlin Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,75
+Corson,McLaughlin Precinct,Public Utilities Commissioner,,Chris Nelson,REP,58
+Corson,Morristown Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Corson,Morristown Precinct,Public Utilities Commissioner,,Chris Nelson,REP,138
+Corson,Ridgeland Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Corson,Ridgeland Precinct,Public Utilities Commissioner,,Chris Nelson,REP,66
+Corson,Wakpala Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,60
+Corson,Wakpala Precinct,Public Utilities Commissioner,,Chris Nelson,REP,11
+Corson,Bullhead Precinct,State Senate,28,Ryan M. Maher,REP,9
+Corson,Kenel Precinct,State Senate,28,Ryan M. Maher,REP,13
+Corson,Lincoln Precinct,State Senate,28,Ryan M. Maher,REP,75
+Corson,Little Eagle Precinct,State Senate,28,Ryan M. Maher,REP,34
+Corson,McIntosh Precinct,State Senate,28,Ryan M. Maher,REP,160
+Corson,McLaughlin Precinct,State Senate,28,Ryan M. Maher,REP,73
+Corson,Morristown Precinct,State Senate,28,Ryan M. Maher,REP,142
+Corson,Ridgeland Precinct,State Senate,28,Ryan M. Maher,REP,68
+Corson,Wakpala Precinct,State Senate,28,Ryan M. Maher,REP,17
+Corson,Bullhead Precinct,State House,28A,Oren L Lesmeister,DEM,35
+Corson,Bullhead Precinct,State House,28A,Ralph Lyon,REP,2
+Corson,Kenel Precinct,State House,28A,Oren L Lesmeister,DEM,37
+Corson,Kenel Precinct,State House,28A,Ralph Lyon,REP,6
+Corson,Lincoln Precinct,State House,28A,Oren L Lesmeister,DEM,68
+Corson,Lincoln Precinct,State House,28A,Ralph Lyon,REP,67
+Corson,Little Eagle Precinct,State House,28A,Oren L Lesmeister,DEM,43
+Corson,Little Eagle Precinct,State House,28A,Ralph Lyon,REP,17
+Corson,McIntosh Precinct,State House,28A,Oren L Lesmeister,DEM,30
+Corson,McIntosh Precinct,State House,28A,Ralph Lyon,REP,146
+Corson,McLaughlin Precinct,State House,28A,Oren L Lesmeister,DEM,82
+Corson,McLaughlin Precinct,State House,28A,Ralph Lyon,REP,54
+Corson,Morristown Precinct,State House,28A,Oren L Lesmeister,DEM,27
+Corson,Morristown Precinct,State House,28A,Ralph Lyon,REP,134
+Corson,Ridgeland Precinct,State House,28A,Oren L Lesmeister,DEM,23
+Corson,Ridgeland Precinct,State House,28A,Ralph Lyon,REP,61
+Corson,Wakpala Precinct,State House,28A,Oren L Lesmeister,DEM,62
+Corson,Wakpala Precinct,State House,28A,Ralph Lyon,REP,11
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,4
+Corson,Kenel Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,16
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,46
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,23
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,107
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,51
+Corson,Morristown Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,71
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,31
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,20
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,7
+Corson,Kenel Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,17
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,46
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,23
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,106
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,49
+Corson,Morristown Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,72
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,34
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,19
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,4
+Corson,Kenel Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,15
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,41
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,22
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,107
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,55
+Corson,Morristown Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,68
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,35
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,22
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,0
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,0
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,14
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,1
+Corson,Bullhead Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,0
+Corson,Kenel Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Corson,Kenel Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,1
+Corson,Kenel Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,10
+Corson,Kenel Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,3
+Corson,Kenel Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,1
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,7
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,11
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,41
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,11
+Corson,Lincoln Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,8
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,10
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,4
+Corson,Little Eagle Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,4
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,35
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,50
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,8
+Corson,McIntosh Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,31
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,3
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,12
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,37
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,10
+Corson,McLaughlin Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,10
+Corson,Morristown Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Corson,Morristown Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,15
+Corson,Morristown Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,51
+Corson,Morristown Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,13
+Corson,Morristown Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,17
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,22
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,3
+Corson,Ridgeland Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,7
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,7
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,7
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,20
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,5
+Corson,Wakpala Precinct,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,2
+Corson,Bullhead Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,19
+Corson,Bullhead Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Corson,Kenel Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,24
+Corson,Kenel Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Corson,Lincoln Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,74
+Corson,Lincoln Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Corson,Little Eagle Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,30
+Corson,Little Eagle Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Corson,McIntosh Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,118
+Corson,McIntosh Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,37
+Corson,McLaughlin Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,90
+Corson,McLaughlin Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,37
+Corson,Morristown Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,108
+Corson,Morristown Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Corson,Ridgeland Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,52
+Corson,Ridgeland Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Corson,Wakpala Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,39
+Corson,Wakpala Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Corson,Bullhead Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,15
+Corson,Bullhead Precinct,Supreme Court Retention,2,Mark E. Salter - No,,13
+Corson,Kenel Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,23
+Corson,Kenel Precinct,Supreme Court Retention,2,Mark E. Salter - No,,14
+Corson,Lincoln Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,70
+Corson,Lincoln Precinct,Supreme Court Retention,2,Mark E. Salter - No,,42
+Corson,Little Eagle Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,31
+Corson,Little Eagle Precinct,Supreme Court Retention,2,Mark E. Salter - No,,24
+Corson,McIntosh Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,116
+Corson,McIntosh Precinct,Supreme Court Retention,2,Mark E. Salter - No,,37
+Corson,McLaughlin Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,83
+Corson,McLaughlin Precinct,Supreme Court Retention,2,Mark E. Salter - No,,43
+Corson,Morristown Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,106
+Corson,Morristown Precinct,Supreme Court Retention,2,Mark E. Salter - No,,37
+Corson,Ridgeland Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,49
+Corson,Ridgeland Precinct,Supreme Court Retention,2,Mark E. Salter - No,,25
+Corson,Wakpala Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,33
+Corson,Wakpala Precinct,Supreme Court Retention,2,Mark E. Salter - No,,37
+Corson,Bullhead Precinct,Constitutional Amendment D,,Yes,,34
+Corson,Bullhead Precinct,Constitutional Amendment D,,No,,1
+Corson,Kenel Precinct,Constitutional Amendment D,,Yes,,39
+Corson,Kenel Precinct,Constitutional Amendment D,,No,,6
+Corson,Lincoln Precinct,Constitutional Amendment D,,Yes,,78
+Corson,Lincoln Precinct,Constitutional Amendment D,,No,,56
+Corson,Little Eagle Precinct,Constitutional Amendment D,,Yes,,48
+Corson,Little Eagle Precinct,Constitutional Amendment D,,No,,14
+Corson,McIntosh Precinct,Constitutional Amendment D,,Yes,,67
+Corson,McIntosh Precinct,Constitutional Amendment D,,No,,109
+Corson,McLaughlin Precinct,Constitutional Amendment D,,Yes,,111
+Corson,McLaughlin Precinct,Constitutional Amendment D,,No,,31
+Corson,Morristown Precinct,Constitutional Amendment D,,Yes,,60
+Corson,Morristown Precinct,Constitutional Amendment D,,No,,97
+Corson,Ridgeland Precinct,Constitutional Amendment D,,Yes,,28
+Corson,Ridgeland Precinct,Constitutional Amendment D,,No,,56
+Corson,Wakpala Precinct,Constitutional Amendment D,,Yes,,60
+Corson,Wakpala Precinct,Constitutional Amendment D,,No,,14
+Corson,Bullhead Precinct,Initiated Measure 27,,Yes,,36
+Corson,Bullhead Precinct,Initiated Measure 27,,No,,1
+Corson,Kenel Precinct,Initiated Measure 27,,Yes,,41
+Corson,Kenel Precinct,Initiated Measure 27,,No,,4
+Corson,Lincoln Precinct,Initiated Measure 27,,Yes,,68
+Corson,Lincoln Precinct,Initiated Measure 27,,No,,68
+Corson,Little Eagle Precinct,Initiated Measure 27,,Yes,,42
+Corson,Little Eagle Precinct,Initiated Measure 27,,No,,21
+Corson,McIntosh Precinct,Initiated Measure 27,,Yes,,43
+Corson,McIntosh Precinct,Initiated Measure 27,,No,,134
+Corson,McLaughlin Precinct,Initiated Measure 27,,Yes,,98
+Corson,McLaughlin Precinct,Initiated Measure 27,,No,,44
+Corson,Morristown Precinct,Initiated Measure 27,,Yes,,24
+Corson,Morristown Precinct,Initiated Measure 27,,No,,138
+Corson,Ridgeland Precinct,Initiated Measure 27,,Yes,,24
+Corson,Ridgeland Precinct,Initiated Measure 27,,No,,60
+Corson,Wakpala Precinct,Initiated Measure 27,,Yes,,62
+Corson,Wakpala Precinct,Initiated Measure 27,,No,,12

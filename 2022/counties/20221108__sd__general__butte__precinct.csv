@@ -1,0 +1,703 @@
+county,precinct,office,district,candidate,party,votes
+Butte,06,U.S. Senate,,Brian L. Bengs,DEM,0
+Butte,06,U.S. Senate,,Tamara J Lesnar,LIB,3
+Butte,06,U.S. Senate,,John R. Thune,REP,38
+Butte,08,U.S. Senate,,Brian L. Bengs,DEM,0
+Butte,08,U.S. Senate,,Tamara J Lesnar,LIB,0
+Butte,08,U.S. Senate,,John R. Thune,REP,20
+Butte,11,U.S. Senate,,Brian L. Bengs,DEM,6
+Butte,11,U.S. Senate,,Tamara J Lesnar,LIB,6
+Butte,11,U.S. Senate,,John R. Thune,REP,61
+Butte,12,U.S. Senate,,Brian L. Bengs,DEM,9
+Butte,12,U.S. Senate,,Tamara J Lesnar,LIB,6
+Butte,12,U.S. Senate,,John R. Thune,REP,67
+Butte,13,U.S. Senate,,Brian L. Bengs,DEM,25
+Butte,13,U.S. Senate,,Tamara J Lesnar,LIB,23
+Butte,13,U.S. Senate,,John R. Thune,REP,151
+Butte,14,U.S. Senate,,Brian L. Bengs,DEM,20
+Butte,14,U.S. Senate,,Tamara J Lesnar,LIB,20
+Butte,14,U.S. Senate,,John R. Thune,REP,226
+Butte,16,U.S. Senate,,Brian L. Bengs,DEM,77
+Butte,16,U.S. Senate,,Tamara J Lesnar,LIB,45
+Butte,16,U.S. Senate,,John R. Thune,REP,576
+Butte,17,U.S. Senate,,Brian L. Bengs,DEM,40
+Butte,17,U.S. Senate,,Tamara J Lesnar,LIB,21
+Butte,17,U.S. Senate,,John R. Thune,REP,312
+Butte,18,U.S. Senate,,Brian L. Bengs,DEM,14
+Butte,18,U.S. Senate,,Tamara J Lesnar,LIB,15
+Butte,18,U.S. Senate,,John R. Thune,REP,78
+Butte,20,U.S. Senate,,Brian L. Bengs,DEM,30
+Butte,20,U.S. Senate,,Tamara J Lesnar,LIB,12
+Butte,20,U.S. Senate,,John R. Thune,REP,167
+Butte,21,U.S. Senate,,Brian L. Bengs,DEM,42
+Butte,21,U.S. Senate,,Tamara J Lesnar,LIB,17
+Butte,21,U.S. Senate,,John R. Thune,REP,156
+Butte,22,U.S. Senate,,Brian L. Bengs,DEM,35
+Butte,22,U.S. Senate,,Tamara J Lesnar,LIB,21
+Butte,22,U.S. Senate,,John R. Thune,REP,123
+Butte,23,U.S. Senate,,Brian L. Bengs,DEM,39
+Butte,23,U.S. Senate,,Tamara J Lesnar,LIB,12
+Butte,23,U.S. Senate,,John R. Thune,REP,149
+Butte,24,U.S. Senate,,Brian L. Bengs,DEM,58
+Butte,24,U.S. Senate,,Tamara J Lesnar,LIB,19
+Butte,24,U.S. Senate,,John R. Thune,REP,218
+Butte,25,U.S. Senate,,Brian L. Bengs,DEM,64
+Butte,25,U.S. Senate,,Tamara J Lesnar,LIB,17
+Butte,25,U.S. Senate,,John R. Thune,REP,307
+Butte,26,U.S. Senate,,Brian L. Bengs,DEM,34
+Butte,26,U.S. Senate,,Tamara J Lesnar,LIB,22
+Butte,26,U.S. Senate,,John R. Thune,REP,180
+Butte,27,U.S. Senate,,Brian L. Bengs,DEM,36
+Butte,27,U.S. Senate,,Tamara J Lesnar,LIB,12
+Butte,27,U.S. Senate,,John R. Thune,REP,164
+Butte,28,U.S. Senate,,Brian L. Bengs,DEM,68
+Butte,28,U.S. Senate,,Tamara J Lesnar,LIB,21
+Butte,28,U.S. Senate,,John R. Thune,REP,276
+Butte,06,U.S. House,1,Collin Duprel,LIB,16
+Butte,06,U.S. House,1,Dusty Johnson,REP,26
+Butte,08,U.S. House,1,Collin Duprel,LIB,5
+Butte,08,U.S. House,1,Dusty Johnson,REP,16
+Butte,11,U.S. House,1,Collin Duprel,LIB,15
+Butte,11,U.S. House,1,Dusty Johnson,REP,57
+Butte,12,U.S. House,1,Collin Duprel,LIB,25
+Butte,12,U.S. House,1,Dusty Johnson,REP,57
+Butte,13,U.S. House,1,Collin Duprel,LIB,68
+Butte,13,U.S. House,1,Dusty Johnson,REP,123
+Butte,14,U.S. House,1,Collin Duprel,LIB,102
+Butte,14,U.S. House,1,Dusty Johnson,REP,164
+Butte,16,U.S. House,1,Collin Duprel,LIB,156
+Butte,16,U.S. House,1,Dusty Johnson,REP,521
+Butte,17,U.S. House,1,Collin Duprel,LIB,70
+Butte,17,U.S. House,1,Dusty Johnson,REP,292
+Butte,18,U.S. House,1,Collin Duprel,LIB,35
+Butte,18,U.S. House,1,Dusty Johnson,REP,69
+Butte,20,U.S. House,1,Collin Duprel,LIB,61
+Butte,20,U.S. House,1,Dusty Johnson,REP,142
+Butte,21,U.S. House,1,Collin Duprel,LIB,62
+Butte,21,U.S. House,1,Dusty Johnson,REP,148
+Butte,22,U.S. House,1,Collin Duprel,LIB,49
+Butte,22,U.S. House,1,Dusty Johnson,REP,121
+Butte,23,U.S. House,1,Collin Duprel,LIB,49
+Butte,23,U.S. House,1,Dusty Johnson,REP,152
+Butte,24,U.S. House,1,Collin Duprel,LIB,75
+Butte,24,U.S. House,1,Dusty Johnson,REP,212
+Butte,25,U.S. House,1,Collin Duprel,LIB,65
+Butte,25,U.S. House,1,Dusty Johnson,REP,308
+Butte,26,U.S. House,1,Collin Duprel,LIB,55
+Butte,26,U.S. House,1,Dusty Johnson,REP,172
+Butte,27,U.S. House,1,Collin Duprel,LIB,40
+Butte,27,U.S. House,1,Dusty Johnson,REP,163
+Butte,28,U.S. House,1,Collin Duprel,LIB,74
+Butte,28,U.S. House,1,Dusty Johnson,REP,278
+Butte,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,1
+Butte,06,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Butte,06,Governor,,Kristi Noem and Larry Rhoden,REP,38
+Butte,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,0
+Butte,08,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Butte,08,Governor,,Kristi Noem and Larry Rhoden,REP,21
+Butte,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,12
+Butte,11,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Butte,11,Governor,,Kristi Noem and Larry Rhoden,REP,60
+Butte,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,12
+Butte,12,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Butte,12,Governor,,Kristi Noem and Larry Rhoden,REP,72
+Butte,13,Governor,,Jamie Smith and Jennifer Keintz,DEM,36
+Butte,13,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Butte,13,Governor,,Kristi Noem and Larry Rhoden,REP,163
+Butte,14,Governor,,Jamie Smith and Jennifer Keintz,DEM,34
+Butte,14,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Butte,14,Governor,,Kristi Noem and Larry Rhoden,REP,224
+Butte,16,Governor,,Jamie Smith and Jennifer Keintz,DEM,107
+Butte,16,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Butte,16,Governor,,Kristi Noem and Larry Rhoden,REP,580
+Butte,17,Governor,,Jamie Smith and Jennifer Keintz,DEM,61
+Butte,17,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Butte,17,Governor,,Kristi Noem and Larry Rhoden,REP,305
+Butte,18,Governor,,Jamie Smith and Jennifer Keintz,DEM,22
+Butte,18,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Butte,18,Governor,,Kristi Noem and Larry Rhoden,REP,76
+Butte,20,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
+Butte,20,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Butte,20,Governor,,Kristi Noem and Larry Rhoden,REP,156
+Butte,21,Governor,,Jamie Smith and Jennifer Keintz,DEM,62
+Butte,21,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Butte,21,Governor,,Kristi Noem and Larry Rhoden,REP,141
+Butte,22,Governor,,Jamie Smith and Jennifer Keintz,DEM,44
+Butte,22,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Butte,22,Governor,,Kristi Noem and Larry Rhoden,REP,128
+Butte,23,Governor,,Jamie Smith and Jennifer Keintz,DEM,47
+Butte,23,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Butte,23,Governor,,Kristi Noem and Larry Rhoden,REP,152
+Butte,24,Governor,,Jamie Smith and Jennifer Keintz,DEM,73
+Butte,24,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Butte,24,Governor,,Kristi Noem and Larry Rhoden,REP,211
+Butte,25,Governor,,Jamie Smith and Jennifer Keintz,DEM,86
+Butte,25,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Butte,25,Governor,,Kristi Noem and Larry Rhoden,REP,296
+Butte,26,Governor,,Jamie Smith and Jennifer Keintz,DEM,47
+Butte,26,Governor,,Tracey Quint and Ashley Strand,LIB,20
+Butte,26,Governor,,Kristi Noem and Larry Rhoden,REP,170
+Butte,27,Governor,,Jamie Smith and Jennifer Keintz,DEM,43
+Butte,27,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Butte,27,Governor,,Kristi Noem and Larry Rhoden,REP,166
+Butte,28,Governor,,Jamie Smith and Jennifer Keintz,DEM,91
+Butte,28,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Butte,28,Governor,,Kristi Noem and Larry Rhoden,REP,252
+Butte,06,Secretary of State,,Thomas A Cool,DEM,2
+Butte,06,Secretary of State,,Monae Johnson,REP,37
+Butte,08,Secretary of State,,Thomas A Cool,DEM,0
+Butte,08,Secretary of State,,Monae Johnson,REP,21
+Butte,11,Secretary of State,,Thomas A Cool,DEM,8
+Butte,11,Secretary of State,,Monae Johnson,REP,62
+Butte,12,Secretary of State,,Thomas A Cool,DEM,12
+Butte,12,Secretary of State,,Monae Johnson,REP,70
+Butte,13,Secretary of State,,Thomas A Cool,DEM,32
+Butte,13,Secretary of State,,Monae Johnson,REP,166
+Butte,14,Secretary of State,,Thomas A Cool,DEM,37
+Butte,14,Secretary of State,,Monae Johnson,REP,224
+Butte,16,Secretary of State,,Thomas A Cool,DEM,110
+Butte,16,Secretary of State,,Monae Johnson,REP,575
+Butte,17,Secretary of State,,Thomas A Cool,DEM,59
+Butte,17,Secretary of State,,Monae Johnson,REP,307
+Butte,18,Secretary of State,,Thomas A Cool,DEM,27
+Butte,18,Secretary of State,,Monae Johnson,REP,75
+Butte,20,Secretary of State,,Thomas A Cool,DEM,43
+Butte,20,Secretary of State,,Monae Johnson,REP,159
+Butte,21,Secretary of State,,Thomas A Cool,DEM,57
+Butte,21,Secretary of State,,Monae Johnson,REP,146
+Butte,22,Secretary of State,,Thomas A Cool,DEM,37
+Butte,22,Secretary of State,,Monae Johnson,REP,134
+Butte,23,Secretary of State,,Thomas A Cool,DEM,47
+Butte,23,Secretary of State,,Monae Johnson,REP,146
+Butte,24,Secretary of State,,Thomas A Cool,DEM,75
+Butte,24,Secretary of State,,Monae Johnson,REP,207
+Butte,25,Secretary of State,,Thomas A Cool,DEM,89
+Butte,25,Secretary of State,,Monae Johnson,REP,296
+Butte,26,Secretary of State,,Thomas A Cool,DEM,53
+Butte,26,Secretary of State,,Monae Johnson,REP,175
+Butte,27,Secretary of State,,Thomas A Cool,DEM,45
+Butte,27,Secretary of State,,Monae Johnson,REP,162
+Butte,28,Secretary of State,,Thomas A Cool,DEM,91
+Butte,28,Secretary of State,,Monae Johnson,REP,263
+Butte,06,Attorney General,,Marty J. Jackley,REP,37
+Butte,08,Attorney General,,Marty J. Jackley,REP,21
+Butte,11,Attorney General,,Marty J. Jackley,REP,64
+Butte,12,Attorney General,,Marty J. Jackley,REP,69
+Butte,13,Attorney General,,Marty J. Jackley,REP,177
+Butte,14,Attorney General,,Marty J. Jackley,REP,221
+Butte,16,Attorney General,,Marty J. Jackley,REP,592
+Butte,17,Attorney General,,Marty J. Jackley,REP,312
+Butte,18,Attorney General,,Marty J. Jackley,REP,78
+Butte,20,Attorney General,,Marty J. Jackley,REP,174
+Butte,21,Attorney General,,Marty J. Jackley,REP,167
+Butte,22,Attorney General,,Marty J. Jackley,REP,135
+Butte,23,Attorney General,,Marty J. Jackley,REP,163
+Butte,24,Attorney General,,Marty J. Jackley,REP,227
+Butte,25,Attorney General,,Marty J. Jackley,REP,325
+Butte,26,Attorney General,,Marty J. Jackley,REP,195
+Butte,27,Attorney General,,Marty J. Jackley,REP,178
+Butte,28,Attorney General,,Marty J. Jackley,REP,289
+Butte,06,State Auditor,,Stephanie Marty,DEM,2
+Butte,06,State Auditor,,Rene Meyer,LIB,1
+Butte,06,State Auditor,,Richard Sattgast,REP,38
+Butte,08,State Auditor,,Stephanie Marty,DEM,0
+Butte,08,State Auditor,,Rene Meyer,LIB,0
+Butte,08,State Auditor,,Richard Sattgast,REP,21
+Butte,11,State Auditor,,Stephanie Marty,DEM,8
+Butte,11,State Auditor,,Rene Meyer,LIB,2
+Butte,11,State Auditor,,Richard Sattgast,REP,60
+Butte,12,State Auditor,,Stephanie Marty,DEM,11
+Butte,12,State Auditor,,Rene Meyer,LIB,5
+Butte,12,State Auditor,,Richard Sattgast,REP,65
+Butte,13,State Auditor,,Stephanie Marty,DEM,28
+Butte,13,State Auditor,,Rene Meyer,LIB,18
+Butte,13,State Auditor,,Richard Sattgast,REP,147
+Butte,14,State Auditor,,Stephanie Marty,DEM,31
+Butte,14,State Auditor,,Rene Meyer,LIB,20
+Butte,14,State Auditor,,Richard Sattgast,REP,204
+Butte,16,State Auditor,,Stephanie Marty,DEM,101
+Butte,16,State Auditor,,Rene Meyer,LIB,45
+Butte,16,State Auditor,,Richard Sattgast,REP,537
+Butte,17,State Auditor,,Stephanie Marty,DEM,52
+Butte,17,State Auditor,,Rene Meyer,LIB,26
+Butte,17,State Auditor,,Richard Sattgast,REP,283
+Butte,18,State Auditor,,Stephanie Marty,DEM,19
+Butte,18,State Auditor,,Rene Meyer,LIB,13
+Butte,18,State Auditor,,Richard Sattgast,REP,69
+Butte,20,State Auditor,,Stephanie Marty,DEM,41
+Butte,20,State Auditor,,Rene Meyer,LIB,15
+Butte,20,State Auditor,,Richard Sattgast,REP,143
+Butte,21,State Auditor,,Stephanie Marty,DEM,53
+Butte,21,State Auditor,,Rene Meyer,LIB,19
+Butte,21,State Auditor,,Richard Sattgast,REP,131
+Butte,22,State Auditor,,Stephanie Marty,DEM,41
+Butte,22,State Auditor,,Rene Meyer,LIB,19
+Butte,22,State Auditor,,Richard Sattgast,REP,115
+Butte,23,State Auditor,,Stephanie Marty,DEM,41
+Butte,23,State Auditor,,Rene Meyer,LIB,13
+Butte,23,State Auditor,,Richard Sattgast,REP,141
+Butte,24,State Auditor,,Stephanie Marty,DEM,72
+Butte,24,State Auditor,,Rene Meyer,LIB,15
+Butte,24,State Auditor,,Richard Sattgast,REP,197
+Butte,25,State Auditor,,Stephanie Marty,DEM,78
+Butte,25,State Auditor,,Rene Meyer,LIB,13
+Butte,25,State Auditor,,Richard Sattgast,REP,295
+Butte,26,State Auditor,,Stephanie Marty,DEM,47
+Butte,26,State Auditor,,Rene Meyer,LIB,27
+Butte,26,State Auditor,,Richard Sattgast,REP,155
+Butte,27,State Auditor,,Stephanie Marty,DEM,41
+Butte,27,State Auditor,,Rene Meyer,LIB,7
+Butte,27,State Auditor,,Richard Sattgast,REP,159
+Butte,28,State Auditor,,Stephanie Marty,DEM,73
+Butte,28,State Auditor,,Rene Meyer,LIB,18
+Butte,28,State Auditor,,Richard Sattgast,REP,256
+Butte,06,State Treasurer,,John Cunningham,DEM,3
+Butte,06,State Treasurer,,Josh Haeder,REP,38
+Butte,08,State Treasurer,,John Cunningham,DEM,0
+Butte,08,State Treasurer,,Josh Haeder,REP,20
+Butte,11,State Treasurer,,John Cunningham,DEM,7
+Butte,11,State Treasurer,,Josh Haeder,REP,62
+Butte,12,State Treasurer,,John Cunningham,DEM,11
+Butte,12,State Treasurer,,Josh Haeder,REP,69
+Butte,13,State Treasurer,,John Cunningham,DEM,26
+Butte,13,State Treasurer,,Josh Haeder,REP,163
+Butte,14,State Treasurer,,John Cunningham,DEM,33
+Butte,14,State Treasurer,,Josh Haeder,REP,222
+Butte,16,State Treasurer,,John Cunningham,DEM,102
+Butte,16,State Treasurer,,Josh Haeder,REP,574
+Butte,17,State Treasurer,,John Cunningham,DEM,64
+Butte,17,State Treasurer,,Josh Haeder,REP,296
+Butte,18,State Treasurer,,John Cunningham,DEM,25
+Butte,18,State Treasurer,,Josh Haeder,REP,74
+Butte,20,State Treasurer,,John Cunningham,DEM,43
+Butte,20,State Treasurer,,Josh Haeder,REP,158
+Butte,21,State Treasurer,,John Cunningham,DEM,56
+Butte,21,State Treasurer,,Josh Haeder,REP,144
+Butte,22,State Treasurer,,John Cunningham,DEM,35
+Butte,22,State Treasurer,,Josh Haeder,REP,137
+Butte,23,State Treasurer,,John Cunningham,DEM,40
+Butte,23,State Treasurer,,Josh Haeder,REP,153
+Butte,24,State Treasurer,,John Cunningham,DEM,73
+Butte,24,State Treasurer,,Josh Haeder,REP,207
+Butte,25,State Treasurer,,John Cunningham,DEM,80
+Butte,25,State Treasurer,,Josh Haeder,REP,298
+Butte,26,State Treasurer,,John Cunningham,DEM,46
+Butte,26,State Treasurer,,Josh Haeder,REP,174
+Butte,27,State Treasurer,,John Cunningham,DEM,40
+Butte,27,State Treasurer,,Josh Haeder,REP,167
+Butte,28,State Treasurer,,John Cunningham,DEM,85
+Butte,28,State Treasurer,,Josh Haeder,REP,261
+Butte,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,1
+Butte,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,40
+Butte,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,0
+Butte,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,21
+Butte,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,7
+Butte,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,64
+Butte,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
+Butte,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,72
+Butte,13,Commissioner of School and Public Lands,,Timothy Azure,DEM,26
+Butte,13,Commissioner of School and Public Lands,,Brock Greenfield,REP,160
+Butte,14,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Butte,14,Commissioner of School and Public Lands,,Brock Greenfield,REP,217
+Butte,16,Commissioner of School and Public Lands,,Timothy Azure,DEM,98
+Butte,16,Commissioner of School and Public Lands,,Brock Greenfield,REP,574
+Butte,17,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Butte,17,Commissioner of School and Public Lands,,Brock Greenfield,REP,298
+Butte,18,Commissioner of School and Public Lands,,Timothy Azure,DEM,26
+Butte,18,Commissioner of School and Public Lands,,Brock Greenfield,REP,73
+Butte,20,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Butte,20,Commissioner of School and Public Lands,,Brock Greenfield,REP,161
+Butte,21,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Butte,21,Commissioner of School and Public Lands,,Brock Greenfield,REP,147
+Butte,22,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Butte,22,Commissioner of School and Public Lands,,Brock Greenfield,REP,137
+Butte,23,Commissioner of School and Public Lands,,Timothy Azure,DEM,39
+Butte,23,Commissioner of School and Public Lands,,Brock Greenfield,REP,153
+Butte,24,Commissioner of School and Public Lands,,Timothy Azure,DEM,73
+Butte,24,Commissioner of School and Public Lands,,Brock Greenfield,REP,205
+Butte,25,Commissioner of School and Public Lands,,Timothy Azure,DEM,85
+Butte,25,Commissioner of School and Public Lands,,Brock Greenfield,REP,290
+Butte,26,Commissioner of School and Public Lands,,Timothy Azure,DEM,47
+Butte,26,Commissioner of School and Public Lands,,Brock Greenfield,REP,171
+Butte,27,Commissioner of School and Public Lands,,Timothy Azure,DEM,37
+Butte,27,Commissioner of School and Public Lands,,Brock Greenfield,REP,171
+Butte,28,Commissioner of School and Public Lands,,Timothy Azure,DEM,83
+Butte,28,Commissioner of School and Public Lands,,Brock Greenfield,REP,262
+Butte,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,3
+Butte,06,Public Utilities Commissioner,,Chris Nelson,REP,38
+Butte,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,0
+Butte,08,Public Utilities Commissioner,,Chris Nelson,REP,20
+Butte,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
+Butte,11,Public Utilities Commissioner,,Chris Nelson,REP,64
+Butte,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,11
+Butte,12,Public Utilities Commissioner,,Chris Nelson,REP,71
+Butte,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Butte,13,Public Utilities Commissioner,,Chris Nelson,REP,165
+Butte,14,Public Utilities Commissioner,,Jeffrey Barth,DEM,28
+Butte,14,Public Utilities Commissioner,,Chris Nelson,REP,228
+Butte,16,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
+Butte,16,Public Utilities Commissioner,,Chris Nelson,REP,585
+Butte,17,Public Utilities Commissioner,,Jeffrey Barth,DEM,62
+Butte,17,Public Utilities Commissioner,,Chris Nelson,REP,302
+Butte,18,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Butte,18,Public Utilities Commissioner,,Chris Nelson,REP,82
+Butte,20,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Butte,20,Public Utilities Commissioner,,Chris Nelson,REP,165
+Butte,21,Public Utilities Commissioner,,Jeffrey Barth,DEM,52
+Butte,21,Public Utilities Commissioner,,Chris Nelson,REP,149
+Butte,22,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Butte,22,Public Utilities Commissioner,,Chris Nelson,REP,136
+Butte,23,Public Utilities Commissioner,,Jeffrey Barth,DEM,40
+Butte,23,Public Utilities Commissioner,,Chris Nelson,REP,155
+Butte,24,Public Utilities Commissioner,,Jeffrey Barth,DEM,69
+Butte,24,Public Utilities Commissioner,,Chris Nelson,REP,215
+Butte,25,Public Utilities Commissioner,,Jeffrey Barth,DEM,73
+Butte,25,Public Utilities Commissioner,,Chris Nelson,REP,307
+Butte,26,Public Utilities Commissioner,,Jeffrey Barth,DEM,46
+Butte,26,Public Utilities Commissioner,,Chris Nelson,REP,174
+Butte,27,Public Utilities Commissioner,,Jeffrey Barth,DEM,37
+Butte,27,Public Utilities Commissioner,,Chris Nelson,REP,171
+Butte,28,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Butte,28,Public Utilities Commissioner,,Chris Nelson,REP,271
+Butte,06,State Senate,28,Ryan M. Maher,REP,37
+Butte,08,State Senate,28,Ryan M. Maher,REP,19
+Butte,11,State Senate,28,Ryan M. Maher,REP,60
+Butte,12,State Senate,28,Ryan M. Maher,REP,68
+Butte,13,State Senate,28,Ryan M. Maher,REP,167
+Butte,14,State Senate,28,Ryan M. Maher,REP,216
+Butte,16,State Senate,28,Ryan M. Maher,REP,577
+Butte,17,State Senate,28,Ryan M. Maher,REP,305
+Butte,18,State Senate,28,Ryan M. Maher,REP,80
+Butte,20,State Senate,28,Ryan M. Maher,REP,164
+Butte,21,State Senate,28,Ryan M. Maher,REP,154
+Butte,22,State Senate,28,Ryan M. Maher,REP,131
+Butte,23,State Senate,28,Ryan M. Maher,REP,160
+Butte,24,State Senate,28,Ryan M. Maher,REP,220
+Butte,25,State Senate,28,Ryan M. Maher,REP,320
+Butte,26,State Senate,28,Ryan M. Maher,REP,182
+Butte,27,State Senate,28,Ryan M. Maher,REP,176
+Butte,28,State Senate,28,Ryan M. Maher,REP,286
+Butte,06,State House,28B,Neal Pinnow,REP,35
+Butte,06,State House,28B,Calvin Reilly,IND,6
+Butte,08,State House,28B,Neal Pinnow,REP,18
+Butte,08,State House,28B,Calvin Reilly,IND,1
+Butte,11,State House,28B,Neal Pinnow,REP,60
+Butte,11,State House,28B,Calvin Reilly,IND,11
+Butte,12,State House,28B,Neal Pinnow,REP,68
+Butte,12,State House,28B,Calvin Reilly,IND,13
+Butte,13,State House,28B,Neal Pinnow,REP,157
+Butte,13,State House,28B,Calvin Reilly,IND,30
+Butte,14,State House,28B,Neal Pinnow,REP,207
+Butte,14,State House,28B,Calvin Reilly,IND,38
+Butte,16,State House,28B,Neal Pinnow,REP,535
+Butte,16,State House,28B,Calvin Reilly,IND,121
+Butte,17,State House,28B,Neal Pinnow,REP,289
+Butte,17,State House,28B,Calvin Reilly,IND,65
+Butte,18,State House,28B,Neal Pinnow,REP,65
+Butte,18,State House,28B,Calvin Reilly,IND,30
+Butte,20,State House,28B,Neal Pinnow,REP,151
+Butte,20,State House,28B,Calvin Reilly,IND,39
+Butte,21,State House,28B,Neal Pinnow,REP,133
+Butte,21,State House,28B,Calvin Reilly,IND,68
+Butte,22,State House,28B,Neal Pinnow,REP,109
+Butte,22,State House,28B,Calvin Reilly,IND,56
+Butte,23,State House,28B,Neal Pinnow,REP,141
+Butte,23,State House,28B,Calvin Reilly,IND,52
+Butte,24,State House,28B,Neal Pinnow,REP,198
+Butte,24,State House,28B,Calvin Reilly,IND,71
+Butte,25,State House,28B,Neal Pinnow,REP,299
+Butte,25,State House,28B,Calvin Reilly,IND,57
+Butte,26,State House,28B,Neal Pinnow,REP,147
+Butte,26,State House,28B,Calvin Reilly,IND,67
+Butte,27,State House,28B,Neal Pinnow,REP,161
+Butte,27,State House,28B,Calvin Reilly,IND,34
+Butte,28,State House,28B,Neal Pinnow,REP,255
+Butte,28,State House,28B,Calvin Reilly,IND,82
+Butte,06,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,23
+Butte,08,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,13
+Butte,11,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,36
+Butte,12,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,40
+Butte,13,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,105
+Butte,14,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,122
+Butte,16,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,397
+Butte,17,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,202
+Butte,18,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,53
+Butte,20,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,111
+Butte,21,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,105
+Butte,22,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,82
+Butte,23,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,113
+Butte,24,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,153
+Butte,25,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,209
+Butte,26,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,130
+Butte,27,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,125
+Butte,28,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,221
+Butte,06,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,28
+Butte,08,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,16
+Butte,11,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,40
+Butte,12,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,44
+Butte,13,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,114
+Butte,14,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,127
+Butte,16,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,460
+Butte,17,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,246
+Butte,18,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,55
+Butte,20,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,122
+Butte,21,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,129
+Butte,22,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,101
+Butte,23,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,135
+Butte,24,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,184
+Butte,25,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,241
+Butte,26,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,152
+Butte,27,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,152
+Butte,28,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,256
+Butte,06,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,23
+Butte,08,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,13
+Butte,11,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,35
+Butte,12,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,37
+Butte,13,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,108
+Butte,14,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,122
+Butte,16,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,380
+Butte,17,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,197
+Butte,18,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,49
+Butte,20,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,110
+Butte,21,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,100
+Butte,22,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,80
+Butte,23,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,110
+Butte,24,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,153
+Butte,25,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,206
+Butte,26,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,128
+Butte,27,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,120
+Butte,28,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,212
+Butte,06,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,1
+Butte,06,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,3
+Butte,06,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,2
+Butte,06,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,7
+Butte,06,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,19
+Butte,08,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,2
+Butte,08,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,1
+Butte,08,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,0
+Butte,08,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,10
+Butte,08,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,4
+Butte,11,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,1
+Butte,11,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,13
+Butte,11,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,1
+Butte,11,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,22
+Butte,11,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,16
+Butte,12,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Butte,12,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,12
+Butte,12,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,2
+Butte,12,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,15
+Butte,12,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,27
+Butte,13,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,13
+Butte,13,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,15
+Butte,13,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,11
+Butte,13,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,61
+Butte,13,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,67
+Butte,14,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,19
+Butte,14,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,31
+Butte,14,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,13
+Butte,14,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,63
+Butte,14,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,70
+Butte,16,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,26
+Butte,16,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,146
+Butte,16,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,45
+Butte,16,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,189
+Butte,16,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,161
+Butte,17,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,15
+Butte,17,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,74
+Butte,17,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,12
+Butte,17,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,106
+Butte,17,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,72
+Butte,18,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,12
+Butte,18,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,13
+Butte,18,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,5
+Butte,18,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,17
+Butte,18,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,32
+Butte,20,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,12
+Butte,20,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,22
+Butte,20,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,9
+Butte,20,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,57
+Butte,20,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,59
+Butte,21,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,10
+Butte,21,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,41
+Butte,21,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,12
+Butte,21,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,69
+Butte,21,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,37
+Butte,22,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,8
+Butte,22,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,20
+Butte,22,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,9
+Butte,22,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,66
+Butte,22,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,37
+Butte,23,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,8
+Butte,23,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,38
+Butte,23,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,10
+Butte,23,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,65
+Butte,23,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,43
+Butte,24,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,15
+Butte,24,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,66
+Butte,24,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,14
+Butte,24,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,90
+Butte,24,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,54
+Butte,25,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,19
+Butte,25,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,93
+Butte,25,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,26
+Butte,25,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,86
+Butte,25,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,66
+Butte,26,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,15
+Butte,26,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,36
+Butte,26,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,14
+Butte,26,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,76
+Butte,26,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,45
+Butte,27,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,8
+Butte,27,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,65
+Butte,27,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,5
+Butte,27,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,63
+Butte,27,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,41
+Butte,28,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,26
+Butte,28,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,83
+Butte,28,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,13
+Butte,28,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,119
+Butte,28,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,44
+Butte,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,25
+Butte,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,7
+Butte,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,16
+Butte,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,1
+Butte,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,48
+Butte,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Butte,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,57
+Butte,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Butte,13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,142
+Butte,13,Supreme Court Retention,3,Patricia J. DeVaney - No,,23
+Butte,14,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,184
+Butte,14,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Butte,16,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,487
+Butte,16,Supreme Court Retention,3,Patricia J. DeVaney - No,,122
+Butte,17,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,259
+Butte,17,Supreme Court Retention,3,Patricia J. DeVaney - No,,58
+Butte,18,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,72
+Butte,18,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Butte,20,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
+Butte,20,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Butte,21,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,147
+Butte,21,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Butte,22,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,115
+Butte,22,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Butte,23,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,160
+Butte,23,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Butte,24,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,191
+Butte,24,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Butte,25,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,279
+Butte,25,Supreme Court Retention,3,Patricia J. DeVaney - No,,58
+Butte,26,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,155
+Butte,26,Supreme Court Retention,3,Patricia J. DeVaney - No,,43
+Butte,27,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,162
+Butte,27,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Butte,28,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,247
+Butte,28,Supreme Court Retention,3,Patricia J. DeVaney - No,,74
+Butte,06,Supreme Court Retention,2,Mark E. Salter - Yes,,26
+Butte,06,Supreme Court Retention,2,Mark E. Salter - No,,6
+Butte,08,Supreme Court Retention,2,Mark E. Salter - Yes,,16
+Butte,08,Supreme Court Retention,2,Mark E. Salter - No,,1
+Butte,11,Supreme Court Retention,2,Mark E. Salter - Yes,,48
+Butte,11,Supreme Court Retention,2,Mark E. Salter - No,,12
+Butte,12,Supreme Court Retention,2,Mark E. Salter - Yes,,52
+Butte,12,Supreme Court Retention,2,Mark E. Salter - No,,15
+Butte,13,Supreme Court Retention,2,Mark E. Salter - Yes,,142
+Butte,13,Supreme Court Retention,2,Mark E. Salter - No,,24
+Butte,14,Supreme Court Retention,2,Mark E. Salter - Yes,,179
+Butte,14,Supreme Court Retention,2,Mark E. Salter - No,,38
+Butte,16,Supreme Court Retention,2,Mark E. Salter - Yes,,486
+Butte,16,Supreme Court Retention,2,Mark E. Salter - No,,123
+Butte,17,Supreme Court Retention,2,Mark E. Salter - Yes,,271
+Butte,17,Supreme Court Retention,2,Mark E. Salter - No,,49
+Butte,18,Supreme Court Retention,2,Mark E. Salter - Yes,,71
+Butte,18,Supreme Court Retention,2,Mark E. Salter - No,,25
+Butte,20,Supreme Court Retention,2,Mark E. Salter - Yes,,148
+Butte,20,Supreme Court Retention,2,Mark E. Salter - No,,40
+Butte,21,Supreme Court Retention,2,Mark E. Salter - Yes,,143
+Butte,21,Supreme Court Retention,2,Mark E. Salter - No,,44
+Butte,22,Supreme Court Retention,2,Mark E. Salter - Yes,,112
+Butte,22,Supreme Court Retention,2,Mark E. Salter - No,,42
+Butte,23,Supreme Court Retention,2,Mark E. Salter - Yes,,155
+Butte,23,Supreme Court Retention,2,Mark E. Salter - No,,29
+Butte,24,Supreme Court Retention,2,Mark E. Salter - Yes,,189
+Butte,24,Supreme Court Retention,2,Mark E. Salter - No,,59
+Butte,25,Supreme Court Retention,2,Mark E. Salter - Yes,,282
+Butte,25,Supreme Court Retention,2,Mark E. Salter - No,,55
+Butte,26,Supreme Court Retention,2,Mark E. Salter - Yes,,153
+Butte,26,Supreme Court Retention,2,Mark E. Salter - No,,44
+Butte,27,Supreme Court Retention,2,Mark E. Salter - Yes,,160
+Butte,27,Supreme Court Retention,2,Mark E. Salter - No,,25
+Butte,28,Supreme Court Retention,2,Mark E. Salter - Yes,,245
+Butte,28,Supreme Court Retention,2,Mark E. Salter - No,,76
+Butte,06,Constitutional Amendment D,,Yes,,9
+Butte,06,Constitutional Amendment D,,No,,32
+Butte,08,Constitutional Amendment D,,Yes,,0
+Butte,08,Constitutional Amendment D,,No,,21
+Butte,11,Constitutional Amendment D,,Yes,,22
+Butte,11,Constitutional Amendment D,,No,,48
+Butte,12,Constitutional Amendment D,,Yes,,38
+Butte,12,Constitutional Amendment D,,No,,47
+Butte,13,Constitutional Amendment D,,Yes,,78
+Butte,13,Constitutional Amendment D,,No,,122
+Butte,14,Constitutional Amendment D,,Yes,,114
+Butte,14,Constitutional Amendment D,,No,,149
+Butte,16,Constitutional Amendment D,,Yes,,297
+Butte,16,Constitutional Amendment D,,No,,401
+Butte,17,Constitutional Amendment D,,Yes,,152
+Butte,17,Constitutional Amendment D,,No,,221
+Butte,18,Constitutional Amendment D,,Yes,,61
+Butte,18,Constitutional Amendment D,,No,,42
+Butte,20,Constitutional Amendment D,,Yes,,105
+Butte,20,Constitutional Amendment D,,No,,101
+Butte,21,Constitutional Amendment D,,Yes,,128
+Butte,21,Constitutional Amendment D,,No,,81
+Butte,22,Constitutional Amendment D,,Yes,,96
+Butte,22,Constitutional Amendment D,,No,,81
+Butte,23,Constitutional Amendment D,,Yes,,118
+Butte,23,Constitutional Amendment D,,No,,82
+Butte,24,Constitutional Amendment D,,Yes,,169
+Butte,24,Constitutional Amendment D,,No,,119
+Butte,25,Constitutional Amendment D,,Yes,,186
+Butte,25,Constitutional Amendment D,,No,,204
+Butte,26,Constitutional Amendment D,,Yes,,135
+Butte,26,Constitutional Amendment D,,No,,94
+Butte,27,Constitutional Amendment D,,Yes,,117
+Butte,27,Constitutional Amendment D,,No,,92
+Butte,28,Constitutional Amendment D,,Yes,,196
+Butte,28,Constitutional Amendment D,,No,,167
+Butte,06,Initiated Measure 27,,Yes,,4
+Butte,06,Initiated Measure 27,,No,,38
+Butte,08,Initiated Measure 27,,Yes,,0
+Butte,08,Initiated Measure 27,,No,,21
+Butte,11,Initiated Measure 27,,Yes,,22
+Butte,11,Initiated Measure 27,,No,,49
+Butte,12,Initiated Measure 27,,Yes,,17
+Butte,12,Initiated Measure 27,,No,,69
+Butte,13,Initiated Measure 27,,Yes,,41
+Butte,13,Initiated Measure 27,,No,,162
+Butte,14,Initiated Measure 27,,Yes,,57
+Butte,14,Initiated Measure 27,,No,,212
+Butte,16,Initiated Measure 27,,Yes,,223
+Butte,16,Initiated Measure 27,,No,,483
+Butte,17,Initiated Measure 27,,Yes,,111
+Butte,17,Initiated Measure 27,,No,,264
+Butte,18,Initiated Measure 27,,Yes,,52
+Butte,18,Initiated Measure 27,,No,,55
+Butte,20,Initiated Measure 27,,Yes,,72
+Butte,20,Initiated Measure 27,,No,,138
+Butte,21,Initiated Measure 27,,Yes,,107
+Butte,21,Initiated Measure 27,,No,,105
+Butte,22,Initiated Measure 27,,Yes,,94
+Butte,22,Initiated Measure 27,,No,,85
+Butte,23,Initiated Measure 27,,Yes,,95
+Butte,23,Initiated Measure 27,,No,,112
+Butte,24,Initiated Measure 27,,Yes,,137
+Butte,24,Initiated Measure 27,,No,,159
+Butte,25,Initiated Measure 27,,Yes,,134
+Butte,25,Initiated Measure 27,,No,,260
+Butte,26,Initiated Measure 27,,Yes,,104
+Butte,26,Initiated Measure 27,,No,,131
+Butte,27,Initiated Measure 27,,Yes,,79
+Butte,27,Initiated Measure 27,,No,,135
+Butte,28,Initiated Measure 27,,Yes,,149
+Butte,28,Initiated Measure 27,,No,,214

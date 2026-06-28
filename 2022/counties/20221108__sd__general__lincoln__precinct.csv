@@ -1,0 +1,1446 @@
+county,precinct,office,district,candidate,party,votes
+Lincoln,?,U.S. Senate,,Brian L. Bengs,DEM,46
+Lincoln,?,U.S. Senate,,Tamara J Lesnar,LIB,9
+Lincoln,?,U.S. Senate,,John R. Thune,REP,184
+Lincoln,06-Highland & Canton,U.S. Senate,,Brian L. Bengs,DEM,83
+Lincoln,06-Highland & Canton,U.S. Senate,,Tamara J Lesnar,LIB,18
+Lincoln,06-Highland & Canton,U.S. Senate,,John R. Thune,REP,321
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,Brian L. Bengs,DEM,44
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,Tamara J Lesnar,LIB,9
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,John R. Thune,REP,161
+Lincoln,11-Grant,U.S. Senate,,Brian L. Bengs,DEM,42
+Lincoln,11-Grant,U.S. Senate,,Tamara J Lesnar,LIB,5
+Lincoln,11-Grant,U.S. Senate,,John R. Thune,REP,161
+Lincoln,12-Dayton,U.S. Senate,,Brian L. Bengs,DEM,57
+Lincoln,12-Dayton,U.S. Senate,,Tamara J Lesnar,LIB,11
+Lincoln,12-Dayton,U.S. Senate,,John R. Thune,REP,315
+Lincoln,13-LaValley,U.S. Senate,,Brian L. Bengs,DEM,45
+Lincoln,13-LaValley,U.S. Senate,,Tamara J Lesnar,LIB,6
+Lincoln,13-LaValley,U.S. Senate,,John R. Thune,REP,269
+Lincoln,14-Perry,U.S. Senate,,Brian L. Bengs,DEM,81
+Lincoln,14-Perry,U.S. Senate,,Tamara J Lesnar,LIB,21
+Lincoln,14-Perry,U.S. Senate,,John R. Thune,REP,319
+Lincoln,15-Springdale,U.S. Senate,,Brian L. Bengs,DEM,202
+Lincoln,15-Springdale,U.S. Senate,,Tamara J Lesnar,LIB,30
+Lincoln,15-Springdale,U.S. Senate,,John R. Thune,REP,840
+Lincoln,16-Delapre,U.S. Senate,,Brian L. Bengs,DEM,168
+Lincoln,16-Delapre,U.S. Senate,,Tamara J Lesnar,LIB,35
+Lincoln,16-Delapre,U.S. Senate,,John R. Thune,REP,687
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,Brian L. Bengs,DEM,198
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,Tamara J Lesnar,LIB,37
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,John R. Thune,REP,609
+Lincoln,21-Hudson & Eden,U.S. Senate,,Brian L. Bengs,DEM,42
+Lincoln,21-Hudson & Eden,U.S. Senate,,Tamara J Lesnar,LIB,8
+Lincoln,21-Hudson & Eden,U.S. Senate,,John R. Thune,REP,157
+Lincoln,23-Worthing & Lynn,U.S. Senate,,Brian L. Bengs,DEM,89
+Lincoln,23-Worthing & Lynn,U.S. Senate,,Tamara J Lesnar,LIB,26
+Lincoln,23-Worthing & Lynn,U.S. Senate,,John R. Thune,REP,384
+Lincoln,24-Tea,U.S. Senate,,Brian L. Bengs,DEM,458
+Lincoln,24-Tea,U.S. Senate,,Tamara J Lesnar,LIB,80
+Lincoln,24-Tea,U.S. Senate,,John R. Thune,REP,1480
+Lincoln,25-Lennox,U.S. Senate,,Brian L. Bengs,DEM,173
+Lincoln,25-Lennox,U.S. Senate,,Tamara J Lesnar,LIB,40
+Lincoln,25-Lennox,U.S. Senate,,John R. Thune,REP,710
+Lincoln,?,U.S. Senate,,Brian L. Bengs,DEM,78
+Lincoln,?,U.S. Senate,,Tamara J Lesnar,LIB,12
+Lincoln,?,U.S. Senate,,John R. Thune,REP,325
+Lincoln,27-Harrisburg 1,U.S. Senate,,Brian L. Bengs,DEM,306
+Lincoln,27-Harrisburg 1,U.S. Senate,,Tamara J Lesnar,LIB,47
+Lincoln,27-Harrisburg 1,U.S. Senate,,John R. Thune,REP,791
+Lincoln,29-Harrisburg 2,U.S. Senate,,Brian L. Bengs,DEM,279
+Lincoln,29-Harrisburg 2,U.S. Senate,,Tamara J Lesnar,LIB,47
+Lincoln,29-Harrisburg 2,U.S. Senate,,John R. Thune,REP,792
+Lincoln,30-Canton 4 & 5,U.S. Senate,,Brian L. Bengs,DEM,114
+Lincoln,30-Canton 4 & 5,U.S. Senate,,Tamara J Lesnar,LIB,30
+Lincoln,30-Canton 4 & 5,U.S. Senate,,John R. Thune,REP,282
+Lincoln,Sioux Falls 1-11,U.S. Senate,,Brian L. Bengs,DEM,343
+Lincoln,Sioux Falls 1-11,U.S. Senate,,Tamara J Lesnar,LIB,26
+Lincoln,Sioux Falls 1-11,U.S. Senate,,John R. Thune,REP,1115
+Lincoln,Sioux Falls 1-12,U.S. Senate,,Brian L. Bengs,DEM,485
+Lincoln,Sioux Falls 1-12,U.S. Senate,,Tamara J Lesnar,LIB,49
+Lincoln,Sioux Falls 1-12,U.S. Senate,,John R. Thune,REP,978
+Lincoln,Sioux Falls 1-13,U.S. Senate,,Brian L. Bengs,DEM,239
+Lincoln,Sioux Falls 1-13,U.S. Senate,,Tamara J Lesnar,LIB,21
+Lincoln,Sioux Falls 1-13,U.S. Senate,,John R. Thune,REP,344
+Lincoln,Sioux Falls 1-14,U.S. Senate,,Brian L. Bengs,DEM,237
+Lincoln,Sioux Falls 1-14,U.S. Senate,,Tamara J Lesnar,LIB,26
+Lincoln,Sioux Falls 1-14,U.S. Senate,,John R. Thune,REP,609
+Lincoln,Sioux Falls 1-15,U.S. Senate,,Brian L. Bengs,DEM,287
+Lincoln,Sioux Falls 1-15,U.S. Senate,,Tamara J Lesnar,LIB,32
+Lincoln,Sioux Falls 1-15,U.S. Senate,,John R. Thune,REP,462
+Lincoln,Sioux Falls 1-16,U.S. Senate,,Brian L. Bengs,DEM,202
+Lincoln,Sioux Falls 1-16,U.S. Senate,,Tamara J Lesnar,LIB,30
+Lincoln,Sioux Falls 1-16,U.S. Senate,,John R. Thune,REP,385
+Lincoln,Sioux Falls 1-18,U.S. Senate,,Brian L. Bengs,DEM,328
+Lincoln,Sioux Falls 1-18,U.S. Senate,,Tamara J Lesnar,LIB,39
+Lincoln,Sioux Falls 1-18,U.S. Senate,,John R. Thune,REP,978
+Lincoln,Sioux Falls 2-10,U.S. Senate,,Brian L. Bengs,DEM,381
+Lincoln,Sioux Falls 2-10,U.S. Senate,,Tamara J Lesnar,LIB,31
+Lincoln,Sioux Falls 2-10,U.S. Senate,,John R. Thune,REP,1128
+Lincoln,Sioux Falls 2-11,U.S. Senate,,Brian L. Bengs,DEM,552
+Lincoln,Sioux Falls 2-11,U.S. Senate,,Tamara J Lesnar,LIB,32
+Lincoln,Sioux Falls 2-11,U.S. Senate,,John R. Thune,REP,1335
+Lincoln,Sioux Falls 2-12,U.S. Senate,,Brian L. Bengs,DEM,264
+Lincoln,Sioux Falls 2-12,U.S. Senate,,Tamara J Lesnar,LIB,20
+Lincoln,Sioux Falls 2-12,U.S. Senate,,John R. Thune,REP,464
+Lincoln,Sioux Falls 2-13,U.S. Senate,,Brian L. Bengs,DEM,670
+Lincoln,Sioux Falls 2-13,U.S. Senate,,Tamara J Lesnar,LIB,52
+Lincoln,Sioux Falls 2-13,U.S. Senate,,John R. Thune,REP,1171
+Lincoln,Sioux Falls 2-15,U.S. Senate,,Brian L. Bengs,DEM,281
+Lincoln,Sioux Falls 2-15,U.S. Senate,,Tamara J Lesnar,LIB,34
+Lincoln,Sioux Falls 2-15,U.S. Senate,,John R. Thune,REP,844
+Lincoln,Sioux Falls 2-16,U.S. Senate,,Brian L. Bengs,DEM,591
+Lincoln,Sioux Falls 2-16,U.S. Senate,,Tamara J Lesnar,LIB,49
+Lincoln,Sioux Falls 2-16,U.S. Senate,,John R. Thune,REP,1103
+Lincoln,?,U.S. House,1,Collin Duprel,LIB,33
+Lincoln,?,U.S. House,1,Dusty Johnson,REP,200
+Lincoln,06-Highland & Canton,U.S. House,1,Collin Duprel,LIB,72
+Lincoln,06-Highland & Canton,U.S. House,1,Dusty Johnson,REP,337
+Lincoln,08-Lincoln & Delaware,U.S. House,1,Collin Duprel,LIB,34
+Lincoln,08-Lincoln & Delaware,U.S. House,1,Dusty Johnson,REP,175
+Lincoln,11-Grant,U.S. House,1,Collin Duprel,LIB,27
+Lincoln,11-Grant,U.S. House,1,Dusty Johnson,REP,172
+Lincoln,12-Dayton,U.S. House,1,Collin Duprel,LIB,57
+Lincoln,12-Dayton,U.S. House,1,Dusty Johnson,REP,309
+Lincoln,13-LaValley,U.S. House,1,Collin Duprel,LIB,43
+Lincoln,13-LaValley,U.S. House,1,Dusty Johnson,REP,268
+Lincoln,14-Perry,U.S. House,1,Collin Duprel,LIB,82
+Lincoln,14-Perry,U.S. House,1,Dusty Johnson,REP,323
+Lincoln,15-Springdale,U.S. House,1,Collin Duprel,LIB,153
+Lincoln,15-Springdale,U.S. House,1,Dusty Johnson,REP,866
+Lincoln,16-Delapre,U.S. House,1,Collin Duprel,LIB,151
+Lincoln,16-Delapre,U.S. House,1,Dusty Johnson,REP,709
+Lincoln,"20-Canton 1, 2, 3",U.S. House,1,Collin Duprel,LIB,157
+Lincoln,"20-Canton 1, 2, 3",U.S. House,1,Dusty Johnson,REP,639
+Lincoln,21-Hudson & Eden,U.S. House,1,Collin Duprel,LIB,35
+Lincoln,21-Hudson & Eden,U.S. House,1,Dusty Johnson,REP,165
+Lincoln,23-Worthing & Lynn,U.S. House,1,Collin Duprel,LIB,89
+Lincoln,23-Worthing & Lynn,U.S. House,1,Dusty Johnson,REP,397
+Lincoln,24-Tea,U.S. House,1,Collin Duprel,LIB,404
+Lincoln,24-Tea,U.S. House,1,Dusty Johnson,REP,1540
+Lincoln,25-Lennox,U.S. House,1,Collin Duprel,LIB,163
+Lincoln,25-Lennox,U.S. House,1,Dusty Johnson,REP,722
+Lincoln,?,U.S. House,1,Collin Duprel,LIB,66
+Lincoln,?,U.S. House,1,Dusty Johnson,REP,334
+Lincoln,27-Harrisburg 1,U.S. House,1,Collin Duprel,LIB,264
+Lincoln,27-Harrisburg 1,U.S. House,1,Dusty Johnson,REP,821
+Lincoln,29-Harrisburg 2,U.S. House,1,Collin Duprel,LIB,226
+Lincoln,29-Harrisburg 2,U.S. House,1,Dusty Johnson,REP,837
+Lincoln,30-Canton 4 & 5,U.S. House,1,Collin Duprel,LIB,103
+Lincoln,30-Canton 4 & 5,U.S. House,1,Dusty Johnson,REP,308
+Lincoln,Sioux Falls 1-11,U.S. House,1,Collin Duprel,LIB,207
+Lincoln,Sioux Falls 1-11,U.S. House,1,Dusty Johnson,REP,1195
+Lincoln,Sioux Falls 1-12,U.S. House,1,Collin Duprel,LIB,330
+Lincoln,Sioux Falls 1-12,U.S. House,1,Dusty Johnson,REP,1082
+Lincoln,Sioux Falls 1-13,U.S. House,1,Collin Duprel,LIB,179
+Lincoln,Sioux Falls 1-13,U.S. House,1,Dusty Johnson,REP,381
+Lincoln,Sioux Falls 1-14,U.S. House,1,Collin Duprel,LIB,178
+Lincoln,Sioux Falls 1-14,U.S. House,1,Dusty Johnson,REP,641
+Lincoln,Sioux Falls 1-15,U.S. House,1,Collin Duprel,LIB,213
+Lincoln,Sioux Falls 1-15,U.S. House,1,Dusty Johnson,REP,517
+Lincoln,Sioux Falls 1-16,U.S. House,1,Collin Duprel,LIB,160
+Lincoln,Sioux Falls 1-16,U.S. House,1,Dusty Johnson,REP,410
+Lincoln,Sioux Falls 1-18,U.S. House,1,Collin Duprel,LIB,224
+Lincoln,Sioux Falls 1-18,U.S. House,1,Dusty Johnson,REP,1032
+Lincoln,Sioux Falls 2-10,U.S. House,1,Collin Duprel,LIB,220
+Lincoln,Sioux Falls 2-10,U.S. House,1,Dusty Johnson,REP,1224
+Lincoln,Sioux Falls 2-11,U.S. House,1,Collin Duprel,LIB,315
+Lincoln,Sioux Falls 2-11,U.S. House,1,Dusty Johnson,REP,1479
+Lincoln,Sioux Falls 2-12,U.S. House,1,Collin Duprel,LIB,161
+Lincoln,Sioux Falls 2-12,U.S. House,1,Dusty Johnson,REP,525
+Lincoln,Sioux Falls 2-13,U.S. House,1,Collin Duprel,LIB,423
+Lincoln,Sioux Falls 2-13,U.S. House,1,Dusty Johnson,REP,1296
+Lincoln,Sioux Falls 2-15,U.S. House,1,Collin Duprel,LIB,191
+Lincoln,Sioux Falls 2-15,U.S. House,1,Dusty Johnson,REP,898
+Lincoln,Sioux Falls 2-16,U.S. House,1,Collin Duprel,LIB,400
+Lincoln,Sioux Falls 2-16,U.S. House,1,Dusty Johnson,REP,1200
+Lincoln,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Lincoln,?,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lincoln,?,Governor,,Kristi Noem and Larry Rhoden,REP,177
+Lincoln,06-Highland & Canton,Governor,,Jamie Smith and Jennifer Keintz,DEM,128
+Lincoln,06-Highland & Canton,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Lincoln,06-Highland & Canton,Governor,,Kristi Noem and Larry Rhoden,REP,281
+Lincoln,08-Lincoln & Delaware,Governor,,Jamie Smith and Jennifer Keintz,DEM,58
+Lincoln,08-Lincoln & Delaware,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lincoln,08-Lincoln & Delaware,Governor,,Kristi Noem and Larry Rhoden,REP,151
+Lincoln,11-Grant,Governor,,Jamie Smith and Jennifer Keintz,DEM,61
+Lincoln,11-Grant,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lincoln,11-Grant,Governor,,Kristi Noem and Larry Rhoden,REP,145
+Lincoln,12-Dayton,Governor,,Jamie Smith and Jennifer Keintz,DEM,90
+Lincoln,12-Dayton,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Lincoln,12-Dayton,Governor,,Kristi Noem and Larry Rhoden,REP,287
+Lincoln,13-LaValley,Governor,,Jamie Smith and Jennifer Keintz,DEM,65
+Lincoln,13-LaValley,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Lincoln,13-LaValley,Governor,,Kristi Noem and Larry Rhoden,REP,249
+Lincoln,14-Perry,Governor,,Jamie Smith and Jennifer Keintz,DEM,117
+Lincoln,14-Perry,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Lincoln,14-Perry,Governor,,Kristi Noem and Larry Rhoden,REP,292
+Lincoln,15-Springdale,Governor,,Jamie Smith and Jennifer Keintz,DEM,316
+Lincoln,15-Springdale,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Lincoln,15-Springdale,Governor,,Kristi Noem and Larry Rhoden,REP,744
+Lincoln,16-Delapre,Governor,,Jamie Smith and Jennifer Keintz,DEM,257
+Lincoln,16-Delapre,Governor,,Tracey Quint and Ashley Strand,LIB,23
+Lincoln,16-Delapre,Governor,,Kristi Noem and Larry Rhoden,REP,626
+Lincoln,"20-Canton 1, 2, 3",Governor,,Jamie Smith and Jennifer Keintz,DEM,273
+Lincoln,"20-Canton 1, 2, 3",Governor,,Tracey Quint and Ashley Strand,LIB,33
+Lincoln,"20-Canton 1, 2, 3",Governor,,Kristi Noem and Larry Rhoden,REP,541
+Lincoln,21-Hudson & Eden,Governor,,Jamie Smith and Jennifer Keintz,DEM,54
+Lincoln,21-Hudson & Eden,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Lincoln,21-Hudson & Eden,Governor,,Kristi Noem and Larry Rhoden,REP,151
+Lincoln,23-Worthing & Lynn,Governor,,Jamie Smith and Jennifer Keintz,DEM,132
+Lincoln,23-Worthing & Lynn,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Lincoln,23-Worthing & Lynn,Governor,,Kristi Noem and Larry Rhoden,REP,351
+Lincoln,24-Tea,Governor,,Jamie Smith and Jennifer Keintz,DEM,716
+Lincoln,24-Tea,Governor,,Tracey Quint and Ashley Strand,LIB,52
+Lincoln,24-Tea,Governor,,Kristi Noem and Larry Rhoden,REP,1270
+Lincoln,25-Lennox,Governor,,Jamie Smith and Jennifer Keintz,DEM,270
+Lincoln,25-Lennox,Governor,,Tracey Quint and Ashley Strand,LIB,32
+Lincoln,25-Lennox,Governor,,Kristi Noem and Larry Rhoden,REP,625
+Lincoln,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Lincoln,?,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Lincoln,?,Governor,,Kristi Noem and Larry Rhoden,REP,302
+Lincoln,27-Harrisburg 1,Governor,,Jamie Smith and Jennifer Keintz,DEM,430
+Lincoln,27-Harrisburg 1,Governor,,Tracey Quint and Ashley Strand,LIB,32
+Lincoln,27-Harrisburg 1,Governor,,Kristi Noem and Larry Rhoden,REP,695
+Lincoln,29-Harrisburg 2,Governor,,Jamie Smith and Jennifer Keintz,DEM,424
+Lincoln,29-Harrisburg 2,Governor,,Tracey Quint and Ashley Strand,LIB,28
+Lincoln,29-Harrisburg 2,Governor,,Kristi Noem and Larry Rhoden,REP,678
+Lincoln,30-Canton 4 & 5,Governor,,Jamie Smith and Jennifer Keintz,DEM,168
+Lincoln,30-Canton 4 & 5,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Lincoln,30-Canton 4 & 5,Governor,,Kristi Noem and Larry Rhoden,REP,251
+Lincoln,Sioux Falls 1-11,Governor,,Jamie Smith and Jennifer Keintz,DEM,539
+Lincoln,Sioux Falls 1-11,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Lincoln,Sioux Falls 1-11,Governor,,Kristi Noem and Larry Rhoden,REP,923
+Lincoln,Sioux Falls 1-12,Governor,,Jamie Smith and Jennifer Keintz,DEM,662
+Lincoln,Sioux Falls 1-12,Governor,,Tracey Quint and Ashley Strand,LIB,32
+Lincoln,Sioux Falls 1-12,Governor,,Kristi Noem and Larry Rhoden,REP,822
+Lincoln,Sioux Falls 1-13,Governor,,Jamie Smith and Jennifer Keintz,DEM,289
+Lincoln,Sioux Falls 1-13,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Lincoln,Sioux Falls 1-13,Governor,,Kristi Noem and Larry Rhoden,REP,310
+Lincoln,Sioux Falls 1-14,Governor,,Jamie Smith and Jennifer Keintz,DEM,363
+Lincoln,Sioux Falls 1-14,Governor,,Tracey Quint and Ashley Strand,LIB,24
+Lincoln,Sioux Falls 1-14,Governor,,Kristi Noem and Larry Rhoden,REP,495
+Lincoln,Sioux Falls 1-15,Governor,,Jamie Smith and Jennifer Keintz,DEM,407
+Lincoln,Sioux Falls 1-15,Governor,,Tracey Quint and Ashley Strand,LIB,23
+Lincoln,Sioux Falls 1-15,Governor,,Kristi Noem and Larry Rhoden,REP,350
+Lincoln,Sioux Falls 1-16,Governor,,Jamie Smith and Jennifer Keintz,DEM,282
+Lincoln,Sioux Falls 1-16,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Lincoln,Sioux Falls 1-16,Governor,,Kristi Noem and Larry Rhoden,REP,317
+Lincoln,Sioux Falls 1-18,Governor,,Jamie Smith and Jennifer Keintz,DEM,518
+Lincoln,Sioux Falls 1-18,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Lincoln,Sioux Falls 1-18,Governor,,Kristi Noem and Larry Rhoden,REP,808
+Lincoln,Sioux Falls 2-10,Governor,,Jamie Smith and Jennifer Keintz,DEM,578
+Lincoln,Sioux Falls 2-10,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Lincoln,Sioux Falls 2-10,Governor,,Kristi Noem and Larry Rhoden,REP,950
+Lincoln,Sioux Falls 2-11,Governor,,Jamie Smith and Jennifer Keintz,DEM,821
+Lincoln,Sioux Falls 2-11,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Lincoln,Sioux Falls 2-11,Governor,,Kristi Noem and Larry Rhoden,REP,1097
+Lincoln,Sioux Falls 2-12,Governor,,Jamie Smith and Jennifer Keintz,DEM,365
+Lincoln,Sioux Falls 2-12,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Lincoln,Sioux Falls 2-12,Governor,,Kristi Noem and Larry Rhoden,REP,374
+Lincoln,Sioux Falls 2-13,Governor,,Jamie Smith and Jennifer Keintz,DEM,924
+Lincoln,Sioux Falls 2-13,Governor,,Tracey Quint and Ashley Strand,LIB,23
+Lincoln,Sioux Falls 2-13,Governor,,Kristi Noem and Larry Rhoden,REP,948
+Lincoln,Sioux Falls 2-15,Governor,,Jamie Smith and Jennifer Keintz,DEM,466
+Lincoln,Sioux Falls 2-15,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Lincoln,Sioux Falls 2-15,Governor,,Kristi Noem and Larry Rhoden,REP,681
+Lincoln,Sioux Falls 2-16,Governor,,Jamie Smith and Jennifer Keintz,DEM,788
+Lincoln,Sioux Falls 2-16,Governor,,Tracey Quint and Ashley Strand,LIB,33
+Lincoln,Sioux Falls 2-16,Governor,,Kristi Noem and Larry Rhoden,REP,937
+Lincoln,?,Secretary of State,,Thomas A Cool,DEM,56
+Lincoln,?,Secretary of State,,Monae Johnson,REP,177
+Lincoln,06-Highland & Canton,Secretary of State,,Thomas A Cool,DEM,122
+Lincoln,06-Highland & Canton,Secretary of State,,Monae Johnson,REP,283
+Lincoln,08-Lincoln & Delaware,Secretary of State,,Thomas A Cool,DEM,60
+Lincoln,08-Lincoln & Delaware,Secretary of State,,Monae Johnson,REP,146
+Lincoln,11-Grant,Secretary of State,,Thomas A Cool,DEM,62
+Lincoln,11-Grant,Secretary of State,,Monae Johnson,REP,136
+Lincoln,12-Dayton,Secretary of State,,Thomas A Cool,DEM,76
+Lincoln,12-Dayton,Secretary of State,,Monae Johnson,REP,282
+Lincoln,13-LaValley,Secretary of State,,Thomas A Cool,DEM,69
+Lincoln,13-LaValley,Secretary of State,,Monae Johnson,REP,240
+Lincoln,14-Perry,Secretary of State,,Thomas A Cool,DEM,121
+Lincoln,14-Perry,Secretary of State,,Monae Johnson,REP,273
+Lincoln,15-Springdale,Secretary of State,,Thomas A Cool,DEM,288
+Lincoln,15-Springdale,Secretary of State,,Monae Johnson,REP,742
+Lincoln,16-Delapre,Secretary of State,,Thomas A Cool,DEM,247
+Lincoln,16-Delapre,Secretary of State,,Monae Johnson,REP,615
+Lincoln,"20-Canton 1, 2, 3",Secretary of State,,Thomas A Cool,DEM,279
+Lincoln,"20-Canton 1, 2, 3",Secretary of State,,Monae Johnson,REP,508
+Lincoln,21-Hudson & Eden,Secretary of State,,Thomas A Cool,DEM,61
+Lincoln,21-Hudson & Eden,Secretary of State,,Monae Johnson,REP,130
+Lincoln,23-Worthing & Lynn,Secretary of State,,Thomas A Cool,DEM,132
+Lincoln,23-Worthing & Lynn,Secretary of State,,Monae Johnson,REP,332
+Lincoln,24-Tea,Secretary of State,,Thomas A Cool,DEM,627
+Lincoln,24-Tea,Secretary of State,,Monae Johnson,REP,1253
+Lincoln,25-Lennox,Secretary of State,,Thomas A Cool,DEM,256
+Lincoln,25-Lennox,Secretary of State,,Monae Johnson,REP,609
+Lincoln,?,Secretary of State,,Thomas A Cool,DEM,113
+Lincoln,?,Secretary of State,,Monae Johnson,REP,283
+Lincoln,27-Harrisburg 1,Secretary of State,,Thomas A Cool,DEM,404
+Lincoln,27-Harrisburg 1,Secretary of State,,Monae Johnson,REP,693
+Lincoln,29-Harrisburg 2,Secretary of State,,Thomas A Cool,DEM,367
+Lincoln,29-Harrisburg 2,Secretary of State,,Monae Johnson,REP,676
+Lincoln,30-Canton 4 & 5,Secretary of State,,Thomas A Cool,DEM,158
+Lincoln,30-Canton 4 & 5,Secretary of State,,Monae Johnson,REP,242
+Lincoln,Sioux Falls 1-11,Secretary of State,,Thomas A Cool,DEM,505
+Lincoln,Sioux Falls 1-11,Secretary of State,,Monae Johnson,REP,919
+Lincoln,Sioux Falls 1-12,Secretary of State,,Thomas A Cool,DEM,616
+Lincoln,Sioux Falls 1-12,Secretary of State,,Monae Johnson,REP,807
+Lincoln,Sioux Falls 1-13,Secretary of State,,Thomas A Cool,DEM,282
+Lincoln,Sioux Falls 1-13,Secretary of State,,Monae Johnson,REP,294
+Lincoln,Sioux Falls 1-14,Secretary of State,,Thomas A Cool,DEM,324
+Lincoln,Sioux Falls 1-14,Secretary of State,,Monae Johnson,REP,495
+Lincoln,Sioux Falls 1-15,Secretary of State,,Thomas A Cool,DEM,388
+Lincoln,Sioux Falls 1-15,Secretary of State,,Monae Johnson,REP,354
+Lincoln,Sioux Falls 1-16,Secretary of State,,Thomas A Cool,DEM,264
+Lincoln,Sioux Falls 1-16,Secretary of State,,Monae Johnson,REP,319
+Lincoln,Sioux Falls 1-18,Secretary of State,,Thomas A Cool,DEM,446
+Lincoln,Sioux Falls 1-18,Secretary of State,,Monae Johnson,REP,809
+Lincoln,Sioux Falls 2-10,Secretary of State,,Thomas A Cool,DEM,533
+Lincoln,Sioux Falls 2-10,Secretary of State,,Monae Johnson,REP,952
+Lincoln,Sioux Falls 2-11,Secretary of State,,Thomas A Cool,DEM,752
+Lincoln,Sioux Falls 2-11,Secretary of State,,Monae Johnson,REP,1107
+Lincoln,Sioux Falls 2-12,Secretary of State,,Thomas A Cool,DEM,329
+Lincoln,Sioux Falls 2-12,Secretary of State,,Monae Johnson,REP,393
+Lincoln,Sioux Falls 2-13,Secretary of State,,Thomas A Cool,DEM,843
+Lincoln,Sioux Falls 2-13,Secretary of State,,Monae Johnson,REP,957
+Lincoln,Sioux Falls 2-15,Secretary of State,,Thomas A Cool,DEM,417
+Lincoln,Sioux Falls 2-15,Secretary of State,,Monae Johnson,REP,675
+Lincoln,Sioux Falls 2-16,Secretary of State,,Thomas A Cool,DEM,719
+Lincoln,Sioux Falls 2-16,Secretary of State,,Monae Johnson,REP,941
+Lincoln,?,Attorney General,,Marty J. Jackley,REP,186
+Lincoln,06-Highland & Canton,Attorney General,,Marty J. Jackley,REP,340
+Lincoln,08-Lincoln & Delaware,Attorney General,,Marty J. Jackley,REP,168
+Lincoln,11-Grant,Attorney General,,Marty J. Jackley,REP,167
+Lincoln,12-Dayton,Attorney General,,Marty J. Jackley,REP,312
+Lincoln,13-LaValley,Attorney General,,Marty J. Jackley,REP,271
+Lincoln,14-Perry,Attorney General,,Marty J. Jackley,REP,325
+Lincoln,15-Springdale,Attorney General,,Marty J. Jackley,REP,852
+Lincoln,16-Delapre,Attorney General,,Marty J. Jackley,REP,718
+Lincoln,"20-Canton 1, 2, 3",Attorney General,,Marty J. Jackley,REP,637
+Lincoln,21-Hudson & Eden,Attorney General,,Marty J. Jackley,REP,159
+Lincoln,23-Worthing & Lynn,Attorney General,,Marty J. Jackley,REP,381
+Lincoln,24-Tea,Attorney General,,Marty J. Jackley,REP,1532
+Lincoln,25-Lennox,Attorney General,,Marty J. Jackley,REP,723
+Lincoln,?,Attorney General,,Marty J. Jackley,REP,323
+Lincoln,27-Harrisburg 1,Attorney General,,Marty J. Jackley,REP,861
+Lincoln,29-Harrisburg 2,Attorney General,,Marty J. Jackley,REP,852
+Lincoln,30-Canton 4 & 5,Attorney General,,Marty J. Jackley,REP,311
+Lincoln,Sioux Falls 1-11,Attorney General,,Marty J. Jackley,REP,1190
+Lincoln,Sioux Falls 1-12,Attorney General,,Marty J. Jackley,REP,1047
+Lincoln,Sioux Falls 1-13,Attorney General,,Marty J. Jackley,REP,408
+Lincoln,Sioux Falls 1-14,Attorney General,,Marty J. Jackley,REP,634
+Lincoln,Sioux Falls 1-15,Attorney General,,Marty J. Jackley,REP,510
+Lincoln,Sioux Falls 1-16,Attorney General,,Marty J. Jackley,REP,406
+Lincoln,Sioux Falls 1-18,Attorney General,,Marty J. Jackley,REP,1007
+Lincoln,Sioux Falls 2-10,Attorney General,,Marty J. Jackley,REP,1177
+Lincoln,Sioux Falls 2-11,Attorney General,,Marty J. Jackley,REP,1438
+Lincoln,Sioux Falls 2-12,Attorney General,,Marty J. Jackley,REP,511
+Lincoln,Sioux Falls 2-13,Attorney General,,Marty J. Jackley,REP,1292
+Lincoln,Sioux Falls 2-15,Attorney General,,Marty J. Jackley,REP,885
+Lincoln,Sioux Falls 2-16,Attorney General,,Marty J. Jackley,REP,1224
+Lincoln,?,State Auditor,,Stephanie Marty,DEM,53
+Lincoln,?,State Auditor,,Rene Meyer,LIB,9
+Lincoln,?,State Auditor,,Richard Sattgast,REP,167
+Lincoln,06-Highland & Canton,State Auditor,,Stephanie Marty,DEM,94
+Lincoln,06-Highland & Canton,State Auditor,,Rene Meyer,LIB,18
+Lincoln,06-Highland & Canton,State Auditor,,Richard Sattgast,REP,293
+Lincoln,08-Lincoln & Delaware,State Auditor,,Stephanie Marty,DEM,49
+Lincoln,08-Lincoln & Delaware,State Auditor,,Rene Meyer,LIB,9
+Lincoln,08-Lincoln & Delaware,State Auditor,,Richard Sattgast,REP,143
+Lincoln,11-Grant,State Auditor,,Stephanie Marty,DEM,57
+Lincoln,11-Grant,State Auditor,,Rene Meyer,LIB,6
+Lincoln,11-Grant,State Auditor,,Richard Sattgast,REP,131
+Lincoln,12-Dayton,State Auditor,,Stephanie Marty,DEM,63
+Lincoln,12-Dayton,State Auditor,,Rene Meyer,LIB,11
+Lincoln,12-Dayton,State Auditor,,Richard Sattgast,REP,285
+Lincoln,13-LaValley,State Auditor,,Stephanie Marty,DEM,51
+Lincoln,13-LaValley,State Auditor,,Rene Meyer,LIB,10
+Lincoln,13-LaValley,State Auditor,,Richard Sattgast,REP,243
+Lincoln,14-Perry,State Auditor,,Stephanie Marty,DEM,100
+Lincoln,14-Perry,State Auditor,,Rene Meyer,LIB,22
+Lincoln,14-Perry,State Auditor,,Richard Sattgast,REP,275
+Lincoln,15-Springdale,State Auditor,,Stephanie Marty,DEM,231
+Lincoln,15-Springdale,State Auditor,,Rene Meyer,LIB,35
+Lincoln,15-Springdale,State Auditor,,Richard Sattgast,REP,751
+Lincoln,16-Delapre,State Auditor,,Stephanie Marty,DEM,206
+Lincoln,16-Delapre,State Auditor,,Rene Meyer,LIB,25
+Lincoln,16-Delapre,State Auditor,,Richard Sattgast,REP,616
+Lincoln,"20-Canton 1, 2, 3",State Auditor,,Stephanie Marty,DEM,223
+Lincoln,"20-Canton 1, 2, 3",State Auditor,,Rene Meyer,LIB,41
+Lincoln,"20-Canton 1, 2, 3",State Auditor,,Richard Sattgast,REP,510
+Lincoln,21-Hudson & Eden,State Auditor,,Stephanie Marty,DEM,54
+Lincoln,21-Hudson & Eden,State Auditor,,Rene Meyer,LIB,11
+Lincoln,21-Hudson & Eden,State Auditor,,Richard Sattgast,REP,129
+Lincoln,23-Worthing & Lynn,State Auditor,,Stephanie Marty,DEM,111
+Lincoln,23-Worthing & Lynn,State Auditor,,Rene Meyer,LIB,38
+Lincoln,23-Worthing & Lynn,State Auditor,,Richard Sattgast,REP,316
+Lincoln,24-Tea,State Auditor,,Stephanie Marty,DEM,550
+Lincoln,24-Tea,State Auditor,,Rene Meyer,LIB,110
+Lincoln,24-Tea,State Auditor,,Richard Sattgast,REP,1206
+Lincoln,25-Lennox,State Auditor,,Stephanie Marty,DEM,216
+Lincoln,25-Lennox,State Auditor,,Rene Meyer,LIB,58
+Lincoln,25-Lennox,State Auditor,,Richard Sattgast,REP,570
+Lincoln,?,State Auditor,,Stephanie Marty,DEM,98
+Lincoln,?,State Auditor,,Rene Meyer,LIB,16
+Lincoln,?,State Auditor,,Richard Sattgast,REP,282
+Lincoln,27-Harrisburg 1,State Auditor,,Stephanie Marty,DEM,334
+Lincoln,27-Harrisburg 1,State Auditor,,Rene Meyer,LIB,69
+Lincoln,27-Harrisburg 1,State Auditor,,Richard Sattgast,REP,677
+Lincoln,29-Harrisburg 2,State Auditor,,Stephanie Marty,DEM,304
+Lincoln,29-Harrisburg 2,State Auditor,,Rene Meyer,LIB,73
+Lincoln,29-Harrisburg 2,State Auditor,,Richard Sattgast,REP,666
+Lincoln,30-Canton 4 & 5,State Auditor,,Stephanie Marty,DEM,138
+Lincoln,30-Canton 4 & 5,State Auditor,,Rene Meyer,LIB,23
+Lincoln,30-Canton 4 & 5,State Auditor,,Richard Sattgast,REP,238
+Lincoln,Sioux Falls 1-11,State Auditor,,Stephanie Marty,DEM,425
+Lincoln,Sioux Falls 1-11,State Auditor,,Rene Meyer,LIB,34
+Lincoln,Sioux Falls 1-11,State Auditor,,Richard Sattgast,REP,962
+Lincoln,Sioux Falls 1-12,State Auditor,,Stephanie Marty,DEM,528
+Lincoln,Sioux Falls 1-12,State Auditor,,Rene Meyer,LIB,65
+Lincoln,Sioux Falls 1-12,State Auditor,,Richard Sattgast,REP,797
+Lincoln,Sioux Falls 1-13,State Auditor,,Stephanie Marty,DEM,256
+Lincoln,Sioux Falls 1-13,State Auditor,,Rene Meyer,LIB,27
+Lincoln,Sioux Falls 1-13,State Auditor,,Richard Sattgast,REP,284
+Lincoln,Sioux Falls 1-14,State Auditor,,Stephanie Marty,DEM,286
+Lincoln,Sioux Falls 1-14,State Auditor,,Rene Meyer,LIB,38
+Lincoln,Sioux Falls 1-14,State Auditor,,Richard Sattgast,REP,480
+Lincoln,Sioux Falls 1-15,State Auditor,,Stephanie Marty,DEM,336
+Lincoln,Sioux Falls 1-15,State Auditor,,Rene Meyer,LIB,43
+Lincoln,Sioux Falls 1-15,State Auditor,,Richard Sattgast,REP,352
+Lincoln,Sioux Falls 1-16,State Auditor,,Stephanie Marty,DEM,231
+Lincoln,Sioux Falls 1-16,State Auditor,,Rene Meyer,LIB,38
+Lincoln,Sioux Falls 1-16,State Auditor,,Richard Sattgast,REP,305
+Lincoln,Sioux Falls 1-18,State Auditor,,Stephanie Marty,DEM,390
+Lincoln,Sioux Falls 1-18,State Auditor,,Rene Meyer,LIB,46
+Lincoln,Sioux Falls 1-18,State Auditor,,Richard Sattgast,REP,807
+Lincoln,Sioux Falls 2-10,State Auditor,,Stephanie Marty,DEM,435
+Lincoln,Sioux Falls 2-10,State Auditor,,Rene Meyer,LIB,34
+Lincoln,Sioux Falls 2-10,State Auditor,,Richard Sattgast,REP,1006
+Lincoln,Sioux Falls 2-11,State Auditor,,Stephanie Marty,DEM,655
+Lincoln,Sioux Falls 2-11,State Auditor,,Rene Meyer,LIB,45
+Lincoln,Sioux Falls 2-11,State Auditor,,Richard Sattgast,REP,1146
+Lincoln,Sioux Falls 2-12,State Auditor,,Stephanie Marty,DEM,265
+Lincoln,Sioux Falls 2-12,State Auditor,,Rene Meyer,LIB,28
+Lincoln,Sioux Falls 2-12,State Auditor,,Richard Sattgast,REP,413
+Lincoln,Sioux Falls 2-13,State Auditor,,Stephanie Marty,DEM,741
+Lincoln,Sioux Falls 2-13,State Auditor,,Rene Meyer,LIB,69
+Lincoln,Sioux Falls 2-13,State Auditor,,Richard Sattgast,REP,984
+Lincoln,Sioux Falls 2-15,State Auditor,,Stephanie Marty,DEM,338
+Lincoln,Sioux Falls 2-15,State Auditor,,Rene Meyer,LIB,36
+Lincoln,Sioux Falls 2-15,State Auditor,,Richard Sattgast,REP,719
+Lincoln,Sioux Falls 2-16,State Auditor,,Stephanie Marty,DEM,643
+Lincoln,Sioux Falls 2-16,State Auditor,,Rene Meyer,LIB,57
+Lincoln,Sioux Falls 2-16,State Auditor,,Richard Sattgast,REP,936
+Lincoln,?,State Treasurer,,John Cunningham,DEM,57
+Lincoln,?,State Treasurer,,Josh Haeder,REP,177
+Lincoln,06-Highland & Canton,State Treasurer,,John Cunningham,DEM,110
+Lincoln,06-Highland & Canton,State Treasurer,,Josh Haeder,REP,290
+Lincoln,08-Lincoln & Delaware,State Treasurer,,John Cunningham,DEM,53
+Lincoln,08-Lincoln & Delaware,State Treasurer,,Josh Haeder,REP,147
+Lincoln,11-Grant,State Treasurer,,John Cunningham,DEM,52
+Lincoln,11-Grant,State Treasurer,,Josh Haeder,REP,138
+Lincoln,12-Dayton,State Treasurer,,John Cunningham,DEM,68
+Lincoln,12-Dayton,State Treasurer,,Josh Haeder,REP,284
+Lincoln,13-LaValley,State Treasurer,,John Cunningham,DEM,57
+Lincoln,13-LaValley,State Treasurer,,Josh Haeder,REP,247
+Lincoln,14-Perry,State Treasurer,,John Cunningham,DEM,108
+Lincoln,14-Perry,State Treasurer,,Josh Haeder,REP,278
+Lincoln,15-Springdale,State Treasurer,,John Cunningham,DEM,250
+Lincoln,15-Springdale,State Treasurer,,Josh Haeder,REP,756
+Lincoln,16-Delapre,State Treasurer,,John Cunningham,DEM,208
+Lincoln,16-Delapre,State Treasurer,,Josh Haeder,REP,637
+Lincoln,"20-Canton 1, 2, 3",State Treasurer,,John Cunningham,DEM,237
+Lincoln,"20-Canton 1, 2, 3",State Treasurer,,Josh Haeder,REP,537
+Lincoln,21-Hudson & Eden,State Treasurer,,John Cunningham,DEM,55
+Lincoln,21-Hudson & Eden,State Treasurer,,Josh Haeder,REP,142
+Lincoln,23-Worthing & Lynn,State Treasurer,,John Cunningham,DEM,122
+Lincoln,23-Worthing & Lynn,State Treasurer,,Josh Haeder,REP,339
+Lincoln,24-Tea,State Treasurer,,John Cunningham,DEM,530
+Lincoln,24-Tea,State Treasurer,,Josh Haeder,REP,1313
+Lincoln,25-Lennox,State Treasurer,,John Cunningham,DEM,220
+Lincoln,25-Lennox,State Treasurer,,Josh Haeder,REP,622
+Lincoln,?,State Treasurer,,John Cunningham,DEM,101
+Lincoln,?,State Treasurer,,Josh Haeder,REP,290
+Lincoln,27-Harrisburg 1,State Treasurer,,John Cunningham,DEM,351
+Lincoln,27-Harrisburg 1,State Treasurer,,Josh Haeder,REP,714
+Lincoln,29-Harrisburg 2,State Treasurer,,John Cunningham,DEM,340
+Lincoln,29-Harrisburg 2,State Treasurer,,Josh Haeder,REP,695
+Lincoln,30-Canton 4 & 5,State Treasurer,,John Cunningham,DEM,147
+Lincoln,30-Canton 4 & 5,State Treasurer,,Josh Haeder,REP,247
+Lincoln,Sioux Falls 1-11,State Treasurer,,John Cunningham,DEM,434
+Lincoln,Sioux Falls 1-11,State Treasurer,,Josh Haeder,REP,967
+Lincoln,Sioux Falls 1-12,State Treasurer,,John Cunningham,DEM,523
+Lincoln,Sioux Falls 1-12,State Treasurer,,Josh Haeder,REP,852
+Lincoln,Sioux Falls 1-13,State Treasurer,,John Cunningham,DEM,251
+Lincoln,Sioux Falls 1-13,State Treasurer,,Josh Haeder,REP,312
+Lincoln,Sioux Falls 1-14,State Treasurer,,John Cunningham,DEM,279
+Lincoln,Sioux Falls 1-14,State Treasurer,,Josh Haeder,REP,510
+Lincoln,Sioux Falls 1-15,State Treasurer,,John Cunningham,DEM,333
+Lincoln,Sioux Falls 1-15,State Treasurer,,Josh Haeder,REP,390
+Lincoln,Sioux Falls 1-16,State Treasurer,,John Cunningham,DEM,234
+Lincoln,Sioux Falls 1-16,State Treasurer,,Josh Haeder,REP,339
+Lincoln,Sioux Falls 1-18,State Treasurer,,John Cunningham,DEM,397
+Lincoln,Sioux Falls 1-18,State Treasurer,,Josh Haeder,REP,834
+Lincoln,Sioux Falls 2-10,State Treasurer,,John Cunningham,DEM,437
+Lincoln,Sioux Falls 2-10,State Treasurer,,Josh Haeder,REP,1021
+Lincoln,Sioux Falls 2-11,State Treasurer,,John Cunningham,DEM,661
+Lincoln,Sioux Falls 2-11,State Treasurer,,Josh Haeder,REP,1177
+Lincoln,Sioux Falls 2-12,State Treasurer,,John Cunningham,DEM,278
+Lincoln,Sioux Falls 2-12,State Treasurer,,Josh Haeder,REP,417
+Lincoln,Sioux Falls 2-13,State Treasurer,,John Cunningham,DEM,739
+Lincoln,Sioux Falls 2-13,State Treasurer,,Josh Haeder,REP,1018
+Lincoln,Sioux Falls 2-15,State Treasurer,,John Cunningham,DEM,329
+Lincoln,Sioux Falls 2-15,State Treasurer,,Josh Haeder,REP,745
+Lincoln,Sioux Falls 2-16,State Treasurer,,John Cunningham,DEM,623
+Lincoln,Sioux Falls 2-16,State Treasurer,,Josh Haeder,REP,998
+Lincoln,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,58
+Lincoln,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Timothy Azure,DEM,93
+Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Brock Greenfield,REP,297
+Lincoln,08-Lincoln & Delaware,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Lincoln,08-Lincoln & Delaware,Commissioner of School and Public Lands,,Brock Greenfield,REP,140
+Lincoln,11-Grant,Commissioner of School and Public Lands,,Timothy Azure,DEM,56
+Lincoln,11-Grant,Commissioner of School and Public Lands,,Brock Greenfield,REP,140
+Lincoln,12-Dayton,Commissioner of School and Public Lands,,Timothy Azure,DEM,68
+Lincoln,12-Dayton,Commissioner of School and Public Lands,,Brock Greenfield,REP,277
+Lincoln,13-LaValley,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Lincoln,13-LaValley,Commissioner of School and Public Lands,,Brock Greenfield,REP,242
+Lincoln,14-Perry,Commissioner of School and Public Lands,,Timothy Azure,DEM,101
+Lincoln,14-Perry,Commissioner of School and Public Lands,,Brock Greenfield,REP,275
+Lincoln,15-Springdale,Commissioner of School and Public Lands,,Timothy Azure,DEM,246
+Lincoln,15-Springdale,Commissioner of School and Public Lands,,Brock Greenfield,REP,748
+Lincoln,16-Delapre,Commissioner of School and Public Lands,,Timothy Azure,DEM,200
+Lincoln,16-Delapre,Commissioner of School and Public Lands,,Brock Greenfield,REP,625
+Lincoln,"20-Canton 1, 2, 3",Commissioner of School and Public Lands,,Timothy Azure,DEM,238
+Lincoln,"20-Canton 1, 2, 3",Commissioner of School and Public Lands,,Brock Greenfield,REP,515
+Lincoln,21-Hudson & Eden,Commissioner of School and Public Lands,,Timothy Azure,DEM,49
+Lincoln,21-Hudson & Eden,Commissioner of School and Public Lands,,Brock Greenfield,REP,138
+Lincoln,23-Worthing & Lynn,Commissioner of School and Public Lands,,Timothy Azure,DEM,117
+Lincoln,23-Worthing & Lynn,Commissioner of School and Public Lands,,Brock Greenfield,REP,341
+Lincoln,24-Tea,Commissioner of School and Public Lands,,Timothy Azure,DEM,552
+Lincoln,24-Tea,Commissioner of School and Public Lands,,Brock Greenfield,REP,1268
+Lincoln,25-Lennox,Commissioner of School and Public Lands,,Timothy Azure,DEM,215
+Lincoln,25-Lennox,Commissioner of School and Public Lands,,Brock Greenfield,REP,626
+Lincoln,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
+Lincoln,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,294
+Lincoln,27-Harrisburg 1,Commissioner of School and Public Lands,,Timothy Azure,DEM,357
+Lincoln,27-Harrisburg 1,Commissioner of School and Public Lands,,Brock Greenfield,REP,693
+Lincoln,29-Harrisburg 2,Commissioner of School and Public Lands,,Timothy Azure,DEM,339
+Lincoln,29-Harrisburg 2,Commissioner of School and Public Lands,,Brock Greenfield,REP,675
+Lincoln,30-Canton 4 & 5,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
+Lincoln,30-Canton 4 & 5,Commissioner of School and Public Lands,,Brock Greenfield,REP,250
+Lincoln,Sioux Falls 1-11,Commissioner of School and Public Lands,,Timothy Azure,DEM,431
+Lincoln,Sioux Falls 1-11,Commissioner of School and Public Lands,,Brock Greenfield,REP,954
+Lincoln,Sioux Falls 1-12,Commissioner of School and Public Lands,,Timothy Azure,DEM,537
+Lincoln,Sioux Falls 1-12,Commissioner of School and Public Lands,,Brock Greenfield,REP,834
+Lincoln,Sioux Falls 1-13,Commissioner of School and Public Lands,,Timothy Azure,DEM,259
+Lincoln,Sioux Falls 1-13,Commissioner of School and Public Lands,,Brock Greenfield,REP,301
+Lincoln,Sioux Falls 1-14,Commissioner of School and Public Lands,,Timothy Azure,DEM,281
+Lincoln,Sioux Falls 1-14,Commissioner of School and Public Lands,,Brock Greenfield,REP,505
+Lincoln,Sioux Falls 1-15,Commissioner of School and Public Lands,,Timothy Azure,DEM,337
+Lincoln,Sioux Falls 1-15,Commissioner of School and Public Lands,,Brock Greenfield,REP,375
+Lincoln,Sioux Falls 1-16,Commissioner of School and Public Lands,,Timothy Azure,DEM,234
+Lincoln,Sioux Falls 1-16,Commissioner of School and Public Lands,,Brock Greenfield,REP,331
+Lincoln,Sioux Falls 1-18,Commissioner of School and Public Lands,,Timothy Azure,DEM,389
+Lincoln,Sioux Falls 1-18,Commissioner of School and Public Lands,,Brock Greenfield,REP,821
+Lincoln,Sioux Falls 2-10,Commissioner of School and Public Lands,,Timothy Azure,DEM,446
+Lincoln,Sioux Falls 2-10,Commissioner of School and Public Lands,,Brock Greenfield,REP,991
+Lincoln,Sioux Falls 2-11,Commissioner of School and Public Lands,,Timothy Azure,DEM,659
+Lincoln,Sioux Falls 2-11,Commissioner of School and Public Lands,,Brock Greenfield,REP,1141
+Lincoln,Sioux Falls 2-12,Commissioner of School and Public Lands,,Timothy Azure,DEM,280
+Lincoln,Sioux Falls 2-12,Commissioner of School and Public Lands,,Brock Greenfield,REP,403
+Lincoln,Sioux Falls 2-13,Commissioner of School and Public Lands,,Timothy Azure,DEM,745
+Lincoln,Sioux Falls 2-13,Commissioner of School and Public Lands,,Brock Greenfield,REP,993
+Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Timothy Azure,DEM,331
+Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Brock Greenfield,REP,729
+Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Timothy Azure,DEM,626
+Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Brock Greenfield,REP,975
+Lincoln,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,59
+Lincoln,?,Public Utilities Commissioner,,Chris Nelson,REP,175
+Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Jeffrey Barth,DEM,112
+Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Chris Nelson,REP,294
+Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Jeffrey Barth,DEM,53
+Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Chris Nelson,REP,154
+Lincoln,11-Grant,Public Utilities Commissioner,,Jeffrey Barth,DEM,55
+Lincoln,11-Grant,Public Utilities Commissioner,,Chris Nelson,REP,145
+Lincoln,12-Dayton,Public Utilities Commissioner,,Jeffrey Barth,DEM,81
+Lincoln,12-Dayton,Public Utilities Commissioner,,Chris Nelson,REP,275
+Lincoln,13-LaValley,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Lincoln,13-LaValley,Public Utilities Commissioner,,Chris Nelson,REP,229
+Lincoln,14-Perry,Public Utilities Commissioner,,Jeffrey Barth,DEM,105
+Lincoln,14-Perry,Public Utilities Commissioner,,Chris Nelson,REP,293
+Lincoln,15-Springdale,Public Utilities Commissioner,,Jeffrey Barth,DEM,253
+Lincoln,15-Springdale,Public Utilities Commissioner,,Chris Nelson,REP,768
+Lincoln,16-Delapre,Public Utilities Commissioner,,Jeffrey Barth,DEM,203
+Lincoln,16-Delapre,Public Utilities Commissioner,,Chris Nelson,REP,651
+Lincoln,"20-Canton 1, 2, 3",Public Utilities Commissioner,,Jeffrey Barth,DEM,246
+Lincoln,"20-Canton 1, 2, 3",Public Utilities Commissioner,,Chris Nelson,REP,535
+Lincoln,21-Hudson & Eden,Public Utilities Commissioner,,Jeffrey Barth,DEM,48
+Lincoln,21-Hudson & Eden,Public Utilities Commissioner,,Chris Nelson,REP,146
+Lincoln,23-Worthing & Lynn,Public Utilities Commissioner,,Jeffrey Barth,DEM,119
+Lincoln,23-Worthing & Lynn,Public Utilities Commissioner,,Chris Nelson,REP,343
+Lincoln,24-Tea,Public Utilities Commissioner,,Jeffrey Barth,DEM,522
+Lincoln,24-Tea,Public Utilities Commissioner,,Chris Nelson,REP,1354
+Lincoln,25-Lennox,Public Utilities Commissioner,,Jeffrey Barth,DEM,210
+Lincoln,25-Lennox,Public Utilities Commissioner,,Chris Nelson,REP,653
+Lincoln,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,102
+Lincoln,?,Public Utilities Commissioner,,Chris Nelson,REP,294
+Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Jeffrey Barth,DEM,351
+Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Chris Nelson,REP,723
+Lincoln,29-Harrisburg 2,Public Utilities Commissioner,,Jeffrey Barth,DEM,322
+Lincoln,29-Harrisburg 2,Public Utilities Commissioner,,Chris Nelson,REP,723
+Lincoln,30-Canton 4 & 5,Public Utilities Commissioner,,Jeffrey Barth,DEM,133
+Lincoln,30-Canton 4 & 5,Public Utilities Commissioner,,Chris Nelson,REP,267
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Jeffrey Barth,DEM,405
+Lincoln,Sioux Falls 1-11,Public Utilities Commissioner,,Chris Nelson,REP,1025
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Jeffrey Barth,DEM,512
+Lincoln,Sioux Falls 1-12,Public Utilities Commissioner,,Chris Nelson,REP,882
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Jeffrey Barth,DEM,248
+Lincoln,Sioux Falls 1-13,Public Utilities Commissioner,,Chris Nelson,REP,323
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Jeffrey Barth,DEM,283
+Lincoln,Sioux Falls 1-14,Public Utilities Commissioner,,Chris Nelson,REP,519
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Jeffrey Barth,DEM,311
+Lincoln,Sioux Falls 1-15,Public Utilities Commissioner,,Chris Nelson,REP,416
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Jeffrey Barth,DEM,225
+Lincoln,Sioux Falls 1-16,Public Utilities Commissioner,,Chris Nelson,REP,350
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Jeffrey Barth,DEM,386
+Lincoln,Sioux Falls 1-18,Public Utilities Commissioner,,Chris Nelson,REP,857
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Jeffrey Barth,DEM,423
+Lincoln,Sioux Falls 2-10,Public Utilities Commissioner,,Chris Nelson,REP,1048
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Jeffrey Barth,DEM,662
+Lincoln,Sioux Falls 2-11,Public Utilities Commissioner,,Chris Nelson,REP,1193
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Jeffrey Barth,DEM,276
+Lincoln,Sioux Falls 2-12,Public Utilities Commissioner,,Chris Nelson,REP,434
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Jeffrey Barth,DEM,733
+Lincoln,Sioux Falls 2-13,Public Utilities Commissioner,,Chris Nelson,REP,1041
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Jeffrey Barth,DEM,337
+Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Chris Nelson,REP,754
+Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Jeffrey Barth,DEM,611
+Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Chris Nelson,REP,1034
+Lincoln,?,State House,16,Matt Ness,DEM,55
+Lincoln,?,State House,16,Kevin D. Jensen,REP,151
+Lincoln,?,State House,16,Karla J. Lems,REP,146
+Lincoln,06-Highland & Canton,State House,16,Matt Ness,DEM,119
+Lincoln,06-Highland & Canton,State House,16,Kevin D. Jensen,REP,253
+Lincoln,06-Highland & Canton,State House,16,Karla J. Lems,REP,267
+Lincoln,08-Lincoln & Delaware,State House,16,Matt Ness,DEM,60
+Lincoln,08-Lincoln & Delaware,State House,16,Kevin D. Jensen,REP,125
+Lincoln,08-Lincoln & Delaware,State House,16,Karla J. Lems,REP,121
+Lincoln,11-Grant,State House,16,Matt Ness,DEM,58
+Lincoln,11-Grant,State House,16,Kevin D. Jensen,REP,103
+Lincoln,11-Grant,State House,16,Karla J. Lems,REP,115
+Lincoln,12-Dayton,State House,16,Matt Ness,DEM,74
+Lincoln,12-Dayton,State House,16,Kevin D. Jensen,REP,233
+Lincoln,12-Dayton,State House,16,Karla J. Lems,REP,225
+Lincoln,13-LaValley,State House,16,Matt Ness,DEM,23
+Lincoln,13-LaValley,State House,16,Kevin D. Jensen,REP,68
+Lincoln,13-LaValley,State House,16,Karla J. Lems,REP,69
+Lincoln,14-Perry,State House,16,Matt Ness,DEM,53
+Lincoln,14-Perry,State House,16,Kevin D. Jensen,REP,86
+Lincoln,14-Perry,State House,16,Karla J. Lems,REP,98
+Lincoln,"20-Canton 1, 2, 3",State House,16,Matt Ness,DEM,263
+Lincoln,"20-Canton 1, 2, 3",State House,16,Kevin D. Jensen,REP,433
+Lincoln,"20-Canton 1, 2, 3",State House,16,Karla J. Lems,REP,509
+Lincoln,21-Hudson & Eden,State House,16,Matt Ness,DEM,53
+Lincoln,21-Hudson & Eden,State House,16,Kevin D. Jensen,REP,113
+Lincoln,21-Hudson & Eden,State House,16,Karla J. Lems,REP,121
+Lincoln,23-Worthing & Lynn,State House,16,Matt Ness,DEM,121
+Lincoln,23-Worthing & Lynn,State House,16,Kevin D. Jensen,REP,278
+Lincoln,23-Worthing & Lynn,State House,16,Karla J. Lems,REP,250
+Lincoln,25-Lennox,State House,16,Matt Ness,DEM,245
+Lincoln,25-Lennox,State House,16,Kevin D. Jensen,REP,465
+Lincoln,25-Lennox,State House,16,Karla J. Lems,REP,466
+Lincoln,?,State House,16,Matt Ness,DEM,111
+Lincoln,?,State House,16,Kevin D. Jensen,REP,243
+Lincoln,?,State House,16,Karla J. Lems,REP,226
+Lincoln,29-Harrisburg 2,State House,16,Matt Ness,DEM,0
+Lincoln,29-Harrisburg 2,State House,16,Kevin D. Jensen,REP,0
+Lincoln,29-Harrisburg 2,State House,16,Karla J. Lems,REP,0
+Lincoln,30-Canton 4 & 5,State House,16,Matt Ness,DEM,148
+Lincoln,30-Canton 4 & 5,State House,16,Kevin D. Jensen,REP,191
+Lincoln,30-Canton 4 & 5,State House,16,Karla J. Lems,REP,243
+Lincoln,?,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,121
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,204
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,87
+Lincoln,11-Grant,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,113
+Lincoln,12-Dayton,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,160
+Lincoln,13-LaValley,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,159
+Lincoln,14-Perry,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,199
+Lincoln,15-Springdale,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,541
+Lincoln,16-Delapre,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,420
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,401
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,93
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,243
+Lincoln,24-Tea,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,996
+Lincoln,25-Lennox,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,453
+Lincoln,?,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,227
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,588
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,560
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,220
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,786
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,687
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,284
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,408
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,371
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,298
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,642
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,779
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,999
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,353
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,890
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,576
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,846
+Lincoln,?,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,122
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,208
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,83
+Lincoln,11-Grant,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,111
+Lincoln,12-Dayton,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,159
+Lincoln,13-LaValley,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,155
+Lincoln,14-Perry,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,200
+Lincoln,15-Springdale,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,524
+Lincoln,16-Delapre,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,411
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,398
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,92
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,245
+Lincoln,24-Tea,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,977
+Lincoln,25-Lennox,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,450
+Lincoln,?,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,224
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,570
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,560
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,223
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,742
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,674
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,272
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,391
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,362
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,294
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,634
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,737
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,930
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,335
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,862
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,557
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,824
+Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,75
+Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,62
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,168
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,83
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,74
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,34
+Lincoln,11-Grant,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,81
+Lincoln,11-Grant,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,41
+Lincoln,12-Dayton,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,137
+Lincoln,12-Dayton,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,65
+Lincoln,13-LaValley,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,122
+Lincoln,13-LaValley,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,55
+Lincoln,14-Perry,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,142
+Lincoln,14-Perry,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,86
+Lincoln,15-Springdale,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,366
+Lincoln,15-Springdale,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,201
+Lincoln,16-Delapre,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,332
+Lincoln,16-Delapre,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,164
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,297
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,202
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,66
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,54
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,171
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,117
+Lincoln,24-Tea,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,727
+Lincoln,24-Tea,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,401
+Lincoln,25-Lennox,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,326
+Lincoln,25-Lennox,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,187
+Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,135
+Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,99
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,343
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,269
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,360
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,242
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,141
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,107
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,627
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,243
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,477
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,312
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,199
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,132
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,256
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,197
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,251
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,182
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,199
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,149
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,450
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,265
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,647
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,267
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,780
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,341
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,273
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,141
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,691
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,328
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,449
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,218
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,602
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,347
+Lincoln,?,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,115
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,196
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,86
+Lincoln,11-Grant,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,108
+Lincoln,12-Dayton,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,157
+Lincoln,13-LaValley,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,150
+Lincoln,14-Perry,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,191
+Lincoln,15-Springdale,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,504
+Lincoln,16-Delapre,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,408
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,384
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,86
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,237
+Lincoln,24-Tea,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,963
+Lincoln,25-Lennox,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,424
+Lincoln,?,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,217
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,555
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,537
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,214
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,723
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,658
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,275
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,379
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,351
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,284
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,626
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,731
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,924
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,324
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,841
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,553
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,814
+Lincoln,?,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,104
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,172
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,73
+Lincoln,11-Grant,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,87
+Lincoln,12-Dayton,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,143
+Lincoln,13-LaValley,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,141
+Lincoln,14-Perry,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,184
+Lincoln,15-Springdale,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,449
+Lincoln,16-Delapre,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,343
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,355
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,84
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,195
+Lincoln,24-Tea,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,819
+Lincoln,25-Lennox,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,385
+Lincoln,?,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,194
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,484
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,474
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,198
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,692
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,579
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,243
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,340
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,311
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,246
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,538
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,689
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,925
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,320
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,799
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,503
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,738
+Lincoln,?,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,103
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,164
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,68
+Lincoln,11-Grant,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,90
+Lincoln,12-Dayton,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,135
+Lincoln,13-LaValley,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,128
+Lincoln,14-Perry,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,172
+Lincoln,15-Springdale,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,425
+Lincoln,16-Delapre,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,325
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,328
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,78
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,196
+Lincoln,24-Tea,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,791
+Lincoln,25-Lennox,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,368
+Lincoln,?,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,195
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,464
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,457
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,187
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,659
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,562
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,232
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,330
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,293
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,235
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,533
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,616
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,822
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,285
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,735
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,472
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,685
+Lincoln,?,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,103
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,171
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,71
+Lincoln,11-Grant,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,90
+Lincoln,12-Dayton,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,136
+Lincoln,13-LaValley,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,130
+Lincoln,14-Perry,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,174
+Lincoln,15-Springdale,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,434
+Lincoln,16-Delapre,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,325
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,330
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,79
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,194
+Lincoln,24-Tea,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,787
+Lincoln,25-Lennox,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,378
+Lincoln,?,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,200
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,472
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,457
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,187
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,644
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,566
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,230
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,332
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,293
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,241
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,524
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,608
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,819
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,287
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,736
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,461
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,688
+Lincoln,?,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,103
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,180
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,66
+Lincoln,11-Grant,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,92
+Lincoln,12-Dayton,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,141
+Lincoln,13-LaValley,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,128
+Lincoln,14-Perry,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,176
+Lincoln,15-Springdale,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,432
+Lincoln,16-Delapre,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,333
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,331
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,75
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,196
+Lincoln,24-Tea,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,803
+Lincoln,25-Lennox,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,373
+Lincoln,?,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,195
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,475
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,465
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,186
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,676
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,570
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,229
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,331
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,301
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,235
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,531
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,646
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,870
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,303
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,751
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,478
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,706
+Lincoln,?,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,106
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,173
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,73
+Lincoln,11-Grant,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,92
+Lincoln,12-Dayton,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,143
+Lincoln,13-LaValley,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,134
+Lincoln,14-Perry,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,179
+Lincoln,15-Springdale,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,440
+Lincoln,16-Delapre,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,329
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,333
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,82
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,198
+Lincoln,24-Tea,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,796
+Lincoln,25-Lennox,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,378
+Lincoln,?,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,194
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,467
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,461
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,193
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,644
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,564
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,227
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,335
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,295
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,228
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,526
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,621
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,836
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,285
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,751
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,466
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,703
+Lincoln,?,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,100
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,167
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,67
+Lincoln,11-Grant,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,88
+Lincoln,12-Dayton,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,139
+Lincoln,13-LaValley,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,138
+Lincoln,14-Perry,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,175
+Lincoln,15-Springdale,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,425
+Lincoln,16-Delapre,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,323
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position J Second Circuit,James Power,NON,315
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,76
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,190
+Lincoln,24-Tea,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,765
+Lincoln,25-Lennox,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,362
+Lincoln,?,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,188
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,457
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,450
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,181
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,633
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,553
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,216
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,332
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,283
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,230
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,514
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,604
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,802
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,279
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,723
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,459
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,679
+Lincoln,?,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,121
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,226
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,74
+Lincoln,11-Grant,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,92
+Lincoln,12-Dayton,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,145
+Lincoln,13-LaValley,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,134
+Lincoln,14-Perry,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,173
+Lincoln,15-Springdale,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,440
+Lincoln,16-Delapre,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,323
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,398
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,87
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,199
+Lincoln,24-Tea,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,779
+Lincoln,25-Lennox,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,364
+Lincoln,?,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,207
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,473
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,456
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,228
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,654
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,562
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,217
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,329
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,291
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,230
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,521
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,671
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,888
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,317
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,763
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,483
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,699
+Lincoln,?,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,122
+Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,211
+Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,80
+Lincoln,11-Grant,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,97
+Lincoln,12-Dayton,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,146
+Lincoln,13-LaValley,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,128
+Lincoln,14-Perry,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,183
+Lincoln,15-Springdale,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,433
+Lincoln,16-Delapre,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,333
+Lincoln,"20-Canton 1, 2, 3",Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,381
+Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,89
+Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,208
+Lincoln,24-Tea,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,795
+Lincoln,25-Lennox,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,382
+Lincoln,?,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,242
+Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,473
+Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,465
+Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,217
+Lincoln,Sioux Falls 1-11,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,644
+Lincoln,Sioux Falls 1-12,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,568
+Lincoln,Sioux Falls 1-13,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,239
+Lincoln,Sioux Falls 1-14,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,332
+Lincoln,Sioux Falls 1-15,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,293
+Lincoln,Sioux Falls 1-16,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,244
+Lincoln,Sioux Falls 1-18,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,519
+Lincoln,Sioux Falls 2-10,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,608
+Lincoln,Sioux Falls 2-11,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,818
+Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,281
+Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,731
+Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,465
+Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,687
+Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,166
+Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,304
+Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - No,,55
+Lincoln,08-Lincoln & Delaware,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,147
+Lincoln,08-Lincoln & Delaware,Supreme Court Retention,3,Patricia J. DeVaney - No,,24
+Lincoln,11-Grant,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,144
+Lincoln,11-Grant,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Lincoln,12-Dayton,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,256
+Lincoln,12-Dayton,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Lincoln,13-LaValley,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,212
+Lincoln,13-LaValley,Supreme Court Retention,3,Patricia J. DeVaney - No,,43
+Lincoln,14-Perry,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,288
+Lincoln,14-Perry,Supreme Court Retention,3,Patricia J. DeVaney - No,,48
+Lincoln,15-Springdale,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,761
+Lincoln,15-Springdale,Supreme Court Retention,3,Patricia J. DeVaney - No,,114
+Lincoln,16-Delapre,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,592
+Lincoln,16-Delapre,Supreme Court Retention,3,Patricia J. DeVaney - No,,115
+Lincoln,"20-Canton 1, 2, 3",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,543
+Lincoln,"20-Canton 1, 2, 3",Supreme Court Retention,3,Patricia J. DeVaney - No,,152
+Lincoln,21-Hudson & Eden,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,136
+Lincoln,21-Hudson & Eden,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Lincoln,23-Worthing & Lynn,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,311
+Lincoln,23-Worthing & Lynn,Supreme Court Retention,3,Patricia J. DeVaney - No,,92
+Lincoln,24-Tea,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1327
+Lincoln,24-Tea,Supreme Court Retention,3,Patricia J. DeVaney - No,,305
+Lincoln,25-Lennox,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,633
+Lincoln,25-Lennox,Supreme Court Retention,3,Patricia J. DeVaney - No,,126
+Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,275
+Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Lincoln,27-Harrisburg 1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,730
+Lincoln,27-Harrisburg 1,Supreme Court Retention,3,Patricia J. DeVaney - No,,173
+Lincoln,29-Harrisburg 2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,732
+Lincoln,29-Harrisburg 2,Supreme Court Retention,3,Patricia J. DeVaney - No,,177
+Lincoln,30-Canton 4 & 5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,276
+Lincoln,30-Canton 4 & 5,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1055
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,3,Patricia J. DeVaney - No,,138
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,977
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,3,Patricia J. DeVaney - No,,248
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,371
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,3,Patricia J. DeVaney - No,,111
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,515
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,3,Patricia J. DeVaney - No,,157
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,490
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,3,Patricia J. DeVaney - No,,136
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,392
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,3,Patricia J. DeVaney - No,,103
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,868
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,3,Patricia J. DeVaney - No,,174
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1025
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,3,Patricia J. DeVaney - No,,182
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1353
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,3,Patricia J. DeVaney - No,,209
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,484
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,3,Patricia J. DeVaney - No,,107
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1238
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,3,Patricia J. DeVaney - No,,267
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,777
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - No,,150
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1133
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - No,,258
+Lincoln,?,Supreme Court Retention,2,Mark E. Salter - Yes,,165
+Lincoln,?,Supreme Court Retention,2,Mark E. Salter - No,,33
+Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - Yes,,303
+Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - No,,56
+Lincoln,08-Lincoln & Delaware,Supreme Court Retention,2,Mark E. Salter - Yes,,147
+Lincoln,08-Lincoln & Delaware,Supreme Court Retention,2,Mark E. Salter - No,,22
+Lincoln,11-Grant,Supreme Court Retention,2,Mark E. Salter - Yes,,151
+Lincoln,11-Grant,Supreme Court Retention,2,Mark E. Salter - No,,20
+Lincoln,12-Dayton,Supreme Court Retention,2,Mark E. Salter - Yes,,264
+Lincoln,12-Dayton,Supreme Court Retention,2,Mark E. Salter - No,,49
+Lincoln,13-LaValley,Supreme Court Retention,2,Mark E. Salter - Yes,,211
+Lincoln,13-LaValley,Supreme Court Retention,2,Mark E. Salter - No,,37
+Lincoln,14-Perry,Supreme Court Retention,2,Mark E. Salter - Yes,,278
+Lincoln,14-Perry,Supreme Court Retention,2,Mark E. Salter - No,,54
+Lincoln,15-Springdale,Supreme Court Retention,2,Mark E. Salter - Yes,,753
+Lincoln,15-Springdale,Supreme Court Retention,2,Mark E. Salter - No,,107
+Lincoln,16-Delapre,Supreme Court Retention,2,Mark E. Salter - Yes,,591
+Lincoln,16-Delapre,Supreme Court Retention,2,Mark E. Salter - No,,113
+Lincoln,"20-Canton 1, 2, 3",Supreme Court Retention,2,Mark E. Salter - Yes,,541
+Lincoln,"20-Canton 1, 2, 3",Supreme Court Retention,2,Mark E. Salter - No,,141
+Lincoln,21-Hudson & Eden,Supreme Court Retention,2,Mark E. Salter - Yes,,134
+Lincoln,21-Hudson & Eden,Supreme Court Retention,2,Mark E. Salter - No,,40
+Lincoln,23-Worthing & Lynn,Supreme Court Retention,2,Mark E. Salter - Yes,,298
+Lincoln,23-Worthing & Lynn,Supreme Court Retention,2,Mark E. Salter - No,,103
+Lincoln,24-Tea,Supreme Court Retention,2,Mark E. Salter - Yes,,1319
+Lincoln,24-Tea,Supreme Court Retention,2,Mark E. Salter - No,,304
+Lincoln,25-Lennox,Supreme Court Retention,2,Mark E. Salter - Yes,,629
+Lincoln,25-Lennox,Supreme Court Retention,2,Mark E. Salter - No,,124
+Lincoln,?,Supreme Court Retention,2,Mark E. Salter - Yes,,272
+Lincoln,?,Supreme Court Retention,2,Mark E. Salter - No,,68
+Lincoln,27-Harrisburg 1,Supreme Court Retention,2,Mark E. Salter - Yes,,717
+Lincoln,27-Harrisburg 1,Supreme Court Retention,2,Mark E. Salter - No,,182
+Lincoln,29-Harrisburg 2,Supreme Court Retention,2,Mark E. Salter - Yes,,743
+Lincoln,29-Harrisburg 2,Supreme Court Retention,2,Mark E. Salter - No,,167
+Lincoln,30-Canton 4 & 5,Supreme Court Retention,2,Mark E. Salter - Yes,,280
+Lincoln,30-Canton 4 & 5,Supreme Court Retention,2,Mark E. Salter - No,,63
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,2,Mark E. Salter - Yes,,1066
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,2,Mark E. Salter - No,,134
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,2,Mark E. Salter - Yes,,973
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,2,Mark E. Salter - No,,245
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,2,Mark E. Salter - Yes,,359
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,2,Mark E. Salter - No,,111
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,2,Mark E. Salter - Yes,,515
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,2,Mark E. Salter - No,,153
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,2,Mark E. Salter - Yes,,495
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,2,Mark E. Salter - No,,130
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,2,Mark E. Salter - Yes,,383
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,2,Mark E. Salter - No,,104
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,2,Mark E. Salter - Yes,,867
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,2,Mark E. Salter - No,,166
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,2,Mark E. Salter - Yes,,1053
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,2,Mark E. Salter - No,,160
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,2,Mark E. Salter - Yes,,1372
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,2,Mark E. Salter - No,,210
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,2,Mark E. Salter - Yes,,497
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,2,Mark E. Salter - No,,104
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,2,Mark E. Salter - Yes,,1223
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,2,Mark E. Salter - No,,270
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - Yes,,785
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - No,,145
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - Yes,,1135
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - No,,259
+Lincoln,?,Constitutional Amendment D,,Yes,,115
+Lincoln,?,Constitutional Amendment D,,No,,115
+Lincoln,06-Highland & Canton,Constitutional Amendment D,,Yes,,179
+Lincoln,06-Highland & Canton,Constitutional Amendment D,,No,,233
+Lincoln,08-Lincoln & Delaware,Constitutional Amendment D,,Yes,,103
+Lincoln,08-Lincoln & Delaware,Constitutional Amendment D,,No,,100
+Lincoln,11-Grant,Constitutional Amendment D,,Yes,,103
+Lincoln,11-Grant,Constitutional Amendment D,,No,,104
+Lincoln,12-Dayton,Constitutional Amendment D,,Yes,,159
+Lincoln,12-Dayton,Constitutional Amendment D,,No,,215
+Lincoln,13-LaValley,Constitutional Amendment D,,Yes,,133
+Lincoln,13-LaValley,Constitutional Amendment D,,No,,179
+Lincoln,14-Perry,Constitutional Amendment D,,Yes,,204
+Lincoln,14-Perry,Constitutional Amendment D,,No,,208
+Lincoln,15-Springdale,Constitutional Amendment D,,Yes,,535
+Lincoln,15-Springdale,Constitutional Amendment D,,No,,508
+Lincoln,16-Delapre,Constitutional Amendment D,,Yes,,449
+Lincoln,16-Delapre,Constitutional Amendment D,,No,,437
+Lincoln,"20-Canton 1, 2, 3",Constitutional Amendment D,,Yes,,461
+Lincoln,"20-Canton 1, 2, 3",Constitutional Amendment D,,No,,364
+Lincoln,21-Hudson & Eden,Constitutional Amendment D,,Yes,,126
+Lincoln,21-Hudson & Eden,Constitutional Amendment D,,No,,73
+Lincoln,23-Worthing & Lynn,Constitutional Amendment D,,Yes,,255
+Lincoln,23-Worthing & Lynn,Constitutional Amendment D,,No,,230
+Lincoln,24-Tea,Constitutional Amendment D,,Yes,,1166
+Lincoln,24-Tea,Constitutional Amendment D,,No,,807
+Lincoln,25-Lennox,Constitutional Amendment D,,Yes,,512
+Lincoln,25-Lennox,Constitutional Amendment D,,No,,383
+Lincoln,?,Constitutional Amendment D,,Yes,,182
+Lincoln,?,Constitutional Amendment D,,No,,222
+Lincoln,27-Harrisburg 1,Constitutional Amendment D,,Yes,,682
+Lincoln,27-Harrisburg 1,Constitutional Amendment D,,No,,430
+Lincoln,29-Harrisburg 2,Constitutional Amendment D,,Yes,,653
+Lincoln,29-Harrisburg 2,Constitutional Amendment D,,No,,447
+Lincoln,30-Canton 4 & 5,Constitutional Amendment D,,Yes,,259
+Lincoln,30-Canton 4 & 5,Constitutional Amendment D,,No,,158
+Lincoln,Sioux Falls 1-11,Constitutional Amendment D,,Yes,,838
+Lincoln,Sioux Falls 1-11,Constitutional Amendment D,,No,,593
+Lincoln,Sioux Falls 1-12,Constitutional Amendment D,,Yes,,919
+Lincoln,Sioux Falls 1-12,Constitutional Amendment D,,No,,560
+Lincoln,Sioux Falls 1-13,Constitutional Amendment D,,Yes,,384
+Lincoln,Sioux Falls 1-13,Constitutional Amendment D,,No,,212
+Lincoln,Sioux Falls 1-14,Constitutional Amendment D,,Yes,,518
+Lincoln,Sioux Falls 1-14,Constitutional Amendment D,,No,,344
+Lincoln,Sioux Falls 1-15,Constitutional Amendment D,,Yes,,530
+Lincoln,Sioux Falls 1-15,Constitutional Amendment D,,No,,232
+Lincoln,Sioux Falls 1-16,Constitutional Amendment D,,Yes,,417
+Lincoln,Sioux Falls 1-16,Constitutional Amendment D,,No,,183
+Lincoln,Sioux Falls 1-18,Constitutional Amendment D,,Yes,,768
+Lincoln,Sioux Falls 1-18,Constitutional Amendment D,,No,,537
+Lincoln,Sioux Falls 2-10,Constitutional Amendment D,,Yes,,868
+Lincoln,Sioux Falls 2-10,Constitutional Amendment D,,No,,642
+Lincoln,Sioux Falls 2-11,Constitutional Amendment D,,Yes,,1155
+Lincoln,Sioux Falls 2-11,Constitutional Amendment D,,No,,745
+Lincoln,Sioux Falls 2-12,Constitutional Amendment D,,Yes,,480
+Lincoln,Sioux Falls 2-12,Constitutional Amendment D,,No,,263
+Lincoln,Sioux Falls 2-13,Constitutional Amendment D,,Yes,,1208
+Lincoln,Sioux Falls 2-13,Constitutional Amendment D,,No,,645
+Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,Yes,,693
+Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,No,,439
+Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,Yes,,1102
+Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,No,,604
+Lincoln,?,Initiated Measure 27,,Yes,,86
+Lincoln,?,Initiated Measure 27,,No,,152
+Lincoln,06-Highland & Canton,Initiated Measure 27,,Yes,,179
+Lincoln,06-Highland & Canton,Initiated Measure 27,,No,,244
+Lincoln,08-Lincoln & Delaware,Initiated Measure 27,,Yes,,86
+Lincoln,08-Lincoln & Delaware,Initiated Measure 27,,No,,124
+Lincoln,11-Grant,Initiated Measure 27,,Yes,,93
+Lincoln,11-Grant,Initiated Measure 27,,No,,117
+Lincoln,12-Dayton,Initiated Measure 27,,Yes,,125
+Lincoln,12-Dayton,Initiated Measure 27,,No,,253
+Lincoln,13-LaValley,Initiated Measure 27,,Yes,,109
+Lincoln,13-LaValley,Initiated Measure 27,,No,,206
+Lincoln,14-Perry,Initiated Measure 27,,Yes,,172
+Lincoln,14-Perry,Initiated Measure 27,,No,,239
+Lincoln,15-Springdale,Initiated Measure 27,,Yes,,431
+Lincoln,15-Springdale,Initiated Measure 27,,No,,642
+Lincoln,16-Delapre,Initiated Measure 27,,Yes,,373
+Lincoln,16-Delapre,Initiated Measure 27,,No,,524
+Lincoln,"20-Canton 1, 2, 3",Initiated Measure 27,,Yes,,436
+Lincoln,"20-Canton 1, 2, 3",Initiated Measure 27,,No,,404
+Lincoln,21-Hudson & Eden,Initiated Measure 27,,Yes,,99
+Lincoln,21-Hudson & Eden,Initiated Measure 27,,No,,105
+Lincoln,23-Worthing & Lynn,Initiated Measure 27,,Yes,,251
+Lincoln,23-Worthing & Lynn,Initiated Measure 27,,No,,245
+Lincoln,24-Tea,Initiated Measure 27,,Yes,,1121
+Lincoln,24-Tea,Initiated Measure 27,,No,,897
+Lincoln,25-Lennox,Initiated Measure 27,,Yes,,465
+Lincoln,25-Lennox,Initiated Measure 27,,No,,450
+Lincoln,?,Initiated Measure 27,,Yes,,142
+Lincoln,?,Initiated Measure 27,,No,,269
+Lincoln,27-Harrisburg 1,Initiated Measure 27,,Yes,,678
+Lincoln,27-Harrisburg 1,Initiated Measure 27,,No,,461
+Lincoln,29-Harrisburg 2,Initiated Measure 27,,Yes,,623
+Lincoln,29-Harrisburg 2,Initiated Measure 27,,No,,499
+Lincoln,30-Canton 4 & 5,Initiated Measure 27,,Yes,,229
+Lincoln,30-Canton 4 & 5,Initiated Measure 27,,No,,194
+Lincoln,Sioux Falls 1-11,Initiated Measure 27,,Yes,,570
+Lincoln,Sioux Falls 1-11,Initiated Measure 27,,No,,901
+Lincoln,Sioux Falls 1-12,Initiated Measure 27,,Yes,,872
+Lincoln,Sioux Falls 1-12,Initiated Measure 27,,No,,639
+Lincoln,Sioux Falls 1-13,Initiated Measure 27,,Yes,,356
+Lincoln,Sioux Falls 1-13,Initiated Measure 27,,No,,253
+Lincoln,Sioux Falls 1-14,Initiated Measure 27,,Yes,,539
+Lincoln,Sioux Falls 1-14,Initiated Measure 27,,No,,346
+Lincoln,Sioux Falls 1-15,Initiated Measure 27,,Yes,,456
+Lincoln,Sioux Falls 1-15,Initiated Measure 27,,No,,326
+Lincoln,Sioux Falls 1-16,Initiated Measure 27,,Yes,,385
+Lincoln,Sioux Falls 1-16,Initiated Measure 27,,No,,232
+Lincoln,Sioux Falls 1-18,Initiated Measure 27,,Yes,,686
+Lincoln,Sioux Falls 1-18,Initiated Measure 27,,No,,656
+Lincoln,Sioux Falls 2-10,Initiated Measure 27,,Yes,,662
+Lincoln,Sioux Falls 2-10,Initiated Measure 27,,No,,880
+Lincoln,Sioux Falls 2-11,Initiated Measure 27,,Yes,,809
+Lincoln,Sioux Falls 2-11,Initiated Measure 27,,No,,1121
+Lincoln,Sioux Falls 2-12,Initiated Measure 27,,Yes,,382
+Lincoln,Sioux Falls 2-12,Initiated Measure 27,,No,,371
+Lincoln,Sioux Falls 2-13,Initiated Measure 27,,Yes,,982
+Lincoln,Sioux Falls 2-13,Initiated Measure 27,,No,,914
+Lincoln,Sioux Falls 2-15,Initiated Measure 27,,Yes,,531
+Lincoln,Sioux Falls 2-15,Initiated Measure 27,,No,,640
+Lincoln,Sioux Falls 2-16,Initiated Measure 27,,Yes,,938
+Lincoln,Sioux Falls 2-16,Initiated Measure 27,,No,,811
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Donn Larson,DEM,70
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Jim Bolin,REP,162
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Brian J. Burge,IND,8
+Lincoln,06-Highland & Canton,State Senate,16,Donn Larson,DEM,104
+Lincoln,06-Highland & Canton,State Senate,16,Jim Bolin,REP,293
+Lincoln,06-Highland & Canton,State Senate,16,Brian J. Burge,IND,17
+Lincoln,08-Lincoln & Delaware,State Senate,16,Donn Larson,DEM,56
+Lincoln,08-Lincoln & Delaware,State Senate,16,Jim Bolin,REP,142
+Lincoln,08-Lincoln & Delaware,State Senate,16,Brian J. Burge,IND,13
+Lincoln,11-Grant,State Senate,16,Donn Larson,DEM,52
+Lincoln,11-Grant,State Senate,16,Jim Bolin,REP,126
+Lincoln,11-Grant,State Senate,16,Brian J. Burge,IND,18
+Lincoln,12-Dayton,State Senate,16,Donn Larson,DEM,56
+Lincoln,12-Dayton,State Senate,16,Jim Bolin,REP,278
+Lincoln,12-Dayton,State Senate,16,Brian J. Burge,IND,21
+Lincoln,13-LaValley,State Senate,06,Herman Otten,REP,168
+Lincoln,13-LaValley,State Senate,16,Donn Larson,DEM,23
+Lincoln,13-LaValley,State Senate,16,Jim Bolin,REP,82
+Lincoln,13-LaValley,State Senate,16,Brian J. Burge,IND,2
+Lincoln,14-Perry,State Senate,06,Herman Otten,REP,194
+Lincoln,14-Perry,State Senate,16,Donn Larson,DEM,48
+Lincoln,14-Perry,State Senate,16,Jim Bolin,REP,111
+Lincoln,14-Perry,State Senate,16,Brian J. Burge,IND,10
+Lincoln,15-Springdale,State Senate,06,Herman Otten,REP,786
+Lincoln,16-Delapre,State Senate,06,Herman Otten,REP,672
+Lincoln,16-Delapre,State Senate,12,Jessica Meyers,DEM,0
+Lincoln,16-Delapre,State Senate,12,Arch Beal,REP,2
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Donn Larson,DEM,231
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Jim Bolin,REP,541
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Brian J. Burge,IND,52
+Lincoln,21-Hudson & Eden,State Senate,16,Donn Larson,DEM,81
+Lincoln,21-Hudson & Eden,State Senate,16,Jim Bolin,REP,116
+Lincoln,21-Hudson & Eden,State Senate,16,Brian J. Burge,IND,9
+Lincoln,23-Worthing & Lynn,State Senate,16,Donn Larson,DEM,92
+Lincoln,23-Worthing & Lynn,State Senate,16,Jim Bolin,REP,337
+Lincoln,23-Worthing & Lynn,State Senate,16,Brian J. Burge,IND,47
+Lincoln,24-Tea,State Senate,06,Herman Otten,REP,1498
+Lincoln,25-Lennox,State Senate,16,Donn Larson,DEM,198
+Lincoln,25-Lennox,State Senate,16,Jim Bolin,REP,578
+Lincoln,25-Lennox,State Senate,16,Brian J. Burge,IND,76
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Donn Larson,DEM,123
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Jim Bolin,REP,261
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Brian J. Burge,IND,22
+Lincoln,27-Harrisburg 1,State Senate,06,Herman Otten,REP,769
+Lincoln,29-Harrisburg 2,State Senate,06,Herman Otten,REP,777
+Lincoln,29-Harrisburg 2,State Senate,16,Donn Larson,DEM,0
+Lincoln,29-Harrisburg 2,State Senate,16,Jim Bolin,REP,0
+Lincoln,29-Harrisburg 2,State Senate,16,Brian J. Burge,IND,0
+Lincoln,30-Canton 4 & 5,State Senate,16,Donn Larson,DEM,136
+Lincoln,30-Canton 4 & 5,State Senate,16,Jim Bolin,REP,262
+Lincoln,30-Canton 4 & 5,State Senate,16,Brian J. Burge,IND,22
+Lincoln,Sioux Falls 1-11,State Senate,12,Jessica Meyers,DEM,494
+Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,REP,955
+Lincoln,Sioux Falls 1-12,State Senate,06,Herman Otten,REP,337
+Lincoln,Sioux Falls 1-12,State Senate,12,Jessica Meyers,DEM,392
+Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,REP,536
+Lincoln,Sioux Falls 1-13,State Senate,06,Herman Otten,REP,360
+Lincoln,Sioux Falls 1-14,State Senate,06,Herman Otten,REP,568
+Lincoln,Sioux Falls 1-15,State Senate,12,Jessica Meyers,DEM,360
+Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,REP,376
+Lincoln,Sioux Falls 1-16,State Senate,06,Herman Otten,REP,383
+Lincoln,Sioux Falls 1-18,State Senate,12,Jessica Meyers,DEM,447
+Lincoln,Sioux Falls 1-18,State Senate,12,Arch Beal,REP,817
+Lincoln,Sioux Falls 2-10,State Senate,13,Jack Kolbeck,REP,1065
+Lincoln,Sioux Falls 2-10,State Senate,13,Lora Hubbel,IND,295
+Lincoln,Sioux Falls 2-11,State Senate,06,Herman Otten,REP,1
+Lincoln,Sioux Falls 2-11,State Senate,13,Jack Kolbeck,REP,1288
+Lincoln,Sioux Falls 2-11,State Senate,13,Lora Hubbel,IND,438
+Lincoln,Sioux Falls 2-12,State Senate,13,Jack Kolbeck,REP,445
+Lincoln,Sioux Falls 2-12,State Senate,13,Lora Hubbel,IND,202
+Lincoln,Sioux Falls 2-13,State Senate,13,Jack Kolbeck,REP,1095
+Lincoln,Sioux Falls 2-13,State Senate,13,Lora Hubbel,IND,504
+Lincoln,Sioux Falls 2-15,State Senate,13,Jack Kolbeck,REP,772
+Lincoln,Sioux Falls 2-15,State Senate,13,Lora Hubbel,IND,249
+Lincoln,Sioux Falls 2-16 10 of 29,State Senate,13,Jack Kolbeck,REP,1045
+Lincoln,Sioux Falls 2-16 10 of 29,State Senate,13,Lora Hubbel,IND,474
+Lincoln,"02-Norway & Fairview, Fairview, Inc 06-Highland & Canton 08-Lincoln & Delaware 11-Grant 12-Dayton 13-LaValley",State House,06,Aaron Aylward,REP,94
+Lincoln,"02-Norway & Fairview, Fairview, Inc 06-Highland & Canton 08-Lincoln & Delaware 11-Grant 12-Dayton 13-LaValley",State House,06,Ernie Otten,REP,155
+Lincoln,14-Perry,State House,06,Aaron Aylward,REP,73
+Lincoln,14-Perry,State House,06,Ernie Otten,REP,171
+Lincoln,15-Springdale,State House,06,Aaron Aylward,REP,494
+Lincoln,15-Springdale,State House,06,Ernie Otten,REP,711
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,06,Aaron Aylward,REP,362
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,06,Ernie Otten,REP,589
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Kristin Hayward,DEM,0
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Erin Royer,DEM,0
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Greg Jamison,REP,2
+Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Amber Arlint,REP,2
+Lincoln,"23-Worthing & Lynn 24-Tea 25-Lennox 26-Brooklyn & Pleasant,",State House,06,Aaron Aylward,REP,786
+Lincoln,"23-Worthing & Lynn 24-Tea 25-Lennox 26-Brooklyn & Pleasant,",State House,06,Ernie Otten,REP,1289
+Lincoln,Beresford 27-Harrisburg 1,State House,06,Aaron Aylward,REP,476
+Lincoln,Beresford 27-Harrisburg 1,State House,06,Ernie Otten,REP,613
+Lincoln,29-Harrisburg 2,State House,06,Aaron Aylward,REP,472
+Lincoln,29-Harrisburg 2,State House,06,Ernie Otten,REP,642
+Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Kristin Hayward,DEM,366
+Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Erin Royer,DEM,420
+Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Greg Jamison,REP,915
+Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Amber Arlint,REP,928
+Lincoln,Sioux Falls 1-12,State House,06,Aaron Aylward,REP,210
+Lincoln,Sioux Falls 1-12,State House,06,Ernie Otten,REP,283
+Lincoln,Sioux Falls 1-12,State House,12,Kristin Hayward,DEM,334
+Lincoln,Sioux Falls 1-12,State House,12,Erin Royer,DEM,341
+Lincoln,Sioux Falls 1-12,State House,12,Greg Jamison,REP,458
+Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,REP,486
+Lincoln,Sioux Falls 1-13,State House,06,Aaron Aylward,REP,211
+Lincoln,Sioux Falls 1-13,State House,06,Ernie Otten,REP,295
+Lincoln,Sioux Falls 1-14,State House,06,Aaron Aylward,REP,316
+Lincoln,Sioux Falls 1-14,State House,06,Ernie Otten,REP,490
+Lincoln,Sioux Falls 1-15,State House,12,Kristin Hayward,DEM,284
+Lincoln,Sioux Falls 1-15,State House,12,Erin Royer,DEM,310
+Lincoln,Sioux Falls 1-15,State House,12,Greg Jamison,REP,339
+Lincoln,Sioux Falls 1-15,State House,12,Amber Arlint,REP,362
+Lincoln,Sioux Falls 1-16,State House,06,Aaron Aylward,REP,221
+Lincoln,Sioux Falls 1-16,State House,06,Ernie Otten,REP,319
+Lincoln,Sioux Falls 1-18,State House,12,Kristin Hayward,DEM,339
+Lincoln,Sioux Falls 1-18,State House,12,Erin Royer,DEM,376
+Lincoln,Sioux Falls 1-18,State House,12,Greg Jamison,REP,736
+Lincoln,Sioux Falls 1-18,State House,12,Amber Arlint,REP,786
+Lincoln,Sioux Falls 2-10,State House,13,Tony Venhuizen,REP,849
+Lincoln,Sioux Falls 2-10,State House,13,Sue Peterson,REP,824
+Lincoln,Sioux Falls 2-11,State House,06,Aaron Aylward,REP,0
+Lincoln,Sioux Falls 2-11,State House,06,Ernie Otten,REP,2
+Lincoln,Sioux Falls 2-11,State House,13,Tony Venhuizen,REP,1046
+Lincoln,Sioux Falls 2-11,State House,13,Sue Peterson,REP,977
+Lincoln,Sioux Falls 2-12,State House,13,Tony Venhuizen,REP,359
+Lincoln,Sioux Falls 2-12,State House,13,Sue Peterson,REP,348
+Lincoln,Sioux Falls 2-13,State House,13,Tony Venhuizen,REP,915
+Lincoln,Sioux Falls 2-13,State House,13,Sue Peterson,REP,884
+Lincoln,Sioux Falls 2-15,State House,13,Tony Venhuizen,REP,589
+Lincoln,Sioux Falls 2-15,State House,13,Sue Peterson,REP,596
+Lincoln,Sioux Falls 2-16 11 of 29,State House,13,Tony Venhuizen,REP,858
+Lincoln,Sioux Falls 2-16 11 of 29,State House,13,Sue Peterson,REP,827

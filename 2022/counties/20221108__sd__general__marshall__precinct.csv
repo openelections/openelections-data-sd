@@ -1,0 +1,343 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,A1,U.S. Senate,,Brian L. Bengs,DEM,62
+Marshall,A1,U.S. Senate,,Tamara J Lesnar,LIB,10
+Marshall,A1,U.S. Senate,,John R. Thune,REP,125
+Marshall,A2,U.S. Senate,,Brian L. Bengs,DEM,53
+Marshall,A2,U.S. Senate,,Tamara J Lesnar,LIB,6
+Marshall,A2,U.S. Senate,,John R. Thune,REP,125
+Marshall,A3,U.S. Senate,,Brian L. Bengs,DEM,46
+Marshall,A3,U.S. Senate,,Tamara J Lesnar,LIB,3
+Marshall,A3,U.S. Senate,,John R. Thune,REP,91
+Marshall,A4,U.S. Senate,,Brian L. Bengs,DEM,69
+Marshall,A4,U.S. Senate,,Tamara J Lesnar,LIB,4
+Marshall,A4,U.S. Senate,,John R. Thune,REP,167
+Marshall,A5,U.S. Senate,,Brian L. Bengs,DEM,49
+Marshall,A5,U.S. Senate,,Tamara J Lesnar,LIB,8
+Marshall,A5,U.S. Senate,,John R. Thune,REP,103
+Marshall,A6,U.S. Senate,,Brian L. Bengs,DEM,98
+Marshall,A6,U.S. Senate,,Tamara J Lesnar,LIB,12
+Marshall,A6,U.S. Senate,,John R. Thune,REP,190
+Marshall,A7,U.S. Senate,,Brian L. Bengs,DEM,50
+Marshall,A7,U.S. Senate,,Tamara J Lesnar,LIB,5
+Marshall,A7,U.S. Senate,,John R. Thune,REP,129
+Marshall,A8,U.S. Senate,,Brian L. Bengs,DEM,40
+Marshall,A8,U.S. Senate,,Tamara J Lesnar,LIB,6
+Marshall,A8,U.S. Senate,,John R. Thune,REP,158
+Marshall,A9,U.S. Senate,,Brian L. Bengs,DEM,78
+Marshall,A9,U.S. Senate,,Tamara J Lesnar,LIB,8
+Marshall,A9,U.S. Senate,,John R. Thune,REP,184
+Marshall,A1,U.S. House,1,Collin Duprel,LIB,49
+Marshall,A1,U.S. House,1,Dusty Johnson,REP,132
+Marshall,A2,U.S. House,1,Collin Duprel,LIB,35
+Marshall,A2,U.S. House,1,Dusty Johnson,REP,139
+Marshall,A3,U.S. House,1,Collin Duprel,LIB,30
+Marshall,A3,U.S. House,1,Dusty Johnson,REP,97
+Marshall,A4,U.S. House,1,Collin Duprel,LIB,51
+Marshall,A4,U.S. House,1,Dusty Johnson,REP,176
+Marshall,A5,U.S. House,1,Collin Duprel,LIB,44
+Marshall,A5,U.S. House,1,Dusty Johnson,REP,105
+Marshall,A6,U.S. House,1,Collin Duprel,LIB,70
+Marshall,A6,U.S. House,1,Dusty Johnson,REP,220
+Marshall,A7,U.S. House,1,Collin Duprel,LIB,32
+Marshall,A7,U.S. House,1,Dusty Johnson,REP,140
+Marshall,A8,U.S. House,1,Collin Duprel,LIB,24
+Marshall,A8,U.S. House,1,Dusty Johnson,REP,174
+Marshall,A9,U.S. House,1,Collin Duprel,LIB,56
+Marshall,A9,U.S. House,1,Dusty Johnson,REP,195
+Marshall,A1,Governor,,Jamie Smith and Jennifer Keintz,DEM,82
+Marshall,A1,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Marshall,A1,Governor,,Kristi Noem and Larry Rhoden,REP,110
+Marshall,A2,Governor,,Jamie Smith and Jennifer Keintz,DEM,73
+Marshall,A2,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Marshall,A2,Governor,,Kristi Noem and Larry Rhoden,REP,104
+Marshall,A3,Governor,,Jamie Smith and Jennifer Keintz,DEM,59
+Marshall,A3,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Marshall,A3,Governor,,Kristi Noem and Larry Rhoden,REP,83
+Marshall,A4,Governor,,Jamie Smith and Jennifer Keintz,DEM,103
+Marshall,A4,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Marshall,A4,Governor,,Kristi Noem and Larry Rhoden,REP,132
+Marshall,A5,Governor,,Jamie Smith and Jennifer Keintz,DEM,65
+Marshall,A5,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Marshall,A5,Governor,,Kristi Noem and Larry Rhoden,REP,94
+Marshall,A6,Governor,,Jamie Smith and Jennifer Keintz,DEM,130
+Marshall,A6,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Marshall,A6,Governor,,Kristi Noem and Larry Rhoden,REP,172
+Marshall,A7,Governor,,Jamie Smith and Jennifer Keintz,DEM,66
+Marshall,A7,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Marshall,A7,Governor,,Kristi Noem and Larry Rhoden,REP,119
+Marshall,A8,Governor,,Jamie Smith and Jennifer Keintz,DEM,65
+Marshall,A8,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Marshall,A8,Governor,,Kristi Noem and Larry Rhoden,REP,137
+Marshall,A9,Governor,,Jamie Smith and Jennifer Keintz,DEM,94
+Marshall,A9,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Marshall,A9,Governor,,Kristi Noem and Larry Rhoden,REP,172
+Marshall,A1,Secretary of State,,Thomas A Cool,DEM,77
+Marshall,A1,Secretary of State,,Monae Johnson,REP,108
+Marshall,A2,Secretary of State,,Thomas A Cool,DEM,76
+Marshall,A2,Secretary of State,,Monae Johnson,REP,98
+Marshall,A3,Secretary of State,,Thomas A Cool,DEM,58
+Marshall,A3,Secretary of State,,Monae Johnson,REP,77
+Marshall,A4,Secretary of State,,Thomas A Cool,DEM,102
+Marshall,A4,Secretary of State,,Monae Johnson,REP,126
+Marshall,A5,Secretary of State,,Thomas A Cool,DEM,70
+Marshall,A5,Secretary of State,,Monae Johnson,REP,85
+Marshall,A6,Secretary of State,,Thomas A Cool,DEM,128
+Marshall,A6,Secretary of State,,Monae Johnson,REP,164
+Marshall,A7,Secretary of State,,Thomas A Cool,DEM,66
+Marshall,A7,Secretary of State,,Monae Johnson,REP,105
+Marshall,A8,Secretary of State,,Thomas A Cool,DEM,70
+Marshall,A8,Secretary of State,,Monae Johnson,REP,123
+Marshall,A9,Secretary of State,,Thomas A Cool,DEM,104
+Marshall,A9,Secretary of State,,Monae Johnson,REP,150
+Marshall,A1,Attorney General,,Marty J. Jackley,REP,139
+Marshall,A2,Attorney General,,Marty J. Jackley,REP,132
+Marshall,A3,Attorney General,,Marty J. Jackley,REP,101
+Marshall,A4,Attorney General,,Marty J. Jackley,REP,167
+Marshall,A5,Attorney General,,Marty J. Jackley,REP,106
+Marshall,A6,Attorney General,,Marty J. Jackley,REP,221
+Marshall,A7,Attorney General,,Marty J. Jackley,REP,133
+Marshall,A8,Attorney General,,Marty J. Jackley,REP,161
+Marshall,A9,Attorney General,,Marty J. Jackley,REP,191
+Marshall,A1,State Auditor,,Stephanie Marty,DEM,65
+Marshall,A1,State Auditor,,Rene Meyer,LIB,5
+Marshall,A1,State Auditor,,Richard Sattgast,REP,108
+Marshall,A2,State Auditor,,Stephanie Marty,DEM,65
+Marshall,A2,State Auditor,,Rene Meyer,LIB,15
+Marshall,A2,State Auditor,,Richard Sattgast,REP,94
+Marshall,A3,State Auditor,,Stephanie Marty,DEM,47
+Marshall,A3,State Auditor,,Rene Meyer,LIB,7
+Marshall,A3,State Auditor,,Richard Sattgast,REP,79
+Marshall,A4,State Auditor,,Stephanie Marty,DEM,95
+Marshall,A4,State Auditor,,Rene Meyer,LIB,11
+Marshall,A4,State Auditor,,Richard Sattgast,REP,116
+Marshall,A5,State Auditor,,Stephanie Marty,DEM,61
+Marshall,A5,State Auditor,,Rene Meyer,LIB,10
+Marshall,A5,State Auditor,,Richard Sattgast,REP,76
+Marshall,A6,State Auditor,,Stephanie Marty,DEM,123
+Marshall,A6,State Auditor,,Rene Meyer,LIB,8
+Marshall,A6,State Auditor,,Richard Sattgast,REP,159
+Marshall,A7,State Auditor,,Stephanie Marty,DEM,56
+Marshall,A7,State Auditor,,Rene Meyer,LIB,4
+Marshall,A7,State Auditor,,Richard Sattgast,REP,111
+Marshall,A8,State Auditor,,Stephanie Marty,DEM,57
+Marshall,A8,State Auditor,,Rene Meyer,LIB,7
+Marshall,A8,State Auditor,,Richard Sattgast,REP,126
+Marshall,A9,State Auditor,,Stephanie Marty,DEM,93
+Marshall,A9,State Auditor,,Rene Meyer,LIB,10
+Marshall,A9,State Auditor,,Richard Sattgast,REP,149
+Marshall,A1,State Treasurer,,John Cunningham,DEM,67
+Marshall,A1,State Treasurer,,Josh Haeder,REP,111
+Marshall,A2,State Treasurer,,John Cunningham,DEM,68
+Marshall,A2,State Treasurer,,Josh Haeder,REP,101
+Marshall,A3,State Treasurer,,John Cunningham,DEM,53
+Marshall,A3,State Treasurer,,Josh Haeder,REP,81
+Marshall,A4,State Treasurer,,John Cunningham,DEM,97
+Marshall,A4,State Treasurer,,Josh Haeder,REP,124
+Marshall,A5,State Treasurer,,John Cunningham,DEM,64
+Marshall,A5,State Treasurer,,Josh Haeder,REP,80
+Marshall,A6,State Treasurer,,John Cunningham,DEM,120
+Marshall,A6,State Treasurer,,Josh Haeder,REP,167
+Marshall,A7,State Treasurer,,John Cunningham,DEM,59
+Marshall,A7,State Treasurer,,Josh Haeder,REP,112
+Marshall,A8,State Treasurer,,John Cunningham,DEM,63
+Marshall,A8,State Treasurer,,Josh Haeder,REP,126
+Marshall,A9,State Treasurer,,John Cunningham,DEM,96
+Marshall,A9,State Treasurer,,Josh Haeder,REP,154
+Marshall,A1,Commissioner of School and Public Lands,,Timothy Azure,DEM,64
+Marshall,A1,Commissioner of School and Public Lands,,Brock Greenfield,REP,116
+Marshall,A2,Commissioner of School and Public Lands,,Timothy Azure,DEM,63
+Marshall,A2,Commissioner of School and Public Lands,,Brock Greenfield,REP,99
+Marshall,A3,Commissioner of School and Public Lands,,Timothy Azure,DEM,50
+Marshall,A3,Commissioner of School and Public Lands,,Brock Greenfield,REP,77
+Marshall,A4,Commissioner of School and Public Lands,,Timothy Azure,DEM,86
+Marshall,A4,Commissioner of School and Public Lands,,Brock Greenfield,REP,132
+Marshall,A5,Commissioner of School and Public Lands,,Timothy Azure,DEM,69
+Marshall,A5,Commissioner of School and Public Lands,,Brock Greenfield,REP,79
+Marshall,A6,Commissioner of School and Public Lands,,Timothy Azure,DEM,121
+Marshall,A6,Commissioner of School and Public Lands,,Brock Greenfield,REP,167
+Marshall,A7,Commissioner of School and Public Lands,,Timothy Azure,DEM,60
+Marshall,A7,Commissioner of School and Public Lands,,Brock Greenfield,REP,112
+Marshall,A8,Commissioner of School and Public Lands,,Timothy Azure,DEM,55
+Marshall,A8,Commissioner of School and Public Lands,,Brock Greenfield,REP,133
+Marshall,A9,Commissioner of School and Public Lands,,Timothy Azure,DEM,100
+Marshall,A9,Commissioner of School and Public Lands,,Brock Greenfield,REP,153
+Marshall,A1,Public Utilities Commissioner,,Jeffrey Barth,DEM,59
+Marshall,A1,Public Utilities Commissioner,,Chris Nelson,REP,123
+Marshall,A2,Public Utilities Commissioner,,Jeffrey Barth,DEM,56
+Marshall,A2,Public Utilities Commissioner,,Chris Nelson,REP,111
+Marshall,A3,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Marshall,A3,Public Utilities Commissioner,,Chris Nelson,REP,86
+Marshall,A4,Public Utilities Commissioner,,Jeffrey Barth,DEM,83
+Marshall,A4,Public Utilities Commissioner,,Chris Nelson,REP,145
+Marshall,A5,Public Utilities Commissioner,,Jeffrey Barth,DEM,65
+Marshall,A5,Public Utilities Commissioner,,Chris Nelson,REP,83
+Marshall,A6,Public Utilities Commissioner,,Jeffrey Barth,DEM,108
+Marshall,A6,Public Utilities Commissioner,,Chris Nelson,REP,183
+Marshall,A7,Public Utilities Commissioner,,Jeffrey Barth,DEM,54
+Marshall,A7,Public Utilities Commissioner,,Chris Nelson,REP,120
+Marshall,A8,Public Utilities Commissioner,,Jeffrey Barth,DEM,51
+Marshall,A8,Public Utilities Commissioner,,Chris Nelson,REP,140
+Marshall,A9,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Marshall,A9,Public Utilities Commissioner,,Chris Nelson,REP,177
+Marshall,A1,State Senate,01,Michael H. Rohl,REP,103
+Marshall,A1,State Senate,01,Susan Wismer,IND,88
+Marshall,A2,State Senate,01,Michael H. Rohl,REP,85
+Marshall,A2,State Senate,01,Susan Wismer,IND,97
+Marshall,A3,State Senate,01,Michael H. Rohl,REP,80
+Marshall,A3,State Senate,01,Susan Wismer,IND,58
+Marshall,A4,State Senate,01,Michael H. Rohl,REP,116
+Marshall,A4,State Senate,01,Susan Wismer,IND,117
+Marshall,A5,State Senate,01,Michael H. Rohl,REP,81
+Marshall,A5,State Senate,01,Susan Wismer,IND,75
+Marshall,A6,State Senate,01,Michael H. Rohl,REP,168
+Marshall,A6,State Senate,01,Susan Wismer,IND,132
+Marshall,A7,State Senate,01,Michael H. Rohl,REP,120
+Marshall,A7,State Senate,01,Susan Wismer,IND,60
+Marshall,A8,State Senate,01,Michael H. Rohl,REP,127
+Marshall,A8,State Senate,01,Susan Wismer,IND,75
+Marshall,A9,State Senate,01,Michael H. Rohl,REP,157
+Marshall,A9,State Senate,01,Susan Wismer,IND,111
+Marshall,A1,State House,01,Steven D. McCleerey,DEM,79
+Marshall,A1,State House,01,Kay F. Nikolas,DEM,58
+Marshall,A1,State House,01,Joe Donnell,REP,88
+Marshall,A1,State House,01,Tamara St John,REP,108
+Marshall,A2,State House,01,Steven D. McCleerey,DEM,68
+Marshall,A2,State House,01,Kay F. Nikolas,DEM,66
+Marshall,A2,State House,01,Joe Donnell,REP,67
+Marshall,A2,State House,01,Tamara St John,REP,96
+Marshall,A3,State House,01,Steven D. McCleerey,DEM,61
+Marshall,A3,State House,01,Kay F. Nikolas,DEM,48
+Marshall,A3,State House,01,Joe Donnell,REP,60
+Marshall,A3,State House,01,Tamara St John,REP,70
+Marshall,A4,State House,01,Steven D. McCleerey,DEM,107
+Marshall,A4,State House,01,Kay F. Nikolas,DEM,75
+Marshall,A4,State House,01,Joe Donnell,REP,92
+Marshall,A4,State House,01,Tamara St John,REP,106
+Marshall,A5,State House,01,Steven D. McCleerey,DEM,65
+Marshall,A5,State House,01,Kay F. Nikolas,DEM,45
+Marshall,A5,State House,01,Joe Donnell,REP,72
+Marshall,A5,State House,01,Tamara St John,REP,72
+Marshall,A6,State House,01,Steven D. McCleerey,DEM,136
+Marshall,A6,State House,01,Kay F. Nikolas,DEM,100
+Marshall,A6,State House,01,Joe Donnell,REP,136
+Marshall,A6,State House,01,Tamara St John,REP,158
+Marshall,A7,State House,01,Steven D. McCleerey,DEM,70
+Marshall,A7,State House,01,Kay F. Nikolas,DEM,43
+Marshall,A7,State House,01,Joe Donnell,REP,80
+Marshall,A7,State House,01,Tamara St John,REP,103
+Marshall,A8,State House,01,Steven D. McCleerey,DEM,71
+Marshall,A8,State House,01,Kay F. Nikolas,DEM,46
+Marshall,A8,State House,01,Joe Donnell,REP,100
+Marshall,A8,State House,01,Tamara St John,REP,121
+Marshall,A9,State House,01,Steven D. McCleerey,DEM,125
+Marshall,A9,State House,01,Kay F. Nikolas,DEM,73
+Marshall,A9,State House,01,Joe Donnell,REP,117
+Marshall,A9,State House,01,Tamara St John,REP,144
+Marshall,A1,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,96
+Marshall,A2,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,83
+Marshall,A3,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,67
+Marshall,A4,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,124
+Marshall,A5,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,59
+Marshall,A6,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,131
+Marshall,A7,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,60
+Marshall,A8,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,91
+Marshall,A9,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,115
+Marshall,A1,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,99
+Marshall,A2,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,86
+Marshall,A3,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,69
+Marshall,A4,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,121
+Marshall,A5,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,60
+Marshall,A6,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,133
+Marshall,A7,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,55
+Marshall,A8,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,102
+Marshall,A9,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,115
+Marshall,A1,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,93
+Marshall,A2,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,77
+Marshall,A3,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,65
+Marshall,A4,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,108
+Marshall,A5,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,54
+Marshall,A6,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,125
+Marshall,A7,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,53
+Marshall,A8,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,89
+Marshall,A9,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,106
+Marshall,A1,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,118
+Marshall,A2,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,108
+Marshall,A3,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,84
+Marshall,A4,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,142
+Marshall,A5,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,88
+Marshall,A6,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,176
+Marshall,A7,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,125
+Marshall,A8,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,134
+Marshall,A9,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,151
+Marshall,A1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,130
+Marshall,A1,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Marshall,A2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,127
+Marshall,A2,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Marshall,A3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,98
+Marshall,A3,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Marshall,A4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,163
+Marshall,A4,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Marshall,A5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,100
+Marshall,A5,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Marshall,A6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,228
+Marshall,A6,Supreme Court Retention,3,Patricia J. DeVaney - No,,36
+Marshall,A7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,118
+Marshall,A7,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Marshall,A8,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,136
+Marshall,A8,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Marshall,A9,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,175
+Marshall,A9,Supreme Court Retention,3,Patricia J. DeVaney - No,,46
+Marshall,A1,Supreme Court Retention,2,Mark E. Salter - Yes,,132
+Marshall,A1,Supreme Court Retention,2,Mark E. Salter - No,,32
+Marshall,A2,Supreme Court Retention,2,Mark E. Salter - Yes,,128
+Marshall,A2,Supreme Court Retention,2,Mark E. Salter - No,,28
+Marshall,A3,Supreme Court Retention,2,Mark E. Salter - Yes,,105
+Marshall,A3,Supreme Court Retention,2,Mark E. Salter - No,,22
+Marshall,A4,Supreme Court Retention,2,Mark E. Salter - Yes,,161
+Marshall,A4,Supreme Court Retention,2,Mark E. Salter - No,,33
+Marshall,A5,Supreme Court Retention,2,Mark E. Salter - Yes,,100
+Marshall,A5,Supreme Court Retention,2,Mark E. Salter - No,,28
+Marshall,A6,Supreme Court Retention,2,Mark E. Salter - Yes,,227
+Marshall,A6,Supreme Court Retention,2,Mark E. Salter - No,,37
+Marshall,A7,Supreme Court Retention,2,Mark E. Salter - Yes,,114
+Marshall,A7,Supreme Court Retention,2,Mark E. Salter - No,,35
+Marshall,A8,Supreme Court Retention,2,Mark E. Salter - Yes,,134
+Marshall,A8,Supreme Court Retention,2,Mark E. Salter - No,,32
+Marshall,A9,Supreme Court Retention,2,Mark E. Salter - Yes,,173
+Marshall,A9,Supreme Court Retention,2,Mark E. Salter - No,,42
+Marshall,A1,Constitutional Amendment D,,Yes,,105
+Marshall,A1,Constitutional Amendment D,,No,,83
+Marshall,A2,Constitutional Amendment D,,Yes,,115
+Marshall,A2,Constitutional Amendment D,,No,,59
+Marshall,A3,Constitutional Amendment D,,Yes,,80
+Marshall,A3,Constitutional Amendment D,,No,,59
+Marshall,A4,Constitutional Amendment D,,Yes,,138
+Marshall,A4,Constitutional Amendment D,,No,,89
+Marshall,A5,Constitutional Amendment D,,Yes,,100
+Marshall,A5,Constitutional Amendment D,,No,,56
+Marshall,A6,Constitutional Amendment D,,Yes,,187
+Marshall,A6,Constitutional Amendment D,,No,,109
+Marshall,A7,Constitutional Amendment D,,Yes,,95
+Marshall,A7,Constitutional Amendment D,,No,,74
+Marshall,A8,Constitutional Amendment D,,Yes,,101
+Marshall,A8,Constitutional Amendment D,,No,,94
+Marshall,A9,Constitutional Amendment D,,Yes,,159
+Marshall,A9,Constitutional Amendment D,,No,,101
+Marshall,A1,Initiated Measure 27,,Yes,,104
+Marshall,A1,Initiated Measure 27,,No,,89
+Marshall,A2,Initiated Measure 27,,Yes,,98
+Marshall,A2,Initiated Measure 27,,No,,77
+Marshall,A3,Initiated Measure 27,,Yes,,66
+Marshall,A3,Initiated Measure 27,,No,,72
+Marshall,A4,Initiated Measure 27,,Yes,,127
+Marshall,A4,Initiated Measure 27,,No,,103
+Marshall,A5,Initiated Measure 27,,Yes,,71
+Marshall,A5,Initiated Measure 27,,No,,85
+Marshall,A6,Initiated Measure 27,,Yes,,137
+Marshall,A6,Initiated Measure 27,,No,,166
+Marshall,A7,Initiated Measure 27,,Yes,,68
+Marshall,A7,Initiated Measure 27,,No,,104
+Marshall,A8,Initiated Measure 27,,Yes,,76
+Marshall,A8,Initiated Measure 27,,No,,125
+Marshall,A9,Initiated Measure 27,,Yes,,111
+Marshall,A9,Initiated Measure 27,,No,,156

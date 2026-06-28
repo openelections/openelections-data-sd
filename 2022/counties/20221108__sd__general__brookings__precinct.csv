@@ -1,0 +1,379 @@
+county,precinct,office,district,candidate,party,votes
+Brookings,Absentee Precinct,U.S. Senate,,Brian L. Bengs,DEM,1976
+Brookings,Absentee Precinct,U.S. Senate,,Tamara J Lesnar,LIB,158
+Brookings,Absentee Precinct,U.S. Senate,,John R. Thune,REP,2701
+Brookings,Aurora Little Hall,U.S. Senate,,Brian L. Bengs,DEM,111
+Brookings,Aurora Little Hall,U.S. Senate,,Tamara J Lesnar,LIB,26
+Brookings,Aurora Little Hall,U.S. Senate,,John R. Thune,REP,400
+Brookings,Bethel Baptist,U.S. Senate,,Brian L. Bengs,DEM,524
+Brookings,Bethel Baptist,U.S. Senate,,Tamara J Lesnar,LIB,94
+Brookings,Bethel Baptist,U.S. Senate,,John R. Thune,REP,1383
+Brookings,Brookings Activity Center,U.S. Senate,,Brian L. Bengs,DEM,649
+Brookings,Brookings Activity Center,U.S. Senate,,Tamara J Lesnar,LIB,102
+Brookings,Brookings Activity Center,U.S. Senate,,John R. Thune,REP,977
+Brookings,Bruce Community Room,U.S. Senate,,Brian L. Bengs,DEM,67
+Brookings,Bruce Community Room,U.S. Senate,,Tamara J Lesnar,LIB,15
+Brookings,Bruce Community Room,U.S. Senate,,John R. Thune,REP,300
+Brookings,Elkton Community Center,U.S. Senate,,Brian L. Bengs,DEM,41
+Brookings,Elkton Community Center,U.S. Senate,,Tamara J Lesnar,LIB,20
+Brookings,Elkton Community Center,U.S. Senate,,John R. Thune,REP,288
+Brookings,Holy Life Tabernacle,U.S. Senate,,Brian L. Bengs,DEM,228
+Brookings,Holy Life Tabernacle,U.S. Senate,,Tamara J Lesnar,LIB,46
+Brookings,Holy Life Tabernacle,U.S. Senate,,John R. Thune,REP,618
+Brookings,Volga Community Center,U.S. Senate,,Brian L. Bengs,DEM,167
+Brookings,Volga Community Center,U.S. Senate,,Tamara J Lesnar,LIB,56
+Brookings,Volga Community Center,U.S. Senate,,John R. Thune,REP,905
+Brookings,White McKnight Hall,U.S. Senate,,Brian L. Bengs,DEM,53
+Brookings,White McKnight Hall,U.S. Senate,,Tamara J Lesnar,LIB,28
+Brookings,White McKnight Hall,U.S. Senate,,John R. Thune,REP,418
+Brookings,Absentee Precinct,U.S. House,1,Collin Duprel,LIB,1235
+Brookings,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,3137
+Brookings,Aurora Little Hall,U.S. House,1,Collin Duprel,LIB,121
+Brookings,Aurora Little Hall,U.S. House,1,Dusty Johnson,REP,402
+Brookings,Bethel Baptist,U.S. House,1,Collin Duprel,LIB,410
+Brookings,Bethel Baptist,U.S. House,1,Dusty Johnson,REP,1487
+Brookings,Brookings Activity Center,U.S. House,1,Collin Duprel,LIB,492
+Brookings,Brookings Activity Center,U.S. House,1,Dusty Johnson,REP,1114
+Brookings,Bruce Community Room,U.S. House,1,Collin Duprel,LIB,53
+Brookings,Bruce Community Room,U.S. House,1,Dusty Johnson,REP,321
+Brookings,Elkton Community Center,U.S. House,1,Collin Duprel,LIB,50
+Brookings,Elkton Community Center,U.S. House,1,Dusty Johnson,REP,288
+Brookings,Holy Life Tabernacle,U.S. House,1,Collin Duprel,LIB,173
+Brookings,Holy Life Tabernacle,U.S. House,1,Dusty Johnson,REP,672
+Brookings,Volga Community Center,U.S. House,1,Collin Duprel,LIB,171
+Brookings,Volga Community Center,U.S. House,1,Dusty Johnson,REP,926
+Brookings,White McKnight Hall,U.S. House,1,Collin Duprel,LIB,52
+Brookings,White McKnight Hall,U.S. House,1,Dusty Johnson,REP,436
+Brookings,Absentee Precinct,Governor,,Jamie Smith and Jennifer Keintz,DEM,2498
+Brookings,Absentee Precinct,Governor,,Tracey Quint and Ashley Strand,LIB,102
+Brookings,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,2264
+Brookings,Aurora Little Hall,Governor,,Jamie Smith and Jennifer Keintz,DEM,147
+Brookings,Aurora Little Hall,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Brookings,Aurora Little Hall,Governor,,Kristi Noem and Larry Rhoden,REP,381
+Brookings,Bethel Baptist,Governor,,Jamie Smith and Jennifer Keintz,DEM,772
+Brookings,Bethel Baptist,Governor,,Tracey Quint and Ashley Strand,LIB,57
+Brookings,Bethel Baptist,Governor,,Kristi Noem and Larry Rhoden,REP,1176
+Brookings,Brookings Activity Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,838
+Brookings,Brookings Activity Center,Governor,,Tracey Quint and Ashley Strand,LIB,71
+Brookings,Brookings Activity Center,Governor,,Kristi Noem and Larry Rhoden,REP,828
+Brookings,Bruce Community Room,Governor,,Jamie Smith and Jennifer Keintz,DEM,95
+Brookings,Bruce Community Room,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Brookings,Bruce Community Room,Governor,,Kristi Noem and Larry Rhoden,REP,280
+Brookings,Elkton Community Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,71
+Brookings,Elkton Community Center,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Brookings,Elkton Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,260
+Brookings,Holy Life Tabernacle,Governor,,Jamie Smith and Jennifer Keintz,DEM,312
+Brookings,Holy Life Tabernacle,Governor,,Tracey Quint and Ashley Strand,LIB,34
+Brookings,Holy Life Tabernacle,Governor,,Kristi Noem and Larry Rhoden,REP,549
+Brookings,Volga Community Center,Governor,,Jamie Smith and Jennifer Keintz,DEM,277
+Brookings,Volga Community Center,Governor,,Tracey Quint and Ashley Strand,LIB,40
+Brookings,Volga Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,832
+Brookings,White McKnight Hall,Governor,,Jamie Smith and Jennifer Keintz,DEM,86
+Brookings,White McKnight Hall,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Brookings,White McKnight Hall,Governor,,Kristi Noem and Larry Rhoden,REP,404
+Brookings,Absentee Precinct,Secretary of State,,Thomas A Cool,DEM,2346
+Brookings,Absentee Precinct,Secretary of State,,Monae Johnson,REP,2287
+Brookings,Aurora Little Hall,Secretary of State,,Thomas A Cool,DEM,152
+Brookings,Aurora Little Hall,Secretary of State,,Monae Johnson,REP,363
+Brookings,Bethel Baptist,Secretary of State,,Thomas A Cool,DEM,702
+Brookings,Bethel Baptist,Secretary of State,,Monae Johnson,REP,1165
+Brookings,Brookings Activity Center,Secretary of State,,Thomas A Cool,DEM,802
+Brookings,Brookings Activity Center,Secretary of State,,Monae Johnson,REP,822
+Brookings,Bruce Community Room,Secretary of State,,Thomas A Cool,DEM,92
+Brookings,Bruce Community Room,Secretary of State,,Monae Johnson,REP,270
+Brookings,Elkton Community Center,Secretary of State,,Thomas A Cool,DEM,68
+Brookings,Elkton Community Center,Secretary of State,,Monae Johnson,REP,261
+Brookings,Holy Life Tabernacle,Secretary of State,,Thomas A Cool,DEM,304
+Brookings,Holy Life Tabernacle,Secretary of State,,Monae Johnson,REP,542
+Brookings,Volga Community Center,Secretary of State,,Thomas A Cool,DEM,294
+Brookings,Volga Community Center,Secretary of State,,Monae Johnson,REP,793
+Brookings,White McKnight Hall,Secretary of State,,Thomas A Cool,DEM,101
+Brookings,White McKnight Hall,Secretary of State,,Monae Johnson,REP,371
+Brookings,Absentee Precinct,Attorney General,,Marty J. Jackley,REP,3222
+Brookings,Aurora Little Hall,Attorney General,,Marty J. Jackley,REP,420
+Brookings,Bethel Baptist,Attorney General,,Marty J. Jackley,REP,1504
+Brookings,Brookings Activity Center,Attorney General,,Marty J. Jackley,REP,1119
+Brookings,Bruce Community Room,Attorney General,,Marty J. Jackley,REP,314
+Brookings,Elkton Community Center,Attorney General,,Marty J. Jackley,REP,293
+Brookings,Holy Life Tabernacle,Attorney General,,Marty J. Jackley,REP,666
+Brookings,Volga Community Center,Attorney General,,Marty J. Jackley,REP,939
+Brookings,White McKnight Hall,Attorney General,,Marty J. Jackley,REP,427
+Brookings,Absentee Precinct,State Auditor,,Stephanie Marty,DEM,2162
+Brookings,Absentee Precinct,State Auditor,,Rene Meyer,LIB,213
+Brookings,Absentee Precinct,State Auditor,,Richard Sattgast,REP,2206
+Brookings,Aurora Little Hall,State Auditor,,Stephanie Marty,DEM,132
+Brookings,Aurora Little Hall,State Auditor,,Rene Meyer,LIB,33
+Brookings,Aurora Little Hall,State Auditor,,Richard Sattgast,REP,334
+Brookings,Bethel Baptist,State Auditor,,Stephanie Marty,DEM,588
+Brookings,Bethel Baptist,State Auditor,,Rene Meyer,LIB,128
+Brookings,Bethel Baptist,State Auditor,,Richard Sattgast,REP,1125
+Brookings,Brookings Activity Center,State Auditor,,Stephanie Marty,DEM,690
+Brookings,Brookings Activity Center,State Auditor,,Rene Meyer,LIB,133
+Brookings,Brookings Activity Center,State Auditor,,Richard Sattgast,REP,765
+Brookings,Bruce Community Room,State Auditor,,Stephanie Marty,DEM,70
+Brookings,Bruce Community Room,State Auditor,,Rene Meyer,LIB,18
+Brookings,Bruce Community Room,State Auditor,,Richard Sattgast,REP,275
+Brookings,Elkton Community Center,State Auditor,,Stephanie Marty,DEM,57
+Brookings,Elkton Community Center,State Auditor,,Rene Meyer,LIB,28
+Brookings,Elkton Community Center,State Auditor,,Richard Sattgast,REP,234
+Brookings,Holy Life Tabernacle,State Auditor,,Stephanie Marty,DEM,243
+Brookings,Holy Life Tabernacle,State Auditor,,Rene Meyer,LIB,51
+Brookings,Holy Life Tabernacle,State Auditor,,Richard Sattgast,REP,533
+Brookings,Volga Community Center,State Auditor,,Stephanie Marty,DEM,224
+Brookings,Volga Community Center,State Auditor,,Rene Meyer,LIB,79
+Brookings,Volga Community Center,State Auditor,,Richard Sattgast,REP,763
+Brookings,White McKnight Hall,State Auditor,,Stephanie Marty,DEM,80
+Brookings,White McKnight Hall,State Auditor,,Rene Meyer,LIB,26
+Brookings,White McKnight Hall,State Auditor,,Richard Sattgast,REP,367
+Brookings,Absentee Precinct,State Treasurer,,John Cunningham,DEM,2183
+Brookings,Absentee Precinct,State Treasurer,,Josh Haeder,REP,2364
+Brookings,Aurora Little Hall,State Treasurer,,John Cunningham,DEM,140
+Brookings,Aurora Little Hall,State Treasurer,,Josh Haeder,REP,360
+Brookings,Bethel Baptist,State Treasurer,,John Cunningham,DEM,608
+Brookings,Bethel Baptist,State Treasurer,,Josh Haeder,REP,1217
+Brookings,Brookings Activity Center,State Treasurer,,John Cunningham,DEM,724
+Brookings,Brookings Activity Center,State Treasurer,,Josh Haeder,REP,846
+Brookings,Bruce Community Room,State Treasurer,,John Cunningham,DEM,72
+Brookings,Bruce Community Room,State Treasurer,,Josh Haeder,REP,289
+Brookings,Elkton Community Center,State Treasurer,,John Cunningham,DEM,61
+Brookings,Elkton Community Center,State Treasurer,,Josh Haeder,REP,254
+Brookings,Holy Life Tabernacle,State Treasurer,,John Cunningham,DEM,253
+Brookings,Holy Life Tabernacle,State Treasurer,,Josh Haeder,REP,558
+Brookings,Volga Community Center,State Treasurer,,John Cunningham,DEM,235
+Brookings,Volga Community Center,State Treasurer,,Josh Haeder,REP,823
+Brookings,White McKnight Hall,State Treasurer,,John Cunningham,DEM,80
+Brookings,White McKnight Hall,State Treasurer,,Josh Haeder,REP,385
+Brookings,Absentee Precinct,Commissioner of School and Public Lands,,Timothy Azure,DEM,2140
+Brookings,Absentee Precinct,Commissioner of School and Public Lands,,Brock Greenfield,REP,2322
+Brookings,Aurora Little Hall,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
+Brookings,Aurora Little Hall,Commissioner of School and Public Lands,,Brock Greenfield,REP,373
+Brookings,Bethel Baptist,Commissioner of School and Public Lands,,Timothy Azure,DEM,630
+Brookings,Bethel Baptist,Commissioner of School and Public Lands,,Brock Greenfield,REP,1172
+Brookings,Brookings Activity Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,719
+Brookings,Brookings Activity Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,832
+Brookings,Bruce Community Room,Commissioner of School and Public Lands,,Timothy Azure,DEM,72
+Brookings,Bruce Community Room,Commissioner of School and Public Lands,,Brock Greenfield,REP,283
+Brookings,Elkton Community Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,59
+Brookings,Elkton Community Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,252
+Brookings,Holy Life Tabernacle,Commissioner of School and Public Lands,,Timothy Azure,DEM,260
+Brookings,Holy Life Tabernacle,Commissioner of School and Public Lands,,Brock Greenfield,REP,537
+Brookings,Volga Community Center,Commissioner of School and Public Lands,,Timothy Azure,DEM,240
+Brookings,Volga Community Center,Commissioner of School and Public Lands,,Brock Greenfield,REP,810
+Brookings,White McKnight Hall,Commissioner of School and Public Lands,,Timothy Azure,DEM,74
+Brookings,White McKnight Hall,Commissioner of School and Public Lands,,Brock Greenfield,REP,384
+Brookings,Absentee Precinct,Public Utilities Commissioner,,Jeffrey Barth,DEM,2007
+Brookings,Absentee Precinct,Public Utilities Commissioner,,Chris Nelson,REP,2584
+Brookings,Aurora Little Hall,Public Utilities Commissioner,,Jeffrey Barth,DEM,127
+Brookings,Aurora Little Hall,Public Utilities Commissioner,,Chris Nelson,REP,389
+Brookings,Bethel Baptist,Public Utilities Commissioner,,Jeffrey Barth,DEM,565
+Brookings,Bethel Baptist,Public Utilities Commissioner,,Chris Nelson,REP,1284
+Brookings,Brookings Activity Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,683
+Brookings,Brookings Activity Center,Public Utilities Commissioner,,Chris Nelson,REP,906
+Brookings,Bruce Community Room,Public Utilities Commissioner,,Jeffrey Barth,DEM,76
+Brookings,Bruce Community Room,Public Utilities Commissioner,,Chris Nelson,REP,293
+Brookings,Elkton Community Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,51
+Brookings,Elkton Community Center,Public Utilities Commissioner,,Chris Nelson,REP,270
+Brookings,Holy Life Tabernacle,Public Utilities Commissioner,,Jeffrey Barth,DEM,233
+Brookings,Holy Life Tabernacle,Public Utilities Commissioner,,Chris Nelson,REP,592
+Brookings,Volga Community Center,Public Utilities Commissioner,,Jeffrey Barth,DEM,208
+Brookings,Volga Community Center,Public Utilities Commissioner,,Chris Nelson,REP,877
+Brookings,White McKnight Hall,Public Utilities Commissioner,,Jeffrey Barth,DEM,63
+Brookings,White McKnight Hall,Public Utilities Commissioner,,Chris Nelson,REP,410
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,2037
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,240
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,878
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,655
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,182
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,168
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,380
+Brookings,Volga Community Center,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,527
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,223
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,1990
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,243
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,858
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,655
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,180
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,164
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,375
+Brookings,Volga Community Center,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,527
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,220
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,1900
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,232
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,833
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,622
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,173
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,163
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,367
+Brookings,Volga Community Center,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,505
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,215
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,2182
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,252
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,897
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,691
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,187
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,197
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,411
+Brookings,Volga Community Center,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,575
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,254
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,993
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,1161
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,128
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,112
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,424
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,455
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,351
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,374
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,103
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,92
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,68
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,108
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,187
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,203
+Brookings,Volga Community Center,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,348
+Brookings,Volga Community Center,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,216
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,97
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,141
+Brookings,Absentee Precinct,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,1877
+Brookings,Aurora Little Hall,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,222
+Brookings,Bethel Baptist,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,814
+Brookings,Brookings Activity Center,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,618
+Brookings,Bruce Community Room,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,170
+Brookings,Elkton Community Center,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,163
+Brookings,Holy Life Tabernacle,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,365
+Brookings,Volga Community Center,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,493
+Brookings,White McKnight Hall,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,209
+Brookings,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,3082
+Brookings,Absentee Precinct,Supreme Court Retention,3,Patricia J. DeVaney - No,,743
+Brookings,Aurora Little Hall,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,340
+Brookings,Aurora Little Hall,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
+Brookings,Bethel Baptist,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1235
+Brookings,Bethel Baptist,Supreme Court Retention,3,Patricia J. DeVaney - No,,268
+Brookings,Brookings Activity Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,979
+Brookings,Brookings Activity Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,314
+Brookings,Bruce Community Room,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,256
+Brookings,Bruce Community Room,Supreme Court Retention,3,Patricia J. DeVaney - No,,47
+Brookings,Elkton Community Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,246
+Brookings,Elkton Community Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
+Brookings,Holy Life Tabernacle,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,546
+Brookings,Holy Life Tabernacle,Supreme Court Retention,3,Patricia J. DeVaney - No,,111
+Brookings,Volga Community Center,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,759
+Brookings,Volga Community Center,Supreme Court Retention,3,Patricia J. DeVaney - No,,137
+Brookings,White McKnight Hall,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,344
+Brookings,White McKnight Hall,Supreme Court Retention,3,Patricia J. DeVaney - No,,58
+Brookings,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - Yes,,3054
+Brookings,Absentee Precinct,Supreme Court Retention,2,Mark E. Salter - No,,717
+Brookings,Aurora Little Hall,Supreme Court Retention,2,Mark E. Salter - Yes,,337
+Brookings,Aurora Little Hall,Supreme Court Retention,2,Mark E. Salter - No,,60
+Brookings,Bethel Baptist,Supreme Court Retention,2,Mark E. Salter - Yes,,1225
+Brookings,Bethel Baptist,Supreme Court Retention,2,Mark E. Salter - No,,256
+Brookings,Brookings Activity Center,Supreme Court Retention,2,Mark E. Salter - Yes,,953
+Brookings,Brookings Activity Center,Supreme Court Retention,2,Mark E. Salter - No,,330
+Brookings,Bruce Community Room,Supreme Court Retention,2,Mark E. Salter - Yes,,258
+Brookings,Bruce Community Room,Supreme Court Retention,2,Mark E. Salter - No,,42
+Brookings,Elkton Community Center,Supreme Court Retention,2,Mark E. Salter - Yes,,242
+Brookings,Elkton Community Center,Supreme Court Retention,2,Mark E. Salter - No,,44
+Brookings,Holy Life Tabernacle,Supreme Court Retention,2,Mark E. Salter - Yes,,540
+Brookings,Holy Life Tabernacle,Supreme Court Retention,2,Mark E. Salter - No,,116
+Brookings,Volga Community Center,Supreme Court Retention,2,Mark E. Salter - Yes,,748
+Brookings,Volga Community Center,Supreme Court Retention,2,Mark E. Salter - No,,132
+Brookings,White McKnight Hall,Supreme Court Retention,2,Mark E. Salter - Yes,,337
+Brookings,White McKnight Hall,Supreme Court Retention,2,Mark E. Salter - No,,61
+Brookings,Absentee Precinct,Constitutional Amendment D,,Yes,,3066
+Brookings,Absentee Precinct,Constitutional Amendment D,,No,,1664
+Brookings,Aurora Little Hall,Constitutional Amendment D,,Yes,,261
+Brookings,Aurora Little Hall,Constitutional Amendment D,,No,,257
+Brookings,Bethel Baptist,Constitutional Amendment D,,Yes,,1053
+Brookings,Bethel Baptist,Constitutional Amendment D,,No,,870
+Brookings,Brookings Activity Center,Constitutional Amendment D,,Yes,,1103
+Brookings,Brookings Activity Center,Constitutional Amendment D,,No,,559
+Brookings,Bruce Community Room,Constitutional Amendment D,,Yes,,160
+Brookings,Bruce Community Room,Constitutional Amendment D,,No,,207
+Brookings,Elkton Community Center,Constitutional Amendment D,,Yes,,161
+Brookings,Elkton Community Center,Constitutional Amendment D,,No,,188
+Brookings,Holy Life Tabernacle,Constitutional Amendment D,,Yes,,474
+Brookings,Holy Life Tabernacle,Constitutional Amendment D,,No,,398
+Brookings,Volga Community Center,Constitutional Amendment D,,Yes,,504
+Brookings,Volga Community Center,Constitutional Amendment D,,No,,588
+Brookings,White McKnight Hall,Constitutional Amendment D,,Yes,,203
+Brookings,White McKnight Hall,Constitutional Amendment D,,No,,272
+Brookings,Absentee Precinct,Initiated Measure 27,,Yes,,2565
+Brookings,Absentee Precinct,Initiated Measure 27,,No,,2226
+Brookings,Aurora Little Hall,Initiated Measure 27,,Yes,,259
+Brookings,Aurora Little Hall,Initiated Measure 27,,No,,274
+Brookings,Bethel Baptist,Initiated Measure 27,,Yes,,965
+Brookings,Bethel Baptist,Initiated Measure 27,,No,,994
+Brookings,Brookings Activity Center,Initiated Measure 27,,Yes,,1102
+Brookings,Brookings Activity Center,Initiated Measure 27,,No,,616
+Brookings,Bruce Community Room,Initiated Measure 27,,Yes,,134
+Brookings,Bruce Community Room,Initiated Measure 27,,No,,246
+Brookings,Elkton Community Center,Initiated Measure 27,,Yes,,143
+Brookings,Elkton Community Center,Initiated Measure 27,,No,,207
+Brookings,Holy Life Tabernacle,Initiated Measure 27,,Yes,,451
+Brookings,Holy Life Tabernacle,Initiated Measure 27,,No,,441
+Brookings,Volga Community Center,Initiated Measure 27,,Yes,,472
+Brookings,Volga Community Center,Initiated Measure 27,,No,,653
+Brookings,White McKnight Hall,Initiated Measure 27,,Yes,,148
+Brookings,White McKnight Hall,Initiated Measure 27,,No,,342
+Brookings,Absentee Precinct,State Senate,07,Tim Reed,REP,2631
+Brookings,Absentee Precinct,State Senate,08,Casey Crabtree,REP,574
+Brookings,Aurora Little Hall,State Senate,07,Tim Reed,REP,311
+Brookings,Aurora Little Hall,State Senate,08,Casey Crabtree,REP,97
+Brookings,Bethel Baptist,State Senate,07,Tim Reed,REP,1479
+Brookings,Bethel Baptist,State Senate,08,Casey Crabtree,REP,39
+Brookings,Brookings Activity Center,State Senate,07,Tim Reed,REP,1080
+Brookings,Brookings Activity Center,State Senate,08,Casey Crabtree,REP,83
+Brookings,Bruce Community Room,State Senate,07,Tim Reed,REP,20
+Brookings,Bruce Community Room,State Senate,08,Casey Crabtree,REP,274
+Brookings,Elkton Community Center,State Senate,07,Tim Reed,REP,7
+Brookings,Elkton Community Center,State Senate,08,Casey Crabtree,REP,251
+Brookings,Holy Life Tabernacle,State Senate,07,Tim Reed,REP,648
+Brookings,Holy Life Tabernacle,State Senate,08,Casey Crabtree,REP,15
+Brookings,Volga Community Center,State Senate,07,Tim Reed,REP,72
+Brookings,Volga Community Center,State Senate,08,Casey Crabtree,REP,793
+Brookings,White McKnight Hall 10 of 23,State Senate,07,Tim Reed,REP,15
+Brookings,White McKnight Hall 10 of 23,State Senate,08,Casey Crabtree,REP,380
+Brookings,Absentee Precinct,State House,07,Cole Sartell,DEM,1758
+Brookings,Absentee Precinct,State House,07,Mellissa Heermann,REP,1826
+Brookings,Absentee Precinct,State House,07,Roger DeGroot,REP,2089
+Brookings,Absentee Precinct,State House,08,Tim Reisch,REP,405
+Brookings,Absentee Precinct,State House,08,John Mills,REP,509
+Brookings,Aurora Little Hall,State House,07,Cole Sartell,DEM,114
+Brookings,Aurora Little Hall,State House,07,Mellissa Heermann,REP,226
+Brookings,Aurora Little Hall,State House,07,Roger DeGroot,REP,258
+Brookings,Aurora Little Hall,State House,08,Tim Reisch,REP,73
+Brookings,Aurora Little Hall,State House,08,John Mills,REP,83
+Brookings,Bethel Baptist,State House,07,Cole Sartell,DEM,608
+Brookings,Bethel Baptist,State House,07,Mellissa Heermann,REP,1108
+Brookings,Bethel Baptist,State House,07,Roger DeGroot,REP,1187
+Brookings,Bethel Baptist,State House,08,Tim Reisch,REP,25
+Brookings,Bethel Baptist,State House,08,John Mills,REP,35
+Brookings,Brookings Activity Center,State House,07,Cole Sartell,DEM,684
+Brookings,Brookings Activity Center,State House,07,Mellissa Heermann,REP,724
+Brookings,Brookings Activity Center,State House,07,Roger DeGroot,REP,799
+Brookings,Brookings Activity Center,State House,08,Tim Reisch,REP,47
+Brookings,Brookings Activity Center,State House,08,John Mills,REP,66
+Brookings,Bruce Community Room,State House,07,Cole Sartell,DEM,4
+Brookings,Bruce Community Room,State House,07,Mellissa Heermann,REP,15
+Brookings,Bruce Community Room,State House,07,Roger DeGroot,REP,17
+Brookings,Bruce Community Room,State House,08,Tim Reisch,REP,180
+Brookings,Bruce Community Room,State House,08,John Mills,REP,251
+Brookings,Elkton Community Center,State House,07,Cole Sartell,DEM,0
+Brookings,Elkton Community Center,State House,07,Mellissa Heermann,REP,5
+Brookings,Elkton Community Center,State House,07,Roger DeGroot,REP,6
+Brookings,Elkton Community Center,State House,08,Tim Reisch,REP,191
+Brookings,Elkton Community Center,State House,08,John Mills,REP,225
+Brookings,Holy Life Tabernacle,State House,07,Cole Sartell,DEM,242
+Brookings,Holy Life Tabernacle,State House,07,Mellissa Heermann,REP,502
+Brookings,Holy Life Tabernacle,State House,07,Roger DeGroot,REP,552
+Brookings,Holy Life Tabernacle,State House,08,Tim Reisch,REP,10
+Brookings,Holy Life Tabernacle,State House,08,John Mills,REP,10
+Brookings,Volga Community Center,State House,07,Cole Sartell,DEM,20
+Brookings,Volga Community Center,State House,07,Mellissa Heermann,REP,47
+Brookings,Volga Community Center,State House,07,Roger DeGroot,REP,57
+Brookings,Volga Community Center,State House,08,Tim Reisch,REP,573
+Brookings,Volga Community Center,State House,08,John Mills,REP,704
+Brookings,White McKnight Hall 11 of 23,State House,07,Cole Sartell,DEM,1
+Brookings,White McKnight Hall 11 of 23,State House,07,Mellissa Heermann,REP,8
+Brookings,White McKnight Hall 11 of 23,State House,07,Roger DeGroot,REP,15
+Brookings,White McKnight Hall 11 of 23,State House,08,Tim Reisch,REP,258
+Brookings,White McKnight Hall 11 of 23,State House,08,John Mills,REP,328

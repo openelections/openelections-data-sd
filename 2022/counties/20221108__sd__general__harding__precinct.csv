@@ -1,0 +1,313 @@
+county,precinct,office,district,candidate,party,votes
+Harding,01,U.S. Senate,,Brian L. Bengs,DEM,10
+Harding,01,U.S. Senate,,Tamara J Lesnar,LIB,8
+Harding,01,U.S. Senate,,John R. Thune,REP,106
+Harding,02,U.S. Senate,,Brian L. Bengs,DEM,6
+Harding,02,U.S. Senate,,Tamara J Lesnar,LIB,13
+Harding,02,U.S. Senate,,John R. Thune,REP,103
+Harding,03,U.S. Senate,,Brian L. Bengs,DEM,2
+Harding,03,U.S. Senate,,Tamara J Lesnar,LIB,2
+Harding,03,U.S. Senate,,John R. Thune,REP,39
+Harding,05,U.S. Senate,,Brian L. Bengs,DEM,1
+Harding,05,U.S. Senate,,Tamara J Lesnar,LIB,5
+Harding,05,U.S. Senate,,John R. Thune,REP,104
+Harding,06,U.S. Senate,,Brian L. Bengs,DEM,0
+Harding,06,U.S. Senate,,Tamara J Lesnar,LIB,3
+Harding,06,U.S. Senate,,John R. Thune,REP,28
+Harding,07,U.S. Senate,,Brian L. Bengs,DEM,3
+Harding,07,U.S. Senate,,Tamara J Lesnar,LIB,2
+Harding,07,U.S. Senate,,John R. Thune,REP,76
+Harding,08,U.S. Senate,,Brian L. Bengs,DEM,0
+Harding,08,U.S. Senate,,Tamara J Lesnar,LIB,1
+Harding,08,U.S. Senate,,John R. Thune,REP,48
+Harding,09,U.S. Senate,,Brian L. Bengs,DEM,0
+Harding,09,U.S. Senate,,Tamara J Lesnar,LIB,7
+Harding,09,U.S. Senate,,John R. Thune,REP,101
+Harding,01,U.S. House,1,Collin Duprel,LIB,22
+Harding,01,U.S. House,1,Dusty Johnson,REP,101
+Harding,02,U.S. House,1,Collin Duprel,LIB,33
+Harding,02,U.S. House,1,Dusty Johnson,REP,87
+Harding,03,U.S. House,1,Collin Duprel,LIB,8
+Harding,03,U.S. House,1,Dusty Johnson,REP,33
+Harding,05,U.S. House,1,Collin Duprel,LIB,21
+Harding,05,U.S. House,1,Dusty Johnson,REP,89
+Harding,06,U.S. House,1,Collin Duprel,LIB,8
+Harding,06,U.S. House,1,Dusty Johnson,REP,22
+Harding,07,U.S. House,1,Collin Duprel,LIB,13
+Harding,07,U.S. House,1,Dusty Johnson,REP,67
+Harding,08,U.S. House,1,Collin Duprel,LIB,10
+Harding,08,U.S. House,1,Dusty Johnson,REP,40
+Harding,09,U.S. House,1,Collin Duprel,LIB,28
+Harding,09,U.S. House,1,Dusty Johnson,REP,79
+Harding,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,11
+Harding,01,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Harding,01,Governor,,Kristi Noem and Larry Rhoden,REP,110
+Harding,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,9
+Harding,02,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Harding,02,Governor,,Kristi Noem and Larry Rhoden,REP,113
+Harding,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,2
+Harding,03,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Harding,03,Governor,,Kristi Noem and Larry Rhoden,REP,40
+Harding,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,6
+Harding,05,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Harding,05,Governor,,Kristi Noem and Larry Rhoden,REP,102
+Harding,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,0
+Harding,06,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Harding,06,Governor,,Kristi Noem and Larry Rhoden,REP,31
+Harding,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,3
+Harding,07,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Harding,07,Governor,,Kristi Noem and Larry Rhoden,REP,78
+Harding,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,0
+Harding,08,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Harding,08,Governor,,Kristi Noem and Larry Rhoden,REP,51
+Harding,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,2
+Harding,09,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Harding,09,Governor,,Kristi Noem and Larry Rhoden,REP,107
+Harding,01,Secretary of State,,Thomas A Cool,DEM,13
+Harding,01,Secretary of State,,Monae Johnson,REP,110
+Harding,02,Secretary of State,,Thomas A Cool,DEM,10
+Harding,02,Secretary of State,,Monae Johnson,REP,103
+Harding,03,Secretary of State,,Thomas A Cool,DEM,4
+Harding,03,Secretary of State,,Monae Johnson,REP,38
+Harding,05,Secretary of State,,Thomas A Cool,DEM,8
+Harding,05,Secretary of State,,Monae Johnson,REP,97
+Harding,06,Secretary of State,,Thomas A Cool,DEM,0
+Harding,06,Secretary of State,,Monae Johnson,REP,31
+Harding,07,Secretary of State,,Thomas A Cool,DEM,4
+Harding,07,Secretary of State,,Monae Johnson,REP,72
+Harding,08,Secretary of State,,Thomas A Cool,DEM,4
+Harding,08,Secretary of State,,Monae Johnson,REP,47
+Harding,09,Secretary of State,,Thomas A Cool,DEM,3
+Harding,09,Secretary of State,,Monae Johnson,REP,107
+Harding,01,Attorney General,,Marty J. Jackley,REP,113
+Harding,02,Attorney General,,Marty J. Jackley,REP,98
+Harding,03,Attorney General,,Marty J. Jackley,REP,41
+Harding,05,Attorney General,,Marty J. Jackley,REP,100
+Harding,06,Attorney General,,Marty J. Jackley,REP,31
+Harding,07,Attorney General,,Marty J. Jackley,REP,74
+Harding,08,Attorney General,,Marty J. Jackley,REP,49
+Harding,09,Attorney General,,Marty J. Jackley,REP,103
+Harding,01,State Auditor,,Stephanie Marty,DEM,17
+Harding,01,State Auditor,,Rene Meyer,LIB,6
+Harding,01,State Auditor,,Richard Sattgast,REP,100
+Harding,02,State Auditor,,Stephanie Marty,DEM,12
+Harding,02,State Auditor,,Rene Meyer,LIB,10
+Harding,02,State Auditor,,Richard Sattgast,REP,93
+Harding,03,State Auditor,,Stephanie Marty,DEM,4
+Harding,03,State Auditor,,Rene Meyer,LIB,2
+Harding,03,State Auditor,,Richard Sattgast,REP,35
+Harding,05,State Auditor,,Stephanie Marty,DEM,9
+Harding,05,State Auditor,,Rene Meyer,LIB,8
+Harding,05,State Auditor,,Richard Sattgast,REP,91
+Harding,06,State Auditor,,Stephanie Marty,DEM,0
+Harding,06,State Auditor,,Rene Meyer,LIB,1
+Harding,06,State Auditor,,Richard Sattgast,REP,30
+Harding,07,State Auditor,,Stephanie Marty,DEM,7
+Harding,07,State Auditor,,Rene Meyer,LIB,3
+Harding,07,State Auditor,,Richard Sattgast,REP,70
+Harding,08,State Auditor,,Stephanie Marty,DEM,1
+Harding,08,State Auditor,,Rene Meyer,LIB,1
+Harding,08,State Auditor,,Richard Sattgast,REP,49
+Harding,09,State Auditor,,Stephanie Marty,DEM,7
+Harding,09,State Auditor,,Rene Meyer,LIB,6
+Harding,09,State Auditor,,Richard Sattgast,REP,94
+Harding,01,State Treasurer,,John Cunningham,DEM,11
+Harding,01,State Treasurer,,Josh Haeder,REP,109
+Harding,02,State Treasurer,,John Cunningham,DEM,8
+Harding,02,State Treasurer,,Josh Haeder,REP,106
+Harding,03,State Treasurer,,John Cunningham,DEM,6
+Harding,03,State Treasurer,,Josh Haeder,REP,36
+Harding,05,State Treasurer,,John Cunningham,DEM,6
+Harding,05,State Treasurer,,Josh Haeder,REP,103
+Harding,06,State Treasurer,,John Cunningham,DEM,0
+Harding,06,State Treasurer,,Josh Haeder,REP,31
+Harding,07,State Treasurer,,John Cunningham,DEM,2
+Harding,07,State Treasurer,,Josh Haeder,REP,75
+Harding,08,State Treasurer,,John Cunningham,DEM,1
+Harding,08,State Treasurer,,Josh Haeder,REP,50
+Harding,09,State Treasurer,,John Cunningham,DEM,5
+Harding,09,State Treasurer,,Josh Haeder,REP,102
+Harding,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,9
+Harding,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,113
+Harding,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,9
+Harding,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,104
+Harding,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,4
+Harding,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,38
+Harding,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,9
+Harding,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,97
+Harding,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,0
+Harding,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,31
+Harding,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,1
+Harding,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,76
+Harding,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,1
+Harding,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,50
+Harding,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,0
+Harding,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,107
+Harding,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,7
+Harding,01,Public Utilities Commissioner,,Chris Nelson,REP,112
+Harding,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,11
+Harding,02,Public Utilities Commissioner,,Chris Nelson,REP,100
+Harding,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,3
+Harding,03,Public Utilities Commissioner,,Chris Nelson,REP,39
+Harding,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
+Harding,05,Public Utilities Commissioner,,Chris Nelson,REP,102
+Harding,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,0
+Harding,06,Public Utilities Commissioner,,Chris Nelson,REP,31
+Harding,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,2
+Harding,07,Public Utilities Commissioner,,Chris Nelson,REP,73
+Harding,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,2
+Harding,08,Public Utilities Commissioner,,Chris Nelson,REP,49
+Harding,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,3
+Harding,09,Public Utilities Commissioner,,Chris Nelson,REP,105
+Harding,01,State Senate,28,Ryan M. Maher,REP,111
+Harding,02,State Senate,28,Ryan M. Maher,REP,113
+Harding,03,State Senate,28,Ryan M. Maher,REP,39
+Harding,05,State Senate,28,Ryan M. Maher,REP,100
+Harding,06,State Senate,28,Ryan M. Maher,REP,31
+Harding,07,State Senate,28,Ryan M. Maher,REP,75
+Harding,08,State Senate,28,Ryan M. Maher,REP,51
+Harding,09,State Senate,28,Ryan M. Maher,REP,104
+Harding,01,State House,28B,Neal Pinnow,REP,101
+Harding,01,State House,28B,Calvin Reilly,IND,19
+Harding,02,State House,28B,Neal Pinnow,REP,94
+Harding,02,State House,28B,Calvin Reilly,IND,15
+Harding,03,State House,28B,Neal Pinnow,REP,36
+Harding,03,State House,28B,Calvin Reilly,IND,4
+Harding,05,State House,28B,Neal Pinnow,REP,98
+Harding,05,State House,28B,Calvin Reilly,IND,7
+Harding,06,State House,28B,Neal Pinnow,REP,29
+Harding,06,State House,28B,Calvin Reilly,IND,1
+Harding,07,State House,28B,Neal Pinnow,REP,73
+Harding,07,State House,28B,Calvin Reilly,IND,5
+Harding,08,State House,28B,Neal Pinnow,REP,48
+Harding,08,State House,28B,Calvin Reilly,IND,4
+Harding,09,State House,28B,Neal Pinnow,REP,98
+Harding,09,State House,28B,Calvin Reilly,IND,8
+Harding,01,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,68
+Harding,02,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,57
+Harding,03,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,24
+Harding,05,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,65
+Harding,06,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,17
+Harding,07,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,40
+Harding,08,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,31
+Harding,09,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,52
+Harding,01,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,70
+Harding,02,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,67
+Harding,03,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,23
+Harding,05,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,70
+Harding,06,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,17
+Harding,07,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,45
+Harding,08,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,32
+Harding,09,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,58
+Harding,01,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,64
+Harding,02,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,57
+Harding,03,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,22
+Harding,05,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,65
+Harding,06,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,18
+Harding,07,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,42
+Harding,08,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,30
+Harding,09,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,54
+Harding,01,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,5
+Harding,01,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,13
+Harding,01,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,13
+Harding,01,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,26
+Harding,01,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,30
+Harding,02,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,7
+Harding,02,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,10
+Harding,02,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,10
+Harding,02,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,20
+Harding,02,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,37
+Harding,03,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,2
+Harding,03,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,1
+Harding,03,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,7
+Harding,03,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,4
+Harding,03,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,10
+Harding,05,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,6
+Harding,05,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,18
+Harding,05,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,13
+Harding,05,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,23
+Harding,05,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,26
+Harding,06,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
+Harding,06,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Harding,06,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,2
+Harding,06,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,6
+Harding,06,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,3
+Harding,07,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,6
+Harding,07,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,8
+Harding,07,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,21
+Harding,07,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,8
+Harding,07,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
+Harding,08,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,0
+Harding,08,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,16
+Harding,08,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
+Harding,08,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,8
+Harding,08,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,9
+Harding,09,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,0
+Harding,09,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,22
+Harding,09,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,7
+Harding,09,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,14
+Harding,09,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,27
+Harding,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,84
+Harding,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Harding,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,88
+Harding,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
+Harding,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,33
+Harding,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,2
+Harding,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,77
+Harding,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Harding,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,21
+Harding,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,3
+Harding,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,53
+Harding,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Harding,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,35
+Harding,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,6
+Harding,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,76
+Harding,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Harding,01,Supreme Court Retention,2,Mark E. Salter - Yes,,88
+Harding,01,Supreme Court Retention,2,Mark E. Salter - No,,17
+Harding,02,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Harding,02,Supreme Court Retention,2,Mark E. Salter - No,,13
+Harding,03,Supreme Court Retention,2,Mark E. Salter - Yes,,31
+Harding,03,Supreme Court Retention,2,Mark E. Salter - No,,3
+Harding,05,Supreme Court Retention,2,Mark E. Salter - Yes,,74
+Harding,05,Supreme Court Retention,2,Mark E. Salter - No,,13
+Harding,06,Supreme Court Retention,2,Mark E. Salter - Yes,,22
+Harding,06,Supreme Court Retention,2,Mark E. Salter - No,,2
+Harding,07,Supreme Court Retention,2,Mark E. Salter - Yes,,50
+Harding,07,Supreme Court Retention,2,Mark E. Salter - No,,15
+Harding,08,Supreme Court Retention,2,Mark E. Salter - Yes,,34
+Harding,08,Supreme Court Retention,2,Mark E. Salter - No,,6
+Harding,09,Supreme Court Retention,2,Mark E. Salter - Yes,,75
+Harding,09,Supreme Court Retention,2,Mark E. Salter - No,,8
+Harding,01,Constitutional Amendment D,,Yes,,48
+Harding,01,Constitutional Amendment D,,No,,77
+Harding,02,Constitutional Amendment D,,Yes,,42
+Harding,02,Constitutional Amendment D,,No,,81
+Harding,03,Constitutional Amendment D,,Yes,,14
+Harding,03,Constitutional Amendment D,,No,,29
+Harding,05,Constitutional Amendment D,,Yes,,45
+Harding,05,Constitutional Amendment D,,No,,66
+Harding,06,Constitutional Amendment D,,Yes,,8
+Harding,06,Constitutional Amendment D,,No,,21
+Harding,07,Constitutional Amendment D,,Yes,,24
+Harding,07,Constitutional Amendment D,,No,,49
+Harding,08,Constitutional Amendment D,,Yes,,8
+Harding,08,Constitutional Amendment D,,No,,44
+Harding,09,Constitutional Amendment D,,Yes,,29
+Harding,09,Constitutional Amendment D,,No,,81
+Harding,01,Initiated Measure 27,,Yes,,27
+Harding,01,Initiated Measure 27,,No,,98
+Harding,02,Initiated Measure 27,,Yes,,23
+Harding,02,Initiated Measure 27,,No,,102
+Harding,03,Initiated Measure 27,,Yes,,6
+Harding,03,Initiated Measure 27,,No,,37
+Harding,05,Initiated Measure 27,,Yes,,23
+Harding,05,Initiated Measure 27,,No,,90
+Harding,06,Initiated Measure 27,,Yes,,4
+Harding,06,Initiated Measure 27,,No,,26
+Harding,07,Initiated Measure 27,,Yes,,22
+Harding,07,Initiated Measure 27,,No,,59
+Harding,08,Initiated Measure 27,,Yes,,7
+Harding,08,Initiated Measure 27,,No,,45
+Harding,09,Initiated Measure 27,,Yes,,9
+Harding,09,Initiated Measure 27,,No,,101

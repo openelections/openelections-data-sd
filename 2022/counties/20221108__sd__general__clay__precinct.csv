@@ -1,0 +1,421 @@
+county,precinct,office,district,candidate,party,votes
+Clay,01,U.S. Senate,,Brian L. Bengs,DEM,79
+Clay,01,U.S. Senate,,Tamara J Lesnar,LIB,10
+Clay,01,U.S. Senate,,John R. Thune,REP,288
+Clay,02,U.S. Senate,,Brian L. Bengs,DEM,79
+Clay,02,U.S. Senate,,Tamara J Lesnar,LIB,15
+Clay,02,U.S. Senate,,John R. Thune,REP,219
+Clay,03,U.S. Senate,,Brian L. Bengs,DEM,293
+Clay,03,U.S. Senate,,Tamara J Lesnar,LIB,30
+Clay,03,U.S. Senate,,John R. Thune,REP,608
+Clay,C1,U.S. Senate,,Brian L. Bengs,DEM,227
+Clay,C1,U.S. Senate,,Tamara J Lesnar,LIB,10
+Clay,C1,U.S. Senate,,John R. Thune,REP,85
+Clay,C2,U.S. Senate,,Brian L. Bengs,DEM,95
+Clay,C2,U.S. Senate,,Tamara J Lesnar,LIB,11
+Clay,C2,U.S. Senate,,John R. Thune,REP,41
+Clay,E1,U.S. Senate,,Brian L. Bengs,DEM,139
+Clay,E1,U.S. Senate,,Tamara J Lesnar,LIB,6
+Clay,E1,U.S. Senate,,John R. Thune,REP,144
+Clay,E2,U.S. Senate,,Brian L. Bengs,DEM,51
+Clay,E2,U.S. Senate,,Tamara J Lesnar,LIB,7
+Clay,E2,U.S. Senate,,John R. Thune,REP,48
+Clay,S1,U.S. Senate,,Brian L. Bengs,DEM,337
+Clay,S1,U.S. Senate,,Tamara J Lesnar,LIB,19
+Clay,S1,U.S. Senate,,John R. Thune,REP,401
+Clay,S2,U.S. Senate,,Brian L. Bengs,DEM,282
+Clay,S2,U.S. Senate,,Tamara J Lesnar,LIB,12
+Clay,S2,U.S. Senate,,John R. Thune,REP,243
+Clay,W1,U.S. Senate,,Brian L. Bengs,DEM,270
+Clay,W1,U.S. Senate,,Tamara J Lesnar,LIB,16
+Clay,W1,U.S. Senate,,John R. Thune,REP,280
+Clay,W2,U.S. Senate,,Brian L. Bengs,DEM,190
+Clay,W2,U.S. Senate,,Tamara J Lesnar,LIB,13
+Clay,W2,U.S. Senate,,John R. Thune,REP,165
+Clay,01,U.S. House,1,Collin Duprel,LIB,55
+Clay,01,U.S. House,1,Dusty Johnson,REP,296
+Clay,02,U.S. House,1,Collin Duprel,LIB,56
+Clay,02,U.S. House,1,Dusty Johnson,REP,245
+Clay,03,U.S. House,1,Collin Duprel,LIB,171
+Clay,03,U.S. House,1,Dusty Johnson,REP,674
+Clay,C1,U.S. House,1,Collin Duprel,LIB,116
+Clay,C1,U.S. House,1,Dusty Johnson,REP,132
+Clay,C2,U.S. House,1,Collin Duprel,LIB,61
+Clay,C2,U.S. House,1,Dusty Johnson,REP,66
+Clay,E1,U.S. House,1,Collin Duprel,LIB,85
+Clay,E1,U.S. House,1,Dusty Johnson,REP,160
+Clay,E2,U.S. House,1,Collin Duprel,LIB,41
+Clay,E2,U.S. House,1,Dusty Johnson,REP,53
+Clay,S1,U.S. House,1,Collin Duprel,LIB,183
+Clay,S1,U.S. House,1,Dusty Johnson,REP,486
+Clay,S2,U.S. House,1,Collin Duprel,LIB,128
+Clay,S2,U.S. House,1,Dusty Johnson,REP,316
+Clay,W1,U.S. House,1,Collin Duprel,LIB,167
+Clay,W1,U.S. House,1,Dusty Johnson,REP,328
+Clay,W2,U.S. House,1,Collin Duprel,LIB,100
+Clay,W2,U.S. House,1,Dusty Johnson,REP,215
+Clay,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,111
+Clay,01,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Clay,01,Governor,,Kristi Noem and Larry Rhoden,REP,263
+Clay,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,114
+Clay,02,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Clay,02,Governor,,Kristi Noem and Larry Rhoden,REP,189
+Clay,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,405
+Clay,03,Governor,,Tracey Quint and Ashley Strand,LIB,21
+Clay,03,Governor,,Kristi Noem and Larry Rhoden,REP,510
+Clay,C1,Governor,,Jamie Smith and Jennifer Keintz,DEM,256
+Clay,C1,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Clay,C1,Governor,,Kristi Noem and Larry Rhoden,REP,64
+Clay,C2,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Clay,C2,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Clay,C2,Governor,,Kristi Noem and Larry Rhoden,REP,41
+Clay,E1,Governor,,Jamie Smith and Jennifer Keintz,DEM,168
+Clay,E1,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Clay,E1,Governor,,Kristi Noem and Larry Rhoden,REP,118
+Clay,E2,Governor,,Jamie Smith and Jennifer Keintz,DEM,74
+Clay,E2,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Clay,E2,Governor,,Kristi Noem and Larry Rhoden,REP,31
+Clay,S1,Governor,,Jamie Smith and Jennifer Keintz,DEM,441
+Clay,S1,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Clay,S1,Governor,,Kristi Noem and Larry Rhoden,REP,309
+Clay,S2,Governor,,Jamie Smith and Jennifer Keintz,DEM,347
+Clay,S2,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Clay,S2,Governor,,Kristi Noem and Larry Rhoden,REP,179
+Clay,W1,Governor,,Jamie Smith and Jennifer Keintz,DEM,339
+Clay,W1,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Clay,W1,Governor,,Kristi Noem and Larry Rhoden,REP,210
+Clay,W2,Governor,,Jamie Smith and Jennifer Keintz,DEM,220
+Clay,W2,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Clay,W2,Governor,,Kristi Noem and Larry Rhoden,REP,140
+Clay,01,Secretary of State,,Thomas A Cool,DEM,105
+Clay,01,Secretary of State,,Monae Johnson,REP,252
+Clay,02,Secretary of State,,Thomas A Cool,DEM,109
+Clay,02,Secretary of State,,Monae Johnson,REP,180
+Clay,03,Secretary of State,,Thomas A Cool,DEM,370
+Clay,03,Secretary of State,,Monae Johnson,REP,500
+Clay,C1,Secretary of State,,Thomas A Cool,DEM,243
+Clay,C1,Secretary of State,,Monae Johnson,REP,67
+Clay,C2,Secretary of State,,Thomas A Cool,DEM,98
+Clay,C2,Secretary of State,,Monae Johnson,REP,42
+Clay,E1,Secretary of State,,Thomas A Cool,DEM,160
+Clay,E1,Secretary of State,,Monae Johnson,REP,112
+Clay,E2,Secretary of State,,Thomas A Cool,DEM,62
+Clay,E2,Secretary of State,,Monae Johnson,REP,36
+Clay,S1,Secretary of State,,Thomas A Cool,DEM,418
+Clay,S1,Secretary of State,,Monae Johnson,REP,291
+Clay,S2,Secretary of State,,Thomas A Cool,DEM,318
+Clay,S2,Secretary of State,,Monae Johnson,REP,184
+Clay,W1,Secretary of State,,Thomas A Cool,DEM,330
+Clay,W1,Secretary of State,,Monae Johnson,REP,221
+Clay,W2,Secretary of State,,Thomas A Cool,DEM,204
+Clay,W2,Secretary of State,,Monae Johnson,REP,144
+Clay,01,Attorney General,,Marty J. Jackley,REP,300
+Clay,02,Attorney General,,Marty J. Jackley,REP,225
+Clay,03,Attorney General,,Marty J. Jackley,REP,647
+Clay,C1,Attorney General,,Marty J. Jackley,REP,135
+Clay,C2,Attorney General,,Marty J. Jackley,REP,64
+Clay,E1,Attorney General,,Marty J. Jackley,REP,154
+Clay,E2,Attorney General,,Marty J. Jackley,REP,48
+Clay,S1,Attorney General,,Marty J. Jackley,REP,461
+Clay,S2,Attorney General,,Marty J. Jackley,REP,278
+Clay,W1,Attorney General,,Marty J. Jackley,REP,319
+Clay,W2,Attorney General,,Marty J. Jackley,REP,212
+Clay,01,State Auditor,,Stephanie Marty,DEM,83
+Clay,01,State Auditor,,Rene Meyer,LIB,11
+Clay,01,State Auditor,,Richard Sattgast,REP,264
+Clay,02,State Auditor,,Stephanie Marty,DEM,94
+Clay,02,State Auditor,,Rene Meyer,LIB,21
+Clay,02,State Auditor,,Richard Sattgast,REP,173
+Clay,03,State Auditor,,Stephanie Marty,DEM,348
+Clay,03,State Auditor,,Rene Meyer,LIB,37
+Clay,03,State Auditor,,Richard Sattgast,REP,480
+Clay,C1,State Auditor,,Stephanie Marty,DEM,234
+Clay,C1,State Auditor,,Rene Meyer,LIB,9
+Clay,C1,State Auditor,,Richard Sattgast,REP,66
+Clay,C2,State Auditor,,Stephanie Marty,DEM,90
+Clay,C2,State Auditor,,Rene Meyer,LIB,10
+Clay,C2,State Auditor,,Richard Sattgast,REP,37
+Clay,E1,State Auditor,,Stephanie Marty,DEM,146
+Clay,E1,State Auditor,,Rene Meyer,LIB,8
+Clay,E1,State Auditor,,Richard Sattgast,REP,114
+Clay,E2,State Auditor,,Stephanie Marty,DEM,55
+Clay,E2,State Auditor,,Rene Meyer,LIB,11
+Clay,E2,State Auditor,,Richard Sattgast,REP,33
+Clay,S1,State Auditor,,Stephanie Marty,DEM,379
+Clay,S1,State Auditor,,Rene Meyer,LIB,23
+Clay,S1,State Auditor,,Richard Sattgast,REP,311
+Clay,S2,State Auditor,,Stephanie Marty,DEM,304
+Clay,S2,State Auditor,,Rene Meyer,LIB,14
+Clay,S2,State Auditor,,Richard Sattgast,REP,190
+Clay,W1,State Auditor,,Stephanie Marty,DEM,305
+Clay,W1,State Auditor,,Rene Meyer,LIB,28
+Clay,W1,State Auditor,,Richard Sattgast,REP,205
+Clay,W2,State Auditor,,Stephanie Marty,DEM,192
+Clay,W2,State Auditor,,Rene Meyer,LIB,13
+Clay,W2,State Auditor,,Richard Sattgast,REP,144
+Clay,01,State Treasurer,,John Cunningham,DEM,93
+Clay,01,State Treasurer,,Josh Haeder,REP,265
+Clay,02,State Treasurer,,John Cunningham,DEM,101
+Clay,02,State Treasurer,,Josh Haeder,REP,188
+Clay,03,State Treasurer,,John Cunningham,DEM,365
+Clay,03,State Treasurer,,Josh Haeder,REP,497
+Clay,C1,State Treasurer,,John Cunningham,DEM,235
+Clay,C1,State Treasurer,,Josh Haeder,REP,73
+Clay,C2,State Treasurer,,John Cunningham,DEM,96
+Clay,C2,State Treasurer,,Josh Haeder,REP,43
+Clay,E1,State Treasurer,,John Cunningham,DEM,147
+Clay,E1,State Treasurer,,Josh Haeder,REP,124
+Clay,E2,State Treasurer,,John Cunningham,DEM,57
+Clay,E2,State Treasurer,,Josh Haeder,REP,38
+Clay,S1,State Treasurer,,John Cunningham,DEM,374
+Clay,S1,State Treasurer,,Josh Haeder,REP,323
+Clay,S2,State Treasurer,,John Cunningham,DEM,309
+Clay,S2,State Treasurer,,Josh Haeder,REP,197
+Clay,W1,State Treasurer,,John Cunningham,DEM,304
+Clay,W1,State Treasurer,,Josh Haeder,REP,225
+Clay,W2,State Treasurer,,John Cunningham,DEM,201
+Clay,W2,State Treasurer,,Josh Haeder,REP,143
+Clay,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,93
+Clay,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,254
+Clay,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,92
+Clay,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,181
+Clay,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,348
+Clay,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,501
+Clay,C1,Commissioner of School and Public Lands,,Timothy Azure,DEM,234
+Clay,C1,Commissioner of School and Public Lands,,Brock Greenfield,REP,72
+Clay,C2,Commissioner of School and Public Lands,,Timothy Azure,DEM,96
+Clay,C2,Commissioner of School and Public Lands,,Brock Greenfield,REP,40
+Clay,E1,Commissioner of School and Public Lands,,Timothy Azure,DEM,148
+Clay,E1,Commissioner of School and Public Lands,,Brock Greenfield,REP,118
+Clay,E2,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Clay,E2,Commissioner of School and Public Lands,,Brock Greenfield,REP,40
+Clay,S1,Commissioner of School and Public Lands,,Timothy Azure,DEM,368
+Clay,S1,Commissioner of School and Public Lands,,Brock Greenfield,REP,325
+Clay,S2,Commissioner of School and Public Lands,,Timothy Azure,DEM,306
+Clay,S2,Commissioner of School and Public Lands,,Brock Greenfield,REP,191
+Clay,W1,Commissioner of School and Public Lands,,Timothy Azure,DEM,306
+Clay,W1,Commissioner of School and Public Lands,,Brock Greenfield,REP,226
+Clay,W2,Commissioner of School and Public Lands,,Timothy Azure,DEM,195
+Clay,W2,Commissioner of School and Public Lands,,Brock Greenfield,REP,137
+Clay,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,86
+Clay,01,Public Utilities Commissioner,,Chris Nelson,REP,271
+Clay,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,71
+Clay,02,Public Utilities Commissioner,,Chris Nelson,REP,223
+Clay,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,324
+Clay,03,Public Utilities Commissioner,,Chris Nelson,REP,560
+Clay,C1,Public Utilities Commissioner,,Jeffrey Barth,DEM,228
+Clay,C1,Public Utilities Commissioner,,Chris Nelson,REP,77
+Clay,C2,Public Utilities Commissioner,,Jeffrey Barth,DEM,92
+Clay,C2,Public Utilities Commissioner,,Chris Nelson,REP,45
+Clay,E1,Public Utilities Commissioner,,Jeffrey Barth,DEM,145
+Clay,E1,Public Utilities Commissioner,,Chris Nelson,REP,128
+Clay,E2,Public Utilities Commissioner,,Jeffrey Barth,DEM,55
+Clay,E2,Public Utilities Commissioner,,Chris Nelson,REP,42
+Clay,S1,Public Utilities Commissioner,,Jeffrey Barth,DEM,352
+Clay,S1,Public Utilities Commissioner,,Chris Nelson,REP,361
+Clay,S2,Public Utilities Commissioner,,Jeffrey Barth,DEM,288
+Clay,S2,Public Utilities Commissioner,,Chris Nelson,REP,215
+Clay,W1,Public Utilities Commissioner,,Jeffrey Barth,DEM,293
+Clay,W1,Public Utilities Commissioner,,Chris Nelson,REP,250
+Clay,W2,Public Utilities Commissioner,,Jeffrey Barth,DEM,183
+Clay,W2,Public Utilities Commissioner,,Chris Nelson,REP,161
+Clay,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,161
+Clay,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,121
+Clay,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,331
+Clay,C1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,104
+Clay,C2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,45
+Clay,E1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,100
+Clay,E2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,32
+Clay,S1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,273
+Clay,S2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,190
+Clay,W1,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,219
+Clay,W2,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,141
+Clay,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,157
+Clay,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,125
+Clay,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,325
+Clay,C1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,108
+Clay,C2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,45
+Clay,E1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,95
+Clay,E2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,30
+Clay,S1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,267
+Clay,S2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,185
+Clay,W1,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,215
+Clay,W2,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,143
+Clay,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,155
+Clay,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,122
+Clay,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,322
+Clay,C1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,111
+Clay,C2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,41
+Clay,E1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,94
+Clay,E2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,32
+Clay,S1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,257
+Clay,S2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,181
+Clay,W1,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,209
+Clay,W2,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,136
+Clay,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,160
+Clay,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,119
+Clay,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,339
+Clay,C1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,123
+Clay,C2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,48
+Clay,E1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,102
+Clay,E2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,35
+Clay,S1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,278
+Clay,S2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,197
+Clay,W1,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,216
+Clay,W2,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,148
+Clay,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,150
+Clay,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,119
+Clay,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,314
+Clay,C1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,104
+Clay,C2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,44
+Clay,E1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,97
+Clay,E2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,30
+Clay,S1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,260
+Clay,S2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,177
+Clay,W1,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,205
+Clay,W2,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,135
+Clay,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,190
+Clay,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,134
+Clay,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,475
+Clay,C1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,155
+Clay,C2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,57
+Clay,E1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,123
+Clay,E2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,40
+Clay,S1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,370
+Clay,S2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,253
+Clay,W1,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,269
+Clay,W2,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,175
+Clay,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,260
+Clay,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,52
+Clay,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,219
+Clay,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
+Clay,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,608
+Clay,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,148
+Clay,C1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,184
+Clay,C1,Supreme Court Retention,3,Patricia J. DeVaney - No,,66
+Clay,C2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
+Clay,C2,Supreme Court Retention,3,Patricia J. DeVaney - No,,43
+Clay,E1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,161
+Clay,E1,Supreme Court Retention,3,Patricia J. DeVaney - No,,75
+Clay,E2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,56
+Clay,E2,Supreme Court Retention,3,Patricia J. DeVaney - No,,25
+Clay,S1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,490
+Clay,S1,Supreme Court Retention,3,Patricia J. DeVaney - No,,109
+Clay,S2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,346
+Clay,S2,Supreme Court Retention,3,Patricia J. DeVaney - No,,82
+Clay,W1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,348
+Clay,W1,Supreme Court Retention,3,Patricia J. DeVaney - No,,117
+Clay,W2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,241
+Clay,W2,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
+Clay,01,Supreme Court Retention,2,Mark E. Salter - Yes,,252
+Clay,01,Supreme Court Retention,2,Mark E. Salter - No,,51
+Clay,02,Supreme Court Retention,2,Mark E. Salter - Yes,,216
+Clay,02,Supreme Court Retention,2,Mark E. Salter - No,,48
+Clay,03,Supreme Court Retention,2,Mark E. Salter - Yes,,589
+Clay,03,Supreme Court Retention,2,Mark E. Salter - No,,157
+Clay,C1,Supreme Court Retention,2,Mark E. Salter - Yes,,181
+Clay,C1,Supreme Court Retention,2,Mark E. Salter - No,,68
+Clay,C2,Supreme Court Retention,2,Mark E. Salter - Yes,,72
+Clay,C2,Supreme Court Retention,2,Mark E. Salter - No,,45
+Clay,E1,Supreme Court Retention,2,Mark E. Salter - Yes,,162
+Clay,E1,Supreme Court Retention,2,Mark E. Salter - No,,72
+Clay,E2,Supreme Court Retention,2,Mark E. Salter - Yes,,54
+Clay,E2,Supreme Court Retention,2,Mark E. Salter - No,,29
+Clay,S1,Supreme Court Retention,2,Mark E. Salter - Yes,,484
+Clay,S1,Supreme Court Retention,2,Mark E. Salter - No,,107
+Clay,S2,Supreme Court Retention,2,Mark E. Salter - Yes,,332
+Clay,S2,Supreme Court Retention,2,Mark E. Salter - No,,91
+Clay,W1,Supreme Court Retention,2,Mark E. Salter - Yes,,342
+Clay,W1,Supreme Court Retention,2,Mark E. Salter - No,,125
+Clay,W2,Supreme Court Retention,2,Mark E. Salter - Yes,,233
+Clay,W2,Supreme Court Retention,2,Mark E. Salter - No,,69
+Clay,01,Constitutional Amendment D,,Yes,,167
+Clay,01,Constitutional Amendment D,,No,,198
+Clay,02,Constitutional Amendment D,,Yes,,180
+Clay,02,Constitutional Amendment D,,No,,130
+Clay,03,Constitutional Amendment D,,Yes,,535
+Clay,03,Constitutional Amendment D,,No,,354
+Clay,C1,Constitutional Amendment D,,Yes,,275
+Clay,C1,Constitutional Amendment D,,No,,39
+Clay,C2,Constitutional Amendment D,,Yes,,114
+Clay,C2,Constitutional Amendment D,,No,,33
+Clay,E1,Constitutional Amendment D,,Yes,,197
+Clay,E1,Constitutional Amendment D,,No,,88
+Clay,E2,Constitutional Amendment D,,Yes,,80
+Clay,E2,Constitutional Amendment D,,No,,29
+Clay,S1,Constitutional Amendment D,,Yes,,523
+Clay,S1,Constitutional Amendment D,,No,,218
+Clay,S2,Constitutional Amendment D,,Yes,,393
+Clay,S2,Constitutional Amendment D,,No,,137
+Clay,W1,Constitutional Amendment D,,Yes,,410
+Clay,W1,Constitutional Amendment D,,No,,154
+Clay,W2,Constitutional Amendment D,,Yes,,266
+Clay,W2,Constitutional Amendment D,,No,,102
+Clay,01,Initiated Measure 27,,Yes,,141
+Clay,01,Initiated Measure 27,,No,,230
+Clay,02,Initiated Measure 27,,Yes,,163
+Clay,02,Initiated Measure 27,,No,,152
+Clay,03,Initiated Measure 27,,Yes,,510
+Clay,03,Initiated Measure 27,,No,,407
+Clay,C1,Initiated Measure 27,,Yes,,253
+Clay,C1,Initiated Measure 27,,No,,66
+Clay,C2,Initiated Measure 27,,Yes,,124
+Clay,C2,Initiated Measure 27,,No,,21
+Clay,E1,Initiated Measure 27,,Yes,,202
+Clay,E1,Initiated Measure 27,,No,,87
+Clay,E2,Initiated Measure 27,,Yes,,91
+Clay,E2,Initiated Measure 27,,No,,21
+Clay,S1,Initiated Measure 27,,Yes,,469
+Clay,S1,Initiated Measure 27,,No,,280
+Clay,S2,Initiated Measure 27,,Yes,,350
+Clay,S2,Initiated Measure 27,,No,,187
+Clay,W1,Initiated Measure 27,,Yes,,387
+Clay,W1,Initiated Measure 27,,No,,183
+Clay,W2,Initiated Measure 27,,Yes,,230
+Clay,W2,Initiated Measure 27,,No,,137
+Clay,01,State Senate,17,Sydney Davis,REP,281
+Clay,02,State Senate,18,Fredrick Bender,DEM,84
+Clay,02,State Senate,18,Jean M. Hunhoff,REP,213
+Clay,03,State Senate,17,Sydney Davis,REP,610
+Clay,C1,State Senate,17,Sydney Davis,REP,124
+Clay,C2,State Senate,17,Sydney Davis,REP,65
+Clay,E1,State Senate,17,Sydney Davis,REP,141
+Clay,E2,State Senate,17,Sydney Davis,REP,52
+Clay,S1,State Senate,17,Sydney Davis,REP,452
+Clay,S2,State Senate,17,Sydney Davis,REP,266
+Clay,W1,State Senate,17,Sydney Davis,REP,310
+Clay,W2 10 of 23,State Senate,17,Sydney Davis,REP,197
+Clay,DEM Precinct-01,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,97
+Clay,DEM Precinct-01,State House,17,"William ""Bill"" Shorma",REP,207
+Clay,DEM Precinct-01,State House,17,Chris Kassin,REP,249
+Clay,02,State House,18,Ryan D. Cwach,DEM,125
+Clay,02,State House,18,Jay Williams,DEM,60
+Clay,02,State House,18,Julie Auch,REP,174
+Clay,02,State House,18,Mike Stevens,REP,160
+Clay,03,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,413
+Clay,03,State House,17,"William ""Bill"" Shorma",REP,372
+Clay,03,State House,17,Chris Kassin,REP,551
+Clay,C1,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,260
+Clay,C1,State House,17,"William ""Bill"" Shorma",REP,51
+Clay,C1,State House,17,Chris Kassin,REP,82
+Clay,C2,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,103
+Clay,C2,State House,17,"William ""Bill"" Shorma",REP,32
+Clay,C2,State House,17,Chris Kassin,REP,48
+Clay,E1,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,158
+Clay,E1,State House,17,"William ""Bill"" Shorma",REP,93
+Clay,E1,State House,17,Chris Kassin,REP,135
+Clay,E2,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,62
+Clay,E2,State House,17,"William ""Bill"" Shorma",REP,33
+Clay,E2,State House,17,Chris Kassin,REP,44
+Clay,S1,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,414
+Clay,S1,State House,17,"William ""Bill"" Shorma",REP,240
+Clay,S1,State House,17,Chris Kassin,REP,399
+Clay,S2,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,329
+Clay,S2,State House,17,"William ""Bill"" Shorma",REP,141
+Clay,S2,State House,17,Chris Kassin,REP,228
+Clay,W1,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,327
+Clay,W1,State House,17,"William ""Bill"" Shorma",REP,163
+Clay,W1,State House,17,Chris Kassin,REP,266
+Clay,W2 11 of 23,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,204
+Clay,W2 11 of 23,State House,17,"William ""Bill"" Shorma",REP,101
+Clay,W2 11 of 23,State House,17,Chris Kassin,REP,172

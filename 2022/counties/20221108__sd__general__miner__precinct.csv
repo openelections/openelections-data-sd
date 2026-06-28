@@ -1,0 +1,305 @@
+county,precinct,office,district,candidate,party,votes
+Miner,1,U.S. Senate,,Brian L. Bengs,DEM,31
+Miner,1,U.S. Senate,,Tamara J Lesnar,LIB,2
+Miner,1,U.S. Senate,,John R. Thune,REP,99
+Miner,2,U.S. Senate,,Brian L. Bengs,DEM,13
+Miner,2,U.S. Senate,,Tamara J Lesnar,LIB,4
+Miner,2,U.S. Senate,,John R. Thune,REP,75
+Miner,3,U.S. Senate,,Brian L. Bengs,DEM,23
+Miner,3,U.S. Senate,,Tamara J Lesnar,LIB,3
+Miner,3,U.S. Senate,,John R. Thune,REP,87
+Miner,4,U.S. Senate,,Brian L. Bengs,DEM,18
+Miner,4,U.S. Senate,,Tamara J Lesnar,LIB,5
+Miner,4,U.S. Senate,,John R. Thune,REP,103
+Miner,5,U.S. Senate,,Brian L. Bengs,DEM,9
+Miner,5,U.S. Senate,,Tamara J Lesnar,LIB,3
+Miner,5,U.S. Senate,,John R. Thune,REP,54
+Miner,6,U.S. Senate,,Brian L. Bengs,DEM,24
+Miner,6,U.S. Senate,,Tamara J Lesnar,LIB,4
+Miner,6,U.S. Senate,,John R. Thune,REP,173
+Miner,7,U.S. Senate,,Brian L. Bengs,DEM,26
+Miner,7,U.S. Senate,,Tamara J Lesnar,LIB,6
+Miner,7,U.S. Senate,,John R. Thune,REP,132
+Miner,8,U.S. Senate,,Brian L. Bengs,DEM,17
+Miner,8,U.S. Senate,,Tamara J Lesnar,LIB,3
+Miner,8,U.S. Senate,,John R. Thune,REP,90
+Miner,1,U.S. House,1,Collin Duprel,LIB,20
+Miner,1,U.S. House,1,Dusty Johnson,REP,101
+Miner,2,U.S. House,1,Collin Duprel,LIB,10
+Miner,2,U.S. House,1,Dusty Johnson,REP,79
+Miner,3,U.S. House,1,Collin Duprel,LIB,9
+Miner,3,U.S. House,1,Dusty Johnson,REP,98
+Miner,4,U.S. House,1,Collin Duprel,LIB,22
+Miner,4,U.S. House,1,Dusty Johnson,REP,100
+Miner,5,U.S. House,1,Collin Duprel,LIB,11
+Miner,5,U.S. House,1,Dusty Johnson,REP,54
+Miner,6,U.S. House,1,Collin Duprel,LIB,20
+Miner,6,U.S. House,1,Dusty Johnson,REP,173
+Miner,7,U.S. House,1,Collin Duprel,LIB,20
+Miner,7,U.S. House,1,Dusty Johnson,REP,136
+Miner,8,U.S. House,1,Collin Duprel,LIB,21
+Miner,8,U.S. House,1,Dusty Johnson,REP,87
+Miner,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,42
+Miner,1,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Miner,1,Governor,,Kristi Noem and Larry Rhoden,REP,79
+Miner,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,25
+Miner,2,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Miner,2,Governor,,Kristi Noem and Larry Rhoden,REP,66
+Miner,3,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Miner,3,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Miner,3,Governor,,Kristi Noem and Larry Rhoden,REP,77
+Miner,4,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Miner,4,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Miner,4,Governor,,Kristi Noem and Larry Rhoden,REP,91
+Miner,5,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
+Miner,5,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Miner,5,Governor,,Kristi Noem and Larry Rhoden,REP,50
+Miner,6,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Miner,6,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Miner,6,Governor,,Kristi Noem and Larry Rhoden,REP,161
+Miner,7,Governor,,Jamie Smith and Jennifer Keintz,DEM,41
+Miner,7,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Miner,7,Governor,,Kristi Noem and Larry Rhoden,REP,122
+Miner,8,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Miner,8,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Miner,8,Governor,,Kristi Noem and Larry Rhoden,REP,86
+Miner,1,Secretary of State,,Thomas A Cool,DEM,51
+Miner,1,Secretary of State,,Monae Johnson,REP,70
+Miner,2,Secretary of State,,Thomas A Cool,DEM,27
+Miner,2,Secretary of State,,Monae Johnson,REP,59
+Miner,3,Secretary of State,,Thomas A Cool,DEM,35
+Miner,3,Secretary of State,,Monae Johnson,REP,69
+Miner,4,Secretary of State,,Thomas A Cool,DEM,36
+Miner,4,Secretary of State,,Monae Johnson,REP,72
+Miner,5,Secretary of State,,Thomas A Cool,DEM,22
+Miner,5,Secretary of State,,Monae Johnson,REP,41
+Miner,6,Secretary of State,,Thomas A Cool,DEM,47
+Miner,6,Secretary of State,,Monae Johnson,REP,138
+Miner,7,Secretary of State,,Thomas A Cool,DEM,52
+Miner,7,Secretary of State,,Monae Johnson,REP,103
+Miner,8,Secretary of State,,Thomas A Cool,DEM,26
+Miner,8,Secretary of State,,Monae Johnson,REP,77
+Miner,1,Attorney General,,Marty J. Jackley,REP,91
+Miner,2,Attorney General,,Marty J. Jackley,REP,83
+Miner,3,Attorney General,,Marty J. Jackley,REP,88
+Miner,4,Attorney General,,Marty J. Jackley,REP,91
+Miner,5,Attorney General,,Marty J. Jackley,REP,55
+Miner,6,Attorney General,,Marty J. Jackley,REP,172
+Miner,7,Attorney General,,Marty J. Jackley,REP,129
+Miner,8,Attorney General,,Marty J. Jackley,REP,94
+Miner,1,State Auditor,,Stephanie Marty,DEM,41
+Miner,1,State Auditor,,Rene Meyer,LIB,6
+Miner,1,State Auditor,,Richard Sattgast,REP,73
+Miner,2,State Auditor,,Stephanie Marty,DEM,20
+Miner,2,State Auditor,,Rene Meyer,LIB,3
+Miner,2,State Auditor,,Richard Sattgast,REP,62
+Miner,3,State Auditor,,Stephanie Marty,DEM,30
+Miner,3,State Auditor,,Rene Meyer,LIB,3
+Miner,3,State Auditor,,Richard Sattgast,REP,70
+Miner,4,State Auditor,,Stephanie Marty,DEM,34
+Miner,4,State Auditor,,Rene Meyer,LIB,6
+Miner,4,State Auditor,,Richard Sattgast,REP,71
+Miner,5,State Auditor,,Stephanie Marty,DEM,15
+Miner,5,State Auditor,,Rene Meyer,LIB,2
+Miner,5,State Auditor,,Richard Sattgast,REP,42
+Miner,6,State Auditor,,Stephanie Marty,DEM,34
+Miner,6,State Auditor,,Rene Meyer,LIB,2
+Miner,6,State Auditor,,Richard Sattgast,REP,153
+Miner,7,State Auditor,,Stephanie Marty,DEM,37
+Miner,7,State Auditor,,Rene Meyer,LIB,5
+Miner,7,State Auditor,,Richard Sattgast,REP,105
+Miner,8,State Auditor,,Stephanie Marty,DEM,20
+Miner,8,State Auditor,,Rene Meyer,LIB,10
+Miner,8,State Auditor,,Richard Sattgast,REP,75
+Miner,1,State Treasurer,,John Cunningham,DEM,43
+Miner,1,State Treasurer,,Josh Haeder,REP,76
+Miner,2,State Treasurer,,John Cunningham,DEM,20
+Miner,2,State Treasurer,,Josh Haeder,REP,61
+Miner,3,State Treasurer,,John Cunningham,DEM,30
+Miner,3,State Treasurer,,Josh Haeder,REP,67
+Miner,4,State Treasurer,,John Cunningham,DEM,34
+Miner,4,State Treasurer,,Josh Haeder,REP,71
+Miner,5,State Treasurer,,John Cunningham,DEM,15
+Miner,5,State Treasurer,,Josh Haeder,REP,44
+Miner,6,State Treasurer,,John Cunningham,DEM,38
+Miner,6,State Treasurer,,Josh Haeder,REP,145
+Miner,7,State Treasurer,,John Cunningham,DEM,37
+Miner,7,State Treasurer,,Josh Haeder,REP,109
+Miner,8,State Treasurer,,John Cunningham,DEM,25
+Miner,8,State Treasurer,,Josh Haeder,REP,78
+Miner,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,44
+Miner,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,72
+Miner,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Miner,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,62
+Miner,3,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Miner,3,Commissioner of School and Public Lands,,Brock Greenfield,REP,71
+Miner,4,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Miner,4,Commissioner of School and Public Lands,,Brock Greenfield,REP,78
+Miner,5,Commissioner of School and Public Lands,,Timothy Azure,DEM,16
+Miner,5,Commissioner of School and Public Lands,,Brock Greenfield,REP,44
+Miner,6,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Miner,6,Commissioner of School and Public Lands,,Brock Greenfield,REP,148
+Miner,7,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Miner,7,Commissioner of School and Public Lands,,Brock Greenfield,REP,109
+Miner,8,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Miner,8,Commissioner of School and Public Lands,,Brock Greenfield,REP,79
+Miner,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,38
+Miner,1,Public Utilities Commissioner,,Chris Nelson,REP,85
+Miner,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Miner,2,Public Utilities Commissioner,,Chris Nelson,REP,68
+Miner,3,Public Utilities Commissioner,,Jeffrey Barth,DEM,23
+Miner,3,Public Utilities Commissioner,,Chris Nelson,REP,85
+Miner,4,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Miner,4,Public Utilities Commissioner,,Chris Nelson,REP,94
+Miner,5,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Miner,5,Public Utilities Commissioner,,Chris Nelson,REP,49
+Miner,6,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Miner,6,Public Utilities Commissioner,,Chris Nelson,REP,160
+Miner,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Miner,7,Public Utilities Commissioner,,Chris Nelson,REP,119
+Miner,8,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Miner,8,Public Utilities Commissioner,,Chris Nelson,REP,78
+Miner,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,56
+Miner,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,42
+Miner,3,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,51
+Miner,4,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,45
+Miner,5,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,25
+Miner,6,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,52
+Miner,7,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,74
+Miner,8,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,44
+Miner,1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,53
+Miner,2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,43
+Miner,3,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,51
+Miner,4,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,45
+Miner,5,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,25
+Miner,6,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,53
+Miner,7,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,70
+Miner,8,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,43
+Miner,1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,53
+Miner,2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,40
+Miner,3,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,49
+Miner,4,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,43
+Miner,5,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,25
+Miner,6,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,55
+Miner,7,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,72
+Miner,8,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,42
+Miner,1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,58
+Miner,2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,46
+Miner,3,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,53
+Miner,4,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,48
+Miner,5,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,28
+Miner,6,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,63
+Miner,7,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,74
+Miner,8,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,42
+Miner,1,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,35
+Miner,1,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,32
+Miner,2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,27
+Miner,2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,20
+Miner,3,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,26
+Miner,3,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,35
+Miner,4,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,16
+Miner,4,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,38
+Miner,5,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,11
+Miner,5,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,20
+Miner,6,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,27
+Miner,6,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,39
+Miner,7,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,28
+Miner,7,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,46
+Miner,8,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,17
+Miner,8,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,34
+Miner,1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,92
+Miner,2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,73
+Miner,3,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,80
+Miner,4,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,74
+Miner,5,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,41
+Miner,6,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,122
+Miner,7,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,126
+Miner,8,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,61
+Miner,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,90
+Miner,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Miner,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,66
+Miner,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Miner,3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,82
+Miner,3,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Miner,4,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,79
+Miner,4,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Miner,5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,44
+Miner,5,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Miner,6,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,129
+Miner,6,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Miner,7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,106
+Miner,7,Supreme Court Retention,3,Patricia J. DeVaney - No,,23
+Miner,8,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,71
+Miner,8,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Miner,1,Supreme Court Retention,2,Mark E. Salter - Yes,,87
+Miner,1,Supreme Court Retention,2,Mark E. Salter - No,,13
+Miner,2,Supreme Court Retention,2,Mark E. Salter - Yes,,67
+Miner,2,Supreme Court Retention,2,Mark E. Salter - No,,10
+Miner,3,Supreme Court Retention,2,Mark E. Salter - Yes,,81
+Miner,3,Supreme Court Retention,2,Mark E. Salter - No,,10
+Miner,4,Supreme Court Retention,2,Mark E. Salter - Yes,,79
+Miner,4,Supreme Court Retention,2,Mark E. Salter - No,,13
+Miner,5,Supreme Court Retention,2,Mark E. Salter - Yes,,46
+Miner,5,Supreme Court Retention,2,Mark E. Salter - No,,6
+Miner,6,Supreme Court Retention,2,Mark E. Salter - Yes,,128
+Miner,6,Supreme Court Retention,2,Mark E. Salter - No,,13
+Miner,7,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Miner,7,Supreme Court Retention,2,Mark E. Salter - No,,21
+Miner,8,Supreme Court Retention,2,Mark E. Salter - Yes,,72
+Miner,8,Supreme Court Retention,2,Mark E. Salter - No,,19
+Miner,1,Constitutional Amendment D,,Yes,,81
+Miner,1,Constitutional Amendment D,,No,,45
+Miner,2,Constitutional Amendment D,,Yes,,45
+Miner,2,Constitutional Amendment D,,No,,44
+Miner,3,Constitutional Amendment D,,Yes,,64
+Miner,3,Constitutional Amendment D,,No,,45
+Miner,4,Constitutional Amendment D,,Yes,,75
+Miner,4,Constitutional Amendment D,,No,,45
+Miner,5,Constitutional Amendment D,,Yes,,31
+Miner,5,Constitutional Amendment D,,No,,32
+Miner,6,Constitutional Amendment D,,Yes,,83
+Miner,6,Constitutional Amendment D,,No,,100
+Miner,7,Constitutional Amendment D,,Yes,,78
+Miner,7,Constitutional Amendment D,,No,,77
+Miner,8,Constitutional Amendment D,,Yes,,47
+Miner,8,Constitutional Amendment D,,No,,60
+Miner,1,Initiated Measure 27,,Yes,,72
+Miner,1,Initiated Measure 27,,No,,57
+Miner,2,Initiated Measure 27,,Yes,,38
+Miner,2,Initiated Measure 27,,No,,54
+Miner,3,Initiated Measure 27,,Yes,,52
+Miner,3,Initiated Measure 27,,No,,58
+Miner,4,Initiated Measure 27,,Yes,,47
+Miner,4,Initiated Measure 27,,No,,75
+Miner,5,Initiated Measure 27,,Yes,,26
+Miner,5,Initiated Measure 27,,No,,38
+Miner,6,Initiated Measure 27,,Yes,,42
+Miner,6,Initiated Measure 27,,No,,148
+Miner,7,Initiated Measure 27,,Yes,,52
+Miner,7,Initiated Measure 27,,No,,110
+Miner,8,Initiated Measure 27,,Yes,,48
+Miner,8,Initiated Measure 27,,No,,62
+Miner,1,State Senate,08,Casey Crabtree,REP,92
+Miner,2,State Senate,08,Casey Crabtree,REP,77
+Miner,3,State Senate,08,Casey Crabtree,REP,86
+Miner,4,State Senate,08,Casey Crabtree,REP,89
+Miner,5,State Senate,20,Joshua Klumb,REP,48
+Miner,6,State Senate,08,Casey Crabtree,REP,155
+Miner,7,State Senate,08,Casey Crabtree,REP,118
+Miner,8 10 of 22,State Senate,08,Casey Crabtree,REP,81
+Miner,1,State House,08,Tim Reisch,REP,103
+Miner,1,State House,08,John Mills,REP,35
+Miner,2,State House,08,Tim Reisch,REP,77
+Miner,2,State House,08,John Mills,REP,37
+Miner,3,State House,08,Tim Reisch,REP,97
+Miner,3,State House,08,John Mills,REP,31
+Miner,4,State House,08,Tim Reisch,REP,102
+Miner,4,State House,08,John Mills,REP,37
+Miner,5,State House,20,Ben Krohmer,REP,32
+Miner,5,State House,20,Lance Koth,REP,45
+Miner,6,State House,08,Tim Reisch,REP,165
+Miner,6,State House,08,John Mills,REP,82
+Miner,7,State House,08,Tim Reisch,REP,144
+Miner,7,State House,08,John Mills,REP,45
+Miner,8 11 of 22,State House,08,Tim Reisch,REP,89
+Miner,8 11 of 22,State House,08,John Mills,REP,49

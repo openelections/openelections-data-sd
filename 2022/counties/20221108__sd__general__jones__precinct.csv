@@ -1,0 +1,72 @@
+county,precinct,office,district,candidate,party,votes
+Jones,1,U.S. Senate,,Brian L. Bengs,DEM,16
+Jones,1,U.S. Senate,,Tamara J Lesnar,LIB,5
+Jones,1,U.S. Senate,,John R. Thune,REP,109
+Jones,2,U.S. Senate,,Brian L. Bengs,DEM,30
+Jones,2,U.S. Senate,,Tamara J Lesnar,LIB,31
+Jones,2,U.S. Senate,,John R. Thune,REP,274
+Jones,1,U.S. House,1,Collin Duprel,LIB,29
+Jones,1,U.S. House,1,Dusty Johnson,REP,100
+Jones,2,U.S. House,1,Collin Duprel,LIB,43
+Jones,2,U.S. House,1,Dusty Johnson,REP,291
+Jones,1,Governor,,Jamie Smith and Jennifer Keintz,DEM,17
+Jones,1,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Jones,1,Governor,,Kristi Noem and Larry Rhoden,REP,112
+Jones,2,Governor,,Jamie Smith and Jennifer Keintz,DEM,47
+Jones,2,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Jones,2,Governor,,Kristi Noem and Larry Rhoden,REP,283
+Jones,1,Secretary of State,,Thomas A Cool,DEM,20
+Jones,1,Secretary of State,,Monae Johnson,REP,107
+Jones,2,Secretary of State,,Thomas A Cool,DEM,46
+Jones,2,Secretary of State,,Monae Johnson,REP,284
+Jones,1,Attorney General,,Marty J. Jackley,REP,113
+Jones,2,Attorney General,,Marty J. Jackley,REP,292
+Jones,1,State Auditor,,Stephanie Marty,DEM,14
+Jones,1,State Auditor,,Rene Meyer,LIB,6
+Jones,1,State Auditor,,Richard Sattgast,REP,106
+Jones,2,State Auditor,,Stephanie Marty,DEM,36
+Jones,2,State Auditor,,Rene Meyer,LIB,16
+Jones,2,State Auditor,,Richard Sattgast,REP,279
+Jones,1,State Treasurer,,John Cunningham,DEM,12
+Jones,1,State Treasurer,,Josh Haeder,REP,112
+Jones,2,State Treasurer,,John Cunningham,DEM,41
+Jones,2,State Treasurer,,Josh Haeder,REP,285
+Jones,1,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Jones,1,Commissioner of School and Public Lands,,Brock Greenfield,REP,108
+Jones,2,Commissioner of School and Public Lands,,Timothy Azure,DEM,37
+Jones,2,Commissioner of School and Public Lands,,Brock Greenfield,REP,283
+Jones,1,Public Utilities Commissioner,,Jeffrey Barth,DEM,15
+Jones,1,Public Utilities Commissioner,,Chris Nelson,REP,112
+Jones,2,Public Utilities Commissioner,,Jeffrey Barth,DEM,41
+Jones,2,Public Utilities Commissioner,,Chris Nelson,REP,290
+Jones,1,State Senate,26,Shawn Bordeaux,DEM,24
+Jones,1,State Senate,26,Joel Koskan,REP,77
+Jones,2,State Senate,26,Shawn Bordeaux,DEM,95
+Jones,2,State Senate,26,Joel Koskan,REP,173
+Jones,1,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,69
+Jones,2,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,156
+Jones,1,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,70
+Jones,2,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,152
+Jones,1,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,68
+Jones,2,Judge of the Circuit Court,Position C Sixth Circuit,M. Bridget Mayer,NON,153
+Jones,1,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,69
+Jones,2,Judge of the Circuit Court,Position D Sixth Circuit,Bobbi J. Rank,NON,146
+Jones,1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,88
+Jones,1,Supreme Court Retention,3,Patricia J. DeVaney - No,,23
+Jones,2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,233
+Jones,2,Supreme Court Retention,3,Patricia J. DeVaney - No,,51
+Jones,1,Supreme Court Retention,2,Mark E. Salter - Yes,,88
+Jones,1,Supreme Court Retention,2,Mark E. Salter - No,,23
+Jones,2,Supreme Court Retention,2,Mark E. Salter - Yes,,227
+Jones,2,Supreme Court Retention,2,Mark E. Salter - No,,55
+Jones,1,Constitutional Amendment D,,Yes,,54
+Jones,1,Constitutional Amendment D,,No,,78
+Jones,2,Constitutional Amendment D,,Yes,,145
+Jones,2,Constitutional Amendment D,,No,,189
+Jones,1,Initiated Measure 27,,Yes,,30
+Jones,1,Initiated Measure 27,,No,,103
+Jones,2,Initiated Measure 27,,Yes,,114
+Jones,2,Initiated Measure 27,,No,,225
+Jones,1,State House,26A,Eric Emery,DEM,15
+Jones,1,State House,26A,Joyce Glynn,REP,114
+Jones,2 11 of 20,State House,26B,Rebecca Reimer,REP,278

@@ -1,0 +1,471 @@
+county,precinct,office,district,candidate,party,votes
+Union,01,U.S. Senate,,Brian L. Bengs,DEM,66
+Union,01,U.S. Senate,,Tamara J Lesnar,LIB,15
+Union,01,U.S. Senate,,John R. Thune,REP,285
+Union,02,U.S. Senate,,Brian L. Bengs,DEM,87
+Union,02,U.S. Senate,,Tamara J Lesnar,LIB,14
+Union,02,U.S. Senate,,John R. Thune,REP,241
+Union,03,U.S. Senate,,Brian L. Bengs,DEM,202
+Union,03,U.S. Senate,,Tamara J Lesnar,LIB,25
+Union,03,U.S. Senate,,John R. Thune,REP,654
+Union,04,U.S. Senate,,Brian L. Bengs,DEM,93
+Union,04,U.S. Senate,,Tamara J Lesnar,LIB,19
+Union,04,U.S. Senate,,John R. Thune,REP,334
+Union,05,U.S. Senate,,Brian L. Bengs,DEM,129
+Union,05,U.S. Senate,,Tamara J Lesnar,LIB,19
+Union,05,U.S. Senate,,John R. Thune,REP,434
+Union,06,U.S. Senate,,Brian L. Bengs,DEM,116
+Union,06,U.S. Senate,,Tamara J Lesnar,LIB,13
+Union,06,U.S. Senate,,John R. Thune,REP,513
+Union,07,U.S. Senate,,Brian L. Bengs,DEM,86
+Union,07,U.S. Senate,,Tamara J Lesnar,LIB,7
+Union,07,U.S. Senate,,John R. Thune,REP,184
+Union,08,U.S. Senate,,Brian L. Bengs,DEM,97
+Union,08,U.S. Senate,,Tamara J Lesnar,LIB,14
+Union,08,U.S. Senate,,John R. Thune,REP,250
+Union,09,U.S. Senate,,Brian L. Bengs,DEM,151
+Union,09,U.S. Senate,,Tamara J Lesnar,LIB,33
+Union,09,U.S. Senate,,John R. Thune,REP,406
+Union,10,U.S. Senate,,Brian L. Bengs,DEM,133
+Union,10,U.S. Senate,,Tamara J Lesnar,LIB,24
+Union,10,U.S. Senate,,John R. Thune,REP,376
+Union,11,U.S. Senate,,Brian L. Bengs,DEM,112
+Union,11,U.S. Senate,,Tamara J Lesnar,LIB,17
+Union,11,U.S. Senate,,John R. Thune,REP,541
+Union,12,U.S. Senate,,Brian L. Bengs,DEM,225
+Union,12,U.S. Senate,,Tamara J Lesnar,LIB,29
+Union,12,U.S. Senate,,John R. Thune,REP,773
+Union,01,U.S. House,1,Collin Duprel,LIB,60
+Union,01,U.S. House,1,Dusty Johnson,REP,294
+Union,02,U.S. House,1,Collin Duprel,LIB,68
+Union,02,U.S. House,1,Dusty Johnson,REP,255
+Union,03,U.S. House,1,Collin Duprel,LIB,151
+Union,03,U.S. House,1,Dusty Johnson,REP,681
+Union,04,U.S. House,1,Collin Duprel,LIB,84
+Union,04,U.S. House,1,Dusty Johnson,REP,344
+Union,05,U.S. House,1,Collin Duprel,LIB,98
+Union,05,U.S. House,1,Dusty Johnson,REP,453
+Union,06,U.S. House,1,Collin Duprel,LIB,79
+Union,06,U.S. House,1,Dusty Johnson,REP,529
+Union,07,U.S. House,1,Collin Duprel,LIB,52
+Union,07,U.S. House,1,Dusty Johnson,REP,200
+Union,08,U.S. House,1,Collin Duprel,LIB,73
+Union,08,U.S. House,1,Dusty Johnson,REP,259
+Union,09,U.S. House,1,Collin Duprel,LIB,120
+Union,09,U.S. House,1,Dusty Johnson,REP,419
+Union,10,U.S. House,1,Collin Duprel,LIB,119
+Union,10,U.S. House,1,Dusty Johnson,REP,386
+Union,11,U.S. House,1,Collin Duprel,LIB,85
+Union,11,U.S. House,1,Dusty Johnson,REP,557
+Union,12,U.S. House,1,Collin Duprel,LIB,150
+Union,12,U.S. House,1,Dusty Johnson,REP,803
+Union,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,84
+Union,01,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Union,01,Governor,,Kristi Noem and Larry Rhoden,REP,277
+Union,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,117
+Union,02,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Union,02,Governor,,Kristi Noem and Larry Rhoden,REP,209
+Union,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,252
+Union,03,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Union,03,Governor,,Kristi Noem and Larry Rhoden,REP,608
+Union,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,124
+Union,04,Governor,,Tracey Quint and Ashley Strand,LIB,14
+Union,04,Governor,,Kristi Noem and Larry Rhoden,REP,317
+Union,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,193
+Union,05,Governor,,Tracey Quint and Ashley Strand,LIB,18
+Union,05,Governor,,Kristi Noem and Larry Rhoden,REP,371
+Union,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,145
+Union,06,Governor,,Tracey Quint and Ashley Strand,LIB,13
+Union,06,Governor,,Kristi Noem and Larry Rhoden,REP,486
+Union,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,100
+Union,07,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Union,07,Governor,,Kristi Noem and Larry Rhoden,REP,172
+Union,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,108
+Union,08,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Union,08,Governor,,Kristi Noem and Larry Rhoden,REP,239
+Union,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,176
+Union,09,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Union,09,Governor,,Kristi Noem and Larry Rhoden,REP,395
+Union,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,155
+Union,10,Governor,,Tracey Quint and Ashley Strand,LIB,17
+Union,10,Governor,,Kristi Noem and Larry Rhoden,REP,364
+Union,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,141
+Union,11,Governor,,Tracey Quint and Ashley Strand,LIB,17
+Union,11,Governor,,Kristi Noem and Larry Rhoden,REP,518
+Union,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,253
+Union,12,Governor,,Tracey Quint and Ashley Strand,LIB,11
+Union,12,Governor,,Kristi Noem and Larry Rhoden,REP,767
+Union,01,Secretary of State,,Thomas A Cool,DEM,88
+Union,01,Secretary of State,,Monae Johnson,REP,267
+Union,02,Secretary of State,,Thomas A Cool,DEM,123
+Union,02,Secretary of State,,Monae Johnson,REP,202
+Union,03,Secretary of State,,Thomas A Cool,DEM,259
+Union,03,Secretary of State,,Monae Johnson,REP,595
+Union,04,Secretary of State,,Thomas A Cool,DEM,119
+Union,04,Secretary of State,,Monae Johnson,REP,318
+Union,05,Secretary of State,,Thomas A Cool,DEM,186
+Union,05,Secretary of State,,Monae Johnson,REP,364
+Union,06,Secretary of State,,Thomas A Cool,DEM,140
+Union,06,Secretary of State,,Monae Johnson,REP,485
+Union,07,Secretary of State,,Thomas A Cool,DEM,98
+Union,07,Secretary of State,,Monae Johnson,REP,174
+Union,08,Secretary of State,,Thomas A Cool,DEM,116
+Union,08,Secretary of State,,Monae Johnson,REP,229
+Union,09,Secretary of State,,Thomas A Cool,DEM,183
+Union,09,Secretary of State,,Monae Johnson,REP,380
+Union,10,Secretary of State,,Thomas A Cool,DEM,155
+Union,10,Secretary of State,,Monae Johnson,REP,354
+Union,11,Secretary of State,,Thomas A Cool,DEM,138
+Union,11,Secretary of State,,Monae Johnson,REP,521
+Union,12,Secretary of State,,Thomas A Cool,DEM,246
+Union,12,Secretary of State,,Monae Johnson,REP,764
+Union,01,Attorney General,,Marty J. Jackley,REP,281
+Union,02,Attorney General,,Marty J. Jackley,REP,253
+Union,03,Attorney General,,Marty J. Jackley,REP,677
+Union,04,Attorney General,,Marty J. Jackley,REP,334
+Union,05,Attorney General,,Marty J. Jackley,REP,453
+Union,06,Attorney General,,Marty J. Jackley,REP,514
+Union,07,Attorney General,,Marty J. Jackley,REP,195
+Union,08,Attorney General,,Marty J. Jackley,REP,262
+Union,09,Attorney General,,Marty J. Jackley,REP,415
+Union,10,Attorney General,,Marty J. Jackley,REP,381
+Union,11,Attorney General,,Marty J. Jackley,REP,560
+Union,12,Attorney General,,Marty J. Jackley,REP,796
+Union,01,State Auditor,,Stephanie Marty,DEM,84
+Union,01,State Auditor,,Rene Meyer,LIB,21
+Union,01,State Auditor,,Richard Sattgast,REP,252
+Union,02,State Auditor,,Stephanie Marty,DEM,115
+Union,02,State Auditor,,Rene Meyer,LIB,17
+Union,02,State Auditor,,Richard Sattgast,REP,192
+Union,03,State Auditor,,Stephanie Marty,DEM,247
+Union,03,State Auditor,,Rene Meyer,LIB,36
+Union,03,State Auditor,,Richard Sattgast,REP,571
+Union,04,State Auditor,,Stephanie Marty,DEM,112
+Union,04,State Auditor,,Rene Meyer,LIB,31
+Union,04,State Auditor,,Richard Sattgast,REP,297
+Union,05,State Auditor,,Stephanie Marty,DEM,162
+Union,05,State Auditor,,Rene Meyer,LIB,22
+Union,05,State Auditor,,Richard Sattgast,REP,364
+Union,06,State Auditor,,Stephanie Marty,DEM,136
+Union,06,State Auditor,,Rene Meyer,LIB,24
+Union,06,State Auditor,,Richard Sattgast,REP,464
+Union,07,State Auditor,,Stephanie Marty,DEM,92
+Union,07,State Auditor,,Rene Meyer,LIB,11
+Union,07,State Auditor,,Richard Sattgast,REP,168
+Union,08,State Auditor,,Stephanie Marty,DEM,107
+Union,08,State Auditor,,Rene Meyer,LIB,18
+Union,08,State Auditor,,Richard Sattgast,REP,222
+Union,09,State Auditor,,Stephanie Marty,DEM,172
+Union,09,State Auditor,,Rene Meyer,LIB,35
+Union,09,State Auditor,,Richard Sattgast,REP,361
+Union,10,State Auditor,,Stephanie Marty,DEM,144
+Union,10,State Auditor,,Rene Meyer,LIB,36
+Union,10,State Auditor,,Richard Sattgast,REP,328
+Union,11,State Auditor,,Stephanie Marty,DEM,127
+Union,11,State Auditor,,Rene Meyer,LIB,23
+Union,11,State Auditor,,Richard Sattgast,REP,505
+Union,12,State Auditor,,Stephanie Marty,DEM,231
+Union,12,State Auditor,,Rene Meyer,LIB,38
+Union,12,State Auditor,,Richard Sattgast,REP,733
+Union,01,State Treasurer,,John Cunningham,DEM,80
+Union,01,State Treasurer,,Josh Haeder,REP,272
+Union,02,State Treasurer,,John Cunningham,DEM,110
+Union,02,State Treasurer,,Josh Haeder,REP,213
+Union,03,State Treasurer,,John Cunningham,DEM,250
+Union,03,State Treasurer,,Josh Haeder,REP,596
+Union,04,State Treasurer,,John Cunningham,DEM,112
+Union,04,State Treasurer,,Josh Haeder,REP,323
+Union,05,State Treasurer,,John Cunningham,DEM,169
+Union,05,State Treasurer,,Josh Haeder,REP,374
+Union,06,State Treasurer,,John Cunningham,DEM,141
+Union,06,State Treasurer,,Josh Haeder,REP,483
+Union,07,State Treasurer,,John Cunningham,DEM,95
+Union,07,State Treasurer,,Josh Haeder,REP,171
+Union,08,State Treasurer,,John Cunningham,DEM,118
+Union,08,State Treasurer,,Josh Haeder,REP,229
+Union,09,State Treasurer,,John Cunningham,DEM,174
+Union,09,State Treasurer,,Josh Haeder,REP,394
+Union,10,State Treasurer,,John Cunningham,DEM,147
+Union,10,State Treasurer,,Josh Haeder,REP,358
+Union,11,State Treasurer,,John Cunningham,DEM,132
+Union,11,State Treasurer,,Josh Haeder,REP,526
+Union,12,State Treasurer,,John Cunningham,DEM,240
+Union,12,State Treasurer,,Josh Haeder,REP,762
+Union,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,84
+Union,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,268
+Union,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,112
+Union,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,201
+Union,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,242
+Union,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,594
+Union,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,98
+Union,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,331
+Union,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,166
+Union,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,370
+Union,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,134
+Union,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,487
+Union,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,92
+Union,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,170
+Union,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,110
+Union,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,234
+Union,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,174
+Union,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,390
+Union,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,151
+Union,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,352
+Union,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
+Union,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,515
+Union,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,239
+Union,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,757
+Union,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,79
+Union,01,Public Utilities Commissioner,,Chris Nelson,REP,280
+Union,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,106
+Union,02,Public Utilities Commissioner,,Chris Nelson,REP,217
+Union,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,220
+Union,03,Public Utilities Commissioner,,Chris Nelson,REP,631
+Union,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,99
+Union,04,Public Utilities Commissioner,,Chris Nelson,REP,335
+Union,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,153
+Union,05,Public Utilities Commissioner,,Chris Nelson,REP,399
+Union,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,126
+Union,06,Public Utilities Commissioner,,Chris Nelson,REP,494
+Union,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,85
+Union,07,Public Utilities Commissioner,,Chris Nelson,REP,181
+Union,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,96
+Union,08,Public Utilities Commissioner,,Chris Nelson,REP,245
+Union,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,159
+Union,09,Public Utilities Commissioner,,Chris Nelson,REP,399
+Union,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,141
+Union,10,Public Utilities Commissioner,,Chris Nelson,REP,361
+Union,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,121
+Union,11,Public Utilities Commissioner,,Chris Nelson,REP,529
+Union,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,235
+Union,12,Public Utilities Commissioner,,Chris Nelson,REP,760
+Union,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,162
+Union,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,162
+Union,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,423
+Union,04,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,189
+Union,05,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,267
+Union,06,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,266
+Union,07,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,112
+Union,08,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,163
+Union,09,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,216
+Union,10,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,221
+Union,11,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,315
+Union,12,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,492
+Union,01,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,159
+Union,02,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,149
+Union,03,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,409
+Union,04,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,181
+Union,05,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,258
+Union,06,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,255
+Union,07,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,108
+Union,08,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,144
+Union,09,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,202
+Union,10,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,214
+Union,11,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,304
+Union,12,Judge of the Circuit Court,Position B First Circuit,David Knoff,NON,474
+Union,01,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,158
+Union,02,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,154
+Union,03,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,406
+Union,04,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,183
+Union,05,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,259
+Union,06,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,245
+Union,07,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,106
+Union,08,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,148
+Union,09,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,195
+Union,10,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,213
+Union,11,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,299
+Union,12,Judge of the Circuit Court,Position C First Circuit,Bruce V. Anderson,NON,468
+Union,01,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,157
+Union,02,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,156
+Union,03,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,414
+Union,04,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,178
+Union,05,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,261
+Union,06,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,249
+Union,07,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,113
+Union,08,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,147
+Union,09,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,202
+Union,10,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,212
+Union,11,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,299
+Union,12,Judge of the Circuit Court,Position D First Circuit,Cheryle W. Gering,NON,470
+Union,01,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,158
+Union,02,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,147
+Union,03,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,400
+Union,04,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,177
+Union,05,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,253
+Union,06,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,243
+Union,07,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,108
+Union,08,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,144
+Union,09,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,192
+Union,10,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,209
+Union,11,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,297
+Union,12,Judge of the Circuit Court,Position E First Circuit,Patrick T. Smith,NON,473
+Union,01,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,176
+Union,02,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,176
+Union,03,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,414
+Union,04,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,195
+Union,05,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,285
+Union,06,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,245
+Union,07,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,115
+Union,08,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,147
+Union,09,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,205
+Union,10,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,204
+Union,11,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,302
+Union,12,Judge of the Circuit Court,Position F First Circuit,Tami A. Bern,NON,473
+Union,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,256
+Union,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,46
+Union,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,235
+Union,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,57
+Union,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,619
+Union,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,129
+Union,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,285
+Union,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,70
+Union,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,411
+Union,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,74
+Union,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,398
+Union,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,109
+Union,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,193
+Union,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,41
+Union,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,237
+Union,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,72
+Union,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,331
+Union,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,110
+Union,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,332
+Union,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,98
+Union,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,470
+Union,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Union,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,715
+Union,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,140
+Union,01,Supreme Court Retention,2,Mark E. Salter - Yes,,255
+Union,01,Supreme Court Retention,2,Mark E. Salter - No,,47
+Union,02,Supreme Court Retention,2,Mark E. Salter - Yes,,230
+Union,02,Supreme Court Retention,2,Mark E. Salter - No,,59
+Union,03,Supreme Court Retention,2,Mark E. Salter - Yes,,617
+Union,03,Supreme Court Retention,2,Mark E. Salter - No,,130
+Union,04,Supreme Court Retention,2,Mark E. Salter - Yes,,277
+Union,04,Supreme Court Retention,2,Mark E. Salter - No,,76
+Union,05,Supreme Court Retention,2,Mark E. Salter - Yes,,417
+Union,05,Supreme Court Retention,2,Mark E. Salter - No,,73
+Union,06,Supreme Court Retention,2,Mark E. Salter - Yes,,401
+Union,06,Supreme Court Retention,2,Mark E. Salter - No,,97
+Union,07,Supreme Court Retention,2,Mark E. Salter - Yes,,188
+Union,07,Supreme Court Retention,2,Mark E. Salter - No,,40
+Union,08,Supreme Court Retention,2,Mark E. Salter - Yes,,229
+Union,08,Supreme Court Retention,2,Mark E. Salter - No,,79
+Union,09,Supreme Court Retention,2,Mark E. Salter - Yes,,335
+Union,09,Supreme Court Retention,2,Mark E. Salter - No,,103
+Union,10,Supreme Court Retention,2,Mark E. Salter - Yes,,328
+Union,10,Supreme Court Retention,2,Mark E. Salter - No,,98
+Union,11,Supreme Court Retention,2,Mark E. Salter - Yes,,479
+Union,11,Supreme Court Retention,2,Mark E. Salter - No,,72
+Union,12,Supreme Court Retention,2,Mark E. Salter - Yes,,698
+Union,12,Supreme Court Retention,2,Mark E. Salter - No,,146
+Union,01,Constitutional Amendment D,,Yes,,170
+Union,01,Constitutional Amendment D,,No,,190
+Union,02,Constitutional Amendment D,,Yes,,208
+Union,02,Constitutional Amendment D,,No,,120
+Union,03,Constitutional Amendment D,,Yes,,509
+Union,03,Constitutional Amendment D,,No,,362
+Union,04,Constitutional Amendment D,,Yes,,245
+Union,04,Constitutional Amendment D,,No,,195
+Union,05,Constitutional Amendment D,,Yes,,318
+Union,05,Constitutional Amendment D,,No,,262
+Union,06,Constitutional Amendment D,,Yes,,305
+Union,06,Constitutional Amendment D,,No,,317
+Union,07,Constitutional Amendment D,,Yes,,142
+Union,07,Constitutional Amendment D,,No,,135
+Union,08,Constitutional Amendment D,,Yes,,195
+Union,08,Constitutional Amendment D,,No,,158
+Union,09,Constitutional Amendment D,,Yes,,326
+Union,09,Constitutional Amendment D,,No,,233
+Union,10,Constitutional Amendment D,,Yes,,295
+Union,10,Constitutional Amendment D,,No,,224
+Union,11,Constitutional Amendment D,,Yes,,300
+Union,11,Constitutional Amendment D,,No,,353
+Union,12,Constitutional Amendment D,,Yes,,525
+Union,12,Constitutional Amendment D,,No,,476
+Union,01,Initiated Measure 27,,Yes,,134
+Union,01,Initiated Measure 27,,No,,228
+Union,02,Initiated Measure 27,,Yes,,172
+Union,02,Initiated Measure 27,,No,,159
+Union,03,Initiated Measure 27,,Yes,,465
+Union,03,Initiated Measure 27,,No,,418
+Union,04,Initiated Measure 27,,Yes,,194
+Union,04,Initiated Measure 27,,No,,249
+Union,05,Initiated Measure 27,,Yes,,271
+Union,05,Initiated Measure 27,,No,,315
+Union,06,Initiated Measure 27,,Yes,,335
+Union,06,Initiated Measure 27,,No,,305
+Union,07,Initiated Measure 27,,Yes,,126
+Union,07,Initiated Measure 27,,No,,155
+Union,08,Initiated Measure 27,,Yes,,211
+Union,08,Initiated Measure 27,,No,,152
+Union,09,Initiated Measure 27,,Yes,,300
+Union,09,Initiated Measure 27,,No,,268
+Union,10,Initiated Measure 27,,Yes,,291
+Union,10,Initiated Measure 27,,No,,242
+Union,11,Initiated Measure 27,,Yes,,289
+Union,11,Initiated Measure 27,,No,,377
+Union,12,Initiated Measure 27,,Yes,,523
+Union,12,Initiated Measure 27,,No,,494
+Union,01,State Senate,16,Donn Larson,DEM,93
+Union,01,State Senate,16,Jim Bolin,REP,248
+Union,01,State Senate,16,Brian J. Burge,IND,20
+Union,02,State Senate,16,Donn Larson,DEM,126
+Union,02,State Senate,16,Jim Bolin,REP,193
+Union,02,State Senate,16,Brian J. Burge,IND,18
+Union,03,State Senate,17,Sydney Davis,REP,643
+Union,04,State Senate,16,Donn Larson,DEM,115
+Union,04,State Senate,16,Jim Bolin,REP,298
+Union,04,State Senate,16,Brian J. Burge,IND,29
+Union,05,State Senate,16,Donn Larson,DEM,158
+Union,05,State Senate,16,Jim Bolin,REP,378
+Union,05,State Senate,16,Brian J. Burge,IND,33
+Union,06,State Senate,17,Sydney Davis,REP,494
+Union,07,State Senate,16,Donn Larson,DEM,65
+Union,07,State Senate,16,Jim Bolin,REP,134
+Union,07,State Senate,16,Brian J. Burge,IND,13
+Union,07,State Senate,17,Sydney Davis,REP,47
+Union,08,State Senate,17,Sydney Davis,REP,241
+Union,09,State Senate,17,Sydney Davis,REP,394
+Union,10,State Senate,17,Sydney Davis,REP,375
+Union,11,State Senate,17,Sydney Davis,REP,536
+Union,12 10 of 21,State Senate,17,Sydney Davis,REP,769
+Union,DEM Precinct-01,State House,16,Matt Ness,DEM,82
+Union,DEM Precinct-01,State House,16,Kevin D. Jensen,REP,218
+Union,DEM Precinct-01,State House,16,Karla J. Lems,REP,206
+Union,02,State House,16,Matt Ness,DEM,105
+Union,02,State House,16,Kevin D. Jensen,REP,178
+Union,02,State House,16,Karla J. Lems,REP,173
+Union,03,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,253
+Union,03,State House,17,"William ""Bill"" Shorma",REP,418
+Union,03,State House,17,Chris Kassin,REP,553
+Union,04,State House,16,Matt Ness,DEM,114
+Union,04,State House,16,Kevin D. Jensen,REP,280
+Union,04,State House,16,Karla J. Lems,REP,231
+Union,05,State House,16,Matt Ness,DEM,180
+Union,05,State House,16,Kevin D. Jensen,REP,329
+Union,05,State House,16,Karla J. Lems,REP,301
+Union,06,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,139
+Union,06,State House,17,"William ""Bill"" Shorma",REP,411
+Union,06,State House,17,Chris Kassin,REP,360
+Union,07,State House,16,Matt Ness,DEM,73
+Union,07,State House,16,Kevin D. Jensen,REP,125
+Union,07,State House,16,Karla J. Lems,REP,96
+Union,07,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,23
+Union,07,State House,17,"William ""Bill"" Shorma",REP,29
+Union,07,State House,17,Chris Kassin,REP,35
+Union,08,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,120
+Union,08,State House,17,"William ""Bill"" Shorma",REP,186
+Union,08,State House,17,Chris Kassin,REP,203
+Union,09,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,167
+Union,09,State House,17,"William ""Bill"" Shorma",REP,274
+Union,09,State House,17,Chris Kassin,REP,328
+Union,10,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,156
+Union,10,State House,17,"William ""Bill"" Shorma",REP,241
+Union,10,State House,17,Chris Kassin,REP,307
+Union,11,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,132
+Union,11,State House,17,"William ""Bill"" Shorma",REP,423
+Union,11,State House,17,Chris Kassin,REP,438
+Union,12 11 of 21,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,229
+Union,12 11 of 21,State House,17,"William ""Bill"" Shorma",REP,640
+Union,12 11 of 21,State House,17,Chris Kassin,REP,540

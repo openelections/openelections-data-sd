@@ -1,0 +1,381 @@
+county,precinct,office,district,candidate,party,votes
+Deuel,01,U.S. Senate,,Brian L. Bengs,DEM,26
+Deuel,01,U.S. Senate,,Tamara J Lesnar,LIB,2
+Deuel,01,U.S. Senate,,John R. Thune,REP,110
+Deuel,03,U.S. Senate,,Brian L. Bengs,DEM,35
+Deuel,03,U.S. Senate,,Tamara J Lesnar,LIB,8
+Deuel,03,U.S. Senate,,John R. Thune,REP,234
+Deuel,04,U.S. Senate,,Brian L. Bengs,DEM,22
+Deuel,04,U.S. Senate,,Tamara J Lesnar,LIB,10
+Deuel,04,U.S. Senate,,John R. Thune,REP,122
+Deuel,05,U.S. Senate,,Brian L. Bengs,DEM,45
+Deuel,05,U.S. Senate,,Tamara J Lesnar,LIB,3
+Deuel,05,U.S. Senate,,John R. Thune,REP,119
+Deuel,06,U.S. Senate,,Brian L. Bengs,DEM,41
+Deuel,06,U.S. Senate,,Tamara J Lesnar,LIB,9
+Deuel,06,U.S. Senate,,John R. Thune,REP,130
+Deuel,07,U.S. Senate,,Brian L. Bengs,DEM,29
+Deuel,07,U.S. Senate,,Tamara J Lesnar,LIB,11
+Deuel,07,U.S. Senate,,John R. Thune,REP,139
+Deuel,08,U.S. Senate,,Brian L. Bengs,DEM,43
+Deuel,08,U.S. Senate,,Tamara J Lesnar,LIB,18
+Deuel,08,U.S. Senate,,John R. Thune,REP,202
+Deuel,09,U.S. Senate,,Brian L. Bengs,DEM,40
+Deuel,09,U.S. Senate,,Tamara J Lesnar,LIB,16
+Deuel,09,U.S. Senate,,John R. Thune,REP,222
+Deuel,10,U.S. Senate,,Brian L. Bengs,DEM,22
+Deuel,10,U.S. Senate,,Tamara J Lesnar,LIB,8
+Deuel,10,U.S. Senate,,John R. Thune,REP,132
+Deuel,11,U.S. Senate,,Brian L. Bengs,DEM,43
+Deuel,11,U.S. Senate,,Tamara J Lesnar,LIB,7
+Deuel,11,U.S. Senate,,John R. Thune,REP,138
+Deuel,01,U.S. House,1,Collin Duprel,LIB,15
+Deuel,01,U.S. House,1,Dusty Johnson,REP,116
+Deuel,03,U.S. House,1,Collin Duprel,LIB,26
+Deuel,03,U.S. House,1,Dusty Johnson,REP,241
+Deuel,04,U.S. House,1,Collin Duprel,LIB,25
+Deuel,04,U.S. House,1,Dusty Johnson,REP,127
+Deuel,05,U.S. House,1,Collin Duprel,LIB,27
+Deuel,05,U.S. House,1,Dusty Johnson,REP,129
+Deuel,06,U.S. House,1,Collin Duprel,LIB,29
+Deuel,06,U.S. House,1,Dusty Johnson,REP,144
+Deuel,07,U.S. House,1,Collin Duprel,LIB,30
+Deuel,07,U.S. House,1,Dusty Johnson,REP,145
+Deuel,08,U.S. House,1,Collin Duprel,LIB,41
+Deuel,08,U.S. House,1,Dusty Johnson,REP,218
+Deuel,09,U.S. House,1,Collin Duprel,LIB,32
+Deuel,09,U.S. House,1,Dusty Johnson,REP,238
+Deuel,10,U.S. House,1,Collin Duprel,LIB,21
+Deuel,10,U.S. House,1,Dusty Johnson,REP,139
+Deuel,11,U.S. House,1,Collin Duprel,LIB,33
+Deuel,11,U.S. House,1,Dusty Johnson,REP,146
+Deuel,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,36
+Deuel,01,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Deuel,01,Governor,,Kristi Noem and Larry Rhoden,REP,99
+Deuel,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,50
+Deuel,03,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Deuel,03,Governor,,Kristi Noem and Larry Rhoden,REP,220
+Deuel,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,29
+Deuel,04,Governor,,Tracey Quint and Ashley Strand,LIB,9
+Deuel,04,Governor,,Kristi Noem and Larry Rhoden,REP,114
+Deuel,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,53
+Deuel,05,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Deuel,05,Governor,,Kristi Noem and Larry Rhoden,REP,111
+Deuel,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,56
+Deuel,06,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Deuel,06,Governor,,Kristi Noem and Larry Rhoden,REP,117
+Deuel,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,32
+Deuel,07,Governor,,Tracey Quint and Ashley Strand,LIB,8
+Deuel,07,Governor,,Kristi Noem and Larry Rhoden,REP,137
+Deuel,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,53
+Deuel,08,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Deuel,08,Governor,,Kristi Noem and Larry Rhoden,REP,210
+Deuel,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,53
+Deuel,09,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Deuel,09,Governor,,Kristi Noem and Larry Rhoden,REP,222
+Deuel,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,35
+Deuel,10,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Deuel,10,Governor,,Kristi Noem and Larry Rhoden,REP,125
+Deuel,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,61
+Deuel,11,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Deuel,11,Governor,,Kristi Noem and Larry Rhoden,REP,124
+Deuel,01,Secretary of State,,Thomas A Cool,DEM,38
+Deuel,01,Secretary of State,,Monae Johnson,REP,90
+Deuel,03,Secretary of State,,Thomas A Cool,DEM,58
+Deuel,03,Secretary of State,,Monae Johnson,REP,205
+Deuel,04,Secretary of State,,Thomas A Cool,DEM,41
+Deuel,04,Secretary of State,,Monae Johnson,REP,102
+Deuel,05,Secretary of State,,Thomas A Cool,DEM,60
+Deuel,05,Secretary of State,,Monae Johnson,REP,98
+Deuel,06,Secretary of State,,Thomas A Cool,DEM,62
+Deuel,06,Secretary of State,,Monae Johnson,REP,109
+Deuel,07,Secretary of State,,Thomas A Cool,DEM,43
+Deuel,07,Secretary of State,,Monae Johnson,REP,125
+Deuel,08,Secretary of State,,Thomas A Cool,DEM,66
+Deuel,08,Secretary of State,,Monae Johnson,REP,196
+Deuel,09,Secretary of State,,Thomas A Cool,DEM,56
+Deuel,09,Secretary of State,,Monae Johnson,REP,209
+Deuel,10,Secretary of State,,Thomas A Cool,DEM,45
+Deuel,10,Secretary of State,,Monae Johnson,REP,113
+Deuel,11,Secretary of State,,Thomas A Cool,DEM,71
+Deuel,11,Secretary of State,,Monae Johnson,REP,112
+Deuel,01,Attorney General,,Marty J. Jackley,REP,110
+Deuel,03,Attorney General,,Marty J. Jackley,REP,243
+Deuel,04,Attorney General,,Marty J. Jackley,REP,128
+Deuel,05,Attorney General,,Marty J. Jackley,REP,135
+Deuel,06,Attorney General,,Marty J. Jackley,REP,145
+Deuel,07,Attorney General,,Marty J. Jackley,REP,144
+Deuel,08,Attorney General,,Marty J. Jackley,REP,219
+Deuel,09,Attorney General,,Marty J. Jackley,REP,237
+Deuel,10,Attorney General,,Marty J. Jackley,REP,136
+Deuel,11,Attorney General,,Marty J. Jackley,REP,149
+Deuel,01,State Auditor,,Stephanie Marty,DEM,37
+Deuel,01,State Auditor,,Rene Meyer,LIB,3
+Deuel,01,State Auditor,,Richard Sattgast,REP,87
+Deuel,03,State Auditor,,Stephanie Marty,DEM,50
+Deuel,03,State Auditor,,Rene Meyer,LIB,13
+Deuel,03,State Auditor,,Richard Sattgast,REP,194
+Deuel,04,State Auditor,,Stephanie Marty,DEM,32
+Deuel,04,State Auditor,,Rene Meyer,LIB,13
+Deuel,04,State Auditor,,Richard Sattgast,REP,94
+Deuel,05,State Auditor,,Stephanie Marty,DEM,52
+Deuel,05,State Auditor,,Rene Meyer,LIB,4
+Deuel,05,State Auditor,,Richard Sattgast,REP,105
+Deuel,06,State Auditor,,Stephanie Marty,DEM,50
+Deuel,06,State Auditor,,Rene Meyer,LIB,6
+Deuel,06,State Auditor,,Richard Sattgast,REP,116
+Deuel,07,State Auditor,,Stephanie Marty,DEM,34
+Deuel,07,State Auditor,,Rene Meyer,LIB,13
+Deuel,07,State Auditor,,Richard Sattgast,REP,117
+Deuel,08,State Auditor,,Stephanie Marty,DEM,60
+Deuel,08,State Auditor,,Rene Meyer,LIB,17
+Deuel,08,State Auditor,,Richard Sattgast,REP,184
+Deuel,09,State Auditor,,Stephanie Marty,DEM,50
+Deuel,09,State Auditor,,Rene Meyer,LIB,14
+Deuel,09,State Auditor,,Richard Sattgast,REP,202
+Deuel,10,State Auditor,,Stephanie Marty,DEM,34
+Deuel,10,State Auditor,,Rene Meyer,LIB,6
+Deuel,10,State Auditor,,Richard Sattgast,REP,117
+Deuel,11,State Auditor,,Stephanie Marty,DEM,64
+Deuel,11,State Auditor,,Rene Meyer,LIB,10
+Deuel,11,State Auditor,,Richard Sattgast,REP,109
+Deuel,01,State Treasurer,,John Cunningham,DEM,37
+Deuel,01,State Treasurer,,Josh Haeder,REP,89
+Deuel,03,State Treasurer,,John Cunningham,DEM,50
+Deuel,03,State Treasurer,,Josh Haeder,REP,207
+Deuel,04,State Treasurer,,John Cunningham,DEM,30
+Deuel,04,State Treasurer,,Josh Haeder,REP,107
+Deuel,05,State Treasurer,,John Cunningham,DEM,53
+Deuel,05,State Treasurer,,Josh Haeder,REP,108
+Deuel,06,State Treasurer,,John Cunningham,DEM,54
+Deuel,06,State Treasurer,,Josh Haeder,REP,117
+Deuel,07,State Treasurer,,John Cunningham,DEM,38
+Deuel,07,State Treasurer,,Josh Haeder,REP,127
+Deuel,08,State Treasurer,,John Cunningham,DEM,62
+Deuel,08,State Treasurer,,Josh Haeder,REP,196
+Deuel,09,State Treasurer,,John Cunningham,DEM,49
+Deuel,09,State Treasurer,,Josh Haeder,REP,216
+Deuel,10,State Treasurer,,John Cunningham,DEM,35
+Deuel,10,State Treasurer,,Josh Haeder,REP,124
+Deuel,11,State Treasurer,,John Cunningham,DEM,62
+Deuel,11,State Treasurer,,Josh Haeder,REP,121
+Deuel,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Deuel,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,93
+Deuel,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Deuel,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,222
+Deuel,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,29
+Deuel,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,115
+Deuel,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,45
+Deuel,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,113
+Deuel,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,48
+Deuel,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,122
+Deuel,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Deuel,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,131
+Deuel,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,58
+Deuel,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,208
+Deuel,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,52
+Deuel,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,214
+Deuel,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,31
+Deuel,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,129
+Deuel,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,62
+Deuel,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,120
+Deuel,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,36
+Deuel,01,Public Utilities Commissioner,,Chris Nelson,REP,93
+Deuel,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,41
+Deuel,03,Public Utilities Commissioner,,Chris Nelson,REP,216
+Deuel,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Deuel,04,Public Utilities Commissioner,,Chris Nelson,REP,118
+Deuel,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,43
+Deuel,05,Public Utilities Commissioner,,Chris Nelson,REP,121
+Deuel,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Deuel,06,Public Utilities Commissioner,,Chris Nelson,REP,129
+Deuel,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Deuel,07,Public Utilities Commissioner,,Chris Nelson,REP,131
+Deuel,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Deuel,08,Public Utilities Commissioner,,Chris Nelson,REP,200
+Deuel,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,47
+Deuel,09,Public Utilities Commissioner,,Chris Nelson,REP,224
+Deuel,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Deuel,10,Public Utilities Commissioner,,Chris Nelson,REP,131
+Deuel,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,54
+Deuel,11,Public Utilities Commissioner,,Chris Nelson,REP,128
+Deuel,01,State Senate,04,John Wiik,REP,107
+Deuel,03,State Senate,04,John Wiik,REP,237
+Deuel,04,State Senate,04,John Wiik,REP,121
+Deuel,05,State Senate,04,John Wiik,REP,126
+Deuel,06,State Senate,04,John Wiik,REP,138
+Deuel,07,State Senate,04,John Wiik,REP,137
+Deuel,08,State Senate,04,John Wiik,REP,211
+Deuel,09,State Senate,04,John Wiik,REP,229
+Deuel,10,State Senate,04,John Wiik,REP,129
+Deuel,11,State Senate,04,John Wiik,REP,137
+Deuel,01,State House,04,Stephanie Sauder,REP,73
+Deuel,01,State House,04,Fred Deutsch,REP,86
+Deuel,03,State House,04,Stephanie Sauder,REP,157
+Deuel,03,State House,04,Fred Deutsch,REP,182
+Deuel,04,State House,04,Stephanie Sauder,REP,72
+Deuel,04,State House,04,Fred Deutsch,REP,99
+Deuel,05,State House,04,Stephanie Sauder,REP,81
+Deuel,05,State House,04,Fred Deutsch,REP,105
+Deuel,06,State House,04,Stephanie Sauder,REP,93
+Deuel,06,State House,04,Fred Deutsch,REP,110
+Deuel,07,State House,04,Stephanie Sauder,REP,98
+Deuel,07,State House,04,Fred Deutsch,REP,109
+Deuel,08,State House,04,Stephanie Sauder,REP,123
+Deuel,08,State House,04,Fred Deutsch,REP,180
+Deuel,09,State House,04,Stephanie Sauder,REP,156
+Deuel,09,State House,04,Fred Deutsch,REP,171
+Deuel,10,State House,04,Stephanie Sauder,REP,83
+Deuel,10,State House,04,Fred Deutsch,REP,108
+Deuel,11,State House,04,Stephanie Sauder,REP,90
+Deuel,11,State House,04,Fred Deutsch,REP,115
+Deuel,01,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,65
+Deuel,03,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,163
+Deuel,04,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,76
+Deuel,05,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,100
+Deuel,06,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,96
+Deuel,07,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,100
+Deuel,08,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,144
+Deuel,09,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,129
+Deuel,10,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,70
+Deuel,11,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,94
+Deuel,01,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,71
+Deuel,03,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,161
+Deuel,04,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,79
+Deuel,05,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,103
+Deuel,06,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,97
+Deuel,07,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,101
+Deuel,08,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,141
+Deuel,09,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,131
+Deuel,10,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,71
+Deuel,11,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,98
+Deuel,01,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,61
+Deuel,03,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,159
+Deuel,04,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,76
+Deuel,05,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,93
+Deuel,06,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,89
+Deuel,07,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,99
+Deuel,08,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,133
+Deuel,09,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,121
+Deuel,10,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,65
+Deuel,11,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,92
+Deuel,01,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,90
+Deuel,03,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,195
+Deuel,04,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,108
+Deuel,05,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,125
+Deuel,06,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,122
+Deuel,07,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,119
+Deuel,08,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,170
+Deuel,09,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,189
+Deuel,10,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,86
+Deuel,11,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,116
+Deuel,01,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,57
+Deuel,01,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,29
+Deuel,03,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,119
+Deuel,03,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,67
+Deuel,04,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,57
+Deuel,04,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,37
+Deuel,05,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,92
+Deuel,05,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,33
+Deuel,06,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,82
+Deuel,06,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,39
+Deuel,07,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,75
+Deuel,07,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,50
+Deuel,08,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,125
+Deuel,08,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,65
+Deuel,09,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,127
+Deuel,09,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,43
+Deuel,10,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,40
+Deuel,10,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,55
+Deuel,11,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,56
+Deuel,11,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,77
+Deuel,01,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,54
+Deuel,03,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,155
+Deuel,04,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,71
+Deuel,05,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,94
+Deuel,06,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,87
+Deuel,07,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,100
+Deuel,08,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,129
+Deuel,09,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,118
+Deuel,10,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,61
+Deuel,11,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,95
+Deuel,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,96
+Deuel,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,19
+Deuel,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,198
+Deuel,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
+Deuel,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,105
+Deuel,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Deuel,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,122
+Deuel,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Deuel,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,136
+Deuel,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,19
+Deuel,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,112
+Deuel,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,34
+Deuel,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,206
+Deuel,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Deuel,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,188
+Deuel,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Deuel,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,113
+Deuel,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
+Deuel,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,135
+Deuel,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,23
+Deuel,01,Supreme Court Retention,2,Mark E. Salter - Yes,,93
+Deuel,01,Supreme Court Retention,2,Mark E. Salter - No,,16
+Deuel,03,Supreme Court Retention,2,Mark E. Salter - Yes,,195
+Deuel,03,Supreme Court Retention,2,Mark E. Salter - No,,32
+Deuel,04,Supreme Court Retention,2,Mark E. Salter - Yes,,105
+Deuel,04,Supreme Court Retention,2,Mark E. Salter - No,,18
+Deuel,05,Supreme Court Retention,2,Mark E. Salter - Yes,,124
+Deuel,05,Supreme Court Retention,2,Mark E. Salter - No,,14
+Deuel,06,Supreme Court Retention,2,Mark E. Salter - Yes,,127
+Deuel,06,Supreme Court Retention,2,Mark E. Salter - No,,23
+Deuel,07,Supreme Court Retention,2,Mark E. Salter - Yes,,114
+Deuel,07,Supreme Court Retention,2,Mark E. Salter - No,,32
+Deuel,08,Supreme Court Retention,2,Mark E. Salter - Yes,,201
+Deuel,08,Supreme Court Retention,2,Mark E. Salter - No,,34
+Deuel,09,Supreme Court Retention,2,Mark E. Salter - Yes,,188
+Deuel,09,Supreme Court Retention,2,Mark E. Salter - No,,30
+Deuel,10,Supreme Court Retention,2,Mark E. Salter - Yes,,110
+Deuel,10,Supreme Court Retention,2,Mark E. Salter - No,,15
+Deuel,11,Supreme Court Retention,2,Mark E. Salter - Yes,,129
+Deuel,11,Supreme Court Retention,2,Mark E. Salter - No,,24
+Deuel,01,Constitutional Amendment D,,Yes,,79
+Deuel,01,Constitutional Amendment D,,No,,55
+Deuel,03,Constitutional Amendment D,,Yes,,115
+Deuel,03,Constitutional Amendment D,,No,,155
+Deuel,04,Constitutional Amendment D,,Yes,,77
+Deuel,04,Constitutional Amendment D,,No,,73
+Deuel,05,Constitutional Amendment D,,Yes,,98
+Deuel,05,Constitutional Amendment D,,No,,64
+Deuel,06,Constitutional Amendment D,,Yes,,92
+Deuel,06,Constitutional Amendment D,,No,,80
+Deuel,07,Constitutional Amendment D,,Yes,,80
+Deuel,07,Constitutional Amendment D,,No,,98
+Deuel,08,Constitutional Amendment D,,Yes,,118
+Deuel,08,Constitutional Amendment D,,No,,152
+Deuel,09,Constitutional Amendment D,,Yes,,122
+Deuel,09,Constitutional Amendment D,,No,,152
+Deuel,10,Constitutional Amendment D,,Yes,,80
+Deuel,10,Constitutional Amendment D,,No,,78
+Deuel,11,Constitutional Amendment D,,Yes,,84
+Deuel,11,Constitutional Amendment D,,No,,105
+Deuel,01,Initiated Measure 27,,Yes,,49
+Deuel,01,Initiated Measure 27,,No,,88
+Deuel,03,Initiated Measure 27,,Yes,,86
+Deuel,03,Initiated Measure 27,,No,,191
+Deuel,04,Initiated Measure 27,,Yes,,52
+Deuel,04,Initiated Measure 27,,No,,99
+Deuel,05,Initiated Measure 27,,Yes,,77
+Deuel,05,Initiated Measure 27,,No,,88
+Deuel,06,Initiated Measure 27,,Yes,,63
+Deuel,06,Initiated Measure 27,,No,,116
+Deuel,07,Initiated Measure 27,,Yes,,65
+Deuel,07,Initiated Measure 27,,No,,113
+Deuel,08,Initiated Measure 27,,Yes,,66
+Deuel,08,Initiated Measure 27,,No,,206
+Deuel,09,Initiated Measure 27,,Yes,,74
+Deuel,09,Initiated Measure 27,,No,,204
+Deuel,10,Initiated Measure 27,,Yes,,41
+Deuel,10,Initiated Measure 27,,No,,123
+Deuel,11,Initiated Measure 27,,Yes,,57
+Deuel,11,Initiated Measure 27,,No,,135

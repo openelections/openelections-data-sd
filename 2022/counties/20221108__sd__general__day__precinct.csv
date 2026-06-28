@@ -1,0 +1,419 @@
+county,precinct,office,district,candidate,party,votes
+Day,01,U.S. Senate,,Brian L. Bengs,DEM,54
+Day,01,U.S. Senate,,Tamara J Lesnar,LIB,7
+Day,01,U.S. Senate,,John R. Thune,REP,171
+Day,02,U.S. Senate,,Brian L. Bengs,DEM,48
+Day,02,U.S. Senate,,Tamara J Lesnar,LIB,10
+Day,02,U.S. Senate,,John R. Thune,REP,171
+Day,03,U.S. Senate,,Brian L. Bengs,DEM,51
+Day,03,U.S. Senate,,Tamara J Lesnar,LIB,12
+Day,03,U.S. Senate,,John R. Thune,REP,207
+Day,04,U.S. Senate,,Brian L. Bengs,DEM,79
+Day,04,U.S. Senate,,Tamara J Lesnar,LIB,20
+Day,04,U.S. Senate,,John R. Thune,REP,263
+Day,05,U.S. Senate,,Brian L. Bengs,DEM,72
+Day,05,U.S. Senate,,Tamara J Lesnar,LIB,18
+Day,05,U.S. Senate,,John R. Thune,REP,241
+Day,06,U.S. Senate,,Brian L. Bengs,DEM,23
+Day,06,U.S. Senate,,Tamara J Lesnar,LIB,2
+Day,06,U.S. Senate,,John R. Thune,REP,63
+Day,07,U.S. Senate,,Brian L. Bengs,DEM,51
+Day,07,U.S. Senate,,Tamara J Lesnar,LIB,6
+Day,07,U.S. Senate,,John R. Thune,REP,145
+Day,08,U.S. Senate,,Brian L. Bengs,DEM,54
+Day,08,U.S. Senate,,Tamara J Lesnar,LIB,10
+Day,08,U.S. Senate,,John R. Thune,REP,124
+Day,09,U.S. Senate,,Brian L. Bengs,DEM,42
+Day,09,U.S. Senate,,Tamara J Lesnar,LIB,13
+Day,09,U.S. Senate,,John R. Thune,REP,132
+Day,10,U.S. Senate,,Brian L. Bengs,DEM,10
+Day,10,U.S. Senate,,Tamara J Lesnar,LIB,3
+Day,10,U.S. Senate,,John R. Thune,REP,70
+Day,11,U.S. Senate,,Brian L. Bengs,DEM,118
+Day,11,U.S. Senate,,Tamara J Lesnar,LIB,15
+Day,11,U.S. Senate,,John R. Thune,REP,209
+Day,01,U.S. House,1,Collin Duprel,LIB,33
+Day,01,U.S. House,1,Dusty Johnson,REP,181
+Day,02,U.S. House,1,Collin Duprel,LIB,43
+Day,02,U.S. House,1,Dusty Johnson,REP,171
+Day,03,U.S. House,1,Collin Duprel,LIB,40
+Day,03,U.S. House,1,Dusty Johnson,REP,213
+Day,04,U.S. House,1,Collin Duprel,LIB,72
+Day,04,U.S. House,1,Dusty Johnson,REP,270
+Day,05,U.S. House,1,Collin Duprel,LIB,60
+Day,05,U.S. House,1,Dusty Johnson,REP,259
+Day,06,U.S. House,1,Collin Duprel,LIB,19
+Day,06,U.S. House,1,Dusty Johnson,REP,65
+Day,07,U.S. House,1,Collin Duprel,LIB,36
+Day,07,U.S. House,1,Dusty Johnson,REP,158
+Day,08,U.S. House,1,Collin Duprel,LIB,47
+Day,08,U.S. House,1,Dusty Johnson,REP,126
+Day,09,U.S. House,1,Collin Duprel,LIB,35
+Day,09,U.S. House,1,Dusty Johnson,REP,145
+Day,10,U.S. House,1,Collin Duprel,LIB,10
+Day,10,U.S. House,1,Dusty Johnson,REP,72
+Day,11,U.S. House,1,Collin Duprel,LIB,85
+Day,11,U.S. House,1,Dusty Johnson,REP,238
+Day,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,97
+Day,01,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Day,01,Governor,,Kristi Noem and Larry Rhoden,REP,132
+Day,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,71
+Day,02,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Day,02,Governor,,Kristi Noem and Larry Rhoden,REP,157
+Day,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,79
+Day,03,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Day,03,Governor,,Kristi Noem and Larry Rhoden,REP,188
+Day,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,112
+Day,04,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Day,04,Governor,,Kristi Noem and Larry Rhoden,REP,244
+Day,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,105
+Day,05,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Day,05,Governor,,Kristi Noem and Larry Rhoden,REP,223
+Day,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,27
+Day,06,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Day,06,Governor,,Kristi Noem and Larry Rhoden,REP,60
+Day,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,68
+Day,07,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Day,07,Governor,,Kristi Noem and Larry Rhoden,REP,131
+Day,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,82
+Day,08,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Day,08,Governor,,Kristi Noem and Larry Rhoden,REP,105
+Day,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,66
+Day,09,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Day,09,Governor,,Kristi Noem and Larry Rhoden,REP,116
+Day,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,11
+Day,10,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Day,10,Governor,,Kristi Noem and Larry Rhoden,REP,69
+Day,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,158
+Day,11,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Day,11,Governor,,Kristi Noem and Larry Rhoden,REP,174
+Day,01,Secretary of State,,Thomas A Cool,DEM,95
+Day,01,Secretary of State,,Monae Johnson,REP,117
+Day,02,Secretary of State,,Thomas A Cool,DEM,71
+Day,02,Secretary of State,,Monae Johnson,REP,153
+Day,03,Secretary of State,,Thomas A Cool,DEM,85
+Day,03,Secretary of State,,Monae Johnson,REP,173
+Day,04,Secretary of State,,Thomas A Cool,DEM,119
+Day,04,Secretary of State,,Monae Johnson,REP,221
+Day,05,Secretary of State,,Thomas A Cool,DEM,121
+Day,05,Secretary of State,,Monae Johnson,REP,188
+Day,06,Secretary of State,,Thomas A Cool,DEM,30
+Day,06,Secretary of State,,Monae Johnson,REP,56
+Day,07,Secretary of State,,Thomas A Cool,DEM,70
+Day,07,Secretary of State,,Monae Johnson,REP,117
+Day,08,Secretary of State,,Thomas A Cool,DEM,80
+Day,08,Secretary of State,,Monae Johnson,REP,97
+Day,09,Secretary of State,,Thomas A Cool,DEM,72
+Day,09,Secretary of State,,Monae Johnson,REP,105
+Day,10,Secretary of State,,Thomas A Cool,DEM,19
+Day,10,Secretary of State,,Monae Johnson,REP,55
+Day,11,Secretary of State,,Thomas A Cool,DEM,157
+Day,11,Secretary of State,,Monae Johnson,REP,174
+Day,01,Attorney General,,Marty J. Jackley,REP,178
+Day,02,Attorney General,,Marty J. Jackley,REP,172
+Day,03,Attorney General,,Marty J. Jackley,REP,221
+Day,04,Attorney General,,Marty J. Jackley,REP,272
+Day,05,Attorney General,,Marty J. Jackley,REP,264
+Day,06,Attorney General,,Marty J. Jackley,REP,66
+Day,07,Attorney General,,Marty J. Jackley,REP,156
+Day,08,Attorney General,,Marty J. Jackley,REP,131
+Day,09,Attorney General,,Marty J. Jackley,REP,140
+Day,10,Attorney General,,Marty J. Jackley,REP,71
+Day,11,Attorney General,,Marty J. Jackley,REP,236
+Day,01,State Auditor,,Stephanie Marty,DEM,76
+Day,01,State Auditor,,Rene Meyer,LIB,16
+Day,01,State Auditor,,Richard Sattgast,REP,123
+Day,02,State Auditor,,Stephanie Marty,DEM,64
+Day,02,State Auditor,,Rene Meyer,LIB,13
+Day,02,State Auditor,,Richard Sattgast,REP,145
+Day,03,State Auditor,,Stephanie Marty,DEM,79
+Day,03,State Auditor,,Rene Meyer,LIB,14
+Day,03,State Auditor,,Richard Sattgast,REP,164
+Day,04,State Auditor,,Stephanie Marty,DEM,97
+Day,04,State Auditor,,Rene Meyer,LIB,15
+Day,04,State Auditor,,Richard Sattgast,REP,218
+Day,05,State Auditor,,Stephanie Marty,DEM,115
+Day,05,State Auditor,,Rene Meyer,LIB,15
+Day,05,State Auditor,,Richard Sattgast,REP,183
+Day,06,State Auditor,,Stephanie Marty,DEM,25
+Day,06,State Auditor,,Rene Meyer,LIB,7
+Day,06,State Auditor,,Richard Sattgast,REP,53
+Day,07,State Auditor,,Stephanie Marty,DEM,62
+Day,07,State Auditor,,Rene Meyer,LIB,8
+Day,07,State Auditor,,Richard Sattgast,REP,118
+Day,08,State Auditor,,Stephanie Marty,DEM,73
+Day,08,State Auditor,,Rene Meyer,LIB,8
+Day,08,State Auditor,,Richard Sattgast,REP,97
+Day,09,State Auditor,,Stephanie Marty,DEM,70
+Day,09,State Auditor,,Rene Meyer,LIB,8
+Day,09,State Auditor,,Richard Sattgast,REP,99
+Day,10,State Auditor,,Stephanie Marty,DEM,17
+Day,10,State Auditor,,Rene Meyer,LIB,3
+Day,10,State Auditor,,Richard Sattgast,REP,58
+Day,11,State Auditor,,Stephanie Marty,DEM,148
+Day,11,State Auditor,,Rene Meyer,LIB,18
+Day,11,State Auditor,,Richard Sattgast,REP,165
+Day,01,State Treasurer,,John Cunningham,DEM,82
+Day,01,State Treasurer,,Josh Haeder,REP,130
+Day,02,State Treasurer,,John Cunningham,DEM,64
+Day,02,State Treasurer,,Josh Haeder,REP,156
+Day,03,State Treasurer,,John Cunningham,DEM,82
+Day,03,State Treasurer,,Josh Haeder,REP,171
+Day,04,State Treasurer,,John Cunningham,DEM,109
+Day,04,State Treasurer,,Josh Haeder,REP,218
+Day,05,State Treasurer,,John Cunningham,DEM,110
+Day,05,State Treasurer,,Josh Haeder,REP,206
+Day,06,State Treasurer,,John Cunningham,DEM,27
+Day,06,State Treasurer,,Josh Haeder,REP,57
+Day,07,State Treasurer,,John Cunningham,DEM,61
+Day,07,State Treasurer,,Josh Haeder,REP,120
+Day,08,State Treasurer,,John Cunningham,DEM,75
+Day,08,State Treasurer,,Josh Haeder,REP,100
+Day,09,State Treasurer,,John Cunningham,DEM,64
+Day,09,State Treasurer,,Josh Haeder,REP,108
+Day,10,State Treasurer,,John Cunningham,DEM,18
+Day,10,State Treasurer,,Josh Haeder,REP,59
+Day,11,State Treasurer,,John Cunningham,DEM,151
+Day,11,State Treasurer,,Josh Haeder,REP,177
+Day,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,77
+Day,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,135
+Day,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,64
+Day,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,151
+Day,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,72
+Day,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,179
+Day,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,101
+Day,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,229
+Day,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,109
+Day,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,202
+Day,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,28
+Day,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,57
+Day,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,57
+Day,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,127
+Day,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,74
+Day,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,102
+Day,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,65
+Day,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,106
+Day,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,17
+Day,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,60
+Day,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,142
+Day,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Day,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,69
+Day,01,Public Utilities Commissioner,,Chris Nelson,REP,145
+Day,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,60
+Day,02,Public Utilities Commissioner,,Chris Nelson,REP,159
+Day,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,70
+Day,03,Public Utilities Commissioner,,Chris Nelson,REP,190
+Day,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,101
+Day,04,Public Utilities Commissioner,,Chris Nelson,REP,238
+Day,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,94
+Day,05,Public Utilities Commissioner,,Chris Nelson,REP,227
+Day,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Day,06,Public Utilities Commissioner,,Chris Nelson,REP,61
+Day,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,51
+Day,07,Public Utilities Commissioner,,Chris Nelson,REP,136
+Day,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,64
+Day,08,Public Utilities Commissioner,,Chris Nelson,REP,109
+Day,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,61
+Day,09,Public Utilities Commissioner,,Chris Nelson,REP,115
+Day,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Day,10,Public Utilities Commissioner,,Chris Nelson,REP,64
+Day,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,133
+Day,11,Public Utilities Commissioner,,Chris Nelson,REP,194
+Day,01,State Senate,01,Michael H. Rohl,REP,126
+Day,01,State Senate,01,Susan Wismer,IND,98
+Day,02,State Senate,01,Michael H. Rohl,REP,143
+Day,02,State Senate,01,Susan Wismer,IND,79
+Day,03,State Senate,01,Michael H. Rohl,REP,162
+Day,03,State Senate,01,Susan Wismer,IND,96
+Day,04,State Senate,01,Michael H. Rohl,REP,227
+Day,04,State Senate,01,Susan Wismer,IND,119
+Day,05,State Senate,01,Michael H. Rohl,REP,193
+Day,05,State Senate,01,Susan Wismer,IND,125
+Day,06,State Senate,01,Michael H. Rohl,REP,48
+Day,06,State Senate,01,Susan Wismer,IND,35
+Day,07,State Senate,01,Michael H. Rohl,REP,111
+Day,07,State Senate,01,Susan Wismer,IND,83
+Day,08,State Senate,01,Michael H. Rohl,REP,93
+Day,08,State Senate,01,Susan Wismer,IND,95
+Day,09,State Senate,01,Michael H. Rohl,REP,108
+Day,09,State Senate,01,Susan Wismer,IND,70
+Day,10,State Senate,01,Michael H. Rohl,REP,43
+Day,10,State Senate,01,Susan Wismer,IND,25
+Day,11,State Senate,01,Michael H. Rohl,REP,175
+Day,11,State Senate,01,Susan Wismer,IND,146
+Day,01,State House,01,Steven D. McCleerey,DEM,93
+Day,01,State House,01,Kay F. Nikolas,DEM,71
+Day,01,State House,01,Joe Donnell,REP,91
+Day,01,State House,01,Tamara St John,REP,119
+Day,02,State House,01,Steven D. McCleerey,DEM,66
+Day,02,State House,01,Kay F. Nikolas,DEM,50
+Day,02,State House,01,Joe Donnell,REP,109
+Day,02,State House,01,Tamara St John,REP,129
+Day,03,State House,01,Steven D. McCleerey,DEM,88
+Day,03,State House,01,Kay F. Nikolas,DEM,76
+Day,03,State House,01,Joe Donnell,REP,113
+Day,03,State House,01,Tamara St John,REP,141
+Day,04,State House,01,Steven D. McCleerey,DEM,122
+Day,04,State House,01,Kay F. Nikolas,DEM,94
+Day,04,State House,01,Joe Donnell,REP,175
+Day,04,State House,01,Tamara St John,REP,206
+Day,05,State House,01,Steven D. McCleerey,DEM,127
+Day,05,State House,01,Kay F. Nikolas,DEM,85
+Day,05,State House,01,Joe Donnell,REP,139
+Day,05,State House,01,Tamara St John,REP,185
+Day,06,State House,01,Steven D. McCleerey,DEM,30
+Day,06,State House,01,Kay F. Nikolas,DEM,26
+Day,06,State House,01,Joe Donnell,REP,39
+Day,06,State House,01,Tamara St John,REP,52
+Day,07,State House,01,Steven D. McCleerey,DEM,77
+Day,07,State House,01,Kay F. Nikolas,DEM,55
+Day,07,State House,01,Joe Donnell,REP,90
+Day,07,State House,01,Tamara St John,REP,100
+Day,08,State House,01,Steven D. McCleerey,DEM,80
+Day,08,State House,01,Kay F. Nikolas,DEM,62
+Day,08,State House,01,Joe Donnell,REP,70
+Day,08,State House,01,Tamara St John,REP,85
+Day,09,State House,01,Steven D. McCleerey,DEM,72
+Day,09,State House,01,Kay F. Nikolas,DEM,55
+Day,09,State House,01,Joe Donnell,REP,83
+Day,09,State House,01,Tamara St John,REP,99
+Day,10,State House,01,Steven D. McCleerey,DEM,17
+Day,10,State House,01,Kay F. Nikolas,DEM,16
+Day,10,State House,01,Joe Donnell,REP,46
+Day,10,State House,01,Tamara St John,REP,45
+Day,11,State House,01,Steven D. McCleerey,DEM,135
+Day,11,State House,01,Kay F. Nikolas,DEM,86
+Day,11,State House,01,Joe Donnell,REP,145
+Day,11,State House,01,Tamara St John,REP,187
+Day,01,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,120
+Day,02,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,106
+Day,03,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,134
+Day,04,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,163
+Day,05,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,178
+Day,06,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,53
+Day,07,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,96
+Day,08,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,95
+Day,09,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,84
+Day,10,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,35
+Day,11,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,138
+Day,01,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,108
+Day,02,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,102
+Day,03,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,121
+Day,04,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,149
+Day,05,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,163
+Day,06,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,49
+Day,07,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,94
+Day,08,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,91
+Day,09,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,82
+Day,10,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,35
+Day,11,Judge of the Circuit Court,Position B Fifth Circuit,Tony L. Portra,NON,140
+Day,01,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,109
+Day,02,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,97
+Day,03,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,120
+Day,04,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,140
+Day,05,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,158
+Day,06,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,48
+Day,07,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,84
+Day,08,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,80
+Day,09,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,79
+Day,10,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,34
+Day,11,Judge of the Circuit Court,Position C Fifth Circuit,Gregory C. Magera,NON,130
+Day,01,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,122
+Day,02,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,105
+Day,03,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,133
+Day,04,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,161
+Day,05,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,167
+Day,06,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,51
+Day,07,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,116
+Day,08,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,114
+Day,09,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,110
+Day,10,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,35
+Day,11,Judge of the Circuit Court,Position D Fifth Circuit,Richard A. Sommers,NON,141
+Day,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,157
+Day,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Day,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
+Day,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,30
+Day,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,186
+Day,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,33
+Day,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,245
+Day,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,43
+Day,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,236
+Day,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
+Day,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,56
+Day,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,21
+Day,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,137
+Day,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,28
+Day,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,130
+Day,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Day,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,123
+Day,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,27
+Day,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,42
+Day,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Day,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,221
+Day,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Day,01,Supreme Court Retention,2,Mark E. Salter - Yes,,152
+Day,01,Supreme Court Retention,2,Mark E. Salter - No,,31
+Day,02,Supreme Court Retention,2,Mark E. Salter - Yes,,152
+Day,02,Supreme Court Retention,2,Mark E. Salter - No,,29
+Day,03,Supreme Court Retention,2,Mark E. Salter - Yes,,184
+Day,03,Supreme Court Retention,2,Mark E. Salter - No,,39
+Day,04,Supreme Court Retention,2,Mark E. Salter - Yes,,243
+Day,04,Supreme Court Retention,2,Mark E. Salter - No,,43
+Day,05,Supreme Court Retention,2,Mark E. Salter - Yes,,230
+Day,05,Supreme Court Retention,2,Mark E. Salter - No,,45
+Day,06,Supreme Court Retention,2,Mark E. Salter - Yes,,51
+Day,06,Supreme Court Retention,2,Mark E. Salter - No,,21
+Day,07,Supreme Court Retention,2,Mark E. Salter - Yes,,133
+Day,07,Supreme Court Retention,2,Mark E. Salter - No,,29
+Day,08,Supreme Court Retention,2,Mark E. Salter - Yes,,123
+Day,08,Supreme Court Retention,2,Mark E. Salter - No,,26
+Day,09,Supreme Court Retention,2,Mark E. Salter - Yes,,125
+Day,09,Supreme Court Retention,2,Mark E. Salter - No,,25
+Day,10,Supreme Court Retention,2,Mark E. Salter - Yes,,41
+Day,10,Supreme Court Retention,2,Mark E. Salter - No,,19
+Day,11,Supreme Court Retention,2,Mark E. Salter - Yes,,216
+Day,11,Supreme Court Retention,2,Mark E. Salter - No,,72
+Day,01,Constitutional Amendment D,,Yes,,121
+Day,01,Constitutional Amendment D,,No,,104
+Day,02,Constitutional Amendment D,,Yes,,118
+Day,02,Constitutional Amendment D,,No,,105
+Day,03,Constitutional Amendment D,,Yes,,148
+Day,03,Constitutional Amendment D,,No,,114
+Day,04,Constitutional Amendment D,,Yes,,179
+Day,04,Constitutional Amendment D,,No,,173
+Day,05,Constitutional Amendment D,,Yes,,182
+Day,05,Constitutional Amendment D,,No,,149
+Day,06,Constitutional Amendment D,,Yes,,48
+Day,06,Constitutional Amendment D,,No,,36
+Day,07,Constitutional Amendment D,,Yes,,91
+Day,07,Constitutional Amendment D,,No,,103
+Day,08,Constitutional Amendment D,,Yes,,104
+Day,08,Constitutional Amendment D,,No,,82
+Day,09,Constitutional Amendment D,,Yes,,102
+Day,09,Constitutional Amendment D,,No,,84
+Day,10,Constitutional Amendment D,,Yes,,30
+Day,10,Constitutional Amendment D,,No,,51
+Day,11,Constitutional Amendment D,,Yes,,202
+Day,11,Constitutional Amendment D,,No,,134
+Day,01,Initiated Measure 27,,Yes,,98
+Day,01,Initiated Measure 27,,No,,129
+Day,02,Initiated Measure 27,,Yes,,100
+Day,02,Initiated Measure 27,,No,,124
+Day,03,Initiated Measure 27,,Yes,,117
+Day,03,Initiated Measure 27,,No,,149
+Day,04,Initiated Measure 27,,Yes,,120
+Day,04,Initiated Measure 27,,No,,237
+Day,05,Initiated Measure 27,,Yes,,145
+Day,05,Initiated Measure 27,,No,,191
+Day,06,Initiated Measure 27,,Yes,,30
+Day,06,Initiated Measure 27,,No,,58
+Day,07,Initiated Measure 27,,Yes,,76
+Day,07,Initiated Measure 27,,No,,120
+Day,08,Initiated Measure 27,,Yes,,81
+Day,08,Initiated Measure 27,,No,,106
+Day,09,Initiated Measure 27,,Yes,,87
+Day,09,Initiated Measure 27,,No,,98
+Day,10,Initiated Measure 27,,Yes,,20
+Day,10,Initiated Measure 27,,No,,63
+Day,11,Initiated Measure 27,,Yes,,195
+Day,11,Initiated Measure 27,,No,,143

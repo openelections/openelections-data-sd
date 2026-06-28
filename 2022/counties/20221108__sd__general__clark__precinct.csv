@@ -1,0 +1,469 @@
+county,precinct,office,district,candidate,party,votes
+Clark,01,U.S. Senate,,Brian L. Bengs,DEM,19
+Clark,01,U.S. Senate,,Tamara J Lesnar,LIB,8
+Clark,01,U.S. Senate,,John R. Thune,REP,108
+Clark,02,U.S. Senate,,Brian L. Bengs,DEM,16
+Clark,02,U.S. Senate,,Tamara J Lesnar,LIB,4
+Clark,02,U.S. Senate,,John R. Thune,REP,76
+Clark,03,U.S. Senate,,Brian L. Bengs,DEM,11
+Clark,03,U.S. Senate,,Tamara J Lesnar,LIB,2
+Clark,03,U.S. Senate,,John R. Thune,REP,77
+Clark,04,U.S. Senate,,Brian L. Bengs,DEM,12
+Clark,04,U.S. Senate,,Tamara J Lesnar,LIB,5
+Clark,04,U.S. Senate,,John R. Thune,REP,73
+Clark,06,U.S. Senate,,Brian L. Bengs,DEM,20
+Clark,06,U.S. Senate,,Tamara J Lesnar,LIB,4
+Clark,06,U.S. Senate,,John R. Thune,REP,146
+Clark,07,U.S. Senate,,Brian L. Bengs,DEM,12
+Clark,07,U.S. Senate,,Tamara J Lesnar,LIB,2
+Clark,07,U.S. Senate,,John R. Thune,REP,155
+Clark,08,U.S. Senate,,Brian L. Bengs,DEM,18
+Clark,08,U.S. Senate,,Tamara J Lesnar,LIB,5
+Clark,08,U.S. Senate,,John R. Thune,REP,141
+Clark,09,U.S. Senate,,Brian L. Bengs,DEM,18
+Clark,09,U.S. Senate,,Tamara J Lesnar,LIB,5
+Clark,09,U.S. Senate,,John R. Thune,REP,111
+Clark,10,U.S. Senate,,Brian L. Bengs,DEM,18
+Clark,10,U.S. Senate,,Tamara J Lesnar,LIB,1
+Clark,10,U.S. Senate,,John R. Thune,REP,71
+Clark,11,U.S. Senate,,Brian L. Bengs,DEM,26
+Clark,11,U.S. Senate,,Tamara J Lesnar,LIB,5
+Clark,11,U.S. Senate,,John R. Thune,REP,117
+Clark,12,U.S. Senate,,Brian L. Bengs,DEM,34
+Clark,12,U.S. Senate,,Tamara J Lesnar,LIB,9
+Clark,12,U.S. Senate,,John R. Thune,REP,111
+Clark,13,U.S. Senate,,Brian L. Bengs,DEM,26
+Clark,13,U.S. Senate,,Tamara J Lesnar,LIB,6
+Clark,13,U.S. Senate,,John R. Thune,REP,121
+Clark,01,U.S. House,1,Collin Duprel,LIB,19
+Clark,01,U.S. House,1,Dusty Johnson,REP,112
+Clark,02,U.S. House,1,Collin Duprel,LIB,13
+Clark,02,U.S. House,1,Dusty Johnson,REP,80
+Clark,03,U.S. House,1,Collin Duprel,LIB,10
+Clark,03,U.S. House,1,Dusty Johnson,REP,77
+Clark,04,U.S. House,1,Collin Duprel,LIB,15
+Clark,04,U.S. House,1,Dusty Johnson,REP,75
+Clark,06,U.S. House,1,Collin Duprel,LIB,16
+Clark,06,U.S. House,1,Dusty Johnson,REP,151
+Clark,07,U.S. House,1,Collin Duprel,LIB,11
+Clark,07,U.S. House,1,Dusty Johnson,REP,153
+Clark,08,U.S. House,1,Collin Duprel,LIB,18
+Clark,08,U.S. House,1,Dusty Johnson,REP,141
+Clark,09,U.S. House,1,Collin Duprel,LIB,14
+Clark,09,U.S. House,1,Dusty Johnson,REP,116
+Clark,10,U.S. House,1,Collin Duprel,LIB,14
+Clark,10,U.S. House,1,Dusty Johnson,REP,72
+Clark,11,U.S. House,1,Collin Duprel,LIB,19
+Clark,11,U.S. House,1,Dusty Johnson,REP,116
+Clark,12,U.S. House,1,Collin Duprel,LIB,38
+Clark,12,U.S. House,1,Dusty Johnson,REP,106
+Clark,13,U.S. House,1,Collin Duprel,LIB,26
+Clark,13,U.S. House,1,Dusty Johnson,REP,121
+Clark,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,28
+Clark,01,Governor,,Tracey Quint and Ashley Strand,LIB,7
+Clark,01,Governor,,Kristi Noem and Larry Rhoden,REP,102
+Clark,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Clark,02,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Clark,02,Governor,,Kristi Noem and Larry Rhoden,REP,79
+Clark,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,20
+Clark,03,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Clark,03,Governor,,Kristi Noem and Larry Rhoden,REP,69
+Clark,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Clark,04,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Clark,04,Governor,,Kristi Noem and Larry Rhoden,REP,66
+Clark,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,31
+Clark,06,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Clark,06,Governor,,Kristi Noem and Larry Rhoden,REP,147
+Clark,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,19
+Clark,07,Governor,,Tracey Quint and Ashley Strand,LIB,5
+Clark,07,Governor,,Kristi Noem and Larry Rhoden,REP,144
+Clark,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,39
+Clark,08,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Clark,08,Governor,,Kristi Noem and Larry Rhoden,REP,121
+Clark,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,34
+Clark,09,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Clark,09,Governor,,Kristi Noem and Larry Rhoden,REP,96
+Clark,10,Governor,,Jamie Smith and Jennifer Keintz,DEM,23
+Clark,10,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Clark,10,Governor,,Kristi Noem and Larry Rhoden,REP,67
+Clark,11,Governor,,Jamie Smith and Jennifer Keintz,DEM,38
+Clark,11,Governor,,Tracey Quint and Ashley Strand,LIB,1
+Clark,11,Governor,,Kristi Noem and Larry Rhoden,REP,114
+Clark,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,40
+Clark,12,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Clark,12,Governor,,Kristi Noem and Larry Rhoden,REP,104
+Clark,13,Governor,,Jamie Smith and Jennifer Keintz,DEM,34
+Clark,13,Governor,,Tracey Quint and Ashley Strand,LIB,3
+Clark,13,Governor,,Kristi Noem and Larry Rhoden,REP,114
+Clark,01,Secretary of State,,Thomas A Cool,DEM,33
+Clark,01,Secretary of State,,Monae Johnson,REP,97
+Clark,02,Secretary of State,,Thomas A Cool,DEM,27
+Clark,02,Secretary of State,,Monae Johnson,REP,60
+Clark,03,Secretary of State,,Thomas A Cool,DEM,18
+Clark,03,Secretary of State,,Monae Johnson,REP,64
+Clark,04,Secretary of State,,Thomas A Cool,DEM,19
+Clark,04,Secretary of State,,Monae Johnson,REP,64
+Clark,06,Secretary of State,,Thomas A Cool,DEM,32
+Clark,06,Secretary of State,,Monae Johnson,REP,124
+Clark,07,Secretary of State,,Thomas A Cool,DEM,19
+Clark,07,Secretary of State,,Monae Johnson,REP,138
+Clark,08,Secretary of State,,Thomas A Cool,DEM,44
+Clark,08,Secretary of State,,Monae Johnson,REP,109
+Clark,09,Secretary of State,,Thomas A Cool,DEM,25
+Clark,09,Secretary of State,,Monae Johnson,REP,91
+Clark,10,Secretary of State,,Thomas A Cool,DEM,29
+Clark,10,Secretary of State,,Monae Johnson,REP,60
+Clark,11,Secretary of State,,Thomas A Cool,DEM,45
+Clark,11,Secretary of State,,Monae Johnson,REP,91
+Clark,12,Secretary of State,,Thomas A Cool,DEM,48
+Clark,12,Secretary of State,,Monae Johnson,REP,97
+Clark,13,Secretary of State,,Thomas A Cool,DEM,42
+Clark,13,Secretary of State,,Monae Johnson,REP,96
+Clark,01,Attorney General,,Marty J. Jackley,REP,112
+Clark,02,Attorney General,,Marty J. Jackley,REP,74
+Clark,03,Attorney General,,Marty J. Jackley,REP,73
+Clark,04,Attorney General,,Marty J. Jackley,REP,75
+Clark,06,Attorney General,,Marty J. Jackley,REP,144
+Clark,07,Attorney General,,Marty J. Jackley,REP,141
+Clark,08,Attorney General,,Marty J. Jackley,REP,141
+Clark,09,Attorney General,,Marty J. Jackley,REP,100
+Clark,10,Attorney General,,Marty J. Jackley,REP,74
+Clark,11,Attorney General,,Marty J. Jackley,REP,109
+Clark,12,Attorney General,,Marty J. Jackley,REP,111
+Clark,13,Attorney General,,Marty J. Jackley,REP,119
+Clark,01,State Auditor,,Stephanie Marty,DEM,25
+Clark,01,State Auditor,,Rene Meyer,LIB,9
+Clark,01,State Auditor,,Richard Sattgast,REP,98
+Clark,02,State Auditor,,Stephanie Marty,DEM,19
+Clark,02,State Auditor,,Rene Meyer,LIB,2
+Clark,02,State Auditor,,Richard Sattgast,REP,63
+Clark,03,State Auditor,,Stephanie Marty,DEM,15
+Clark,03,State Auditor,,Rene Meyer,LIB,1
+Clark,03,State Auditor,,Richard Sattgast,REP,69
+Clark,04,State Auditor,,Stephanie Marty,DEM,18
+Clark,04,State Auditor,,Rene Meyer,LIB,5
+Clark,04,State Auditor,,Richard Sattgast,REP,60
+Clark,06,State Auditor,,Stephanie Marty,DEM,27
+Clark,06,State Auditor,,Rene Meyer,LIB,7
+Clark,06,State Auditor,,Richard Sattgast,REP,124
+Clark,07,State Auditor,,Stephanie Marty,DEM,17
+Clark,07,State Auditor,,Rene Meyer,LIB,7
+Clark,07,State Auditor,,Richard Sattgast,REP,139
+Clark,08,State Auditor,,Stephanie Marty,DEM,43
+Clark,08,State Auditor,,Rene Meyer,LIB,5
+Clark,08,State Auditor,,Richard Sattgast,REP,100
+Clark,09,State Auditor,,Stephanie Marty,DEM,27
+Clark,09,State Auditor,,Rene Meyer,LIB,5
+Clark,09,State Auditor,,Richard Sattgast,REP,84
+Clark,10,State Auditor,,Stephanie Marty,DEM,25
+Clark,10,State Auditor,,Rene Meyer,LIB,4
+Clark,10,State Auditor,,Richard Sattgast,REP,62
+Clark,11,State Auditor,,Stephanie Marty,DEM,40
+Clark,11,State Auditor,,Rene Meyer,LIB,7
+Clark,11,State Auditor,,Richard Sattgast,REP,90
+Clark,12,State Auditor,,Stephanie Marty,DEM,43
+Clark,12,State Auditor,,Rene Meyer,LIB,10
+Clark,12,State Auditor,,Richard Sattgast,REP,91
+Clark,13,State Auditor,,Stephanie Marty,DEM,34
+Clark,13,State Auditor,,Rene Meyer,LIB,3
+Clark,13,State Auditor,,Richard Sattgast,REP,102
+Clark,01,State Treasurer,,John Cunningham,DEM,30
+Clark,01,State Treasurer,,Josh Haeder,REP,99
+Clark,02,State Treasurer,,John Cunningham,DEM,20
+Clark,02,State Treasurer,,Josh Haeder,REP,65
+Clark,03,State Treasurer,,John Cunningham,DEM,14
+Clark,03,State Treasurer,,Josh Haeder,REP,69
+Clark,04,State Treasurer,,John Cunningham,DEM,21
+Clark,04,State Treasurer,,Josh Haeder,REP,59
+Clark,06,State Treasurer,,John Cunningham,DEM,28
+Clark,06,State Treasurer,,Josh Haeder,REP,127
+Clark,07,State Treasurer,,John Cunningham,DEM,18
+Clark,07,State Treasurer,,Josh Haeder,REP,143
+Clark,08,State Treasurer,,John Cunningham,DEM,37
+Clark,08,State Treasurer,,Josh Haeder,REP,114
+Clark,09,State Treasurer,,John Cunningham,DEM,24
+Clark,09,State Treasurer,,Josh Haeder,REP,90
+Clark,10,State Treasurer,,John Cunningham,DEM,21
+Clark,10,State Treasurer,,Josh Haeder,REP,71
+Clark,11,State Treasurer,,John Cunningham,DEM,40
+Clark,11,State Treasurer,,Josh Haeder,REP,94
+Clark,12,State Treasurer,,John Cunningham,DEM,44
+Clark,12,State Treasurer,,Josh Haeder,REP,98
+Clark,13,State Treasurer,,John Cunningham,DEM,36
+Clark,13,State Treasurer,,Josh Haeder,REP,99
+Clark,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,32
+Clark,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,97
+Clark,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,25
+Clark,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,70
+Clark,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Clark,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,69
+Clark,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,19
+Clark,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,68
+Clark,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Clark,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,124
+Clark,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,21
+Clark,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,139
+Clark,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,35
+Clark,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,123
+Clark,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,41
+Clark,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,82
+Clark,10,Commissioner of School and Public Lands,,Timothy Azure,DEM,33
+Clark,10,Commissioner of School and Public Lands,,Brock Greenfield,REP,57
+Clark,11,Commissioner of School and Public Lands,,Timothy Azure,DEM,41
+Clark,11,Commissioner of School and Public Lands,,Brock Greenfield,REP,102
+Clark,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,50
+Clark,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,94
+Clark,13,Commissioner of School and Public Lands,,Timothy Azure,DEM,46
+Clark,13,Commissioner of School and Public Lands,,Brock Greenfield,REP,98
+Clark,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
+Clark,01,Public Utilities Commissioner,,Chris Nelson,REP,106
+Clark,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,24
+Clark,02,Public Utilities Commissioner,,Chris Nelson,REP,66
+Clark,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Clark,03,Public Utilities Commissioner,,Chris Nelson,REP,72
+Clark,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
+Clark,04,Public Utilities Commissioner,,Chris Nelson,REP,73
+Clark,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,28
+Clark,06,Public Utilities Commissioner,,Chris Nelson,REP,133
+Clark,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
+Clark,07,Public Utilities Commissioner,,Chris Nelson,REP,144
+Clark,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Clark,08,Public Utilities Commissioner,,Chris Nelson,REP,123
+Clark,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,19
+Clark,09,Public Utilities Commissioner,,Chris Nelson,REP,103
+Clark,10,Public Utilities Commissioner,,Jeffrey Barth,DEM,21
+Clark,10,Public Utilities Commissioner,,Chris Nelson,REP,68
+Clark,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
+Clark,11,Public Utilities Commissioner,,Chris Nelson,REP,106
+Clark,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,40
+Clark,12,Public Utilities Commissioner,,Chris Nelson,REP,104
+Clark,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,28
+Clark,13,Public Utilities Commissioner,,Chris Nelson,REP,112
+Clark,01,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,71
+Clark,02,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,45
+Clark,03,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,51
+Clark,04,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,44
+Clark,06,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,66
+Clark,07,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,65
+Clark,08,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,82
+Clark,09,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,62
+Clark,10,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,57
+Clark,11,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,76
+Clark,12,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,84
+Clark,13,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,75
+Clark,01,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,70
+Clark,02,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,41
+Clark,03,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,43
+Clark,04,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,46
+Clark,06,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,65
+Clark,07,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,62
+Clark,08,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,81
+Clark,09,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,55
+Clark,10,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,51
+Clark,11,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,68
+Clark,12,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,83
+Clark,13,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,71
+Clark,01,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,68
+Clark,02,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,33
+Clark,03,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,41
+Clark,04,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,41
+Clark,06,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,62
+Clark,07,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,58
+Clark,08,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,81
+Clark,09,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,51
+Clark,10,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,56
+Clark,11,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,64
+Clark,12,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,78
+Clark,13,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,71
+Clark,01,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,69
+Clark,02,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,37
+Clark,03,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,40
+Clark,04,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,42
+Clark,06,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,64
+Clark,07,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,59
+Clark,08,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,81
+Clark,09,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,52
+Clark,10,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,52
+Clark,11,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,64
+Clark,12,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,78
+Clark,13,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,72
+Clark,01,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,43
+Clark,01,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,37
+Clark,02,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,37
+Clark,02,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,14
+Clark,03,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,29
+Clark,03,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,25
+Clark,04,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,31
+Clark,04,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,24
+Clark,06,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,49
+Clark,06,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,41
+Clark,07,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,29
+Clark,07,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,44
+Clark,08,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,57
+Clark,08,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,46
+Clark,09,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,36
+Clark,09,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,32
+Clark,10,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,31
+Clark,10,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,32
+Clark,11,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,49
+Clark,11,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,34
+Clark,12,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,71
+Clark,12,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,40
+Clark,13,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,47
+Clark,13,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,42
+Clark,01,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,63
+Clark,02,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,31
+Clark,03,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,39
+Clark,04,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,42
+Clark,06,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,66
+Clark,07,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,55
+Clark,08,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,77
+Clark,09,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,48
+Clark,10,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,50
+Clark,11,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,63
+Clark,12,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,78
+Clark,13,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,67
+Clark,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,88
+Clark,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,27
+Clark,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,63
+Clark,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Clark,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,63
+Clark,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Clark,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,62
+Clark,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Clark,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,100
+Clark,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,26
+Clark,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,119
+Clark,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,17
+Clark,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,117
+Clark,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,27
+Clark,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,92
+Clark,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Clark,10,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,77
+Clark,10,Supreme Court Retention,3,Patricia J. DeVaney - No,,10
+Clark,11,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,109
+Clark,11,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Clark,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,109
+Clark,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,22
+Clark,13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,105
+Clark,13,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Clark,01,Supreme Court Retention,2,Mark E. Salter - Yes,,89
+Clark,01,Supreme Court Retention,2,Mark E. Salter - No,,27
+Clark,02,Supreme Court Retention,2,Mark E. Salter - Yes,,63
+Clark,02,Supreme Court Retention,2,Mark E. Salter - No,,13
+Clark,03,Supreme Court Retention,2,Mark E. Salter - Yes,,67
+Clark,03,Supreme Court Retention,2,Mark E. Salter - No,,10
+Clark,04,Supreme Court Retention,2,Mark E. Salter - Yes,,64
+Clark,04,Supreme Court Retention,2,Mark E. Salter - No,,9
+Clark,06,Supreme Court Retention,2,Mark E. Salter - Yes,,99
+Clark,06,Supreme Court Retention,2,Mark E. Salter - No,,25
+Clark,07,Supreme Court Retention,2,Mark E. Salter - Yes,,118
+Clark,07,Supreme Court Retention,2,Mark E. Salter - No,,20
+Clark,08,Supreme Court Retention,2,Mark E. Salter - Yes,,122
+Clark,08,Supreme Court Retention,2,Mark E. Salter - No,,21
+Clark,09,Supreme Court Retention,2,Mark E. Salter - Yes,,86
+Clark,09,Supreme Court Retention,2,Mark E. Salter - No,,18
+Clark,10,Supreme Court Retention,2,Mark E. Salter - Yes,,78
+Clark,10,Supreme Court Retention,2,Mark E. Salter - No,,8
+Clark,11,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Clark,11,Supreme Court Retention,2,Mark E. Salter - No,,13
+Clark,12,Supreme Court Retention,2,Mark E. Salter - Yes,,104
+Clark,12,Supreme Court Retention,2,Mark E. Salter - No,,26
+Clark,13,Supreme Court Retention,2,Mark E. Salter - Yes,,107
+Clark,13,Supreme Court Retention,2,Mark E. Salter - No,,13
+Clark,01,Constitutional Amendment D,,Yes,,64
+Clark,01,Constitutional Amendment D,,No,,73
+Clark,02,Constitutional Amendment D,,Yes,,44
+Clark,02,Constitutional Amendment D,,No,,47
+Clark,03,Constitutional Amendment D,,Yes,,43
+Clark,03,Constitutional Amendment D,,No,,42
+Clark,04,Constitutional Amendment D,,Yes,,41
+Clark,04,Constitutional Amendment D,,No,,45
+Clark,06,Constitutional Amendment D,,Yes,,71
+Clark,06,Constitutional Amendment D,,No,,73
+Clark,07,Constitutional Amendment D,,Yes,,80
+Clark,07,Constitutional Amendment D,,No,,82
+Clark,08,Constitutional Amendment D,,Yes,,88
+Clark,08,Constitutional Amendment D,,No,,67
+Clark,09,Constitutional Amendment D,,Yes,,50
+Clark,09,Constitutional Amendment D,,No,,81
+Clark,10,Constitutional Amendment D,,Yes,,38
+Clark,10,Constitutional Amendment D,,No,,53
+Clark,11,Constitutional Amendment D,,Yes,,83
+Clark,11,Constitutional Amendment D,,No,,60
+Clark,12,Constitutional Amendment D,,Yes,,83
+Clark,12,Constitutional Amendment D,,No,,67
+Clark,13,Constitutional Amendment D,,Yes,,80
+Clark,13,Constitutional Amendment D,,No,,67
+Clark,01,Initiated Measure 27,,Yes,,49
+Clark,01,Initiated Measure 27,,No,,85
+Clark,02,Initiated Measure 27,,Yes,,25
+Clark,02,Initiated Measure 27,,No,,72
+Clark,03,Initiated Measure 27,,Yes,,32
+Clark,03,Initiated Measure 27,,No,,57
+Clark,04,Initiated Measure 27,,Yes,,32
+Clark,04,Initiated Measure 27,,No,,56
+Clark,06,Initiated Measure 27,,Yes,,46
+Clark,06,Initiated Measure 27,,No,,115
+Clark,07,Initiated Measure 27,,Yes,,28
+Clark,07,Initiated Measure 27,,No,,137
+Clark,08,Initiated Measure 27,,Yes,,65
+Clark,08,Initiated Measure 27,,No,,94
+Clark,09,Initiated Measure 27,,Yes,,33
+Clark,09,Initiated Measure 27,,No,,101
+Clark,10,Initiated Measure 27,,Yes,,36
+Clark,10,Initiated Measure 27,,No,,55
+Clark,11,Initiated Measure 27,,Yes,,66
+Clark,11,Initiated Measure 27,,No,,83
+Clark,12,Initiated Measure 27,,Yes,,61
+Clark,12,Initiated Measure 27,,No,,93
+Clark,13,Initiated Measure 27,,Yes,,45
+Clark,13,Initiated Measure 27,,No,,108
+Clark,01,State Senate,04,John Wiik,REP,101
+Clark,02,State Senate,04,John Wiik,REP,64
+Clark,03,State Senate,04,John Wiik,REP,13
+Clark,03,State Senate,22,David Wheeler,REP,50
+Clark,04,State Senate,04,John Wiik,REP,69
+Clark,06,State Senate,04,John Wiik,REP,127
+Clark,07,State Senate,04,John Wiik,REP,136
+Clark,08,State Senate,04,John Wiik,REP,119
+Clark,09,State Senate,04,John Wiik,REP,55
+Clark,09,State Senate,22,David Wheeler,REP,32
+Clark,10,State Senate,04,John Wiik,REP,44
+Clark,10,State Senate,22,David Wheeler,REP,22
+Clark,11,State Senate,04,John Wiik,REP,101
+Clark,12,State Senate,04,John Wiik,REP,104
+Clark,13 10 of 22,State Senate,04,John Wiik,REP,109
+Clark,01,State House,04,Stephanie Sauder,REP,61
+Clark,01,State House,04,Fred Deutsch,REP,92
+Clark,02,State House,04,Stephanie Sauder,REP,49
+Clark,02,State House,04,Fred Deutsch,REP,52
+Clark,03,State House,04,Stephanie Sauder,REP,5
+Clark,03,State House,04,Fred Deutsch,REP,10
+Clark,03,State House,22,Shane Milne,DEM,20
+Clark,03,State House,22,Roger Chase,REP,31
+Clark,03,State House,22,Lynn Schneider,REP,54
+Clark,04,State House,04,Stephanie Sauder,REP,47
+Clark,04,State House,04,Fred Deutsch,REP,54
+Clark,06,State House,04,Stephanie Sauder,REP,96
+Clark,06,State House,04,Fred Deutsch,REP,91
+Clark,07,State House,04,Stephanie Sauder,REP,124
+Clark,07,State House,04,Fred Deutsch,REP,96
+Clark,08,State House,04,Stephanie Sauder,REP,111
+Clark,08,State House,04,Fred Deutsch,REP,84
+Clark,09,State House,04,Stephanie Sauder,REP,44
+Clark,09,State House,04,Fred Deutsch,REP,45
+Clark,09,State House,22,Shane Milne,DEM,7
+Clark,09,State House,22,Roger Chase,REP,24
+Clark,09,State House,22,Lynn Schneider,REP,29
+Clark,10,State House,04,Stephanie Sauder,REP,37
+Clark,10,State House,04,Fred Deutsch,REP,34
+Clark,10,State House,22,Shane Milne,DEM,20
+Clark,10,State House,22,Roger Chase,REP,13
+Clark,10,State House,22,Lynn Schneider,REP,19
+Clark,11,State House,04,Stephanie Sauder,REP,70
+Clark,11,State House,04,Fred Deutsch,REP,69
+Clark,12,State House,04,Stephanie Sauder,REP,86
+Clark,12,State House,04,Fred Deutsch,REP,81
+Clark,13 11 of 22,State House,04,Stephanie Sauder,REP,83
+Clark,13 11 of 22,State House,04,Fred Deutsch,REP,88

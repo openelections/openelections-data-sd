@@ -1,0 +1,391 @@
+county,precinct,office,district,candidate,party,votes
+Perkins,01,U.S. Senate,,Brian L. Bengs,DEM,32
+Perkins,01,U.S. Senate,,Tamara J Lesnar,LIB,18
+Perkins,01,U.S. Senate,,John R. Thune,REP,191
+Perkins,02,U.S. Senate,,Brian L. Bengs,DEM,13
+Perkins,02,U.S. Senate,,Tamara J Lesnar,LIB,4
+Perkins,02,U.S. Senate,,John R. Thune,REP,67
+Perkins,03,U.S. Senate,,Brian L. Bengs,DEM,20
+Perkins,03,U.S. Senate,,Tamara J Lesnar,LIB,17
+Perkins,03,U.S. Senate,,John R. Thune,REP,218
+Perkins,04,U.S. Senate,,Brian L. Bengs,DEM,5
+Perkins,04,U.S. Senate,,Tamara J Lesnar,LIB,5
+Perkins,04,U.S. Senate,,John R. Thune,REP,44
+Perkins,05,U.S. Senate,,Brian L. Bengs,DEM,10
+Perkins,05,U.S. Senate,,Tamara J Lesnar,LIB,11
+Perkins,05,U.S. Senate,,John R. Thune,REP,100
+Perkins,06,U.S. Senate,,Brian L. Bengs,DEM,11
+Perkins,06,U.S. Senate,,Tamara J Lesnar,LIB,7
+Perkins,06,U.S. Senate,,John R. Thune,REP,93
+Perkins,07,U.S. Senate,,Brian L. Bengs,DEM,2
+Perkins,07,U.S. Senate,,Tamara J Lesnar,LIB,8
+Perkins,07,U.S. Senate,,John R. Thune,REP,95
+Perkins,08,U.S. Senate,,Brian L. Bengs,DEM,2
+Perkins,08,U.S. Senate,,Tamara J Lesnar,LIB,5
+Perkins,08,U.S. Senate,,John R. Thune,REP,50
+Perkins,09,U.S. Senate,,Brian L. Bengs,DEM,6
+Perkins,09,U.S. Senate,,Tamara J Lesnar,LIB,6
+Perkins,09,U.S. Senate,,John R. Thune,REP,63
+Perkins,12,U.S. Senate,,Brian L. Bengs,DEM,32
+Perkins,12,U.S. Senate,,Tamara J Lesnar,LIB,14
+Perkins,12,U.S. Senate,,John R. Thune,REP,220
+Perkins,01,U.S. House,1,Collin Duprel,LIB,47
+Perkins,01,U.S. House,1,Dusty Johnson,REP,189
+Perkins,02,U.S. House,1,Collin Duprel,LIB,17
+Perkins,02,U.S. House,1,Dusty Johnson,REP,62
+Perkins,03,U.S. House,1,Collin Duprel,LIB,35
+Perkins,03,U.S. House,1,Dusty Johnson,REP,213
+Perkins,04,U.S. House,1,Collin Duprel,LIB,11
+Perkins,04,U.S. House,1,Dusty Johnson,REP,41
+Perkins,05,U.S. House,1,Collin Duprel,LIB,26
+Perkins,05,U.S. House,1,Dusty Johnson,REP,94
+Perkins,06,U.S. House,1,Collin Duprel,LIB,26
+Perkins,06,U.S. House,1,Dusty Johnson,REP,84
+Perkins,07,U.S. House,1,Collin Duprel,LIB,31
+Perkins,07,U.S. House,1,Dusty Johnson,REP,76
+Perkins,08,U.S. House,1,Collin Duprel,LIB,17
+Perkins,08,U.S. House,1,Dusty Johnson,REP,39
+Perkins,09,U.S. House,1,Collin Duprel,LIB,25
+Perkins,09,U.S. House,1,Dusty Johnson,REP,49
+Perkins,12,U.S. House,1,Collin Duprel,LIB,47
+Perkins,12,U.S. House,1,Dusty Johnson,REP,213
+Perkins,01,Governor,,Jamie Smith and Jennifer Keintz,DEM,42
+Perkins,01,Governor,,Tracey Quint and Ashley Strand,LIB,12
+Perkins,01,Governor,,Kristi Noem and Larry Rhoden,REP,184
+Perkins,02,Governor,,Jamie Smith and Jennifer Keintz,DEM,16
+Perkins,02,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Perkins,02,Governor,,Kristi Noem and Larry Rhoden,REP,68
+Perkins,03,Governor,,Jamie Smith and Jennifer Keintz,DEM,27
+Perkins,03,Governor,,Tracey Quint and Ashley Strand,LIB,19
+Perkins,03,Governor,,Kristi Noem and Larry Rhoden,REP,209
+Perkins,04,Governor,,Jamie Smith and Jennifer Keintz,DEM,6
+Perkins,04,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Perkins,04,Governor,,Kristi Noem and Larry Rhoden,REP,43
+Perkins,05,Governor,,Jamie Smith and Jennifer Keintz,DEM,14
+Perkins,05,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Perkins,05,Governor,,Kristi Noem and Larry Rhoden,REP,107
+Perkins,06,Governor,,Jamie Smith and Jennifer Keintz,DEM,10
+Perkins,06,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Perkins,06,Governor,,Kristi Noem and Larry Rhoden,REP,98
+Perkins,07,Governor,,Jamie Smith and Jennifer Keintz,DEM,5
+Perkins,07,Governor,,Tracey Quint and Ashley Strand,LIB,6
+Perkins,07,Governor,,Kristi Noem and Larry Rhoden,REP,99
+Perkins,08,Governor,,Jamie Smith and Jennifer Keintz,DEM,5
+Perkins,08,Governor,,Tracey Quint and Ashley Strand,LIB,0
+Perkins,08,Governor,,Kristi Noem and Larry Rhoden,REP,52
+Perkins,09,Governor,,Jamie Smith and Jennifer Keintz,DEM,4
+Perkins,09,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Perkins,09,Governor,,Kristi Noem and Larry Rhoden,REP,70
+Perkins,12,Governor,,Jamie Smith and Jennifer Keintz,DEM,48
+Perkins,12,Governor,,Tracey Quint and Ashley Strand,LIB,4
+Perkins,12,Governor,,Kristi Noem and Larry Rhoden,REP,212
+Perkins,01,Secretary of State,,Thomas A Cool,DEM,49
+Perkins,01,Secretary of State,,Monae Johnson,REP,170
+Perkins,02,Secretary of State,,Thomas A Cool,DEM,16
+Perkins,02,Secretary of State,,Monae Johnson,REP,68
+Perkins,03,Secretary of State,,Thomas A Cool,DEM,39
+Perkins,03,Secretary of State,,Monae Johnson,REP,204
+Perkins,04,Secretary of State,,Thomas A Cool,DEM,5
+Perkins,04,Secretary of State,,Monae Johnson,REP,47
+Perkins,05,Secretary of State,,Thomas A Cool,DEM,13
+Perkins,05,Secretary of State,,Monae Johnson,REP,108
+Perkins,06,Secretary of State,,Thomas A Cool,DEM,12
+Perkins,06,Secretary of State,,Monae Johnson,REP,95
+Perkins,07,Secretary of State,,Thomas A Cool,DEM,5
+Perkins,07,Secretary of State,,Monae Johnson,REP,97
+Perkins,08,Secretary of State,,Thomas A Cool,DEM,6
+Perkins,08,Secretary of State,,Monae Johnson,REP,47
+Perkins,09,Secretary of State,,Thomas A Cool,DEM,6
+Perkins,09,Secretary of State,,Monae Johnson,REP,65
+Perkins,12,Secretary of State,,Thomas A Cool,DEM,45
+Perkins,12,Secretary of State,,Monae Johnson,REP,209
+Perkins,01,Attorney General,,Marty J. Jackley,REP,183
+Perkins,02,Attorney General,,Marty J. Jackley,REP,68
+Perkins,03,Attorney General,,Marty J. Jackley,REP,217
+Perkins,04,Attorney General,,Marty J. Jackley,REP,44
+Perkins,05,Attorney General,,Marty J. Jackley,REP,103
+Perkins,06,Attorney General,,Marty J. Jackley,REP,92
+Perkins,07,Attorney General,,Marty J. Jackley,REP,91
+Perkins,08,Attorney General,,Marty J. Jackley,REP,46
+Perkins,09,Attorney General,,Marty J. Jackley,REP,60
+Perkins,12,Attorney General,,Marty J. Jackley,REP,215
+Perkins,01,State Auditor,,Stephanie Marty,DEM,45
+Perkins,01,State Auditor,,Rene Meyer,LIB,16
+Perkins,01,State Auditor,,Richard Sattgast,REP,160
+Perkins,02,State Auditor,,Stephanie Marty,DEM,17
+Perkins,02,State Auditor,,Rene Meyer,LIB,6
+Perkins,02,State Auditor,,Richard Sattgast,REP,58
+Perkins,03,State Auditor,,Stephanie Marty,DEM,41
+Perkins,03,State Auditor,,Rene Meyer,LIB,20
+Perkins,03,State Auditor,,Richard Sattgast,REP,184
+Perkins,04,State Auditor,,Stephanie Marty,DEM,8
+Perkins,04,State Auditor,,Rene Meyer,LIB,4
+Perkins,04,State Auditor,,Richard Sattgast,REP,38
+Perkins,05,State Auditor,,Stephanie Marty,DEM,12
+Perkins,05,State Auditor,,Rene Meyer,LIB,5
+Perkins,05,State Auditor,,Richard Sattgast,REP,103
+Perkins,06,State Auditor,,Stephanie Marty,DEM,13
+Perkins,06,State Auditor,,Rene Meyer,LIB,7
+Perkins,06,State Auditor,,Richard Sattgast,REP,85
+Perkins,07,State Auditor,,Stephanie Marty,DEM,5
+Perkins,07,State Auditor,,Rene Meyer,LIB,1
+Perkins,07,State Auditor,,Richard Sattgast,REP,93
+Perkins,08,State Auditor,,Stephanie Marty,DEM,4
+Perkins,08,State Auditor,,Rene Meyer,LIB,6
+Perkins,08,State Auditor,,Richard Sattgast,REP,43
+Perkins,09,State Auditor,,Stephanie Marty,DEM,7
+Perkins,09,State Auditor,,Rene Meyer,LIB,7
+Perkins,09,State Auditor,,Richard Sattgast,REP,57
+Perkins,12,State Auditor,,Stephanie Marty,DEM,45
+Perkins,12,State Auditor,,Rene Meyer,LIB,9
+Perkins,12,State Auditor,,Richard Sattgast,REP,198
+Perkins,01,State Treasurer,,John Cunningham,DEM,43
+Perkins,01,State Treasurer,,Josh Haeder,REP,169
+Perkins,02,State Treasurer,,John Cunningham,DEM,15
+Perkins,02,State Treasurer,,Josh Haeder,REP,64
+Perkins,03,State Treasurer,,John Cunningham,DEM,34
+Perkins,03,State Treasurer,,Josh Haeder,REP,208
+Perkins,04,State Treasurer,,John Cunningham,DEM,7
+Perkins,04,State Treasurer,,Josh Haeder,REP,45
+Perkins,05,State Treasurer,,John Cunningham,DEM,10
+Perkins,05,State Treasurer,,Josh Haeder,REP,109
+Perkins,06,State Treasurer,,John Cunningham,DEM,10
+Perkins,06,State Treasurer,,Josh Haeder,REP,94
+Perkins,07,State Treasurer,,John Cunningham,DEM,5
+Perkins,07,State Treasurer,,Josh Haeder,REP,95
+Perkins,08,State Treasurer,,John Cunningham,DEM,6
+Perkins,08,State Treasurer,,Josh Haeder,REP,47
+Perkins,09,State Treasurer,,John Cunningham,DEM,5
+Perkins,09,State Treasurer,,Josh Haeder,REP,62
+Perkins,12,State Treasurer,,John Cunningham,DEM,38
+Perkins,12,State Treasurer,,Josh Haeder,REP,205
+Perkins,01,Commissioner of School and Public Lands,,Timothy Azure,DEM,43
+Perkins,01,Commissioner of School and Public Lands,,Brock Greenfield,REP,172
+Perkins,02,Commissioner of School and Public Lands,,Timothy Azure,DEM,15
+Perkins,02,Commissioner of School and Public Lands,,Brock Greenfield,REP,66
+Perkins,03,Commissioner of School and Public Lands,,Timothy Azure,DEM,34
+Perkins,03,Commissioner of School and Public Lands,,Brock Greenfield,REP,205
+Perkins,04,Commissioner of School and Public Lands,,Timothy Azure,DEM,5
+Perkins,04,Commissioner of School and Public Lands,,Brock Greenfield,REP,45
+Perkins,05,Commissioner of School and Public Lands,,Timothy Azure,DEM,14
+Perkins,05,Commissioner of School and Public Lands,,Brock Greenfield,REP,104
+Perkins,06,Commissioner of School and Public Lands,,Timothy Azure,DEM,11
+Perkins,06,Commissioner of School and Public Lands,,Brock Greenfield,REP,93
+Perkins,07,Commissioner of School and Public Lands,,Timothy Azure,DEM,2
+Perkins,07,Commissioner of School and Public Lands,,Brock Greenfield,REP,98
+Perkins,08,Commissioner of School and Public Lands,,Timothy Azure,DEM,4
+Perkins,08,Commissioner of School and Public Lands,,Brock Greenfield,REP,50
+Perkins,09,Commissioner of School and Public Lands,,Timothy Azure,DEM,5
+Perkins,09,Commissioner of School and Public Lands,,Brock Greenfield,REP,64
+Perkins,12,Commissioner of School and Public Lands,,Timothy Azure,DEM,38
+Perkins,12,Commissioner of School and Public Lands,,Brock Greenfield,REP,208
+Perkins,01,Public Utilities Commissioner,,Jeffrey Barth,DEM,41
+Perkins,01,Public Utilities Commissioner,,Chris Nelson,REP,180
+Perkins,02,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
+Perkins,02,Public Utilities Commissioner,,Chris Nelson,REP,67
+Perkins,03,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
+Perkins,03,Public Utilities Commissioner,,Chris Nelson,REP,214
+Perkins,04,Public Utilities Commissioner,,Jeffrey Barth,DEM,5
+Perkins,04,Public Utilities Commissioner,,Chris Nelson,REP,45
+Perkins,05,Public Utilities Commissioner,,Jeffrey Barth,DEM,10
+Perkins,05,Public Utilities Commissioner,,Chris Nelson,REP,110
+Perkins,06,Public Utilities Commissioner,,Jeffrey Barth,DEM,12
+Perkins,06,Public Utilities Commissioner,,Chris Nelson,REP,93
+Perkins,07,Public Utilities Commissioner,,Jeffrey Barth,DEM,4
+Perkins,07,Public Utilities Commissioner,,Chris Nelson,REP,98
+Perkins,08,Public Utilities Commissioner,,Jeffrey Barth,DEM,3
+Perkins,08,Public Utilities Commissioner,,Chris Nelson,REP,52
+Perkins,09,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
+Perkins,09,Public Utilities Commissioner,,Chris Nelson,REP,64
+Perkins,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Perkins,12,Public Utilities Commissioner,,Chris Nelson,REP,209
+Perkins,01,State Senate,28,Ryan M. Maher,REP,186
+Perkins,02,State Senate,28,Ryan M. Maher,REP,73
+Perkins,03,State Senate,28,Ryan M. Maher,REP,224
+Perkins,04,State Senate,28,Ryan M. Maher,REP,46
+Perkins,05,State Senate,28,Ryan M. Maher,REP,105
+Perkins,06,State Senate,28,Ryan M. Maher,REP,93
+Perkins,07,State Senate,28,Ryan M. Maher,REP,101
+Perkins,08,State Senate,28,Ryan M. Maher,REP,51
+Perkins,09,State Senate,28,Ryan M. Maher,REP,66
+Perkins,12,State Senate,28,Ryan M. Maher,REP,233
+Perkins,01,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,116
+Perkins,02,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,42
+Perkins,03,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,140
+Perkins,04,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,20
+Perkins,05,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,51
+Perkins,06,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,37
+Perkins,07,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,41
+Perkins,08,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,26
+Perkins,09,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,36
+Perkins,12,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,114
+Perkins,01,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,114
+Perkins,02,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,45
+Perkins,03,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,140
+Perkins,04,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,24
+Perkins,05,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,51
+Perkins,06,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,38
+Perkins,07,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,41
+Perkins,08,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,26
+Perkins,09,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,33
+Perkins,12,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,113
+Perkins,01,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,112
+Perkins,02,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,44
+Perkins,03,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,141
+Perkins,04,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,24
+Perkins,05,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,50
+Perkins,06,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,37
+Perkins,07,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,41
+Perkins,08,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,26
+Perkins,09,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,32
+Perkins,12,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,103
+Perkins,01,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,9
+Perkins,01,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,26
+Perkins,01,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,68
+Perkins,01,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,21
+Perkins,01,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,33
+Perkins,02,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
+Perkins,02,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,4
+Perkins,02,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,21
+Perkins,02,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,10
+Perkins,02,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,12
+Perkins,03,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,18
+Perkins,03,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,38
+Perkins,03,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,66
+Perkins,03,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,19
+Perkins,03,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,30
+Perkins,04,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,2
+Perkins,04,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,7
+Perkins,04,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,15
+Perkins,04,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,4
+Perkins,04,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,10
+Perkins,05,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,2
+Perkins,05,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,23
+Perkins,05,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,20
+Perkins,05,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,8
+Perkins,05,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,13
+Perkins,06,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,3
+Perkins,06,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,14
+Perkins,06,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,17
+Perkins,06,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,7
+Perkins,06,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,19
+Perkins,07,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,3
+Perkins,07,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,16
+Perkins,07,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,11
+Perkins,07,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,10
+Perkins,07,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,28
+Perkins,08,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,1
+Perkins,08,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,13
+Perkins,08,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
+Perkins,08,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,4
+Perkins,08,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,12
+Perkins,09,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,1
+Perkins,09,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,9
+Perkins,09,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,7
+Perkins,09,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,13
+Perkins,09,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,15
+Perkins,12,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,8
+Perkins,12,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,45
+Perkins,12,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,35
+Perkins,12,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,29
+Perkins,12,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,56
+Perkins,01,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,165
+Perkins,01,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Perkins,02,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,56
+Perkins,02,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
+Perkins,03,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,185
+Perkins,03,Supreme Court Retention,3,Patricia J. DeVaney - No,,31
+Perkins,04,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,30
+Perkins,04,Supreme Court Retention,3,Patricia J. DeVaney - No,,9
+Perkins,05,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
+Perkins,05,Supreme Court Retention,3,Patricia J. DeVaney - No,,8
+Perkins,06,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,66
+Perkins,06,Supreme Court Retention,3,Patricia J. DeVaney - No,,18
+Perkins,07,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,78
+Perkins,07,Supreme Court Retention,3,Patricia J. DeVaney - No,,12
+Perkins,08,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,36
+Perkins,08,Supreme Court Retention,3,Patricia J. DeVaney - No,,6
+Perkins,09,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,42
+Perkins,09,Supreme Court Retention,3,Patricia J. DeVaney - No,,15
+Perkins,12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,163
+Perkins,12,Supreme Court Retention,3,Patricia J. DeVaney - No,,42
+Perkins,01,Supreme Court Retention,2,Mark E. Salter - Yes,,162
+Perkins,01,Supreme Court Retention,2,Mark E. Salter - No,,37
+Perkins,02,Supreme Court Retention,2,Mark E. Salter - Yes,,56
+Perkins,02,Supreme Court Retention,2,Mark E. Salter - No,,11
+Perkins,03,Supreme Court Retention,2,Mark E. Salter - Yes,,181
+Perkins,03,Supreme Court Retention,2,Mark E. Salter - No,,35
+Perkins,04,Supreme Court Retention,2,Mark E. Salter - Yes,,29
+Perkins,04,Supreme Court Retention,2,Mark E. Salter - No,,9
+Perkins,05,Supreme Court Retention,2,Mark E. Salter - Yes,,91
+Perkins,05,Supreme Court Retention,2,Mark E. Salter - No,,7
+Perkins,06,Supreme Court Retention,2,Mark E. Salter - Yes,,71
+Perkins,06,Supreme Court Retention,2,Mark E. Salter - No,,13
+Perkins,07,Supreme Court Retention,2,Mark E. Salter - Yes,,78
+Perkins,07,Supreme Court Retention,2,Mark E. Salter - No,,13
+Perkins,08,Supreme Court Retention,2,Mark E. Salter - Yes,,36
+Perkins,08,Supreme Court Retention,2,Mark E. Salter - No,,5
+Perkins,09,Supreme Court Retention,2,Mark E. Salter - Yes,,46
+Perkins,09,Supreme Court Retention,2,Mark E. Salter - No,,11
+Perkins,12,Supreme Court Retention,2,Mark E. Salter - Yes,,167
+Perkins,12,Supreme Court Retention,2,Mark E. Salter - No,,38
+Perkins,01,Constitutional Amendment D,,Yes,,141
+Perkins,01,Constitutional Amendment D,,No,,92
+Perkins,02,Constitutional Amendment D,,Yes,,34
+Perkins,02,Constitutional Amendment D,,No,,49
+Perkins,03,Constitutional Amendment D,,Yes,,122
+Perkins,03,Constitutional Amendment D,,No,,128
+Perkins,04,Constitutional Amendment D,,Yes,,22
+Perkins,04,Constitutional Amendment D,,No,,31
+Perkins,05,Constitutional Amendment D,,Yes,,46
+Perkins,05,Constitutional Amendment D,,No,,72
+Perkins,06,Constitutional Amendment D,,Yes,,35
+Perkins,06,Constitutional Amendment D,,No,,72
+Perkins,07,Constitutional Amendment D,,Yes,,26
+Perkins,07,Constitutional Amendment D,,No,,81
+Perkins,08,Constitutional Amendment D,,Yes,,12
+Perkins,08,Constitutional Amendment D,,No,,44
+Perkins,09,Constitutional Amendment D,,Yes,,24
+Perkins,09,Constitutional Amendment D,,No,,50
+Perkins,12,Constitutional Amendment D,,Yes,,81
+Perkins,12,Constitutional Amendment D,,No,,178
+Perkins,01,Initiated Measure 27,,Yes,,90
+Perkins,01,Initiated Measure 27,,No,,147
+Perkins,02,Initiated Measure 27,,Yes,,26
+Perkins,02,Initiated Measure 27,,No,,59
+Perkins,03,Initiated Measure 27,,Yes,,66
+Perkins,03,Initiated Measure 27,,No,,185
+Perkins,04,Initiated Measure 27,,Yes,,13
+Perkins,04,Initiated Measure 27,,No,,40
+Perkins,05,Initiated Measure 27,,Yes,,26
+Perkins,05,Initiated Measure 27,,No,,93
+Perkins,06,Initiated Measure 27,,Yes,,22
+Perkins,06,Initiated Measure 27,,No,,89
+Perkins,07,Initiated Measure 27,,Yes,,15
+Perkins,07,Initiated Measure 27,,No,,94
+Perkins,08,Initiated Measure 27,,Yes,,2
+Perkins,08,Initiated Measure 27,,No,,54
+Perkins,09,Initiated Measure 27,,Yes,,12
+Perkins,09,Initiated Measure 27,,No,,62
+Perkins,12,Initiated Measure 27,,Yes,,64
+Perkins,12,Initiated Measure 27,,No,,198
+Perkins,01,State House,28B,Neal Pinnow,REP,188
+Perkins,01,State House,28B,Calvin Reilly,IND,43
+Perkins,02,State House,28B,Neal Pinnow,REP,69
+Perkins,02,State House,28B,Calvin Reilly,IND,12
+Perkins,03,State House,28B,Neal Pinnow,REP,221
+Perkins,03,State House,28B,Calvin Reilly,IND,30
+Perkins,04,State House,28B,Neal Pinnow,REP,39
+Perkins,04,State House,28B,Calvin Reilly,IND,10
+Perkins,05,State House,28B,Neal Pinnow,REP,112
+Perkins,05,State House,28B,Calvin Reilly,IND,11
+Perkins,06,State House,28A,Oren L Lesmeister,DEM,9
+Perkins,06,State House,28A,Ralph Lyon,REP,104
+Perkins,07,State House,28A,Oren L Lesmeister,DEM,4
+Perkins,07,State House,28A,Ralph Lyon,REP,98
+Perkins,08,State House,28A,Oren L Lesmeister,DEM,8
+Perkins,08,State House,28A,Ralph Lyon,REP,47
+Perkins,09,State House,28A,Oren L Lesmeister,DEM,8
+Perkins,09,State House,28A,Ralph Lyon,REP,66
+Perkins,12 11 of 19,State House,28A,Oren L Lesmeister,DEM,41
+Perkins,12 11 of 19,State House,28A,Ralph Lyon,REP,223
