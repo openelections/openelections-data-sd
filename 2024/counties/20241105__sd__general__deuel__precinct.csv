@@ -1,107 +1,281 @@
 county,precinct,office,district,candidate,party,votes
 Deuel,01,President,,Kamala D. Harris and Tim Walz,DEM,38
-Deuel,01,President,,Chase Oliver and Mike Maat,LIB,0
-Deuel,01,President,,Donald J. Trump and JD Vance,REP,250
-Deuel,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
-Deuel,02,President,,Kamala D. Harris and Tim Walz,DEM,7
-Deuel,02,President,,Chase Oliver and Mike Maat,LIB,3
-Deuel,02,President,,Donald J. Trump and JD Vance,REP,127
-Deuel,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
-Deuel,03,President,,Kamala D. Harris and Tim Walz,DEM,20
-Deuel,03,President,,Chase Oliver and Mike Maat,LIB,7
-Deuel,03,President,,Donald J. Trump and JD Vance,REP,98
-Deuel,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
-Deuel,04,President,,Kamala D. Harris and Tim Walz,DEM,2
-Deuel,04,President,,Chase Oliver and Mike Maat,LIB,1
-Deuel,04,President,,Donald J. Trump and JD Vance,REP,42
-Deuel,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
-Deuel,05,President,,Kamala D. Harris and Tim Walz,DEM,59
-Deuel,05,President,,Chase Oliver and Mike Maat,LIB,1
-Deuel,05,President,,Donald J. Trump and JD Vance,REP,139
-Deuel,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
-Deuel,06,President,,Kamala D. Harris and Tim Walz,DEM,55
-Deuel,06,President,,Chase Oliver and Mike Maat,LIB,1
-Deuel,06,President,,Donald J. Trump and JD Vance,REP,168
-Deuel,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
-Deuel,07,President,,Kamala D. Harris and Tim Walz,DEM,40
-Deuel,07,President,,Chase Oliver and Mike Maat,LIB,0
-Deuel,07,President,,Donald J. Trump and JD Vance,REP,151
-Deuel,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
-Deuel,08,President,,Kamala D. Harris and Tim Walz,DEM,45
-Deuel,08,President,,Chase Oliver and Mike Maat,LIB,2
-Deuel,08,President,,Donald J. Trump and JD Vance,REP,258
-Deuel,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
-Deuel,09,President,,Kamala D. Harris and Tim Walz,DEM,68
-Deuel,09,President,,Chase Oliver and Mike Maat,LIB,0
-Deuel,09,President,,Donald J. Trump and JD Vance,REP,128
-Deuel,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
-Deuel,10,President,,Kamala D. Harris and Tim Walz,DEM,67
-Deuel,10,President,,Chase Oliver and Mike Maat,LIB,3
+Deuel,01,President,,Chase Oliver and Mike ter Maat,LIB,0
+Deuel,01,President,,Donald J. Trump and JD Vance,REP,129
+Deuel,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Deuel,03,President,,Kamala D. Harris and Tim Walz,DEM,61
+Deuel,03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Deuel,03,President,,Donald J. Trump and JD Vance,REP,250
+Deuel,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Deuel,04,President,,Kamala D. Harris and Tim Walz,DEM,40
+Deuel,04,President,,Chase Oliver and Mike ter Maat,LIB,2
+Deuel,04,President,,Donald J. Trump and JD Vance,REP,127
+Deuel,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Deuel,05,President,,Kamala D. Harris and Tim Walz,DEM,72
+Deuel,05,President,,Chase Oliver and Mike ter Maat,LIB,1
+Deuel,05,President,,Donald J. Trump and JD Vance,REP,138
+Deuel,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Deuel,06,President,,Kamala D. Harris and Tim Walz,DEM,50
+Deuel,06,President,,Chase Oliver and Mike ter Maat,LIB,1
+Deuel,06,President,,Donald J. Trump and JD Vance,REP,129
+Deuel,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Deuel,07,President,,Kamala D. Harris and Tim Walz,DEM,45
+Deuel,07,President,,Chase Oliver and Mike ter Maat,LIB,3
+Deuel,07,President,,Donald J. Trump and JD Vance,REP,162
+Deuel,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Deuel,08,President,,Kamala D. Harris and Tim Walz,DEM,69
+Deuel,08,President,,Chase Oliver and Mike ter Maat,LIB,2
+Deuel,08,President,,Donald J. Trump and JD Vance,REP,228
+Deuel,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Deuel,09,President,,Kamala D. Harris and Tim Walz,DEM,52
+Deuel,09,President,,Chase Oliver and Mike ter Maat,LIB,2
+Deuel,09,President,,Donald J. Trump and JD Vance,REP,255
+Deuel,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Deuel,10,President,,Kamala D. Harris and Tim Walz,DEM,44
+Deuel,10,President,,Chase Oliver and Mike ter Maat,LIB,1
 Deuel,10,President,,Donald J. Trump and JD Vance,REP,143
-Deuel,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,5
-Deuel,11,President,,Kamala D. Harris and Tim Walz,DEM,47
-Deuel,11,President,,Chase Oliver and Mike Maat,LIB,3
-Deuel,11,President,,Donald J. Trump and JD Vance,REP,128
-Deuel,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
-Deuel,01,U.S. House,1,Sheryll Johnson,DEM,30
-Deuel,01,U.S. House,1,Dusty Johnson,REP,129
-Deuel,02,U.S. House,1,Sheryll Johnson,DEM,7
-Deuel,02,U.S. House,1,Dusty Johnson,REP,138
-Deuel,03,U.S. House,1,Sheryll Johnson,DEM,20
-Deuel,03,U.S. House,1,Dusty Johnson,REP,107
-Deuel,04,U.S. House,1,Sheryll Johnson,DEM,2
-Deuel,04,U.S. House,1,Dusty Johnson,REP,42
-Deuel,05,U.S. House,1,Sheryll Johnson,DEM,58
-Deuel,05,U.S. House,1,Dusty Johnson,REP,163
-Deuel,06,U.S. House,1,Sheryll Johnson,DEM,31
-Deuel,06,U.S. House,1,Dusty Johnson,REP,160
-Deuel,07,U.S. House,1,Sheryll Johnson,DEM,33
-Deuel,07,U.S. House,1,Dusty Johnson,REP,143
-Deuel,08,U.S. House,1,Sheryll Johnson,DEM,43
-Deuel,08,U.S. House,1,Dusty Johnson,REP,171
-Deuel,09,U.S. House,1,Sheryll Johnson,DEM,47
-Deuel,09,U.S. House,1,Dusty Johnson,REP,204
-Deuel,10,U.S. House,1,Sheryll Johnson,DEM,36
-Deuel,10,U.S. House,1,Dusty Johnson,REP,203
-Deuel,11,U.S. House,1,Sheryll Johnson,DEM,47
-Deuel,11,U.S. House,1,Dusty Johnson,REP,143
+Deuel,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Deuel,11,President,,Kamala D. Harris and Tim Walz,DEM,57
+Deuel,11,President,,Chase Oliver and Mike ter Maat,LIB,1
+Deuel,11,President,,Donald J. Trump and JD Vance,REP,156
+Deuel,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Deuel,01,U.S. House,1,Sheryl Johnson,DEM,30
+Deuel,01,U.S. House,1,Dusty Johnson,REP,132
+Deuel,03,U.S. House,1,Sheryl Johnson,DEM,46
+Deuel,03,U.S. House,1,Dusty Johnson,REP,263
+Deuel,04,U.S. House,1,Sheryl Johnson,DEM,30
+Deuel,04,U.S. House,1,Dusty Johnson,REP,142
+Deuel,05,U.S. House,1,Sheryl Johnson,DEM,54
+Deuel,05,U.S. House,1,Dusty Johnson,REP,160
+Deuel,06,U.S. House,1,Sheryl Johnson,DEM,33
+Deuel,06,U.S. House,1,Dusty Johnson,REP,143
+Deuel,07,U.S. House,1,Sheryl Johnson,DEM,33
+Deuel,07,U.S. House,1,Dusty Johnson,REP,174
+Deuel,08,U.S. House,1,Sheryl Johnson,DEM,53
+Deuel,08,U.S. House,1,Dusty Johnson,REP,241
+Deuel,09,U.S. House,1,Sheryl Johnson,DEM,42
+Deuel,09,U.S. House,1,Dusty Johnson,REP,271
+Deuel,10,U.S. House,1,Sheryl Johnson,DEM,36
+Deuel,10,U.S. House,1,Dusty Johnson,REP,159
+Deuel,11,U.S. House,1,Sheryl Johnson,DEM,47
+Deuel,11,U.S. House,1,Dusty Johnson,REP,171
 Deuel,01,Public Utilities Commissioner,,Forrest Wilson,DEM,28
-Deuel,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
-Deuel,01,Public Utilities Commissioner,,Kristie Fiegen,REP,171
-Deuel,02,Public Utilities Commissioner,,Forrest Wilson,DEM,4
-Deuel,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
-Deuel,02,Public Utilities Commissioner,,Kristie Fiegen,REP,138
-Deuel,03,Public Utilities Commissioner,,Forrest Wilson,DEM,18
-Deuel,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Deuel,03,Public Utilities Commissioner,,Kristie Fiegen,REP,102
-Deuel,04,Public Utilities Commissioner,,Forrest Wilson,DEM,2
-Deuel,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
-Deuel,04,Public Utilities Commissioner,,Kristie Fiegen,REP,36
+Deuel,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Deuel,01,Public Utilities Commissioner,,Kristie Fiegen,REP,117
+Deuel,03,Public Utilities Commissioner,,Forrest Wilson,DEM,41
+Deuel,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Deuel,03,Public Utilities Commissioner,,Kristie Fiegen,REP,238
+Deuel,04,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Deuel,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Deuel,04,Public Utilities Commissioner,,Kristie Fiegen,REP,124
 Deuel,05,Public Utilities Commissioner,,Forrest Wilson,DEM,51
-Deuel,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Deuel,05,Public Utilities Commissioner,,Kristie Fiegen,REP,224
+Deuel,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Deuel,05,Public Utilities Commissioner,,Kristie Fiegen,REP,136
 Deuel,06,Public Utilities Commissioner,,Forrest Wilson,DEM,36
 Deuel,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Deuel,06,Public Utilities Commissioner,,Kristie Fiegen,REP,136
-Deuel,07,Public Utilities Commissioner,,Forrest Wilson,DEM,38
-Deuel,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
-Deuel,07,Public Utilities Commissioner,,Kristie Fiegen,REP,164
+Deuel,06,Public Utilities Commissioner,,Kristie Fiegen,REP,122
+Deuel,07,Public Utilities Commissioner,,Forrest Wilson,DEM,28
+Deuel,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Deuel,07,Public Utilities Commissioner,,Kristie Fiegen,REP,154
 Deuel,08,Public Utilities Commissioner,,Forrest Wilson,DEM,53
-Deuel,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Deuel,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
 Deuel,08,Public Utilities Commissioner,,Kristie Fiegen,REP,209
 Deuel,09,Public Utilities Commissioner,,Forrest Wilson,DEM,43
 Deuel,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
-Deuel,09,Public Utilities Commissioner,,Kristie Fiegen,REP,209
-Deuel,10,Public Utilities Commissioner,,Forrest Wilson,DEM,33
-Deuel,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Deuel,10,Public Utilities Commissioner,,Kristie Fiegen,REP,246
-Deuel,11,Public Utilities Commissioner,,Forrest Wilson,DEM,31
-Deuel,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,28
-Deuel,11,Public Utilities Commissioner,,Kristie Fiegen,REP,154
-Deuel,01,State Senate,04,Stephanie Sauder,REP,257
-Deuel,02,State Senate,04,Stephanie Sauder,REP,205
-Deuel,03,State Senate,04,Stephanie Sauder,REP,135
-Deuel,04,State Senate,04,Stephanie Sauder,REP,183
-Deuel,05,State Senate,04,Stephanie Sauder,REP,195
+Deuel,09,Public Utilities Commissioner,,Kristie Fiegen,REP,253
+Deuel,10,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Deuel,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Deuel,10,Public Utilities Commissioner,,Kristie Fiegen,REP,146
+Deuel,11,Public Utilities Commissioner,,Forrest Wilson,DEM,50
+Deuel,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Deuel,11,Public Utilities Commissioner,,Kristie Fiegen,REP,146
+Deuel,01,State Senate,04,Stephanie Sauder,REP,125
+Deuel,03,State Senate,04,Stephanie Sauder,REP,260
+Deuel,04,State Senate,04,Stephanie Sauder,REP,135
+Deuel,05,State Senate,04,Stephanie Sauder,REP,163
 Deuel,06,State Senate,04,Stephanie Sauder,REP,125
 Deuel,07,State Senate,04,Stephanie Sauder,REP,164
+Deuel,08,State Senate,04,Stephanie Sauder,REP,229
+Deuel,09,State Senate,04,Stephanie Sauder,REP,237
+Deuel,10,State Senate,04,Stephanie Sauder,REP,146
+Deuel,11,State Senate,04,Stephanie Sauder,REP,164
+Deuel,01,State House,04,Kent Roe,REP,100
+Deuel,01,State House,04,Dylan C. Jordan,REP,84
+Deuel,03,State House,04,Kent Roe,REP,168
+Deuel,03,State House,04,Dylan C. Jordan,REP,194
+Deuel,04,State House,04,Kent Roe,REP,96
+Deuel,04,State House,04,Dylan C. Jordan,REP,102
+Deuel,05,State House,04,Kent Roe,REP,108
+Deuel,05,State House,04,Dylan C. Jordan,REP,109
+Deuel,06,State House,04,Kent Roe,REP,94
+Deuel,06,State House,04,Dylan C. Jordan,REP,107
+Deuel,07,State House,04,Kent Roe,REP,132
+Deuel,07,State House,04,Dylan C. Jordan,REP,125
+Deuel,08,State House,04,Kent Roe,REP,178
+Deuel,08,State House,04,Dylan C. Jordan,REP,183
+Deuel,09,State House,04,Kent Roe,REP,183
+Deuel,09,State House,04,Dylan C. Jordan,REP,195
+Deuel,10,State House,04,Kent Roe,REP,120
+Deuel,10,State House,04,Dylan C. Jordan,REP,114
+Deuel,11,State House,04,Kent Roe,REP,118
+Deuel,11,State House,04,Dylan C. Jordan,REP,109
+Deuel,01,Supreme Court Retention,5,Scott P. Myren,,115
+Deuel,01,Supreme Court Retention,5,Scott P. Myren - No,,28
+Deuel,03,Supreme Court Retention,5,Scott P. Myren,,228
+Deuel,03,Supreme Court Retention,5,Scott P. Myren - No,,43
+Deuel,04,Supreme Court Retention,5,Scott P. Myren,,122
+Deuel,04,Supreme Court Retention,5,Scott P. Myren - No,,19
+Deuel,05,Supreme Court Retention,5,Scott P. Myren,,145
+Deuel,05,Supreme Court Retention,5,Scott P. Myren - No,,27
+Deuel,06,Supreme Court Retention,5,Scott P. Myren,,135
+Deuel,06,Supreme Court Retention,5,Scott P. Myren - No,,18
+Deuel,07,Supreme Court Retention,5,Scott P. Myren,,143
+Deuel,07,Supreme Court Retention,5,Scott P. Myren - No,,41
+Deuel,08,Supreme Court Retention,5,Scott P. Myren,,228
+Deuel,08,Supreme Court Retention,5,Scott P. Myren - No,,40
+Deuel,09,Supreme Court Retention,5,Scott P. Myren,,221
+Deuel,09,Supreme Court Retention,5,Scott P. Myren - No,,48
+Deuel,10,Supreme Court Retention,5,Scott P. Myren,,144
+Deuel,10,Supreme Court Retention,5,Scott P. Myren - No,,23
+Deuel,11,Supreme Court Retention,5,Scott P. Myren,,128
+Deuel,11,Supreme Court Retention,5,Scott P. Myren - No,,32
+Deuel,01,Constitutional Amendment E,,Yes,,42
+Deuel,01,Constitutional Amendment E,,No,,126
+Deuel,03,Constitutional Amendment E,,Yes,,110
+Deuel,03,Constitutional Amendment E,,No,,197
+Deuel,04,Constitutional Amendment E,,Yes,,52
+Deuel,04,Constitutional Amendment E,,No,,117
+Deuel,05,Constitutional Amendment E,,Yes,,86
+Deuel,05,Constitutional Amendment E,,No,,126
+Deuel,06,Constitutional Amendment E,,Yes,,79
+Deuel,06,Constitutional Amendment E,,No,,95
+Deuel,07,Constitutional Amendment E,,Yes,,50
+Deuel,07,Constitutional Amendment E,,No,,162
+Deuel,08,Constitutional Amendment E,,Yes,,106
+Deuel,08,Constitutional Amendment E,,No,,196
+Deuel,01,Constitutional Amendment F,,Yes,,82
+Deuel,01,Constitutional Amendment F,,No,,85
+Deuel,03,Constitutional Amendment F,,Yes,,186
+Deuel,03,Constitutional Amendment F,,No,,120
+Deuel,04,Constitutional Amendment F,,Yes,,103
+Deuel,04,Constitutional Amendment F,,No,,70
+Deuel,05,Constitutional Amendment F,,Yes,,109
+Deuel,05,Constitutional Amendment F,,No,,99
+Deuel,06,Constitutional Amendment F,,Yes,,95
+Deuel,06,Constitutional Amendment F,,No,,79
+Deuel,07,Constitutional Amendment F,,Yes,,127
+Deuel,07,Constitutional Amendment F,,No,,86
+Deuel,08,Constitutional Amendment F,,Yes,,183
+Deuel,08,Constitutional Amendment F,,No,,123
+Deuel,01,Constitutional Amendment G,,Yes,,44
+Deuel,01,Constitutional Amendment G,,No,,124
+Deuel,03,Constitutional Amendment G,,Yes,,97
+Deuel,03,Constitutional Amendment G,,No,,215
+Deuel,04,Constitutional Amendment G,,Yes,,58
+Deuel,04,Constitutional Amendment G,,No,,116
+Deuel,05,Constitutional Amendment G,,Yes,,92
+Deuel,05,Constitutional Amendment G,,No,,119
+Deuel,06,Constitutional Amendment G,,Yes,,65
+Deuel,06,Constitutional Amendment G,,No,,109
+Deuel,07,Constitutional Amendment G,,Yes,,58
+Deuel,07,Constitutional Amendment G,,No,,155
+Deuel,08,Constitutional Amendment G,,Yes,,75
+Deuel,08,Constitutional Amendment G,,No,,228
+Deuel,01,Constitutional Amendment H,,Yes,,47
+Deuel,01,Constitutional Amendment H,,No,,116
+Deuel,03,Constitutional Amendment H,,Yes,,95
+Deuel,03,Constitutional Amendment H,,No,,210
+Deuel,04,Constitutional Amendment H,,Yes,,52
+Deuel,04,Constitutional Amendment H,,No,,115
+Deuel,05,Constitutional Amendment H,,Yes,,79
+Deuel,05,Constitutional Amendment H,,No,,129
+Deuel,06,Constitutional Amendment H,,Yes,,53
+Deuel,06,Constitutional Amendment H,,No,,121
+Deuel,07,Constitutional Amendment H,,Yes,,57
+Deuel,07,Constitutional Amendment H,,No,,154
+Deuel,08,Constitutional Amendment H,,Yes,,82
+Deuel,08,Constitutional Amendment H,,No,,215
+Deuel,01,Initiated Measure 28,,Yes,,47
+Deuel,01,Initiated Measure 28,,No,,117
+Deuel,03,Initiated Measure 28,,Yes,,76
+Deuel,03,Initiated Measure 28,,No,,228
+Deuel,04,Initiated Measure 28,,Yes,,41
+Deuel,04,Initiated Measure 28,,No,,130
+Deuel,05,Initiated Measure 28,,Yes,,66
+Deuel,05,Initiated Measure 28,,No,,143
+Deuel,06,Initiated Measure 28,,Yes,,41
+Deuel,06,Initiated Measure 28,,No,,133
+Deuel,07,Initiated Measure 28,,Yes,,66
+Deuel,07,Initiated Measure 28,,No,,149
+Deuel,08,Initiated Measure 28,,Yes,,64
+Deuel,08,Initiated Measure 28,,No,,237
+Deuel,01,Initiated Measure 29,,Yes,,62
+Deuel,01,Initiated Measure 29,,No,,104
+Deuel,03,Initiated Measure 29,,Yes,,108
+Deuel,03,Initiated Measure 29,,No,,206
+Deuel,04,Initiated Measure 29,,Yes,,71
+Deuel,04,Initiated Measure 29,,No,,101
+Deuel,05,Initiated Measure 29,,Yes,,99
+Deuel,05,Initiated Measure 29,,No,,117
+Deuel,06,Initiated Measure 29,,Yes,,66
+Deuel,06,Initiated Measure 29,,No,,117
+Deuel,07,Initiated Measure 29,,Yes,,72
+Deuel,07,Initiated Measure 29,,No,,142
+Deuel,08,Initiated Measure 29,,Yes,,85
+Deuel,08,Initiated Measure 29,,No,,220
+Deuel,01,Referred Law 21,,Yes,,60
+Deuel,01,Referred Law 21,,No,,103
+Deuel,03,Referred Law 21,,Yes,,117
+Deuel,03,Referred Law 21,,No,,184
+Deuel,04,Referred Law 21,,Yes,,69
+Deuel,04,Referred Law 21,,No,,101
+Deuel,05,Referred Law 21,,Yes,,83
+Deuel,05,Referred Law 21,,No,,125
+Deuel,06,Referred Law 21,,Yes,,75
+Deuel,06,Referred Law 21,,No,,97
+Deuel,07,Referred Law 21,,Yes,,65
+Deuel,07,Referred Law 21,,No,,149
+Deuel,08,Referred Law 21,,Yes,,116
+Deuel,08,Referred Law 21,,No,,183
+Deuel,09,Constitutional Amendment E,,Yes,,98
+Deuel,10,Constitutional Amendment E,,Yes,,60
+Deuel,11,Constitutional Amendment E,,Yes,,68
+Deuel,09,Constitutional Amendment E,,No,,214
+Deuel,10,Constitutional Amendment E,,No,,132
+Deuel,11,Constitutional Amendment E,,No,,149
+Deuel,09,Constitutional Amendment F,,Yes,,181
+Deuel,10,Constitutional Amendment F,,Yes,,111
+Deuel,11,Constitutional Amendment F,,Yes,,126
+Deuel,09,Constitutional Amendment F,,No,,128
+Deuel,10,Constitutional Amendment F,,No,,79
+Deuel,11,Constitutional Amendment F,,No,,88
+Deuel,09,Constitutional Amendment G,,Yes,,78
+Deuel,10,Constitutional Amendment G,,Yes,,48
+Deuel,11,Constitutional Amendment G,,Yes,,54
+Deuel,09,Constitutional Amendment G,,No,,236
+Deuel,10,Constitutional Amendment G,,No,,145
+Deuel,11,Constitutional Amendment G,,No,,164
+Deuel,09,Constitutional Amendment H,,Yes,,77
+Deuel,10,Constitutional Amendment H,,Yes,,47
+Deuel,11,Constitutional Amendment H,,Yes,,54
+Deuel,09,Constitutional Amendment H,,No,,231
+Deuel,10,Constitutional Amendment H,,No,,142
+Deuel,11,Constitutional Amendment H,,No,,160
+Deuel,09,Initiated Measure 28,,Yes,,62
+Deuel,10,Initiated Measure 28,,Yes,,38
+Deuel,11,Initiated Measure 28,,Yes,,44
+Deuel,09,Initiated Measure 28,,No,,249
+Deuel,10,Initiated Measure 28,,No,,153
+Deuel,11,Initiated Measure 28,,No,,173
+Deuel,09,Initiated Measure 29,,Yes,,78
+Deuel,10,Initiated Measure 29,,Yes,,48
+Deuel,11,Initiated Measure 29,,Yes,,53
+Deuel,09,Initiated Measure 29,,No,,233
+Deuel,10,Initiated Measure 29,,No,,143
+Deuel,11,Initiated Measure 29,,No,,161
+Deuel,09,Referred Law 21,,Yes,,91
+Deuel,10,Referred Law 21,,Yes,,56
+Deuel,11,Referred Law 21,,Yes,,62
+Deuel,09,Referred Law 21,,No,,217
+Deuel,10,Referred Law 21,,No,,133
+Deuel,11,Referred Law 21,,No,,150

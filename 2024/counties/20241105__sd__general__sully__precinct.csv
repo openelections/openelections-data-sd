@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Sully,Agar-Fire Hall,President,,Kamala D. Harris and Tim Walz,DEM,16
+Sully,Agar-Fire Hall,President,,Chase Oliver and Mike ter Maat,LIB,0
+Sully,Agar-Fire Hall,President,,Donald J. Trump and JD Vance,REP,68
+Sully,Agar-Fire Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Sully,Athenaeum Precinct,President,,Kamala D. Harris and Tim Walz,DEM,33
+Sully,Athenaeum Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
+Sully,Athenaeum Precinct,President,,Donald J. Trump and JD Vance,REP,141
+Sully,Athenaeum Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Sully,Pickerel Center,President,,Kamala D. Harris and Tim Walz,DEM,89
+Sully,Pickerel Center,President,,Chase Oliver and Mike ter Maat,LIB,2
+Sully,Pickerel Center,President,,Donald J. Trump and JD Vance,REP,379
+Sully,Pickerel Center,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Sully,Rill Ethanol Sioux,President,,Kamala D. Harris and Tim Walz,DEM,30
+Sully,Rill Ethanol Sioux,President,,Chase Oliver and Mike ter Maat,LIB,1
+Sully,Rill Ethanol Sioux,President,,Donald J. Trump and JD Vance,REP,128
+Sully,Rill Ethanol Sioux,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Sully,Agar-Fire Hall,U.S. House,1,,DEM,14
+Sully,Agar-Fire Hall,U.S. House,1,,REP,68
+Sully,Athenaeum Precinct,U.S. House,1,,DEM,29
+Sully,Athenaeum Precinct,U.S. House,1,,REP,141
+Sully,Pickerel Center,U.S. House,1,,DEM,78
+Sully,Pickerel Center,U.S. House,1,,REP,380
+Sully,Rill Ethanol Sioux,U.S. House,1,,DEM,26
+Sully,Rill Ethanol Sioux,U.S. House,1,,REP,130
+Sully,Agar-Fire Hall,Public Utilities Commissioner,,Forrest Wilson,DEM,13
+Sully,Agar-Fire Hall,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Sully,Agar-Fire Hall,Public Utilities Commissioner,,Kristie Fiegen,REP,129
+Sully,Athenaeum Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,39
+Sully,Athenaeum Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Sully,Athenaeum Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,131
+Sully,Pickerel Center,Public Utilities Commissioner,,Forrest Wilson,DEM,48
+Sully,Pickerel Center,Public Utilities Commissioner,,A. Gideon Oakes,LIB,34
+Sully,Pickerel Center,Public Utilities Commissioner,,Kristie Fiegen,REP,285
+Sully,Rill Ethanol Sioux,Public Utilities Commissioner,,Forrest Wilson,DEM,10
+Sully,Rill Ethanol Sioux,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Sully,Rill Ethanol Sioux,Public Utilities Commissioner,,Kristie Fiegen,REP,154
+Sully,Agar-Fire Hall,State Senate,24,Jim Mehlhaff,REP,66
+Sully,Athenaeum Precinct,State Senate,24,Jim Mehlhaff,REP,136
+Sully,Pickerel Center,State Senate,24,Jim Mehlhaff,REP,367
+Sully,Rill Ethanol Sioux,State Senate,24,Jim Mehlhaff,REP,124
+Sully,Agar-Fire Hall,State House,24,Mike Weisgram,REP,51
+Sully,Agar-Fire Hall,State House,24,Will D. Mortenson,REP,57
+Sully,Athenaeum Precinct,State House,24,Mike Weisgram,REP,106
+Sully,Athenaeum Precinct,State House,24,Will D. Mortenson,REP,118
+Sully,Pickerel Center,State House,24,Mike Weisgram,REP,286
+Sully,Pickerel Center,State House,24,Will D. Mortenson,REP,316
+Sully,Rill Ethanol Sioux,State House,24,Mike Weisgram,REP,98
+Sully,Rill Ethanol Sioux,State House,24,Will D. Mortenson,REP,107
+Sully,Agar-Fire Hall,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,69
+Sully,Agar-Fire Hall,Supreme Court Retention,5,Justice Scott P. Myren - No,,6
+Sully,Athenaeum Precinct,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,126
+Sully,Athenaeum Precinct,Supreme Court Retention,5,Justice Scott P. Myren - No,,29
+Sully,Pickerel Center,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,349
+Sully,Pickerel Center,Supreme Court Retention,5,Justice Scott P. Myren - No,,68
+Sully,Rill Ethanol Sioux,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,118
+Sully,Rill Ethanol Sioux,Supreme Court Retention,5,Justice Scott P. Myren - No,,23
+Sully,Agar-Fire Hall,Constitutional Amendment E,,Yes,,26
+Sully,Agar-Fire Hall,Constitutional Amendment E,,No,,60
+Sully,Athenaeum Precinct,Constitutional Amendment E,,Yes,,54
+Sully,Athenaeum Precinct,Constitutional Amendment E,,No,,123
+Sully,Pickerel Center,Constitutional Amendment E,,Yes,,145
+Sully,Pickerel Center,Constitutional Amendment E,,No,,332
+Sully,Rill Ethanol Sioux,Constitutional Amendment E,,Yes,,49
+Sully,Rill Ethanol Sioux,Constitutional Amendment E,,No,,112
+Sully,Agar-Fire Hall,Constitutional Amendment F,,Yes,,50
+Sully,Agar-Fire Hall,Constitutional Amendment F,,No,,36
+Sully,Athenaeum Precinct,Constitutional Amendment F,,Yes,,103
+Sully,Athenaeum Precinct,Constitutional Amendment F,,No,,74
+Sully,Pickerel Center,Constitutional Amendment F,,Yes,,278
+Sully,Pickerel Center,Constitutional Amendment F,,No,,198
+Sully,Rill Ethanol Sioux,Constitutional Amendment F,,Yes,,94
+Sully,Rill Ethanol Sioux,Constitutional Amendment F,,No,,66
+Sully,Agar-Fire Hall,Constitutional Amendment G,,Yes,,22
+Sully,Agar-Fire Hall,Constitutional Amendment G,,No,,64
+Sully,Athenaeum Precinct,Constitutional Amendment G,,Yes,,45
+Sully,Athenaeum Precinct,Constitutional Amendment G,,No,,133
+Sully,Pickerel Center,Constitutional Amendment G,,Yes,,122
+Sully,Pickerel Center,Constitutional Amendment G,,No,,357
+Sully,Rill Ethanol Sioux,Constitutional Amendment G,,Yes,,42
+Sully,Rill Ethanol Sioux,Constitutional Amendment G,,No,,120
+Sully,Agar-Fire Hall,Constitutional Amendment H,,Yes,,20
+Sully,Agar-Fire Hall,Constitutional Amendment H,,No,,65
+Sully,Athenaeum Precinct,Constitutional Amendment H,,Yes,,41
+Sully,Athenaeum Precinct,Constitutional Amendment H,,No,,135
+Sully,Pickerel Center,Constitutional Amendment H,,Yes,,109
+Sully,Pickerel Center,Constitutional Amendment H,,No,,363
+Sully,Rill Ethanol Sioux,Constitutional Amendment H,,Yes,,36
+Sully,Rill Ethanol Sioux,Constitutional Amendment H,,No,,123
+Sully,Agar-Fire Hall,Initiated Measure 28,,Yes,,13
+Sully,Agar-Fire Hall,Initiated Measure 28,,No,,72
+Sully,Athenaeum Precinct,Initiated Measure 28,,Yes,,27
+Sully,Athenaeum Precinct,Initiated Measure 28,,No,,149
+Sully,Pickerel Center,Initiated Measure 28,,Yes,,73
+Sully,Pickerel Center,Initiated Measure 28,,No,,402
+Sully,Rill Ethanol Sioux,Initiated Measure 28,,Yes,,25
+Sully,Rill Ethanol Sioux,Initiated Measure 28,,No,,136
+Sully,Agar-Fire Hall,Initiated Measure 29,,Yes,,28
+Sully,Agar-Fire Hall,Initiated Measure 29,,No,,58
+Sully,Athenaeum Precinct,Initiated Measure 29,,Yes,,58
+Sully,Athenaeum Precinct,Initiated Measure 29,,No,,120
+Sully,Pickerel Center,Initiated Measure 29,,Yes,,156
+Sully,Pickerel Center,Initiated Measure 29,,No,,323
+Sully,Rill Ethanol Sioux,Initiated Measure 29,,Yes,,53
+Sully,Rill Ethanol Sioux,Initiated Measure 29,,No,,110
+Sully,Agar-Fire Hall,Referred Law 21,,Yes,,21
+Sully,Agar-Fire Hall,Referred Law 21,,No,,64
+Sully,Athenaeum Precinct,Referred Law 21,,Yes,,44
+Sully,Athenaeum Precinct,Referred Law 21,,No,,131
+Sully,Pickerel Center,Referred Law 21,,Yes,,119
+Sully,Pickerel Center,Referred Law 21,,No,,353
+Sully,Rill Ethanol Sioux,Referred Law 21,,Yes,,41
+Sully,Rill Ethanol Sioux,Referred Law 21,,No,,120

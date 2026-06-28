@@ -1,73 +1,49 @@
 county,precinct,office,district,candidate,party,votes
-Ziebach,1 Birchder,President,,Kamala D. Harris and Tim Walz,DEM,12
-Ziebach,1 Birchder,President,,Chase Oliver and Mike ter Maat,LIB,0
-Ziebach,1 Birchder,President,,Donald J. Trump and JD Vance,REP,12
-Ziebach,1 Birchder,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Ziebach,1 Bridger,President,,Kamala D. Harris and Tim Walz,DEM,12
+Ziebach,1 Bridger,President,,Chase Oliver and Mike ter Maat,LIB,0
+Ziebach,1 Bridger,President,,Donald J. Trump and JD Vance,REP,12
+Ziebach,1 Bridger,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Ziebach,2 Cherry Creek,President,,Kamala D. Harris and Tim Walz,DEM,48
 Ziebach,2 Cherry Creek,President,,Chase Oliver and Mike ter Maat,LIB,0
 Ziebach,2 Cherry Creek,President,,Donald J. Trump and JD Vance,REP,10
-Ziebach,2 Cherry Creek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Ziebach,2 Cherry Creek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Ziebach,3 Davis,President,,Kamala D. Harris and Tim Walz,DEM,128
 Ziebach,3 Davis,President,,Chase Oliver and Mike ter Maat,LIB,2
 Ziebach,3 Davis,President,,Donald J. Trump and JD Vance,REP,75
-Ziebach,3 Davis,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
+Ziebach,3 Davis,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Ziebach,4 Glad Valley,President,,Kamala D. Harris and Tim Walz,DEM,9
 Ziebach,4 Glad Valley,President,,Chase Oliver and Mike ter Maat,LIB,0
 Ziebach,4 Glad Valley,President,,Donald J. Trump and JD Vance,REP,54
-Ziebach,4 Glad Valley,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,0
+Ziebach,4 Glad Valley,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Kamala D. Harris and Tim Walz,DEM,144
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Chase Oliver and Mike ter Maat,LIB,2
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Donald J. Trump and JD Vance,REP,219
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Ziebach,7 Red Scaffold,President,,Kamala D. Harris and Tim Walz,DEM,25
 Ziebach,7 Red Scaffold,President,,Chase Oliver and Mike ter Maat,LIB,0
 Ziebach,7 Red Scaffold,President,,Donald J. Trump and JD Vance,REP,18
-Ziebach,7 Red Scaffold,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Ziebach,Birder,President,,Kamala D. Harris and Tim Walz,DEM,12
-Ziebach,Birder,President,,Chase Oliver and Mike ter Maat,LIB,0
-Ziebach,Birder,President,,Donald J. Trump and JD Vance,REP,12
-Ziebach,Birder,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
-Ziebach,Cherry Creek,President,,Kamala D. Harris and Tim Walz,DEM,48
-Ziebach,Cherry Creek,President,,Chase Oliver and Mike ter Maat,LIB,0
-Ziebach,Cherry Creek,President,,Donald J. Trump and JD Vance,REP,10
-Ziebach,Cherry Creek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
-Ziebach,Davis,President,,Kamala D. Harris and Tim Walz,DEM,128
-Ziebach,Davis,President,,Chase Oliver and Mike ter Maat,LIB,2
-Ziebach,Davis,President,,Donald J. Trump and JD Vance,REP,75
-Ziebach,Davis,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
-Ziebach,Glad Valley,President,,Kamala D. Harris and Tim Walz,DEM,9
-Ziebach,Glad Valley,President,,Chase Oliver and Mike ter Maat,LIB,0
-Ziebach,Glad Valley,President,,Donald J. Trump and JD Vance,REP,54
-Ziebach,Glad Valley,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,0
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Kamala D. Harris and Tim Walz,DEM,144
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Chase Oliver and Mike ter Maat,LIB,2
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Donald J. Trump and JD Vance,REP,219
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,9
-Ziebach,Red Scaffold,President,,Kamala D. Harris and Tim Walz,DEM,25
-Ziebach,Red Scaffold,President,,Chase Oliver and Mike ter Maat,LIB,0
-Ziebach,Red Scaffold,President,,Donald J. Trump and JD Vance,REP,18
-Ziebach,Red Scaffold,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Ziebach,Birder,U.S. House,1,Sheryl Johnson,DEM,12
-Ziebach,Birder,U.S. House,1,Dusty Johnson,REP,14
-Ziebach,Cherry Creek,U.S. House,1,Sheryl Johnson,DEM,44
-Ziebach,Cherry Creek,U.S. House,1,Dusty Johnson,REP,11
-Ziebach,Davis,U.S. House,1,Sheryl Johnson,DEM,122
-Ziebach,Davis,U.S. House,1,Dusty Johnson,REP,93
-Ziebach,Glad Valley,U.S. House,1,Sheryl Johnson,DEM,9
-Ziebach,Glad Valley,U.S. House,1,Dusty Johnson,REP,56
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",U.S. House,1,Sheryl Johnson,DEM,136
-Ziebach,"North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",U.S. House,1,Dusty Johnson,REP,237
-Ziebach,Red Scaffold,U.S. House,1,Sheryl Johnson,DEM,24
-Ziebach,Red Scaffold,U.S. House,1,Dusty Johnson,REP,23
+Ziebach,7 Red Scaffold,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Ziebach,1 Bridger,U.S. House,1,Sheryl Johnson,DEM,12
+Ziebach,1 Bridger,U.S. House,1,Dusty Johnson,REP,14
+Ziebach,2 Cherry Creek,U.S. House,1,Sheryl Johnson,DEM,44
+Ziebach,2 Cherry Creek,U.S. House,1,Dusty Johnson,REP,11
+Ziebach,3 Davis,U.S. House,1,Sheryl Johnson,DEM,122
+Ziebach,3 Davis,U.S. House,1,Dusty Johnson,REP,93
+Ziebach,4 Glad Valley,U.S. House,1,Sheryl Johnson,DEM,9
+Ziebach,4 Glad Valley,U.S. House,1,Dusty Johnson,REP,56
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",U.S. House,1,Sheryl Johnson,DEM,136
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",U.S. House,1,Dusty Johnson,REP,237
+Ziebach,7 Red Scaffold,U.S. House,1,Sheryl Johnson,DEM,24
+Ziebach,7 Red Scaffold,U.S. House,1,Dusty Johnson,REP,23
 Ziebach,1 Bridger,Public Utilities Commissioner,,Forrest Wilson,DEM,13
-Ziebach,1 Bridger,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Ziebach,1 Bridger,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Ziebach,1 Bridger,Public Utilities Commissioner,,Kristie Fiegen,REP,11
 Ziebach,2 Cherry Creek,Public Utilities Commissioner,,Forrest Wilson,DEM,41
 Ziebach,2 Cherry Creek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
 Ziebach,2 Cherry Creek,Public Utilities Commissioner,,Kristie Fiegen,REP,10
-Ziebach,3 Daisy,Public Utilities Commissioner,,Forrest Wilson,DEM,116
-Ziebach,3 Daisy,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
-Ziebach,3 Daisy,Public Utilities Commissioner,,Kristie Fiegen,REP,75
+Ziebach,3 Davis,Public Utilities Commissioner,,Forrest Wilson,DEM,116
+Ziebach,3 Davis,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Ziebach,3 Davis,Public Utilities Commissioner,,Kristie Fiegen,REP,75
 Ziebach,4 Glad Valley,Public Utilities Commissioner,,Forrest Wilson,DEM,11
 Ziebach,4 Glad Valley,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Ziebach,4 Glad Valley,Public Utilities Commissioner,,Kristie Fiegen,REP,44
@@ -77,16 +53,6 @@ Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Public Uti
 Ziebach,7 Red Scaffold,Public Utilities Commissioner,,Forrest Wilson,DEM,21
 Ziebach,7 Red Scaffold,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
 Ziebach,7 Red Scaffold,Public Utilities Commissioner,,Kristie Fiegen,REP,18
-Ziebach,1 Bridger,Public Utilities Commissioner,,Forrest C. Wilson,DEM,13
-Ziebach,2 Cherry Creek,Public Utilities Commissioner,,Forrest C. Wilson,DEM,41
-Ziebach,3 Davis,Public Utilities Commissioner,,Forrest C. Wilson,DEM,116
-Ziebach,3 Davis,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
-Ziebach,3 Davis,Public Utilities Commissioner,,Kristie Fiegen,REP,75
-Ziebach,4 Glad Valley,Public Utilities Commissioner,,Forrest C. Wilson,DEM,11
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",Public Utilities Commissioner,,Forrest C. Wilson,DEM,126
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",Public Utilities Commissioner,,Kristie Fiegen,REP,205
-Ziebach,7 Red Scaffold,Public Utilities Commissioner,,Forrest C. Wilson,DEM,21
 Ziebach,1 Bridger,State Senate,28,Dean Schrempp,DEM,11
 Ziebach,1 Bridger,State Senate,28,Sam Marty,REP,10
 Ziebach,1 Bridger,State Senate,28,Shane C. Farlee,IND,4
@@ -99,88 +65,73 @@ Ziebach,3 Davis,State Senate,28,Shane C. Farlee,IND,61
 Ziebach,4 Glad Valley,State Senate,28,Dean Schrempp,DEM,12
 Ziebach,4 Glad Valley,State Senate,28,Sam Marty,REP,36
 Ziebach,4 Glad Valley,State Senate,28,Shane C. Farlee,IND,16
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",State Senate,28,Dean Schrempp,DEM,106
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",State Senate,28,Sam Marty,REP,130
-Ziebach,"5 North Dupree (Precinct 6 Red Elm, Precinct 8 South Dupree)",State Senate,28,Shane C. Farlee,IND,138
-Ziebach,7 Red Scaffold,State Senate,28,Dean Schrempp,DEM,19
-Ziebach,7 Red Scaffold,State Senate,28,Sam Marty,REP,14
-Ziebach,7 Red Scaffold,State Senate,28,Shane C. Farlee,IND,16
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State Senate,28,Dean Schrempp,DEM,106
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State Senate,28,Sam Marty,REP,130
 Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State Senate,28,Shane C. Farlee,IND,138
-Ziebach,1 Bridger,State House,28A,Carl J. Petersen,DEM,13
-Ziebach,1 Bridger,State House,28A,Jana Hunt,REP,13
-Ziebach,2 Cherry Creek,State House,28A,Carl J. Petersen,DEM,43
-Ziebach,2 Cherry Creek,State House,28A,Jana Hunt,REP,16
-Ziebach,3 Davis,State House,28A,Carl J. Petersen,DEM,135
-Ziebach,3 Davis,State House,28A,Jana Hunt,REP,82
-Ziebach,4 Glad Valley,State House,28A,Carl J. Petersen,DEM,9
-Ziebach,4 Glad Valley,State House,28A,Jana Hunt,REP,54
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Carl J. Petersen,DEM,129
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Jana Hunt,REP,239
-Ziebach,7 Red Scaffold,State House,28A,Carl J. Petersen,DEM,27
-Ziebach,7 Red Scaffold,State House,28A,Jana Hunt,REP,21
-Ziebach,1 Bridger,County Commissioner At Large,,Bill Henderson,DEM,15
-Ziebach,1 Bridger,County Commissioner At Large,,Lane Dalton Eaton,IND,4
-Ziebach,1 Bridger,County Commissioner At Large,,Lee Brooks,IND,4
-Ziebach,1 Bridger,County Commissioner At Large,,David Holmes,IND,6
-Ziebach,1 Bridger,County Commissioner At Large,,David E. Pesicka,IND,9
-Ziebach,2 Cherry Creek,County Commissioner At Large,,Bill Henderson,DEM,33
-Ziebach,2 Cherry Creek,County Commissioner At Large,,Lane Dalton Eaton,IND,4
-Ziebach,2 Cherry Creek,County Commissioner At Large,,Lee Brooks,IND,7
-Ziebach,2 Cherry Creek,County Commissioner At Large,,David Holmes,IND,6
-Ziebach,2 Cherry Creek,County Commissioner At Large,,David E. Pesicka,IND,9
-Ziebach,3 Davis,County Commissioner At Large,,Bill Henderson,DEM,114
-Ziebach,3 Davis,County Commissioner At Large,,Lane Dalton Eaton,IND,21
-Ziebach,3 Davis,County Commissioner At Large,,Lee Brooks,IND,27
-Ziebach,3 Davis,County Commissioner At Large,,David Holmes,IND,36
-Ziebach,3 Davis,County Commissioner At Large,,David E. Pesicka,IND,18
-Ziebach,4 Glad Valley,County Commissioner At Large,,Bill Henderson,DEM,32
-Ziebach,4 Glad Valley,County Commissioner At Large,,Lane Dalton Eaton,IND,2
-Ziebach,4 Glad Valley,County Commissioner At Large,,Lee Brooks,IND,23
-Ziebach,4 Glad Valley,County Commissioner At Large,,David Holmes,IND,18
-Ziebach,4 Glad Valley,County Commissioner At Large,,David E. Pesicka,IND,21
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner At Large,,Bill Henderson,DEM,152
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner At Large,,Lane Dalton Eaton,IND,33
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner At Large,,Lee Brooks,IND,147
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner At Large,,David Holmes,IND,129
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner At Large,,David E. Pesicka,IND,135
-Ziebach,7 Red Scaffold,County Commissioner At Large,,Bill Henderson,DEM,17
-Ziebach,7 Red Scaffold,County Commissioner At Large,,Lane Dalton Eaton,IND,8
-Ziebach,7 Red Scaffold,County Commissioner At Large,,Lee Brooks,IND,4
-Ziebach,7 Red Scaffold,County Commissioner At Large,,David Holmes,IND,13
-Ziebach,7 Red Scaffold,County Commissioner At Large,,David E. Pesicka,IND,19
-Ziebach,1 Bridger,Supreme Court Retention,Fifth,Yes,,15
-Ziebach,1 Bridger,Supreme Court Retention,Fifth,No,,11
-Ziebach,2 Cherry Creek,Supreme Court Retention,Fifth,Yes,,32
-Ziebach,2 Cherry Creek,Supreme Court Retention,Fifth,No,,19
-Ziebach,3 Davis,Supreme Court Retention,Fifth,Yes,,116
-Ziebach,3 Davis,Supreme Court Retention,Fifth,No,,76
-Ziebach,4 Glad Valley,Supreme Court Retention,Fifth,Yes,,47
-Ziebach,4 Glad Valley,Supreme Court Retention,Fifth,No,,9
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,Fifth,Yes,,223
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,Fifth,No,,115
-Ziebach,7 Red Scaffold,Supreme Court Retention,Fifth,Yes,,21
-Ziebach,7 Red Scaffold,Supreme Court Retention,Fifth,No,,24
-Ziebach,1 Bridger,Supreme Court Retention,5,Yes,,15
-Ziebach,1 Bridger,Supreme Court Retention,5,No,,11
-Ziebach,2 Cherry Creek,Supreme Court Retention,5,Yes,,32
-Ziebach,2 Cherry Creek,Supreme Court Retention,5,No,,19
-Ziebach,3 Dupree,Supreme Court Retention,5,Yes,,116
-Ziebach,3 Dupree,Supreme Court Retention,5,No,,76
-Ziebach,4 Glad Valley,Supreme Court Retention,5,Yes,,47
-Ziebach,4 Glad Valley,Supreme Court Retention,5,No,,9
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,5,Yes,,223
-Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,5,No,,115
-Ziebach,7 Red Scaffold,Supreme Court Retention,5,Yes,,21
-Ziebach,7 Red Scaffold,Supreme Court Retention,5,No,,24
+Ziebach,7 Red Scaffold,State Senate,28,Dean Schrempp,DEM,19
+Ziebach,7 Red Scaffold,State Senate,28,Sam Marty,REP,14
+Ziebach,7 Red Scaffold,State Senate,28,Shane C. Farlee,IND,16
+Ziebach,1 Bridger,State House,28A,Carl J. Petersen,REP,13
+Ziebach,1 Bridger,State House,28A,Jana Hunt,DEM,13
+Ziebach,2 Cherry Creek,State House,28A,Carl J. Petersen,REP,43
+Ziebach,2 Cherry Creek,State House,28A,Jana Hunt,DEM,16
+Ziebach,3 Davis,State House,28A,Carl J. Petersen,REP,135
+Ziebach,3 Davis,State House,28A,Jana Hunt,DEM,82
+Ziebach,4 Glad Valley,State House,28A,Carl J. Petersen,REP,9
+Ziebach,4 Glad Valley,State House,28A,Jana Hunt,DEM,54
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Carl J. Petersen,REP,129
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Jana Hunt,DEM,239
+Ziebach,7 Red Scaffold,State House,28A,Carl J. Petersen,REP,27
+Ziebach,7 Red Scaffold,State House,28A,Jana Hunt,DEM,21
+Ziebach,1 Bridger,County Commissioner,,Bill Henderson,DEM,15
+Ziebach,1 Bridger,County Commissioner,,Lane Dalton Eaton,IND,0
+Ziebach,1 Bridger,County Commissioner,,Lee Brooks,IND,4
+Ziebach,1 Bridger,County Commissioner,,David Holmes,IND,6
+Ziebach,1 Bridger,County Commissioner,,David E Pesicka,IND,9
+Ziebach,2 Cherry Creek,County Commissioner,,Bill Henderson,DEM,33
+Ziebach,2 Cherry Creek,County Commissioner,,Lane Dalton Eaton,IND,4
+Ziebach,2 Cherry Creek,County Commissioner,,Lee Brooks,IND,2
+Ziebach,2 Cherry Creek,County Commissioner,,David Holmes,IND,7
+Ziebach,2 Cherry Creek,County Commissioner,,David E Pesicka,IND,18
+Ziebach,3 Davis,County Commissioner,,Bill Henderson,DEM,114
+Ziebach,3 Davis,County Commissioner,,Lane Dalton Eaton,IND,21
+Ziebach,3 Davis,County Commissioner,,Lee Brooks,IND,47
+Ziebach,3 Davis,County Commissioner,,David Holmes,IND,36
+Ziebach,3 Davis,County Commissioner,,David E Pesicka,IND,74
+Ziebach,4 Glad Valley,County Commissioner,,Bill Henderson,DEM,32
+Ziebach,4 Glad Valley,County Commissioner,,Lane Dalton Eaton,IND,2
+Ziebach,4 Glad Valley,County Commissioner,,Lee Brooks,IND,23
+Ziebach,4 Glad Valley,County Commissioner,,David Holmes,IND,18
+Ziebach,4 Glad Valley,County Commissioner,,David E Pesicka,IND,21
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner,,Bill Henderson,DEM,152
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner,,Lane Dalton Eaton,IND,33
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner,,Lee Brooks,IND,147
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner,,David Holmes,IND,129
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",County Commissioner,,David E Pesicka,IND,135
+Ziebach,7 Red Scaffold,County Commissioner,,Bill Henderson,DEM,17
+Ziebach,7 Red Scaffold,County Commissioner,,Lane Dalton Eaton,IND,8
+Ziebach,7 Red Scaffold,County Commissioner,,Lee Brooks,IND,4
+Ziebach,7 Red Scaffold,County Commissioner,,David Holmes,IND,13
+Ziebach,7 Red Scaffold,County Commissioner,,David E Pesicka,IND,19
+Ziebach,1 Bridger,Supreme Court Retention,5,Scott P. Myren - Yes,,15
+Ziebach,1 Bridger,Supreme Court Retention,5,Scott P. Myren - No,,11
+Ziebach,2 Cherry Creek,Supreme Court Retention,5,Scott P. Myren - Yes,,32
+Ziebach,2 Cherry Creek,Supreme Court Retention,5,Scott P. Myren - No,,19
+Ziebach,3 Davis,Supreme Court Retention,5,Scott P. Myren - Yes,,116
+Ziebach,3 Davis,Supreme Court Retention,5,Scott P. Myren - No,,76
+Ziebach,4 Glad Valley,Supreme Court Retention,5,Scott P. Myren - Yes,,47
+Ziebach,4 Glad Valley,Supreme Court Retention,5,Scott P. Myren - No,,9
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,5,Scott P. Myren - Yes,,223
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Supreme Court Retention,5,Scott P. Myren - No,,115
+Ziebach,7 Red Scaffold,Supreme Court Retention,5,Scott P. Myren - Yes,,21
+Ziebach,7 Red Scaffold,Supreme Court Retention,5,Scott P. Myren - No,,24
 Ziebach,1 Bridger,Constitutional Amendment E,,Yes,,12
 Ziebach,1 Bridger,Constitutional Amendment E,,No,,14
 Ziebach,1 Bridger,Constitutional Amendment F,,Yes,,10
 Ziebach,1 Bridger,Constitutional Amendment F,,No,,16
 Ziebach,1 Bridger,Constitutional Amendment G,,Yes,,15
 Ziebach,1 Bridger,Constitutional Amendment G,,No,,11
-Ziebach,1 Bridger,Constitutional Amendment H,,Yes,,11
+Ziebach,1 Bridger,Constitutional Amendment H,,Yes,,6
 Ziebach,2 Cherry Creek,Constitutional Amendment E,,Yes,,30
 Ziebach,2 Cherry Creek,Constitutional Amendment E,,No,,28
 Ziebach,2 Cherry Creek,Constitutional Amendment F,,Yes,,25
@@ -188,13 +139,13 @@ Ziebach,2 Cherry Creek,Constitutional Amendment F,,No,,32
 Ziebach,2 Cherry Creek,Constitutional Amendment G,,Yes,,35
 Ziebach,2 Cherry Creek,Constitutional Amendment G,,No,,23
 Ziebach,2 Cherry Creek,Constitutional Amendment H,,Yes,,28
-Ziebach,3 Dupree,Constitutional Amendment E,,Yes,,96
-Ziebach,3 Dupree,Constitutional Amendment E,,No,,119
-Ziebach,3 Dupree,Constitutional Amendment F,,Yes,,104
-Ziebach,3 Dupree,Constitutional Amendment F,,No,,110
-Ziebach,3 Dupree,Constitutional Amendment G,,Yes,,123
-Ziebach,3 Dupree,Constitutional Amendment G,,No,,91
-Ziebach,3 Dupree,Constitutional Amendment H,,Yes,,95
+Ziebach,3 Davis,Constitutional Amendment E,,Yes,,96
+Ziebach,3 Davis,Constitutional Amendment E,,No,,119
+Ziebach,3 Davis,Constitutional Amendment F,,Yes,,104
+Ziebach,3 Davis,Constitutional Amendment F,,No,,110
+Ziebach,3 Davis,Constitutional Amendment G,,Yes,,123
+Ziebach,3 Davis,Constitutional Amendment G,,No,,93
+Ziebach,3 Davis,Constitutional Amendment H,,Yes,,95
 Ziebach,4 Glad Valley,Constitutional Amendment E,,Yes,,16
 Ziebach,4 Glad Valley,Constitutional Amendment E,,No,,46
 Ziebach,4 Glad Valley,Constitutional Amendment F,,Yes,,35
@@ -215,3 +166,46 @@ Ziebach,7 Red Scaffold,Constitutional Amendment F,,Yes,,29
 Ziebach,7 Red Scaffold,Constitutional Amendment F,,No,,18
 Ziebach,7 Red Scaffold,Constitutional Amendment G,,Yes,,22
 Ziebach,7 Red Scaffold,Constitutional Amendment G,,No,,25
+Ziebach,7 Red Scaffold,Constitutional Amendment H,,Yes,,21
+Ziebach,1 Bridger,Constitutional Amendment H,,No,,12
+Ziebach,2 Cherry Creek,Constitutional Amendment H,,No,,54
+Ziebach,3 Davis,Constitutional Amendment H,,No,,184
+Ziebach,4 Glad Valley,Constitutional Amendment H,,No,,33
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Constitutional Amendment H,,No,,186
+Ziebach,7 Red Scaffold,Constitutional Amendment H,,No,,41
+Ziebach,1 Bridger,Initiated Measure 28,,Yes,,9
+Ziebach,2 Cherry Creek,Initiated Measure 28,,Yes,,22
+Ziebach,3 Davis,Initiated Measure 28,,Yes,,79
+Ziebach,4 Glad Valley,Initiated Measure 28,,Yes,,23
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Initiated Measure 28,,Yes,,138
+Ziebach,7 Red Scaffold,Initiated Measure 28,,Yes,,17
+Ziebach,1 Bridger,Initiated Measure 28,,No,,15
+Ziebach,2 Cherry Creek,Initiated Measure 28,,No,,37
+Ziebach,3 Davis,Initiated Measure 28,,No,,133
+Ziebach,4 Glad Valley,Initiated Measure 28,,No,,39
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Initiated Measure 28,,No,,232
+Ziebach,7 Red Scaffold,Initiated Measure 28,,No,,28
+Ziebach,1 Bridger,Initiated Measure 29,,Yes,,13
+Ziebach,2 Cherry Creek,Initiated Measure 29,,Yes,,30
+Ziebach,3 Davis,Initiated Measure 29,,Yes,,108
+Ziebach,4 Glad Valley,Initiated Measure 29,,Yes,,32
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Initiated Measure 29,,Yes,,189
+Ziebach,7 Red Scaffold,Initiated Measure 29,,Yes,,23
+Ziebach,1 Bridger,Initiated Measure 29,,No,,12
+Ziebach,2 Cherry Creek,Initiated Measure 29,,No,,29
+Ziebach,3 Davis,Initiated Measure 29,,No,,106
+Ziebach,4 Glad Valley,Initiated Measure 29,,No,,31
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Initiated Measure 29,,No,,185
+Ziebach,7 Red Scaffold,Initiated Measure 29,,No,,24
+Ziebach,1 Bridger,Referred Law 21,,Yes,,8
+Ziebach,2 Cherry Creek,Referred Law 21,,Yes,,20
+Ziebach,3 Davis,Referred Law 21,,Yes,,72
+Ziebach,4 Glad Valley,Referred Law 21,,Yes,,21
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Referred Law 21,,Yes,,125
+Ziebach,7 Red Scaffold,Referred Law 21,,Yes,,16
+Ziebach,1 Bridger,Referred Law 21,,No,,16
+Ziebach,2 Cherry Creek,Referred Law 21,,No,,38
+Ziebach,3 Davis,Referred Law 21,,No,,139
+Ziebach,4 Glad Valley,Referred Law 21,,No,,41
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",Referred Law 21,,No,,244
+Ziebach,7 Red Scaffold,Referred Law 21,,No,,31

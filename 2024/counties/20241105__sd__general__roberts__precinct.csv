@@ -1,36 +1,36 @@
 county,precinct,office,district,candidate,party,votes
-Roberts,1,President,,Kamala D. Harris and Tim Walz,DEM,329
-Roberts,1,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,1,President,,Donald J. Trump and JD Vance,REP,383
-Roberts,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
-Roberts,2,President,,Kamala D. Harris and Tim Walz,DEM,178
-Roberts,2,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,2,President,,Donald J. Trump and JD Vance,REP,374
-Roberts,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
-Roberts,3,President,,Kamala D. Harris and Tim Walz,DEM,58
-Roberts,3,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,3,President,,Donald J. Trump and JD Vance,REP,144
-Roberts,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Roberts,4,President,,Kamala D. Harris and Tim Walz,DEM,31
-Roberts,4,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,4,President,,Donald J. Trump and JD Vance,REP,127
-Roberts,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Roberts,5,President,,Kamala D. Harris and Tim Walz,DEM,219
-Roberts,5,President,,Chase Oliver and Mike ter Maat,LIB,2
-Roberts,5,President,,Donald J. Trump and JD Vance,REP,327
-Roberts,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Roberts,6 (Precinct 7),President,,Kamala D. Harris and Tim Walz,DEM,167
-Roberts,6 (Precinct 7),President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,6 (Precinct 7),President,,Donald J. Trump and JD Vance,REP,402
-Roberts,6 (Precinct 7),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Roberts,8,President,,Kamala D. Harris and Tim Walz,DEM,136
-Roberts,8,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,8,President,,Donald J. Trump and JD Vance,REP,356
-Roberts,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Roberts,9,President,,Kamala D. Harris and Tim Walz,DEM,83
-Roberts,9,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,9,President,,Donald J. Trump and JD Vance,REP,267
-Roberts,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Roberts,01,President,,Kamala D. Harris and Tim Walz,DEM,32
+Roberts,01,President,,Chase Oliver and Mike ter Maat,LIB,0
+Roberts,01,President,,Donald J. Trump and JD Vance,REP,133
+Roberts,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Roberts,02,President,,Kamala D. Harris and Tim Walz,DEM,128
+Roberts,02,President,,Chase Oliver and Mike ter Maat,LIB,2
+Roberts,02,President,,Donald J. Trump and JD Vance,REP,374
+Roberts,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Roberts,03,President,,Kamala D. Harris and Tim Walz,DEM,58
+Roberts,03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Roberts,03,President,,Donald J. Trump and JD Vance,REP,142
+Roberts,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Roberts,04,President,,Kamala D. Harris and Tim Walz,DEM,25
+Roberts,04,President,,Chase Oliver and Mike ter Maat,LIB,1
+Roberts,04,President,,Donald J. Trump and JD Vance,REP,64
+Roberts,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Roberts,05,President,,Kamala D. Harris and Tim Walz,DEM,219
+Roberts,05,President,,Chase Oliver and Mike ter Maat,LIB,0
+Roberts,05,President,,Donald J. Trump and JD Vance,REP,177
+Roberts,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Roberts,06 (Precinct-07),President,,Kamala D. Harris and Tim Walz,DEM,167
+Roberts,06 (Precinct-07),President,,Chase Oliver and Mike ter Maat,LIB,2
+Roberts,06 (Precinct-07),President,,Donald J. Trump and JD Vance,REP,402
+Roberts,06 (Precinct-07),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Roberts,08,President,,Kamala D. Harris and Tim Walz,DEM,38
+Roberts,08,President,,Chase Oliver and Mike ter Maat,LIB,0
+Roberts,08,President,,Donald J. Trump and JD Vance,REP,76
+Roberts,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Roberts,09,President,,Kamala D. Harris and Tim Walz,DEM,130
+Roberts,09,President,,Chase Oliver and Mike ter Maat,LIB,2
+Roberts,09,President,,Donald J. Trump and JD Vance,REP,354
+Roberts,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
 Roberts,10,President,,Kamala D. Harris and Tim Walz,DEM,105
 Roberts,10,President,,Chase Oliver and Mike ter Maat,LIB,0
 Roberts,10,President,,Donald J. Trump and JD Vance,REP,86
@@ -38,181 +38,350 @@ Roberts,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Roberts,11,President,,Kamala D. Harris and Tim Walz,DEM,343
 Roberts,11,President,,Chase Oliver and Mike ter Maat,LIB,3
 Roberts,11,President,,Donald J. Trump and JD Vance,REP,441
-Roberts,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Roberts,12 (Precinct 14),President,,Kamala D. Harris and Tim Walz,DEM,163
-Roberts,12 (Precinct 14),President,,Chase Oliver and Mike ter Maat,LIB,1
-Roberts,12 (Precinct 14),President,,Donald J. Trump and JD Vance,REP,137
-Roberts,12 (Precinct 14),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Roberts,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Roberts,12 (Precinct-14),President,,Kamala D. Harris and Tim Walz,DEM,169
+Roberts,12 (Precinct-14),President,,Chase Oliver and Mike ter Maat,LIB,1
+Roberts,12 (Precinct-14),President,,Donald J. Trump and JD Vance,REP,137
+Roberts,12 (Precinct-14),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Roberts,13,President,,Kamala D. Harris and Tim Walz,DEM,146
 Roberts,13,President,,Chase Oliver and Mike ter Maat,LIB,1
 Roberts,13,President,,Donald J. Trump and JD Vance,REP,128
 Roberts,13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
-Roberts,01,President,,Kamala D. Harris and Tim Walz,DEM,329
-Roberts,01,President,,Chase Oliver and Mike ter Maat,LIB,2
-Roberts,01,President,,Donald J. Trump and JD Vance,REP,383
-Roberts,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
-Roberts,02,President,,Kamala D. Harris and Tim Walz,DEM,178
-Roberts,02,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,02,President,,Donald J. Trump and JD Vance,REP,374
-Roberts,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Roberts,03,President,,Kamala D. Harris and Tim Walz,DEM,58
-Roberts,03,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,03,President,,Donald J. Trump and JD Vance,REP,142
-Roberts,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Roberts,04,President,,Kamala D. Harris and Tim Walz,DEM,86
-Roberts,04,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,04,President,,Donald J. Trump and JD Vance,REP,167
-Roberts,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Roberts,05,President,,Kamala D. Harris and Tim Walz,DEM,219
-Roberts,05,President,,Chase Oliver and Mike ter Maat,LIB,2
-Roberts,05,President,,Donald J. Trump and JD Vance,REP,302
-Roberts,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Roberts,06 (Precinct 07),President,,Kamala D. Harris and Tim Walz,DEM,167
-Roberts,06 (Precinct 07),President,,Chase Oliver and Mike ter Maat,LIB,2
-Roberts,06 (Precinct 07),President,,Donald J. Trump and JD Vance,REP,407
-Roberts,06 (Precinct 07),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Roberts,08,President,,Kamala D. Harris and Tim Walz,DEM,112
-Roberts,08,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,08,President,,Donald J. Trump and JD Vance,REP,312
-Roberts,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Roberts,09,President,,Kamala D. Harris and Tim Walz,DEM,138
-Roberts,09,President,,Chase Oliver and Mike ter Maat,LIB,0
-Roberts,09,President,,Donald J. Trump and JD Vance,REP,86
-Roberts,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Roberts,01,U.S. House,1,Synergy Mcassy,,121
-Roberts,01,U.S. House,1,Johnson,,413
-Roberts,02,U.S. House,1,Synergy Mcassy,,71
-Roberts,02,U.S. House,1,Johnson,,400
-Roberts,03,U.S. House,1,Synergy Mcassy,,41
-Roberts,03,U.S. House,1,Johnson,,162
-Roberts,04,U.S. House,1,Synergy Mcassy,,44
-Roberts,04,U.S. House,1,Johnson,,208
-Roberts,05,U.S. House,1,Synergy Mcassy,,91
-Roberts,05,U.S. House,1,Johnson,,198
-Roberts,06 (Precinct 07),U.S. House,1,Synergy Mcassy,,63
-Roberts,06 (Precinct 07),U.S. House,1,Johnson,,368
-Roberts,08,U.S. House,1,Synergy Mcassy,,53
-Roberts,08,U.S. House,1,Johnson,,258
-Roberts,09,U.S. House,1,Synergy Mcassy,,45
-Roberts,09,U.S. House,1,Johnson,,101
-Roberts,10,U.S. House,1,Synergy Mcassy,,138
-Roberts,10,U.S. House,1,Johnson,,115
-Roberts,11,U.S. House,1,Synergy Mcassy,,296
-Roberts,11,U.S. House,1,Johnson,,403
-Roberts,12 (Precinct 14),U.S. House,1,Synergy Mcassy,,98
-Roberts,12 (Precinct 14),U.S. House,1,Johnson,,110
-Roberts,13,U.S. House,1,Synergy Mcassy,,57
-Roberts,13,U.S. House,1,Johnson,,87
+Roberts,01,U.S. House,1,Sheryl Johnson,DEM,27
+Roberts,01,U.S. House,1,Dusty Johnson,REP,141
+Roberts,02,U.S. House,1,Sheryl Johnson,DEM,101
+Roberts,02,U.S. House,1,Dusty Johnson,REP,411
+Roberts,03,U.S. House,1,Sheryl Johnson,DEM,44
+Roberts,03,U.S. House,1,Dusty Johnson,REP,159
+Roberts,04,U.S. House,1,Sheryl Johnson,DEM,21
+Roberts,04,U.S. House,1,Dusty Johnson,REP,67
+Roberts,05,U.S. House,1,Sheryl Johnson,DEM,183
+Roberts,05,U.S. House,1,Dusty Johnson,REP,217
+Roberts,06 (Precinct-07),U.S. House,1,Sheryl Johnson,DEM,123
+Roberts,06 (Precinct-07),U.S. House,1,Dusty Johnson,REP,438
+Roberts,08,U.S. House,1,Sheryl Johnson,DEM,27
+Roberts,08,U.S. House,1,Dusty Johnson,REP,87
+Roberts,09,U.S. House,1,Sheryl Johnson,DEM,99
+Roberts,09,U.S. House,1,Dusty Johnson,REP,388
+Roberts,10,U.S. House,1,Sheryl Johnson,DEM,99
+Roberts,10,U.S. House,1,Dusty Johnson,REP,95
+Roberts,11,U.S. House,1,Sheryl Johnson,DEM,288
+Roberts,11,U.S. House,1,Dusty Johnson,REP,498
+Roberts,12 (Precinct-14),U.S. House,1,Sheryl Johnson,DEM,145
+Roberts,12 (Precinct-14),U.S. House,1,Dusty Johnson,REP,161
+Roberts,13,U.S. House,1,Sheryl Johnson,DEM,115
+Roberts,13,U.S. House,1,Dusty Johnson,REP,165
+Roberts,01,Public Utilities Commissioner,,Forrest Wilson,DEM,31
+Roberts,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Roberts,01,Public Utilities Commissioner,,Kristie Fiegen,REP,128
+Roberts,02,Public Utilities Commissioner,,Forrest Wilson,DEM,98
+Roberts,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Roberts,02,Public Utilities Commissioner,,Kristie Fiegen,REP,376
+Roberts,03,Public Utilities Commissioner,,Forrest Wilson,DEM,37
+Roberts,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Roberts,03,Public Utilities Commissioner,,Kristie Fiegen,REP,127
+Roberts,04,Public Utilities Commissioner,,Forrest Wilson,DEM,20
+Roberts,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Roberts,04,Public Utilities Commissioner,,Kristie Fiegen,REP,57
+Roberts,05,Public Utilities Commissioner,,Forrest Wilson,DEM,188
+Roberts,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Roberts,05,Public Utilities Commissioner,,Kristie Fiegen,REP,167
+Roberts,06 (Precinct-07),Public Utilities Commissioner,,Forrest Wilson,DEM,133
+Roberts,06 (Precinct-07),Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Roberts,06 (Precinct-07),Public Utilities Commissioner,,Kristie Fiegen,REP,373
+Roberts,08,Public Utilities Commissioner,,Forrest Wilson,DEM,30
+Roberts,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Roberts,08,Public Utilities Commissioner,,Kristie Fiegen,REP,69
+Roberts,09,Public Utilities Commissioner,,Forrest Wilson,DEM,97
+Roberts,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,29
+Roberts,09,Public Utilities Commissioner,,Kristie Fiegen,REP,334
+Roberts,10,Public Utilities Commissioner,,Forrest Wilson,DEM,106
+Roberts,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Roberts,10,Public Utilities Commissioner,,Kristie Fiegen,REP,73
+Roberts,11,Public Utilities Commissioner,,Forrest Wilson,DEM,314
+Roberts,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,24
+Roberts,11,Public Utilities Commissioner,,Kristie Fiegen,REP,393
+Roberts,12 (Precinct-14),Public Utilities Commissioner,,Forrest Wilson,DEM,147
+Roberts,12 (Precinct-14),Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Roberts,12 (Precinct-14),Public Utilities Commissioner,,Kristie Fiegen,REP,130
+Roberts,13,Public Utilities Commissioner,,Forrest Wilson,DEM,126
+Roberts,13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Roberts,13,Public Utilities Commissioner,,Kristie Fiegen,REP,121
 Roberts,01,State Senate,01,Michael H. Rohl,REP,126
-Roberts,02,State Senate,01,Michael H. Rohl,REP,138
-Roberts,03,State Senate,01,Michael H. Rohl,REP,65
-Roberts,04,State Senate,01,Michael H. Rohl,REP,166
-Roberts,06 (Precinct 07),State Senate,01,Michael H. Rohl,REP,419
+Roberts,02,State Senate,04,Stephanie Sauder,REP,375
+Roberts,03,State Senate,01,Michael H. Rohl,REP,138
+Roberts,04,State Senate,01,Michael H. Rohl,REP,65
+Roberts,05,State Senate,01,Michael H. Rohl,REP,166
+Roberts,05,State Senate,04,Stephanie Sauder,REP,38
+Roberts,06 (Precinct-07),State Senate,01,Michael H. Rohl,REP,419
 Roberts,08,State Senate,01,Michael H. Rohl,REP,80
-Roberts,09,State Senate,01,Michael H. Rohl,REP,89
+Roberts,09,State Senate,01,Michael H. Rohl,REP,2
+Roberts,09,State Senate,04,Stephanie Sauder,REP,361
 Roberts,10,State Senate,01,Michael H. Rohl,REP,89
 Roberts,11,State Senate,01,Michael H. Rohl,REP,456
-Roberts,12 (Precinct 14),State Senate,01,Michael H. Rohl,REP,155
+Roberts,12 (Precinct-14),State Senate,01,Michael H. Rohl,REP,155
 Roberts,13,State Senate,01,Michael H. Rohl,REP,147
-Roberts,01,State Senate,04,Stephanie Sauder,REP,375
-Roberts,02,State Senate,04,Stephanie Sauder,REP,35
-Roberts,03,State Senate,04,Stephanie Sauder,REP,28
-Roberts,04,State Senate,04,Stephanie Sauder,REP,38
-Roberts,06 (Precinct 07),State Senate,04,Stephanie Sauder,REP,44
-Roberts,08,State Senate,04,Stephanie Sauder,REP,361
-Roberts,01,State House,01,Steven D. McCleerey,DEM,49
+Roberts,01,State House,01,Steven D. McCleerey,LIB,49
 Roberts,01,State House,01,Mark Sumption,DEM,43
-Roberts,01,State House,01,Josh Dennert,LIB,7
+Roberts,01,State House,01,Josh Dennert,DEM,7
 Roberts,01,State House,01,Tamara Lesnar,LIB,7
 Roberts,01,State House,01,Logan Manhart,REP,94
 Roberts,01,State House,01,Christopher Reder,REP,95
-Roberts,03,State House,01,Steven D. McCleerey,DEM,91
+Roberts,02,State House,04,Kent Roe,REP,293
+Roberts,02,State House,04,Dylan C. Jordan,REP,304
+Roberts,03,State House,01,Steven D. McCleerey,LIB,91
 Roberts,03,State House,01,Mark Sumption,DEM,48
-Roberts,03,State House,01,Josh Dennert,LIB,8
+Roberts,03,State House,01,Josh Dennert,DEM,8
 Roberts,03,State House,01,Tamara Lesnar,LIB,14
 Roberts,03,State House,01,Logan Manhart,REP,85
 Roberts,03,State House,01,Christopher Reder,REP,86
-Roberts,04,State House,01,Steven D. McCleerey,DEM,25
+Roberts,04,State House,01,Steven D. McCleerey,LIB,25
 Roberts,04,State House,01,Mark Sumption,DEM,22
-Roberts,04,State House,01,Josh Dennert,LIB,3
+Roberts,04,State House,01,Josh Dennert,DEM,3
 Roberts,04,State House,01,Tamara Lesnar,LIB,10
 Roberts,04,State House,01,Logan Manhart,REP,47
 Roberts,04,State House,01,Christopher Reder,REP,39
-Roberts,05,State House,01,Steven D. McCleerey,DEM,181
+Roberts,05,State House,01,Steven D. McCleerey,LIB,181
 Roberts,05,State House,01,Mark Sumption,DEM,127
-Roberts,05,State House,01,Josh Dennert,LIB,11
+Roberts,05,State House,01,Josh Dennert,DEM,11
 Roberts,05,State House,01,Tamara Lesnar,LIB,15
 Roberts,05,State House,01,Logan Manhart,REP,102
 Roberts,05,State House,01,Christopher Reder,REP,94
-Roberts,06,State House,01,Steven D. McCleerey,DEM,186
-Roberts,06,State House,01,Mark Sumption,DEM,131
-Roberts,06,State House,01,Josh Dennert,LIB,9
-Roberts,06,State House,01,Tamara Lesnar,LIB,24
-Roberts,06,State House,01,Logan Manhart,REP,299
-Roberts,06,State House,01,Christopher Reder,REP,301
-Roberts,08,State House,01,Steven D. McCleerey,DEM,36
+Roberts,05,State House,04,Kent Roe,REP,29
+Roberts,05,State House,04,Dylan C. Jordan,REP,31
+Roberts,06 (Precinct-07),State House,01,Steven D. McCleerey,LIB,186
+Roberts,06 (Precinct-07),State House,01,Mark Sumption,DEM,131
+Roberts,06 (Precinct-07),State House,01,Josh Dennert,DEM,9
+Roberts,06 (Precinct-07),State House,01,Tamara Lesnar,LIB,24
+Roberts,06 (Precinct-07),State House,01,Logan Manhart,REP,299
+Roberts,06 (Precinct-07),State House,01,Christopher Reder,REP,301
+Roberts,08,State House,01,Steven D. McCleerey,LIB,36
 Roberts,08,State House,01,Mark Sumption,DEM,28
-Roberts,08,State House,01,Josh Dennert,LIB,5
+Roberts,08,State House,01,Josh Dennert,DEM,5
 Roberts,08,State House,01,Tamara Lesnar,LIB,14
 Roberts,08,State House,01,Logan Manhart,REP,52
 Roberts,08,State House,01,Christopher Reder,REP,57
-Roberts,10,State House,01,Steven D. McCleerey,DEM,105
-Roberts,10,State House,01,Mark Sumption,DEM,89
-Roberts,10,State House,01,Josh Dennert,LIB,3
-Roberts,10,State House,01,Tamara Lesnar,LIB,10
-Roberts,10,State House,01,Logan Manhart,REP,62
-Roberts,10,State House,01,Christopher Reder,REP,60
-Roberts,11,State House,01,Steven D. McCleerey,DEM,406
-Roberts,11,State House,01,Mark Sumption,DEM,312
-Roberts,11,State House,01,Josh Dennert,LIB,11
-Roberts,11,State House,01,Tamara Lesnar,LIB,31
-Roberts,11,State House,01,Logan Manhart,REP,292
-Roberts,11,State House,01,Christopher Reder,REP,312
-Roberts,12,State House,01,Steven D. McCleerey,DEM,177
-Roberts,12,State House,01,Mark Sumption,DEM,133
-Roberts,12,State House,01,Josh Dennert,LIB,4
-Roberts,12,State House,01,Tamara Lesnar,LIB,19
-Roberts,12,State House,01,Logan Manhart,REP,97
-Roberts,12,State House,01,Christopher Reder,REP,94
-Roberts,13,State House,01,Steven D. McCleerey,DEM,156
-Roberts,13,State House,01,Mark Sumption,DEM,115
-Roberts,13,State House,01,Josh Dennert,LIB,4
-Roberts,13,State House,01,Tamara Lesnar,LIB,14
-Roberts,13,State House,01,Logan Manhart,REP,88
-Roberts,13,State House,01,Christopher Reder,REP,100
-Roberts,02,State House,04,Kent Roe,REP,293
-Roberts,02,State House,04,Dylan C. Jordan,REP,304
-Roberts,09,State House,04,Kent Roe,REP,258
-Roberts,09,State House,04,Dylan C. Jordan,REP,270
-Roberts,09,State House,01,Steven D. McCleerey,DEM,3
+Roberts,09,State House,01,Steven D. McCleerey,LIB,3
 Roberts,09,State House,01,Mark Sumption,DEM,3
-Roberts,09,State House,01,Josh Dennert,LIB,0
+Roberts,09,State House,01,Josh Dennert,DEM,0
 Roberts,09,State House,01,Tamara Lesnar,LIB,0
 Roberts,09,State House,01,Logan Manhart,REP,1
 Roberts,09,State House,01,Christopher Reder,REP,1
-Roberts,05,State House,04,Kent Roe,REP,29
-Roberts,05,State House,04,Dylan C. Jordan,REP,31
-Roberts,01,Supreme Court Retention,,Yes,,129
-Roberts,01,Supreme Court Retention,,No,,19
-Roberts,02,Supreme Court Retention,,Yes,,385
-Roberts,02,Supreme Court Retention,,No,,59
-Roberts,03,Supreme Court Retention,,Yes,,138
-Roberts,03,Supreme Court Retention,,No,,26
-Roberts,04,Supreme Court Retention,,Yes,,59
-Roberts,04,Supreme Court Retention,,No,,24
-Roberts,05,Supreme Court Retention,,Yes,,39
-Roberts,05,Supreme Court Retention,,No,,25
-Roberts,06 (Precinct-07),Supreme Court Retention,,Yes,,383
-Roberts,06 (Precinct-07),Supreme Court Retention,,No,,70
-Roberts,08,Supreme Court Retention,,Yes,,313
-Roberts,08,Supreme Court Retention,,No,,75
-Roberts,09,Supreme Court Retention,,Yes,,41
-Roberts,09,Supreme Court Retention,,No,,62
-Roberts,10,Supreme Court Retention,,Yes,,114
-Roberts,10,Supreme Court Retention,,No,,60
-Roberts,11,Supreme Court Retention,,Yes,,481
-Roberts,11,Supreme Court Retention,,No,,170
-Roberts,12 (Precinct-14),Supreme Court Retention,,Yes,,190
-Roberts,12 (Precinct-14),Supreme Court Retention,,No,,79
-Roberts,13,Supreme Court Retention,,Yes,,169
-Roberts,13,Supreme Court Retention,,No,,64
+Roberts,09,State House,04,Kent Roe,REP,258
+Roberts,09,State House,04,Dylan C. Jordan,REP,270
+Roberts,10,State House,01,Steven D. McCleerey,LIB,105
+Roberts,10,State House,01,Mark Sumption,DEM,89
+Roberts,10,State House,01,Josh Dennert,DEM,3
+Roberts,10,State House,01,Tamara Lesnar,LIB,10
+Roberts,10,State House,01,Logan Manhart,REP,62
+Roberts,10,State House,01,Christopher Reder,REP,60
+Roberts,11,State House,01,Steven D. McCleerey,LIB,406
+Roberts,11,State House,01,Mark Sumption,DEM,312
+Roberts,11,State House,01,Josh Dennert,DEM,11
+Roberts,11,State House,01,Tamara Lesnar,LIB,31
+Roberts,11,State House,01,Logan Manhart,REP,292
+Roberts,11,State House,01,Christopher Reder,REP,312
+Roberts,12 (Precinct-14),State House,01,Steven D. McCleerey,LIB,177
+Roberts,12 (Precinct-14),State House,01,Mark Sumption,DEM,133
+Roberts,12 (Precinct-14),State House,01,Josh Dennert,DEM,4
+Roberts,12 (Precinct-14),State House,01,Tamara Lesnar,LIB,19
+Roberts,12 (Precinct-14),State House,01,Logan Manhart,REP,97
+Roberts,12 (Precinct-14),State House,01,Christopher Reder,REP,94
+Roberts,13,State House,01,Steven D. McCleerey,LIB,156
+Roberts,13,State House,01,Mark Sumption,DEM,115
+Roberts,13,State House,01,Josh Dennert,DEM,4
+Roberts,13,State House,01,Tamara Lesnar,LIB,14
+Roberts,13,State House,01,Logan Manhart,REP,88
+Roberts,13,State House,01,Christopher Reder,REP,100
+Roberts,01,Supreme Court Retention,5,Scott P. Myren - Yes,,129
+Roberts,01,Supreme Court Retention,5,Scott P. Myren - No,,19
+Roberts,02,Supreme Court Retention,5,Scott P. Myren - Yes,,385
+Roberts,02,Supreme Court Retention,5,Scott P. Myren - No,,59
+Roberts,03,Supreme Court Retention,5,Scott P. Myren - Yes,,138
+Roberts,03,Supreme Court Retention,5,Scott P. Myren - No,,26
+Roberts,04,Supreme Court Retention,5,Scott P. Myren - Yes,,59
+Roberts,04,Supreme Court Retention,5,Scott P. Myren - No,,24
+Roberts,05,Supreme Court Retention,5,Scott P. Myren - Yes,,242
+Roberts,05,Supreme Court Retention,5,Scott P. Myren - No,,110
+Roberts,06 (Precinct-07),Supreme Court Retention,5,Scott P. Myren - Yes,,398
+Roberts,06 (Precinct-07),Supreme Court Retention,5,Scott P. Myren - No,,75
+Roberts,08,Supreme Court Retention,5,Scott P. Myren - Yes,,83
+Roberts,08,Supreme Court Retention,5,Scott P. Myren - No,,20
+Roberts,09,Supreme Court Retention,5,Scott P. Myren - Yes,,340
+Roberts,09,Supreme Court Retention,5,Scott P. Myren - No,,76
+Roberts,10,Supreme Court Retention,5,Scott P. Myren - Yes,,114
+Roberts,10,Supreme Court Retention,5,Scott P. Myren - No,,60
+Roberts,11,Supreme Court Retention,5,Scott P. Myren - Yes,,481
+Roberts,11,Supreme Court Retention,5,Scott P. Myren - No,,170
+Roberts,12 (Precinct-14),Supreme Court Retention,5,Scott P. Myren - Yes,,190
+Roberts,12 (Precinct-14),Supreme Court Retention,5,Scott P. Myren - No,,79
+Roberts,13,Supreme Court Retention,5,Scott P. Myren - Yes,,169
+Roberts,13,Supreme Court Retention,5,Scott P. Myren - No,,64
+Roberts,01,Constitutional Amendment E,,Yes,,56
+Roberts,02,Constitutional Amendment E,,Yes,,169
+Roberts,03,Constitutional Amendment E,,Yes,,62
+Roberts,04,Constitutional Amendment E,,Yes,,32
+Roberts,05,Constitutional Amendment E,,Yes,,134
+Roberts,06 (Precinct-07),Constitutional Amendment E,,Yes,,180
+Roberts,08,Constitutional Amendment E,,Yes,,39
+Roberts,09,Constitutional Amendment E,,Yes,,158
+Roberts,10,Constitutional Amendment E,,Yes,,66
+Roberts,11,Constitutional Amendment E,,Yes,,248
+Roberts,12 (Precinct-14),Constitutional Amendment E,,Yes,,102
+Roberts,13,Constitutional Amendment E,,Yes,,91
+Roberts,01,Constitutional Amendment E,,No,,116
+Roberts,02,Constitutional Amendment E,,No,,348
+Roberts,03,Constitutional Amendment E,,No,,128
+Roberts,04,Constitutional Amendment E,,No,,65
+Roberts,05,Constitutional Amendment E,,No,,276
+Roberts,06 (Precinct-07),Constitutional Amendment E,,No,,370
+Roberts,08,Constitutional Amendment E,,No,,81
+Roberts,09,Constitutional Amendment E,,No,,326
+Roberts,10,Constitutional Amendment E,,No,,136
+Roberts,11,Constitutional Amendment E,,No,,510
+Roberts,12 (Precinct-14),Constitutional Amendment E,,No,,211
+Roberts,13,Constitutional Amendment E,,No,,181
+Roberts,01,Constitutional Amendment F,,Yes,,89
+Roberts,02,Constitutional Amendment F,,Yes,,268
+Roberts,03,Constitutional Amendment F,,Yes,,99
+Roberts,04,Constitutional Amendment F,,Yes,,50
+Roberts,05,Constitutional Amendment F,,Yes,,212
+Roberts,06 (Precinct-07),Constitutional Amendment F,,Yes,,285
+Roberts,08,Constitutional Amendment F,,Yes,,62
+Roberts,09,Constitutional Amendment F,,Yes,,251
+Roberts,10,Constitutional Amendment F,,Yes,,105
+Roberts,11,Constitutional Amendment F,,Yes,,393
+Roberts,12 (Precinct-14),Constitutional Amendment F,,Yes,,162
+Roberts,13,Constitutional Amendment F,,Yes,,142
+Roberts,01,Constitutional Amendment F,,No,,83
+Roberts,02,Constitutional Amendment F,,No,,248
+Roberts,03,Constitutional Amendment F,,No,,92
+Roberts,04,Constitutional Amendment F,,No,,46
+Roberts,05,Constitutional Amendment F,,No,,197
+Roberts,06 (Precinct-07),Constitutional Amendment F,,No,,264
+Roberts,08,Constitutional Amendment F,,No,,58
+Roberts,09,Constitutional Amendment F,,No,,232
+Roberts,10,Constitutional Amendment F,,No,,97
+Roberts,11,Constitutional Amendment F,,No,,364
+Roberts,12 (Precinct-14),Constitutional Amendment F,,No,,150
+Roberts,13,Constitutional Amendment F,,No,,130
+Roberts,01,Constitutional Amendment G,,Yes,,53
+Roberts,02,Constitutional Amendment G,,Yes,,158
+Roberts,03,Constitutional Amendment G,,Yes,,58
+Roberts,04,Constitutional Amendment G,,Yes,,30
+Roberts,05,Constitutional Amendment G,,Yes,,125
+Roberts,06 (Precinct-07),Constitutional Amendment G,,Yes,,168
+Roberts,08,Constitutional Amendment G,,Yes,,37
+Roberts,09,Constitutional Amendment G,,Yes,,148
+Roberts,10,Constitutional Amendment G,,Yes,,62
+Roberts,11,Constitutional Amendment G,,Yes,,232
+Roberts,12 (Precinct-14),Constitutional Amendment G,,Yes,,96
+Roberts,13,Constitutional Amendment G,,Yes,,83
+Roberts,01,Constitutional Amendment G,,No,,120
+Roberts,02,Constitutional Amendment G,,No,,361
+Roberts,03,Constitutional Amendment G,,No,,133
+Roberts,04,Constitutional Amendment G,,No,,67
+Roberts,05,Constitutional Amendment G,,No,,286
+Roberts,06 (Precinct-07),Constitutional Amendment G,,No,,384
+Roberts,08,Constitutional Amendment G,,No,,84
+Roberts,09,Constitutional Amendment G,,No,,338
+Roberts,10,Constitutional Amendment G,,No,,141
+Roberts,11,Constitutional Amendment G,,No,,529
+Roberts,12 (Precinct-14),Constitutional Amendment G,,No,,218
+Roberts,13,Constitutional Amendment G,,No,,189
+Roberts,01,Constitutional Amendment H,,Yes,,45
+Roberts,02,Constitutional Amendment H,,Yes,,134
+Roberts,03,Constitutional Amendment H,,Yes,,50
+Roberts,04,Constitutional Amendment H,,Yes,,25
+Roberts,05,Constitutional Amendment H,,Yes,,107
+Roberts,06 (Precinct-07),Constitutional Amendment H,,Yes,,143
+Roberts,08,Constitutional Amendment H,,Yes,,31
+Roberts,09,Constitutional Amendment H,,Yes,,126
+Roberts,10,Constitutional Amendment H,,Yes,,53
+Roberts,11,Constitutional Amendment H,,Yes,,197
+Roberts,12 (Precinct-14),Constitutional Amendment H,,Yes,,81
+Roberts,13,Constitutional Amendment H,,Yes,,70
+Roberts,01,Constitutional Amendment H,,No,,124
+Roberts,02,Constitutional Amendment H,,No,,371
+Roberts,03,Constitutional Amendment H,,No,,137
+Roberts,04,Constitutional Amendment H,,No,,69
+Roberts,05,Constitutional Amendment H,,No,,294
+Roberts,06 (Precinct-07),Constitutional Amendment H,,No,,396
+Roberts,08,Constitutional Amendment H,,No,,86
+Roberts,09,Constitutional Amendment H,,No,,348
+Roberts,10,Constitutional Amendment H,,No,,145
+Roberts,11,Constitutional Amendment H,,No,,544
+Roberts,12 (Precinct-14),Constitutional Amendment H,,No,,225
+Roberts,13,Constitutional Amendment H,,No,,196
+Roberts,01,Initiated Measure 28,,Yes,,60
+Roberts,02,Initiated Measure 28,,Yes,,181
+Roberts,03,Initiated Measure 28,,Yes,,67
+Roberts,04,Initiated Measure 28,,Yes,,34
+Roberts,05,Initiated Measure 28,,Yes,,143
+Roberts,06 (Precinct-07),Initiated Measure 28,,Yes,,192
+Roberts,08,Initiated Measure 28,,Yes,,42
+Roberts,09,Initiated Measure 28,,Yes,,169
+Roberts,10,Initiated Measure 28,,Yes,,71
+Roberts,11,Initiated Measure 28,,Yes,,265
+Roberts,12 (Precinct-14),Initiated Measure 28,,Yes,,109
+Roberts,13,Initiated Measure 28,,Yes,,94
+Roberts,01,Initiated Measure 28,,No,,111
+Roberts,02,Initiated Measure 28,,No,,334
+Roberts,03,Initiated Measure 28,,No,,123
+Roberts,04,Initiated Measure 28,,No,,62
+Roberts,05,Initiated Measure 28,,No,,265
+Roberts,06 (Precinct-07),Initiated Measure 28,,No,,356
+Roberts,08,Initiated Measure 28,,No,,77
+Roberts,09,Initiated Measure 28,,No,,313
+Roberts,10,Initiated Measure 28,,No,,131
+Roberts,11,Initiated Measure 28,,No,,490
+Roberts,12 (Precinct-14),Initiated Measure 28,,No,,202
+Roberts,13,Initiated Measure 28,,No,,177
+Roberts,01,Initiated Measure 29,,Yes,,67
+Roberts,02,Initiated Measure 29,,Yes,,200
+Roberts,03,Initiated Measure 29,,Yes,,74
+Roberts,04,Initiated Measure 29,,Yes,,37
+Roberts,05,Initiated Measure 29,,Yes,,158
+Roberts,06 (Precinct-07),Initiated Measure 29,,Yes,,213
+Roberts,08,Initiated Measure 29,,Yes,,46
+Roberts,09,Initiated Measure 29,,Yes,,187
+Roberts,10,Initiated Measure 29,,Yes,,78
+Roberts,11,Initiated Measure 29,,Yes,,293
+Roberts,12 (Precinct-14),Initiated Measure 29,,Yes,,121
+Roberts,13,Initiated Measure 29,,Yes,,106
+Roberts,01,Initiated Measure 29,,No,,106
+Roberts,02,Initiated Measure 29,,No,,318
+Roberts,03,Initiated Measure 29,,No,,118
+Roberts,04,Initiated Measure 29,,No,,59
+Roberts,05,Initiated Measure 29,,No,,252
+Roberts,06 (Precinct-07),Initiated Measure 29,,No,,339
+Roberts,08,Initiated Measure 29,,No,,74
+Roberts,09,Initiated Measure 29,,No,,298
+Roberts,10,Initiated Measure 29,,No,,125
+Roberts,11,Initiated Measure 29,,No,,466
+Roberts,12 (Precinct-14),Initiated Measure 29,,No,,193
+Roberts,13,Initiated Measure 29,,No,,167
+Roberts,01,Referred Law 21,,Yes,,62
+Roberts,02,Referred Law 21,,Yes,,186
+Roberts,03,Referred Law 21,,Yes,,69
+Roberts,04,Referred Law 21,,Yes,,35
+Roberts,05,Referred Law 21,,Yes,,147
+Roberts,06 (Precinct-07),Referred Law 21,,Yes,,198
+Roberts,08,Referred Law 21,,Yes,,43
+Roberts,09,Referred Law 21,,Yes,,174
+Roberts,10,Referred Law 21,,Yes,,73
+Roberts,11,Referred Law 21,,Yes,,272
+Roberts,12 (Precinct-14),Referred Law 21,,Yes,,112
+Roberts,13,Referred Law 21,,Yes,,96
+Roberts,01,Referred Law 21,,No,,107
+Roberts,02,Referred Law 21,,No,,321
+Roberts,03,Referred Law 21,,No,,118
+Roberts,04,Referred Law 21,,No,,60
+Roberts,05,Referred Law 21,,No,,254
+Roberts,06 (Precinct-07),Referred Law 21,,No,,342
+Roberts,08,Referred Law 21,,No,,74
+Roberts,09,Referred Law 21,,No,,301
+Roberts,10,Referred Law 21,,No,,126
+Roberts,11,Referred Law 21,,No,,470
+Roberts,12 (Precinct-14),Referred Law 21,,No,,194
+Roberts,13,Referred Law 21,,No,,169

@@ -1,16 +1,16 @@
 county,precinct,office,district,candidate,party,votes
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota College,President,,Kamala D. Harris and Tim Walz,DEM,97
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota College,President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota College,President,,Donald J. Trump and JD Vance,REP,47
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota College,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Oglala Lakota,Brother Rene Hall,President,,Kamala D. Harris and Tim Walz,DEM,424
-Oglala Lakota,Brother Rene Hall,President,,Chase Oliver and Mike ter Maat,LIB,3
-Oglala Lakota,Brother Rene Hall,President,,Donald J. Trump and JD Vance,REP,46
-Oglala Lakota,Brother Rene Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
-Oglala Lakota,"Christ the King Parish, Bill Pauly Hall",President,,Kamala D. Harris and Tim Walz,DEM,362
-Oglala Lakota,"Christ the King Parish, Bill Pauly Hall",President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,"Christ the King Parish, Bill Pauly Hall",President,,Donald J. Trump and JD Vance,REP,45
-Oglala Lakota,"Christ the King Parish, Bill Pauly Hall",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Kamala D. Harris and Tim Walz,DEM,97
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Chase Oliver and Mike ter Maat,LIB,1
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Donald J. Trump and JD Vance,REP,47
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Oglala Lakota,Brother Renee Hall,President,,Kamala D. Harris and Tim Walz,DEM,424
+Oglala Lakota,Brother Renee Hall,President,,Chase Oliver and Mike ter Maat,LIB,3
+Oglala Lakota,Brother Renee Hall,President,,Donald J. Trump and JD Vance,REP,46
+Oglala Lakota,Brother Renee Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Kamala D. Harris and Tim Walz,DEM,362
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Chase Oliver and Mike ter Maat,LIB,1
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Donald J. Trump and JD Vance,REP,45
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
 Oglala Lakota,Little Wound School,President,,Kamala D. Harris and Tim Walz,DEM,395
 Oglala Lakota,Little Wound School,President,,Chase Oliver and Mike ter Maat,LIB,3
 Oglala Lakota,Little Wound School,President,,Donald J. Trump and JD Vance,REP,55
@@ -23,26 +23,14 @@ Oglala Lakota,Sacred Heart Church Hall,President,,Kamala D. Harris and Tim Walz,
 Oglala Lakota,Sacred Heart Church Hall,President,,Chase Oliver and Mike ter Maat,LIB,7
 Oglala Lakota,Sacred Heart Church Hall,President,,Donald J. Trump and JD Vance,REP,140
 Oglala Lakota,Sacred Heart Church Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
-Oglala Lakota,Wakan Tiospaye #12,President,,Kamala D. Harris and Tim Walz,DEM,79
-Oglala Lakota,Wakan Tiospaye #12,President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,Wakan Tiospaye #12,President,,Donald J. Trump and JD Vance,REP,27
-Oglala Lakota,Wakan Tiospaye #12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
-Oglala Lakota,Wounded Knee District School,President,,Kamala D. Harris and Tim Walz,DEM,208
-Oglala Lakota,Wounded Knee District School,President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,Wounded Knee District School,President,,Donald J. Trump and JD Vance,REP,25
-Oglala Lakota,Wounded Knee District School,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Kamala D. Harris and Tim Walz,DEM,97
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,Donald J. Trump and JD Vance,REP,47
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Kamala D. Harris and Tim Walz,DEM,362
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,Donald J. Trump and JD Vance,REP,45
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
-Oglala Lakota,Wound Knee District School,President,,Kamala D. Harris and Tim Walz,DEM,208
-Oglala Lakota,Wound Knee District School,President,,Chase Oliver and Mike ter Maat,LIB,1
-Oglala Lakota,Wound Knee District School,President,,Donald J. Trump and JD Vance,REP,25
-Oglala Lakota,Wound Knee District School,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Oglala Lakota,Wakan Tiospaye #12 Community Building,President,,Kamala D. Harris and Tim Walz,DEM,79
+Oglala Lakota,Wakan Tiospaye #12 Community Building,President,,Chase Oliver and Mike ter Maat,LIB,1
+Oglala Lakota,Wakan Tiospaye #12 Community Building,President,,Donald J. Trump and JD Vance,REP,27
+Oglala Lakota,Wakan Tiospaye #12 Community Building,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Oglala Lakota,Wound Knee District School Gym,President,,Kamala D. Harris and Tim Walz,DEM,208
+Oglala Lakota,Wound Knee District School Gym,President,,Chase Oliver and Mike ter Maat,LIB,1
+Oglala Lakota,Wound Knee District School Gym,President,,Donald J. Trump and JD Vance,REP,25
+Oglala Lakota,Wound Knee District School Gym,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,U.S. House,1,Sheryl Johnson,DEM,87
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,U.S. House,1,Dusty Johnson,REP,59
 Oglala Lakota,Brother Renee Hall,U.S. House,1,Sheryl Johnson,DEM,362
@@ -85,8 +73,8 @@ Oglala Lakota,Wound Knee District School Gym,Public Utilities Commissioner,,A. G
 Oglala Lakota,Wound Knee District School Gym,Public Utilities Commissioner,,Kristie Fiegen,REP,22
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State Senate,27,Red Dawn Foster,DEM,103
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State Senate,27,Anthony G. Kathol,REP,42
-Oglala Lakota,Brother Rene Hall,State Senate,27,Red Dawn Foster,DEM,443
-Oglala Lakota,Brother Rene Hall,State Senate,27,Anthony G. Kathol,REP,43
+Oglala Lakota,Brother Renee Hall,State Senate,27,Red Dawn Foster,DEM,443
+Oglala Lakota,Brother Renee Hall,State Senate,27,Anthony G. Kathol,REP,43
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State Senate,27,Red Dawn Foster,DEM,380
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State Senate,27,Anthony G. Kathol,REP,39
 Oglala Lakota,Little Wound School,State Senate,27,Red Dawn Foster,DEM,410
@@ -95,169 +83,126 @@ Oglala Lakota,Red Shirt School,State Senate,27,Red Dawn Foster,DEM,61
 Oglala Lakota,Red Shirt School,State Senate,27,Anthony G. Kathol,REP,21
 Oglala Lakota,Sacred Heart Church Hall,State Senate,27,Red Dawn Foster,DEM,1002
 Oglala Lakota,Sacred Heart Church Hall,State Senate,27,Anthony G. Kathol,REP,115
-Oglala Lakota,Makan Isna Oye #12 Community Building,State Senate,27,Red Dawn Foster,DEM,86
-Oglala Lakota,Makan Isna Oye #12 Community Building,State Senate,27,Anthony G. Kathol,REP,25
-Oglala Lakota,Wounded Knee District School Gym,State Senate,27,Red Dawn Foster,DEM,232
-Oglala Lakota,Wounded Knee District School Gym,State Senate,27,Anthony G. Kathol,REP,16
-Oglala Lakota,Brother Renee Hall,State Senate,27,Red Dawn Foster,DEM,443
-Oglala Lakota,Brother Renee Hall,State Senate,27,Anthony G. Kathol,REP,43
 Oglala Lakota,Wakan Tiospaye #12 Community Building,State Senate,27,Red Dawn Foster,DEM,86
 Oglala Lakota,Wakan Tiospaye #12 Community Building,State Senate,27,Anthony G. Kathol,REP,25
 Oglala Lakota,Wound Knee District School Gym,State Senate,27,Red Dawn Foster,DEM,232
 Oglala Lakota,Wound Knee District School Gym,State Senate,27,Anthony G. Kathol,REP,16
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State House,27,Peri Pourier,DEM,98
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State House,27,Peri Pourier,REP,98
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State House,27,Elsie Meeks,DEM,75
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State House,27,Liz May,REP,48
-Oglala Lakota,Brother Renee Hall,State House,27,Peri Pourier,DEM,389
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,State House,27,Liz May,DEM,48
+Oglala Lakota,Brother Renee Hall,State House,27,Peri Pourier,REP,389
 Oglala Lakota,Brother Renee Hall,State House,27,Elsie Meeks,DEM,241
-Oglala Lakota,Brother Renee Hall,State House,27,Liz May,REP,55
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State House,27,Peri Pourier,DEM,349
+Oglala Lakota,Brother Renee Hall,State House,27,Liz May,DEM,55
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State House,27,Peri Pourier,REP,349
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State House,27,Elsie Meeks,DEM,238
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State House,27,Liz May,REP,67
-Oglala Lakota,Little Wound School,State House,27,Peri Pourier,DEM,362
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",State House,27,Liz May,DEM,67
+Oglala Lakota,Little Wound School,State House,27,Peri Pourier,REP,362
 Oglala Lakota,Little Wound School,State House,27,Elsie Meeks,DEM,268
-Oglala Lakota,Little Wound School,State House,27,Liz May,REP,94
-Oglala Lakota,Red Shirt School,State House,27,Peri Pourier,DEM,59
+Oglala Lakota,Little Wound School,State House,27,Liz May,DEM,94
+Oglala Lakota,Red Shirt School,State House,27,Peri Pourier,REP,59
 Oglala Lakota,Red Shirt School,State House,27,Elsie Meeks,DEM,38
-Oglala Lakota,Red Shirt School,State House,27,Liz May,REP,22
-Oglala Lakota,Sacred Heart Church Hall,State House,27,Peri Pourier,DEM,939
+Oglala Lakota,Red Shirt School,State House,27,Liz May,DEM,22
+Oglala Lakota,Sacred Heart Church Hall,State House,27,Peri Pourier,REP,939
 Oglala Lakota,Sacred Heart Church Hall,State House,27,Elsie Meeks,DEM,596
-Oglala Lakota,Sacred Heart Church Hall,State House,27,Liz May,REP,133
-Oglala Lakota,Wakan Tiospaye #12 Community Building,State House,27,Peri Pourier,DEM,76
+Oglala Lakota,Sacred Heart Church Hall,State House,27,Liz May,DEM,133
+Oglala Lakota,Wakan Tiospaye #12 Community Building,State House,27,Peri Pourier,REP,76
 Oglala Lakota,Wakan Tiospaye #12 Community Building,State House,27,Elsie Meeks,DEM,65
-Oglala Lakota,Wakan Tiospaye #12 Community Building,State House,27,Liz May,REP,25
-Oglala Lakota,Wound Knee District School Gym,State House,27,Peri Pourier,DEM,216
+Oglala Lakota,Wakan Tiospaye #12 Community Building,State House,27,Liz May,DEM,25
+Oglala Lakota,Wound Knee District School Gym,State House,27,Peri Pourier,REP,216
 Oglala Lakota,Wound Knee District School Gym,State House,27,Elsie Meeks,DEM,133
-Oglala Lakota,Wound Knee District School Gym,State House,27,Liz May,REP,31
-Oglala Lakota,Brother Rene Hall,State House,27,Peri Pourier,DEM,389
-Oglala Lakota,Brother Rene Hall,State House,27,Elsie Meeks,DEM,241
-Oglala Lakota,Brother Rene Hall,State House,27,Liz May,REP,55
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,,Yes,,70
-Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,,No,,52
-Oglala Lakota,Brother Rene Hall,Supreme Court Retention,,Yes,,226
-Oglala Lakota,Brother Rene Hall,Supreme Court Retention,,No,,217
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,,Yes,,171
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,,No,,200
-Oglala Lakota,Little Wound School,Supreme Court Retention,,Yes,,195
-Oglala Lakota,Little Wound School,Supreme Court Retention,,No,,209
-Oglala Lakota,Red Shirt School,Supreme Court Retention,,Yes,,36
-Oglala Lakota,Red Shirt School,Supreme Court Retention,,No,,31
-Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,,Yes,,478
-Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,,No,,492
-Oglala Lakota,Wakan Tiospaye #12 Community Building,Supreme Court Retention,,Yes,,48
-Oglala Lakota,Wakan Tiospaye #12 Community Building,Supreme Court Retention,,No,,48
-Oglala Lakota,Wound Knee District School Gym,Supreme Court Retention,,Yes,,89
-Oglala Lakota,Wound Knee District School Gym,Supreme Court Retention,,No,,128
-Oglala Lakota,Bill Conquering Bear,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,70
-Oglala Lakota,Bill Conquering Bear,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,52
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,226
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,217
-Oglala Lakota,Brother Rene Hall,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,171
-Oglala Lakota,Brother Rene Hall,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,200
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,195
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,209
-Oglala Lakota,Little Wound School,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,195
-Oglala Lakota,Little Wound School,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,209
-Oglala Lakota,Red Shirt School,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,28
-Oglala Lakota,Red Shirt School,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,31
-Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,478
-Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,492
-Oglala Lakota,Wakan Tiospaye #12,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,48
-Oglala Lakota,Wakan Tiospaye #12,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,48
-Oglala Lakota,Community Building,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,YES,89
-Oglala Lakota,Community Building,Supreme Court Retention,,Shall Justice Scott P. Myren be retained?,NO,128
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,80
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,60
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,66
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,79
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,93
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,53
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,71
-Oglala Lakota,Bill Conquering Bear,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,70
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,271
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,209
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,198
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,284
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,320
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,158
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,235
-Oglala Lakota,Gymnasium/Oglala Lakota County Schools,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,232
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,248
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,161
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,167
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,242
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,280
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,134
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,212
-Oglala Lakota,Brother Rene Hall,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,181
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,255
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,192
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,151
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,299
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,315
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,134
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,199
-Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,232
-Oglala Lakota,Little Wound School,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,48
-Oglala Lakota,Little Wound School,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,35
-Oglala Lakota,Little Wound School,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,35
-Oglala Lakota,Little Wound School,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,52
-Oglala Lakota,Little Wound School,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,35
-Oglala Lakota,Little Wound School,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,48
-Oglala Lakota,Little Wound School,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,32
-Oglala Lakota,Little Wound School,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,32
-Oglala Lakota,Red Shirt School,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,48
-Oglala Lakota,Red Shirt School,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,30
-Oglala Lakota,Red Shirt School,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,442
-Oglala Lakota,Red Shirt School,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,647
-Oglala Lakota,Red Shirt School,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,739
-Oglala Lakota,Red Shirt School,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,345
-Oglala Lakota,Red Shirt School,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,543
-Oglala Lakota,Red Shirt School,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,514
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,63
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,46
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,52
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,57
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,38
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,49
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,51
-Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,51
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,122
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,115
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,77
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,162
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,146
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,92
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,108
-Oglala Lakota,Wakan Tiospaye #12,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,128
-Oglala Lakota,Community Building,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,677
-Oglala Lakota,Community Building,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,409
-Oglala Lakota,Community Building,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,447
-Oglala Lakota,Community Building,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,647
-Oglala Lakota,Community Building,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,739
-Oglala Lakota,Community Building,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,345
-Oglala Lakota,Community Building,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,543
-Oglala Lakota,Community Building,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,514
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,YES,63
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders and Persons,NO,46
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,YES,52
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on Individuals Eligible for Expanded Medicaid Benefits,NO,57
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,38
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,49
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,51
-Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,51
+Oglala Lakota,Wound Knee District School Gym,State House,27,Liz May,DEM,31
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,5,Scott P. Myren - Yes,,70
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Supreme Court Retention,5,Scott P. Myren - No,,52
+Oglala Lakota,Brother Renee Hall,Supreme Court Retention,5,Scott P. Myren - Yes,,226
+Oglala Lakota,Brother Renee Hall,Supreme Court Retention,5,Scott P. Myren - No,,217
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,5,Scott P. Myren - Yes,,171
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Supreme Court Retention,5,Scott P. Myren - No,,200
+Oglala Lakota,Little Wound School,Supreme Court Retention,5,Scott P. Myren - Yes,,195
+Oglala Lakota,Little Wound School,Supreme Court Retention,5,Scott P. Myren - No,,209
+Oglala Lakota,Red Shirt School,Supreme Court Retention,5,Scott P. Myren - Yes,,38
+Oglala Lakota,Red Shirt School,Supreme Court Retention,5,Scott P. Myren - No,,31
+Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,5,Scott P. Myren - Yes,,478
+Oglala Lakota,Sacred Heart Church Hall,Supreme Court Retention,5,Scott P. Myren - No,,492
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Supreme Court Retention,5,Scott P. Myren - Yes,,48
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Supreme Court Retention,5,Scott P. Myren - No,,48
+Oglala Lakota,Wound Knee District School Gym,Supreme Court Retention,5,Scott P. Myren - Yes,,89
+Oglala Lakota,Wound Knee District School Gym,Supreme Court Retention,5,Scott P. Myren - No,,128
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment E,,Yes,,80
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment E,,No,,60
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment F,,Yes,,66
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment F,,No,,79
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment G,,Yes,,93
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment G,,No,,53
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment H,,Yes,,71
+Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Constitutional Amendment H,,No,,70
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment E,,Yes,,271
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment E,,No,,209
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment F,,Yes,,198
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment F,,No,,284
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment G,,Yes,,320
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment G,,No,,158
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment H,,Yes,,235
+Oglala Lakota,Brother Renee Hall,Constitutional Amendment H,,No,,232
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment E,,Yes,,248
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment E,,No,,161
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment F,,Yes,,167
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment F,,No,,242
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment G,,Yes,,280
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment G,,No,,134
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment H,,Yes,,212
+Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Constitutional Amendment H,,No,,181
+Oglala Lakota,Little Wound School,Constitutional Amendment E,,Yes,,255
+Oglala Lakota,Little Wound School,Constitutional Amendment E,,No,,192
+Oglala Lakota,Little Wound School,Constitutional Amendment F,,Yes,,151
+Oglala Lakota,Little Wound School,Constitutional Amendment F,,No,,299
+Oglala Lakota,Little Wound School,Constitutional Amendment G,,Yes,,315
+Oglala Lakota,Little Wound School,Constitutional Amendment G,,No,,134
+Oglala Lakota,Little Wound School,Constitutional Amendment H,,Yes,,199
+Oglala Lakota,Little Wound School,Constitutional Amendment H,,No,,232
+Oglala Lakota,Red Shirt School,Constitutional Amendment E,,Yes,,48
+Oglala Lakota,Red Shirt School,Constitutional Amendment E,,No,,30
+Oglala Lakota,Red Shirt School,Constitutional Amendment F,,Yes,,35
+Oglala Lakota,Red Shirt School,Constitutional Amendment F,,No,,46
+Oglala Lakota,Red Shirt School,Constitutional Amendment G,,Yes,,55
+Oglala Lakota,Red Shirt School,Constitutional Amendment G,,No,,26
+Oglala Lakota,Red Shirt School,Constitutional Amendment H,,Yes,,48
+Oglala Lakota,Red Shirt School,Constitutional Amendment H,,No,,32
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment E,,Yes,,677
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment E,,No,,409
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment F,,Yes,,447
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment F,,No,,647
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment G,,Yes,,739
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment G,,No,,345
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment H,,Yes,,543
+Oglala Lakota,Sacred Heart Church Hall,Constitutional Amendment H,,No,,514
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment E,,Yes,,63
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment E,,No,,46
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment F,,Yes,,52
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment F,,No,,57
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment G,,Yes,,72
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment G,,No,,38
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment H,,Yes,,49
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Constitutional Amendment H,,No,,51
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment E,,Yes,,122
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment E,,No,,115
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment F,,Yes,,77
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment F,,No,,162
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment G,,Yes,,146
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment G,,No,,92
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment H,,Yes,,108
+Oglala Lakota,Wound Knee District School Gym,Constitutional Amendment H,,No,,128
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Initiated Measure 28,,Yes,,79
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Initiated Measure 28,,No,,64
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Initiated Measure 29,,Yes,,95
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Initiated Measure 29,,No,,52
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Referred Law 21,,Yes,,71
 Oglala Lakota,Bill Conquering Bear Gymnasium/Oglala Lakota County Schools,Referred Law 21,,No,,71
-Oglala Lakota,Brother Rene Hall,Initiated Measure 28,,Yes,,280
-Oglala Lakota,Brother Rene Hall,Initiated Measure 28,,No,,196
-Oglala Lakota,Brother Rene Hall,Initiated Measure 29,,Yes,,334
-Oglala Lakota,Brother Rene Hall,Initiated Measure 29,,No,,143
-Oglala Lakota,Brother Rene Hall,Referred Law 21,,Yes,,238
-Oglala Lakota,Brother Rene Hall,Referred Law 21,,No,,235
+Oglala Lakota,Brother Renee Hall,Initiated Measure 28,,Yes,,280
+Oglala Lakota,Brother Renee Hall,Initiated Measure 28,,No,,196
+Oglala Lakota,Brother Renee Hall,Initiated Measure 29,,Yes,,334
+Oglala Lakota,Brother Renee Hall,Initiated Measure 29,,No,,143
+Oglala Lakota,Brother Renee Hall,Referred Law 21,,Yes,,238
+Oglala Lakota,Brother Renee Hall,Referred Law 21,,No,,235
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Initiated Measure 28,,Yes,,241
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Initiated Measure 28,,No,,157
 Oglala Lakota,"Christ The King Parish, Bill Pauly Hall",Initiated Measure 29,,Yes,,269
@@ -270,10 +215,10 @@ Oglala Lakota,Little Wound School,Initiated Measure 29,,Yes,,326
 Oglala Lakota,Little Wound School,Initiated Measure 29,,No,,121
 Oglala Lakota,Little Wound School,Referred Law 21,,Yes,,190
 Oglala Lakota,Little Wound School,Referred Law 21,,No,,253
-Oglala Lakota,Red Shirt School,Initiated Measure 28,,Yes,,48
-Oglala Lakota,Red Shirt School,Initiated Measure 28,,No,,30
-Oglala Lakota,Red Shirt School,Initiated Measure 29,,Yes,,21
-Oglala Lakota,Red Shirt School,Initiated Measure 29,,No,,48
+Oglala Lakota,Red Shirt School,Initiated Measure 28,,Yes,,49
+Oglala Lakota,Red Shirt School,Initiated Measure 28,,No,,32
+Oglala Lakota,Red Shirt School,Initiated Measure 29,,Yes,,60
+Oglala Lakota,Red Shirt School,Initiated Measure 29,,No,,21
 Oglala Lakota,Red Shirt School,Referred Law 21,,Yes,,48
 Oglala Lakota,Red Shirt School,Referred Law 21,,No,,32
 Oglala Lakota,Sacred Heart Church Hall,Initiated Measure 28,,Yes,,697
@@ -282,15 +227,15 @@ Oglala Lakota,Sacred Heart Church Hall,Initiated Measure 29,,Yes,,829
 Oglala Lakota,Sacred Heart Church Hall,Initiated Measure 29,,No,,249
 Oglala Lakota,Sacred Heart Church Hall,Referred Law 21,,Yes,,545
 Oglala Lakota,Sacred Heart Church Hall,Referred Law 21,,No,,514
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Initiated Measure 28,,Yes,,56
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Initiated Measure 28,,No,,30
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Initiated Measure 29,,Yes,,75
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Initiated Measure 29,,No,,32
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Referred Law 21,,Yes,,56
-Oglala Lakota,Wakpamni Tiospaye #12 Community Building,Referred Law 21,,No,,46
-Oglala Lakota,Wounded Knee District School Gym,Initiated Measure 28,,Yes,,139
-Oglala Lakota,Wounded Knee District School Gym,Initiated Measure 28,,No,,102
-Oglala Lakota,Wounded Knee District School Gym,Initiated Measure 29,,Yes,,189
-Oglala Lakota,Wounded Knee District School Gym,Initiated Measure 29,,No,,54
-Oglala Lakota,Wounded Knee District School Gym,Referred Law 21,,Yes,,116
-Oglala Lakota,Wounded Knee District School Gym,Referred Law 21,,No,,123
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Initiated Measure 28,,Yes,,56
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Initiated Measure 28,,No,,50
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Initiated Measure 29,,Yes,,75
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Initiated Measure 29,,No,,32
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Referred Law 21,,Yes,,56
+Oglala Lakota,Wakan Tiospaye #12 Community Building,Referred Law 21,,No,,46
+Oglala Lakota,Wound Knee District School Gym,Initiated Measure 28,,Yes,,139
+Oglala Lakota,Wound Knee District School Gym,Initiated Measure 28,,No,,102
+Oglala Lakota,Wound Knee District School Gym,Initiated Measure 29,,Yes,,189
+Oglala Lakota,Wound Knee District School Gym,Initiated Measure 29,,No,,54
+Oglala Lakota,Wound Knee District School Gym,Referred Law 21,,Yes,,116
+Oglala Lakota,Wound Knee District School Gym,Referred Law 21,,No,,123

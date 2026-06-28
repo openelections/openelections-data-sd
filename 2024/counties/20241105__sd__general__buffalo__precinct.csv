@@ -1,0 +1,30 @@
+county,precinct,office,district,candidate,party,votes
+Buffalo,Precinct-01,President,,Kamala D. Harris and Tim Walz,DEM,291
+Buffalo,Precinct-01,President,,Chase Oliver and Mike ter Maat,LIB,2
+Buffalo,Precinct-01,President,,Donald J. Trump and JD Vance,REP,164
+Buffalo,Precinct-01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Buffalo,Precinct-01,U.S. House,1,,DEM,240
+Buffalo,Precinct-01,U.S. House,1,,REP,217
+Buffalo,Precinct-01,Public Utilities Commissioner,,Forrest Wilson,DEM,261
+Buffalo,Precinct-01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
+Buffalo,Precinct-01,Public Utilities Commissioner,,Kristie Fiegen,REP,166
+Buffalo,Precinct-01,State Senate,26,Shawn Bordeaux,DEM,304
+Buffalo,Precinct-01,State Senate,26,Tamara Grove,REP,153
+Buffalo,Precinct-01,State House,26B,David Reis,IND,259
+Buffalo,Precinct-01,State House,26B,Rebecca Reimer,REP,147
+Buffalo,Precinct-01,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,242
+Buffalo,Precinct-01,Supreme Court Retention,5,Justice Scott P. Myren - No,,151
+Buffalo,Precinct-01,Constitutional Amendment E,,Yes,,162
+Buffalo,Precinct-01,Constitutional Amendment E,,No,,287
+Buffalo,Precinct-01,Constitutional Amendment F,,Yes,,205
+Buffalo,Precinct-01,Constitutional Amendment F,,No,,249
+Buffalo,Precinct-01,Constitutional Amendment G,,Yes,,225
+Buffalo,Precinct-01,Constitutional Amendment G,,No,,231
+Buffalo,Precinct-01,Constitutional Amendment H,,Yes,,162
+Buffalo,Precinct-01,Constitutional Amendment H,,No,,277
+Buffalo,Precinct-01,Initiated Measure 28,,Yes,,170
+Buffalo,Precinct-01,Initiated Measure 28,,No,,272
+Buffalo,Precinct-01,Initiated Measure 29,,Yes,,254
+Buffalo,Precinct-01,Initiated Measure 29,,No,,201
+Buffalo,Precinct-01,Referred Law 21,,Yes,,143
+Buffalo,Precinct-01,Referred Law 21,,No,,301

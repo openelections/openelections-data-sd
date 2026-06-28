@@ -1,96 +1,187 @@
 county,precinct,office,district,candidate,party,votes
-Kingsbury,Arlington Precinct,President,,Kamala D. Harris and Tim Walz,DEM,77
-Kingsbury,Badger Precinct,President,,Kamala D. Harris and Tim Walz,DEM,66
-Kingsbury,De Smet Precinct,President,,Kamala D. Harris and Tim Walz,DEM,221
-Kingsbury,Iroquois Precinct,President,,Kamala D. Harris and Tim Walz,DEM,125
-Kingsbury,Lake Preston Precinct,President,,Kamala D. Harris and Tim Walz,DEM,84
-Kingsbury,Matoon Precinct,President,,Kamala D. Harris and Tim Walz,DEM,91
-Kingsbury,Osceola Precinct,President,,Kamala D. Harris and Tim Walz,DEM,98
-Kingsbury,Presho Precinct,President,,Kamala D. Harris and Tim Walz,DEM,73
-Kingsbury,Arlington Precinct,President,,Chase Oliver and Jeffry Miller,LIB,2
-Kingsbury,Badger Precinct,President,,Chase Oliver and Jeffry Miller,LIB,1
-Kingsbury,De Smet Precinct,President,,Chase Oliver and Jeffry Miller,LIB,5
-Kingsbury,Iroquois Precinct,President,,Chase Oliver and Jeffry Miller,LIB,1
-Kingsbury,Lake Preston Precinct,President,,Chase Oliver and Jeffry Miller,LIB,1
-Kingsbury,Matoon Precinct,President,,Chase Oliver and Jeffry Miller,LIB,3
-Kingsbury,Osceola Precinct,President,,Chase Oliver and Jeffry Miller,LIB,0
-Kingsbury,Presho Precinct,President,,Chase Oliver and Jeffry Miller,LIB,1
-Kingsbury,Arlington Precinct,President,,Donald J. Trump and J. D. Vance,REP,240
-Kingsbury,Badger Precinct,President,,Donald J. Trump and J. D. Vance,REP,131
-Kingsbury,De Smet Precinct,President,,Donald J. Trump and J. D. Vance,REP,505
-Kingsbury,Iroquois Precinct,President,,Donald J. Trump and J. D. Vance,REP,224
-Kingsbury,Lake Preston Precinct,President,,Donald J. Trump and J. D. Vance,REP,180
-Kingsbury,Matoon Precinct,President,,Donald J. Trump and J. D. Vance,REP,191
-Kingsbury,Osceola Precinct,President,,Donald J. Trump and J. D. Vance,REP,254
-Kingsbury,Presho Precinct,President,,Donald J. Trump and J. D. Vance,REP,174
-Kingsbury,Arlington Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,3
-Kingsbury,Badger Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,2
-Kingsbury,De Smet Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,4
-Kingsbury,Iroquois Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,2
-Kingsbury,Lake Preston Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,1
-Kingsbury,Matoon Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,0
-Kingsbury,Osceola Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,1
-Kingsbury,Presho Precinct,President,,"Robert F. Kennedy, Jr. and Noelle Shanahan",IND,5
-Kingsbury,Arlington Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,71
-Kingsbury,Badger Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,62
-Kingsbury,De Smet Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,193
-Kingsbury,Iroquois Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,120
-Kingsbury,Lake Preston Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,83
-Kingsbury,Matoon Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,69
-Kingsbury,Osceola Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,114
-Kingsbury,Presho Precinct,U.S. House,1,Stephanie Herseth Sandlin,DEM,56
-Kingsbury,Arlington Precinct,U.S. House,1,Dusty Johnson,REP,251
-Kingsbury,Badger Precinct,U.S. House,1,Dusty Johnson,REP,136
-Kingsbury,De Smet Precinct,U.S. House,1,Dusty Johnson,REP,470
-Kingsbury,Iroquois Precinct,U.S. House,1,Dusty Johnson,REP,228
-Kingsbury,Lake Preston Precinct,U.S. House,1,Dusty Johnson,REP,184
-Kingsbury,Matoon Precinct,U.S. House,1,Dusty Johnson,REP,184
-Kingsbury,Osceola Precinct,U.S. House,1,Dusty Johnson,REP,240
-Kingsbury,Presho Precinct,U.S. House,1,Dusty Johnson,REP,220
-Kingsbury,Arlington Precinct,U.S. House,1,Elaine G. Robinson,LIB,2
-Kingsbury,Badger Precinct,U.S. House,1,Elaine G. Robinson,LIB,2
-Kingsbury,De Smet Precinct,U.S. House,1,Elaine G. Robinson,LIB,5
-Kingsbury,Iroquois Precinct,U.S. House,1,Elaine G. Robinson,LIB,0
-Kingsbury,Lake Preston Precinct,U.S. House,1,Elaine G. Robinson,LIB,0
-Kingsbury,Matoon Precinct,U.S. House,1,Elaine G. Robinson,LIB,0
-Kingsbury,Osceola Precinct,U.S. House,1,Elaine G. Robinson,LIB,4
-Kingsbury,Presho Precinct,U.S. House,1,Elaine G. Robinson,LIB,0
-Kingsbury,De Smet Ward 1 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,20
-Kingsbury,De Smet Ward 2 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,22
-Kingsbury,De Smet Ward 3 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,37
-Kingsbury,Erwin Precinct,President,,Kamala D. Harris and Tim Walz,DEM,6
-Kingsbury,Mathews Township Precinct,President,,Kamala D. Harris and Tim Walz,DEM,14
-Kingsbury,Nordland Precinct,President,,Kamala D. Harris and Tim Walz,DEM,20
-Kingsbury,Arlington Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,3
-Kingsbury,Badger Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,1
-Kingsbury,De Smet Ward 1 Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,2
-Kingsbury,De Smet Ward 2 Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,1
-Kingsbury,De Smet Ward 3 Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,2
-Kingsbury,Erwin Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,1
-Kingsbury,Iroquois Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,0
-Kingsbury,Lake Preston Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,2
-Kingsbury,Mathews Township Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,0
-Kingsbury,Nordland Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,0
-Kingsbury,Osceola Precinct,U.S. House,1,Chase Oliver and Mike Terrell,LIB,1
-Kingsbury,Arlington Precinct,State Senate,8,Sheri L. Johnson,DEM,43
-Kingsbury,Badger Precinct,State Senate,8,Sheri L. Johnson,DEM,11
-Kingsbury,De Smet Ward 1 Precinct,State Senate,8,Sheri L. Johnson,DEM,11
-Kingsbury,De Smet Ward 2 Precinct,State Senate,8,Sheri L. Johnson,DEM,6
-Kingsbury,De Smet Ward 3 Precinct,State Senate,8,Sheri L. Johnson,DEM,20
-Kingsbury,Erwin Precinct,State Senate,8,Sheri L. Johnson,DEM,4
-Kingsbury,Iroquois Precinct,State Senate,8,Sheri L. Johnson,DEM,11
-Kingsbury,Lake Preston Precinct,State Senate,8,Sheri L. Johnson,DEM,9
-Kingsbury,Mathews Township Precinct,State Senate,8,Sheri L. Johnson,DEM,6
-Kingsbury,Nordland Precinct,State Senate,8,Sheri L. Johnson,DEM,11
-Kingsbury,Osceola Precinct,State Senate,8,Sheri L. Johnson,DEM,4
-Kingsbury,Arlington Precinct,State House,22,Greg Zimmerman,REP,127
-Kingsbury,Badger Precinct,State House,22,Greg Zimmerman,REP,61
-Kingsbury,De Smet Ward 1 Precinct,State House,22,Greg Zimmerman,REP,16
-Kingsbury,De Smet Ward 2 Precinct,State House,22,Greg Zimmerman,REP,14
-Kingsbury,De Smet Ward 3 Precinct,State House,22,Greg Zimmerman,REP,24
-Kingsbury,Erwin Precinct,State House,22,Greg Zimmerman,REP,4
-Kingsbury,Iroquois Precinct,State House,22,Greg Zimmerman,REP,10
-Kingsbury,Lake Preston Precinct,State House,22,Greg Zimmerman,REP,12
-Kingsbury,Mathews Township Precinct,State House,22,Greg Zimmerman,REP,12
-Kingsbury,Nordland Precinct,State House,22,Greg Zimmerman,REP,9
-Kingsbury,Osceola Precinct,State House,22,Greg Zimmerman,REP,9
+Kingsbury,Arlington Precinct,President,,Kamala D. Harris and Tim Walz,DEM,189
+Kingsbury,Arlington Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2
+Kingsbury,Arlington Precinct,President,,Donald J. Trump and JD Vance,REP,445
+Kingsbury,Arlington Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Kingsbury,Badner Precinct,President,,Kamala D. Harris and Tim Walz,DEM,69
+Kingsbury,Badner Precinct,President,,Chase Oliver and Mike ter Maat,LIB,3
+Kingsbury,Badner Precinct,President,,Donald J. Trump and JD Vance,REP,235
+Kingsbury,Badner Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Kingsbury,De Smet Precinct,President,,Kamala D. Harris and Tim Walz,DEM,279
+Kingsbury,De Smet Precinct,President,,Chase Oliver and Mike ter Maat,LIB,6
+Kingsbury,De Smet Precinct,President,,Donald J. Trump and JD Vance,REP,608
+Kingsbury,De Smet Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Kingsbury,Iroquois Precinct,President,,Kamala D. Harris and Tim Walz,DEM,62
+Kingsbury,Iroquois Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
+Kingsbury,Iroquois Precinct,President,,Donald J. Trump and JD Vance,REP,145
+Kingsbury,Iroquois Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Kingsbury,Lake Preston Precinct,President,,Kamala D. Harris and Tim Walz,DEM,103
+Kingsbury,Lake Preston Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
+Kingsbury,Lake Preston Precinct,President,,Donald J. Trump and JD Vance,REP,381
+Kingsbury,Lake Preston Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Kingsbury,Oldham Precinct,President,,Kamala D. Harris and Tim Walz,DEM,58
+Kingsbury,Oldham Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
+Kingsbury,Oldham Precinct,President,,Donald J. Trump and JD Vance,REP,175
+Kingsbury,Oldham Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Kingsbury,Arlington Precinct,U.S. House,1,Sheryl Johnson,DEM,140
+Kingsbury,Arlington Precinct,U.S. House,1,Dusty Johnson,REP,492
+Kingsbury,Badner Precinct,U.S. House,1,Sheryl Johnson,DEM,48
+Kingsbury,Badner Precinct,U.S. House,1,Dusty Johnson,REP,261
+Kingsbury,De Smet Precinct,U.S. House,1,Sheryl Johnson,DEM,211
+Kingsbury,De Smet Precinct,U.S. House,1,Dusty Johnson,REP,690
+Kingsbury,Iroquois Precinct,U.S. House,1,Sheryl Johnson,DEM,44
+Kingsbury,Iroquois Precinct,U.S. House,1,Dusty Johnson,REP,169
+Kingsbury,Lake Preston Precinct,U.S. House,1,Sheryl Johnson,DEM,80
+Kingsbury,Lake Preston Precinct,U.S. House,1,Dusty Johnson,REP,410
+Kingsbury,Oldham Precinct,U.S. House,1,Sheryl Johnson,DEM,48
+Kingsbury,Oldham Precinct,U.S. House,1,Dusty Johnson,REP,187
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,131
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,24
+Kingsbury,Arlington Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,452
+Kingsbury,Badner Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,35
+Kingsbury,Badner Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
+Kingsbury,Badner Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,243
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,193
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,30
+Kingsbury,De Smet Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,632
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,39
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Kingsbury,Iroquois Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,157
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,68
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
+Kingsbury,Lake Preston Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,378
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,44
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
+Kingsbury,Oldham Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,169
+Kingsbury,Arlington Precinct,State Senate,08,Casey Crabtree,REP,497
+Kingsbury,Badner Precinct,State Senate,08,Casey Crabtree,REP,243
+Kingsbury,De Smet Precinct,State Senate,08,Casey Crabtree,REP,637
+Kingsbury,Iroquois Precinct,State Senate,08,Casey Crabtree,REP,157
+Kingsbury,Lake Preston Precinct,State Senate,08,Casey Crabtree,REP,394
+Kingsbury,Oldham Precinct,State Senate,08,Casey Crabtree,REP,158
+Kingsbury,Arlington Precinct,State House,08,Greg Zimmerman,LIB,92
+Kingsbury,Arlington Precinct,State House,08,Tim Reisch,REP,393
+Kingsbury,Arlington Precinct,State House,08,Tim Walburg,REP,371
+Kingsbury,Badner Precinct,State House,08,Greg Zimmerman,LIB,38
+Kingsbury,Badner Precinct,State House,08,Tim Reisch,REP,201
+Kingsbury,Badner Precinct,State House,08,Tim Walburg,REP,191
+Kingsbury,De Smet Precinct,State House,08,Greg Zimmerman,LIB,130
+Kingsbury,De Smet Precinct,State House,08,Tim Reisch,REP,640
+Kingsbury,De Smet Precinct,State House,08,Tim Walburg,REP,536
+Kingsbury,Iroquois Precinct,State House,08,Greg Zimmerman,LIB,37
+Kingsbury,Iroquois Precinct,State House,08,Tim Reisch,REP,139
+Kingsbury,Iroquois Precinct,State House,08,Tim Walburg,REP,123
+Kingsbury,Lake Preston Precinct,State House,08,Greg Zimmerman,LIB,61
+Kingsbury,Lake Preston Precinct,State House,08,Tim Reisch,REP,323
+Kingsbury,Lake Preston Precinct,State House,08,Tim Walburg,REP,312
+Kingsbury,Oldham Precinct,State House,08,Greg Zimmerman,LIB,37
+Kingsbury,Oldham Precinct,State House,08,Tim Reisch,REP,153
+Kingsbury,Oldham Precinct,State House,08,Tim Walburg,REP,146
+Kingsbury,Arlington Precinct,County Treasurer,,Michelle Longville,REP,522
+Kingsbury,Arlington Precinct,County Treasurer,,Michael W Siefker,IND,79
+Kingsbury,Badner Precinct,County Treasurer,,Michelle Longville,REP,261
+Kingsbury,Badner Precinct,County Treasurer,,Michael W Siefker,IND,39
+Kingsbury,De Smet Precinct,County Treasurer,,Michelle Longville,REP,690
+Kingsbury,De Smet Precinct,County Treasurer,,Michael W Siefker,IND,185
+Kingsbury,Iroquois Precinct,County Treasurer,,Michelle Longville,REP,170
+Kingsbury,Iroquois Precinct,County Treasurer,,Michael W Siefker,IND,29
+Kingsbury,Lake Preston Precinct,County Treasurer,,Michelle Longville,REP,432
+Kingsbury,Lake Preston Precinct,County Treasurer,,Michael W Siefker,IND,54
+Kingsbury,Oldham Precinct,County Treasurer,,Michelle Longville,REP,200
+Kingsbury,Oldham Precinct,County Treasurer,,Michael W Siefker,IND,26
+Kingsbury,Arlington Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,454
+Kingsbury,Arlington Precinct,Supreme Court Retention,5,Scott P. Myren - No,,79
+Kingsbury,Badner Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,233
+Kingsbury,Badner Precinct,Supreme Court Retention,5,Scott P. Myren - No,,31
+Kingsbury,De Smet Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,623
+Kingsbury,De Smet Precinct,Supreme Court Retention,5,Scott P. Myren - No,,124
+Kingsbury,Iroquois Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,153
+Kingsbury,Iroquois Precinct,Supreme Court Retention,5,Scott P. Myren - No,,35
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,384
+Kingsbury,Lake Preston Precinct,Supreme Court Retention,5,Scott P. Myren - No,,53
+Kingsbury,Oldham Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,160
+Kingsbury,Oldham Precinct,Supreme Court Retention,5,Scott P. Myren - No,,32
+Kingsbury,Arlington Precinct,Constitutional Amendment E,,Yes,,239
+Kingsbury,Arlington Precinct,Constitutional Amendment E,,No,,403
+Kingsbury,Badner Precinct,Constitutional Amendment E,,Yes,,98
+Kingsbury,Badner Precinct,Constitutional Amendment E,,No,,210
+Kingsbury,De Smet Precinct,Constitutional Amendment E,,Yes,,322
+Kingsbury,De Smet Precinct,Constitutional Amendment E,,No,,576
+Kingsbury,Iroquois Precinct,Constitutional Amendment E,,Yes,,56
+Kingsbury,Iroquois Precinct,Constitutional Amendment E,,No,,155
+Kingsbury,Lake Preston Precinct,Constitutional Amendment E,,Yes,,167
+Kingsbury,Lake Preston Precinct,Constitutional Amendment E,,No,,321
+Kingsbury,Oldham Precinct,Constitutional Amendment E,,Yes,,72
+Kingsbury,Oldham Precinct,Constitutional Amendment E,,No,,162
+Kingsbury,Arlington Precinct,Constitutional Amendment F,,Yes,,340
+Kingsbury,Arlington Precinct,Constitutional Amendment F,,No,,291
+Kingsbury,Badner Precinct,Constitutional Amendment F,,Yes,,155
+Kingsbury,Badner Precinct,Constitutional Amendment F,,No,,153
+Kingsbury,De Smet Precinct,Constitutional Amendment F,,Yes,,464
+Kingsbury,De Smet Precinct,Constitutional Amendment F,,No,,425
+Kingsbury,Iroquois Precinct,Constitutional Amendment F,,Yes,,100
+Kingsbury,Iroquois Precinct,Constitutional Amendment F,,No,,113
+Kingsbury,Lake Preston Precinct,Constitutional Amendment F,,Yes,,263
+Kingsbury,Lake Preston Precinct,Constitutional Amendment F,,No,,219
+Kingsbury,Oldham Precinct,Constitutional Amendment F,,Yes,,132
+Kingsbury,Oldham Precinct,Constitutional Amendment F,,No,,103
+Kingsbury,Arlington Precinct,Constitutional Amendment G,,Yes,,233
+Kingsbury,Arlington Precinct,Constitutional Amendment G,,No,,414
+Kingsbury,Badner Precinct,Constitutional Amendment G,,Yes,,96
+Kingsbury,Badner Precinct,Constitutional Amendment G,,No,,216
+Kingsbury,De Smet Precinct,Constitutional Amendment G,,Yes,,289
+Kingsbury,De Smet Precinct,Constitutional Amendment G,,No,,609
+Kingsbury,Iroquois Precinct,Constitutional Amendment G,,Yes,,57
+Kingsbury,Iroquois Precinct,Constitutional Amendment G,,No,,158
+Kingsbury,Lake Preston Precinct,Constitutional Amendment G,,Yes,,155
+Kingsbury,Lake Preston Precinct,Constitutional Amendment G,,No,,339
+Kingsbury,Oldham Precinct,Constitutional Amendment G,,Yes,,66
+Kingsbury,Oldham Precinct,Constitutional Amendment G,,No,,170
+Kingsbury,Arlington Precinct,Constitutional Amendment H,,Yes,,165
+Kingsbury,Arlington Precinct,Constitutional Amendment H,,No,,459
+Kingsbury,Badner Precinct,Constitutional Amendment H,,Yes,,90
+Kingsbury,Badner Precinct,Constitutional Amendment H,,No,,210
+Kingsbury,De Smet Precinct,Constitutional Amendment H,,Yes,,246
+Kingsbury,De Smet Precinct,Constitutional Amendment H,,No,,623
+Kingsbury,Iroquois Precinct,Constitutional Amendment H,,Yes,,57
+Kingsbury,Iroquois Precinct,Constitutional Amendment H,,No,,158
+Kingsbury,Lake Preston Precinct,Constitutional Amendment H,,Yes,,137
+Kingsbury,Lake Preston Precinct,Constitutional Amendment H,,No,,340
+Kingsbury,Oldham Precinct,Constitutional Amendment H,,Yes,,73
+Kingsbury,Oldham Precinct,Constitutional Amendment H,,No,,170
+Kingsbury,Arlington Precinct,Initiated Measure 28,,Yes,,161
+Kingsbury,Arlington Precinct,Initiated Measure 28,,No,,471
+Kingsbury,Badner Precinct,Initiated Measure 28,,Yes,,56
+Kingsbury,Badner Precinct,Initiated Measure 28,,No,,248
+Kingsbury,De Smet Precinct,Initiated Measure 28,,Yes,,180
+Kingsbury,De Smet Precinct,Initiated Measure 28,,No,,715
+Kingsbury,Iroquois Precinct,Initiated Measure 28,,Yes,,41
+Kingsbury,Iroquois Precinct,Initiated Measure 28,,No,,169
+Kingsbury,Lake Preston Precinct,Initiated Measure 28,,Yes,,96
+Kingsbury,Lake Preston Precinct,Initiated Measure 28,,No,,394
+Kingsbury,Oldham Precinct,Initiated Measure 28,,Yes,,48
+Kingsbury,Oldham Precinct,Initiated Measure 28,,No,,190
+Kingsbury,Arlington Precinct,Initiated Measure 29,,Yes,,232
+Kingsbury,Arlington Precinct,Initiated Measure 29,,No,,414
+Kingsbury,Badner Precinct,Initiated Measure 29,,Yes,,86
+Kingsbury,Badner Precinct,Initiated Measure 29,,No,,223
+Kingsbury,De Smet Precinct,Initiated Measure 29,,Yes,,284
+Kingsbury,De Smet Precinct,Initiated Measure 29,,No,,622
+Kingsbury,Iroquois Precinct,Initiated Measure 29,,Yes,,72
+Kingsbury,Iroquois Precinct,Initiated Measure 29,,No,,141
+Kingsbury,Lake Preston Precinct,Initiated Measure 29,,Yes,,159
+Kingsbury,Lake Preston Precinct,Initiated Measure 29,,No,,333
+Kingsbury,Oldham Precinct,Initiated Measure 29,,Yes,,78
+Kingsbury,Oldham Precinct,Initiated Measure 29,,No,,158
+Kingsbury,Arlington Precinct,Referred Law 21,,Yes,,414
+Kingsbury,Arlington Precinct,Referred Law 21,,No,,221
+Kingsbury,Badner Precinct,Referred Law 21,,Yes,,99
+Kingsbury,Badner Precinct,Referred Law 21,,No,,205
+Kingsbury,De Smet Precinct,Referred Law 21,,Yes,,303
+Kingsbury,De Smet Precinct,Referred Law 21,,No,,591
+Kingsbury,Iroquois Precinct,Referred Law 21,,Yes,,74
+Kingsbury,Iroquois Precinct,Referred Law 21,,No,,141
+Kingsbury,Lake Preston Precinct,Referred Law 21,,Yes,,181
+Kingsbury,Lake Preston Precinct,Referred Law 21,,No,,302
+Kingsbury,Oldham Precinct,Referred Law 21,,Yes,,31
+Kingsbury,Oldham Precinct,Referred Law 21,,No,,186

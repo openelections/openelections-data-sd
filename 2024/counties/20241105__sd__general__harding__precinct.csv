@@ -31,14 +31,6 @@ Harding,09,President,,Kamala D. Harris and Tim Walz,DEM,2
 Harding,09,President,,Chase Oliver and Mike ter Maat,LIB,0
 Harding,09,President,,Donald J. Trump and JD Vance,REP,124
 Harding,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Harding,01,President,,Chase Oliver and Mike Itter,LIB,1
-Harding,02,President,,Chase Oliver and Mike Itter,LIB,2
-Harding,03,President,,Chase Oliver and Mike Itter,LIB,0
-Harding,05,President,,Chase Oliver and Mike Itter,LIB,2
-Harding,06,President,,Chase Oliver and Mike Itter,LIB,0
-Harding,07,President,,Chase Oliver and Mike Itter,LIB,0
-Harding,08,President,,Chase Oliver and Mike Itter,LIB,0
-Harding,09,President,,Chase Oliver and Mike Itter,LIB,0
 Harding,01,U.S. House,1,Sheryl Johnson,DEM,15
 Harding,01,U.S. House,1,Dusty Johnson,REP,134
 Harding,02,U.S. House,1,Sheryl Johnson,DEM,10
@@ -79,14 +71,6 @@ Harding,08,Public Utilities Commissioner,,Kristie Fiegen,REP,54
 Harding,09,Public Utilities Commissioner,,Forrest Wilson,DEM,2
 Harding,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
 Harding,09,Public Utilities Commissioner,,Kristie Fiegen,REP,118
-Harding,01,Public Utilities Commissioner,,Kristie Riegen,REP,129
-Harding,02,Public Utilities Commissioner,,Kristie Riegen,REP,121
-Harding,03,Public Utilities Commissioner,,Kristie Riegen,REP,47
-Harding,05,Public Utilities Commissioner,,Kristie Riegen,REP,126
-Harding,06,Public Utilities Commissioner,,Kristie Riegen,REP,30
-Harding,07,Public Utilities Commissioner,,Kristie Riegen,REP,89
-Harding,08,Public Utilities Commissioner,,Kristie Riegen,REP,54
-Harding,09,Public Utilities Commissioner,,Kristie Riegen,REP,118
 Harding,01,State Senate,28,Dean Schrempp,DEM,12
 Harding,01,State Senate,28,Sam Marty,REP,125
 Harding,01,State Senate,28,Shane C. Farlee,IND,10
@@ -119,110 +103,86 @@ Harding,06,State House,28B,Travis Ismay,REP,31
 Harding,07,State House,28B,Travis Ismay,REP,89
 Harding,08,State House,28B,Travis Ismay,REP,50
 Harding,09,State House,28B,Travis Ismay,REP,114
-Harding,1,State House,28B,Travis Ismay,REP,120
-Harding,2,State House,28B,Travis Ismay,REP,125
-Harding,3,State House,28B,Travis Ismay,REP,48
-Harding,5,State House,28B,Travis Ismay,REP,116
-Harding,6,State House,28B,Travis Ismay,REP,31
-Harding,7,State House,28B,Travis Ismay,REP,89
-Harding,8,State House,28B,Travis Ismay,REP,50
-Harding,9,State House,28B,Travis Ismay,REP,114
-Harding,1,Supreme Court Retention,5,Yes,,93
-Harding,1,Supreme Court Retention,5,No,,22
-Harding,2,Supreme Court Retention,5,Yes,,106
-Harding,2,Supreme Court Retention,5,No,,12
-Harding,3,Supreme Court Retention,5,Yes,,35
-Harding,3,Supreme Court Retention,5,No,,6
-Harding,5,Supreme Court Retention,5,Yes,,102
-Harding,5,Supreme Court Retention,5,No,,10
-Harding,6,Supreme Court Retention,5,Yes,,24
-Harding,6,Supreme Court Retention,5,No,,4
-Harding,7,Supreme Court Retention,5,Yes,,62
-Harding,7,Supreme Court Retention,5,No,,16
-Harding,8,Supreme Court Retention,5,Yes,,40
-Harding,8,Supreme Court Retention,5,No,,9
-Harding,9,Supreme Court Retention,5,Yes,,88
-Harding,9,Supreme Court Retention,5,No,,20
-Harding,1,Supreme Court Retention,,Yes,,93
-Harding,1,Supreme Court Retention,,No,,22
-Harding,2,Supreme Court Retention,,Yes,,106
-Harding,2,Supreme Court Retention,,No,,12
-Harding,3,Supreme Court Retention,,Yes,,35
-Harding,3,Supreme Court Retention,,No,,6
-Harding,5,Supreme Court Retention,,Yes,,102
-Harding,5,Supreme Court Retention,,No,,10
-Harding,6,Supreme Court Retention,,Yes,,24
-Harding,6,Supreme Court Retention,,No,,4
-Harding,7,Supreme Court Retention,,Yes,,62
-Harding,7,Supreme Court Retention,,No,,16
-Harding,8,Supreme Court Retention,,Yes,,40
-Harding,8,Supreme Court Retention,,No,,9
-Harding,9,Supreme Court Retention,,Yes,,88
-Harding,9,Supreme Court Retention,,No,,20
-Harding,1,Constitutional Amendment E,,Yes,,23
-Harding,1,Constitutional Amendment E,,No,,130
-Harding,1,Constitutional Amendment F,,Yes,,87
-Harding,1,Constitutional Amendment F,,No,,66
-Harding,1,Constitutional Amendment G,,Yes,,30
-Harding,1,Constitutional Amendment G,,No,,122
-Harding,1,Constitutional Amendment H,,Yes,,29
-Harding,1,Constitutional Amendment H,,No,,120
-Harding,2,Constitutional Amendment E,,Yes,,24
-Harding,2,Constitutional Amendment E,,No,,124
-Harding,2,Constitutional Amendment F,,Yes,,91
-Harding,2,Constitutional Amendment F,,No,,57
-Harding,2,Constitutional Amendment G,,Yes,,31
-Harding,2,Constitutional Amendment G,,No,,116
-Harding,2,Constitutional Amendment H,,Yes,,21
-Harding,2,Constitutional Amendment H,,No,,122
-Harding,3,Constitutional Amendment E,,Yes,,2
-Harding,3,Constitutional Amendment E,,No,,48
-Harding,3,Constitutional Amendment F,,Yes,,30
-Harding,3,Constitutional Amendment F,,No,,21
-Harding,3,Constitutional Amendment G,,Yes,,8
-Harding,3,Constitutional Amendment G,,No,,43
-Harding,3,Constitutional Amendment H,,Yes,,9
-Harding,3,Constitutional Amendment H,,No,,42
-Harding,5,Constitutional Amendment E,,Yes,,17
-Harding,5,Constitutional Amendment E,,No,,71
-Harding,5,Constitutional Amendment F,,Yes,,75
-Harding,5,Constitutional Amendment F,,No,,65
-Harding,5,Constitutional Amendment G,,Yes,,28
-Harding,5,Constitutional Amendment G,,No,,112
-Harding,5,Constitutional Amendment H,,Yes,,31
-Harding,5,Constitutional Amendment H,,No,,107
-Harding,6,Constitutional Amendment E,,Yes,,3
-Harding,6,Constitutional Amendment E,,No,,28
-Harding,6,Constitutional Amendment F,,Yes,,20
-Harding,6,Constitutional Amendment F,,No,,10
-Harding,6,Constitutional Amendment G,,Yes,,6
-Harding,6,Constitutional Amendment G,,No,,24
-Harding,6,Constitutional Amendment H,,Yes,,2
-Harding,6,Constitutional Amendment H,,No,,27
-Harding,7,Constitutional Amendment E,,Yes,,24
-Harding,7,Constitutional Amendment E,,No,,77
-Harding,7,Constitutional Amendment F,,Yes,,57
-Harding,7,Constitutional Amendment F,,No,,38
-Harding,7,Constitutional Amendment G,,Yes,,22
-Harding,7,Constitutional Amendment G,,No,,79
-Harding,7,Constitutional Amendment H,,Yes,,12
-Harding,7,Constitutional Amendment H,,No,,87
-Harding,8,Constitutional Amendment E,,Yes,,3
-Harding,8,Constitutional Amendment E,,No,,58
-Harding,8,Constitutional Amendment F,,Yes,,46
-Harding,8,Constitutional Amendment F,,No,,14
-Harding,8,Constitutional Amendment G,,Yes,,6
-Harding,8,Constitutional Amendment G,,No,,55
-Harding,8,Constitutional Amendment H,,Yes,,7
-Harding,8,Constitutional Amendment H,,No,,49
-Harding,9,Constitutional Amendment E,,Yes,,13
-Harding,9,Constitutional Amendment E,,No,,116
-Harding,9,Constitutional Amendment F,,Yes,,72
-Harding,9,Constitutional Amendment F,,No,,55
-Harding,9,Constitutional Amendment G,,Yes,,12
-Harding,9,Constitutional Amendment G,,No,,115
-Harding,9,Constitutional Amendment H,,Yes,,33
-Harding,9,Constitutional Amendment H,,No,,124
+Harding,01,Supreme Court Retention,5,Scott P. Myren - Yes,,93
+Harding,01,Supreme Court Retention,5,Scott P. Myren - No,,22
+Harding,02,Supreme Court Retention,5,Scott P. Myren - Yes,,106
+Harding,02,Supreme Court Retention,5,Scott P. Myren - No,,12
+Harding,03,Supreme Court Retention,5,Scott P. Myren - Yes,,35
+Harding,03,Supreme Court Retention,5,Scott P. Myren - No,,6
+Harding,05,Supreme Court Retention,5,Scott P. Myren - Yes,,102
+Harding,05,Supreme Court Retention,5,Scott P. Myren - No,,10
+Harding,06,Supreme Court Retention,5,Scott P. Myren - Yes,,24
+Harding,06,Supreme Court Retention,5,Scott P. Myren - No,,4
+Harding,07,Supreme Court Retention,5,Scott P. Myren - Yes,,62
+Harding,07,Supreme Court Retention,5,Scott P. Myren - No,,16
+Harding,08,Supreme Court Retention,5,Scott P. Myren - Yes,,40
+Harding,08,Supreme Court Retention,5,Scott P. Myren - No,,9
+Harding,09,Supreme Court Retention,5,Scott P. Myren - Yes,,88
+Harding,09,Supreme Court Retention,5,Scott P. Myren - No,,20
+Harding,01,Constitutional Amendment E,,Yes,,23
+Harding,01,Constitutional Amendment E,,No,,130
+Harding,01,Constitutional Amendment F,,Yes,,87
+Harding,01,Constitutional Amendment F,,No,,66
+Harding,01,Constitutional Amendment G,,Yes,,30
+Harding,01,Constitutional Amendment G,,No,,122
+Harding,01,Constitutional Amendment H,,Yes,,29
+Harding,01,Constitutional Amendment H,,No,,120
+Harding,02,Constitutional Amendment E,,Yes,,24
+Harding,02,Constitutional Amendment E,,No,,124
+Harding,02,Constitutional Amendment F,,Yes,,91
+Harding,02,Constitutional Amendment F,,No,,57
+Harding,02,Constitutional Amendment G,,Yes,,31
+Harding,02,Constitutional Amendment G,,No,,116
+Harding,02,Constitutional Amendment H,,Yes,,21
+Harding,02,Constitutional Amendment H,,No,,122
+Harding,03,Constitutional Amendment E,,Yes,,2
+Harding,03,Constitutional Amendment E,,No,,48
+Harding,03,Constitutional Amendment F,,Yes,,30
+Harding,03,Constitutional Amendment F,,No,,21
+Harding,03,Constitutional Amendment G,,Yes,,8
+Harding,03,Constitutional Amendment G,,No,,43
+Harding,03,Constitutional Amendment H,,Yes,,9
+Harding,03,Constitutional Amendment H,,No,,42
+Harding,05,Constitutional Amendment E,,Yes,,17
+Harding,05,Constitutional Amendment E,,No,,121
+Harding,05,Constitutional Amendment F,,Yes,,75
+Harding,05,Constitutional Amendment F,,No,,65
+Harding,05,Constitutional Amendment G,,Yes,,28
+Harding,05,Constitutional Amendment G,,No,,112
+Harding,05,Constitutional Amendment H,,Yes,,31
+Harding,05,Constitutional Amendment H,,No,,107
+Harding,06,Constitutional Amendment E,,Yes,,3
+Harding,06,Constitutional Amendment E,,No,,28
+Harding,06,Constitutional Amendment F,,Yes,,20
+Harding,06,Constitutional Amendment F,,No,,10
+Harding,06,Constitutional Amendment G,,Yes,,6
+Harding,06,Constitutional Amendment G,,No,,24
+Harding,06,Constitutional Amendment H,,Yes,,2
+Harding,06,Constitutional Amendment H,,No,,27
+Harding,07,Constitutional Amendment E,,Yes,,24
+Harding,07,Constitutional Amendment E,,No,,77
+Harding,07,Constitutional Amendment F,,Yes,,57
+Harding,07,Constitutional Amendment F,,No,,38
+Harding,07,Constitutional Amendment G,,Yes,,22
+Harding,07,Constitutional Amendment G,,No,,79
+Harding,07,Constitutional Amendment H,,Yes,,12
+Harding,07,Constitutional Amendment H,,No,,87
+Harding,08,Constitutional Amendment E,,Yes,,3
+Harding,08,Constitutional Amendment E,,No,,58
+Harding,08,Constitutional Amendment F,,Yes,,46
+Harding,08,Constitutional Amendment F,,No,,14
+Harding,08,Constitutional Amendment G,,Yes,,6
+Harding,08,Constitutional Amendment G,,No,,55
+Harding,08,Constitutional Amendment H,,Yes,,7
+Harding,08,Constitutional Amendment H,,No,,49
+Harding,09,Constitutional Amendment E,,Yes,,13
+Harding,09,Constitutional Amendment E,,No,,116
+Harding,09,Constitutional Amendment F,,Yes,,72
+Harding,09,Constitutional Amendment F,,No,,55
+Harding,09,Constitutional Amendment G,,Yes,,12
+Harding,09,Constitutional Amendment G,,No,,115
+Harding,09,Constitutional Amendment H,,Yes,,3
+Harding,09,Constitutional Amendment H,,No,,124
 Harding,01,Initiated Measure 28,,Yes,,35
 Harding,01,Initiated Measure 28,,No,,118
 Harding,01,Initiated Measure 29,,Yes,,37
@@ -253,8 +213,8 @@ Harding,06,Initiated Measure 29,,Yes,,3
 Harding,06,Initiated Measure 29,,No,,27
 Harding,06,Referred Law 21,,Yes,,10
 Harding,06,Referred Law 21,,No,,19
-Harding,07,Initiated Measure 28,,Yes,,9
-Harding,07,Initiated Measure 28,,No,,49
+Harding,07,Initiated Measure 28,,Yes,,28
+Harding,07,Initiated Measure 28,,No,,69
 Harding,07,Initiated Measure 29,,Yes,,23
 Harding,07,Initiated Measure 29,,No,,76
 Harding,07,Referred Law 21,,Yes,,36

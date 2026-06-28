@@ -19,10 +19,10 @@ Todd,Mission-N. Antelope,President,,Kamala D. Harris and Tim Walz,DEM,344
 Todd,Mission-N. Antelope,President,,Chase Oliver and Mike ter Maat,LIB,5
 Todd,Mission-N. Antelope,President,,Donald J. Trump and JD Vance,REP,88
 Todd,Mission-N. Antelope,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
-Todd,Okreek,President,,Kamala D. Harris and Tim Walz,DEM,64
-Todd,Okreek,President,,Chase Oliver and Mike ter Maat,LIB,0
-Todd,Okreek,President,,Donald J. Trump and JD Vance,REP,36
-Todd,Okreek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Todd,OKreek,President,,Kamala D. Harris and Tim Walz,DEM,64
+Todd,OKreek,President,,Chase Oliver and Mike ter Maat,LIB,0
+Todd,OKreek,President,,Donald J. Trump and JD Vance,REP,36
+Todd,OKreek,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Todd,Parmelee,President,,Kamala D. Harris and Tim Walz,DEM,224
 Todd,Parmelee,President,,Chase Oliver and Mike ter Maat,LIB,1
 Todd,Parmelee,President,,Donald J. Trump and JD Vance,REP,31
@@ -49,8 +49,8 @@ Todd,Lakeview,U.S. House,1,Sheryl Johnson,DEM,24
 Todd,Lakeview,U.S. House,1,Dusty Johnson,REP,98
 Todd,Mission-N. Antelope,U.S. House,1,Sheryl Johnson,DEM,313
 Todd,Mission-N. Antelope,U.S. House,1,Dusty Johnson,REP,133
-Todd,Okreek,U.S. House,1,Sheryl Johnson,DEM,59
-Todd,Okreek,U.S. House,1,Dusty Johnson,REP,41
+Todd,OKreek,U.S. House,1,Sheryl Johnson,DEM,59
+Todd,OKreek,U.S. House,1,Dusty Johnson,REP,41
 Todd,Parmelee,U.S. House,1,Sheryl Johnson,DEM,201
 Todd,Parmelee,U.S. House,1,Dusty Johnson,REP,57
 Todd,Rosebud,U.S. House,1,Sheryl Johnson,DEM,332
@@ -74,9 +74,9 @@ Todd,Lakeview,Public Utilities Commissioner,,Kristie Fiegen,REP,90
 Todd,Mission-N. Antelope,Public Utilities Commissioner,,Forrest Wilson,DEM,329
 Todd,Mission-N. Antelope,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
 Todd,Mission-N. Antelope,Public Utilities Commissioner,,Kristie Fiegen,REP,77
-Todd,Okreek,Public Utilities Commissioner,,Forrest Wilson,DEM,59
-Todd,Okreek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Todd,Okreek,Public Utilities Commissioner,,Kristie Fiegen,REP,30
+Todd,OKreek,Public Utilities Commissioner,,Forrest Wilson,DEM,59
+Todd,OKreek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Todd,OKreek,Public Utilities Commissioner,,Kristie Fiegen,REP,30
 Todd,Parmelee,Public Utilities Commissioner,,Forrest Wilson,DEM,200
 Todd,Parmelee,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
 Todd,Parmelee,Public Utilities Commissioner,,Kristie Fiegen,REP,30
@@ -89,9 +89,6 @@ Todd,S. Antelope,Public Utilities Commissioner,,Kristie Fiegen,REP,52
 Todd,Saint Francis,Public Utilities Commissioner,,Forrest Wilson,DEM,232
 Todd,Saint Francis,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
 Todd,Saint Francis,Public Utilities Commissioner,,Kristie Fiegen,REP,47
-Todd,OKreek,Public Utilities Commissioner,,Forrest Wilson,DEM,59
-Todd,OKreek,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Todd,OKreek,Public Utilities Commissioner,,Kristie Fiegen,REP,30
 Todd,Bordeaux,State Senate,26,Shawn Bordeaux,DEM,45
 Todd,Bordeaux,State Senate,26,Tamara Grove,REP,19
 Todd,Fairgrounds-10,State Senate,26,Shawn Bordeaux,DEM,41
@@ -112,17 +109,6 @@ Todd,S. Antelope,State Senate,26,Shawn Bordeaux,DEM,175
 Todd,S. Antelope,State Senate,26,Tamara Grove,REP,78
 Todd,Saint Francis,State Senate,26,Shawn Bordeaux,DEM,237
 Todd,Saint Francis,State Senate,26,Tamara Grove,REP,64
-Todd,Bordeaux,State Senate,26,Tamara St. John,REP,19
-Todd,Fairgrounds-10,State Senate,26,Tamara St. John,REP,16
-Todd,Jeanette,State Senate,26,Tamara St. John,REP,67
-Todd,Lakeview,State Senate,26,Tamara St. John,REP,98
-Todd,Mission-N. Antelope,State Senate,26,Tamara St. John,REP,125
-Todd,Okreek,State Senate,26,Shawn Bordeaux,DEM,58
-Todd,Okreek,State Senate,26,Tamara St. John,REP,40
-Todd,Parmelee,State Senate,26,Tamara St. John,REP,53
-Todd,Rosebud,State Senate,26,Tamara St. John,REP,71
-Todd,S. Antelope,State Senate,26,Tamara St. John,REP,78
-Todd,Saint Francis,State Senate,26,Tamara St. John,REP,64
 Todd,Bordeaux,State House,26A,Eric E. Emery,DEM,37
 Todd,Bordeaux,State House,26A,Ron Frederick,REP,14
 Todd,Bordeaux,State House,26A,William Craig Lafferty,IND,14
@@ -138,9 +124,9 @@ Todd,Lakeview,State House,26A,William Craig Lafferty,IND,21
 Todd,Mission-N. Antelope,State House,26A,Eric E. Emery,DEM,279
 Todd,Mission-N. Antelope,State House,26A,Ron Frederick,REP,77
 Todd,Mission-N. Antelope,State House,26A,William Craig Lafferty,IND,89
-Todd,Okreek,State House,26A,Eric E. Emery,DEM,48
-Todd,Okreek,State House,26A,Ron Frederick,REP,35
-Todd,Okreek,State House,26A,William Craig Lafferty,IND,16
+Todd,OKreek,State House,26A,Eric E. Emery,DEM,48
+Todd,OKreek,State House,26A,Ron Frederick,REP,35
+Todd,OKreek,State House,26A,William Craig Lafferty,IND,16
 Todd,Parmelee,State House,26A,Eric E. Emery,DEM,175
 Todd,Parmelee,State House,26A,Ron Frederick,REP,24
 Todd,Parmelee,State House,26A,William Craig Lafferty,IND,61
@@ -153,51 +139,163 @@ Todd,S. Antelope,State House,26A,William Craig Lafferty,IND,54
 Todd,Saint Francis,State House,26A,Eric E. Emery,DEM,221
 Todd,Saint Francis,State House,26A,Ron Frederick,REP,29
 Todd,Saint Francis,State House,26A,William Craig Lafferty,IND,56
-Todd,Bordeaux,Supreme Court Retention,,Scott P. Myren,YES,32
-Todd,Bordeaux,Supreme Court Retention,,Scott P. Myren,NO,32
-Todd,Fairgrounds-10,Supreme Court Retention,,Scott P. Myren,YES,31
-Todd,Fairgrounds-10,Supreme Court Retention,,Scott P. Myren,NO,17
-Todd,Jeanette,Supreme Court Retention,,Scott P. Myren,YES,47
-Todd,Jeanette,Supreme Court Retention,,Scott P. Myren,NO,16
-Todd,Lakeview,Supreme Court Retention,,Scott P. Myren,YES,73
-Todd,Lakeview,Supreme Court Retention,,Scott P. Myren,NO,28
-Todd,Mission-N. Antelope,Supreme Court Retention,,Scott P. Myren,YES,205
-Todd,Mission-N. Antelope,Supreme Court Retention,,Scott P. Myren,NO,185
-Todd,OKreek,Supreme Court Retention,,Scott P. Myren,YES,44
-Todd,OKreek,Supreme Court Retention,,Scott P. Myren,NO,44
-Todd,Parmelee,Supreme Court Retention,,Scott P. Myren,YES,109
-Todd,Parmelee,Supreme Court Retention,,Scott P. Myren,NO,129
-Todd,Rosebud,Supreme Court Retention,,Scott P. Myren,YES,169
-Todd,Rosebud,Supreme Court Retention,,Scott P. Myren,NO,200
-Todd,S. Antelope,Supreme Court Retention,,Scott P. Myren,YES,113
-Todd,S. Antelope,Supreme Court Retention,,Scott P. Myren,NO,113
-Todd,Saint Francis,Supreme Court Retention,,Scott P. Myren,YES,120
-Todd,Saint Francis,Supreme Court Retention,,Scott P. Myren,NO,144
-Todd,Bordeaux,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,YES,32
-Todd,Bordeaux,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,NO,34
-Todd,Bordeaux,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,YES,27
-Todd,Bordeaux,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,NO,39
-Todd,Bordeaux,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,38
-Todd,Bordeaux,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,28
-Todd,Constitutional Amendment H,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,37
-Todd,Bordeaux,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,32
-Todd,Bordeaux,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,YES,33
-Todd,Bordeaux,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,NO,32
-Todd,Bordeaux,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",YES,48
-Todd,Bordeaux,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",NO,19
-Todd,Bordeaux,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",YES,22
-Todd,Bordeaux,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",NO,43
-Todd,Fairgrounds-10,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,YES,41
-Todd,Fairgrounds-10,Constitutional Amendment E,,An Amendment to the South Dakota Constitution Updating Gender References for Certain Officeholders,NO,19
-Todd,Fairgrounds-10,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,YES,30
-Todd,Fairgrounds-10,Constitutional Amendment F,,An Amendment to the South Dakota Constitution Authorizing the State to Impose a Work Requirement on,NO,29
-Todd,Fairgrounds-10,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,YES,24
-Todd,Fairgrounds-10,Constitutional Amendment G,,An Initiated Amendment Establishing a Right to Abortion in the State Constitution,NO,18
-Todd,Fairgrounds-10,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,YES,33
-Todd,Fairgrounds-10,Constitutional Amendment H,,An Amendment to the South Dakota Constitution Establishing Top-Two Primary Elections,NO,25
-Todd,Fairgrounds-10,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,YES,29
-Todd,Fairgrounds-10,Initiated Measure 28,,An Initiated Measure Prohibiting Taxes on Anything Sold for Human Consumption,NO,44
-Todd,Fairgrounds-10,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",YES,46
-Todd,Fairgrounds-10,Initiated Measure 29,,"An Initiated Measure Legalizing the Recreational Use, Possession, and Distribution of Marijuana",NO,10
-Todd,Fairgrounds-10,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",YES,27
-Todd,Fairgrounds-10,Referred Law 21,,"A Referred Act to Provide New Statutory Requirements for Regulating Linear Transmission Facilities, to Allow",NO,31
+Todd,Bordeaux,Supreme Court Retention,5,Scott P. Myren - Yes,,32
+Todd,Bordeaux,Supreme Court Retention,5,Scott P. Myren - No,,32
+Todd,Fairgrounds-10,Supreme Court Retention,5,Scott P. Myren - Yes,,31
+Todd,Fairgrounds-10,Supreme Court Retention,5,Scott P. Myren - No,,17
+Todd,Jeanette,Supreme Court Retention,5,Scott P. Myren - Yes,,47
+Todd,Jeanette,Supreme Court Retention,5,Scott P. Myren - No,,16
+Todd,Lakeview,Supreme Court Retention,5,Scott P. Myren - Yes,,73
+Todd,Lakeview,Supreme Court Retention,5,Scott P. Myren - No,,28
+Todd,Mission-N. Antelope,Supreme Court Retention,5,Scott P. Myren - Yes,,205
+Todd,Mission-N. Antelope,Supreme Court Retention,5,Scott P. Myren - No,,185
+Todd,OKreek,Supreme Court Retention,5,Scott P. Myren - Yes,,44
+Todd,OKreek,Supreme Court Retention,5,Scott P. Myren - No,,44
+Todd,Parmelee,Supreme Court Retention,5,Scott P. Myren - Yes,,109
+Todd,Parmelee,Supreme Court Retention,5,Scott P. Myren - No,,129
+Todd,Rosebud,Supreme Court Retention,5,Scott P. Myren - Yes,,169
+Todd,Rosebud,Supreme Court Retention,5,Scott P. Myren - No,,200
+Todd,S. Antelope,Supreme Court Retention,5,Scott P. Myren - Yes,,113
+Todd,S. Antelope,Supreme Court Retention,5,Scott P. Myren - No,,113
+Todd,Saint Francis,Supreme Court Retention,5,Scott P. Myren - Yes,,120
+Todd,Saint Francis,Supreme Court Retention,5,Scott P. Myren - No,,144
+Todd,Bordeaux,Constitutional Amendment E,,Yes,,32
+Todd,Bordeaux,Constitutional Amendment E,,No,,34
+Todd,Bordeaux,Constitutional Amendment F,,Yes,,27
+Todd,Bordeaux,Constitutional Amendment F,,No,,39
+Todd,Bordeaux,Constitutional Amendment G,,Yes,,38
+Todd,Bordeaux,Constitutional Amendment G,,No,,28
+Todd,Bordeaux,Constitutional Amendment H,,Yes,,28
+Todd,Bordeaux,Constitutional Amendment H,,No,,37
+Todd,Bordeaux,Initiated Measure 28,,Yes,,32
+Todd,Bordeaux,Initiated Measure 28,,No,,33
+Todd,Bordeaux,Initiated Measure 29,,Yes,,44
+Todd,Bordeaux,Initiated Measure 29,,No,,19
+Todd,Bordeaux,Referred Law 21,,Yes,,22
+Todd,Bordeaux,Referred Law 21,,No,,43
+Todd,Fairgrounds-10,Constitutional Amendment E,,Yes,,41
+Todd,Fairgrounds-10,Constitutional Amendment E,,No,,19
+Todd,Fairgrounds-10,Constitutional Amendment F,,Yes,,30
+Todd,Fairgrounds-10,Constitutional Amendment F,,No,,29
+Todd,Fairgrounds-10,Constitutional Amendment G,,Yes,,42
+Todd,Fairgrounds-10,Constitutional Amendment G,,No,,18
+Todd,Fairgrounds-10,Constitutional Amendment H,,Yes,,33
+Todd,Fairgrounds-10,Constitutional Amendment H,,No,,25
+Todd,Fairgrounds-10,Initiated Measure 28,,Yes,,28
+Todd,Fairgrounds-10,Initiated Measure 28,,No,,29
+Todd,Fairgrounds-10,Initiated Measure 29,,Yes,,44
+Todd,Fairgrounds-10,Initiated Measure 29,,No,,16
+Todd,Fairgrounds-10,Referred Law 21,,Yes,,27
+Todd,Fairgrounds-10,Referred Law 21,,No,,31
+Todd,Jeanette,Constitutional Amendment E,,Yes,,12
+Todd,Jeanette,Constitutional Amendment E,,No,,70
+Todd,Jeanette,Constitutional Amendment F,,Yes,,54
+Todd,Jeanette,Constitutional Amendment F,,No,,32
+Todd,Jeanette,Constitutional Amendment G,,Yes,,19
+Todd,Jeanette,Constitutional Amendment G,,No,,66
+Todd,Jeanette,Constitutional Amendment H,,Yes,,16
+Todd,Jeanette,Constitutional Amendment H,,No,,68
+Todd,Jeanette,Initiated Measure 28,,Yes,,17
+Todd,Jeanette,Initiated Measure 28,,No,,66
+Todd,Jeanette,Initiated Measure 29,,Yes,,15
+Todd,Jeanette,Initiated Measure 29,,No,,70
+Todd,Jeanette,Referred Law 21,,Yes,,13
+Todd,Jeanette,Referred Law 21,,No,,69
+Todd,Lakeview,Constitutional Amendment E,,Yes,,45
+Todd,Lakeview,Constitutional Amendment E,,No,,76
+Todd,Lakeview,Constitutional Amendment F,,Yes,,66
+Todd,Lakeview,Constitutional Amendment F,,No,,55
+Todd,Lakeview,Constitutional Amendment G,,Yes,,37
+Todd,Lakeview,Constitutional Amendment G,,No,,86
+Todd,Lakeview,Constitutional Amendment H,,Yes,,28
+Todd,Lakeview,Constitutional Amendment H,,No,,93
+Todd,Lakeview,Initiated Measure 28,,Yes,,29
+Todd,Lakeview,Initiated Measure 28,,No,,91
+Todd,Lakeview,Initiated Measure 29,,Yes,,38
+Todd,Lakeview,Initiated Measure 29,,No,,82
+Todd,Lakeview,Referred Law 21,,Yes,,41
+Todd,Lakeview,Referred Law 21,,No,,82
+Todd,Mission-N. Antelope,Constitutional Amendment E,,Yes,,272
+Todd,Mission-N. Antelope,Constitutional Amendment E,,No,,173
+Todd,Mission-N. Antelope,Constitutional Amendment F,,Yes,,149
+Todd,Mission-N. Antelope,Constitutional Amendment F,,No,,296
+Todd,Mission-N. Antelope,Constitutional Amendment G,,Yes,,288
+Todd,Mission-N. Antelope,Constitutional Amendment G,,No,,157
+Todd,Mission-N. Antelope,Constitutional Amendment H,,Yes,,217
+Todd,Mission-N. Antelope,Constitutional Amendment H,,No,,220
+Todd,Mission-N. Antelope,Initiated Measure 28,,Yes,,210
+Todd,Mission-N. Antelope,Initiated Measure 28,,No,,228
+Todd,Mission-N. Antelope,Initiated Measure 29,,Yes,,343
+Todd,Mission-N. Antelope,Initiated Measure 29,,No,,106
+Todd,Mission-N. Antelope,Referred Law 21,,Yes,,177
+Todd,Mission-N. Antelope,Referred Law 21,,No,,259
+Todd,OKreek,Constitutional Amendment E,,Yes,,50
+Todd,OKreek,Constitutional Amendment E,,No,,48
+Todd,OKreek,Constitutional Amendment F,,Yes,,42
+Todd,OKreek,Constitutional Amendment F,,No,,59
+Todd,OKreek,Constitutional Amendment G,,Yes,,61
+Todd,OKreek,Constitutional Amendment G,,No,,38
+Todd,OKreek,Constitutional Amendment H,,Yes,,35
+Todd,OKreek,Constitutional Amendment H,,No,,58
+Todd,OKreek,Initiated Measure 28,,Yes,,43
+Todd,OKreek,Initiated Measure 28,,No,,55
+Todd,OKreek,Initiated Measure 29,,Yes,,52
+Todd,OKreek,Initiated Measure 29,,No,,49
+Todd,OKreek,Referred Law 21,,Yes,,32
+Todd,OKreek,Referred Law 21,,No,,69
+Todd,Parmelee,Constitutional Amendment E,,Yes,,159
+Todd,Parmelee,Constitutional Amendment E,,No,,104
+Todd,Parmelee,Constitutional Amendment F,,Yes,,74
+Todd,Parmelee,Constitutional Amendment F,,No,,186
+Todd,Parmelee,Constitutional Amendment G,,Yes,,173
+Todd,Parmelee,Constitutional Amendment G,,No,,87
+Todd,Parmelee,Constitutional Amendment H,,Yes,,129
+Todd,Parmelee,Constitutional Amendment H,,No,,126
+Todd,Parmelee,Initiated Measure 28,,Yes,,134
+Todd,Parmelee,Initiated Measure 28,,No,,124
+Todd,Parmelee,Initiated Measure 29,,Yes,,193
+Todd,Parmelee,Initiated Measure 29,,No,,69
+Todd,Parmelee,Referred Law 21,,Yes,,95
+Todd,Parmelee,Referred Law 21,,No,,158
+Todd,Rosebud,Constitutional Amendment E,,Yes,,262
+Todd,Rosebud,Constitutional Amendment E,,No,,158
+Todd,Rosebud,Constitutional Amendment F,,Yes,,152
+Todd,Rosebud,Constitutional Amendment F,,No,,271
+Todd,Rosebud,Constitutional Amendment G,,Yes,,288
+Todd,Rosebud,Constitutional Amendment G,,No,,133
+Todd,Rosebud,Constitutional Amendment H,,Yes,,205
+Todd,Rosebud,Constitutional Amendment H,,No,,207
+Todd,Rosebud,Initiated Measure 28,,Yes,,189
+Todd,Rosebud,Initiated Measure 28,,No,,223
+Todd,Rosebud,Initiated Measure 29,,Yes,,328
+Todd,Rosebud,Initiated Measure 29,,No,,96
+Todd,Rosebud,Referred Law 21,,Yes,,136
+Todd,Rosebud,Referred Law 21,,No,,283
+Todd,S. Antelope,Constitutional Amendment E,,Yes,,138
+Todd,S. Antelope,Constitutional Amendment E,,No,,113
+Todd,S. Antelope,Constitutional Amendment F,,Yes,,96
+Todd,S. Antelope,Constitutional Amendment F,,No,,159
+Todd,S. Antelope,Constitutional Amendment G,,Yes,,165
+Todd,S. Antelope,Constitutional Amendment G,,No,,83
+Todd,S. Antelope,Constitutional Amendment H,,Yes,,115
+Todd,S. Antelope,Constitutional Amendment H,,No,,133
+Todd,S. Antelope,Initiated Measure 28,,Yes,,112
+Todd,S. Antelope,Initiated Measure 28,,No,,136
+Todd,S. Antelope,Initiated Measure 29,,Yes,,183
+Todd,S. Antelope,Initiated Measure 29,,No,,71
+Todd,S. Antelope,Referred Law 21,,Yes,,70
+Todd,S. Antelope,Referred Law 21,,No,,182
+Todd,Saint Francis,Constitutional Amendment E,,Yes,,176
+Todd,Saint Francis,Constitutional Amendment E,,No,,122
+Todd,Saint Francis,Constitutional Amendment F,,Yes,,107
+Todd,Saint Francis,Constitutional Amendment F,,No,,196
+Todd,Saint Francis,Constitutional Amendment G,,Yes,,189
+Todd,Saint Francis,Constitutional Amendment G,,No,,114
+Todd,Saint Francis,Constitutional Amendment H,,Yes,,143
+Todd,Saint Francis,Constitutional Amendment H,,No,,146
+Todd,Saint Francis,Initiated Measure 28,,Yes,,152
+Todd,Saint Francis,Initiated Measure 28,,No,,147
+Todd,Saint Francis,Initiated Measure 29,,Yes,,222
+Todd,Saint Francis,Initiated Measure 29,,No,,84
+Todd,Saint Francis,Referred Law 21,,Yes,,102
+Todd,Saint Francis,Referred Law 21,,No,,192

@@ -7,12 +7,12 @@ Union,02,President,,Kamala D. Harris and Tim Walz,DEM,145
 Union,02,President,,Chase Oliver and Mike ter Maat,LIB,1
 Union,02,President,,Donald J. Trump and JD Vance,REP,257
 Union,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Union,03,President,,Kamala D. Harris and Tim Walz,DEM,355
+Union,03,President,,Kamala D. Harris and Tim Walz,DEM,356
 Union,03,President,,Chase Oliver and Mike ter Maat,LIB,6
 Union,03,President,,Donald J. Trump and JD Vance,REP,835
 Union,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
 Union,04,President,,Kamala D. Harris and Tim Walz,DEM,154
-Union,04,President,,Chase Oliver and Mike ter Maat,LIB,6
+Union,04,President,,Chase Oliver and Mike ter Maat,LIB,3
 Union,04,President,,Donald J. Trump and JD Vance,REP,395
 Union,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Union,05,President,,Kamala D. Harris and Tim Walz,DEM,239
@@ -20,10 +20,10 @@ Union,05,President,,Chase Oliver and Mike ter Maat,LIB,6
 Union,05,President,,Donald J. Trump and JD Vance,REP,464
 Union,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
 Union,06,President,,Kamala D. Harris and Tim Walz,DEM,210
-Union,06,President,,Chase Oliver and Mike ter Maat,LIB,2
+Union,06,President,,Chase Oliver and Mike ter Maat,LIB,9
 Union,06,President,,Donald J. Trump and JD Vance,REP,638
 Union,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
-Union,07,President,,Kamala D. Harris and Tim Walz,DEM,133
+Union,07,President,,Kamala D. Harris and Tim Walz,DEM,120
 Union,07,President,,Chase Oliver and Mike ter Maat,LIB,2
 Union,07,President,,Donald J. Trump and JD Vance,REP,234
 Union,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
@@ -32,7 +32,7 @@ Union,08,President,,Chase Oliver and Mike ter Maat,LIB,3
 Union,08,President,,Donald J. Trump and JD Vance,REP,335
 Union,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Union,09,President,,Kamala D. Harris and Tim Walz,DEM,272
-Union,09,President,,Chase Oliver and Mike ter Maat,LIB,3
+Union,09,President,,Chase Oliver and Mike ter Maat,LIB,5
 Union,09,President,,Donald J. Trump and JD Vance,REP,567
 Union,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
 Union,10,President,,Kamala D. Harris and Tim Walz,DEM,252
@@ -40,67 +40,31 @@ Union,10,President,,Chase Oliver and Mike ter Maat,LIB,4
 Union,10,President,,Donald J. Trump and JD Vance,REP,473
 Union,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
 Union,11,President,,Kamala D. Harris and Tim Walz,DEM,219
-Union,11,President,,Chase Oliver and Mike ter Maat,LIB,7
+Union,11,President,,Chase Oliver and Mike ter Maat,LIB,10
 Union,11,President,,Donald J. Trump and JD Vance,REP,675
 Union,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Union,12,President,,Kamala D. Harris and Tim Walz,DEM,349
-Union,12,President,,Chase Oliver and Mike ter Maat,LIB,5
+Union,12,President,,Chase Oliver and Mike ter Maat,LIB,7
 Union,12,President,,Donald J. Trump and JD Vance,REP,933
 Union,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
-Union,1,President,,Kamala D. Harris and Tim Walz,DEM,98
-Union,1,President,,Chase Oliver and Mike ter Maat,LIB,0
-Union,1,President,,Donald J. Trump and JD Vance,REP,354
-Union,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Union,2,President,,Kamala D. Harris and Tim Walz,DEM,145
-Union,2,President,,Chase Oliver and Mike ter Maat,LIB,1
-Union,2,President,,Donald J. Trump and JD Vance,REP,257
-Union,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Union,3,President,,Kamala D. Harris and Tim Walz,DEM,355
-Union,3,President,,Chase Oliver and Mike ter Maat,LIB,6
-Union,3,President,,Donald J. Trump and JD Vance,REP,835
-Union,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
-Union,4,President,,Kamala D. Harris and Tim Walz,DEM,154
-Union,4,President,,Chase Oliver and Mike ter Maat,LIB,5
-Union,4,President,,Donald J. Trump and JD Vance,REP,395
-Union,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
-Union,5,President,,Kamala D. Harris and Tim Walz,DEM,239
-Union,5,President,,Chase Oliver and Mike ter Maat,LIB,6
-Union,5,President,,Donald J. Trump and JD Vance,REP,464
-Union,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
-Union,6,President,,Kamala D. Harris and Tim Walz,DEM,210
-Union,6,President,,Chase Oliver and Mike ter Maat,LIB,6
-Union,6,President,,Donald J. Trump and JD Vance,REP,638
-Union,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
-Union,7,President,,Kamala D. Harris and Tim Walz,DEM,176
-Union,7,President,,Chase Oliver and Mike ter Maat,LIB,0
-Union,7,President,,Donald J. Trump and JD Vance,REP,234
-Union,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Union,8,President,,Kamala D. Harris and Tim Walz,DEM,134
-Union,8,President,,Chase Oliver and Mike ter Maat,LIB,3
-Union,8,President,,Donald J. Trump and JD Vance,REP,335
-Union,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Union,9,President,,Kamala D. Harris and Tim Walz,DEM,272
-Union,9,President,,Chase Oliver and Mike ter Maat,LIB,3
-Union,9,President,,Donald J. Trump and JD Vance,REP,567
-Union,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
-Union,1,U.S. House,1,Sheryl Johnson,DEM,87
-Union,1,U.S. House,1,Dusty Johnson,REP,362
-Union,2,U.S. House,1,Sheryl Johnson,DEM,114
-Union,2,U.S. House,1,Dusty Johnson,REP,288
-Union,3,U.S. House,1,Sheryl Johnson,DEM,275
-Union,3,U.S. House,1,Dusty Johnson,REP,923
-Union,4,U.S. House,1,Sheryl Johnson,DEM,120
-Union,4,U.S. House,1,Dusty Johnson,REP,441
-Union,5,U.S. House,1,Sheryl Johnson,DEM,178
-Union,5,U.S. House,1,Dusty Johnson,REP,537
-Union,6,U.S. House,1,Sheryl Johnson,DEM,176
-Union,6,U.S. House,1,Dusty Johnson,REP,680
-Union,7,U.S. House,1,Sheryl Johnson,DEM,92
-Union,7,U.S. House,1,Dusty Johnson,REP,244
-Union,8,U.S. House,1,Sheryl Johnson,DEM,126
-Union,8,U.S. House,1,Dusty Johnson,REP,341
-Union,9,U.S. House,1,Sheryl Johnson,DEM,228
-Union,9,U.S. House,1,Dusty Johnson,REP,600
+Union,01,U.S. House,1,Sheryl Johnson,DEM,87
+Union,01,U.S. House,1,Dusty Johnson,REP,362
+Union,02,U.S. House,1,Sheryl Johnson,DEM,114
+Union,02,U.S. House,1,Dusty Johnson,REP,288
+Union,03,U.S. House,1,Sheryl Johnson,DEM,275
+Union,03,U.S. House,1,Dusty Johnson,REP,923
+Union,04,U.S. House,1,Sheryl Johnson,DEM,120
+Union,04,U.S. House,1,Dusty Johnson,REP,441
+Union,05,U.S. House,1,Sheryl Johnson,DEM,178
+Union,05,U.S. House,1,Dusty Johnson,REP,537
+Union,06,U.S. House,1,Sheryl Johnson,DEM,176
+Union,06,U.S. House,1,Dusty Johnson,REP,680
+Union,07,U.S. House,1,Sheryl Johnson,DEM,92
+Union,07,U.S. House,1,Dusty Johnson,REP,254
+Union,08,U.S. House,1,Sheryl Johnson,DEM,126
+Union,08,U.S. House,1,Dusty Johnson,REP,341
+Union,09,U.S. House,1,Sheryl Johnson,DEM,228
+Union,09,U.S. House,1,Dusty Johnson,REP,600
 Union,10,U.S. House,1,Sheryl Johnson,DEM,209
 Union,10,U.S. House,1,Dusty Johnson,REP,512
 Union,11,U.S. House,1,Sheryl Johnson,DEM,169
@@ -123,7 +87,7 @@ Union,05,Public Utilities Commissioner,,Forrest Wilson,DEM,166
 Union,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
 Union,05,Public Utilities Commissioner,,Kristie Fiegen,REP,494
 Union,06,Public Utilities Commissioner,,Forrest Wilson,DEM,162
-Union,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Union,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,40
 Union,06,Public Utilities Commissioner,,Kristie Fiegen,REP,618
 Union,07,Public Utilities Commissioner,,Forrest Wilson,DEM,91
 Union,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
@@ -137,161 +101,121 @@ Union,09,Public Utilities Commissioner,,Kristie Fiegen,REP,522
 Union,10,Public Utilities Commissioner,,Forrest Wilson,DEM,208
 Union,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,44
 Union,10,Public Utilities Commissioner,,Kristie Fiegen,REP,440
-Union,11,Public Utilities Commissioner,,Forrest Wilson,DEM,248
-Union,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,45
+Union,11,Public Utilities Commissioner,,Forrest Wilson,DEM,148
+Union,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,35
 Union,11,Public Utilities Commissioner,,Kristie Fiegen,REP,660
 Union,12,Public Utilities Commissioner,,Forrest Wilson,DEM,252
 Union,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,50
 Union,12,Public Utilities Commissioner,,Kristie Fiegen,REP,935
-Union,1,State Senate,16,Kevin D. Jensen,REP,355
-Union,2,State Senate,16,Kevin D. Jensen,REP,291
-Union,3,State Senate,16,Kevin D. Jensen,REP,393
-Union,4,State Senate,16,Kevin D. Jensen,REP,496
-Union,5,State Senate,16,Kevin D. Jensen,REP,496
-Union,6,State Senate,16,Kevin D. Jensen,REP,654
-Union,7,State Senate,16,Kevin D. Jensen,REP,180
-Union,8,State Senate,16,Kevin D. Jensen,REP,330
-Union,9,State Senate,16,Kevin D. Jensen,REP,56
-Union,10,State Senate,16,Kevin D. Jensen,REP,492
-Union,11,State Senate,16,Kevin D. Jensen,REP,694
-Union,12,State Senate,16,Kevin D. Jensen,REP,984
-Union,1,State Senate,17,Sydney Davis,REP,313
-Union,2,State Senate,17,Sydney Davis,REP,913
-Union,3,State Senate,17,Sydney Davis,REP,180
-Union,4,State Senate,17,Sydney Davis,REP,67
-Union,5,State Senate,17,Sydney Davis,REP,654
-Union,6,State Senate,17,Sydney Davis,REP,67
-Union,7,State Senate,17,Sydney Davis,REP,67
-Union,8,State Senate,17,Sydney Davis,REP,330
-Union,9,State Senate,17,Sydney Davis,REP,568
+Union,01,State Senate,16,Kevin D. Jensen,REP,355
+Union,02,State Senate,16,Kevin D. Jensen,REP,291
+Union,03,State Senate,17,Sydney Davis,REP,913
+Union,04,State Senate,16,Kevin D. Jensen,REP,393
+Union,05,State Senate,16,Kevin D. Jensen,REP,496
+Union,06,State Senate,17,Sydney Davis,REP,654
+Union,07,State Senate,16,Kevin D. Jensen,REP,180
+Union,07,State Senate,17,Sydney Davis,REP,67
+Union,08,State Senate,17,Sydney Davis,REP,330
+Union,09,State Senate,17,Sydney Davis,REP,568
 Union,10,State Senate,17,Sydney Davis,REP,492
 Union,11,State Senate,17,Sydney Davis,REP,694
 Union,12,State Senate,17,Sydney Davis,REP,984
-Union,01,State Senate,16,Kevin D. Jensen,REP,355
-Union,01,State Senate,17,Sydney Davis,REP,513
-Union,02,State Senate,16,Kevin D. Jensen,REP,291
-Union,02,State Senate,17,Sydney Davis,REP,913
-Union,03,State Senate,16,Kevin D. Jensen,REP,393
-Union,03,State Senate,17,Sydney Davis,REP,965
-Union,04,State Senate,16,Kevin D. Jensen,REP,496
-Union,04,State Senate,17,Sydney Davis,REP,1190
-Union,05,State Senate,16,Kevin D. Jensen,REP,496
-Union,05,State Senate,17,Sydney Davis,REP,1160
-Union,06,State Senate,16,Kevin D. Jensen,REP,180
-Union,06,State Senate,17,Sydney Davis,REP,713
-Union,07,State Senate,16,Kevin D. Jensen,REP,330
-Union,07,State Senate,17,Sydney Davis,REP,720
-Union,08,State Senate,16,Kevin D. Jensen,REP,130
-Union,08,State Senate,17,Sydney Davis,REP,694
-Union,09,State Senate,16,Kevin D. Jensen,REP,672
-Union,09,State Senate,17,Sydney Davis,REP,1164
-Union,01,State House,16,Matthew Ness,DEM,93
-Union,01,State House,16,Karla J. Lems,REP,278
+Union,01,State House,16,Matthew Carl Ness,DEM,93
+Union,01,State House,16,Karla J Lems,REP,278
 Union,01,State House,16,Richard Vasgaard,REP,292
-Union,01,State House,17,Ray Ring,DEM,303
-Union,01,State House,17,William (Bill) Shorma,REP,663
-Union,01,State House,17,Chris Kassin,REP,801
-Union,02,State House,16,Matthew Ness,DEM,122
-Union,02,State House,16,Karla J. Lems,REP,217
+Union,01,State House,17,Ray Ring,DEM,0
+Union,01,State House,17,William (Bill) Shorma,REP,0
+Union,01,State House,17,Chris Kassin,REP,0
+Union,02,State House,16,Matthew Carl Ness,DEM,122
+Union,02,State House,16,Karla J Lems,REP,217
 Union,02,State House,16,Richard Vasgaard,REP,197
-Union,02,State House,17,Ray Ring,DEM,303
-Union,02,State House,17,William (Bill) Shorma,REP,663
-Union,02,State House,17,Chris Kassin,REP,801
-Union,03,State House,16,Matthew Ness,DEM,132
-Union,03,State House,16,Karla J. Lems,REP,324
-Union,03,State House,16,Richard Vasgaard,REP,329
+Union,02,State House,17,Ray Ring,DEM,0
+Union,02,State House,17,William (Bill) Shorma,REP,0
+Union,02,State House,17,Chris Kassin,REP,0
+Union,03,State House,16,Matthew Carl Ness,DEM,0
+Union,03,State House,16,Karla J Lems,REP,0
+Union,03,State House,16,Richard Vasgaard,REP,0
 Union,03,State House,17,Ray Ring,DEM,303
 Union,03,State House,17,William (Bill) Shorma,REP,663
 Union,03,State House,17,Chris Kassin,REP,801
-Union,04,State House,16,Matthew Ness,DEM,195
-Union,04,State House,16,Karla J. Lems,REP,413
-Union,04,State House,16,Richard Vasgaard,REP,409
-Union,04,State House,17,Ray Ring,DEM,303
-Union,04,State House,17,William (Bill) Shorma,REP,663
-Union,04,State House,17,Chris Kassin,REP,801
-Union,05,State House,16,Matthew Ness,DEM,178
-Union,05,State House,16,Karla J. Lems,REP,524
-Union,05,State House,16,Richard Vasgaard,REP,537
-Union,05,State House,17,Ray Ring,DEM,303
-Union,05,State House,17,William (Bill) Shorma,REP,663
-Union,05,State House,17,Chris Kassin,REP,801
-Union,06,State House,16,Matthew Ness,DEM,87
-Union,06,State House,16,Karla J. Lems,REP,147
-Union,06,State House,16,Richard Vasgaard,REP,161
-Union,06,State House,17,Ray Ring,DEM,29
-Union,06,State House,17,William (Bill) Shorma,REP,44
-Union,06,State House,17,Chris Kassin,REP,58
-Union,07,State House,16,Matthew Ness,DEM,123
-Union,07,State House,16,Karla J. Lems,REP,268
-Union,07,State House,16,Richard Vasgaard,REP,282
+Union,04,State House,16,Matthew Carl Ness,DEM,132
+Union,04,State House,16,Karla J Lems,REP,324
+Union,04,State House,16,Richard Vasgaard,REP,329
+Union,04,State House,17,Ray Ring,DEM,0
+Union,04,State House,17,William (Bill) Shorma,REP,0
+Union,04,State House,17,Chris Kassin,REP,0
+Union,05,State House,16,Matthew Carl Ness,DEM,195
+Union,05,State House,16,Karla J Lems,REP,413
+Union,05,State House,16,Richard Vasgaard,REP,409
+Union,05,State House,17,Ray Ring,DEM,0
+Union,05,State House,17,William (Bill) Shorma,REP,0
+Union,05,State House,17,Chris Kassin,REP,0
+Union,06,State House,16,Matthew Carl Ness,DEM,0
+Union,06,State House,16,Karla J Lems,REP,0
+Union,06,State House,16,Richard Vasgaard,REP,0
+Union,06,State House,17,Ray Ring,DEM,178
+Union,06,State House,17,William (Bill) Shorma,REP,524
+Union,06,State House,17,Chris Kassin,REP,537
+Union,07,State House,16,Matthew Carl Ness,DEM,87
+Union,07,State House,16,Karla J Lems,REP,147
+Union,07,State House,16,Richard Vasgaard,REP,161
 Union,07,State House,17,Ray Ring,DEM,29
 Union,07,State House,17,William (Bill) Shorma,REP,44
 Union,07,State House,17,Chris Kassin,REP,58
-Union,08,State House,16,Matthew Ness,DEM,230
-Union,08,State House,16,Karla J. Lems,REP,386
-Union,08,State House,16,Richard Vasgaard,REP,522
+Union,08,State House,16,Matthew Carl Ness,DEM,0
+Union,08,State House,16,Karla J Lems,REP,0
+Union,08,State House,16,Richard Vasgaard,REP,0
 Union,08,State House,17,Ray Ring,DEM,123
 Union,08,State House,17,William (Bill) Shorma,REP,268
 Union,08,State House,17,Chris Kassin,REP,282
-Union,09,State House,16,Matthew Ness,DEM,230
-Union,09,State House,16,Karla J. Lems,REP,386
-Union,09,State House,16,Richard Vasgaard,REP,522
-Union,09,State House,17,Ray Ring,DEM,167
-Union,09,State House,17,William (Bill) Shorma,REP,572
-Union,09,State House,17,Chris Kassin,REP,594
-Union,10,State House,16,Matthew Ness,DEM,227
-Union,10,State House,16,Karla J. Lems,REP,359
-Union,10,State House,16,Richard Vasgaard,REP,394
-Union,10,State House,17,Ray Ring,DEM,167
-Union,10,State House,17,William (Bill) Shorma,REP,572
-Union,10,State House,17,Chris Kassin,REP,594
-Union,11,State House,16,Matthew Ness,DEM,277
-Union,11,State House,16,Karla J. Lems,REP,844
-Union,11,State House,16,Richard Vasgaard,REP,727
+Union,09,State House,16,Matthew Carl Ness,DEM,0
+Union,09,State House,16,Karla J Lems,REP,0
+Union,09,State House,16,Richard Vasgaard,REP,0
+Union,09,State House,17,Ray Ring,DEM,230
+Union,09,State House,17,William (Bill) Shorma,REP,386
+Union,09,State House,17,Chris Kassin,REP,522
+Union,10,State House,16,Matthew Carl Ness,DEM,0
+Union,10,State House,16,Karla J Lems,REP,0
+Union,10,State House,16,Richard Vasgaard,REP,0
+Union,10,State House,17,Ray Ring,DEM,222
+Union,10,State House,17,William (Bill) Shorma,REP,359
+Union,10,State House,17,Chris Kassin,REP,394
+Union,11,State House,16,Matthew Carl Ness,DEM,0
+Union,11,State House,16,Karla J Lems,REP,0
+Union,11,State House,16,Richard Vasgaard,REP,0
 Union,11,State House,17,Ray Ring,DEM,167
 Union,11,State House,17,William (Bill) Shorma,REP,572
 Union,11,State House,17,Chris Kassin,REP,594
-Union,01,State House,16,Karla Lems,REP,278
-Union,02,State House,16,Karla Lems,REP,217
-Union,03,State House,16,Karla Lems,REP,0
-Union,04,State House,16,Karla Lems,REP,324
-Union,05,State House,16,Karla Lems,REP,413
-Union,06,State House,16,Karla Lems,REP,0
-Union,07,State House,16,Karla Lems,REP,147
-Union,08,State House,16,Karla Lems,REP,123
-Union,09,State House,16,Karla Lems,REP,0
-Union,10,State House,16,Karla Lems,REP,359
-Union,11,State House,16,Karla Lems,REP,572
-Union,12,State House,16,Matthew Ness,DEM,0
-Union,12,State House,16,Karla Lems,REP,0
+Union,12,State House,16,Matthew Carl Ness,DEM,0
+Union,12,State House,16,Karla J Lems,REP,0
 Union,12,State House,16,Richard Vasgaard,REP,0
 Union,12,State House,17,Ray Ring,DEM,277
 Union,12,State House,17,William (Bill) Shorma,REP,844
 Union,12,State House,17,Chris Kassin,REP,727
-Union,01,Supreme Court Retention,,Yes,,311
-Union,01,Supreme Court Retention,,No,,61
-Union,02,Supreme Court Retention,,Yes,,272
-Union,02,Supreme Court Retention,,No,,69
-Union,03,Supreme Court Retention,,Yes,,835
-Union,03,Supreme Court Retention,,No,,177
-Union,04,Supreme Court Retention,,Yes,,349
-Union,04,Supreme Court Retention,,No,,80
-Union,05,Supreme Court Retention,,Yes,,492
-Union,05,Supreme Court Retention,,No,,111
-Union,06,Supreme Court Retention,,Yes,,573
-Union,06,Supreme Court Retention,,No,,126
-Union,07,Supreme Court Retention,,Yes,,217
-Union,07,Supreme Court Retention,,No,,49
-Union,08,Supreme Court Retention,,Yes,,319
-Union,08,Supreme Court Retention,,No,,94
-Union,09,Supreme Court Retention,,Yes,,530
-Union,09,Supreme Court Retention,,No,,169
-Union,10,Supreme Court Retention,,Yes,,449
-Union,10,Supreme Court Retention,,No,,96
-Union,11,Supreme Court Retention,,Yes,,620
-Union,11,Supreme Court Retention,,No,,115
-Union,12,Supreme Court Retention,,Yes,,897
-Union,12,Supreme Court Retention,,No,,176
+Union,01,Supreme Court Retention,5,Scott P. Myren - Yes,,311
+Union,01,Supreme Court Retention,5,Scott P. Myren - No,,61
+Union,02,Supreme Court Retention,5,Scott P. Myren - Yes,,272
+Union,02,Supreme Court Retention,5,Scott P. Myren - No,,69
+Union,03,Supreme Court Retention,5,Scott P. Myren - Yes,,835
+Union,03,Supreme Court Retention,5,Scott P. Myren - No,,177
+Union,04,Supreme Court Retention,5,Scott P. Myren - Yes,,349
+Union,04,Supreme Court Retention,5,Scott P. Myren - No,,80
+Union,05,Supreme Court Retention,5,Scott P. Myren - Yes,,492
+Union,05,Supreme Court Retention,5,Scott P. Myren - No,,111
+Union,06,Supreme Court Retention,5,Scott P. Myren - Yes,,573
+Union,06,Supreme Court Retention,5,Scott P. Myren - No,,126
+Union,07,Supreme Court Retention,5,Scott P. Myren - Yes,,217
+Union,07,Supreme Court Retention,5,Scott P. Myren - No,,49
+Union,08,Supreme Court Retention,5,Scott P. Myren - Yes,,310
+Union,08,Supreme Court Retention,5,Scott P. Myren - No,,84
+Union,09,Supreme Court Retention,5,Scott P. Myren - Yes,,530
+Union,09,Supreme Court Retention,5,Scott P. Myren - No,,169
+Union,10,Supreme Court Retention,5,Scott P. Myren - Yes,,449
+Union,10,Supreme Court Retention,5,Scott P. Myren - No,,156
+Union,11,Supreme Court Retention,5,Scott P. Myren - Yes,,620
+Union,11,Supreme Court Retention,5,Scott P. Myren - No,,115
+Union,12,Supreme Court Retention,5,Scott P. Myren - Yes,,897
+Union,12,Supreme Court Retention,5,Scott P. Myren - No,,176
 Union,01,Constitutional Amendment E,,Yes,,139
 Union,01,Constitutional Amendment E,,No,,314
 Union,01,Constitutional Amendment F,,Yes,,282
@@ -308,13 +232,13 @@ Union,02,Constitutional Amendment G,,Yes,,161
 Union,02,Constitutional Amendment G,,No,,248
 Union,02,Constitutional Amendment H,,Yes,,149
 Union,02,Constitutional Amendment H,,No,,242
-Union,03,Constitutional Amendment E,,Yes,,347
-Union,03,Constitutional Amendment E,,No,,743
-Union,03,Constitutional Amendment F,,Yes,,446
-Union,03,Constitutional Amendment F,,No,,434
-Union,03,Constitutional Amendment G,,Yes,,741
-Union,03,Constitutional Amendment G,,No,,378
-Union,03,Constitutional Amendment H,,Yes,,373
+Union,03,Constitutional Amendment E,,Yes,,477
+Union,03,Constitutional Amendment E,,No,,721
+Union,03,Constitutional Amendment F,,Yes,,748
+Union,03,Constitutional Amendment F,,No,,446
+Union,03,Constitutional Amendment G,,Yes,,434
+Union,03,Constitutional Amendment G,,No,,781
+Union,03,Constitutional Amendment H,,Yes,,378
 Union,03,Constitutional Amendment H,,No,,773
 Union,04,Constitutional Amendment E,,Yes,,202
 Union,04,Constitutional Amendment E,,No,,341
@@ -324,23 +248,23 @@ Union,04,Constitutional Amendment G,,Yes,,192
 Union,04,Constitutional Amendment G,,No,,368
 Union,04,Constitutional Amendment H,,Yes,,167
 Union,04,Constitutional Amendment H,,No,,373
-Union,05,Constitutional Amendment E,,Yes,,401
-Union,05,Constitutional Amendment E,,No,,300
-Union,05,Constitutional Amendment F,,Yes,,305
-Union,05,Constitutional Amendment F,,No,,272
-Union,05,Constitutional Amendment G,,Yes,,448
-Union,05,Constitutional Amendment G,,No,,220
-Union,05,Constitutional Amendment H,,Yes,,274
-Union,05,Constitutional Amendment H,,No,,396
-Union,06,Constitutional Amendment E,,Yes,,487
-Union,06,Constitutional Amendment E,,No,,205
-Union,06,Constitutional Amendment F,,Yes,,377
+Union,05,Constitutional Amendment E,,Yes,,300
+Union,05,Constitutional Amendment E,,No,,409
+Union,05,Constitutional Amendment F,,Yes,,401
+Union,05,Constitutional Amendment F,,No,,305
+Union,05,Constitutional Amendment G,,Yes,,272
+Union,05,Constitutional Amendment G,,No,,448
+Union,05,Constitutional Amendment H,,Yes,,220
+Union,05,Constitutional Amendment H,,No,,470
+Union,06,Constitutional Amendment E,,Yes,,380
+Union,06,Constitutional Amendment E,,No,,478
+Union,06,Constitutional Amendment F,,Yes,,619
 Union,06,Constitutional Amendment F,,No,,233
 Union,06,Constitutional Amendment G,,Yes,,381
 Union,06,Constitutional Amendment G,,No,,477
-Union,06,Constitutional Amendment H,,Yes,,486
-Union,06,Constitutional Amendment H,,No,,516
-Union,07,Constitutional Amendment E,,Yes,,183
+Union,06,Constitutional Amendment H,,Yes,,276
+Union,06,Constitutional Amendment H,,No,,527
+Union,07,Constitutional Amendment E,,Yes,,143
 Union,07,Constitutional Amendment E,,No,,205
 Union,07,Constitutional Amendment F,,Yes,,211
 Union,07,Constitutional Amendment F,,No,,138
@@ -348,36 +272,38 @@ Union,07,Constitutional Amendment G,,Yes,,122
 Union,07,Constitutional Amendment G,,No,,236
 Union,07,Constitutional Amendment H,,Yes,,118
 Union,07,Constitutional Amendment H,,No,,220
-Union,08,Constitutional Amendment E,,Yes,,147
-Union,08,Constitutional Amendment E,,No,,203
-Union,08,Constitutional Amendment F,,Yes,,175
-Union,08,Constitutional Amendment F,,No,,119
-Union,08,Constitutional Amendment G,,Yes,,293
-Union,08,Constitutional Amendment G,,No,,116
-Union,08,Constitutional Amendment H,,Yes,,203
+Union,08,Constitutional Amendment E,,Yes,,187
+Union,08,Constitutional Amendment E,,No,,275
+Union,08,Constitutional Amendment F,,Yes,,278
+Union,08,Constitutional Amendment F,,No,,189
+Union,08,Constitutional Amendment G,,Yes,,175
+Union,08,Constitutional Amendment G,,No,,293
+Union,08,Constitutional Amendment H,,Yes,,160
 Union,08,Constitutional Amendment H,,No,,289
 Union,09,Constitutional Amendment E,,Yes,,373
 Union,09,Constitutional Amendment E,,No,,449
-Union,09,Constitutional Amendment F,,Yes,,455
-Union,09,Constitutional Amendment F,,No,,351
+Union,09,Constitutional Amendment F,,Yes,,525
+Union,09,Constitutional Amendment F,,No,,301
 Union,09,Constitutional Amendment G,,Yes,,402
 Union,09,Constitutional Amendment G,,No,,434
 Union,09,Constitutional Amendment H,,Yes,,362
 Union,09,Constitutional Amendment H,,No,,428
-Union,10,Constitutional Amendment E,,Yes,,327
-Union,10,Constitutional Amendment E,,No,,393
+Union,10,Constitutional Amendment E,,Yes,,353
+Union,10,Constitutional Amendment E,,No,,375
 Union,10,Constitutional Amendment F,,Yes,,454
 Union,10,Constitutional Amendment F,,No,,261
-Union,10,Constitutional Amendment G,,Yes,,399
+Union,10,Constitutional Amendment G,,Yes,,359
 Union,10,Constitutional Amendment G,,No,,377
 Union,10,Constitutional Amendment H,,Yes,,269
 Union,10,Constitutional Amendment H,,No,,405
-Union,11,Constitutional Amendment E,,Yes,,506
-Union,11,Constitutional Amendment E,,No,,236
-Union,11,Constitutional Amendment F,,Yes,,393
-Union,11,Constitutional Amendment F,,No,,501
-Union,11,Constitutional Amendment G,,Yes,,277
-Union,11,Constitutional Amendment G,,No,,576
+Union,11,Constitutional Amendment E,,Yes,,427
+Union,11,Constitutional Amendment E,,No,,463
+Union,11,Constitutional Amendment F,,Yes,,655
+Union,11,Constitutional Amendment F,,No,,231
+Union,11,Constitutional Amendment G,,Yes,,393
+Union,11,Constitutional Amendment G,,No,,501
+Union,11,Constitutional Amendment H,,Yes,,277
+Union,11,Constitutional Amendment H,,No,,576
 Union,12,Constitutional Amendment E,,Yes,,628
 Union,12,Constitutional Amendment E,,No,,646
 Union,12,Constitutional Amendment F,,Yes,,884
@@ -390,20 +316,20 @@ Union,01,Initiated Measure 28,,Yes,,120
 Union,01,Initiated Measure 28,,No,,328
 Union,01,Initiated Measure 29,,Yes,,145
 Union,01,Initiated Measure 29,,No,,309
-Union,01,Referred Law 21,,Yes,,172
+Union,01,Referred Law 21,,Yes,,177
 Union,01,Referred Law 21,,No,,266
 Union,02,Initiated Measure 28,,Yes,,135
 Union,02,Initiated Measure 28,,No,,272
 Union,02,Initiated Measure 29,,Yes,,212
 Union,02,Initiated Measure 29,,No,,196
-Union,02,Referred Law 21,,Yes,,177
+Union,02,Referred Law 21,,Yes,,172
 Union,02,Referred Law 21,,No,,226
-Union,03,Initiated Measure 28,,Yes,,145
+Union,03,Initiated Measure 28,,Yes,,468
 Union,03,Initiated Measure 28,,No,,710
 Union,03,Initiated Measure 29,,Yes,,591
 Union,03,Initiated Measure 29,,No,,613
 Union,03,Referred Law 21,,Yes,,584
-Union,03,Referred Law 21,,No,,261
+Union,03,Referred Law 21,,No,,561
 Union,04,Initiated Measure 28,,Yes,,160
 Union,04,Initiated Measure 28,,No,,385
 Union,04,Initiated Measure 29,,Yes,,238
@@ -417,7 +343,7 @@ Union,05,Initiated Measure 29,,No,,412
 Union,05,Referred Law 21,,Yes,,265
 Union,05,Referred Law 21,,No,,424
 Union,06,Initiated Measure 28,,Yes,,341
-Union,06,Initiated Measure 28,,No,,965
+Union,06,Initiated Measure 28,,No,,503
 Union,06,Initiated Measure 29,,Yes,,457
 Union,06,Initiated Measure 29,,No,,408
 Union,06,Referred Law 21,,Yes,,493
@@ -428,26 +354,26 @@ Union,07,Initiated Measure 29,,Yes,,150
 Union,07,Initiated Measure 29,,No,,203
 Union,07,Referred Law 21,,Yes,,134
 Union,07,Referred Law 21,,No,,202
-Union,08,Initiated Measure 28,,Yes,,205
-Union,08,Initiated Measure 28,,No,,217
+Union,08,Initiated Measure 28,,Yes,,181
+Union,08,Initiated Measure 28,,No,,278
 Union,08,Initiated Measure 29,,Yes,,251
 Union,08,Initiated Measure 29,,No,,216
 Union,08,Referred Law 21,,Yes,,256
 Union,08,Referred Law 21,,No,,185
 Union,09,Initiated Measure 28,,Yes,,362
-Union,09,Initiated Measure 28,,No,,578
+Union,09,Initiated Measure 28,,No,,453
 Union,09,Initiated Measure 29,,Yes,,467
 Union,09,Initiated Measure 29,,No,,378
 Union,09,Referred Law 21,,Yes,,477
 Union,09,Referred Law 21,,No,,321
-Union,10,Initiated Measure 28,,Yes,,415
-Union,10,Initiated Measure 28,,No,,346
+Union,10,Initiated Measure 28,,Yes,,348
+Union,10,Initiated Measure 28,,No,,364
 Union,10,Initiated Measure 29,,Yes,,415
 Union,10,Initiated Measure 29,,No,,321
 Union,10,Referred Law 21,,Yes,,433
 Union,10,Referred Law 21,,No,,267
-Union,11,Initiated Measure 28,,Yes,,318
-Union,11,Initiated Measure 28,,No,,227
+Union,11,Initiated Measure 28,,Yes,,356
+Union,11,Initiated Measure 28,,No,,511
 Union,11,Initiated Measure 29,,Yes,,434
 Union,11,Initiated Measure 29,,No,,450
 Union,11,Referred Law 21,,Yes,,530

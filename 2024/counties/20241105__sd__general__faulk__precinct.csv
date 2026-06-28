@@ -1,29 +1,29 @@
 county,precinct,office,district,candidate,party,votes
-Faulk,1,President,,Kamala D. Harris and Tim Waz,DEM,37
+Faulk,1,President,,Kamala D. Harris and Tim Walz,DEM,37
 Faulk,1,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,1,President,,Donald J. Trump and JD Vance,REP,133
 Faulk,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Faulk,2,President,,Kamala D. Harris and Tim Waz,DEM,7
+Faulk,2,President,,Kamala D. Harris and Tim Walz,DEM,7
 Faulk,2,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,2,President,,Donald J. Trump and JD Vance,REP,122
 Faulk,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Faulk,3,President,,Kamala D. Harris and Tim Waz,DEM,14
+Faulk,3,President,,Kamala D. Harris and Tim Walz,DEM,14
 Faulk,3,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,3,President,,Donald J. Trump and JD Vance,REP,107
-Faulk,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Faulk,4,President,,Kamala D. Harris and Tim Waz,DEM,18
+Faulk,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Faulk,4,President,,Kamala D. Harris and Tim Walz,DEM,18
 Faulk,4,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,4,President,,Donald J. Trump and JD Vance,REP,76
 Faulk,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Faulk,5,President,,Kamala D. Harris and Tim Waz,DEM,15
+Faulk,5,President,,Kamala D. Harris and Tim Walz,DEM,15
 Faulk,5,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,5,President,,Donald J. Trump and JD Vance,REP,88
 Faulk,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Faulk,6,President,,Kamala D. Harris and Tim Waz,DEM,38
+Faulk,6,President,,Kamala D. Harris and Tim Walz,DEM,38
 Faulk,6,President,,Chase Oliver and Mike ter Maat,LIB,6
 Faulk,6,President,,Donald J. Trump and JD Vance,REP,184
 Faulk,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Faulk,7,President,,Kamala D. Harris and Tim Waz,DEM,54
+Faulk,7,President,,Kamala D. Harris and Tim Walz,DEM,54
 Faulk,7,President,,Chase Oliver and Mike ter Maat,LIB,0
 Faulk,7,President,,Donald J. Trump and JD Vance,REP,210
 Faulk,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
@@ -83,20 +83,20 @@ Faulk,6,State House,23,Scott Moore,REP,164
 Faulk,6,State House,23,Spencer Gosch,REP,149
 Faulk,7,State House,23,Scott Moore,REP,176
 Faulk,7,State House,23,Spencer Gosch,REP,166
-Faulk,1,Supreme Court Retention,5,Justice Scott P. Myren,,127
-Faulk,1,Supreme Court Retention,5,No,,16
-Faulk,2,Supreme Court Retention,5,Justice Scott P. Myren,,101
-Faulk,2,Supreme Court Retention,5,No,,14
-Faulk,3,Supreme Court Retention,5,Justice Scott P. Myren,,84
-Faulk,3,Supreme Court Retention,5,No,,13
-Faulk,4,Supreme Court Retention,5,Justice Scott P. Myren,,69
-Faulk,4,Supreme Court Retention,5,No,,15
-Faulk,5,Supreme Court Retention,5,Justice Scott P. Myren,,71
-Faulk,5,Supreme Court Retention,5,No,,11
-Faulk,6,Supreme Court Retention,5,Justice Scott P. Myren,,164
-Faulk,6,Supreme Court Retention,5,No,,28
-Faulk,7,Supreme Court Retention,5,Justice Scott P. Myren,,186
-Faulk,7,Supreme Court Retention,5,No,,43
+Faulk,1,Supreme Court Retention,5,Scott P. Myren - Yes,,127
+Faulk,1,Supreme Court Retention,5,Scott P. Myren - No,,16
+Faulk,2,Supreme Court Retention,5,Scott P. Myren - Yes,,101
+Faulk,2,Supreme Court Retention,5,Scott P. Myren - No,,14
+Faulk,3,Supreme Court Retention,5,Scott P. Myren - Yes,,84
+Faulk,3,Supreme Court Retention,5,Scott P. Myren - No,,13
+Faulk,4,Supreme Court Retention,5,Scott P. Myren - Yes,,69
+Faulk,4,Supreme Court Retention,5,Scott P. Myren - No,,15
+Faulk,5,Supreme Court Retention,5,Scott P. Myren - Yes,,71
+Faulk,5,Supreme Court Retention,5,Scott P. Myren - No,,11
+Faulk,6,Supreme Court Retention,5,Scott P. Myren - Yes,,164
+Faulk,6,Supreme Court Retention,5,Scott P. Myren - No,,28
+Faulk,7,Supreme Court Retention,5,Scott P. Myren - Yes,,186
+Faulk,7,Supreme Court Retention,5,Scott P. Myren - No,,43
 Faulk,1,Constitutional Amendment E,,Yes,,49
 Faulk,1,Constitutional Amendment E,,No,,126
 Faulk,1,Constitutional Amendment F,,Yes,,85
@@ -122,7 +122,7 @@ Faulk,3,Constitutional Amendment G,,No,,108
 Faulk,3,Constitutional Amendment H,,Yes,,18
 Faulk,3,Constitutional Amendment H,,No,,101
 Faulk,4,Constitutional Amendment E,,Yes,,18
-Faulk,4,Constitutional Amendment E,,No,,76
+Faulk,4,Constitutional Amendment E,,No,,74
 Faulk,4,Constitutional Amendment F,,Yes,,40
 Faulk,4,Constitutional Amendment F,,No,,53
 Faulk,4,Constitutional Amendment G,,Yes,,14

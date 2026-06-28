@@ -16,7 +16,7 @@ Miner,4,President,,Chase Oliver and Mike ter Maat,LIB,2
 Miner,4,President,,Donald J. Trump and JD Vance,REP,104
 Miner,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
 Miner,5,President,,Kamala D. Harris and Tim Walz,DEM,18
-Miner,5,President,,Chase Oliver and Mike ter Maat,LIB,0
+Miner,5,President,,Chase Oliver and Mike ter Maat,LIB,3
 Miner,5,President,,Donald J. Trump and JD Vance,REP,54
 Miner,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Miner,6,President,,Kamala D. Harris and Tim Walz,DEM,39
@@ -28,12 +28,12 @@ Miner,7,President,,Chase Oliver and Mike ter Maat,LIB,0
 Miner,7,President,,Donald J. Trump and JD Vance,REP,132
 Miner,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Miner,8,President,,Kamala D. Harris and Tim Walz,DEM,24
-Miner,8,President,,Chase Oliver and Mike ter Maat,LIB,3
+Miner,8,President,,Chase Oliver and Mike ter Maat,LIB,0
 Miner,8,President,,Donald J. Trump and JD Vance,REP,92
 Miner,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Miner,1,U.S. House,1,Sheryl Johnson,DEM,34
 Miner,1,U.S. House,1,Dusty Johnson,REP,115
-Miner,2,U.S. House,1,Sheryl Johnson,DEM,27
+Miner,2,U.S. House,1,Sheryl Johnson,DEM,16
 Miner,2,U.S. House,1,Dusty Johnson,REP,109
 Miner,3,U.S. House,1,Sheryl Johnson,DEM,30
 Miner,3,U.S. House,1,Dusty Johnson,REP,86
@@ -59,7 +59,7 @@ Miner,3,Public Utilities Commissioner,,Kristie Fiegen,REP,76
 Miner,4,Public Utilities Commissioner,,Forrest Wilson,DEM,19
 Miner,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
 Miner,4,Public Utilities Commissioner,,Kristie Fiegen,REP,121
-Miner,5,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Miner,5,Public Utilities Commissioner,,Forrest Wilson,DEM,11
 Miner,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Miner,5,Public Utilities Commissioner,,Kristie Fiegen,REP,62
 Miner,6,Public Utilities Commissioner,,Forrest Wilson,DEM,24
@@ -71,27 +71,18 @@ Miner,7,Public Utilities Commissioner,,Kristie Fiegen,REP,129
 Miner,8,Public Utilities Commissioner,,Forrest Wilson,DEM,16
 Miner,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
 Miner,8,Public Utilities Commissioner,,Kristie Fiegen,REP,83
-Miner,1,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,2
-Miner,2,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,4
-Miner,3,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,5
-Miner,4,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,5
-Miner,5,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,3
-Miner,6,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,3
-Miner,7,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,4
-Miner,8,President,,"Robert F. Kennedy, Jr., and Nicole Shanahan",IND,2
 Miner,1,State Senate,08,Casey Crabtree,REP,101
 Miner,2,State Senate,08,Casey Crabtree,REP,94
 Miner,3,State Senate,08,Casey Crabtree,REP,86
 Miner,4,State Senate,08,Casey Crabtree,REP,113
-Miner,5,State Senate,08,Casey Crabtree,REP,77
+Miner,5,State Senate,20,Paul Miskimins,REP,52
 Miner,6,State Senate,08,Casey Crabtree,REP,155
 Miner,7,State Senate,08,Casey Crabtree,REP,131
 Miner,8,State Senate,08,Casey Crabtree,REP,80
-Miner,5,State Senate,20,Paul Miskimins,REP,52
 Miner,1,State House,08,Greg Zimmerman,LIB,17
 Miner,1,State House,08,Tim Reisch,REP,118
 Miner,1,State House,08,Tim Walburg,REP,85
-Miner,2,State House,08,Greg Zimmerman,LIB,16
+Miner,2,State House,08,Greg Zimmerman,LIB,10
 Miner,2,State House,08,Tim Reisch,REP,106
 Miner,2,State House,08,Tim Walburg,REP,76
 Miner,3,State House,08,Greg Zimmerman,LIB,16
@@ -100,14 +91,142 @@ Miner,3,State House,08,Tim Walburg,REP,59
 Miner,4,State House,08,Greg Zimmerman,LIB,16
 Miner,4,State House,08,Tim Reisch,REP,124
 Miner,4,State House,08,Tim Walburg,REP,87
-Miner,5,State House,08,Greg Zimmerman,LIB,19
-Miner,5,State House,08,Tim Reisch,REP,177
-Miner,5,State House,08,Tim Walburg,REP,138
-Miner,6,State House,08,Greg Zimmerman,LIB,22
-Miner,6,State House,08,Tim Reisch,REP,148
-Miner,6,State House,08,Tim Walburg,REP,98
-Miner,7,State House,08,Greg Zimmerman,LIB,19
-Miner,7,State House,08,Tim Reisch,REP,85
-Miner,7,State House,08,Tim Walburg,REP,70
 Miner,5,State House,20,Jeff Bathke,REP,43
 Miner,5,State House,20,Kaley Nolz,REP,55
+Miner,6,State House,08,Greg Zimmerman,LIB,19
+Miner,6,State House,08,Tim Reisch,REP,177
+Miner,6,State House,08,Tim Walburg,REP,138
+Miner,7,State House,08,Greg Zimmerman,LIB,22
+Miner,7,State House,08,Tim Reisch,REP,148
+Miner,7,State House,08,Tim Walburg,REP,98
+Miner,8,State House,08,Greg Zimmerman,LIB,19
+Miner,8,State House,08,Tim Reisch,REP,85
+Miner,8,State House,08,Tim Walburg,REP,70
+Miner,1,Supreme Court Retention,5,Scott P. Myren - Yes,,99
+Miner,1,Supreme Court Retention,5,Scott P. Myren - No,,23
+Miner,2,Supreme Court Retention,5,Scott P. Myren - Yes,,82
+Miner,2,Supreme Court Retention,5,Scott P. Myren - No,,20
+Miner,3,Supreme Court Retention,5,Scott P. Myren - Yes,,82
+Miner,3,Supreme Court Retention,5,Scott P. Myren - No,,17
+Miner,4,Supreme Court Retention,5,Scott P. Myren - Yes,,97
+Miner,4,Supreme Court Retention,5,Scott P. Myren - No,,28
+Miner,5,Supreme Court Retention,5,Scott P. Myren - Yes,,59
+Miner,5,Supreme Court Retention,5,Scott P. Myren - No,,9
+Miner,6,Supreme Court Retention,5,Scott P. Myren - Yes,,140
+Miner,6,Supreme Court Retention,5,Scott P. Myren - No,,34
+Miner,7,Supreme Court Retention,5,Scott P. Myren - Yes,,129
+Miner,7,Supreme Court Retention,5,Scott P. Myren - No,,18
+Miner,8,Supreme Court Retention,5,Scott P. Myren - Yes,,82
+Miner,8,Supreme Court Retention,5,Scott P. Myren - No,,16
+Miner,1,Constitutional Amendment E,,Yes,,38
+Miner,1,Constitutional Amendment E,,No,,107
+Miner,1,Constitutional Amendment F,,Yes,,73
+Miner,1,Constitutional Amendment F,,No,,74
+Miner,1,Constitutional Amendment G,,Yes,,42
+Miner,1,Constitutional Amendment G,,No,,105
+Miner,1,Constitutional Amendment H,,Yes,,43
+Miner,1,Constitutional Amendment H,,No,,100
+Miner,1,Initiated Measure 28,,Yes,,45
+Miner,1,Initiated Measure 28,,No,,101
+Miner,1,Initiated Measure 29,,Yes,,74
+Miner,1,Initiated Measure 29,,No,,76
+Miner,1,Referred Law 21,,Yes,,45
+Miner,1,Referred Law 21,,No,,96
+Miner,2,Constitutional Amendment E,,Yes,,34
+Miner,2,Constitutional Amendment E,,No,,94
+Miner,2,Constitutional Amendment F,,Yes,,81
+Miner,2,Constitutional Amendment F,,No,,43
+Miner,2,Constitutional Amendment G,,Yes,,37
+Miner,2,Constitutional Amendment G,,No,,86
+Miner,2,Constitutional Amendment H,,Yes,,47
+Miner,2,Constitutional Amendment H,,No,,74
+Miner,2,Initiated Measure 28,,Yes,,28
+Miner,2,Initiated Measure 28,,No,,95
+Miner,2,Initiated Measure 29,,Yes,,42
+Miner,2,Initiated Measure 29,,No,,84
+Miner,2,Referred Law 21,,Yes,,44
+Miner,2,Referred Law 21,,No,,75
+Miner,3,Constitutional Amendment E,,Yes,,48
+Miner,3,Constitutional Amendment E,,No,,72
+Miner,3,Constitutional Amendment F,,Yes,,63
+Miner,3,Constitutional Amendment F,,No,,54
+Miner,3,Constitutional Amendment G,,Yes,,45
+Miner,3,Constitutional Amendment G,,No,,75
+Miner,3,Constitutional Amendment H,,Yes,,36
+Miner,3,Constitutional Amendment H,,No,,85
+Miner,3,Initiated Measure 28,,Yes,,34
+Miner,3,Initiated Measure 28,,No,,85
+Miner,3,Initiated Measure 29,,Yes,,52
+Miner,3,Initiated Measure 29,,No,,69
+Miner,3,Referred Law 21,,Yes,,56
+Miner,3,Referred Law 21,,No,,64
+Miner,4,Constitutional Amendment E,,Yes,,48
+Miner,4,Constitutional Amendment E,,No,,106
+Miner,4,Constitutional Amendment F,,Yes,,84
+Miner,4,Constitutional Amendment F,,No,,73
+Miner,4,Constitutional Amendment G,,Yes,,50
+Miner,4,Constitutional Amendment G,,No,,108
+Miner,4,Constitutional Amendment H,,Yes,,50
+Miner,4,Constitutional Amendment H,,No,,101
+Miner,4,Initiated Measure 28,,Yes,,26
+Miner,4,Initiated Measure 28,,No,,125
+Miner,4,Initiated Measure 29,,Yes,,44
+Miner,4,Initiated Measure 29,,No,,113
+Miner,4,Referred Law 21,,Yes,,42
+Miner,4,Referred Law 21,,No,,109
+Miner,5,Constitutional Amendment E,,Yes,,20
+Miner,5,Constitutional Amendment E,,No,,58
+Miner,5,Constitutional Amendment F,,Yes,,42
+Miner,5,Constitutional Amendment F,,No,,36
+Miner,5,Constitutional Amendment G,,Yes,,25
+Miner,5,Constitutional Amendment G,,No,,54
+Miner,5,Constitutional Amendment H,,Yes,,25
+Miner,5,Constitutional Amendment H,,No,,54
+Miner,5,Initiated Measure 28,,Yes,,14
+Miner,5,Initiated Measure 28,,No,,65
+Miner,5,Initiated Measure 29,,Yes,,35
+Miner,5,Initiated Measure 29,,No,,43
+Miner,5,Referred Law 21,,Yes,,16
+Miner,5,Referred Law 21,,No,,62
+Miner,6,Constitutional Amendment E,,Yes,,64
+Miner,6,Constitutional Amendment E,,No,,150
+Miner,6,Constitutional Amendment F,,Yes,,116
+Miner,6,Constitutional Amendment F,,No,,99
+Miner,6,Constitutional Amendment G,,Yes,,44
+Miner,6,Constitutional Amendment G,,No,,177
+Miner,6,Constitutional Amendment H,,Yes,,44
+Miner,6,Constitutional Amendment H,,No,,169
+Miner,6,Initiated Measure 28,,Yes,,29
+Miner,6,Initiated Measure 28,,No,,186
+Miner,6,Initiated Measure 29,,Yes,,54
+Miner,6,Initiated Measure 29,,No,,168
+Miner,6,Referred Law 21,,Yes,,54
+Miner,6,Referred Law 21,,No,,163
+Miner,7,Constitutional Amendment E,,Yes,,65
+Miner,7,Constitutional Amendment E,,No,,123
+Miner,7,Constitutional Amendment F,,Yes,,83
+Miner,7,Constitutional Amendment F,,No,,95
+Miner,7,Constitutional Amendment G,,Yes,,52
+Miner,7,Constitutional Amendment G,,No,,136
+Miner,7,Constitutional Amendment H,,Yes,,53
+Miner,7,Constitutional Amendment H,,No,,128
+Miner,7,Initiated Measure 28,,Yes,,23
+Miner,7,Initiated Measure 28,,No,,160
+Miner,7,Initiated Measure 29,,Yes,,45
+Miner,7,Initiated Measure 29,,No,,143
+Miner,7,Referred Law 21,,Yes,,48
+Miner,7,Referred Law 21,,No,,138
+Miner,8,Constitutional Amendment E,,Yes,,30
+Miner,8,Constitutional Amendment E,,No,,85
+Miner,8,Constitutional Amendment F,,Yes,,58
+Miner,8,Constitutional Amendment F,,No,,54
+Miner,8,Constitutional Amendment G,,Yes,,26
+Miner,8,Constitutional Amendment G,,No,,86
+Miner,8,Constitutional Amendment H,,Yes,,29
+Miner,8,Constitutional Amendment H,,No,,85
+Miner,8,Initiated Measure 28,,Yes,,23
+Miner,8,Initiated Measure 28,,No,,90
+Miner,8,Initiated Measure 29,,Yes,,34
+Miner,8,Initiated Measure 29,,No,,81
+Miner,8,Referred Law 21,,Yes,,34
+Miner,8,Referred Law 21,,No,,80

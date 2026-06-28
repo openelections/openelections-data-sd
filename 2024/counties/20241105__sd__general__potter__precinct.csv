@@ -2,11 +2,11 @@ county,precinct,office,district,candidate,party,votes
 Potter,Absentee Precinct,President,,Kamala D. Harris and Tim Walz,DEM,93
 Potter,Absentee Precinct,President,,Chase Oliver and Mike ter Maat,LIB,2
 Potter,Absentee Precinct,President,,Donald J. Trump and JD Vance,REP,252
-Potter,Absenttee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Potter,GC Bar (Gettysburg Legion Annex),President,,Kamala D. Harris and Tim Walz,DEM,96
-Potter,GC Bar (Gettysburg Legion Annex),President,,Chase Oliver and Mike ter Maat,LIB,5
-Potter,GC Bar (Gettysburg Legion Annex),President,,Donald J. Trump and JD Vance,REP,549
-Potter,GC Bar (Gettysburg Legion Annex),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Potter,Absentee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Potter,CC Bar (Gettysburg Legion Annex),President,,Kamala D. Harris and Tim Walz,DEM,96
+Potter,CC Bar (Gettysburg Legion Annex),President,,Chase Oliver and Mike ter Maat,LIB,5
+Potter,CC Bar (Gettysburg Legion Annex),President,,Donald J. Trump and JD Vance,REP,549
+Potter,CC Bar (Gettysburg Legion Annex),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
 Potter,Hoven Legion Hall,President,,Kamala D. Harris and Tim Walz,DEM,25
 Potter,Hoven Legion Hall,President,,Chase Oliver and Mike ter Maat,LIB,1
 Potter,Hoven Legion Hall,President,,Donald J. Trump and JD Vance,REP,258
@@ -35,12 +35,12 @@ Potter,CC Bar (Gettysburg Legion Annex),State House,23,Scott Moore,REP,418
 Potter,CC Bar (Gettysburg Legion Annex),State House,23,Spencer Gosch,REP,461
 Potter,Hoven Legion Hall,State House,23,Scott Moore,REP,171
 Potter,Hoven Legion Hall,State House,23,Spencer Gosch,REP,203
-Potter,Absentee Precinct,Supreme Court Retention,,Yes,,247
-Potter,Absentee Precinct,Supreme Court Retention,,No,,10
-Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,,Yes,,496
-Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,,No,,82
-Potter,Hoven Legion Hall,Supreme Court Retention,,Yes,,206
-Potter,Hoven Legion Hall,Supreme Court Retention,,No,,40
+Potter,Absentee Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,247
+Potter,Absentee Precinct,Supreme Court Retention,5,Scott P. Myren - No,,44
+Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,5,Scott P. Myren - Yes,,496
+Potter,CC Bar (Gettysburg Legion Annex),Supreme Court Retention,5,Scott P. Myren - No,,82
+Potter,Hoven Legion Hall,Supreme Court Retention,5,Scott P. Myren - Yes,,206
+Potter,Hoven Legion Hall,Supreme Court Retention,5,Scott P. Myren - No,,40
 Potter,Absentee Precinct,Constitutional Amendment E,,Yes,,121
 Potter,Absentee Precinct,Constitutional Amendment E,,No,,217
 Potter,Absentee Precinct,Constitutional Amendment F,,Yes,,190

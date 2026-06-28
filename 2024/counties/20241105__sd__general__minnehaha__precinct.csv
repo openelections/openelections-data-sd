@@ -1,69 +1,271 @@
 county,precinct,office,district,candidate,party,votes
 Minnehaha,0104,President,,Kamala D. Harris and Tim Walz,DEM,489
-Minnehaha,0104,President,,Chase Oliver and Mike Maat,LIB,3
+Minnehaha,0104,President,,Chase Oliver and Mike ter Maat,LIB,3
 Minnehaha,0104,President,,Donald J. Trump and JD Vance,REP,353
 Minnehaha,0104,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
 Minnehaha,0105,President,,Kamala D. Harris and Tim Walz,DEM,288
-Minnehaha,0105,President,,Chase Oliver and Mike Maat,LIB,7
-Minnehaha,0105,President,,Donald J. Trump and JD Vance,REP,253
+Minnehaha,0105,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0105,President,,Donald J. Trump and JD Vance,REP,283
 Minnehaha,0105,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
 Minnehaha,0106,President,,Kamala D. Harris and Tim Walz,DEM,653
-Minnehaha,0106,President,,Chase Oliver and Mike Maat,LIB,9
+Minnehaha,0106,President,,Chase Oliver and Mike ter Maat,LIB,9
 Minnehaha,0106,President,,Donald J. Trump and JD Vance,REP,670
 Minnehaha,0106,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
 Minnehaha,0109,President,,Kamala D. Harris and Tim Walz,DEM,593
-Minnehaha,0109,President,,Chase Oliver and Mike Maat,LIB,4
+Minnehaha,0109,President,,Chase Oliver and Mike ter Maat,LIB,4
 Minnehaha,0109,President,,Donald J. Trump and JD Vance,REP,658
 Minnehaha,0109,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
 Minnehaha,0110,President,,Kamala D. Harris and Tim Walz,DEM,623
-Minnehaha,0110,President,,Chase Oliver and Mike Maat,LIB,7
+Minnehaha,0110,President,,Chase Oliver and Mike ter Maat,LIB,7
 Minnehaha,0110,President,,Donald J. Trump and JD Vance,REP,779
 Minnehaha,0110,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,27
 Minnehaha,0117,President,,Kamala D. Harris and Tim Walz,DEM,688
-Minnehaha,0117,President,,Chase Oliver and Mike Maat,LIB,16
+Minnehaha,0117,President,,Chase Oliver and Mike ter Maat,LIB,16
 Minnehaha,0117,President,,Donald J. Trump and JD Vance,REP,1025
 Minnehaha,0117,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,32
-Minnehaha,0104,President,,Chase Oliver and Mike Ter Maat,LIB,3
-Minnehaha,0105,President,,Chase Oliver and Mike Ter Maat,LIB,7
-Minnehaha,0106,President,,Chase Oliver and Mike Ter Maat,LIB,9
-Minnehaha,0109,President,,Chase Oliver and Mike Ter Maat,LIB,4
-Minnehaha,0110,President,,Chase Oliver and Mike Ter Maat,LIB,7
+Minnehaha,0119,President,,Kamala D. Harris and Tim Walz,DEM,366
+Minnehaha,0119,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0119,President,,Donald J. Trump and JD Vance,REP,388
+Minnehaha,0119,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Minnehaha,0201,President,,Kamala D. Harris and Tim Walz,DEM,609
+Minnehaha,0201,President,,Chase Oliver and Mike ter Maat,LIB,10
+Minnehaha,0201,President,,Donald J. Trump and JD Vance,REP,606
+Minnehaha,0201,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Minnehaha,0202,President,,Kamala D. Harris and Tim Walz,DEM,798
+Minnehaha,0202,President,,Chase Oliver and Mike ter Maat,LIB,17
+Minnehaha,0202,President,,Donald J. Trump and JD Vance,REP,754
+Minnehaha,0202,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,20
+Minnehaha,0203,President,,Kamala D. Harris and Tim Walz,DEM,600
+Minnehaha,0203,President,,Chase Oliver and Mike ter Maat,LIB,16
+Minnehaha,0203,President,,Donald J. Trump and JD Vance,REP,632
+Minnehaha,0203,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,27
+Minnehaha,0206,President,,Kamala D. Harris and Tim Walz,DEM,619
+Minnehaha,0206,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0206,President,,Donald J. Trump and JD Vance,REP,672
+Minnehaha,0206,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,30
+Minnehaha,0208,President,,Kamala D. Harris and Tim Walz,DEM,319
+Minnehaha,0208,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0208,President,,Donald J. Trump and JD Vance,REP,288
+Minnehaha,0208,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Minnehaha,0209,President,,Kamala D. Harris and Tim Walz,DEM,606
+Minnehaha,0209,President,,Chase Oliver and Mike ter Maat,LIB,12
+Minnehaha,0209,President,,Donald J. Trump and JD Vance,REP,535
+Minnehaha,0209,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
 Minnehaha,0214,President,,Kamala D. Harris and Tim Walz,DEM,715
-Minnehaha,0214,President,,Chase Oliver and Mike Ter Maat,LIB,3
+Minnehaha,0214,President,,Chase Oliver and Mike ter Maat,LIB,3
 Minnehaha,0214,President,,Donald J. Trump and JD Vance,REP,810
-Minnehaha,0214,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Minnehaha,0214,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Minnehaha,0217,President,,Kamala D. Harris and Tim Walz,DEM,801
+Minnehaha,0217,President,,Chase Oliver and Mike ter Maat,LIB,13
+Minnehaha,0217,President,,Donald J. Trump and JD Vance,REP,944
+Minnehaha,0217,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,31
+Minnehaha,0218,President,,Kamala D. Harris and Tim Walz,DEM,511
+Minnehaha,0218,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0218,President,,Donald J. Trump and JD Vance,REP,736
+Minnehaha,0218,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Minnehaha,0301,President,,Kamala D. Harris and Tim Walz,DEM,440
+Minnehaha,0301,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0301,President,,Donald J. Trump and JD Vance,REP,420
+Minnehaha,0301,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
+Minnehaha,0305,President,,Kamala D. Harris and Tim Walz,DEM,310
+Minnehaha,0305,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0305,President,,Donald J. Trump and JD Vance,REP,397
+Minnehaha,0305,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Minnehaha,0309,President,,Kamala D. Harris and Tim Walz,DEM,709
+Minnehaha,0309,President,,Chase Oliver and Mike ter Maat,LIB,8
+Minnehaha,0309,President,,Donald J. Trump and JD Vance,REP,742
+Minnehaha,0309,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,38
+Minnehaha,0310,President,,Kamala D. Harris and Tim Walz,DEM,726
+Minnehaha,0310,President,,Chase Oliver and Mike ter Maat,LIB,14
+Minnehaha,0310,President,,Donald J. Trump and JD Vance,REP,982
+Minnehaha,0310,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
 Minnehaha,0311,President,,Kamala D. Harris and Tim Walz,DEM,433
-Minnehaha,0311,President,,Chase Oliver and Mike Ter Maat,LIB,11
-Minnehaha,0311,President,,Donald J. Trump and JD Vance,REP,605
+Minnehaha,0311,President,,Chase Oliver and Mike ter Maat,LIB,11
+Minnehaha,0311,President,,Donald J. Trump and JD Vance,REP,606
 Minnehaha,0311,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
-Minnehaha,0517,President,,Kamala D. Harris and Tim Walz,DEM,187
-Minnehaha,0517,President,,Chase Oliver and Mike Ter Maat,LIB,4
-Minnehaha,0517,President,,Donald J. Trump and JD Vance,REP,547
-Minnehaha,0517,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
+Minnehaha,0312,President,,Kamala D. Harris and Tim Walz,DEM,466
+Minnehaha,0312,President,,Chase Oliver and Mike ter Maat,LIB,3
+Minnehaha,0312,President,,Donald J. Trump and JD Vance,REP,685
+Minnehaha,0312,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Minnehaha,0313,President,,Kamala D. Harris and Tim Walz,DEM,414
+Minnehaha,0313,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0313,President,,Donald J. Trump and JD Vance,REP,460
+Minnehaha,0313,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Minnehaha,0314,President,,Kamala D. Harris and Tim Walz,DEM,602
+Minnehaha,0314,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0314,President,,Donald J. Trump and JD Vance,REP,854
+Minnehaha,0314,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,25
+Minnehaha,0315,President,,Kamala D. Harris and Tim Walz,DEM,601
+Minnehaha,0315,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0315,President,,Donald J. Trump and JD Vance,REP,703
+Minnehaha,0315,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
+Minnehaha,0316,President,,Kamala D. Harris and Tim Walz,DEM,797
+Minnehaha,0316,President,,Chase Oliver and Mike ter Maat,LIB,17
+Minnehaha,0316,President,,Donald J. Trump and JD Vance,REP,1347
+Minnehaha,0316,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,36
+Minnehaha,0317,President,,Kamala D. Harris and Tim Walz,DEM,568
+Minnehaha,0317,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0317,President,,Donald J. Trump and JD Vance,REP,802
+Minnehaha,0317,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Minnehaha,0318,President,,Kamala D. Harris and Tim Walz,DEM,398
+Minnehaha,0318,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0318,President,,Donald J. Trump and JD Vance,REP,422
+Minnehaha,0318,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Minnehaha,0319,President,,Kamala D. Harris and Tim Walz,DEM,868
+Minnehaha,0319,President,,Chase Oliver and Mike ter Maat,LIB,16
+Minnehaha,0319,President,,Donald J. Trump and JD Vance,REP,1216
+Minnehaha,0319,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Minnehaha,0320,President,,Kamala D. Harris and Tim Walz,DEM,204
+Minnehaha,0320,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,0320,President,,Donald J. Trump and JD Vance,REP,319
+Minnehaha,0320,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Minnehaha,0402,President,,Kamala D. Harris and Tim Walz,DEM,385
+Minnehaha,0402,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0402,President,,Donald J. Trump and JD Vance,REP,381
+Minnehaha,0402,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Minnehaha,0403,President,,Kamala D. Harris and Tim Walz,DEM,267
+Minnehaha,0403,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,0403,President,,Donald J. Trump and JD Vance,REP,241
+Minnehaha,0403,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Minnehaha,0404,President,,Kamala D. Harris and Tim Walz,DEM,426
+Minnehaha,0404,President,,Chase Oliver and Mike ter Maat,LIB,5
+Minnehaha,0404,President,,Donald J. Trump and JD Vance,REP,444
+Minnehaha,0404,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Minnehaha,0405,President,,Kamala D. Harris and Tim Walz,DEM,306
+Minnehaha,0405,President,,Chase Oliver and Mike ter Maat,LIB,8
+Minnehaha,0405,President,,Donald J. Trump and JD Vance,REP,369
+Minnehaha,0405,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Minnehaha,0406,President,,Kamala D. Harris and Tim Walz,DEM,279
+Minnehaha,0406,President,,Chase Oliver and Mike ter Maat,LIB,2
+Minnehaha,0406,President,,Donald J. Trump and JD Vance,REP,392
+Minnehaha,0406,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Minnehaha,0407,President,,Kamala D. Harris and Tim Walz,DEM,307
+Minnehaha,0407,President,,Chase Oliver and Mike ter Maat,LIB,5
+Minnehaha,0407,President,,Donald J. Trump and JD Vance,REP,401
+Minnehaha,0407,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Minnehaha,0408,President,,Kamala D. Harris and Tim Walz,DEM,400
+Minnehaha,0408,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0408,President,,Donald J. Trump and JD Vance,REP,401
+Minnehaha,0408,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Minnehaha,0409,President,,Kamala D. Harris and Tim Walz,DEM,535
+Minnehaha,0409,President,,Chase Oliver and Mike ter Maat,LIB,12
+Minnehaha,0409,President,,Donald J. Trump and JD Vance,REP,476
+Minnehaha,0409,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Minnehaha,0410,President,,Kamala D. Harris and Tim Walz,DEM,181
+Minnehaha,0410,President,,Chase Oliver and Mike ter Maat,LIB,3
+Minnehaha,0410,President,,Donald J. Trump and JD Vance,REP,243
+Minnehaha,0410,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Minnehaha,0411,President,,Kamala D. Harris and Tim Walz,DEM,538
+Minnehaha,0411,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,0411,President,,Donald J. Trump and JD Vance,REP,742
+Minnehaha,0411,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Minnehaha,0412,President,,Kamala D. Harris and Tim Walz,DEM,712
+Minnehaha,0412,President,,Chase Oliver and Mike ter Maat,LIB,13
+Minnehaha,0412,President,,Donald J. Trump and JD Vance,REP,718
+Minnehaha,0412,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Minnehaha,0413,President,,Kamala D. Harris and Tim Walz,DEM,399
+Minnehaha,0413,President,,Chase Oliver and Mike ter Maat,LIB,10
+Minnehaha,0413,President,,Donald J. Trump and JD Vance,REP,387
+Minnehaha,0413,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Minnehaha,0415,President,,Kamala D. Harris and Tim Walz,DEM,802
+Minnehaha,0415,President,,Chase Oliver and Mike ter Maat,LIB,14
+Minnehaha,0415,President,,Donald J. Trump and JD Vance,REP,1096
+Minnehaha,0415,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,33
+Minnehaha,0416,President,,Kamala D. Harris and Tim Walz,DEM,720
+Minnehaha,0416,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0416,President,,Donald J. Trump and JD Vance,REP,1008
+Minnehaha,0416,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Minnehaha,0417,President,,Kamala D. Harris and Tim Walz,DEM,784
+Minnehaha,0417,President,,Chase Oliver and Mike ter Maat,LIB,15
+Minnehaha,0417,President,,Donald J. Trump and JD Vance,REP,1429
+Minnehaha,0417,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,28
+Minnehaha,0418,President,,Kamala D. Harris and Tim Walz,DEM,432
+Minnehaha,0418,President,,Chase Oliver and Mike ter Maat,LIB,3
+Minnehaha,0418,President,,Donald J. Trump and JD Vance,REP,766
+Minnehaha,0418,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Minnehaha,0419,President,,Kamala D. Harris and Tim Walz,DEM,517
+Minnehaha,0419,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0419,President,,Donald J. Trump and JD Vance,REP,534
+Minnehaha,0419,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Minnehaha,0501,President,,Kamala D. Harris and Tim Walz,DEM,627
+Minnehaha,0501,President,,Chase Oliver and Mike ter Maat,LIB,22
+Minnehaha,0501,President,,Donald J. Trump and JD Vance,REP,427
+Minnehaha,0501,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Minnehaha,0502,President,,Kamala D. Harris and Tim Walz,DEM,365
+Minnehaha,0502,President,,Chase Oliver and Mike ter Maat,LIB,10
+Minnehaha,0502,President,,Donald J. Trump and JD Vance,REP,215
+Minnehaha,0502,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Minnehaha,0503,President,,Kamala D. Harris and Tim Walz,DEM,188
+Minnehaha,0503,President,,Chase Oliver and Mike ter Maat,LIB,2
+Minnehaha,0503,President,,Donald J. Trump and JD Vance,REP,163
+Minnehaha,0503,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Minnehaha,0504,President,,Kamala D. Harris and Tim Walz,DEM,767
+Minnehaha,0504,President,,Chase Oliver and Mike ter Maat,LIB,11
+Minnehaha,0504,President,,Donald J. Trump and JD Vance,REP,405
+Minnehaha,0504,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Minnehaha,0506,President,,Kamala D. Harris and Tim Walz,DEM,571
+Minnehaha,0506,President,,Chase Oliver and Mike ter Maat,LIB,10
+Minnehaha,0506,President,,Donald J. Trump and JD Vance,REP,506
+Minnehaha,0506,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Minnehaha,0507,President,,Kamala D. Harris and Tim Walz,DEM,398
+Minnehaha,0507,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0507,President,,Donald J. Trump and JD Vance,REP,213
+Minnehaha,0507,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Minnehaha,0508,President,,Kamala D. Harris and Tim Walz,DEM,603
+Minnehaha,0508,President,,Chase Oliver and Mike ter Maat,LIB,7
+Minnehaha,0508,President,,Donald J. Trump and JD Vance,REP,337
+Minnehaha,0508,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,19
+Minnehaha,0509,President,,Kamala D. Harris and Tim Walz,DEM,295
+Minnehaha,0509,President,,Chase Oliver and Mike ter Maat,LIB,5
+Minnehaha,0509,President,,Donald J. Trump and JD Vance,REP,184
+Minnehaha,0509,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Minnehaha,0510,President,,Kamala D. Harris and Tim Walz,DEM,337
+Minnehaha,0510,President,,Chase Oliver and Mike ter Maat,LIB,3
+Minnehaha,0510,President,,Donald J. Trump and JD Vance,REP,281
+Minnehaha,0510,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
+Minnehaha,0512,President,,Kamala D. Harris and Tim Walz,DEM,787
+Minnehaha,0512,President,,Chase Oliver and Mike ter Maat,LIB,10
+Minnehaha,0512,President,,Donald J. Trump and JD Vance,REP,606
+Minnehaha,0512,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,27
+Minnehaha,0515,President,,Kamala D. Harris and Tim Walz,DEM,248
+Minnehaha,0515,President,,Chase Oliver and Mike ter Maat,LIB,8
+Minnehaha,0515,President,,Donald J. Trump and JD Vance,REP,214
+Minnehaha,0515,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Minnehaha,0516,President,,Kamala D. Harris and Tim Walz,DEM,340
+Minnehaha,0516,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,0516,President,,Donald J. Trump and JD Vance,REP,422
+Minnehaha,0516,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
+Minnehaha,0518,President,,Kamala D. Harris and Tim Walz,DEM,699
+Minnehaha,0518,President,,Chase Oliver and Mike ter Maat,LIB,12
+Minnehaha,0518,President,,Donald J. Trump and JD Vance,REP,473
+Minnehaha,0518,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Minnehaha,0519,President,,Kamala D. Harris and Tim Walz,DEM,581
+Minnehaha,0519,President,,Chase Oliver and Mike ter Maat,LIB,9
+Minnehaha,0519,President,,Donald J. Trump and JD Vance,REP,558
+Minnehaha,0519,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
 Minnehaha,0520,President,,Kamala D. Harris and Tim Walz,DEM,476
-Minnehaha,0520,President,,Chase Oliver and Mike Ter Maat,LIB,5
+Minnehaha,0520,President,,Chase Oliver and Mike ter Maat,LIB,5
 Minnehaha,0520,President,,Donald J. Trump and JD Vance,REP,497
 Minnehaha,0520,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
-Minnehaha,0521,President,,Kamala D. Harris and Tim Walz,DEM,583
-Minnehaha,0521,President,,Chase Oliver and Mike Ter Maat,LIB,4
-Minnehaha,0521,President,,Donald J. Trump and JD Vance,REP,1418
-Minnehaha,0521,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Minnehaha,0521,President,,Kamala D. Harris and Tim Walz,DEM,473
 Minnehaha,0521,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,0521,President,,Donald J. Trump and JD Vance,REP,388
+Minnehaha,0521,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
 Minnehaha,0522,President,,Kamala D. Harris and Tim Walz,DEM,539
 Minnehaha,0522,President,,Chase Oliver and Mike ter Maat,LIB,8
 Minnehaha,0522,President,,Donald J. Trump and JD Vance,REP,486
 Minnehaha,0522,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,38
-Minnehaha,0523,President,,Kamala D. Harris and Tim Walz,DEM,642
-Minnehaha,0523,President,,Chase Oliver and Mike ter Maat,LIB,0
-Minnehaha,0523,President,,Donald J. Trump and JD Vance,REP,433
+Minnehaha,0523,President,,Kamala D. Harris and Tim Walz,DEM,462
+Minnehaha,0523,President,,Chase Oliver and Mike ter Maat,LIB,8
+Minnehaha,0523,President,,Donald J. Trump and JD Vance,REP,333
 Minnehaha,0523,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
 Minnehaha,VP01,President,,Kamala D. Harris and Tim Walz,DEM,224
 Minnehaha,VP01,President,,Chase Oliver and Mike ter Maat,LIB,0
 Minnehaha,VP01,President,,Donald J. Trump and JD Vance,REP,623
 Minnehaha,VP01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
-Minnehaha,VP02,President,,Kamala D. Harris and Tim Walz,DEM,405
+Minnehaha,VP02,President,,Kamala D. Harris and Tim Walz,DEM,465
 Minnehaha,VP02,President,,Chase Oliver and Mike ter Maat,LIB,13
-Minnehaha,VP02,President,,Donald J. Trump and JD Vance,REP,938
+Minnehaha,VP02,President,,Donald J. Trump and JD Vance,REP,958
 Minnehaha,VP02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
 Minnehaha,VP03,President,,Kamala D. Harris and Tim Walz,DEM,635
 Minnehaha,VP03,President,,Chase Oliver and Mike ter Maat,LIB,9
@@ -101,29 +303,29 @@ Minnehaha,VP11,President,,Kamala D. Harris and Tim Walz,DEM,112
 Minnehaha,VP11,President,,Chase Oliver and Mike ter Maat,LIB,3
 Minnehaha,VP11,President,,Donald J. Trump and JD Vance,REP,406
 Minnehaha,VP11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Minnehaha,VP12,President,,Kamala D. Harris and Tim Walz,DEM,223
-Minnehaha,VP12,President,,Chase Oliver and Mike ter Maat,LIB,6
-Minnehaha,VP12,President,,Donald J. Trump and JD Vance,REP,786
-Minnehaha,VP12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
-Minnehaha,VP13,President,,Kamala D. Harris and Tim Walz,DEM,933
-Minnehaha,VP13,President,,Chase Oliver and Mike ter Maat,LIB,14
-Minnehaha,VP13,President,,Donald J. Trump and JD Vance,REP,1351
-Minnehaha,VP13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,31
-Minnehaha,VP14,President,,Kamala D. Harris and Tim Walz,DEM,337
-Minnehaha,VP14,President,,Chase Oliver and Mike ter Maat,LIB,6
-Minnehaha,VP14,President,,Donald J. Trump and JD Vance,REP,870
-Minnehaha,VP14,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
-Minnehaha,VP16,President,,Kamala D. Harris and Tim Walz,DEM,187
-Minnehaha,VP16,President,,Chase Oliver and Mike ter Maat,LIB,1
-Minnehaha,VP16,President,,Donald J. Trump and JD Vance,REP,547
-Minnehaha,VP16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
-Minnehaha,VP17,President,,Kamala D. Harris and Tim Walz,DEM,583
+Minnehaha,VP13,President,,Kamala D. Harris and Tim Walz,DEM,223
+Minnehaha,VP13,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,VP13,President,,Donald J. Trump and JD Vance,REP,786
+Minnehaha,VP13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,17
+Minnehaha,VP15,President,,Kamala D. Harris and Tim Walz,DEM,693
+Minnehaha,VP15,President,,Chase Oliver and Mike ter Maat,LIB,14
+Minnehaha,VP15,President,,Donald J. Trump and JD Vance,REP,1351
+Minnehaha,VP15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,31
+Minnehaha,VP16,President,,Kamala D. Harris and Tim Walz,DEM,337
+Minnehaha,VP16,President,,Chase Oliver and Mike ter Maat,LIB,6
+Minnehaha,VP16,President,,Donald J. Trump and JD Vance,REP,870
+Minnehaha,VP16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
+Minnehaha,VP17,President,,Kamala D. Harris and Tim Walz,DEM,187
 Minnehaha,VP17,President,,Chase Oliver and Mike ter Maat,LIB,4
-Minnehaha,VP17,President,,Donald J. Trump and JD Vance,REP,1418
-Minnehaha,VP17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Minnehaha,VP17,President,,Donald J. Trump and JD Vance,REP,547
+Minnehaha,VP17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
+Minnehaha,VP21,President,,Kamala D. Harris and Tim Walz,DEM,583
+Minnehaha,VP21,President,,Chase Oliver and Mike ter Maat,LIB,4
+Minnehaha,VP21,President,,Donald J. Trump and JD Vance,REP,1418
+Minnehaha,VP21,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
 Minnehaha,0104,U.S. House,1,Sheryl Johnson,DEM,393
 Minnehaha,0104,U.S. House,1,Dusty Johnson,REP,451
-Minnehaha,0105,U.S. House,1,Sheryl Johnson,DEM,249
+Minnehaha,0105,U.S. House,1,Sheryl Johnson,DEM,240
 Minnehaha,0105,U.S. House,1,Dusty Johnson,REP,346
 Minnehaha,0106,U.S. House,1,Sheryl Johnson,DEM,509
 Minnehaha,0106,U.S. House,1,Dusty Johnson,REP,814
@@ -142,15 +344,15 @@ Minnehaha,0202,U.S. House,1,Dusty Johnson,REP,1001
 Minnehaha,0203,U.S. House,1,Sheryl Johnson,DEM,459
 Minnehaha,0203,U.S. House,1,Dusty Johnson,REP,796
 Minnehaha,0206,U.S. House,1,Sheryl Johnson,DEM,476
-Minnehaha,0206,U.S. House,1,Dusty Johnson,REP,331
+Minnehaha,0206,U.S. House,1,Dusty Johnson,REP,831
 Minnehaha,0208,U.S. House,1,Sheryl Johnson,DEM,228
 Minnehaha,0208,U.S. House,1,Dusty Johnson,REP,399
-Minnehaha,0209,U.S. House,1,Sheryl Johnson,DEM,508
+Minnehaha,0209,U.S. House,1,Sheryl Johnson,DEM,500
 Minnehaha,0209,U.S. House,1,Dusty Johnson,REP,663
 Minnehaha,0214,U.S. House,1,Sheryl Johnson,DEM,508
-Minnehaha,0214,U.S. House,1,Dusty Johnson,REP,1003
+Minnehaha,0214,U.S. House,1,Dusty Johnson,REP,1005
 Minnehaha,0217,U.S. House,1,Sheryl Johnson,DEM,591
-Minnehaha,0217,U.S. House,1,Dusty Johnson,REP,1177
+Minnehaha,0217,U.S. House,1,Dusty Johnson,REP,1171
 Minnehaha,0218,U.S. House,1,Sheryl Johnson,DEM,406
 Minnehaha,0218,U.S. House,1,Dusty Johnson,REP,845
 Minnehaha,0301,U.S. House,1,Sheryl Johnson,DEM,355
@@ -213,7 +415,7 @@ Minnehaha,0417,U.S. House,1,Sheryl Johnson,DEM,581
 Minnehaha,0417,U.S. House,1,Dusty Johnson,REP,1634
 Minnehaha,0418,U.S. House,1,Sheryl Johnson,DEM,340
 Minnehaha,0418,U.S. House,1,Dusty Johnson,REP,854
-Minnehaha,0419,U.S. House,1,Sheryl Johnson,DEM,427
+Minnehaha,0419,U.S. House,1,Sheryl Johnson,DEM,422
 Minnehaha,0419,U.S. House,1,Dusty Johnson,REP,628
 Minnehaha,0501,U.S. House,1,Sheryl Johnson,DEM,553
 Minnehaha,0501,U.S. House,1,Dusty Johnson,REP,513
@@ -230,7 +432,7 @@ Minnehaha,0507,U.S. House,1,Dusty Johnson,REP,306
 Minnehaha,0508,U.S. House,1,Sheryl Johnson,DEM,488
 Minnehaha,0508,U.S. House,1,Dusty Johnson,REP,482
 Minnehaha,0509,U.S. House,1,Sheryl Johnson,DEM,250
-Minnehaha,0509,U.S. House,1,Dusty Johnson,REP,382
+Minnehaha,0509,U.S. House,1,Dusty Johnson,REP,238
 Minnehaha,0510,U.S. House,1,Sheryl Johnson,DEM,290
 Minnehaha,0510,U.S. House,1,Dusty Johnson,REP,342
 Minnehaha,0512,U.S. House,1,Sheryl Johnson,DEM,663
@@ -247,16 +449,10 @@ Minnehaha,0520,U.S. House,1,Sheryl Johnson,DEM,426
 Minnehaha,0520,U.S. House,1,Dusty Johnson,REP,558
 Minnehaha,0521,U.S. House,1,Sheryl Johnson,DEM,403
 Minnehaha,0521,U.S. House,1,Dusty Johnson,REP,463
-Minnehaha,0303,U.S. House,1,Sheryl Johnson,DEM,459
-Minnehaha,0303,U.S. House,1,Dusty Johnson,REP,796
-Minnehaha,0420,U.S. House,1,Sheryl Johnson,DEM,341
-Minnehaha,0420,U.S. House,1,Dusty Johnson,REP,440
-Minnehaha,0505,U.S. House,1,Sheryl Johnson,DEM,471
-Minnehaha,0505,U.S. House,1,Dusty Johnson,REP,621
 Minnehaha,0522,U.S. House,1,Sheryl Johnson,DEM,480
 Minnehaha,0522,U.S. House,1,Dusty Johnson,REP,560
 Minnehaha,0523,U.S. House,1,Sheryl Johnson,DEM,420
-Minnehaha,0523,U.S. House,1,Dusty Johnson,REP,377
+Minnehaha,0523,U.S. House,1,Dusty Johnson,REP,372
 Minnehaha,VP01,U.S. House,1,Sheryl Johnson,DEM,177
 Minnehaha,VP01,U.S. House,1,Dusty Johnson,REP,672
 Minnehaha,VP02,U.S. House,1,Sheryl Johnson,DEM,335
@@ -266,11 +462,11 @@ Minnehaha,VP03,U.S. House,1,Dusty Johnson,REP,1509
 Minnehaha,VP04,U.S. House,1,Sheryl Johnson,DEM,257
 Minnehaha,VP04,U.S. House,1,Dusty Johnson,REP,818
 Minnehaha,VP05,U.S. House,1,Sheryl Johnson,DEM,479
-Minnehaha,VP05,U.S. House,1,Dusty Johnson,REP,1165
+Minnehaha,VP05,U.S. House,1,Dusty Johnson,REP,1565
 Minnehaha,VP06,U.S. House,1,Sheryl Johnson,DEM,102
 Minnehaha,VP06,U.S. House,1,Dusty Johnson,REP,343
 Minnehaha,VP07,U.S. House,1,Sheryl Johnson,DEM,451
-Minnehaha,VP07,U.S. House,1,Dusty Johnson,REP,1375
+Minnehaha,VP07,U.S. House,1,Dusty Johnson,REP,1575
 Minnehaha,VP08,U.S. House,1,Sheryl Johnson,DEM,180
 Minnehaha,VP08,U.S. House,1,Dusty Johnson,REP,742
 Minnehaha,VP09,U.S. House,1,Sheryl Johnson,DEM,349
@@ -282,7 +478,7 @@ Minnehaha,VP11,U.S. House,1,Dusty Johnson,REP,429
 Minnehaha,VP13,U.S. House,1,Sheryl Johnson,DEM,178
 Minnehaha,VP13,U.S. House,1,Dusty Johnson,REP,838
 Minnehaha,VP15,U.S. House,1,Sheryl Johnson,DEM,529
-Minnehaha,VP15,U.S. House,1,Dusty Johnson,REP,1319
+Minnehaha,VP15,U.S. House,1,Dusty Johnson,REP,1519
 Minnehaha,VP16,U.S. House,1,Sheryl Johnson,DEM,255
 Minnehaha,VP16,U.S. House,1,Dusty Johnson,REP,945
 Minnehaha,VP17,U.S. House,1,Sheryl Johnson,DEM,141
@@ -310,12 +506,12 @@ Minnehaha,0117,Public Utilities Commissioner,,Kristie Fiegen,REP,1049
 Minnehaha,0119,Public Utilities Commissioner,,Forrest Wilson,DEM,263
 Minnehaha,0119,Public Utilities Commissioner,,A. Gideon Oakes,LIB,53
 Minnehaha,0119,Public Utilities Commissioner,,Kristie Fiegen,REP,395
-Minnehaha,0120,Public Utilities Commissioner,,Forrest Wilson,DEM,430
-Minnehaha,0120,Public Utilities Commissioner,,A. Gideon Oakes,LIB,41
-Minnehaha,0120,Public Utilities Commissioner,,Kristie Fiegen,REP,714
-Minnehaha,0201,Public Utilities Commissioner,,Forrest Wilson,DEM,541
-Minnehaha,0201,Public Utilities Commissioner,,A. Gideon Oakes,LIB,57
-Minnehaha,0201,Public Utilities Commissioner,,Kristie Fiegen,REP,951
+Minnehaha,0201,Public Utilities Commissioner,,Forrest Wilson,DEM,430
+Minnehaha,0201,Public Utilities Commissioner,,A. Gideon Oakes,LIB,41
+Minnehaha,0201,Public Utilities Commissioner,,Kristie Fiegen,REP,714
+Minnehaha,0202,Public Utilities Commissioner,,Forrest Wilson,DEM,541
+Minnehaha,0202,Public Utilities Commissioner,,A. Gideon Oakes,LIB,57
+Minnehaha,0202,Public Utilities Commissioner,,Kristie Fiegen,REP,951
 Minnehaha,0203,Public Utilities Commissioner,,Forrest Wilson,DEM,397
 Minnehaha,0203,Public Utilities Commissioner,,A. Gideon Oakes,LIB,65
 Minnehaha,0203,Public Utilities Commissioner,,Kristie Fiegen,REP,731
@@ -372,7 +568,7 @@ Minnehaha,0317,Public Utilities Commissioner,,A. Gideon Oakes,LIB,58
 Minnehaha,0317,Public Utilities Commissioner,,Kristie Fiegen,REP,821
 Minnehaha,0318,Public Utilities Commissioner,,Forrest Wilson,DEM,296
 Minnehaha,0318,Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
-Minnehaha,0318,Public Utilities Commissioner,,Kristie Fiegen,REP,841
+Minnehaha,0318,Public Utilities Commissioner,,Kristie Fiegen,REP,441
 Minnehaha,0319,Public Utilities Commissioner,,Forrest Wilson,DEM,576
 Minnehaha,0319,Public Utilities Commissioner,,A. Gideon Oakes,LIB,70
 Minnehaha,0319,Public Utilities Commissioner,,Kristie Fiegen,REP,1296
@@ -391,7 +587,7 @@ Minnehaha,0404,Public Utilities Commissioner,,Kristie Fiegen,REP,435
 Minnehaha,0405,Public Utilities Commissioner,,Forrest Wilson,DEM,263
 Minnehaha,0405,Public Utilities Commissioner,,A. Gideon Oakes,LIB,55
 Minnehaha,0405,Public Utilities Commissioner,,Kristie Fiegen,REP,324
-Minnehaha,0406,Public Utilities Commissioner,,Forrest Wilson,DEM,323
+Minnehaha,0406,Public Utilities Commissioner,,Forrest Wilson,DEM,232
 Minnehaha,0406,Public Utilities Commissioner,,A. Gideon Oakes,LIB,41
 Minnehaha,0406,Public Utilities Commissioner,,Kristie Fiegen,REP,371
 Minnehaha,0407,Public Utilities Commissioner,,Forrest Wilson,DEM,225
@@ -412,7 +608,7 @@ Minnehaha,0411,Public Utilities Commissioner,,Kristie Fiegen,REP,783
 Minnehaha,0412,Public Utilities Commissioner,,Forrest Wilson,DEM,529
 Minnehaha,0412,Public Utilities Commissioner,,A. Gideon Oakes,LIB,81
 Minnehaha,0412,Public Utilities Commissioner,,Kristie Fiegen,REP,755
-Minnehaha,0413,Public Utilities Commissioner,,Forrest Wilson,DEM,239
+Minnehaha,0413,Public Utilities Commissioner,,Forrest Wilson,DEM,295
 Minnehaha,0413,Public Utilities Commissioner,,A. Gideon Oakes,LIB,37
 Minnehaha,0413,Public Utilities Commissioner,,Kristie Fiegen,REP,409
 Minnehaha,0415,Public Utilities Commissioner,,Forrest Wilson,DEM,548
@@ -426,7 +622,7 @@ Minnehaha,0417,Public Utilities Commissioner,,A. Gideon Oakes,LIB,73
 Minnehaha,0417,Public Utilities Commissioner,,Kristie Fiegen,REP,1526
 Minnehaha,0418,Public Utilities Commissioner,,Forrest Wilson,DEM,285
 Minnehaha,0418,Public Utilities Commissioner,,A. Gideon Oakes,LIB,38
-Minnehaha,0418,Public Utilities Commissioner,,Kristie Fiegen,REP,806
+Minnehaha,0418,Public Utilities Commissioner,,Kristie Fiegen,REP,808
 Minnehaha,0419,Public Utilities Commissioner,,Forrest Wilson,DEM,373
 Minnehaha,0419,Public Utilities Commissioner,,A. Gideon Oakes,LIB,50
 Minnehaha,0419,Public Utilities Commissioner,,Kristie Fiegen,REP,570
@@ -435,7 +631,7 @@ Minnehaha,0501,Public Utilities Commissioner,,A. Gideon Oakes,LIB,91
 Minnehaha,0501,Public Utilities Commissioner,,Kristie Fiegen,REP,420
 Minnehaha,0502,Public Utilities Commissioner,,Forrest Wilson,DEM,278
 Minnehaha,0502,Public Utilities Commissioner,,A. Gideon Oakes,LIB,44
-Minnehaha,0502,Public Utilities Commissioner,,Kristie Fiegen,REP,424
+Minnehaha,0502,Public Utilities Commissioner,,Kristie Fiegen,REP,244
 Minnehaha,0503,Public Utilities Commissioner,,Forrest Wilson,DEM,145
 Minnehaha,0503,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
 Minnehaha,0503,Public Utilities Commissioner,,Kristie Fiegen,REP,146
@@ -457,7 +653,7 @@ Minnehaha,0509,Public Utilities Commissioner,,Kristie Fiegen,REP,202
 Minnehaha,0510,Public Utilities Commissioner,,Forrest Wilson,DEM,238
 Minnehaha,0510,Public Utilities Commissioner,,A. Gideon Oakes,LIB,44
 Minnehaha,0510,Public Utilities Commissioner,,Kristie Fiegen,REP,294
-Minnehaha,0512,Public Utilities Commissioner,,Forrest Wilson,DEM,256
+Minnehaha,0512,Public Utilities Commissioner,,Forrest Wilson,DEM,565
 Minnehaha,0512,Public Utilities Commissioner,,A. Gideon Oakes,LIB,73
 Minnehaha,0512,Public Utilities Commissioner,,Kristie Fiegen,REP,681
 Minnehaha,0515,Public Utilities Commissioner,,Forrest Wilson,DEM,206
@@ -481,9 +677,6 @@ Minnehaha,0521,Public Utilities Commissioner,,Kristie Fiegen,REP,431
 Minnehaha,0522,Public Utilities Commissioner,,Forrest Wilson,DEM,442
 Minnehaha,0522,Public Utilities Commissioner,,A. Gideon Oakes,LIB,90
 Minnehaha,0522,Public Utilities Commissioner,,Kristie Fiegen,REP,451
-Minnehaha,0204,Public Utilities Commissioner,,Forrest Wilson,DEM,414
-Minnehaha,0204,Public Utilities Commissioner,,A. Gideon Oakes,LIB,54
-Minnehaha,0204,Public Utilities Commissioner,,Kristie Fiegen,REP,764
 Minnehaha,0523,Public Utilities Commissioner,,Forrest Wilson,DEM,366
 Minnehaha,0523,Public Utilities Commissioner,,A. Gideon Oakes,LIB,51
 Minnehaha,0523,Public Utilities Commissioner,,Kristie Fiegen,REP,345
@@ -520,9 +713,9 @@ Minnehaha,VP10,Public Utilities Commissioner,,Kristie Fiegen,REP,1173
 Minnehaha,VP11,Public Utilities Commissioner,,Forrest Wilson,DEM,74
 Minnehaha,VP11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
 Minnehaha,VP11,Public Utilities Commissioner,,Kristie Fiegen,REP,419
-Minnehaha,VP12,Public Utilities Commissioner,,Forrest Wilson,DEM,74
-Minnehaha,VP12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
-Minnehaha,VP12,Public Utilities Commissioner,,Kristie Fiegen,REP,807
+Minnehaha,VP13,Public Utilities Commissioner,,Forrest Wilson,DEM,148
+Minnehaha,VP13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
+Minnehaha,VP13,Public Utilities Commissioner,,Kristie Fiegen,REP,807
 Minnehaha,VP15,Public Utilities Commissioner,,Forrest Wilson,DEM,476
 Minnehaha,VP15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,75
 Minnehaha,VP15,Public Utilities Commissioner,,Kristie Fiegen,REP,1365
@@ -535,205 +728,111 @@ Minnehaha,VP17,Public Utilities Commissioner,,Kristie Fiegen,REP,570
 Minnehaha,VP21,Public Utilities Commissioner,,Forrest Wilson,DEM,367
 Minnehaha,VP21,Public Utilities Commissioner,,A. Gideon Oakes,LIB,74
 Minnehaha,VP21,Public Utilities Commissioner,,Kristie Fiegen,REP,1477
-Minnehaha,053,Public Utilities Commissioner,,Forrest Wilson,DEM,366
-Minnehaha,DP01,Public Utilities Commissioner,,Forrest Wilson,DEM,151
-Minnehaha,053,Public Utilities Commissioner,,A. Gideon Oakes,LIB,51
-Minnehaha,DP01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,37
-Minnehaha,053,Public Utilities Commissioner,,Kristie Fiegen,REP,345
-Minnehaha,DP01,Public Utilities Commissioner,,Kristie Fiegen,REP,614
-Minnehaha,0106,State Senate,02,Steve Kolbeck,REP,581
-Minnehaha,0109,State Senate,02,Steve Kolbeck,REP,502
-Minnehaha,0110,State Senate,02,Steve Kolbeck,REP,544
-Minnehaha,0217,State Senate,02,Steve Kolbeck,REP,816
-Minnehaha,,State Senate,02,Steve Kolbeck,REP,722
-Minnehaha,0402,State Senate,02,Steve Kolbeck,REP,413
-Minnehaha,0404,State Senate,02,Steve Kolbeck,REP,461
-Minnehaha,0406,State Senate,02,Steve Kolbeck,REP,187
-Minnehaha,CT001,State Senate,02,Steve Kolbeck,REP,244
-Minnehaha,0412,State Senate,02,Steve Kolbeck,REP,787
-Minnehaha,0417,State Senate,02,Steve Kolbeck,REP,1
-Minnehaha,0418,State Senate,02,Steve Kolbeck,REP,836
-Minnehaha,0420,State Senate,02,Steve Kolbeck,REP,528
-Minnehaha,0504,State Senate,02,Steve Kolbeck,REP,772
-Minnehaha,0507,State Senate,02,Steve Kolbeck,REP,624
-Minnehaha,0515,State Senate,02,Steve Kolbeck,REP,326
-Minnehaha,0520,State Senate,02,Steve Kolbeck,REP,550
-Minnehaha,0105,State Senate,09,Joy Hohn,REP,581
-Minnehaha,0106,State Senate,09,Arch Beal,REP,581
-Minnehaha,0109,State Senate,09,Arch Beal,REP,502
-Minnehaha,0110,State Senate,09,Arch Beal,REP,544
-Minnehaha,0217,State Senate,09,Arch Beal,REP,816
-Minnehaha,0402,State Senate,09,Arch Beal,REP,413
-Minnehaha,0404,State Senate,09,Arch Beal,REP,461
-Minnehaha,CT001,State Senate,09,Arch Beal,REP,244
-Minnehaha,0412,State Senate,09,Arch Beal,REP,787
-Minnehaha,0417,State Senate,09,Arch Beal,REP,1
-Minnehaha,0418,State Senate,09,Arch Beal,REP,836
-Minnehaha,0420,State Senate,09,Arch Beal,REP,528
-Minnehaha,0504,State Senate,09,Arch Beal,REP,772
-Minnehaha,0507,State Senate,09,Arch Beal,REP,624
-Minnehaha,0515,State Senate,09,Arch Beal,REP,326
-Minnehaha,0520,State Senate,09,Arch Beal,REP,550
-Minnehaha,0105,State Senate,10,Liz Larson,DEM,676
-Minnehaha,0106,State Senate,10,Liz Larson,DEM,676
-Minnehaha,0109,State Senate,10,Liz Larson,DEM,693
-Minnehaha,0110,State Senate,10,Liz Larson,DEM,786
-Minnehaha,0217,State Senate,10,Liz Larson,DEM,816
-Minnehaha,0402,State Senate,10,Liz Larson,DEM,413
-Minnehaha,0404,State Senate,10,Liz Larson,DEM,461
-Minnehaha,CT001,State Senate,10,Liz Larson,DEM,244
-Minnehaha,0412,State Senate,10,Liz Larson,DEM,787
-Minnehaha,0417,State Senate,10,Liz Larson,DEM,1
-Minnehaha,0418,State Senate,10,Liz Larson,DEM,836
-Minnehaha,0420,State Senate,10,Liz Larson,DEM,528
-Minnehaha,0504,State Senate,10,Liz Larson,DEM,772
-Minnehaha,0507,State Senate,10,Liz Larson,DEM,624
-Minnehaha,0515,State Senate,10,Liz Larson,DEM,326
-Minnehaha,0520,State Senate,10,Liz Larson,DEM,550
-Minnehaha,0104,State Senate,11,Steve Natz,DEM,426
-Minnehaha,0111,State Senate,11,Steve Natz,DEM,343
-Minnehaha,CT001,State Senate,11,Steve Natz,DEM,244
-Minnehaha,0420,State Senate,11,Steve Natz,DEM,528
-Minnehaha,0104,State Senate,11,Clay Hoffman,DEM,267
-Minnehaha,CT001,State Senate,11,Clay Hoffman,DEM,244
-Minnehaha,0420,State Senate,11,Clay Hoffman,DEM,528
-Minnehaha,0504,State Senate,11,Clay Hoffman,DEM,772
-Minnehaha,0104,State Senate,12,Chris Karr,REP,676
-Minnehaha,0111,State Senate,12,Chris Karr,REP,385
-Minnehaha,CT001,State Senate,12,Chris Karr,REP,244
-Minnehaha,0504,State Senate,12,Chris Karr,REP,772
-Minnehaha,0104,State Senate,12,Ali Rae Horsted,DEM,676
-Minnehaha,0111,State Senate,12,Ali Rae Horsted,DEM,385
-Minnehaha,CT001,State Senate,12,Ali Rae Horsted,DEM,244
-Minnehaha,0504,State Senate,12,Ali Rae Horsted,DEM,772
-Minnehaha,0104,State Senate,13,Sue Peterson,REP,364
-Minnehaha,CT001,State Senate,13,Sue Peterson,REP,244
-Minnehaha,0420,State Senate,13,Sue Peterson,REP,528
-Minnehaha,0104,State Senate,09,Joy Hohn,REP,581
-Minnehaha,0104,State Senate,10,Liz Larson,DEM,676
-Minnehaha,0105,State Senate,13,Sue Peterson,REP,426
-Minnehaha,0105,State Senate,12,Arch Beal,REP,364
-Minnehaha,0106,State Senate,12,Clay Hoffman,DEM,302
-Minnehaha,0109,State Senate,09,Joy Hohn,REP,502
-Minnehaha,0110,State Senate,09,Joy Hohn,REP,544
-Minnehaha,0117,State Senate,02,Steve Kolbeck,REP,20
-Minnehaha,0117,State Senate,09,Joy Hohn,REP,586
-Minnehaha,0117,State Senate,10,Liz Larson,DEM,1015
-Minnehaha,0119,State Senate,11,Chris Karr,REP,343
-Minnehaha,0119,State Senate,12,Clay Hoffman,DEM,385
-Minnehaha,0201,State Senate,11,Chris Karr,REP,565
-Minnehaha,0201,State Senate,12,Clay Hoffman,DEM,643
-Minnehaha,0218,State Senate,09,Joy Hohn,REP,816
-Minnehaha,0301,State Senate,13,Sue Peterson,REP,378
-Minnehaha,0301,State Senate,12,Arch Beal,REP,470
-Minnehaha,0309,State Senate,09,Joy Hohn,REP,662
-Minnehaha,0309,State Senate,10,Liz Larson,DEM,727
-Minnehaha,0310,State Senate,09,Joy Hohn,REP,626
-Minnehaha,0310,State Senate,10,Liz Larson,DEM,1031
-Minnehaha,0311,State Senate,09,Joy Hohn,REP,354
-Minnehaha,0311,State Senate,10,Liz Larson,DEM,657
+Minnehaha,0104,State Senate,12,Clay Hoffman,REP,426
+Minnehaha,0104,State Senate,12,Arch Beal,DEM,364
+Minnehaha,0105,State Senate,12,Clay Hoffman,REP,267
+Minnehaha,0105,State Senate,12,Arch Beal,DEM,302
+Minnehaha,0106,State Senate,11,Steve Natz,DEM,581
+Minnehaha,0106,State Senate,11,Chris Karr,REP,676
+Minnehaha,0109,State Senate,11,Steve Natz,DEM,502
+Minnehaha,0109,State Senate,11,Chris Karr,REP,693
+Minnehaha,0110,State Senate,11,Steve Natz,DEM,544
+Minnehaha,0110,State Senate,11,Chris Karr,REP,786
+Minnehaha,0117,State Senate,09,Joy Hohn,REP,20
+Minnehaha,0117,State Senate,11,Steve Natz,DEM,586
+Minnehaha,0117,State Senate,11,Chris Karr,REP,1015
+Minnehaha,0119,State Senate,13,Ali Rae Horsted,DEM,343
+Minnehaha,0119,State Senate,13,Sue Peterson,REP,385
+Minnehaha,0201,State Senate,13,Ali Rae Horsted,DEM,565
+Minnehaha,0201,State Senate,13,Sue Peterson,REP,643
+Minnehaha,0218,State Senate,02,Steve Kolbeck,REP,816
+Minnehaha,0301,State Senate,12,Clay Hoffman,REP,378
+Minnehaha,0301,State Senate,12,Arch Beal,DEM,470
+Minnehaha,0309,State Senate,11,Steve Natz,DEM,662
+Minnehaha,0309,State Senate,11,Chris Karr,REP,727
+Minnehaha,0310,State Senate,11,Steve Natz,DEM,626
+Minnehaha,0310,State Senate,11,Chris Karr,REP,1031
+Minnehaha,0311,State Senate,11,Steve Natz,DEM,354
+Minnehaha,0311,State Senate,11,Chris Karr,REP,657
 Minnehaha,0312,State Senate,09,Joy Hohn,REP,722
-Minnehaha,0313,State Senate,09,Joy Hohn,REP,373
-Minnehaha,0313,State Senate,10,Liz Larson,DEM,476
+Minnehaha,0313,State Senate,11,Steve Natz,DEM,373
+Minnehaha,0313,State Senate,11,Chris Karr,REP,476
 Minnehaha,0314,State Senate,09,Joy Hohn,REP,903
-Minnehaha,0315,State Senate,10,Liz Larson,DEM,519
-Minnehaha,0315,State Senate,09,Joy Hohn,REP,735
+Minnehaha,0315,State Senate,11,Steve Natz,DEM,519
+Minnehaha,0315,State Senate,11,Chris Karr,REP,735
 Minnehaha,0316,State Senate,09,Joy Hohn,REP,1445
-Minnehaha,0317,State Senate,10,Liz Larson,DEM,868
+Minnehaha,0317,State Senate,09,Joy Hohn,REP,868
 Minnehaha,0318,State Senate,09,Joy Hohn,REP,480
-Minnehaha,0319,State Senate,10,Liz Larson,DEM,1344
-Minnehaha,0402,State Senate,09,Joy Hohn,REP,413
-Minnehaha,0403,State Senate,09,Joy Hohn,REP,297
-Minnehaha,0404,State Senate,09,Joy Hohn,REP,461
-Minnehaha,0405,State Senate,09,Joy Hohn,REP,187
-Minnehaha,0406,State Senate,09,Joy Hohn,REP,1
-Minnehaha,0407,State Senate,09,Joy Hohn,REP,328
-Minnehaha,0408,State Senate,09,Joy Hohn,REP,423
-Minnehaha,0409,State Senate,09,Joy Hohn,REP,573
-Minnehaha,0410,State Senate,13,Ali Rae Horsted,DEM,244
-Minnehaha,0410,State Senate,11,Chris Karr,REP,528
-Minnehaha,0411,State Senate,09,Joy Hohn,REP,787
-Minnehaha,0417,State Senate,09,Joy Hohn,REP,1552
-Minnehaha,0418,State Senate,09,Joy Hohn,REP,836
-Minnehaha,0419,State Senate,11,Chris Karr,REP,169
-Minnehaha,0419,State Senate,12,Clay Hoffman,DEM,161
-Minnehaha,0501,State Senate,09,Joy Hohn,REP,528
-Minnehaha,0504,State Senate,09,Joy Hohn,REP,772
-Minnehaha,0506,State Senate,09,Joy Hohn,REP,612
-Minnehaha,0507,State Senate,09,Joy Hohn,REP,388
-Minnehaha,0508,State Senate,09,Joy Hohn,REP,624
-Minnehaha,0509,State Senate,12,Clay Hoffman,DEM,285
-Minnehaha,0509,State Senate,13,Ali Rae Horsted,DEM,185
-Minnehaha,0510,State Senate,10,Liz Larson,DEM,761
-Minnehaha,0510,State Senate,11,Chris Karr,REP,607
-Minnehaha,0519,State Senate,12,Clay Hoffman,DEM,550
-Minnehaha,0519,State Senate,13,Ali Rae Horsted,DEM,577
-Minnehaha,0521,State Senate,12,Clay Hoffman,DEM,458
-Minnehaha,0521,State Senate,13,Ali Rae Horsted,DEM,386
-Minnehaha,VP01,State Senate,09,Joy Hohn,REP,607
-Minnehaha,VP02,State Senate,09,Joy Hohn,REP,1036
-Minnehaha,VP03,State Senate,09,Joy Hohn,REP,1457
-Minnehaha,VP05,State Senate,09,Joy Hohn,REP,1522
+Minnehaha,0319,State Senate,09,Joy Hohn,REP,1344
+Minnehaha,0402,State Senate,10,Liz Larson,DEM,413
+Minnehaha,0403,State Senate,10,Liz Larson,DEM,297
+Minnehaha,0404,State Senate,10,Liz Larson,DEM,461
+Minnehaha,0406,State Senate,10,Liz Larson,DEM,187
+Minnehaha,0407,State Senate,02,Steve Kolbeck,REP,1
+Minnehaha,0407,State Senate,10,Liz Larson,DEM,328
+Minnehaha,0408,State Senate,10,Liz Larson,DEM,423
+Minnehaha,0409,State Senate,10,Liz Larson,DEM,573
+Minnehaha,0410,State Senate,02,Steve Kolbeck,REP,244
+Minnehaha,0411,State Senate,02,Steve Kolbeck,REP,787
+Minnehaha,0417,State Senate,02,Steve Kolbeck,REP,1552
+Minnehaha,0418,State Senate,02,Steve Kolbeck,REP,836
+Minnehaha,0419,State Senate,10,Liz Larson,DEM,528
+Minnehaha,0503,State Senate,12,Clay Hoffman,REP,169
+Minnehaha,0503,State Senate,12,Arch Beal,DEM,161
+Minnehaha,0504,State Senate,10,Liz Larson,DEM,772
+Minnehaha,0506,State Senate,10,Liz Larson,DEM,612
+Minnehaha,0507,State Senate,10,Liz Larson,DEM,388
+Minnehaha,0508,State Senate,10,Liz Larson,DEM,624
+Minnehaha,0509,State Senate,12,Clay Hoffman,REP,285
+Minnehaha,0509,State Senate,12,Arch Beal,DEM,185
+Minnehaha,0510,State Senate,12,Clay Hoffman,REP,326
+Minnehaha,0510,State Senate,12,Arch Beal,DEM,279
+Minnehaha,0512,State Senate,13,Ali Rae Horsted,DEM,761
+Minnehaha,0512,State Senate,13,Sue Peterson,REP,607
+Minnehaha,0519,State Senate,12,Clay Hoffman,REP,550
+Minnehaha,0519,State Senate,12,Arch Beal,DEM,577
+Minnehaha,0521,State Senate,12,Clay Hoffman,REP,458
+Minnehaha,0521,State Senate,12,Arch Beal,DEM,386
+Minnehaha,VP01,State Senate,02,Steve Kolbeck,REP,607
+Minnehaha,VP02,State Senate,02,Steve Kolbeck,REP,1036
+Minnehaha,VP03,State Senate,02,Steve Kolbeck,REP,1457
+Minnehaha,VP05,State Senate,02,Steve Kolbeck,REP,1522
 Minnehaha,VP06,State Senate,09,Joy Hohn,REP,302
 Minnehaha,VP07,State Senate,09,Joy Hohn,REP,1484
-Minnehaha,VP16,State Senate,09,Joy Hohn,REP,569
-Minnehaha,VP17,State Senate,09,Joy Hohn,REP,1479
-Minnehaha,0521,State Senate,02,Steve Kolbeck,REP,386
-Minnehaha,0521,State Senate,13,Ali Rae,DEM,458
-Minnehaha,0523,State Senate,09,Joy Hohn,REP,607
-Minnehaha,0523,State Senate,10,Liz Larson,DEM,1
-Minnehaha,0523,State Senate,11,Steve Natz,DEM,1036
-Minnehaha,0525,State Senate,09,Joy Hohn,REP,1
-Minnehaha,0525,State Senate,10,Liz Larson,DEM,1
-Minnehaha,0525,State Senate,11,Steve Natz,DEM,1
-Minnehaha,0525,State Senate,12,Chris Karr,REP,1
-Minnehaha,0525,State Senate,13,Sue Peterson,REP,1
-Minnehaha,0529,State Senate,09,Joy Hohn,REP,1
-Minnehaha,0530,State Senate,10,Liz Larson,DEM,1
-Minnehaha,0531,State Senate,11,Steve Natz,DEM,1
-Minnehaha,0531,State Senate,12,Chris Karr,REP,302
-Minnehaha,0533,State Senate,10,Liz Larson,DEM,1484
-Minnehaha,0533,State Senate,11,Steve Natz,DEM,1
-Minnehaha,0533,State Senate,12,Chris Karr,REP,1469
-Minnehaha,0202,State Senate,14,Sandra Henry,DEM,570
-Minnehaha,0202,State Senate,15,Brenda Lawrence,REP,657
-Minnehaha,0205,State Senate,14,Sandra Henry,DEM,566
-Minnehaha,0205,State Senate,15,Brenda Lawrence,REP,699
-Minnehaha,0217,State Senate,15,Brenda Lawrence,REP,728
-Minnehaha,0217,State Senate,14,Sandra Henry,DEM,980
-Minnehaha,0320,State Senate,25,Brian Wirth,DEM,167
-Minnehaha,0320,State Senate,14,Larry Zikmund,REP,329
-Minnehaha,0340,State Senate,25,Brian Wirth,DEM,1
-Minnehaha,0512,State Senate,25,Tom Pischke,REP,1
-Minnehaha,0201,State Senate,14,Sandra Henry,DEM,786
-Minnehaha,0201,State Senate,14,Larry P. Zikmund,REP,803
-Minnehaha,0202,State Senate,14,Larry P. Zikmund,REP,657
-Minnehaha,0205,State Senate,14,Larry P. Zikmund,REP,699
+Minnehaha,VP15,State Senate,02,Steve Kolbeck,REP,1479
+Minnehaha,VP17,State Senate,09,Joy Hohn,REP,569
+Minnehaha,0202,State Senate,14,Sandra Henry,DEM,786
+Minnehaha,0202,State Senate,14,Larry P. Zikmund,REP,803
+Minnehaha,0203,State Senate,14,Sandra Henry,DEM,570
+Minnehaha,0203,State Senate,14,Larry P. Zikmund,REP,657
+Minnehaha,0206,State Senate,14,Sandra Henry,DEM,567
+Minnehaha,0206,State Senate,14,Larry P. Zikmund,REP,699
 Minnehaha,0208,State Senate,14,Sandra Henry,DEM,292
-Minnehaha,0208,State Senate,14,Larry P. Zikmund,REP,373
+Minnehaha,0208,State Senate,14,Larry P. Zikmund,REP,323
 Minnehaha,0209,State Senate,14,Sandra Henry,DEM,600
 Minnehaha,0209,State Senate,14,Larry P. Zikmund,REP,553
 Minnehaha,0214,State Senate,14,Sandra Henry,DEM,620
 Minnehaha,0214,State Senate,14,Larry P. Zikmund,REP,870
+Minnehaha,0217,State Senate,14,Sandra Henry,DEM,728
 Minnehaha,0217,State Senate,14,Larry P. Zikmund,REP,980
 Minnehaha,0305,State Senate,15,Jamie Smith,DEM,308
 Minnehaha,0305,State Senate,15,Brenda Lawrence,REP,366
-Minnehaha,0320,State Senate,15,Jamie Smith,DEM,167
-Minnehaha,0320,State Senate,15,Brenda Lawrence,REP,329
+Minnehaha,0320,State Senate,25,Brian Wirth,DEM,167
+Minnehaha,0320,State Senate,25,Tom Pischke,REP,329
 Minnehaha,0405,State Senate,15,Jamie Smith,DEM,327
 Minnehaha,0405,State Senate,15,Brenda Lawrence,REP,327
-Minnehaha,0406,State Senate,15,Jamie Smith,DEM,103
-Minnehaha,0406,State Senate,15,Brenda Lawrence,REP,199
+Minnehaha,0406,State Senate,25,Brian Wirth,DEM,103
+Minnehaha,0406,State Senate,25,Tom Pischke,REP,199
 Minnehaha,0412,State Senate,14,Sandra Henry,DEM,681
 Minnehaha,0412,State Senate,14,Larry P. Zikmund,REP,704
 Minnehaha,0413,State Senate,14,Sandra Henry,DEM,352
 Minnehaha,0413,State Senate,14,Larry P. Zikmund,REP,406
 Minnehaha,0415,State Senate,14,Sandra Henry,DEM,740
 Minnehaha,0415,State Senate,14,Larry P. Zikmund,REP,1132
-Minnehaha,0416,State Senate,14,Sandra Henry,DEM,648
-Minnehaha,0416,State Senate,14,Larry P. Zikmund,REP,967
-Minnehaha,0418,State Senate,15,Jamie Smith,DEM,630
-Minnehaha,0418,State Senate,15,Brenda Lawrence,REP,408
+Minnehaha,0416,State Senate,15,Jamie Smith,DEM,648
+Minnehaha,0416,State Senate,15,Brenda Lawrence,REP,967
+Minnehaha,0501,State Senate,15,Jamie Smith,DEM,630
+Minnehaha,0501,State Senate,15,Brenda Lawrence,REP,408
 Minnehaha,0502,State Senate,15,Jamie Smith,DEM,361
 Minnehaha,0502,State Senate,15,Brenda Lawrence,REP,211
 Minnehaha,0515,State Senate,15,Jamie Smith,DEM,260
@@ -742,16 +841,16 @@ Minnehaha,0516,State Senate,15,Jamie Smith,DEM,299
 Minnehaha,0516,State Senate,15,Brenda Lawrence,REP,435
 Minnehaha,0518,State Senate,15,Jamie Smith,DEM,706
 Minnehaha,0518,State Senate,15,Brenda Lawrence,REP,453
-Minnehaha,0519,State Senate,15,Jamie Smith,DEM,486
-Minnehaha,0519,State Senate,15,Brenda Lawrence,REP,467
-Minnehaha,0521,State Senate,15,Jamie Smith,DEM,571
-Minnehaha,0521,State Senate,15,Brenda Lawrence,REP,436
+Minnehaha,0520,State Senate,15,Jamie Smith,DEM,486
+Minnehaha,0520,State Senate,15,Brenda Lawrence,REP,467
+Minnehaha,0522,State Senate,15,Jamie Smith,DEM,571
+Minnehaha,0522,State Senate,15,Brenda Lawrence,REP,436
 Minnehaha,0523,State Senate,15,Jamie Smith,DEM,456
 Minnehaha,0523,State Senate,15,Brenda Lawrence,REP,322
 Minnehaha,VP04,State Senate,25,Brian Wirth,DEM,290
 Minnehaha,VP04,State Senate,25,Tom Pischke,REP,745
-Minnehaha,VP07,State Senate,25,Brian Wirth,DEM,186
-Minnehaha,VP07,State Senate,25,Tom Pischke,REP,685
+Minnehaha,VP08,State Senate,25,Brian Wirth,DEM,186
+Minnehaha,VP08,State Senate,25,Tom Pischke,REP,685
 Minnehaha,VP09,State Senate,25,Brian Wirth,DEM,388
 Minnehaha,VP09,State Senate,25,Tom Pischke,REP,1088
 Minnehaha,VP10,State Senate,25,Brian Wirth,DEM,376
@@ -760,120 +859,33 @@ Minnehaha,VP11,State Senate,25,Brian Wirth,DEM,115
 Minnehaha,VP11,State Senate,25,Tom Pischke,REP,397
 Minnehaha,VP13,State Senate,25,Brian Wirth,DEM,213
 Minnehaha,VP13,State Senate,25,Tom Pischke,REP,766
-Minnehaha,VP15,State Senate,25,Brian Wirth,DEM,310
-Minnehaha,VP15,State Senate,25,Tom Pischke,REP,824
-Minnehaha,VP17,State Senate,25,Brian Wirth,DEM,524
-Minnehaha,VP17,State Senate,25,Tom Pischke,REP,1405
-Minnehaha,0521,State Senate,14,Sandra Henry,DEM,0
-Minnehaha,0521,State Senate,14,Larry P. Zikmund,REP,0
-Minnehaha,0521,State Senate,25,Brian Wirth,DEM,0
-Minnehaha,0521,State Senate,25,Tom Pischke,REP,0
-Minnehaha,0522,State Senate,14,Sandra Henry,DEM,571
-Minnehaha,0522,State Senate,14,Larry P. Zikmund,REP,436
-Minnehaha,0523,State Senate,14,Sandra Henry,DEM,456
-Minnehaha,0523,State Senate,14,Larry P. Zikmund,REP,322
-Minnehaha,VP08,State Senate,25,Brian Wirth,DEM,186
-Minnehaha,VP08,State Senate,25,Tom Pischke,REP,685
 Minnehaha,VP16,State Senate,25,Brian Wirth,DEM,310
 Minnehaha,VP16,State Senate,25,Tom Pischke,REP,824
 Minnehaha,VP21,State Senate,25,Brian Wirth,DEM,524
 Minnehaha,VP21,State Senate,25,Tom Pischke,REP,1405
-Minnehaha,0104,State House,02,David Kull,REP,0
-Minnehaha,0104,State House,02,John Spaar,REP,0
-Minnehaha,0104,State House,09,Beverly Froslie-Johnson,DEM,0
-Minnehaha,0104,State House,09,Bethany Soye,REP,0
-Minnehaha,0104,State House,09,Tesa Schwans,REP,0
-Minnehaha,0104,State House,10,Kameron Nelson,DEM,0
-Minnehaha,0104,State House,10,Erin Healy,DEM,0
-Minnehaha,0104,State House,10,Bobbi L. Andera,REP,0
-Minnehaha,0117,State House,09,Beverly Froslie-Johnson,DEM,16
+Minnehaha,0117,State House,09,Beverly Froslie Johnson,DEM,16
 Minnehaha,0117,State House,09,Bethany Soye,REP,9
 Minnehaha,0117,State House,09,Tesa Schwans,REP,17
-Minnehaha,0217,State House,02,David Kull,REP,650
-Minnehaha,0217,State House,02,John Spaar,REP,637
-Minnehaha,0311,State House,09,Beverly Froslie-Johnson,DEM,421
-Minnehaha,0311,State House,09,Bethany Soye,REP,580
-Minnehaha,0311,State House,09,Tesa Schwans,REP,550
-Minnehaha,0313,State House,09,Beverly Froslie-Johnson,DEM,535
-Minnehaha,0313,State House,09,Bethany Soye,REP,725
-Minnehaha,0313,State House,09,Tesa Schwans,REP,662
-Minnehaha,0316,State House,09,Beverly Froslie-Johnson,DEM,661
-Minnehaha,0316,State House,09,Bethany Soye,REP,1165
-Minnehaha,0316,State House,09,Tesa Schwans,REP,1269
-Minnehaha,0317,State House,09,Beverly Froslie-Johnson,DEM,481
-Minnehaha,0317,State House,09,Bethany Soye,REP,669
-Minnehaha,0317,State House,09,Tesa Schwans,REP,706
-Minnehaha,0318,State House,09,Beverly Froslie-Johnson,DEM,330
-Minnehaha,0318,State House,09,Bethany Soye,REP,383
-Minnehaha,0318,State House,09,Tesa Schwans,REP,368
-Minnehaha,0319,State House,09,Beverly Froslie-Johnson,DEM,729
-Minnehaha,0319,State House,09,Bethany Soye,REP,1005
-Minnehaha,0319,State House,09,Tesa Schwans,REP,1049
-Minnehaha,0402,State House,09,Beverly Froslie-Johnson,DEM,283
-Minnehaha,0402,State House,09,Bethany Soye,REP,414
-Minnehaha,0402,State House,09,Tesa Schwans,REP,336
-Minnehaha,0403,State House,09,Beverly Froslie-Johnson,DEM,221
-Minnehaha,0403,State House,09,Bethany Soye,REP,256
-Minnehaha,0403,State House,09,Tesa Schwans,REP,215
-Minnehaha,0404,State House,09,Beverly Froslie-Johnson,DEM,327
-Minnehaha,0404,State House,09,Bethany Soye,REP,394
-Minnehaha,0404,State House,09,Tesa Schwans,REP,392
-Minnehaha,0405,State House,09,Beverly Froslie-Johnson,DEM,0
-Minnehaha,0405,State House,09,Bethany Soye,REP,0
-Minnehaha,0405,State House,09,Tesa Schwans,REP,0
-Minnehaha,0406,State House,09,Beverly Froslie-Johnson,DEM,125
-Minnehaha,0406,State House,09,Bethany Soye,REP,141
-Minnehaha,0406,State House,09,Tesa Schwans,REP,161
-Minnehaha,0407,State House,09,Beverly Froslie-Johnson,DEM,1
-Minnehaha,0407,State House,09,Bethany Soye,REP,0
-Minnehaha,0407,State House,09,Tesa Schwans,REP,242
-Minnehaha,0408,State House,09,Beverly Froslie-Johnson,DEM,310
-Minnehaha,0408,State House,09,Bethany Soye,REP,373
-Minnehaha,0408,State House,09,Tesa Schwans,REP,367
-Minnehaha,0409,State House,09,Beverly Froslie-Johnson,DEM,394
-Minnehaha,0409,State House,09,Bethany Soye,REP,534
-Minnehaha,0409,State House,09,Tesa Schwans,REP,425
-Minnehaha,0410,State House,09,Beverly Froslie-Johnson,DEM,209
-Minnehaha,0410,State House,09,Bethany Soye,REP,183
-Minnehaha,0410,State House,09,Tesa Schwans,REP,0
-Minnehaha,0411,State House,09,Beverly Froslie-Johnson,DEM,664
-Minnehaha,0411,State House,09,Bethany Soye,REP,630
-Minnehaha,0411,State House,09,Tesa Schwans,REP,0
-Minnehaha,0417,State House,10,Kameron Nelson,DEM,1227
-Minnehaha,0417,State House,10,Erin Healy,DEM,1299
-Minnehaha,0417,State House,10,Bobbi L. Andera,REP,0
-Minnehaha,0418,State House,10,Kameron Nelson,DEM,657
-Minnehaha,0418,State House,10,Erin Healy,DEM,689
-Minnehaha,0418,State House,10,Bobbi L. Andera,REP,0
-Minnehaha,0419,State House,10,Kameron Nelson,DEM,0
-Minnehaha,0419,State House,10,Erin Healy,DEM,379
-Minnehaha,0419,State House,10,Bobbi L. Andera,REP,464
-Minnehaha,0502,State House,10,Kameron Nelson,DEM,0
-Minnehaha,0502,State House,10,Erin Healy,DEM,0
-Minnehaha,0502,State House,10,Bobbi L. Andera,REP,0
-Minnehaha,0503,State House,10,Kameron Nelson,DEM,588
-Minnehaha,0503,State House,10,Erin Healy,DEM,722
-Minnehaha,0503,State House,10,Bobbi L. Andera,REP,390
-Minnehaha,0504,State House,10,Kameron Nelson,DEM,416
-Minnehaha,0504,State House,10,Erin Healy,DEM,572
-Minnehaha,0504,State House,10,Bobbi L. Andera,REP,465
-Minnehaha,0507,State House,10,Kameron Nelson,DEM,294
-Minnehaha,0507,State House,10,Erin Healy,DEM,383
-Minnehaha,0507,State House,10,Bobbi L. Andera,REP,217
-Minnehaha,0508,State House,10,Kameron Nelson,DEM,466
-Minnehaha,0508,State House,10,Erin Healy,DEM,606
-Minnehaha,0508,State House,10,Bobbi L. Andera,REP,361
-Minnehaha,0109,State House,09,Beverly Froslie Johnson,DEM,16
-Minnehaha,0109,State House,09,Bethany Soye,REP,9
-Minnehaha,0109,State House,09,Tesa Schwans,REP,17
 Minnehaha,0218,State House,02,David Kull,REP,650
 Minnehaha,0218,State House,02,John Sjaarda,REP,637
-Minnehaha,0311,State House,09,Beverly Froslie Johnson,DEM,421
-Minnehaha,0313,State House,09,Beverly Froslie Johnson,DEM,535
+Minnehaha,0312,State House,09,Beverly Froslie Johnson,DEM,421
+Minnehaha,0312,State House,09,Bethany Soye,REP,580
+Minnehaha,0312,State House,09,Tesa Schwans,REP,550
+Minnehaha,0314,State House,09,Beverly Froslie Johnson,DEM,535
+Minnehaha,0314,State House,09,Bethany Soye,REP,725
+Minnehaha,0314,State House,09,Tesa Schwans,REP,662
 Minnehaha,0316,State House,09,Beverly Froslie Johnson,DEM,661
+Minnehaha,0316,State House,09,Bethany Soye,REP,1165
+Minnehaha,0316,State House,09,Tesa Schwans,REP,1269
 Minnehaha,0317,State House,09,Beverly Froslie Johnson,DEM,481
+Minnehaha,0317,State House,09,Bethany Soye,REP,669
+Minnehaha,0317,State House,09,Tesa Schwans,REP,706
 Minnehaha,0318,State House,09,Beverly Froslie Johnson,DEM,330
+Minnehaha,0318,State House,09,Bethany Soye,REP,383
+Minnehaha,0318,State House,09,Tesa Schwans,REP,368
 Minnehaha,0319,State House,09,Beverly Froslie Johnson,DEM,729
+Minnehaha,0319,State House,09,Bethany Soye,REP,1005
+Minnehaha,0319,State House,09,Tesa Schwans,REP,1049
 Minnehaha,0402,State House,10,Kameron Nelson,DEM,283
 Minnehaha,0402,State House,10,Erin Healy,DEM,414
 Minnehaha,0402,State House,10,Bobbi L Andera,REP,336
@@ -886,7 +898,8 @@ Minnehaha,0404,State House,10,Bobbi L Andera,REP,392
 Minnehaha,0406,State House,10,Kameron Nelson,DEM,125
 Minnehaha,0406,State House,10,Erin Healy,DEM,141
 Minnehaha,0406,State House,10,Bobbi L Andera,REP,161
-Minnehaha,0407,State House,09,Beverly Froslie Johnson,DEM,1
+Minnehaha,0407,State House,02,David Kull,REP,1
+Minnehaha,0407,State House,02,John Sjaarda,REP,0
 Minnehaha,0407,State House,10,Kameron Nelson,DEM,242
 Minnehaha,0407,State House,10,Erin Healy,DEM,279
 Minnehaha,0407,State House,10,Bobbi L Andera,REP,409
@@ -896,25 +909,33 @@ Minnehaha,0408,State House,10,Bobbi L Andera,REP,367
 Minnehaha,0409,State House,10,Kameron Nelson,DEM,394
 Minnehaha,0409,State House,10,Erin Healy,DEM,534
 Minnehaha,0409,State House,10,Bobbi L Andera,REP,425
-Minnehaha,0410,State House,10,Kameron Nelson,DEM,209
-Minnehaha,0410,State House,10,Erin Healy,DEM,183
-Minnehaha,0411,State House,10,Kameron Nelson,DEM,664
-Minnehaha,0411,State House,10,Erin Healy,DEM,630
+Minnehaha,0410,State House,02,David Kull,REP,209
+Minnehaha,0410,State House,02,John Sjaarda,REP,183
+Minnehaha,0411,State House,02,David Kull,REP,664
+Minnehaha,0411,State House,02,John Sjaarda,REP,630
 Minnehaha,0417,State House,02,David Kull,REP,1227
 Minnehaha,0417,State House,02,John Sjaarda,REP,1299
 Minnehaha,0418,State House,02,David Kull,REP,657
 Minnehaha,0418,State House,02,John Sjaarda,REP,689
+Minnehaha,0419,State House,10,Kameron Nelson,DEM,379
+Minnehaha,0419,State House,10,Erin Healy,DEM,464
 Minnehaha,0419,State House,10,Bobbi L Andera,REP,496
+Minnehaha,0504,State House,10,Kameron Nelson,DEM,588
+Minnehaha,0504,State House,10,Erin Healy,DEM,722
 Minnehaha,0504,State House,10,Bobbi L Andera,REP,390
 Minnehaha,0506,State House,10,Kameron Nelson,DEM,416
 Minnehaha,0506,State House,10,Erin Healy,DEM,572
 Minnehaha,0506,State House,10,Bobbi L Andera,REP,465
+Minnehaha,0507,State House,10,Kameron Nelson,DEM,294
+Minnehaha,0507,State House,10,Erin Healy,DEM,383
 Minnehaha,0507,State House,10,Bobbi L Andera,REP,217
+Minnehaha,0508,State House,10,Kameron Nelson,DEM,466
+Minnehaha,0508,State House,10,Erin Healy,DEM,606
 Minnehaha,0508,State House,10,Bobbi L Andera,REP,361
-Minnehaha,VP01,State House,09,Beverly Froslie Johnson,DEM,394
-Minnehaha,VP01,State House,09,Bethany Soye,REP,636
-Minnehaha,VP02,State House,09,Beverly Froslie Johnson,DEM,840
-Minnehaha,VP02,State House,09,Bethany Soye,REP,914
+Minnehaha,VP01,State House,02,David Kull,REP,394
+Minnehaha,VP01,State House,02,John Sjaarda,REP,636
+Minnehaha,VP02,State House,02,David Kull,REP,840
+Minnehaha,VP02,State House,02,John Sjaarda,REP,914
 Minnehaha,VP03,State House,02,David Kull,REP,1151
 Minnehaha,VP03,State House,02,John Sjaarda,REP,1140
 Minnehaha,VP05,State House,02,David Kull,REP,1196
@@ -925,184 +946,123 @@ Minnehaha,VP06,State House,09,Tesa Schwans,REP,270
 Minnehaha,VP07,State House,09,Beverly Froslie Johnson,DEM,538
 Minnehaha,VP07,State House,09,Bethany Soye,REP,1191
 Minnehaha,VP07,State House,09,Tesa Schwans,REP,1181
-Minnehaha,VP12,State House,02,David Kull,REP,1250
-Minnehaha,VP12,State House,02,John Sjaarda,REP,1150
-Minnehaha,VP16,State House,10,Kameron Nelson,DEM,167
-Minnehaha,VP16,State House,10,Erin Healy,DEM,480
-Minnehaha,VP16,State House,10,Bobbi L Andera,REP,488
-Minnehaha,VP01,State House,02,David Kull,REP,394
-Minnehaha,VP01,State House,02,John Sjaarda,REP,636
-Minnehaha,VP02,State House,02,David Kull,REP,840
-Minnehaha,VP02,State House,02,John Sjaarda,REP,914
-Minnehaha,VP13,State House,02,David Kull,REP,1250
-Minnehaha,VP13,State House,02,John Sjaarda,REP,1150
-Minnehaha,VP16,State House,09,Beverly Froslie Johnson,DEM,167
-Minnehaha,VP16,State House,09,Bethany Soye,REP,480
-Minnehaha,VP16,State House,09,Tesa Schwans,REP,488
+Minnehaha,VP15,State House,02,David Kull,REP,1250
+Minnehaha,VP15,State House,02,John Sjaarda,REP,1150
+Minnehaha,VP17,State House,09,Beverly Froslie Johnson,DEM,167
+Minnehaha,VP17,State House,09,Bethany Soye,REP,480
+Minnehaha,VP17,State House,09,Tesa Schwans,REP,488
 Minnehaha,0104,State House,12,Erin Royer,DEM,395
-Minnehaha,0104,State House,12,DR Anderson,DEM,340
-Minnehaha,0104,State House,12,Amber Arlint,REP,353
+Minnehaha,0104,State House,12,JR Anderson,REP,340
+Minnehaha,0104,State House,12,Amber Arlint,DEM,353
 Minnehaha,0104,State House,12,Greg Jamison,REP,340
 Minnehaha,0105,State House,12,Erin Royer,DEM,234
-Minnehaha,0105,State House,12,DR Anderson,DEM,202
-Minnehaha,0105,State House,12,Amber Arlint,REP,294
+Minnehaha,0105,State House,12,JR Anderson,REP,202
+Minnehaha,0105,State House,12,Amber Arlint,DEM,294
 Minnehaha,0105,State House,12,Greg Jamison,REP,288
-Minnehaha,0106,State House,11,Aaron Matson,DEM,510
-Minnehaha,0106,State House,11,Sonja Mentele,DEM,548
-Minnehaha,0106,State House,11,Keri K Weems,REP,591
+Minnehaha,0106,State House,11,Aaron Matson,REP,510
+Minnehaha,0106,State House,11,Sonja Mentzer,DEM,548
+Minnehaha,0106,State House,11,Keri K Weems,DEM,591
 Minnehaha,0106,State House,11,Brian K Mulder,REP,617
-Minnehaha,0109,State House,11,Aaron Matson,DEM,477
-Minnehaha,0109,State House,11,Sonja Mentele,DEM,484
-Minnehaha,0109,State House,11,Keri K Weems,REP,586
+Minnehaha,0109,State House,11,Aaron Matson,REP,477
+Minnehaha,0109,State House,11,Sonja Mentzer,DEM,484
+Minnehaha,0109,State House,11,Keri K Weems,DEM,586
 Minnehaha,0109,State House,11,Brian K Mulder,REP,646
-Minnehaha,0110,State House,11,Aaron Matson,DEM,492
-Minnehaha,0110,State House,11,Sonja Mentele,DEM,511
-Minnehaha,0110,State House,11,Keri K Weems,REP,696
+Minnehaha,0110,State House,11,Aaron Matson,REP,492
+Minnehaha,0110,State House,11,Sonja Mentzer,DEM,511
+Minnehaha,0110,State House,11,Keri K Weems,DEM,696
 Minnehaha,0110,State House,11,Brian K Mulder,REP,707
-Minnehaha,0112,State House,11,Aaron Matson,DEM,520
-Minnehaha,0112,State House,11,Sonja Mentele,DEM,558
-Minnehaha,0112,State House,11,Keri K Weems,REP,843
-Minnehaha,0112,State House,11,Brian K Mulder,REP,931
-Minnehaha,0218,State House,12,Erin Royer,DEM,363
-Minnehaha,0218,State House,12,DR Anderson,DEM,303
-Minnehaha,0218,State House,12,Amber Arlint,REP,448
-Minnehaha,0218,State House,12,Greg Jamison,REP,461
-Minnehaha,0305,State House,11,Aaron Matson,DEM,565
-Minnehaha,0305,State House,11,Sonja Mentele,DEM,639
-Minnehaha,0305,State House,11,Keri K Weems,REP,614
-Minnehaha,0305,State House,11,Brian K Mulder,REP,655
-Minnehaha,0310,State House,11,Aaron Matson,DEM,561
-Minnehaha,0310,State House,11,Sonja Mentele,DEM,603
-Minnehaha,0310,State House,11,Keri K Weems,REP,929
+Minnehaha,0117,State House,11,Aaron Matson,REP,520
+Minnehaha,0117,State House,11,Sonja Mentzer,DEM,558
+Minnehaha,0117,State House,11,Keri K Weems,DEM,843
+Minnehaha,0117,State House,11,Brian K Mulder,REP,931
+Minnehaha,0301,State House,12,Erin Royer,DEM,363
+Minnehaha,0301,State House,12,JR Anderson,REP,303
+Minnehaha,0301,State House,12,Amber Arlint,DEM,448
+Minnehaha,0301,State House,12,Greg Jamison,REP,461
+Minnehaha,0309,State House,11,Aaron Matson,REP,565
+Minnehaha,0309,State House,11,Sonja Mentzer,DEM,639
+Minnehaha,0309,State House,11,Keri K Weems,DEM,614
+Minnehaha,0309,State House,11,Brian K Mulder,REP,655
+Minnehaha,0310,State House,11,Aaron Matson,REP,561
+Minnehaha,0310,State House,11,Sonja Mentzer,DEM,603
+Minnehaha,0310,State House,11,Keri K Weems,DEM,929
 Minnehaha,0310,State House,11,Brian K Mulder,REP,963
-Minnehaha,0311,State House,11,Aaron Matson,DEM,340
-Minnehaha,0311,State House,11,Sonja Mentele,DEM,354
-Minnehaha,0311,State House,11,Keri K Weems,REP,604
+Minnehaha,0311,State House,11,Aaron Matson,REP,340
+Minnehaha,0311,State House,11,Sonja Mentzer,DEM,354
+Minnehaha,0311,State House,11,Keri K Weems,DEM,604
 Minnehaha,0311,State House,11,Brian K Mulder,REP,588
-Minnehaha,0313,State House,11,Aaron Matson,DEM,330
-Minnehaha,0313,State House,11,Sonja Mentele,DEM,376
-Minnehaha,0313,State House,11,Keri K Weems,REP,432
+Minnehaha,0313,State House,11,Aaron Matson,REP,330
+Minnehaha,0313,State House,11,Sonja Mentzer,DEM,376
+Minnehaha,0313,State House,11,Keri K Weems,DEM,432
 Minnehaha,0313,State House,11,Brian K Mulder,REP,448
-Minnehaha,0315,State House,11,Aaron Matson,DEM,466
-Minnehaha,0315,State House,11,Sonja Mentele,DEM,526
-Minnehaha,0315,State House,11,Keri K Weems,REP,631
+Minnehaha,0315,State House,11,Aaron Matson,REP,466
+Minnehaha,0315,State House,11,Sonja Mentzer,DEM,526
+Minnehaha,0315,State House,11,Keri K Weems,DEM,631
 Minnehaha,0315,State House,11,Brian K Mulder,REP,680
 Minnehaha,0503,State House,12,Erin Royer,DEM,159
-Minnehaha,0503,State House,12,DR Anderson,DEM,137
-Minnehaha,0503,State House,12,Amber Arlint,REP,154
+Minnehaha,0503,State House,12,JR Anderson,REP,137
+Minnehaha,0503,State House,12,Amber Arlint,DEM,154
 Minnehaha,0503,State House,12,Greg Jamison,REP,146
 Minnehaha,0509,State House,12,Erin Royer,DEM,266
-Minnehaha,0509,State House,12,DR Anderson,DEM,211
-Minnehaha,0509,State House,12,Amber Arlint,REP,182
+Minnehaha,0509,State House,12,JR Anderson,REP,211
+Minnehaha,0509,State House,12,Amber Arlint,DEM,182
 Minnehaha,0509,State House,12,Greg Jamison,REP,182
 Minnehaha,0510,State House,12,Erin Royer,DEM,279
-Minnehaha,0510,State House,12,DR Anderson,DEM,224
-Minnehaha,0510,State House,12,Amber Arlint,REP,288
+Minnehaha,0510,State House,12,JR Anderson,REP,224
+Minnehaha,0510,State House,12,Amber Arlint,DEM,288
 Minnehaha,0510,State House,12,Greg Jamison,REP,282
 Minnehaha,0519,State House,12,Erin Royer,DEM,498
-Minnehaha,0519,State House,12,DR Anderson,DEM,403
-Minnehaha,0519,State House,12,Amber Arlint,REP,606
+Minnehaha,0519,State House,12,JR Anderson,REP,403
+Minnehaha,0519,State House,12,Amber Arlint,DEM,606
 Minnehaha,0519,State House,12,Greg Jamison,REP,582
-Minnehaha,0104,State House,12,R. Anderson,DEM,340
-Minnehaha,0105,State House,12,R. Anderson,DEM,202
-Minnehaha,0106,State House,11,Sonja Mentzer,DEM,548
-Minnehaha,0106,State House,11,Keri K. Weems,REP,591
-Minnehaha,0106,State House,11,Brian K. Mulder,REP,617
-Minnehaha,0109,State House,11,Sonja Mentzer,DEM,484
-Minnehaha,0109,State House,11,Keri K. Weems,REP,586
-Minnehaha,0109,State House,11,Brian K. Mulder,REP,646
-Minnehaha,0110,State House,11,Sonja Mentzer,DEM,511
-Minnehaha,0110,State House,11,Keri K. Weems,REP,696
-Minnehaha,0110,State House,11,Brian K. Mulder,REP,707
-Minnehaha,0114,State House,11,Aaron Matson,DEM,520
-Minnehaha,0114,State House,11,Sonja Mentzer,DEM,558
-Minnehaha,0114,State House,11,Keri K. Weems,REP,843
-Minnehaha,0114,State House,11,Brian K. Mulder,REP,931
-Minnehaha,0301,State House,12,Erin Royer,DEM,363
-Minnehaha,0301,State House,12,R. Anderson,DEM,303
-Minnehaha,0301,State House,12,Amber Arlint,REP,448
-Minnehaha,0301,State House,12,Greg Jamison,REP,461
-Minnehaha,0309,State House,11,Aaron Matson,DEM,565
-Minnehaha,0309,State House,11,Sonja Mentzer,DEM,639
-Minnehaha,0309,State House,11,Keri K. Weems,REP,614
-Minnehaha,0309,State House,11,Brian K. Mulder,REP,655
-Minnehaha,0310,State House,11,Sonja Mentzer,DEM,603
-Minnehaha,0310,State House,11,Keri K. Weems,REP,929
-Minnehaha,0310,State House,11,Brian K. Mulder,REP,963
-Minnehaha,0311,State House,11,Sonja Mentzer,DEM,354
-Minnehaha,0311,State House,11,Keri K. Weems,REP,604
-Minnehaha,0311,State House,11,Brian K. Mulder,REP,588
-Minnehaha,0313,State House,11,Sonja Mentzer,DEM,376
-Minnehaha,0313,State House,11,Keri K. Weems,REP,432
-Minnehaha,0313,State House,11,Brian K. Mulder,REP,448
-Minnehaha,0315,State House,11,Sonja Mentzer,DEM,526
-Minnehaha,0315,State House,11,Keri K. Weems,REP,631
-Minnehaha,0315,State House,11,Brian K. Mulder,REP,680
-Minnehaha,0503,State House,12,R. Anderson,DEM,137
-Minnehaha,0509,State House,12,R. Anderson,DEM,211
-Minnehaha,0510,State House,12,R. Anderson,DEM,224
-Minnehaha,0520,State House,12,Erin Royer,DEM,498
-Minnehaha,0520,State House,12,R. Anderson,DEM,403
-Minnehaha,0520,State House,12,Amber Arlint,REP,606
-Minnehaha,0520,State House,12,Greg Jamison,REP,582
 Minnehaha,0521,State House,12,Erin Royer,DEM,416
-Minnehaha,0521,State House,12,R. Anderson,DEM,328
-Minnehaha,0521,State House,12,Amber Arlint,REP,405
+Minnehaha,0521,State House,12,JR Anderson,REP,328
+Minnehaha,0521,State House,12,Amber Arlint,DEM,405
 Minnehaha,0521,State House,12,Greg Jamison,REP,409
-Minnehaha,0521,State House,11,Aaron Matson,DEM,416
-Minnehaha,0521,State House,11,Sonja Mentzer,DEM,328
-Minnehaha,0521,State House,11,Keri K. Weems,REP,405
-Minnehaha,0521,State House,11,Brian K. Mulder,REP,409
 Minnehaha,0119,State House,13,Tony Venhuizen,REP,328
 Minnehaha,0119,State House,13,John Hughes,REP,377
-Minnehaha,0120,State House,13,Tony Venhuizen,REP,609
-Minnehaha,0120,State House,13,John Hughes,REP,648
-Minnehaha,0202,State House,14,Keith Block,DEM,652
+Minnehaha,0201,State House,13,Tony Venhuizen,REP,609
+Minnehaha,0201,State House,13,John Hughes,REP,648
+Minnehaha,0202,State House,14,Keith Block,REP,652
 Minnehaha,0202,State House,14,B.J. Motley,DEM,519
-Minnehaha,0202,State House,14,Taylor Rae Rehfeldt,REP,953
+Minnehaha,0202,State House,14,Taylor Rae Rehfeldt,DEM,953
 Minnehaha,0202,State House,14,Tony Kayser,REP,754
-Minnehaha,0203,State House,14,Keith Block,DEM,439
+Minnehaha,0203,State House,14,Keith Block,REP,439
 Minnehaha,0203,State House,14,B.J. Motley,DEM,383
-Minnehaha,0203,State House,14,Taylor Rae Rehfeldt,REP,764
+Minnehaha,0203,State House,14,Taylor Rae Rehfeldt,DEM,764
 Minnehaha,0203,State House,14,Tony Kayser,REP,602
-Minnehaha,0206,State House,14,Keith Block,DEM,472
+Minnehaha,0206,State House,14,Keith Block,REP,472
 Minnehaha,0206,State House,14,B.J. Motley,DEM,424
-Minnehaha,0206,State House,14,Taylor Rae Rehfeldt,REP,757
+Minnehaha,0206,State House,14,Taylor Rae Rehfeldt,DEM,757
 Minnehaha,0206,State House,14,Tony Kayser,REP,642
-Minnehaha,0208,State House,14,Keith Block,DEM,243
+Minnehaha,0208,State House,14,Keith Block,REP,243
 Minnehaha,0208,State House,14,B.J. Motley,DEM,201
-Minnehaha,0208,State House,14,Taylor Rae Rehfeldt,REP,364
+Minnehaha,0208,State House,14,Taylor Rae Rehfeldt,DEM,364
 Minnehaha,0208,State House,14,Tony Kayser,REP,303
-Minnehaha,0209,State House,14,Keith Block,DEM,517
+Minnehaha,0209,State House,14,Keith Block,REP,517
 Minnehaha,0209,State House,14,B.J. Motley,DEM,441
-Minnehaha,0209,State House,14,Taylor Rae Rehfeldt,REP,636
+Minnehaha,0209,State House,14,Taylor Rae Rehfeldt,DEM,636
 Minnehaha,0209,State House,14,Tony Kayser,REP,499
-Minnehaha,0217,State House,14,Keith Block,DEM,628
-Minnehaha,0217,State House,14,B.J. Motley,DEM,509
-Minnehaha,0217,State House,14,Taylor Rae Rehfeldt,REP,1068
-Minnehaha,0217,State House,14,Tony Kayser,REP,864
-Minnehaha,0412,State House,13,Tony Venhuizen,REP,566
-Minnehaha,0412,State House,13,John Hughes,REP,496
-Minnehaha,0412,State House,14,Taylor Rae Rehfeldt,REP,770
-Minnehaha,0412,State House,14,Tony Kayser,REP,640
-Minnehaha,0413,State House,13,Tony Venhuizen,REP,311
-Minnehaha,0413,State House,13,John Hughes,REP,280
-Minnehaha,0413,State House,14,Taylor Rae Rehfeldt,REP,406
-Minnehaha,0413,State House,14,Tony Kayser,REP,313
-Minnehaha,0415,State House,14,Taylor Rae Rehfeldt,REP,1137
-Minnehaha,0415,State House,14,Tony Kayser,REP,985
-Minnehaha,0510,State House,13,Tony Venhuizen,REP,606
-Minnehaha,0510,State House,13,John Hughes,REP,634
-Minnehaha,0214,State House,14,Keith Block,DEM,530
+Minnehaha,0214,State House,14,Keith Block,REP,530
 Minnehaha,0214,State House,14,B.J. Motley,DEM,437
-Minnehaha,0214,State House,14,Taylor Rae Rehfeldt,REP,978
+Minnehaha,0214,State House,14,Taylor Rae Rehfeldt,DEM,978
 Minnehaha,0214,State House,14,Tony Kayser,REP,787
-Minnehaha,0412,State House,14,Keith Block,DEM,566
+Minnehaha,0217,State House,14,Keith Block,REP,628
+Minnehaha,0217,State House,14,B.J. Motley,DEM,509
+Minnehaha,0217,State House,14,Taylor Rae Rehfeldt,DEM,1068
+Minnehaha,0217,State House,14,Tony Kayser,REP,864
+Minnehaha,0412,State House,14,Keith Block,REP,566
 Minnehaha,0412,State House,14,B.J. Motley,DEM,496
-Minnehaha,0413,State House,14,Keith Block,DEM,311
+Minnehaha,0412,State House,14,Taylor Rae Rehfeldt,DEM,770
+Minnehaha,0412,State House,14,Tony Kayser,REP,640
+Minnehaha,0413,State House,14,Keith Block,REP,311
 Minnehaha,0413,State House,14,B.J. Motley,DEM,280
-Minnehaha,0415,State House,14,Keith Block,DEM,633
+Minnehaha,0413,State House,14,Taylor Rae Rehfeldt,DEM,406
+Minnehaha,0413,State House,14,Tony Kayser,REP,313
+Minnehaha,0415,State House,14,Keith Block,REP,633
 Minnehaha,0415,State House,14,B.J. Motley,DEM,563
+Minnehaha,0415,State House,14,Taylor Rae Rehfeldt,DEM,1137
+Minnehaha,0415,State House,14,Tony Kayser,REP,985
 Minnehaha,0512,State House,13,Tony Venhuizen,REP,606
 Minnehaha,0512,State House,13,John Hughes,REP,634
 Minnehaha,0305,State House,15,Erik Muckey,DEM,269
@@ -1129,10 +1089,10 @@ Minnehaha,0502,State House,15,Erik Muckey,DEM,306
 Minnehaha,0502,State House,15,Kadyn Wittman,DEM,336
 Minnehaha,0502,State House,15,Joni Tschetter,REP,201
 Minnehaha,0502,State House,15,Brad Lindwurm,REP,176
-Minnehaha,0512,State House,15,Erik Muckey,DEM,212
-Minnehaha,0512,State House,15,Kadyn Wittman,DEM,230
-Minnehaha,0512,State House,15,Joni Tschetter,REP,175
-Minnehaha,0512,State House,15,Brad Lindwurm,REP,156
+Minnehaha,0515,State House,15,Erik Muckey,DEM,212
+Minnehaha,0515,State House,15,Kadyn Wittman,DEM,230
+Minnehaha,0515,State House,15,Joni Tschetter,REP,175
+Minnehaha,0515,State House,15,Brad Lindwurm,REP,156
 Minnehaha,0516,State House,15,Erik Muckey,DEM,296
 Minnehaha,0516,State House,15,Kadyn Wittman,DEM,295
 Minnehaha,0516,State House,15,Joni Tschetter,REP,400
@@ -1149,61 +1109,26 @@ Minnehaha,0522,State House,15,Erik Muckey,DEM,452
 Minnehaha,0522,State House,15,Kadyn Wittman,DEM,499
 Minnehaha,0522,State House,15,Joni Tschetter,REP,413
 Minnehaha,0522,State House,15,Brad Lindwurm,REP,371
-Minnehaha,VP01,State House,15,Erik Muckey,DEM,405
-Minnehaha,VP01,State House,15,Kadyn Wittman,DEM,411
-Minnehaha,VP01,State House,15,Joni Tschetter,REP,309
-Minnehaha,VP01,State House,15,Brad Lindwurm,REP,269
-Minnehaha,VP04,State House,25,Les Heinemann,REP,552
-Minnehaha,VP04,State House,25,Jon Hansen,REP,646
-Minnehaha,0309,State House,15,Erik Muckey,DEM,269
-Minnehaha,0309,State House,15,Kadyn Wittman,DEM,269
-Minnehaha,0309,State House,15,Joni Tschetter,REP,356
-Minnehaha,0309,State House,15,Brad Lindwurm,REP,305
-Minnehaha,0319,State House,25,Les Heinemann,REP,272
-Minnehaha,0319,State House,25,Jon Hansen,REP,283
-Minnehaha,0515,State House,15,Erik Muckey,DEM,212
-Minnehaha,0515,State House,15,Kadyn Wittman,DEM,230
-Minnehaha,0515,State House,15,Joni Tschetter,REP,175
-Minnehaha,0515,State House,15,Brad Lindwurm,REP,156
 Minnehaha,0523,State House,15,Erik Muckey,DEM,405
 Minnehaha,0523,State House,15,Kadyn Wittman,DEM,411
 Minnehaha,0523,State House,15,Joni Tschetter,REP,309
 Minnehaha,0523,State House,15,Brad Lindwurm,REP,269
-Minnehaha,VP05,State House,25,Les Heinemann,REP,552
-Minnehaha,VP05,State House,25,Jon Hansen,REP,646
-Minnehaha,VP07,State House,15,Erik Muckey,DEM,468
-Minnehaha,VP07,State House,15,Kadyn Wittman,DEM,568
-Minnehaha,VP08,State House,15,Erik Muckey,DEM,781
-Minnehaha,VP08,State House,15,Kadyn Wittman,DEM,932
-Minnehaha,VP10,State House,15,Erik Muckey,DEM,840
-Minnehaha,VP10,State House,15,Kadyn Wittman,DEM,969
-Minnehaha,VP11,State House,15,Erik Muckey,DEM,308
-Minnehaha,VP11,State House,15,Kadyn Wittman,DEM,357
-Minnehaha,VP13,State House,15,Erik Muckey,DEM,541
-Minnehaha,VP13,State House,15,Kadyn Wittman,DEM,672
-Minnehaha,VP16,State House,15,Erik Muckey,DEM,628
-Minnehaha,VP16,State House,15,Kadyn Wittman,DEM,772
-Minnehaha,VP17,State House,15,Erik Muckey,DEM,1047
-Minnehaha,VP17,State House,15,Kadyn Wittman,DEM,1352
-Minnehaha,VP09,State House,15,Erik Muckey,DEM,340
-Minnehaha,VP15,State House,15,Erik Muckey,DEM,628
-Minnehaha,VP09,State House,15,Kadyn Wittman,DEM,384
-Minnehaha,VP15,State House,15,Kadyn Wittman,DEM,772
-Minnehaha,VP17,State House,25,Joni Tschetter,REP,432
-Minnehaha,VP07,State House,25,Brad Lindwurm,REP,468
-Minnehaha,VP08,State House,25,Brad Lindwurm,REP,781
-Minnehaha,VP09,State House,25,Brad Lindwurm,REP,340
-Minnehaha,VP10,State House,25,Brad Lindwurm,REP,308
-Minnehaha,VP11,State House,25,Brad Lindwurm,REP,541
-Minnehaha,VP15,State House,25,Brad Lindwurm,REP,628
-Minnehaha,VP16,State House,25,Brad Lindwurm,REP,1047
-Minnehaha,VP17,State House,25,Les Heineman,REP,432
-Minnehaha,VP07,County Commissioner At Large,,Dean Karsky,REP,322
-Minnehaha,0104,County Commissioner At Large,,Dean Karsky,REP,261
-Minnehaha,0105,County Commissioner At Large,,Dean Karsky,REP,630
-Minnehaha,0106,County Commissioner At Large,,Dean Karsky,REP,630
-Minnehaha,0109,County Commissioner At Large,,Dean Karsky,REP,682
-Minnehaha,0110,County Commissioner At Large,,Dean Karsky,REP,849
+Minnehaha,VP04,State House,25,Les Heinemann,REP,552
+Minnehaha,VP04,State House,25,Jon Hansen,REP,646
+Minnehaha,VP08,State House,25,Les Heinemann,REP,468
+Minnehaha,VP08,State House,25,Jon Hansen,REP,568
+Minnehaha,VP09,State House,25,Les Heinemann,REP,781
+Minnehaha,VP09,State House,25,Jon Hansen,REP,932
+Minnehaha,VP10,State House,25,Les Heinemann,REP,840
+Minnehaha,VP10,State House,25,Jon Hansen,REP,969
+Minnehaha,VP11,State House,25,Les Heinemann,REP,308
+Minnehaha,VP11,State House,25,Jon Hansen,REP,357
+Minnehaha,VP13,State House,25,Les Heinemann,REP,541
+Minnehaha,VP13,State House,25,Jon Hansen,REP,672
+Minnehaha,VP16,State House,25,Les Heinemann,REP,628
+Minnehaha,VP16,State House,25,Jon Hansen,REP,722
+Minnehaha,VP21,State House,25,Les Heinemann,REP,1047
+Minnehaha,VP21,State House,25,Jon Hansen,REP,1352
 Minnehaha,0104,County Commissioner At Large,,Dean E. Karsky,REP,322
 Minnehaha,0104,County Commissioner At Large,,Cole Heisey,REP,306
 Minnehaha,0104,County Commissioner At Large,,Anny Libengood,IND,320
@@ -1228,7 +1153,7 @@ Minnehaha,0119,County Commissioner At Large,,Anny Libengood,IND,267
 Minnehaha,0201,County Commissioner At Large,,Dean E. Karsky,REP,619
 Minnehaha,0201,County Commissioner At Large,,Cole Heisey,REP,541
 Minnehaha,0201,County Commissioner At Large,,Anny Libengood,IND,371
-Minnehaha,0202,County Commissioner At Large,,Dean E. Karsky,REP,676
+Minnehaha,0202,County Commissioner At Large,,Dean E. Karsky,REP,876
 Minnehaha,0202,County Commissioner At Large,,Cole Heisey,REP,746
 Minnehaha,0202,County Commissioner At Large,,Anny Libengood,IND,512
 Minnehaha,0203,County Commissioner At Large,,Dean E. Karsky,REP,628
@@ -1242,7 +1167,7 @@ Minnehaha,0208,County Commissioner At Large,,Cole Heisey,REP,285
 Minnehaha,0208,County Commissioner At Large,,Anny Libengood,IND,184
 Minnehaha,0209,County Commissioner At Large,,Dean E. Karsky,REP,530
 Minnehaha,0209,County Commissioner At Large,,Cole Heisey,REP,505
-Minnehaha,0209,County Commissioner At Large,,Anny Libengood,IND,473
+Minnehaha,0209,County Commissioner At Large,,Anny Libengood,IND,433
 Minnehaha,0214,County Commissioner At Large,,Dean E. Karsky,REP,850
 Minnehaha,0214,County Commissioner At Large,,Cole Heisey,REP,769
 Minnehaha,0214,County Commissioner At Large,,Anny Libengood,IND,436
@@ -1258,18 +1183,18 @@ Minnehaha,0301,County Commissioner At Large,,Anny Libengood,IND,295
 Minnehaha,0305,County Commissioner At Large,,Dean E. Karsky,REP,280
 Minnehaha,0305,County Commissioner At Large,,Cole Heisey,REP,319
 Minnehaha,0305,County Commissioner At Large,,Anny Libengood,IND,244
-Minnehaha,0307,County Commissioner At Large,,Dean E. Karsky,REP,621
-Minnehaha,0307,County Commissioner At Large,,Cole Heisey,REP,396
-Minnehaha,0307,County Commissioner At Large,,Anny Libengood,IND,527
+Minnehaha,0309,County Commissioner At Large,,Dean E. Karsky,REP,621
+Minnehaha,0309,County Commissioner At Large,,Cole Heisey,REP,596
+Minnehaha,0309,County Commissioner At Large,,Anny Libengood,IND,537
 Minnehaha,0310,County Commissioner At Large,,Dean E. Karsky,REP,1002
 Minnehaha,0310,County Commissioner At Large,,Cole Heisey,REP,870
-Minnehaha,0310,County Commissioner At Large,,Anny Libengood,IND,473
+Minnehaha,0310,County Commissioner At Large,,Anny Libengood,IND,475
 Minnehaha,0311,County Commissioner At Large,,Dean E. Karsky,REP,615
 Minnehaha,0311,County Commissioner At Large,,Cole Heisey,REP,569
 Minnehaha,0311,County Commissioner At Large,,Anny Libengood,IND,283
 Minnehaha,0312,County Commissioner At Large,,Dean E. Karsky,REP,538
 Minnehaha,0312,County Commissioner At Large,,Cole Heisey,REP,554
-Minnehaha,0312,County Commissioner At Large,,Anny Libengood,IND,387
+Minnehaha,0312,County Commissioner At Large,,Anny Libengood,IND,357
 Minnehaha,0313,County Commissioner At Large,,Dean E. Karsky,REP,494
 Minnehaha,0313,County Commissioner At Large,,Cole Heisey,REP,407
 Minnehaha,0313,County Commissioner At Large,,Anny Libengood,IND,289
@@ -1282,7 +1207,7 @@ Minnehaha,0315,County Commissioner At Large,,Anny Libengood,IND,414
 Minnehaha,0316,County Commissioner At Large,,Dean E. Karsky,REP,1250
 Minnehaha,0316,County Commissioner At Large,,Cole Heisey,REP,1091
 Minnehaha,0316,County Commissioner At Large,,Anny Libengood,IND,508
-Minnehaha,0317,County Commissioner At Large,,Dean E. Karsky,REP,670
+Minnehaha,0317,County Commissioner At Large,,Dean E. Karsky,REP,677
 Minnehaha,0317,County Commissioner At Large,,Cole Heisey,REP,671
 Minnehaha,0317,County Commissioner At Large,,Anny Libengood,IND,399
 Minnehaha,0318,County Commissioner At Large,,Dean E. Karsky,REP,374
@@ -1292,7 +1217,7 @@ Minnehaha,0319,County Commissioner At Large,,Dean E. Karsky,REP,1031
 Minnehaha,0319,County Commissioner At Large,,Cole Heisey,REP,1002
 Minnehaha,0319,County Commissioner At Large,,Anny Libengood,IND,530
 Minnehaha,0320,County Commissioner At Large,,Dean E. Karsky,REP,271
-Minnehaha,0320,County Commissioner At Large,,Cole Heisey,REP,235
+Minnehaha,0320,County Commissioner At Large,,Cole Heisey,REP,253
 Minnehaha,0320,County Commissioner At Large,,Anny Libengood,IND,151
 Minnehaha,0402,County Commissioner At Large,,Dean E. Karsky,REP,329
 Minnehaha,0402,County Commissioner At Large,,Cole Heisey,REP,306
@@ -1303,25 +1228,25 @@ Minnehaha,0403,County Commissioner At Large,,Anny Libengood,IND,198
 Minnehaha,0404,County Commissioner At Large,,Dean E. Karsky,REP,321
 Minnehaha,0404,County Commissioner At Large,,Cole Heisey,REP,358
 Minnehaha,0404,County Commissioner At Large,,Anny Libengood,IND,345
-Minnehaha,0405,County Commissioner At Large,,Dean E. Karsky,REP,730
-Minnehaha,0405,County Commissioner At Large,,Cole Heisey,REP,281
+Minnehaha,0405,County Commissioner At Large,,Dean E. Karsky,REP,230
+Minnehaha,0405,County Commissioner At Large,,Cole Heisey,REP,283
 Minnehaha,0405,County Commissioner At Large,,Anny Libengood,IND,260
 Minnehaha,0406,County Commissioner At Large,,Dean E. Karsky,REP,258
 Minnehaha,0406,County Commissioner At Large,,Cole Heisey,REP,284
-Minnehaha,0406,County Commissioner At Large,,Anny Libengood,IND,207
+Minnehaha,0406,County Commissioner At Large,,Anny Libengood,IND,204
 Minnehaha,0407,County Commissioner At Large,,Dean E. Karsky,REP,408
 Minnehaha,0407,County Commissioner At Large,,Cole Heisey,REP,390
 Minnehaha,0407,County Commissioner At Large,,Anny Libengood,IND,191
 Minnehaha,0408,County Commissioner At Large,,Dean E. Karsky,REP,352
 Minnehaha,0408,County Commissioner At Large,,Cole Heisey,REP,331
-Minnehaha,0408,County Commissioner At Large,,Anny Libengood,IND,299
+Minnehaha,0408,County Commissioner At Large,,Anny Libengood,IND,289
 Minnehaha,0409,County Commissioner At Large,,Dean E. Karsky,REP,379
 Minnehaha,0409,County Commissioner At Large,,Cole Heisey,REP,397
 Minnehaha,0409,County Commissioner At Large,,Anny Libengood,IND,392
 Minnehaha,0410,County Commissioner At Large,,Dean E. Karsky,REP,193
 Minnehaha,0410,County Commissioner At Large,,Cole Heisey,REP,192
 Minnehaha,0410,County Commissioner At Large,,Anny Libengood,IND,117
-Minnehaha,0411,County Commissioner At Large,,Dean E. Karsky,REP,653
+Minnehaha,0411,County Commissioner At Large,,Dean E. Karsky,REP,629
 Minnehaha,0411,County Commissioner At Large,,Cole Heisey,REP,596
 Minnehaha,0411,County Commissioner At Large,,Anny Libengood,IND,360
 Minnehaha,0412,County Commissioner At Large,,Dean E. Karsky,REP,665
@@ -1342,12 +1267,15 @@ Minnehaha,0417,County Commissioner At Large,,Anny Libengood,IND,517
 Minnehaha,0418,County Commissioner At Large,,Dean E. Karsky,REP,689
 Minnehaha,0418,County Commissioner At Large,,Cole Heisey,REP,625
 Minnehaha,0418,County Commissioner At Large,,Anny Libengood,IND,283
-Minnehaha,0519,County Commissioner At Large,,Dean E. Karsky,REP,464
-Minnehaha,0519,County Commissioner At Large,,Cole Heisey,REP,433
-Minnehaha,0519,County Commissioner At Large,,Anny Libengood,IND,350
-Minnehaha,0502,County Commissioner At Large,,Dean E. Karsky,REP,349
-Minnehaha,0502,County Commissioner At Large,,Cole Heisey,REP,372
-Minnehaha,0502,County Commissioner At Large,,Anny Libengood,IND,472
+Minnehaha,0419,County Commissioner At Large,,Dean E. Karsky,REP,464
+Minnehaha,0419,County Commissioner At Large,,Cole Heisey,REP,433
+Minnehaha,0419,County Commissioner At Large,,Anny Libengood,IND,350
+Minnehaha,0501,County Commissioner At Large,,Dean E. Karsky,REP,349
+Minnehaha,0501,County Commissioner At Large,,Cole Heisey,REP,372
+Minnehaha,0501,County Commissioner At Large,,Anny Libengood,IND,472
+Minnehaha,0502,County Commissioner At Large,,Dean E. Karsky,REP,218
+Minnehaha,0502,County Commissioner At Large,,Cole Heisey,REP,200
+Minnehaha,0502,County Commissioner At Large,,Anny Libengood,IND,254
 Minnehaha,0503,County Commissioner At Large,,Dean E. Karsky,REP,127
 Minnehaha,0503,County Commissioner At Large,,Cole Heisey,REP,133
 Minnehaha,0503,County Commissioner At Large,,Anny Libengood,IND,141
@@ -1381,11 +1309,14 @@ Minnehaha,0516,County Commissioner At Large,,Anny Libengood,IND,252
 Minnehaha,0518,County Commissioner At Large,,Dean E. Karsky,REP,430
 Minnehaha,0518,County Commissioner At Large,,Cole Heisey,REP,452
 Minnehaha,0518,County Commissioner At Large,,Anny Libengood,IND,531
+Minnehaha,0519,County Commissioner At Large,,Dean E. Karsky,REP,515
+Minnehaha,0519,County Commissioner At Large,,Cole Heisey,REP,532
+Minnehaha,0519,County Commissioner At Large,,Anny Libengood,IND,415
 Minnehaha,0520,County Commissioner At Large,,Dean E. Karsky,REP,378
 Minnehaha,0520,County Commissioner At Large,,Cole Heisey,REP,416
 Minnehaha,0520,County Commissioner At Large,,Anny Libengood,IND,398
 Minnehaha,0521,County Commissioner At Large,,Dean E. Karsky,REP,389
-Minnehaha,0521,County Commissioner At Large,,Cole Heisey,REP,345
+Minnehaha,0521,County Commissioner At Large,,Cole Heisey,REP,354
 Minnehaha,0521,County Commissioner At Large,,Anny Libengood,IND,360
 Minnehaha,0522,County Commissioner At Large,,Dean E. Karsky,REP,358
 Minnehaha,0522,County Commissioner At Large,,Cole Heisey,REP,406
@@ -1400,7 +1331,7 @@ Minnehaha,VP02,County Commissioner At Large,,Dean E. Karsky,REP,818
 Minnehaha,VP02,County Commissioner At Large,,Cole Heisey,REP,813
 Minnehaha,VP02,County Commissioner At Large,,Anny Libengood,IND,354
 Minnehaha,VP03,County Commissioner At Large,,Dean E. Karsky,REP,1001
-Minnehaha,VP03,County Commissioner At Large,,Cole Heisey,REP,1014
+Minnehaha,VP03,County Commissioner At Large,,Cole Heisey,REP,1041
 Minnehaha,VP03,County Commissioner At Large,,Anny Libengood,IND,461
 Minnehaha,VP04,County Commissioner At Large,,Dean E. Karsky,REP,585
 Minnehaha,VP04,County Commissioner At Large,,Cole Heisey,REP,604
@@ -1411,8 +1342,8 @@ Minnehaha,VP05,County Commissioner At Large,,Anny Libengood,IND,451
 Minnehaha,VP06,County Commissioner At Large,,Dean E. Karsky,REP,266
 Minnehaha,VP06,County Commissioner At Large,,Cole Heisey,REP,246
 Minnehaha,VP06,County Commissioner At Large,,Anny Libengood,IND,115
-Minnehaha,VP07,County Commissioner At Large,,Dean E. Karsky,REP,1405
-Minnehaha,VP07,County Commissioner At Large,,Cole Heisey,REP,1198
+Minnehaha,VP07,County Commissioner At Large,,Dean E. Karsky,REP,1045
+Minnehaha,VP07,County Commissioner At Large,,Cole Heisey,REP,1098
 Minnehaha,VP07,County Commissioner At Large,,Anny Libengood,IND,480
 Minnehaha,VP08,County Commissioner At Large,,Dean E. Karsky,REP,485
 Minnehaha,VP08,County Commissioner At Large,,Cole Heisey,REP,515
@@ -1423,7 +1354,7 @@ Minnehaha,VP09,County Commissioner At Large,,Anny Libengood,IND,345
 Minnehaha,VP10,County Commissioner At Large,,Dean E. Karsky,REP,814
 Minnehaha,VP10,County Commissioner At Large,,Cole Heisey,REP,836
 Minnehaha,VP10,County Commissioner At Large,,Anny Libengood,IND,384
-Minnehaha,VP11,County Commissioner At Large,,Dean E. Karsky,REP,796
+Minnehaha,VP11,County Commissioner At Large,,Dean E. Karsky,REP,296
 Minnehaha,VP11,County Commissioner At Large,,Cole Heisey,REP,311
 Minnehaha,VP11,County Commissioner At Large,,Anny Libengood,IND,87
 Minnehaha,VP13,County Commissioner At Large,,Dean E. Karsky,REP,538
@@ -1441,346 +1372,200 @@ Minnehaha,VP17,County Commissioner At Large,,Anny Libengood,IND,167
 Minnehaha,VP21,County Commissioner At Large,,Dean E. Karsky,REP,1001
 Minnehaha,VP21,County Commissioner At Large,,Cole Heisey,REP,1077
 Minnehaha,VP21,County Commissioner At Large,,Anny Libengood,IND,417
-Minnehaha,014,Supreme Court Retention,5,Yes,,493
-Minnehaha,014,Supreme Court Retention,5,No,,220
-Minnehaha,015,Supreme Court Retention,5,Yes,,537
-Minnehaha,015,Supreme Court Retention,5,No,,148
-Minnehaha,016,Supreme Court Retention,5,Yes,,820
-Minnehaha,016,Supreme Court Retention,5,No,,296
-Minnehaha,019,Supreme Court Retention,5,Yes,,797
-Minnehaha,019,Supreme Court Retention,5,No,,254
-Minnehaha,010,Supreme Court Retention,5,Yes,,859
-Minnehaha,010,Supreme Court Retention,5,No,,288
-Minnehaha,017,Supreme Court Retention,5,Yes,,1081
-Minnehaha,017,Supreme Court Retention,5,No,,342
-Minnehaha,020,Supreme Court Retention,5,Yes,,814
-Minnehaha,020,Supreme Court Retention,5,No,,209
-Minnehaha,021,Supreme Court Retention,5,Yes,,1063
-Minnehaha,021,Supreme Court Retention,5,No,,251
-Minnehaha,023,Supreme Court Retention,5,Yes,,822
-Minnehaha,023,Supreme Court Retention,5,No,,211
-Minnehaha,026,Supreme Court Retention,5,Yes,,846
-Minnehaha,026,Supreme Court Retention,5,No,,234
-Minnehaha,028,Supreme Court Retention,5,Yes,,432
-Minnehaha,028,Supreme Court Retention,5,No,,100
-Minnehaha,029,Supreme Court Retention,5,Yes,,784
-Minnehaha,029,Supreme Court Retention,5,No,,198
-Minnehaha,0214,Supreme Court Retention,5,Yes,,1097
-Minnehaha,0214,Supreme Court Retention,5,No,,202
-Minnehaha,0217,Supreme Court Retention,5,Yes,,1145
-Minnehaha,0217,Supreme Court Retention,5,No,,293
-Minnehaha,0218,Supreme Court Retention,5,Yes,,811
-Minnehaha,0218,Supreme Court Retention,5,No,,201
-Minnehaha,0301,Supreme Court Retention,5,Yes,,557
-Minnehaha,0301,Supreme Court Retention,5,No,,176
-Minnehaha,0305,Supreme Court Retention,5,Yes,,432
-Minnehaha,0305,Supreme Court Retention,5,No,,165
-Minnehaha,0309,Supreme Court Retention,5,Yes,,865
-Minnehaha,0309,Supreme Court Retention,5,No,,379
-Minnehaha,0310,Supreme Court Retention,5,Yes,,1171
-Minnehaha,0310,Supreme Court Retention,5,No,,353
-Minnehaha,0311,Supreme Court Retention,5,Yes,,719
-Minnehaha,0311,Supreme Court Retention,5,No,,169
-Minnehaha,0312,Supreme Court Retention,5,Yes,,736
-Minnehaha,0312,Supreme Court Retention,5,No,,226
-Minnehaha,0313,Supreme Court Retention,5,Yes,,571
-Minnehaha,0313,Supreme Court Retention,5,No,,176
-Minnehaha,0314,Supreme Court Retention,5,Yes,,907
-Minnehaha,0314,Supreme Court Retention,5,No,,316
-Minnehaha,0315,Supreme Court Retention,5,Yes,,840
-Minnehaha,0315,Supreme Court Retention,5,No,,364
-Minnehaha,0316,Supreme Court Retention,5,Yes,,1460
-Minnehaha,0316,Supreme Court Retention,5,No,,316
-Minnehaha,0317,Supreme Court Retention,5,Yes,,876
-Minnehaha,0317,Supreme Court Retention,5,No,,259
-Minnehaha,0318,Supreme Court Retention,5,Yes,,525
-Minnehaha,0318,Supreme Court Retention,5,No,,157
-Minnehaha,0319,Supreme Court Retention,5,Yes,,1311
-Minnehaha,0319,Supreme Court Retention,5,No,,351
-Minnehaha,0320,Supreme Court Retention,5,Yes,,356
-Minnehaha,0320,Supreme Court Retention,5,No,,80
-Minnehaha,0402,Supreme Court Retention,5,Yes,,451
-Minnehaha,0402,Supreme Court Retention,5,No,,169
-Minnehaha,0403,Supreme Court Retention,5,Yes,,280
-Minnehaha,0403,Supreme Court Retention,5,No,,133
-Minnehaha,0404,Supreme Court Retention,5,Yes,,508
-Minnehaha,0404,Supreme Court Retention,5,No,,222
-Minnehaha,0405,Supreme Court Retention,5,Yes,,391
-Minnehaha,0405,Supreme Court Retention,5,No,,193
-Minnehaha,0406,Supreme Court Retention,5,Yes,,399
-Minnehaha,0406,Supreme Court Retention,5,No,,163
-Minnehaha,0407,Supreme Court Retention,5,Yes,,495
-Minnehaha,0407,Supreme Court Retention,5,No,,101
-Minnehaha,0408,Supreme Court Retention,5,Yes,,497
-Minnehaha,0408,Supreme Court Retention,5,No,,145
-Minnehaha,0409,Supreme Court Retention,5,Yes,,601
-Minnehaha,0409,Supreme Court Retention,5,No,,228
-Minnehaha,0410,Supreme Court Retention,5,Yes,,820
-Minnehaha,0410,Supreme Court Retention,5,No,,70
-Minnehaha,0411,Supreme Court Retention,5,Yes,,824
-Minnehaha,0411,Supreme Court Retention,5,No,,210
-Minnehaha,0412,Supreme Court Retention,5,Yes,,913
-Minnehaha,0412,Supreme Court Retention,5,No,,299
-Minnehaha,0413,Supreme Court Retention,5,Yes,,491
-Minnehaha,0413,Supreme Court Retention,5,No,,178
-Minnehaha,0415,Supreme Court Retention,5,Yes,,1319
-Minnehaha,0415,Supreme Court Retention,5,No,,308
-Minnehaha,0416,Supreme Court Retention,5,Yes,,949
-Minnehaha,0416,Supreme Court Retention,5,No,,338
-Minnehaha,0417,Supreme Court Retention,5,Yes,,1501
-Minnehaha,0417,Supreme Court Retention,5,No,,277
-Minnehaha,0418,Supreme Court Retention,5,Yes,,821
-Minnehaha,0418,Supreme Court Retention,5,No,,162
-Minnehaha,0419,Supreme Court Retention,5,Yes,,622
-Minnehaha,0419,Supreme Court Retention,5,No,,218
-Minnehaha,0501,Supreme Court Retention,5,Yes,,539
-Minnehaha,0501,Supreme Court Retention,5,No,,322
-Minnehaha,0502,Supreme Court Retention,5,Yes,,337
-Minnehaha,0502,Supreme Court Retention,5,No,,148
-Minnehaha,0503,Supreme Court Retention,5,Yes,,185
-Minnehaha,0503,Supreme Court Retention,5,No,,88
-Minnehaha,0504,Supreme Court Retention,5,Yes,,682
-Minnehaha,0504,Supreme Court Retention,5,No,,272
-Minnehaha,0506,Supreme Court Retention,5,Yes,,622
-Minnehaha,0506,Supreme Court Retention,5,No,,254
-Minnehaha,0507,Supreme Court Retention,5,Yes,,386
-Minnehaha,0507,Supreme Court Retention,5,No,,123
-Minnehaha,0508,Supreme Court Retention,5,Yes,,580
-Minnehaha,0508,Supreme Court Retention,5,No,,187
-Minnehaha,0509,Supreme Court Retention,5,Yes,,277
-Minnehaha,0509,Supreme Court Retention,5,No,,128
-Minnehaha,0510,Supreme Court Retention,5,Yes,,374
-Minnehaha,0510,Supreme Court Retention,5,No,,149
-Minnehaha,0512,Supreme Court Retention,5,Yes,,871
-Minnehaha,0512,Supreme Court Retention,5,No,,268
-Minnehaha,0515,Supreme Court Retention,5,Yes,,262
-Minnehaha,0515,Supreme Court Retention,5,No,,141
-Minnehaha,0104,Supreme Court Retention,,Justice Scott P. Myren - Yes,,493
-Minnehaha,0104,Supreme Court Retention,,Justice Scott P. Myren - No,,220
-Minnehaha,0105,Supreme Court Retention,,Justice Scott P. Myren - Yes,,537
-Minnehaha,0105,Supreme Court Retention,,Justice Scott P. Myren - No,,148
-Minnehaha,0106,Supreme Court Retention,,Justice Scott P. Myren - Yes,,820
-Minnehaha,0106,Supreme Court Retention,,Justice Scott P. Myren - No,,296
-Minnehaha,0109,Supreme Court Retention,,Justice Scott P. Myren - Yes,,797
-Minnehaha,0109,Supreme Court Retention,,Justice Scott P. Myren - No,,254
-Minnehaha,0110,Supreme Court Retention,,Justice Scott P. Myren - Yes,,859
-Minnehaha,0110,Supreme Court Retention,,Justice Scott P. Myren - No,,288
-Minnehaha,0117,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1081
-Minnehaha,0117,Supreme Court Retention,,Justice Scott P. Myren - No,,342
-Minnehaha,0119,Supreme Court Retention,,Justice Scott P. Myren - Yes,,442
-Minnehaha,0119,Supreme Court Retention,,Justice Scott P. Myren - No,,179
-Minnehaha,0201,Supreme Court Retention,,Justice Scott P. Myren - Yes,,814
-Minnehaha,0201,Supreme Court Retention,,Justice Scott P. Myren - No,,209
-Minnehaha,0202,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1063
-Minnehaha,0202,Supreme Court Retention,,Justice Scott P. Myren - No,,251
-Minnehaha,0203,Supreme Court Retention,,Justice Scott P. Myren - Yes,,822
-Minnehaha,0203,Supreme Court Retention,,Justice Scott P. Myren - No,,211
-Minnehaha,0206,Supreme Court Retention,,Justice Scott P. Myren - Yes,,846
-Minnehaha,0206,Supreme Court Retention,,Justice Scott P. Myren - No,,234
-Minnehaha,0208,Supreme Court Retention,,Justice Scott P. Myren - Yes,,432
-Minnehaha,0208,Supreme Court Retention,,Justice Scott P. Myren - No,,100
-Minnehaha,0209,Supreme Court Retention,,Justice Scott P. Myren - Yes,,784
-Minnehaha,0209,Supreme Court Retention,,Justice Scott P. Myren - No,,198
-Minnehaha,0214,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1097
-Minnehaha,0214,Supreme Court Retention,,Justice Scott P. Myren - No,,202
-Minnehaha,0217,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1145
-Minnehaha,0217,Supreme Court Retention,,Justice Scott P. Myren - No,,293
-Minnehaha,0218,Supreme Court Retention,,Justice Scott P. Myren - Yes,,811
-Minnehaha,0218,Supreme Court Retention,,Justice Scott P. Myren - No,,201
-Minnehaha,0301,Supreme Court Retention,,Justice Scott P. Myren - Yes,,557
-Minnehaha,0301,Supreme Court Retention,,Justice Scott P. Myren - No,,176
-Minnehaha,0305,Supreme Court Retention,,Justice Scott P. Myren - Yes,,432
-Minnehaha,0305,Supreme Court Retention,,Justice Scott P. Myren - No,,165
-Minnehaha,0309,Supreme Court Retention,,Justice Scott P. Myren - Yes,,865
-Minnehaha,0309,Supreme Court Retention,,Justice Scott P. Myren - No,,379
-Minnehaha,0310,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1171
-Minnehaha,0310,Supreme Court Retention,,Justice Scott P. Myren - No,,253
-Minnehaha,0311,Supreme Court Retention,,Justice Scott P. Myren - Yes,,719
-Minnehaha,0311,Supreme Court Retention,,Justice Scott P. Myren - No,,169
-Minnehaha,0312,Supreme Court Retention,,Justice Scott P. Myren - Yes,,736
-Minnehaha,0312,Supreme Court Retention,,Justice Scott P. Myren - No,,226
-Minnehaha,0313,Supreme Court Retention,,Justice Scott P. Myren - Yes,,571
-Minnehaha,0313,Supreme Court Retention,,Justice Scott P. Myren - No,,176
-Minnehaha,0314,Supreme Court Retention,,Justice Scott P. Myren - Yes,,907
-Minnehaha,0314,Supreme Court Retention,,Justice Scott P. Myren - No,,316
-Minnehaha,0315,Supreme Court Retention,,Justice Scott P. Myren - Yes,,840
-Minnehaha,0315,Supreme Court Retention,,Justice Scott P. Myren - No,,364
-Minnehaha,0316,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1460
-Minnehaha,0316,Supreme Court Retention,,Justice Scott P. Myren - No,,316
-Minnehaha,0317,Supreme Court Retention,,Justice Scott P. Myren - Yes,,876
-Minnehaha,0317,Supreme Court Retention,,Justice Scott P. Myren - No,,259
-Minnehaha,0318,Supreme Court Retention,,Justice Scott P. Myren - Yes,,525
-Minnehaha,0318,Supreme Court Retention,,Justice Scott P. Myren - No,,157
-Minnehaha,0319,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1311
-Minnehaha,0319,Supreme Court Retention,,Justice Scott P. Myren - No,,351
-Minnehaha,0320,Supreme Court Retention,,Justice Scott P. Myren - Yes,,356
-Minnehaha,0320,Supreme Court Retention,,Justice Scott P. Myren - No,,180
-Minnehaha,0402,Supreme Court Retention,,Justice Scott P. Myren - Yes,,451
-Minnehaha,0402,Supreme Court Retention,,Justice Scott P. Myren - No,,169
-Minnehaha,0403,Supreme Court Retention,,Justice Scott P. Myren - Yes,,280
-Minnehaha,0403,Supreme Court Retention,,Justice Scott P. Myren - No,,133
-Minnehaha,0404,Supreme Court Retention,,Justice Scott P. Myren - Yes,,508
-Minnehaha,0404,Supreme Court Retention,,Justice Scott P. Myren - No,,222
-Minnehaha,0405,Supreme Court Retention,,Justice Scott P. Myren - Yes,,391
-Minnehaha,0405,Supreme Court Retention,,Justice Scott P. Myren - No,,193
-Minnehaha,0406,Supreme Court Retention,,Justice Scott P. Myren - Yes,,399
-Minnehaha,0406,Supreme Court Retention,,Justice Scott P. Myren - No,,163
-Minnehaha,0407,Supreme Court Retention,,Justice Scott P. Myren - Yes,,495
-Minnehaha,0407,Supreme Court Retention,,Justice Scott P. Myren - No,,101
-Minnehaha,0408,Supreme Court Retention,,Justice Scott P. Myren - Yes,,497
-Minnehaha,0408,Supreme Court Retention,,Justice Scott P. Myren - No,,145
-Minnehaha,0409,Supreme Court Retention,,Justice Scott P. Myren - Yes,,601
-Minnehaha,0409,Supreme Court Retention,,Justice Scott P. Myren - No,,228
-Minnehaha,0410,Supreme Court Retention,,Justice Scott P. Myren - Yes,,290
-Minnehaha,0410,Supreme Court Retention,,Justice Scott P. Myren - No,,70
-Minnehaha,0411,Supreme Court Retention,,Justice Scott P. Myren - Yes,,824
-Minnehaha,0411,Supreme Court Retention,,Justice Scott P. Myren - No,,210
-Minnehaha,0412,Supreme Court Retention,,Justice Scott P. Myren - Yes,,913
-Minnehaha,0412,Supreme Court Retention,,Justice Scott P. Myren - No,,299
-Minnehaha,0413,Supreme Court Retention,,Justice Scott P. Myren - Yes,,491
-Minnehaha,0413,Supreme Court Retention,,Justice Scott P. Myren - No,,178
-Minnehaha,0415,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1319
-Minnehaha,0415,Supreme Court Retention,,Justice Scott P. Myren - No,,308
-Minnehaha,0416,Supreme Court Retention,,Justice Scott P. Myren - Yes,,949
-Minnehaha,0416,Supreme Court Retention,,Justice Scott P. Myren - No,,338
-Minnehaha,0417,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1501
-Minnehaha,0417,Supreme Court Retention,,Justice Scott P. Myren - No,,277
-Minnehaha,0418,Supreme Court Retention,,Justice Scott P. Myren - Yes,,821
-Minnehaha,0418,Supreme Court Retention,,Justice Scott P. Myren - No,,162
-Minnehaha,0419,Supreme Court Retention,,Justice Scott P. Myren - Yes,,622
-Minnehaha,0419,Supreme Court Retention,,Justice Scott P. Myren - No,,218
-Minnehaha,0501,Supreme Court Retention,,Justice Scott P. Myren - Yes,,559
-Minnehaha,0501,Supreme Court Retention,,Justice Scott P. Myren - No,,322
-Minnehaha,0502,Supreme Court Retention,,Justice Scott P. Myren - Yes,,337
-Minnehaha,0502,Supreme Court Retention,,Justice Scott P. Myren - No,,148
-Minnehaha,0503,Supreme Court Retention,,Justice Scott P. Myren - Yes,,185
-Minnehaha,0503,Supreme Court Retention,,Justice Scott P. Myren - No,,88
-Minnehaha,0504,Supreme Court Retention,,Justice Scott P. Myren - Yes,,682
-Minnehaha,0504,Supreme Court Retention,,Justice Scott P. Myren - No,,272
-Minnehaha,0506,Supreme Court Retention,,Justice Scott P. Myren - Yes,,622
-Minnehaha,0506,Supreme Court Retention,,Justice Scott P. Myren - No,,254
-Minnehaha,0507,Supreme Court Retention,,Justice Scott P. Myren - Yes,,386
-Minnehaha,0507,Supreme Court Retention,,Justice Scott P. Myren - No,,123
-Minnehaha,0508,Supreme Court Retention,,Justice Scott P. Myren - Yes,,580
-Minnehaha,0508,Supreme Court Retention,,Justice Scott P. Myren - No,,187
-Minnehaha,0509,Supreme Court Retention,,Justice Scott P. Myren - Yes,,277
-Minnehaha,0509,Supreme Court Retention,,Justice Scott P. Myren - No,,128
-Minnehaha,0510,Supreme Court Retention,,Justice Scott P. Myren - Yes,,374
-Minnehaha,0510,Supreme Court Retention,,Justice Scott P. Myren - No,,149
-Minnehaha,0512,Supreme Court Retention,,Justice Scott P. Myren - Yes,,871
-Minnehaha,0512,Supreme Court Retention,,Justice Scott P. Myren - No,,268
-Minnehaha,0515,Supreme Court Retention,,Justice Scott P. Myren - Yes,,262
-Minnehaha,0515,Supreme Court Retention,,Justice Scott P. Myren - No,,141
-Minnehaha,0516,Supreme Court Retention,,Justice Scott P. Myren - Yes,,429
-Minnehaha,0516,Supreme Court Retention,,Justice Scott P. Myren - No,,181
-Minnehaha,0518,Supreme Court Retention,,Justice Scott P. Myren - Yes,,687
-Minnehaha,0518,Supreme Court Retention,,Justice Scott P. Myren - No,,308
-Minnehaha,0519,Supreme Court Retention,,Justice Scott P. Myren - Yes,,767
-Minnehaha,0519,Supreme Court Retention,,Justice Scott P. Myren - No,,197
-Minnehaha,0520,Supreme Court Retention,,Justice Scott P. Myren - Yes,,577
-Minnehaha,0520,Supreme Court Retention,,Justice Scott P. Myren - No,,248
-Minnehaha,0521,Supreme Court Retention,,Justice Scott P. Myren - Yes,,527
-Minnehaha,0521,Supreme Court Retention,,Justice Scott P. Myren - No,,180
-Minnehaha,0522,Supreme Court Retention,,Justice Scott P. Myren - Yes,,586
-Minnehaha,0522,Supreme Court Retention,,Justice Scott P. Myren - No,,304
-Minnehaha,0527,Supreme Court Retention,,Justice Scott P. Myren - Yes,,469
-Minnehaha,0527,Supreme Court Retention,,Justice Scott P. Myren - No,,208
-Minnehaha,VP01,Supreme Court Retention,,Justice Scott P. Myren - Yes,,565
-Minnehaha,VP01,Supreme Court Retention,,Justice Scott P. Myren - No,,121
-Minnehaha,VP02,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1007
-Minnehaha,VP02,Supreme Court Retention,,Justice Scott P. Myren - No,,165
-Minnehaha,VP03,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1247
-Minnehaha,VP03,Supreme Court Retention,,Justice Scott P. Myren - No,,291
-Minnehaha,VP04,Supreme Court Retention,,Justice Scott P. Myren - Yes,,743
-Minnehaha,VP04,Supreme Court Retention,,Justice Scott P. Myren - No,,170
-Minnehaha,VP05,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1373
-Minnehaha,VP05,Supreme Court Retention,,Justice Scott P. Myren - No,,252
-Minnehaha,VP06,Supreme Court Retention,,Justice Scott P. Myren - Yes,,296
-Minnehaha,VP06,Supreme Court Retention,,Justice Scott P. Myren - No,,68
-Minnehaha,VP07,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1316
-Minnehaha,VP07,Supreme Court Retention,,Justice Scott P. Myren - No,,307
-Minnehaha,VP08,Supreme Court Retention,,Justice Scott P. Myren - Yes,,612
-Minnehaha,VP08,Supreme Court Retention,,Justice Scott P. Myren - No,,131
-Minnehaha,VP09,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1020
-Minnehaha,VP09,Supreme Court Retention,,Justice Scott P. Myren - No,,251
-Minnehaha,VP10,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1205
-Minnehaha,VP10,Supreme Court Retention,,Justice Scott P. Myren - No,,209
-Minnehaha,VP11,Supreme Court Retention,,Justice Scott P. Myren - Yes,,350
-Minnehaha,VP11,Supreme Court Retention,,Justice Scott P. Myren - No,,77
-Minnehaha,VP13,Supreme Court Retention,,Justice Scott P. Myren - Yes,,684
-Minnehaha,VP13,Supreme Court Retention,,Justice Scott P. Myren - No,,156
-Minnehaha,VP15,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1409
-Minnehaha,VP15,Supreme Court Retention,,Justice Scott P. Myren - No,,280
-Minnehaha,VP16,Supreme Court Retention,,Justice Scott P. Myren - Yes,,779
-Minnehaha,VP16,Supreme Court Retention,,Justice Scott P. Myren - No,,200
-Minnehaha,VP17,Supreme Court Retention,,Justice Scott P. Myren - Yes,,489
-Minnehaha,VP17,Supreme Court Retention,,Justice Scott P. Myren - No,,87
-Minnehaha,VP21,Supreme Court Retention,,Justice Scott P. Myren - Yes,,1349
-Minnehaha,VP21,Supreme Court Retention,,Justice Scott P. Myren - No,,294
+Minnehaha,0104,Supreme Court Retention,5,Scott P. Myren - Yes,,493
+Minnehaha,0104,Supreme Court Retention,5,Scott P. Myren - No,,220
+Minnehaha,0105,Supreme Court Retention,5,Scott P. Myren - Yes,,357
+Minnehaha,0105,Supreme Court Retention,5,Scott P. Myren - No,,148
+Minnehaha,0106,Supreme Court Retention,5,Scott P. Myren - Yes,,820
+Minnehaha,0106,Supreme Court Retention,5,Scott P. Myren - No,,296
+Minnehaha,0109,Supreme Court Retention,5,Scott P. Myren - Yes,,797
+Minnehaha,0109,Supreme Court Retention,5,Scott P. Myren - No,,254
+Minnehaha,0110,Supreme Court Retention,5,Scott P. Myren - Yes,,859
+Minnehaha,0110,Supreme Court Retention,5,Scott P. Myren - No,,288
+Minnehaha,0117,Supreme Court Retention,5,Scott P. Myren - Yes,,1081
+Minnehaha,0117,Supreme Court Retention,5,Scott P. Myren - No,,342
+Minnehaha,0119,Supreme Court Retention,5,Scott P. Myren - Yes,,442
+Minnehaha,0119,Supreme Court Retention,5,Scott P. Myren - No,,179
+Minnehaha,0201,Supreme Court Retention,5,Scott P. Myren - Yes,,814
+Minnehaha,0201,Supreme Court Retention,5,Scott P. Myren - No,,209
+Minnehaha,0202,Supreme Court Retention,5,Scott P. Myren - Yes,,1063
+Minnehaha,0202,Supreme Court Retention,5,Scott P. Myren - No,,251
+Minnehaha,0203,Supreme Court Retention,5,Scott P. Myren - Yes,,822
+Minnehaha,0203,Supreme Court Retention,5,Scott P. Myren - No,,211
+Minnehaha,0206,Supreme Court Retention,5,Scott P. Myren - Yes,,846
+Minnehaha,0206,Supreme Court Retention,5,Scott P. Myren - No,,234
+Minnehaha,0208,Supreme Court Retention,5,Scott P. Myren - Yes,,432
+Minnehaha,0208,Supreme Court Retention,5,Scott P. Myren - No,,100
+Minnehaha,0209,Supreme Court Retention,5,Scott P. Myren - Yes,,784
+Minnehaha,0209,Supreme Court Retention,5,Scott P. Myren - No,,198
+Minnehaha,0214,Supreme Court Retention,5,Scott P. Myren - Yes,,1097
+Minnehaha,0214,Supreme Court Retention,5,Scott P. Myren - No,,202
+Minnehaha,0217,Supreme Court Retention,5,Scott P. Myren - Yes,,1145
+Minnehaha,0217,Supreme Court Retention,5,Scott P. Myren - No,,293
+Minnehaha,0218,Supreme Court Retention,5,Scott P. Myren - Yes,,811
+Minnehaha,0218,Supreme Court Retention,5,Scott P. Myren - No,,201
+Minnehaha,0301,Supreme Court Retention,5,Scott P. Myren - Yes,,557
+Minnehaha,0301,Supreme Court Retention,5,Scott P. Myren - No,,176
+Minnehaha,0305,Supreme Court Retention,5,Scott P. Myren - Yes,,432
+Minnehaha,0305,Supreme Court Retention,5,Scott P. Myren - No,,165
+Minnehaha,0309,Supreme Court Retention,5,Scott P. Myren - Yes,,865
+Minnehaha,0309,Supreme Court Retention,5,Scott P. Myren - No,,379
+Minnehaha,0310,Supreme Court Retention,5,Scott P. Myren - Yes,,1171
+Minnehaha,0310,Supreme Court Retention,5,Scott P. Myren - No,,253
+Minnehaha,0311,Supreme Court Retention,5,Scott P. Myren - Yes,,719
+Minnehaha,0311,Supreme Court Retention,5,Scott P. Myren - No,,169
+Minnehaha,0312,Supreme Court Retention,5,Scott P. Myren - Yes,,736
+Minnehaha,0312,Supreme Court Retention,5,Scott P. Myren - No,,226
+Minnehaha,0313,Supreme Court Retention,5,Scott P. Myren - Yes,,571
+Minnehaha,0313,Supreme Court Retention,5,Scott P. Myren - No,,176
+Minnehaha,0314,Supreme Court Retention,5,Scott P. Myren - Yes,,907
+Minnehaha,0314,Supreme Court Retention,5,Scott P. Myren - No,,316
+Minnehaha,0315,Supreme Court Retention,5,Scott P. Myren - Yes,,840
+Minnehaha,0315,Supreme Court Retention,5,Scott P. Myren - No,,264
+Minnehaha,0316,Supreme Court Retention,5,Scott P. Myren - Yes,,1460
+Minnehaha,0316,Supreme Court Retention,5,Scott P. Myren - No,,316
+Minnehaha,0317,Supreme Court Retention,5,Scott P. Myren - Yes,,876
+Minnehaha,0317,Supreme Court Retention,5,Scott P. Myren - No,,259
+Minnehaha,0318,Supreme Court Retention,5,Scott P. Myren - Yes,,525
+Minnehaha,0318,Supreme Court Retention,5,Scott P. Myren - No,,157
+Minnehaha,0319,Supreme Court Retention,5,Scott P. Myren - Yes,,1311
+Minnehaha,0319,Supreme Court Retention,5,Scott P. Myren - No,,351
+Minnehaha,0320,Supreme Court Retention,5,Scott P. Myren - Yes,,356
+Minnehaha,0320,Supreme Court Retention,5,Scott P. Myren - No,,80
+Minnehaha,0402,Supreme Court Retention,5,Scott P. Myren - Yes,,451
+Minnehaha,0402,Supreme Court Retention,5,Scott P. Myren - No,,169
+Minnehaha,0403,Supreme Court Retention,5,Scott P. Myren - Yes,,280
+Minnehaha,0403,Supreme Court Retention,5,Scott P. Myren - No,,133
+Minnehaha,0404,Supreme Court Retention,5,Scott P. Myren - Yes,,508
+Minnehaha,0404,Supreme Court Retention,5,Scott P. Myren - No,,222
+Minnehaha,0405,Supreme Court Retention,5,Scott P. Myren - Yes,,391
+Minnehaha,0405,Supreme Court Retention,5,Scott P. Myren - No,,193
+Minnehaha,0406,Supreme Court Retention,5,Scott P. Myren - Yes,,390
+Minnehaha,0406,Supreme Court Retention,5,Scott P. Myren - No,,163
+Minnehaha,0407,Supreme Court Retention,5,Scott P. Myren - Yes,,495
+Minnehaha,0407,Supreme Court Retention,5,Scott P. Myren - No,,101
+Minnehaha,0408,Supreme Court Retention,5,Scott P. Myren - Yes,,497
+Minnehaha,0408,Supreme Court Retention,5,Scott P. Myren - No,,145
+Minnehaha,0409,Supreme Court Retention,5,Scott P. Myren - Yes,,601
+Minnehaha,0409,Supreme Court Retention,5,Scott P. Myren - No,,228
+Minnehaha,0410,Supreme Court Retention,5,Scott P. Myren - Yes,,280
+Minnehaha,0410,Supreme Court Retention,5,Scott P. Myren - No,,70
+Minnehaha,0411,Supreme Court Retention,5,Scott P. Myren - Yes,,824
+Minnehaha,0411,Supreme Court Retention,5,Scott P. Myren - No,,210
+Minnehaha,0412,Supreme Court Retention,5,Scott P. Myren - Yes,,913
+Minnehaha,0412,Supreme Court Retention,5,Scott P. Myren - No,,299
+Minnehaha,0413,Supreme Court Retention,5,Scott P. Myren - Yes,,491
+Minnehaha,0413,Supreme Court Retention,5,Scott P. Myren - No,,178
+Minnehaha,0415,Supreme Court Retention,5,Scott P. Myren - Yes,,1319
+Minnehaha,0415,Supreme Court Retention,5,Scott P. Myren - No,,308
+Minnehaha,0416,Supreme Court Retention,5,Scott P. Myren - Yes,,943
+Minnehaha,0416,Supreme Court Retention,5,Scott P. Myren - No,,338
+Minnehaha,0417,Supreme Court Retention,5,Scott P. Myren - Yes,,1501
+Minnehaha,0417,Supreme Court Retention,5,Scott P. Myren - No,,277
+Minnehaha,0418,Supreme Court Retention,5,Scott P. Myren - Yes,,821
+Minnehaha,0418,Supreme Court Retention,5,Scott P. Myren - No,,162
+Minnehaha,0419,Supreme Court Retention,5,Scott P. Myren - Yes,,622
+Minnehaha,0419,Supreme Court Retention,5,Scott P. Myren - No,,218
+Minnehaha,0501,Supreme Court Retention,5,Scott P. Myren - Yes,,559
+Minnehaha,0501,Supreme Court Retention,5,Scott P. Myren - No,,322
+Minnehaha,0502,Supreme Court Retention,5,Scott P. Myren - Yes,,337
+Minnehaha,0502,Supreme Court Retention,5,Scott P. Myren - No,,148
+Minnehaha,0503,Supreme Court Retention,5,Scott P. Myren - Yes,,185
+Minnehaha,0503,Supreme Court Retention,5,Scott P. Myren - No,,88
+Minnehaha,0504,Supreme Court Retention,5,Scott P. Myren - Yes,,682
+Minnehaha,0504,Supreme Court Retention,5,Scott P. Myren - No,,272
+Minnehaha,0506,Supreme Court Retention,5,Scott P. Myren - Yes,,622
+Minnehaha,0506,Supreme Court Retention,5,Scott P. Myren - No,,254
+Minnehaha,0507,Supreme Court Retention,5,Scott P. Myren - Yes,,386
+Minnehaha,0507,Supreme Court Retention,5,Scott P. Myren - No,,123
+Minnehaha,0508,Supreme Court Retention,5,Scott P. Myren - Yes,,580
+Minnehaha,0508,Supreme Court Retention,5,Scott P. Myren - No,,187
+Minnehaha,0509,Supreme Court Retention,5,Scott P. Myren - Yes,,277
+Minnehaha,0509,Supreme Court Retention,5,Scott P. Myren - No,,128
+Minnehaha,0510,Supreme Court Retention,5,Scott P. Myren - Yes,,374
+Minnehaha,0510,Supreme Court Retention,5,Scott P. Myren - No,,149
+Minnehaha,0512,Supreme Court Retention,5,Scott P. Myren - Yes,,871
+Minnehaha,0512,Supreme Court Retention,5,Scott P. Myren - No,,268
+Minnehaha,0515,Supreme Court Retention,5,Scott P. Myren - Yes,,262
+Minnehaha,0515,Supreme Court Retention,5,Scott P. Myren - No,,141
+Minnehaha,0516,Supreme Court Retention,5,Scott P. Myren - Yes,,429
+Minnehaha,0516,Supreme Court Retention,5,Scott P. Myren - No,,181
+Minnehaha,0518,Supreme Court Retention,5,Scott P. Myren - Yes,,687
+Minnehaha,0518,Supreme Court Retention,5,Scott P. Myren - No,,308
+Minnehaha,0519,Supreme Court Retention,5,Scott P. Myren - Yes,,767
+Minnehaha,0519,Supreme Court Retention,5,Scott P. Myren - No,,197
+Minnehaha,0520,Supreme Court Retention,5,Scott P. Myren - Yes,,577
+Minnehaha,0520,Supreme Court Retention,5,Scott P. Myren - No,,248
+Minnehaha,0521,Supreme Court Retention,5,Scott P. Myren - Yes,,527
+Minnehaha,0521,Supreme Court Retention,5,Scott P. Myren - No,,180
+Minnehaha,0522,Supreme Court Retention,5,Scott P. Myren - Yes,,586
+Minnehaha,0522,Supreme Court Retention,5,Scott P. Myren - No,,304
+Minnehaha,0523,Supreme Court Retention,5,Scott P. Myren - Yes,,469
+Minnehaha,0523,Supreme Court Retention,5,Scott P. Myren - No,,208
+Minnehaha,VP01,Supreme Court Retention,5,Scott P. Myren - Yes,,565
+Minnehaha,VP01,Supreme Court Retention,5,Scott P. Myren - No,,121
+Minnehaha,VP02,Supreme Court Retention,5,Scott P. Myren - Yes,,1007
+Minnehaha,VP02,Supreme Court Retention,5,Scott P. Myren - No,,165
+Minnehaha,VP03,Supreme Court Retention,5,Scott P. Myren - Yes,,1247
+Minnehaha,VP03,Supreme Court Retention,5,Scott P. Myren - No,,291
+Minnehaha,VP04,Supreme Court Retention,5,Scott P. Myren - Yes,,743
+Minnehaha,VP04,Supreme Court Retention,5,Scott P. Myren - No,,170
+Minnehaha,VP05,Supreme Court Retention,5,Scott P. Myren - Yes,,1373
+Minnehaha,VP05,Supreme Court Retention,5,Scott P. Myren - No,,252
+Minnehaha,VP06,Supreme Court Retention,5,Scott P. Myren - Yes,,296
+Minnehaha,VP06,Supreme Court Retention,5,Scott P. Myren - No,,68
+Minnehaha,VP07,Supreme Court Retention,5,Scott P. Myren - Yes,,1316
+Minnehaha,VP07,Supreme Court Retention,5,Scott P. Myren - No,,307
+Minnehaha,VP08,Supreme Court Retention,5,Scott P. Myren - Yes,,612
+Minnehaha,VP08,Supreme Court Retention,5,Scott P. Myren - No,,131
+Minnehaha,VP09,Supreme Court Retention,5,Scott P. Myren - Yes,,1020
+Minnehaha,VP09,Supreme Court Retention,5,Scott P. Myren - No,,251
+Minnehaha,VP10,Supreme Court Retention,5,Scott P. Myren - Yes,,1085
+Minnehaha,VP10,Supreme Court Retention,5,Scott P. Myren - No,,209
+Minnehaha,VP11,Supreme Court Retention,5,Scott P. Myren - Yes,,350
+Minnehaha,VP11,Supreme Court Retention,5,Scott P. Myren - No,,77
+Minnehaha,VP13,Supreme Court Retention,5,Scott P. Myren - Yes,,684
+Minnehaha,VP13,Supreme Court Retention,5,Scott P. Myren - No,,156
+Minnehaha,VP15,Supreme Court Retention,5,Scott P. Myren - Yes,,1409
+Minnehaha,VP15,Supreme Court Retention,5,Scott P. Myren - No,,280
+Minnehaha,VP16,Supreme Court Retention,5,Scott P. Myren - Yes,,773
+Minnehaha,VP16,Supreme Court Retention,5,Scott P. Myren - No,,200
+Minnehaha,VP17,Supreme Court Retention,5,Scott P. Myren - Yes,,489
+Minnehaha,VP17,Supreme Court Retention,5,Scott P. Myren - No,,87
+Minnehaha,VP21,Supreme Court Retention,5,Scott P. Myren - Yes,,1349
+Minnehaha,VP21,Supreme Court Retention,5,Scott P. Myren - No,,294
 Minnehaha,0218,East Dakota Water Development,4,Richard Bonander,NON,19
-Minnehaha,0218,East Dakota Water Development,4,Bonnie Dybendal,NON,19
+Minnehaha,0218,East Dakota Water Development,4,Bonnie Dybedahl,NON,19
 Minnehaha,0407,East Dakota Water Development,4,Richard Bonander,NON,28
-Minnehaha,0407,East Dakota Water Development,4,Bonnie Dybendal,NON,12
+Minnehaha,0407,East Dakota Water Development,4,Bonnie Dybedahl,NON,12
 Minnehaha,0411,East Dakota Water Development,4,Richard Bonander,NON,309
-Minnehaha,0411,East Dakota Water Development,4,Bonnie Dybendal,NON,283
+Minnehaha,0411,East Dakota Water Development,4,Bonnie Dybedahl,NON,283
 Minnehaha,0417,East Dakota Water Development,4,Richard Bonander,NON,563
-Minnehaha,0417,East Dakota Water Development,4,Bonnie Dybendal,NON,452
+Minnehaha,0417,East Dakota Water Development,4,Bonnie Dybedahl,NON,452
 Minnehaha,VP01,East Dakota Water Development,4,Richard Bonander,NON,371
-Minnehaha,VP01,East Dakota Water Development,4,Bonnie Dybendal,NON,134
+Minnehaha,VP01,East Dakota Water Development,4,Bonnie Dybedahl,NON,134
 Minnehaha,VP02,East Dakota Water Development,4,Richard Bonander,NON,495
-Minnehaha,VP02,East Dakota Water Development,4,Bonnie Dybendal,NON,249
+Minnehaha,VP02,East Dakota Water Development,4,Bonnie Dybedahl,NON,249
 Minnehaha,VP03,East Dakota Water Development,4,Richard Bonander,NON,561
-Minnehaha,VP03,East Dakota Water Development,4,Bonnie Dybendal,NON,376
+Minnehaha,VP03,East Dakota Water Development,4,Bonnie Dybedahl,NON,376
 Minnehaha,VP05,East Dakota Water Development,4,Richard Bonander,NON,517
-Minnehaha,VP05,East Dakota Water Development,4,Bonnie Dybendal,NON,409
+Minnehaha,VP05,East Dakota Water Development,4,Bonnie Dybedahl,NON,409
 Minnehaha,VP07,East Dakota Water Development,4,Richard Bonander,NON,481
-Minnehaha,VP07,East Dakota Water Development,4,Bonnie Dybendal,NON,503
+Minnehaha,VP07,East Dakota Water Development,4,Bonnie Dybedahl,NON,503
 Minnehaha,VP08,East Dakota Water Development,4,Richard Bonander,NON,220
-Minnehaha,VP08,East Dakota Water Development,4,Bonnie Dybendal,NON,227
+Minnehaha,VP08,East Dakota Water Development,4,Bonnie Dybedahl,NON,227
 Minnehaha,VP09,East Dakota Water Development,4,Richard Bonander,NON,319
-Minnehaha,VP09,East Dakota Water Development,4,Bonnie Dybendal,NON,546
+Minnehaha,VP09,East Dakota Water Development,4,Bonnie Dybedahl,NON,546
 Minnehaha,VP10,East Dakota Water Development,4,Richard Bonander,NON,462
-Minnehaha,VP10,East Dakota Water Development,4,Bonnie Dybendal,NON,352
+Minnehaha,VP10,East Dakota Water Development,4,Bonnie Dybedahl,NON,352
 Minnehaha,VP13,East Dakota Water Development,4,Richard Bonander,NON,128
-Minnehaha,VP13,East Dakota Water Development,4,Bonnie Dybendal,NON,550
+Minnehaha,VP13,East Dakota Water Development,4,Bonnie Dybedahl,NON,550
 Minnehaha,VP15,East Dakota Water Development,4,Richard Bonander,NON,562
-Minnehaha,VP15,East Dakota Water Development,4,Bonnie Dybendal,NON,457
+Minnehaha,VP15,East Dakota Water Development,4,Bonnie Dybedahl,NON,457
 Minnehaha,VP16,East Dakota Water Development,4,Richard Bonander,NON,253
-Minnehaha,VP16,East Dakota Water Development,4,Bonnie Dybendal,NON,449
+Minnehaha,VP16,East Dakota Water Development,4,Bonnie Dybedahl,NON,449
 Minnehaha,VP17,East Dakota Water Development,4,Richard Bonander,NON,173
-Minnehaha,VP17,East Dakota Water Development,4,Bonnie Dybendal,NON,147
-Minnehaha,0218,East Dakota Water Development,Director,Richard Bonander,NON,19
-Minnehaha,0218,East Dakota Water Development,Director,Bonnie DyeDahl,NON,19
-Minnehaha,0407,East Dakota Water Development,Director,Richard Bonander,NON,28
-Minnehaha,0407,East Dakota Water Development,Director,Bonnie DyeDahl,NON,12
-Minnehaha,0411,East Dakota Water Development,Director,Richard Bonander,NON,307
-Minnehaha,0411,East Dakota Water Development,Director,Bonnie DyeDahl,NON,283
-Minnehaha,0417,East Dakota Water Development,Director,Richard Bonander,NON,563
-Minnehaha,0417,East Dakota Water Development,Director,Bonnie DyeDahl,NON,452
-Minnehaha,VP01,East Dakota Water Development,Director,Richard Bonander,NON,371
-Minnehaha,VP01,East Dakota Water Development,Director,Bonnie DyeDahl,NON,134
-Minnehaha,VP02,East Dakota Water Development,Director,Richard Bonander,NON,495
-Minnehaha,VP02,East Dakota Water Development,Director,Bonnie DyeDahl,NON,249
-Minnehaha,VP03,East Dakota Water Development,Director,Richard Bonander,NON,561
-Minnehaha,VP03,East Dakota Water Development,Director,Bonnie DyeDahl,NON,376
-Minnehaha,VP05,East Dakota Water Development,Director,Richard Bonander,NON,517
-Minnehaha,VP05,East Dakota Water Development,Director,Bonnie DyeDahl,NON,409
-Minnehaha,VP07,East Dakota Water Development,Director,Richard Bonander,NON,481
-Minnehaha,VP07,East Dakota Water Development,Director,Bonnie DyeDahl,NON,503
-Minnehaha,VP08,East Dakota Water Development,Director,Richard Bonander,NON,220
-Minnehaha,VP08,East Dakota Water Development,Director,Bonnie DyeDahl,NON,227
-Minnehaha,VP09,East Dakota Water Development,Director,Richard Bonander,NON,319
-Minnehaha,VP09,East Dakota Water Development,Director,Bonnie DyeDahl,NON,346
-Minnehaha,VP10,East Dakota Water Development,Director,Richard Bonander,NON,462
-Minnehaha,VP10,East Dakota Water Development,Director,Bonnie DyeDahl,NON,352
-Minnehaha,VP13,East Dakota Water Development,Director,Richard Bonander,NON,128
-Minnehaha,VP13,East Dakota Water Development,Director,Bonnie DyeDahl,NON,550
-Minnehaha,VP15,East Dakota Water Development,Director,Richard Bonander,NON,562
-Minnehaha,VP15,East Dakota Water Development,Director,Bonnie DyeDahl,NON,457
-Minnehaha,VP16,East Dakota Water Development,Director,Richard Bonander,NON,253
-Minnehaha,VP16,East Dakota Water Development,Director,Bonnie DyeDahl,NON,449
-Minnehaha,VP17,East Dakota Water Development,Director,Richard Bonander,NON,173
-Minnehaha,VP17,East Dakota Water Development,Director,Bonnie DyeDahl,NON,147
+Minnehaha,VP17,East Dakota Water Development,4,Bonnie Dybedahl,NON,147
 Minnehaha,0104,Constitutional Amendment E,,Yes,,462
 Minnehaha,0104,Constitutional Amendment E,,No,,376
 Minnehaha,0104,Constitutional Amendment F,,Yes,,367
@@ -1789,6 +1574,446 @@ Minnehaha,0104,Constitutional Amendment G,,Yes,,481
 Minnehaha,0104,Constitutional Amendment G,,No,,365
 Minnehaha,0104,Constitutional Amendment H,,Yes,,372
 Minnehaha,0104,Constitutional Amendment H,,No,,435
+Minnehaha,0105,Constitutional Amendment E,,Yes,,305
+Minnehaha,0105,Constitutional Amendment E,,No,,275
+Minnehaha,0105,Constitutional Amendment F,,Yes,,285
+Minnehaha,0105,Constitutional Amendment F,,No,,298
+Minnehaha,0105,Constitutional Amendment G,,Yes,,308
+Minnehaha,0105,Constitutional Amendment G,,No,,280
+Minnehaha,0105,Constitutional Amendment H,,Yes,,252
+Minnehaha,0105,Constitutional Amendment H,,No,,307
+Minnehaha,0106,Constitutional Amendment E,,Yes,,669
+Minnehaha,0106,Constitutional Amendment E,,No,,637
+Minnehaha,0106,Constitutional Amendment F,,Yes,,642
+Minnehaha,0106,Constitutional Amendment F,,No,,663
+Minnehaha,0106,Constitutional Amendment G,,Yes,,686
+Minnehaha,0106,Constitutional Amendment G,,No,,652
+Minnehaha,0106,Constitutional Amendment H,,Yes,,520
+Minnehaha,0106,Constitutional Amendment H,,No,,746
+Minnehaha,0109,Constitutional Amendment E,,Yes,,648
+Minnehaha,0109,Constitutional Amendment E,,No,,586
+Minnehaha,0109,Constitutional Amendment F,,Yes,,645
+Minnehaha,0109,Constitutional Amendment F,,No,,590
+Minnehaha,0109,Constitutional Amendment G,,Yes,,633
+Minnehaha,0109,Constitutional Amendment G,,No,,614
+Minnehaha,0109,Constitutional Amendment H,,Yes,,441
+Minnehaha,0109,Constitutional Amendment H,,No,,750
+Minnehaha,0110,Constitutional Amendment E,,Yes,,667
+Minnehaha,0110,Constitutional Amendment E,,No,,735
+Minnehaha,0110,Constitutional Amendment F,,Yes,,728
+Minnehaha,0110,Constitutional Amendment F,,No,,666
+Minnehaha,0110,Constitutional Amendment G,,Yes,,712
+Minnehaha,0110,Constitutional Amendment G,,No,,714
+Minnehaha,0110,Constitutional Amendment H,,Yes,,548
+Minnehaha,0110,Constitutional Amendment H,,No,,793
+Minnehaha,0117,Constitutional Amendment E,,Yes,,788
+Minnehaha,0117,Constitutional Amendment E,,No,,927
+Minnehaha,0117,Constitutional Amendment F,,Yes,,979
+Minnehaha,0117,Constitutional Amendment F,,No,,745
+Minnehaha,0117,Constitutional Amendment G,,Yes,,822
+Minnehaha,0117,Constitutional Amendment G,,No,,931
+Minnehaha,0117,Constitutional Amendment H,,Yes,,582
+Minnehaha,0117,Constitutional Amendment H,,No,,1080
+Minnehaha,0119,Constitutional Amendment E,,Yes,,396
+Minnehaha,0119,Constitutional Amendment E,,No,,351
+Minnehaha,0119,Constitutional Amendment F,,Yes,,363
+Minnehaha,0119,Constitutional Amendment F,,No,,386
+Minnehaha,0119,Constitutional Amendment G,,Yes,,393
+Minnehaha,0119,Constitutional Amendment G,,No,,368
+Minnehaha,0119,Constitutional Amendment H,,Yes,,307
+Minnehaha,0119,Constitutional Amendment H,,No,,405
+Minnehaha,0201,Constitutional Amendment E,,Yes,,751
+Minnehaha,0201,Constitutional Amendment E,,No,,486
+Minnehaha,0201,Constitutional Amendment F,,Yes,,620
+Minnehaha,0201,Constitutional Amendment F,,No,,598
+Minnehaha,0201,Constitutional Amendment G,,Yes,,649
+Minnehaha,0201,Constitutional Amendment G,,No,,601
+Minnehaha,0201,Constitutional Amendment H,,Yes,,491
+Minnehaha,0201,Constitutional Amendment H,,No,,706
+Minnehaha,0202,Constitutional Amendment E,,Yes,,955
+Minnehaha,0202,Constitutional Amendment E,,No,,649
+Minnehaha,0202,Constitutional Amendment F,,Yes,,786
+Minnehaha,0202,Constitutional Amendment F,,No,,806
+Minnehaha,0202,Constitutional Amendment G,,Yes,,812
+Minnehaha,0202,Constitutional Amendment G,,No,,795
+Minnehaha,0202,Constitutional Amendment H,,Yes,,582
+Minnehaha,0202,Constitutional Amendment H,,No,,972
+Minnehaha,0203,Constitutional Amendment E,,Yes,,687
+Minnehaha,0203,Constitutional Amendment E,,No,,588
+Minnehaha,0203,Constitutional Amendment F,,Yes,,663
+Minnehaha,0203,Constitutional Amendment F,,No,,594
+Minnehaha,0203,Constitutional Amendment G,,Yes,,653
+Minnehaha,0203,Constitutional Amendment G,,No,,632
+Minnehaha,0203,Constitutional Amendment H,,Yes,,446
+Minnehaha,0203,Constitutional Amendment H,,No,,788
+Minnehaha,0206,Constitutional Amendment E,,Yes,,706
+Minnehaha,0206,Constitutional Amendment E,,No,,603
+Minnehaha,0206,Constitutional Amendment F,,Yes,,687
+Minnehaha,0206,Constitutional Amendment F,,No,,609
+Minnehaha,0206,Constitutional Amendment G,,Yes,,680
+Minnehaha,0206,Constitutional Amendment G,,No,,661
+Minnehaha,0206,Constitutional Amendment H,,Yes,,473
+Minnehaha,0206,Constitutional Amendment H,,No,,795
+Minnehaha,0208,Constitutional Amendment E,,Yes,,352
+Minnehaha,0208,Constitutional Amendment E,,No,,266
+Minnehaha,0208,Constitutional Amendment F,,Yes,,312
+Minnehaha,0208,Constitutional Amendment F,,No,,305
+Minnehaha,0208,Constitutional Amendment G,,Yes,,303
+Minnehaha,0208,Constitutional Amendment G,,No,,327
+Minnehaha,0208,Constitutional Amendment H,,Yes,,225
+Minnehaha,0208,Constitutional Amendment H,,No,,378
+Minnehaha,0209,Constitutional Amendment E,,Yes,,676
+Minnehaha,0209,Constitutional Amendment E,,No,,496
+Minnehaha,0209,Constitutional Amendment F,,Yes,,547
+Minnehaha,0209,Constitutional Amendment F,,No,,615
+Minnehaha,0209,Constitutional Amendment G,,Yes,,643
+Minnehaha,0209,Constitutional Amendment G,,No,,535
+Minnehaha,0209,Constitutional Amendment H,,Yes,,471
+Minnehaha,0209,Constitutional Amendment H,,No,,676
+Minnehaha,0214,Constitutional Amendment E,,Yes,,851
+Minnehaha,0214,Constitutional Amendment E,,No,,683
+Minnehaha,0214,Constitutional Amendment F,,Yes,,821
+Minnehaha,0214,Constitutional Amendment F,,No,,695
+Minnehaha,0214,Constitutional Amendment G,,Yes,,715
+Minnehaha,0214,Constitutional Amendment G,,No,,824
+Minnehaha,0214,Constitutional Amendment H,,Yes,,488
+Minnehaha,0214,Constitutional Amendment H,,No,,993
+Minnehaha,0217,Constitutional Amendment E,,Yes,,898
+Minnehaha,0217,Constitutional Amendment E,,No,,869
+Minnehaha,0217,Constitutional Amendment F,,Yes,,949
+Minnehaha,0217,Constitutional Amendment F,,No,,800
+Minnehaha,0217,Constitutional Amendment G,,Yes,,830
+Minnehaha,0217,Constitutional Amendment G,,No,,960
+Minnehaha,0217,Constitutional Amendment H,,Yes,,616
+Minnehaha,0217,Constitutional Amendment H,,No,,1091
+Minnehaha,0218,Constitutional Amendment E,,Yes,,639
+Minnehaha,0218,Constitutional Amendment E,,No,,615
+Minnehaha,0218,Constitutional Amendment F,,Yes,,771
+Minnehaha,0218,Constitutional Amendment F,,No,,474
+Minnehaha,0218,Constitutional Amendment G,,Yes,,605
+Minnehaha,0218,Constitutional Amendment G,,No,,668
+Minnehaha,0218,Constitutional Amendment H,,Yes,,422
+Minnehaha,0218,Constitutional Amendment H,,No,,778
+Minnehaha,0301,Constitutional Amendment E,,Yes,,501
+Minnehaha,0301,Constitutional Amendment E,,No,,367
+Minnehaha,0301,Constitutional Amendment F,,Yes,,449
+Minnehaha,0301,Constitutional Amendment F,,No,,411
+Minnehaha,0301,Constitutional Amendment G,,Yes,,453
+Minnehaha,0301,Constitutional Amendment G,,No,,429
+Minnehaha,0301,Constitutional Amendment H,,Yes,,331
+Minnehaha,0301,Constitutional Amendment H,,No,,511
+Minnehaha,0305,Constitutional Amendment E,,Yes,,340
+Minnehaha,0305,Constitutional Amendment E,,No,,360
+Minnehaha,0305,Constitutional Amendment F,,Yes,,384
+Minnehaha,0305,Constitutional Amendment F,,No,,317
+Minnehaha,0305,Constitutional Amendment G,,Yes,,389
+Minnehaha,0305,Constitutional Amendment G,,No,,321
+Minnehaha,0305,Constitutional Amendment H,,Yes,,282
+Minnehaha,0305,Constitutional Amendment H,,No,,380
+Minnehaha,0309,Constitutional Amendment E,,Yes,,787
+Minnehaha,0309,Constitutional Amendment E,,No,,676
+Minnehaha,0309,Constitutional Amendment F,,Yes,,725
+Minnehaha,0309,Constitutional Amendment F,,No,,731
+Minnehaha,0309,Constitutional Amendment G,,Yes,,858
+Minnehaha,0309,Constitutional Amendment G,,No,,616
+Minnehaha,0309,Constitutional Amendment H,,Yes,,623
+Minnehaha,0309,Constitutional Amendment H,,No,,762
+Minnehaha,0310,Constitutional Amendment E,,Yes,,857
+Minnehaha,0310,Constitutional Amendment E,,No,,868
+Minnehaha,0310,Constitutional Amendment F,,Yes,,966
+Minnehaha,0310,Constitutional Amendment F,,No,,746
+Minnehaha,0310,Constitutional Amendment G,,Yes,,803
+Minnehaha,0310,Constitutional Amendment G,,No,,934
+Minnehaha,0310,Constitutional Amendment H,,Yes,,558
+Minnehaha,0310,Constitutional Amendment H,,No,,1111
+Minnehaha,0311,Constitutional Amendment E,,Yes,,513
+Minnehaha,0311,Constitutional Amendment E,,No,,551
+Minnehaha,0311,Constitutional Amendment F,,Yes,,591
+Minnehaha,0311,Constitutional Amendment F,,No,,460
+Minnehaha,0311,Constitutional Amendment G,,Yes,,473
+Minnehaha,0311,Constitutional Amendment G,,No,,600
+Minnehaha,0311,Constitutional Amendment H,,Yes,,351
+Minnehaha,0311,Constitutional Amendment H,,No,,683
+Minnehaha,0312,Constitutional Amendment E,,Yes,,508
+Minnehaha,0312,Constitutional Amendment E,,No,,642
+Minnehaha,0312,Constitutional Amendment F,,Yes,,642
+Minnehaha,0312,Constitutional Amendment F,,No,,510
+Minnehaha,0312,Constitutional Amendment G,,Yes,,577
+Minnehaha,0312,Constitutional Amendment G,,No,,593
+Minnehaha,0312,Constitutional Amendment H,,Yes,,443
+Minnehaha,0312,Constitutional Amendment H,,No,,664
+Minnehaha,0313,Constitutional Amendment E,,Yes,,454
+Minnehaha,0313,Constitutional Amendment E,,No,,421
+Minnehaha,0313,Constitutional Amendment F,,Yes,,468
+Minnehaha,0313,Constitutional Amendment F,,No,,405
+Minnehaha,0313,Constitutional Amendment G,,Yes,,451
+Minnehaha,0313,Constitutional Amendment G,,No,,440
+Minnehaha,0313,Constitutional Amendment H,,Yes,,324
+Minnehaha,0313,Constitutional Amendment H,,No,,533
+Minnehaha,0314,Constitutional Amendment E,,Yes,,706
+Minnehaha,0314,Constitutional Amendment E,,No,,760
+Minnehaha,0314,Constitutional Amendment F,,Yes,,819
+Minnehaha,0314,Constitutional Amendment F,,No,,644
+Minnehaha,0314,Constitutional Amendment G,,Yes,,752
+Minnehaha,0314,Constitutional Amendment G,,No,,727
+Minnehaha,0314,Constitutional Amendment H,,Yes,,529
+Minnehaha,0314,Constitutional Amendment H,,No,,879
+Minnehaha,0315,Constitutional Amendment E,,Yes,,683
+Minnehaha,0315,Constitutional Amendment E,,No,,632
+Minnehaha,0315,Constitutional Amendment F,,Yes,,698
+Minnehaha,0315,Constitutional Amendment F,,No,,613
+Minnehaha,0315,Constitutional Amendment G,,Yes,,658
+Minnehaha,0315,Constitutional Amendment G,,No,,684
+Minnehaha,0315,Constitutional Amendment H,,Yes,,450
+Minnehaha,0315,Constitutional Amendment H,,No,,829
+Minnehaha,0316,Constitutional Amendment E,,Yes,,1079
+Minnehaha,0316,Constitutional Amendment E,,No,,1083
+Minnehaha,0316,Constitutional Amendment F,,Yes,,1301
+Minnehaha,0316,Constitutional Amendment F,,No,,844
+Minnehaha,0316,Constitutional Amendment G,,Yes,,1002
+Minnehaha,0316,Constitutional Amendment G,,No,,1200
+Minnehaha,0316,Constitutional Amendment H,,Yes,,740
+Minnehaha,0316,Constitutional Amendment H,,No,,1353
+Minnehaha,0317,Constitutional Amendment E,,Yes,,666
+Minnehaha,0317,Constitutional Amendment E,,No,,712
+Minnehaha,0317,Constitutional Amendment F,,Yes,,771
+Minnehaha,0317,Constitutional Amendment F,,No,,584
+Minnehaha,0317,Constitutional Amendment G,,Yes,,734
+Minnehaha,0317,Constitutional Amendment G,,No,,661
+Minnehaha,0317,Constitutional Amendment H,,Yes,,524
+Minnehaha,0317,Constitutional Amendment H,,No,,790
+Minnehaha,0318,Constitutional Amendment E,,Yes,,424
+Minnehaha,0318,Constitutional Amendment E,,No,,397
+Minnehaha,0318,Constitutional Amendment F,,Yes,,429
+Minnehaha,0318,Constitutional Amendment F,,No,,387
+Minnehaha,0318,Constitutional Amendment G,,Yes,,420
+Minnehaha,0318,Constitutional Amendment G,,No,,411
+Minnehaha,0318,Constitutional Amendment H,,Yes,,333
+Minnehaha,0318,Constitutional Amendment H,,No,,453
+Minnehaha,0319,Constitutional Amendment E,,Yes,,1044
+Minnehaha,0319,Constitutional Amendment E,,No,,1035
+Minnehaha,0319,Constitutional Amendment F,,Yes,,1208
+Minnehaha,0319,Constitutional Amendment F,,No,,880
+Minnehaha,0319,Constitutional Amendment G,,Yes,,1028
+Minnehaha,0319,Constitutional Amendment G,,No,,1090
+Minnehaha,0319,Constitutional Amendment H,,Yes,,729
+Minnehaha,0319,Constitutional Amendment H,,No,,1264
+Minnehaha,0320,Constitutional Amendment E,,Yes,,274
+Minnehaha,0320,Constitutional Amendment E,,No,,258
+Minnehaha,0320,Constitutional Amendment F,,Yes,,310
+Minnehaha,0320,Constitutional Amendment F,,No,,215
+Minnehaha,0320,Constitutional Amendment G,,Yes,,258
+Minnehaha,0320,Constitutional Amendment G,,No,,286
+Minnehaha,0320,Constitutional Amendment H,,Yes,,195
+Minnehaha,0320,Constitutional Amendment H,,No,,314
+Minnehaha,0402,Constitutional Amendment E,,Yes,,384
+Minnehaha,0402,Constitutional Amendment E,,No,,397
+Minnehaha,0402,Constitutional Amendment F,,Yes,,368
+Minnehaha,0402,Constitutional Amendment F,,No,,402
+Minnehaha,0402,Constitutional Amendment G,,Yes,,437
+Minnehaha,0402,Constitutional Amendment G,,No,,354
+Minnehaha,0402,Constitutional Amendment H,,Yes,,315
+Minnehaha,0402,Constitutional Amendment H,,No,,420
+Minnehaha,0403,Constitutional Amendment E,,Yes,,266
+Minnehaha,0403,Constitutional Amendment E,,No,,237
+Minnehaha,0403,Constitutional Amendment F,,Yes,,233
+Minnehaha,0403,Constitutional Amendment F,,No,,271
+Minnehaha,0403,Constitutional Amendment G,,Yes,,314
+Minnehaha,0403,Constitutional Amendment G,,No,,209
+Minnehaha,0403,Constitutional Amendment H,,Yes,,232
+Minnehaha,0403,Constitutional Amendment H,,No,,257
+Minnehaha,0404,Constitutional Amendment E,,Yes,,417
+Minnehaha,0404,Constitutional Amendment E,,No,,460
+Minnehaha,0404,Constitutional Amendment F,,Yes,,446
+Minnehaha,0404,Constitutional Amendment F,,No,,433
+Minnehaha,0404,Constitutional Amendment G,,Yes,,513
+Minnehaha,0404,Constitutional Amendment G,,No,,385
+Minnehaha,0404,Constitutional Amendment H,,Yes,,382
+Minnehaha,0404,Constitutional Amendment H,,No,,463
+Minnehaha,0405,Constitutional Amendment E,,Yes,,311
+Minnehaha,0405,Constitutional Amendment E,,No,,361
+Minnehaha,0405,Constitutional Amendment F,,Yes,,338
+Minnehaha,0405,Constitutional Amendment F,,No,,327
+Minnehaha,0405,Constitutional Amendment G,,Yes,,373
+Minnehaha,0405,Constitutional Amendment G,,No,,307
+Minnehaha,0405,Constitutional Amendment H,,Yes,,297
+Minnehaha,0405,Constitutional Amendment H,,No,,358
+Minnehaha,0406,Constitutional Amendment E,,Yes,,294
+Minnehaha,0406,Constitutional Amendment E,,No,,382
+Minnehaha,0406,Constitutional Amendment F,,Yes,,347
+Minnehaha,0406,Constitutional Amendment F,,No,,326
+Minnehaha,0406,Constitutional Amendment G,,Yes,,371
+Minnehaha,0406,Constitutional Amendment G,,No,,310
+Minnehaha,0406,Constitutional Amendment H,,Yes,,266
+Minnehaha,0406,Constitutional Amendment H,,No,,378
+Minnehaha,0407,Constitutional Amendment E,,Yes,,369
+Minnehaha,0407,Constitutional Amendment E,,No,,349
+Minnehaha,0407,Constitutional Amendment F,,Yes,,420
+Minnehaha,0407,Constitutional Amendment F,,No,,296
+Minnehaha,0407,Constitutional Amendment G,,Yes,,329
+Minnehaha,0407,Constitutional Amendment G,,No,,398
+Minnehaha,0407,Constitutional Amendment H,,Yes,,226
+Minnehaha,0407,Constitutional Amendment H,,No,,486
+Minnehaha,0408,Constitutional Amendment E,,Yes,,428
+Minnehaha,0408,Constitutional Amendment E,,No,,370
+Minnehaha,0408,Constitutional Amendment F,,Yes,,407
+Minnehaha,0408,Constitutional Amendment F,,No,,395
+Minnehaha,0408,Constitutional Amendment G,,Yes,,403
+Minnehaha,0408,Constitutional Amendment G,,No,,412
+Minnehaha,0408,Constitutional Amendment H,,Yes,,302
+Minnehaha,0408,Constitutional Amendment H,,No,,472
+Minnehaha,0409,Constitutional Amendment E,,Yes,,535
+Minnehaha,0409,Constitutional Amendment E,,No,,482
+Minnehaha,0409,Constitutional Amendment F,,Yes,,477
+Minnehaha,0409,Constitutional Amendment F,,No,,534
+Minnehaha,0409,Constitutional Amendment G,,Yes,,599
+Minnehaha,0409,Constitutional Amendment G,,No,,446
+Minnehaha,0409,Constitutional Amendment H,,Yes,,436
+Minnehaha,0409,Constitutional Amendment H,,No,,550
+Minnehaha,0410,Constitutional Amendment E,,Yes,,182
+Minnehaha,0410,Constitutional Amendment E,,No,,236
+Minnehaha,0410,Constitutional Amendment F,,Yes,,237
+Minnehaha,0410,Constitutional Amendment F,,No,,181
+Minnehaha,0410,Constitutional Amendment G,,Yes,,196
+Minnehaha,0410,Constitutional Amendment G,,No,,233
+Minnehaha,0410,Constitutional Amendment H,,Yes,,170
+Minnehaha,0410,Constitutional Amendment H,,No,,240
+Minnehaha,0411,Constitutional Amendment E,,Yes,,601
+Minnehaha,0411,Constitutional Amendment E,,No,,673
+Minnehaha,0411,Constitutional Amendment F,,Yes,,718
+Minnehaha,0411,Constitutional Amendment F,,No,,542
+Minnehaha,0411,Constitutional Amendment G,,Yes,,594
+Minnehaha,0411,Constitutional Amendment G,,No,,691
+Minnehaha,0411,Constitutional Amendment H,,Yes,,496
+Minnehaha,0411,Constitutional Amendment H,,No,,723
+Minnehaha,0412,Constitutional Amendment E,,Yes,,757
+Minnehaha,0412,Constitutional Amendment E,,No,,680
+Minnehaha,0412,Constitutional Amendment F,,Yes,,696
+Minnehaha,0412,Constitutional Amendment F,,No,,741
+Minnehaha,0412,Constitutional Amendment G,,Yes,,768
+Minnehaha,0412,Constitutional Amendment G,,No,,698
+Minnehaha,0412,Constitutional Amendment H,,Yes,,578
+Minnehaha,0412,Constitutional Amendment H,,No,,828
+Minnehaha,0413,Constitutional Amendment E,,Yes,,395
+Minnehaha,0413,Constitutional Amendment E,,No,,397
+Minnehaha,0413,Constitutional Amendment F,,Yes,,395
+Minnehaha,0413,Constitutional Amendment F,,No,,390
+Minnehaha,0413,Constitutional Amendment G,,Yes,,414
+Minnehaha,0413,Constitutional Amendment G,,No,,387
+Minnehaha,0413,Constitutional Amendment H,,Yes,,327
+Minnehaha,0413,Constitutional Amendment H,,No,,440
+Minnehaha,0415,Constitutional Amendment E,,Yes,,944
+Minnehaha,0415,Constitutional Amendment E,,No,,972
+Minnehaha,0415,Constitutional Amendment F,,Yes,,1073
+Minnehaha,0415,Constitutional Amendment F,,No,,829
+Minnehaha,0415,Constitutional Amendment G,,Yes,,886
+Minnehaha,0415,Constitutional Amendment G,,No,,1062
+Minnehaha,0415,Constitutional Amendment H,,Yes,,649
+Minnehaha,0415,Constitutional Amendment H,,No,,1213
+Minnehaha,0416,Constitutional Amendment E,,Yes,,1070
+Minnehaha,0416,Constitutional Amendment E,,No,,594
+Minnehaha,0416,Constitutional Amendment F,,Yes,,1145
+Minnehaha,0416,Constitutional Amendment F,,No,,494
+Minnehaha,0416,Constitutional Amendment G,,Yes,,1022
+Minnehaha,0416,Constitutional Amendment G,,No,,603
+Minnehaha,0416,Constitutional Amendment H,,Yes,,581
+Minnehaha,0416,Constitutional Amendment H,,No,,928
+Minnehaha,0417,Constitutional Amendment E,,Yes,,1072
+Minnehaha,0417,Constitutional Amendment E,,No,,1176
+Minnehaha,0417,Constitutional Amendment F,,Yes,,1382
+Minnehaha,0417,Constitutional Amendment F,,No,,851
+Minnehaha,0417,Constitutional Amendment G,,Yes,,958
+Minnehaha,0417,Constitutional Amendment G,,No,,1303
+Minnehaha,0417,Constitutional Amendment H,,Yes,,739
+Minnehaha,0417,Constitutional Amendment H,,No,,1420
+Minnehaha,0418,Constitutional Amendment E,,Yes,,593
+Minnehaha,0418,Constitutional Amendment E,,No,,616
+Minnehaha,0418,Constitutional Amendment F,,Yes,,760
+Minnehaha,0418,Constitutional Amendment F,,No,,438
+Minnehaha,0418,Constitutional Amendment G,,Yes,,524
+Minnehaha,0418,Constitutional Amendment G,,No,,693
+Minnehaha,0418,Constitutional Amendment H,,Yes,,397
+Minnehaha,0418,Constitutional Amendment H,,No,,772
+Minnehaha,0419,Constitutional Amendment E,,Yes,,552
+Minnehaha,0419,Constitutional Amendment E,,No,,480
+Minnehaha,0419,Constitutional Amendment F,,Yes,,572
+Minnehaha,0419,Constitutional Amendment F,,No,,454
+Minnehaha,0419,Constitutional Amendment G,,Yes,,559
+Minnehaha,0419,Constitutional Amendment G,,No,,491
+Minnehaha,0419,Constitutional Amendment H,,Yes,,439
+Minnehaha,0419,Constitutional Amendment H,,No,,555
+Minnehaha,0501,Constitutional Amendment E,,Yes,,627
+Minnehaha,0501,Constitutional Amendment E,,No,,448
+Minnehaha,0501,Constitutional Amendment F,,Yes,,479
+Minnehaha,0501,Constitutional Amendment F,,No,,591
+Minnehaha,0501,Constitutional Amendment G,,Yes,,687
+Minnehaha,0501,Constitutional Amendment G,,No,,404
+Minnehaha,0501,Constitutional Amendment H,,Yes,,500
+Minnehaha,0501,Constitutional Amendment H,,No,,521
+Minnehaha,0502,Constitutional Amendment E,,Yes,,396
+Minnehaha,0502,Constitutional Amendment E,,No,,204
+Minnehaha,0502,Constitutional Amendment F,,Yes,,274
+Minnehaha,0502,Constitutional Amendment F,,No,,317
+Minnehaha,0502,Constitutional Amendment G,,Yes,,398
+Minnehaha,0502,Constitutional Amendment G,,No,,202
+Minnehaha,0502,Constitutional Amendment H,,Yes,,294
+Minnehaha,0502,Constitutional Amendment H,,No,,283
+Minnehaha,0503,Constitutional Amendment E,,Yes,,192
+Minnehaha,0503,Constitutional Amendment E,,No,,157
+Minnehaha,0503,Constitutional Amendment F,,Yes,,151
+Minnehaha,0503,Constitutional Amendment F,,No,,191
+Minnehaha,0503,Constitutional Amendment G,,Yes,,204
+Minnehaha,0503,Constitutional Amendment G,,No,,149
+Minnehaha,0503,Constitutional Amendment H,,Yes,,165
+Minnehaha,0503,Constitutional Amendment H,,No,,172
+Minnehaha,0504,Constitutional Amendment E,,Yes,,778
+Minnehaha,0504,Constitutional Amendment E,,No,,412
+Minnehaha,0504,Constitutional Amendment F,,Yes,,471
+Minnehaha,0504,Constitutional Amendment F,,No,,707
+Minnehaha,0504,Constitutional Amendment G,,Yes,,802
+Minnehaha,0504,Constitutional Amendment G,,No,,395
+Minnehaha,0504,Constitutional Amendment H,,Yes,,547
+Minnehaha,0504,Constitutional Amendment H,,No,,606
+Minnehaha,0506,Constitutional Amendment E,,Yes,,588
+Minnehaha,0506,Constitutional Amendment E,,No,,503
+Minnehaha,0506,Constitutional Amendment F,,Yes,,502
+Minnehaha,0506,Constitutional Amendment F,,No,,580
+Minnehaha,0506,Constitutional Amendment G,,Yes,,626
+Minnehaha,0506,Constitutional Amendment G,,No,,477
+Minnehaha,0506,Constitutional Amendment H,,Yes,,450
+Minnehaha,0506,Constitutional Amendment H,,No,,596
+Minnehaha,0507,Constitutional Amendment E,,Yes,,405
+Minnehaha,0507,Constitutional Amendment E,,No,,212
+Minnehaha,0507,Constitutional Amendment F,,Yes,,244
+Minnehaha,0507,Constitutional Amendment F,,No,,374
+Minnehaha,0507,Constitutional Amendment G,,Yes,,393
+Minnehaha,0507,Constitutional Amendment G,,No,,231
+Minnehaha,0507,Constitutional Amendment H,,Yes,,274
+Minnehaha,0507,Constitutional Amendment H,,No,,325
+Minnehaha,0508,Constitutional Amendment E,,Yes,,663
+Minnehaha,0508,Constitutional Amendment E,,No,,316
+Minnehaha,0508,Constitutional Amendment F,,Yes,,408
+Minnehaha,0508,Constitutional Amendment F,,No,,553
+Minnehaha,0508,Constitutional Amendment G,,Yes,,649
+Minnehaha,0508,Constitutional Amendment G,,No,,334
+Minnehaha,0508,Constitutional Amendment H,,Yes,,453
+Minnehaha,0508,Constitutional Amendment H,,No,,496
+Minnehaha,0509,Constitutional Amendment E,,Yes,,308
+Minnehaha,0509,Constitutional Amendment E,,No,,187
+Minnehaha,0509,Constitutional Amendment F,,Yes,,209
+Minnehaha,0509,Constitutional Amendment F,,No,,275
+Minnehaha,0509,Constitutional Amendment G,,Yes,,329
+Minnehaha,0509,Constitutional Amendment G,,No,,169
+Minnehaha,0509,Constitutional Amendment H,,Yes,,226
+Minnehaha,0509,Constitutional Amendment H,,No,,244
+Minnehaha,0510,Constitutional Amendment E,,Yes,,367
+Minnehaha,0510,Constitutional Amendment E,,No,,264
+Minnehaha,0510,Constitutional Amendment F,,Yes,,301
+Minnehaha,0510,Constitutional Amendment F,,No,,323
+Minnehaha,0510,Constitutional Amendment G,,Yes,,372
+Minnehaha,0510,Constitutional Amendment G,,No,,272
+Minnehaha,0510,Constitutional Amendment H,,Yes,,252
+Minnehaha,0510,Constitutional Amendment H,,No,,355
 Minnehaha,0512,Constitutional Amendment E,,Yes,,853
 Minnehaha,0512,Constitutional Amendment E,,No,,557
 Minnehaha,0512,Constitutional Amendment F,,Yes,,628
@@ -1797,6 +2022,198 @@ Minnehaha,0512,Constitutional Amendment G,,Yes,,862
 Minnehaha,0512,Constitutional Amendment G,,No,,568
 Minnehaha,0512,Constitutional Amendment H,,Yes,,608
 Minnehaha,0512,Constitutional Amendment H,,No,,758
+Minnehaha,0515,Constitutional Amendment E,,Yes,,227
+Minnehaha,0515,Constitutional Amendment E,,No,,241
+Minnehaha,0515,Constitutional Amendment F,,Yes,,234
+Minnehaha,0515,Constitutional Amendment F,,No,,236
+Minnehaha,0515,Constitutional Amendment G,,Yes,,279
+Minnehaha,0515,Constitutional Amendment G,,No,,191
+Minnehaha,0515,Constitutional Amendment H,,Yes,,188
+Minnehaha,0515,Constitutional Amendment H,,No,,251
+Minnehaha,0516,Constitutional Amendment E,,Yes,,499
+Minnehaha,0516,Constitutional Amendment E,,No,,249
+Minnehaha,0516,Constitutional Amendment F,,Yes,,513
+Minnehaha,0516,Constitutional Amendment F,,No,,235
+Minnehaha,0516,Constitutional Amendment G,,Yes,,444
+Minnehaha,0516,Constitutional Amendment G,,No,,291
+Minnehaha,0516,Constitutional Amendment H,,Yes,,281
+Minnehaha,0516,Constitutional Amendment H,,No,,410
+Minnehaha,0518,Constitutional Amendment E,,Yes,,716
+Minnehaha,0518,Constitutional Amendment E,,No,,467
+Minnehaha,0518,Constitutional Amendment F,,Yes,,481
+Minnehaha,0518,Constitutional Amendment F,,No,,692
+Minnehaha,0518,Constitutional Amendment G,,Yes,,735
+Minnehaha,0518,Constitutional Amendment G,,No,,468
+Minnehaha,0518,Constitutional Amendment H,,Yes,,526
+Minnehaha,0518,Constitutional Amendment H,,No,,620
+Minnehaha,0519,Constitutional Amendment E,,Yes,,655
+Minnehaha,0519,Constitutional Amendment E,,No,,503
+Minnehaha,0519,Constitutional Amendment F,,Yes,,551
+Minnehaha,0519,Constitutional Amendment F,,No,,602
+Minnehaha,0519,Constitutional Amendment G,,Yes,,636
+Minnehaha,0519,Constitutional Amendment G,,No,,542
+Minnehaha,0519,Constitutional Amendment H,,Yes,,456
+Minnehaha,0519,Constitutional Amendment H,,No,,680
+Minnehaha,0520,Constitutional Amendment E,,Yes,,515
+Minnehaha,0520,Constitutional Amendment E,,No,,480
+Minnehaha,0520,Constitutional Amendment F,,Yes,,508
+Minnehaha,0520,Constitutional Amendment F,,No,,472
+Minnehaha,0520,Constitutional Amendment G,,Yes,,542
+Minnehaha,0520,Constitutional Amendment G,,No,,459
+Minnehaha,0520,Constitutional Amendment H,,Yes,,405
+Minnehaha,0520,Constitutional Amendment H,,No,,537
+Minnehaha,0521,Constitutional Amendment E,,Yes,,513
+Minnehaha,0521,Constitutional Amendment E,,No,,350
+Minnehaha,0521,Constitutional Amendment F,,Yes,,417
+Minnehaha,0521,Constitutional Amendment F,,No,,449
+Minnehaha,0521,Constitutional Amendment G,,Yes,,503
+Minnehaha,0521,Constitutional Amendment G,,No,,376
+Minnehaha,0521,Constitutional Amendment H,,Yes,,375
+Minnehaha,0521,Constitutional Amendment H,,No,,469
+Minnehaha,0522,Constitutional Amendment E,,Yes,,565
+Minnehaha,0522,Constitutional Amendment E,,No,,485
+Minnehaha,0522,Constitutional Amendment F,,Yes,,499
+Minnehaha,0522,Constitutional Amendment F,,No,,545
+Minnehaha,0522,Constitutional Amendment G,,Yes,,644
+Minnehaha,0522,Constitutional Amendment G,,No,,418
+Minnehaha,0522,Constitutional Amendment H,,Yes,,483
+Minnehaha,0522,Constitutional Amendment H,,No,,538
+Minnehaha,0523,Constitutional Amendment E,,Yes,,491
+Minnehaha,0523,Constitutional Amendment E,,No,,315
+Minnehaha,0523,Constitutional Amendment F,,Yes,,359
+Minnehaha,0523,Constitutional Amendment F,,No,,442
+Minnehaha,0523,Constitutional Amendment G,,Yes,,503
+Minnehaha,0523,Constitutional Amendment G,,No,,306
+Minnehaha,0523,Constitutional Amendment H,,Yes,,349
+Minnehaha,0523,Constitutional Amendment H,,No,,422
+Minnehaha,VP01,Constitutional Amendment E,,Yes,,299
+Minnehaha,VP01,Constitutional Amendment E,,No,,554
+Minnehaha,VP01,Constitutional Amendment F,,Yes,,461
+Minnehaha,VP01,Constitutional Amendment F,,No,,385
+Minnehaha,VP01,Constitutional Amendment G,,Yes,,297
+Minnehaha,VP01,Constitutional Amendment G,,No,,562
+Minnehaha,VP01,Constitutional Amendment H,,Yes,,233
+Minnehaha,VP01,Constitutional Amendment H,,No,,607
+Minnehaha,VP02,Constitutional Amendment E,,Yes,,628
+Minnehaha,VP02,Constitutional Amendment E,,No,,828
+Minnehaha,VP02,Constitutional Amendment F,,Yes,,868
+Minnehaha,VP02,Constitutional Amendment F,,No,,583
+Minnehaha,VP02,Constitutional Amendment G,,Yes,,561
+Minnehaha,VP02,Constitutional Amendment G,,No,,899
+Minnehaha,VP02,Constitutional Amendment H,,Yes,,429
+Minnehaha,VP02,Constitutional Amendment H,,No,,981
+Minnehaha,VP03,Constitutional Amendment E,,Yes,,844
+Minnehaha,VP03,Constitutional Amendment E,,No,,1070
+Minnehaha,VP03,Constitutional Amendment F,,Yes,,1127
+Minnehaha,VP03,Constitutional Amendment F,,No,,777
+Minnehaha,VP03,Constitutional Amendment G,,Yes,,759
+Minnehaha,VP03,Constitutional Amendment G,,No,,1186
+Minnehaha,VP03,Constitutional Amendment H,,Yes,,627
+Minnehaha,VP03,Constitutional Amendment H,,No,,1229
+Minnehaha,VP04,Constitutional Amendment E,,Yes,,421
+Minnehaha,VP04,Constitutional Amendment E,,No,,659
+Minnehaha,VP04,Constitutional Amendment F,,Yes,,546
+Minnehaha,VP04,Constitutional Amendment F,,No,,528
+Minnehaha,VP04,Constitutional Amendment G,,Yes,,416
+Minnehaha,VP04,Constitutional Amendment G,,No,,679
+Minnehaha,VP04,Constitutional Amendment H,,Yes,,303
+Minnehaha,VP04,Constitutional Amendment H,,No,,745
+Minnehaha,VP05,Constitutional Amendment E,,Yes,,900
+Minnehaha,VP05,Constitutional Amendment E,,No,,1128
+Minnehaha,VP05,Constitutional Amendment F,,Yes,,1240
+Minnehaha,VP05,Constitutional Amendment F,,No,,770
+Minnehaha,VP05,Constitutional Amendment G,,Yes,,853
+Minnehaha,VP05,Constitutional Amendment G,,No,,1201
+Minnehaha,VP05,Constitutional Amendment H,,Yes,,650
+Minnehaha,VP05,Constitutional Amendment H,,No,,1309
+Minnehaha,VP06,Constitutional Amendment E,,Yes,,204
+Minnehaha,VP06,Constitutional Amendment E,,No,,247
+Minnehaha,VP06,Constitutional Amendment F,,Yes,,281
+Minnehaha,VP06,Constitutional Amendment F,,No,,167
+Minnehaha,VP06,Constitutional Amendment G,,Yes,,158
+Minnehaha,VP06,Constitutional Amendment G,,No,,299
+Minnehaha,VP06,Constitutional Amendment H,,Yes,,126
+Minnehaha,VP06,Constitutional Amendment H,,No,,312
+Minnehaha,VP07,Constitutional Amendment E,,Yes,,800
+Minnehaha,VP07,Constitutional Amendment E,,No,,1215
+Minnehaha,VP07,Constitutional Amendment F,,Yes,,1145
+Minnehaha,VP07,Constitutional Amendment F,,No,,860
+Minnehaha,VP07,Constitutional Amendment G,,Yes,,801
+Minnehaha,VP07,Constitutional Amendment G,,No,,1258
+Minnehaha,VP07,Constitutional Amendment H,,Yes,,613
+Minnehaha,VP07,Constitutional Amendment H,,No,,1347
+Minnehaha,VP08,Constitutional Amendment E,,Yes,,290
+Minnehaha,VP08,Constitutional Amendment E,,No,,640
+Minnehaha,VP08,Constitutional Amendment F,,Yes,,528
+Minnehaha,VP08,Constitutional Amendment F,,No,,400
+Minnehaha,VP08,Constitutional Amendment G,,Yes,,281
+Minnehaha,VP08,Constitutional Amendment G,,No,,661
+Minnehaha,VP08,Constitutional Amendment H,,Yes,,216
+Minnehaha,VP08,Constitutional Amendment H,,No,,694
+Minnehaha,VP09,Constitutional Amendment E,,Yes,,584
+Minnehaha,VP09,Constitutional Amendment E,,No,,1002
+Minnehaha,VP09,Constitutional Amendment F,,Yes,,963
+Minnehaha,VP09,Constitutional Amendment F,,No,,623
+Minnehaha,VP09,Constitutional Amendment G,,Yes,,622
+Minnehaha,VP09,Constitutional Amendment G,,No,,992
+Minnehaha,VP09,Constitutional Amendment H,,Yes,,457
+Minnehaha,VP09,Constitutional Amendment H,,No,,1091
+Minnehaha,VP10,Constitutional Amendment E,,Yes,,598
+Minnehaha,VP10,Constitutional Amendment E,,No,,996
+Minnehaha,VP10,Constitutional Amendment F,,Yes,,906
+Minnehaha,VP10,Constitutional Amendment F,,No,,677
+Minnehaha,VP10,Constitutional Amendment G,,Yes,,576
+Minnehaha,VP10,Constitutional Amendment G,,No,,1035
+Minnehaha,VP10,Constitutional Amendment H,,Yes,,436
+Minnehaha,VP10,Constitutional Amendment H,,No,,1115
+Minnehaha,VP11,Constitutional Amendment E,,Yes,,155
+Minnehaha,VP11,Constitutional Amendment E,,No,,363
+Minnehaha,VP11,Constitutional Amendment F,,Yes,,323
+Minnehaha,VP11,Constitutional Amendment F,,No,,194
+Minnehaha,VP11,Constitutional Amendment G,,Yes,,144
+Minnehaha,VP11,Constitutional Amendment G,,No,,378
+Minnehaha,VP11,Constitutional Amendment H,,Yes,,99
+Minnehaha,VP11,Constitutional Amendment H,,No,,409
+Minnehaha,VP13,Constitutional Amendment E,,Yes,,314
+Minnehaha,VP13,Constitutional Amendment E,,No,,715
+Minnehaha,VP13,Constitutional Amendment F,,Yes,,604
+Minnehaha,VP13,Constitutional Amendment F,,No,,412
+Minnehaha,VP13,Constitutional Amendment G,,Yes,,292
+Minnehaha,VP13,Constitutional Amendment G,,No,,739
+Minnehaha,VP13,Constitutional Amendment H,,Yes,,246
+Minnehaha,VP13,Constitutional Amendment H,,No,,753
+Minnehaha,VP15,Constitutional Amendment E,,Yes,,902
+Minnehaha,VP15,Constitutional Amendment E,,No,,1139
+Minnehaha,VP15,Constitutional Amendment F,,Yes,,1185
+Minnehaha,VP15,Constitutional Amendment F,,No,,850
+Minnehaha,VP15,Constitutional Amendment G,,Yes,,847
+Minnehaha,VP15,Constitutional Amendment G,,No,,1218
+Minnehaha,VP15,Constitutional Amendment H,,Yes,,661
+Minnehaha,VP15,Constitutional Amendment H,,No,,1317
+Minnehaha,VP16,Constitutional Amendment E,,Yes,,473
+Minnehaha,VP16,Constitutional Amendment E,,No,,737
+Minnehaha,VP16,Constitutional Amendment F,,Yes,,692
+Minnehaha,VP16,Constitutional Amendment F,,No,,515
+Minnehaha,VP16,Constitutional Amendment G,,Yes,,471
+Minnehaha,VP16,Constitutional Amendment G,,No,,765
+Minnehaha,VP16,Constitutional Amendment H,,Yes,,316
+Minnehaha,VP16,Constitutional Amendment H,,No,,861
+Minnehaha,VP17,Constitutional Amendment E,,Yes,,266
+Minnehaha,VP17,Constitutional Amendment E,,No,,482
+Minnehaha,VP17,Constitutional Amendment F,,Yes,,413
+Minnehaha,VP17,Constitutional Amendment F,,No,,328
+Minnehaha,VP17,Constitutional Amendment G,,Yes,,221
+Minnehaha,VP17,Constitutional Amendment G,,No,,535
+Minnehaha,VP17,Constitutional Amendment H,,Yes,,194
+Minnehaha,VP17,Constitutional Amendment H,,No,,539
+Minnehaha,VP21,Constitutional Amendment E,,Yes,,739
+Minnehaha,VP21,Constitutional Amendment E,,No,,1265
+Minnehaha,VP21,Constitutional Amendment F,,Yes,,1078
+Minnehaha,VP21,Constitutional Amendment F,,No,,912
+Minnehaha,VP21,Constitutional Amendment G,,Yes,,679
+Minnehaha,VP21,Constitutional Amendment G,,No,,1360
+Minnehaha,VP21,Constitutional Amendment H,,Yes,,545
+Minnehaha,VP21,Constitutional Amendment H,,No,,1409
 Minnehaha,0104,Initiated Measure 28,,Yes,,406
 Minnehaha,0104,Initiated Measure 28,,No,,427
 Minnehaha,0104,Initiated Measure 29,,Yes,,468
@@ -1804,13 +2221,13 @@ Minnehaha,0104,Initiated Measure 29,,No,,377
 Minnehaha,0104,Referred Law 21,,Yes,,412
 Minnehaha,0104,Referred Law 21,,No,,393
 Minnehaha,0105,Initiated Measure 28,,Yes,,262
-Minnehaha,0105,Initiated Measure 28,,No,,300
+Minnehaha,0105,Initiated Measure 28,,No,,304
 Minnehaha,0105,Initiated Measure 29,,Yes,,291
 Minnehaha,0105,Initiated Measure 29,,No,,289
 Minnehaha,0105,Referred Law 21,,Yes,,302
 Minnehaha,0105,Referred Law 21,,No,,250
 Minnehaha,0106,Initiated Measure 28,,Yes,,529
-Minnehaha,0106,Initiated Measure 28,,No,,784
+Minnehaha,0106,Initiated Measure 28,,No,,781
 Minnehaha,0106,Initiated Measure 29,,Yes,,681
 Minnehaha,0106,Initiated Measure 29,,No,,657
 Minnehaha,0106,Referred Law 21,,Yes,,596
@@ -1825,7 +2242,7 @@ Minnehaha,0110,Initiated Measure 28,,Yes,,540
 Minnehaha,0110,Initiated Measure 28,,No,,854
 Minnehaha,0110,Initiated Measure 29,,Yes,,760
 Minnehaha,0110,Initiated Measure 29,,No,,666
-Minnehaha,0110,Referred Law 21,,Yes,,456
+Minnehaha,0110,Referred Law 21,,Yes,,566
 Minnehaha,0110,Referred Law 21,,No,,762
 Minnehaha,0117,Initiated Measure 28,,Yes,,576
 Minnehaha,0117,Initiated Measure 28,,No,,1138
@@ -1833,59 +2250,131 @@ Minnehaha,0117,Initiated Measure 29,,Yes,,922
 Minnehaha,0117,Initiated Measure 29,,No,,835
 Minnehaha,0117,Referred Law 21,,Yes,,614
 Minnehaha,0117,Referred Law 21,,No,,1026
-Minnehaha,0119,Initiated Measure 28,,Yes,,436
-Minnehaha,0119,Initiated Measure 28,,No,,812
+Minnehaha,0119,Initiated Measure 28,,Yes,,323
+Minnehaha,0119,Initiated Measure 28,,No,,412
 Minnehaha,0119,Initiated Measure 29,,Yes,,443
 Minnehaha,0119,Initiated Measure 29,,No,,310
 Minnehaha,0119,Referred Law 21,,Yes,,338
-Minnehaha,0119,Referred Law 21,,No,,532
-Minnehaha,0130,Initiated Measure 28,,Yes,,402
-Minnehaha,0130,Initiated Measure 28,,No,,722
-Minnehaha,0130,Initiated Measure 29,,Yes,,738
-Minnehaha,0130,Initiated Measure 29,,No,,643
-Minnehaha,0130,Referred Law 21,,Yes,,506
-Minnehaha,0130,Referred Law 21,,No,,804
-Minnehaha,0131,Initiated Measure 28,,Yes,,464
-Minnehaha,0131,Initiated Measure 28,,No,,721
-Minnehaha,0131,Initiated Measure 29,,Yes,,772
-Minnehaha,0131,Initiated Measure 29,,No,,960
-Minnehaha,0131,Referred Law 21,,Yes,,700
-Minnehaha,0131,Referred Law 21,,No,,933
-Minnehaha,0310,Initiated Measure 28,,Yes,,463
-Minnehaha,0310,Initiated Measure 28,,No,,1561
-Minnehaha,0310,Initiated Measure 29,,Yes,,941
-Minnehaha,0310,Initiated Measure 29,,No,,513
-Minnehaha,0310,Referred Law 21,,Yes,,866
-Minnehaha,0310,Referred Law 21,,No,,994
+Minnehaha,0119,Referred Law 21,,No,,358
+Minnehaha,0201,Initiated Measure 28,,Yes,,405
+Minnehaha,0201,Initiated Measure 28,,No,,818
+Minnehaha,0201,Initiated Measure 29,,Yes,,600
+Minnehaha,0201,Initiated Measure 29,,No,,648
+Minnehaha,0201,Referred Law 21,,Yes,,549
+Minnehaha,0201,Referred Law 21,,No,,622
+Minnehaha,0202,Initiated Measure 28,,Yes,,457
+Minnehaha,0202,Initiated Measure 28,,No,,1136
+Minnehaha,0202,Initiated Measure 29,,Yes,,750
+Minnehaha,0202,Initiated Measure 29,,No,,862
+Minnehaha,0202,Referred Law 21,,Yes,,649
+Minnehaha,0202,Referred Law 21,,No,,893
+Minnehaha,0203,Initiated Measure 28,,Yes,,404
+Minnehaha,0203,Initiated Measure 28,,No,,856
+Minnehaha,0203,Initiated Measure 29,,Yes,,652
+Minnehaha,0203,Initiated Measure 29,,No,,639
+Minnehaha,0203,Referred Law 21,,Yes,,508
+Minnehaha,0203,Referred Law 21,,No,,704
+Minnehaha,0206,Initiated Measure 28,,Yes,,453
+Minnehaha,0206,Initiated Measure 28,,No,,845
+Minnehaha,0206,Initiated Measure 29,,Yes,,683
+Minnehaha,0206,Initiated Measure 29,,No,,643
+Minnehaha,0206,Referred Law 21,,Yes,,540
+Minnehaha,0206,Referred Law 21,,No,,710
+Minnehaha,0208,Initiated Measure 28,,Yes,,180
+Minnehaha,0208,Initiated Measure 28,,No,,433
+Minnehaha,0208,Initiated Measure 29,,Yes,,264
+Minnehaha,0208,Initiated Measure 29,,No,,360
+Minnehaha,0208,Referred Law 21,,Yes,,282
+Minnehaha,0208,Referred Law 21,,No,,306
+Minnehaha,0209,Initiated Measure 28,,Yes,,420
+Minnehaha,0209,Initiated Measure 28,,No,,736
+Minnehaha,0209,Initiated Measure 29,,Yes,,622
+Minnehaha,0209,Initiated Measure 29,,No,,555
+Minnehaha,0209,Referred Law 21,,Yes,,469
+Minnehaha,0209,Referred Law 21,,No,,651
+Minnehaha,0214,Initiated Measure 28,,Yes,,394
+Minnehaha,0214,Initiated Measure 28,,No,,1124
+Minnehaha,0214,Initiated Measure 29,,Yes,,689
+Minnehaha,0214,Initiated Measure 29,,No,,855
+Minnehaha,0214,Referred Law 21,,Yes,,603
+Minnehaha,0214,Referred Law 21,,No,,856
+Minnehaha,0217,Initiated Measure 28,,Yes,,536
+Minnehaha,0217,Initiated Measure 28,,No,,1207
+Minnehaha,0217,Initiated Measure 29,,Yes,,773
+Minnehaha,0217,Initiated Measure 29,,No,,1001
+Minnehaha,0217,Referred Law 21,,Yes,,718
+Minnehaha,0217,Referred Law 21,,No,,945
+Minnehaha,0218,Initiated Measure 28,,Yes,,470
+Minnehaha,0218,Initiated Measure 28,,No,,772
+Minnehaha,0218,Initiated Measure 29,,Yes,,672
+Minnehaha,0218,Initiated Measure 29,,No,,605
+Minnehaha,0218,Referred Law 21,,Yes,,525
+Minnehaha,0218,Referred Law 21,,No,,652
+Minnehaha,0301,Initiated Measure 28,,Yes,,265
+Minnehaha,0301,Initiated Measure 28,,No,,598
+Minnehaha,0301,Initiated Measure 29,,Yes,,439
+Minnehaha,0301,Initiated Measure 29,,No,,438
+Minnehaha,0301,Referred Law 21,,Yes,,396
+Minnehaha,0301,Referred Law 21,,No,,429
+Minnehaha,0305,Initiated Measure 28,,Yes,,298
+Minnehaha,0305,Initiated Measure 28,,No,,388
+Minnehaha,0305,Initiated Measure 29,,Yes,,445
+Minnehaha,0305,Initiated Measure 29,,No,,264
+Minnehaha,0305,Referred Law 21,,Yes,,357
+Minnehaha,0305,Referred Law 21,,No,,307
+Minnehaha,0309,Initiated Measure 28,,Yes,,654
+Minnehaha,0309,Initiated Measure 28,,No,,780
+Minnehaha,0309,Initiated Measure 29,,Yes,,964
+Minnehaha,0309,Initiated Measure 29,,No,,513
+Minnehaha,0309,Referred Law 21,,Yes,,686
+Minnehaha,0309,Referred Law 21,,No,,691
+Minnehaha,0310,Initiated Measure 28,,Yes,,468
+Minnehaha,0310,Initiated Measure 28,,No,,1241
+Minnehaha,0310,Initiated Measure 29,,Yes,,772
+Minnehaha,0310,Initiated Measure 29,,No,,960
+Minnehaha,0310,Referred Law 21,,Yes,,700
+Minnehaha,0310,Referred Law 21,,No,,933
 Minnehaha,0311,Initiated Measure 28,,Yes,,281
-Minnehaha,0311,Initiated Measure 28,,No,,721
+Minnehaha,0311,Initiated Measure 28,,No,,772
 Minnehaha,0311,Initiated Measure 29,,Yes,,441
 Minnehaha,0311,Initiated Measure 29,,No,,632
 Minnehaha,0311,Referred Law 21,,Yes,,400
 Minnehaha,0311,Referred Law 21,,No,,626
-Minnehaha,0313,Initiated Measure 28,,Yes,,423
-Minnehaha,0313,Initiated Measure 28,,No,,774
-Minnehaha,0313,Initiated Measure 29,,Yes,,660
-Minnehaha,0313,Initiated Measure 29,,No,,504
-Minnehaha,0313,Referred Law 21,,Yes,,496
-Minnehaha,0313,Referred Law 21,,No,,603
+Minnehaha,0312,Initiated Measure 28,,Yes,,423
+Minnehaha,0312,Initiated Measure 28,,No,,724
+Minnehaha,0312,Initiated Measure 29,,Yes,,660
+Minnehaha,0312,Initiated Measure 29,,No,,506
+Minnehaha,0312,Referred Law 21,,Yes,,497
+Minnehaha,0312,Referred Law 21,,No,,603
+Minnehaha,0313,Initiated Measure 28,,Yes,,313
+Minnehaha,0313,Initiated Measure 28,,No,,565
+Minnehaha,0313,Initiated Measure 29,,Yes,,444
+Minnehaha,0313,Initiated Measure 29,,No,,442
+Minnehaha,0313,Referred Law 21,,Yes,,356
+Minnehaha,0313,Referred Law 21,,No,,494
+Minnehaha,0314,Initiated Measure 28,,Yes,,614
+Minnehaha,0314,Initiated Measure 28,,No,,832
+Minnehaha,0314,Initiated Measure 29,,Yes,,880
+Minnehaha,0314,Initiated Measure 29,,No,,594
+Minnehaha,0314,Referred Law 21,,Yes,,621
+Minnehaha,0314,Referred Law 21,,No,,776
 Minnehaha,0315,Initiated Measure 28,,Yes,,452
 Minnehaha,0315,Initiated Measure 28,,No,,859
 Minnehaha,0315,Initiated Measure 29,,Yes,,656
 Minnehaha,0315,Initiated Measure 29,,No,,675
 Minnehaha,0315,Referred Law 21,,Yes,,525
 Minnehaha,0315,Referred Law 21,,No,,751
-Minnehaha,0316,Initiated Measure 28,,Yes,,354
-Minnehaha,0316,Initiated Measure 28,,No,,1459
+Minnehaha,0316,Initiated Measure 28,,Yes,,690
+Minnehaha,0316,Initiated Measure 28,,No,,1465
 Minnehaha,0316,Initiated Measure 29,,Yes,,1049
 Minnehaha,0316,Initiated Measure 29,,No,,1155
-Minnehaha,0316,Referred Law 21,,Yes,,836
+Minnehaha,0316,Referred Law 21,,Yes,,886
 Minnehaha,0316,Referred Law 21,,No,,1174
 Minnehaha,0317,Initiated Measure 28,,Yes,,508
 Minnehaha,0317,Initiated Measure 28,,No,,851
 Minnehaha,0317,Initiated Measure 29,,Yes,,726
 Minnehaha,0317,Initiated Measure 29,,No,,666
-Minnehaha,0317,Referred Law 21,,Yes,,697
+Minnehaha,0317,Referred Law 21,,Yes,,628
 Minnehaha,0317,Referred Law 21,,No,,671
 Minnehaha,0318,Initiated Measure 28,,Yes,,319
 Minnehaha,0318,Initiated Measure 28,,No,,506
@@ -1897,50 +2386,62 @@ Minnehaha,0319,Initiated Measure 28,,Yes,,664
 Minnehaha,0319,Initiated Measure 28,,No,,1398
 Minnehaha,0319,Initiated Measure 29,,Yes,,1061
 Minnehaha,0319,Initiated Measure 29,,No,,1050
-Minnehaha,0319,Referred Law 21,,Yes,,859
+Minnehaha,0319,Referred Law 21,,Yes,,856
 Minnehaha,0319,Referred Law 21,,No,,1102
-Minnehaha,0323,Initiated Measure 28,,Yes,,174
-Minnehaha,0323,Initiated Measure 28,,No,,456
-Minnehaha,0323,Initiated Measure 29,,Yes,,294
-Minnehaha,0323,Initiated Measure 29,,No,,243
-Minnehaha,0323,Referred Law 21,,Yes,,198
-Minnehaha,0323,Referred Law 21,,No,,233
-Minnehaha,0402,Initiated Measure 28,,Yes,,221
+Minnehaha,0320,Initiated Measure 28,,Yes,,174
+Minnehaha,0320,Initiated Measure 28,,No,,356
+Minnehaha,0320,Initiated Measure 29,,Yes,,294
+Minnehaha,0320,Initiated Measure 29,,No,,243
+Minnehaha,0320,Referred Law 21,,Yes,,257
+Minnehaha,0320,Referred Law 21,,No,,252
+Minnehaha,0402,Initiated Measure 28,,Yes,,321
 Minnehaha,0402,Initiated Measure 28,,No,,456
-Minnehaha,0402,Initiated Measure 29,,Yes,,284
+Minnehaha,0402,Initiated Measure 29,,Yes,,484
 Minnehaha,0402,Initiated Measure 29,,No,,310
 Minnehaha,0402,Referred Law 21,,Yes,,308
 Minnehaha,0402,Referred Law 21,,No,,433
-Minnehaha,0405,Initiated Measure 28,,Yes,,420
-Minnehaha,0405,Initiated Measure 28,,No,,467
-Minnehaha,0405,Initiated Measure 29,,Yes,,538
-Minnehaha,0405,Initiated Measure 29,,No,,313
+Minnehaha,0403,Initiated Measure 28,,Yes,,227
+Minnehaha,0403,Initiated Measure 28,,No,,276
+Minnehaha,0403,Initiated Measure 29,,Yes,,353
+Minnehaha,0403,Initiated Measure 29,,No,,172
+Minnehaha,0403,Referred Law 21,,Yes,,248
+Minnehaha,0403,Referred Law 21,,No,,241
+Minnehaha,0404,Initiated Measure 28,,Yes,,420
+Minnehaha,0404,Initiated Measure 28,,No,,467
+Minnehaha,0404,Initiated Measure 29,,Yes,,598
+Minnehaha,0404,Initiated Measure 29,,No,,303
+Minnehaha,0404,Referred Law 21,,Yes,,407
+Minnehaha,0404,Referred Law 21,,No,,444
+Minnehaha,0405,Initiated Measure 28,,Yes,,319
+Minnehaha,0405,Initiated Measure 28,,No,,357
+Minnehaha,0405,Initiated Measure 29,,Yes,,479
+Minnehaha,0405,Initiated Measure 29,,No,,210
 Minnehaha,0405,Referred Law 21,,Yes,,307
-Minnehaha,0405,Referred Law 21,,No,,444
-Minnehaha,0406,Initiated Measure 28,,Yes,,319
-Minnehaha,0406,Initiated Measure 28,,No,,357
-Minnehaha,0406,Initiated Measure 29,,Yes,,479
-Minnehaha,0406,Initiated Measure 29,,No,,281
-Minnehaha,0406,Referred Law 21,,Yes,,307
-Minnehaha,0406,Referred Law 21,,No,,336
-Minnehaha,0408,Initiated Measure 28,,Yes,,292
-Minnehaha,0408,Initiated Measure 28,,No,,366
-Minnehaha,0408,Initiated Measure 29,,Yes,,470
-Minnehaha,0408,Initiated Measure 29,,No,,270
-Minnehaha,0408,Referred Law 21,,Yes,,330
-Minnehaha,0408,Referred Law 21,,No,,350
+Minnehaha,0405,Referred Law 21,,No,,346
+Minnehaha,0406,Initiated Measure 28,,Yes,,292
+Minnehaha,0406,Initiated Measure 28,,No,,366
+Minnehaha,0406,Initiated Measure 29,,Yes,,420
+Minnehaha,0406,Initiated Measure 29,,No,,261
+Minnehaha,0406,Referred Law 21,,Yes,,305
+Minnehaha,0406,Referred Law 21,,No,,330
 Minnehaha,0407,Initiated Measure 28,,Yes,,213
-Minnehaha,0407,Initiated Measure 28,,No,,508
+Minnehaha,0407,Initiated Measure 28,,No,,505
 Minnehaha,0407,Initiated Measure 29,,Yes,,321
 Minnehaha,0407,Initiated Measure 29,,No,,402
 Minnehaha,0407,Referred Law 21,,Yes,,307
 Minnehaha,0407,Referred Law 21,,No,,380
+Minnehaha,0408,Initiated Measure 28,,Yes,,310
+Minnehaha,0408,Initiated Measure 28,,No,,478
+Minnehaha,0408,Initiated Measure 29,,Yes,,446
+Minnehaha,0408,Initiated Measure 29,,No,,366
+Minnehaha,0408,Referred Law 21,,Yes,,347
+Minnehaha,0408,Referred Law 21,,No,,411
 Minnehaha,0409,Initiated Measure 28,,Yes,,454
 Minnehaha,0409,Initiated Measure 28,,No,,562
 Minnehaha,0409,Initiated Measure 29,,Yes,,655
-Minnehaha,0409,Initiated Measure 29,,No,,365
-Minnehaha,0409,Referred Law 21,,Yes,,335
-Minnehaha,0409,Referred Law 21,,No,,433
+Minnehaha,0409,Initiated Measure 29,,No,,387
+Minnehaha,0409,Referred Law 21,,Yes,,445
+Minnehaha,0409,Referred Law 21,,No,,533
 Minnehaha,0410,Initiated Measure 28,,Yes,,148
 Minnehaha,0410,Initiated Measure 28,,No,,272
 Minnehaha,0410,Initiated Measure 29,,Yes,,218
@@ -1951,13 +2452,13 @@ Minnehaha,0411,Initiated Measure 28,,Yes,,458
 Minnehaha,0411,Initiated Measure 28,,No,,807
 Minnehaha,0411,Initiated Measure 29,,Yes,,649
 Minnehaha,0411,Initiated Measure 29,,No,,640
-Minnehaha,0411,Referred Law 21,,Yes,,537
-Minnehaha,0411,Referred Law 21,,No,,617
-Minnehaha,0412,Initiated Measure 28,,Yes,,531
+Minnehaha,0411,Referred Law 21,,Yes,,557
+Minnehaha,0411,Referred Law 21,,No,,637
+Minnehaha,0412,Initiated Measure 28,,Yes,,530
 Minnehaha,0412,Initiated Measure 28,,No,,909
-Minnehaha,0412,Initiated Measure 29,,Yes,,635
-Minnehaha,0412,Initiated Measure 29,,No,,639
-Minnehaha,0412,Referred Law 21,,Yes,,444
+Minnehaha,0412,Initiated Measure 29,,Yes,,833
+Minnehaha,0412,Initiated Measure 29,,No,,633
+Minnehaha,0412,Referred Law 21,,Yes,,644
 Minnehaha,0412,Referred Law 21,,No,,740
 Minnehaha,0413,Initiated Measure 28,,Yes,,334
 Minnehaha,0413,Initiated Measure 28,,No,,461
@@ -1967,18 +2468,18 @@ Minnehaha,0413,Referred Law 21,,Yes,,357
 Minnehaha,0413,Referred Law 21,,No,,403
 Minnehaha,0415,Initiated Measure 28,,Yes,,641
 Minnehaha,0415,Initiated Measure 28,,No,,1251
-Minnehaha,0415,Initiated Measure 29,,Yes,,913
+Minnehaha,0415,Initiated Measure 29,,Yes,,915
 Minnehaha,0415,Initiated Measure 29,,No,,1026
 Minnehaha,0415,Referred Law 21,,Yes,,812
-Minnehaha,0415,Referred Law 21,,No,,718
+Minnehaha,0415,Referred Law 21,,No,,1018
 Minnehaha,0416,Initiated Measure 28,,Yes,,672
-Minnehaha,0416,Initiated Measure 28,,No,,1886
+Minnehaha,0416,Initiated Measure 28,,No,,886
 Minnehaha,0416,Initiated Measure 29,,Yes,,943
-Minnehaha,0416,Initiated Measure 29,,No,,1075
-Minnehaha,0416,Referred Law 21,,Yes,,676
-Minnehaha,0416,Referred Law 21,,No,,4190
+Minnehaha,0416,Initiated Measure 29,,No,,675
+Minnehaha,0416,Referred Law 21,,Yes,,981
+Minnehaha,0416,Referred Law 21,,No,,490
 Minnehaha,0417,Initiated Measure 28,,Yes,,602
-Minnehaha,0417,Initiated Measure 28,,No,,1825
+Minnehaha,0417,Initiated Measure 28,,No,,1625
 Minnehaha,0417,Initiated Measure 29,,Yes,,973
 Minnehaha,0417,Initiated Measure 29,,No,,1289
 Minnehaha,0417,Referred Law 21,,Yes,,964
@@ -1986,8 +2487,8 @@ Minnehaha,0417,Referred Law 21,,No,,1178
 Minnehaha,0418,Initiated Measure 28,,Yes,,364
 Minnehaha,0418,Initiated Measure 28,,No,,835
 Minnehaha,0418,Initiated Measure 29,,Yes,,525
-Minnehaha,0418,Initiated Measure 29,,No,,508
-Minnehaha,0418,Referred Law 21,,Yes,,552
+Minnehaha,0418,Initiated Measure 29,,No,,688
+Minnehaha,0418,Referred Law 21,,Yes,,532
 Minnehaha,0418,Referred Law 21,,No,,608
 Minnehaha,0419,Initiated Measure 28,,Yes,,436
 Minnehaha,0419,Initiated Measure 28,,No,,579
@@ -1995,12 +2496,18 @@ Minnehaha,0419,Initiated Measure 29,,Yes,,572
 Minnehaha,0419,Initiated Measure 29,,No,,471
 Minnehaha,0419,Referred Law 21,,Yes,,529
 Minnehaha,0419,Referred Law 21,,No,,456
-Minnehaha,0502,Initiated Measure 28,,Yes,,327
-Minnehaha,0502,Initiated Measure 28,,No,,445
-Minnehaha,0502,Initiated Measure 29,,Yes,,525
-Minnehaha,0502,Initiated Measure 29,,No,,383
-Minnehaha,0502,Referred Law 21,,Yes,,491
-Minnehaha,0502,Referred Law 21,,No,,527
+Minnehaha,0501,Initiated Measure 28,,Yes,,527
+Minnehaha,0501,Initiated Measure 28,,No,,540
+Minnehaha,0501,Initiated Measure 29,,Yes,,765
+Minnehaha,0501,Initiated Measure 29,,No,,333
+Minnehaha,0501,Referred Law 21,,Yes,,491
+Minnehaha,0501,Referred Law 21,,No,,527
+Minnehaha,0502,Initiated Measure 28,,Yes,,295
+Minnehaha,0502,Initiated Measure 28,,No,,292
+Minnehaha,0502,Initiated Measure 29,,Yes,,419
+Minnehaha,0502,Initiated Measure 29,,No,,183
+Minnehaha,0502,Referred Law 21,,Yes,,308
+Minnehaha,0502,Referred Law 21,,No,,264
 Minnehaha,0503,Initiated Measure 28,,Yes,,186
 Minnehaha,0503,Initiated Measure 28,,No,,158
 Minnehaha,0503,Initiated Measure 29,,Yes,,254
@@ -2011,12 +2518,12 @@ Minnehaha,0504,Initiated Measure 28,,Yes,,557
 Minnehaha,0504,Initiated Measure 28,,No,,625
 Minnehaha,0504,Initiated Measure 29,,Yes,,794
 Minnehaha,0504,Initiated Measure 29,,No,,412
-Minnehaha,0504,Referred Law 21,,Yes,,459
+Minnehaha,0504,Referred Law 21,,Yes,,519
 Minnehaha,0504,Referred Law 21,,No,,616
 Minnehaha,0506,Initiated Measure 28,,Yes,,439
 Minnehaha,0506,Initiated Measure 28,,No,,641
 Minnehaha,0506,Initiated Measure 29,,Yes,,677
-Minnehaha,0506,Initiated Measure 29,,No,,433
+Minnehaha,0506,Initiated Measure 29,,No,,430
 Minnehaha,0506,Referred Law 21,,Yes,,463
 Minnehaha,0506,Referred Law 21,,No,,585
 Minnehaha,0507,Initiated Measure 28,,Yes,,249
@@ -2025,30 +2532,24 @@ Minnehaha,0507,Initiated Measure 29,,Yes,,382
 Minnehaha,0507,Initiated Measure 29,,No,,236
 Minnehaha,0507,Referred Law 21,,Yes,,249
 Minnehaha,0507,Referred Law 21,,No,,336
-Minnehaha,0508,Initiated Measure 28,,Yes,,389
+Minnehaha,0508,Initiated Measure 28,,Yes,,383
 Minnehaha,0508,Initiated Measure 28,,No,,576
 Minnehaha,0508,Initiated Measure 29,,Yes,,582
 Minnehaha,0508,Initiated Measure 29,,No,,395
 Minnehaha,0508,Referred Law 21,,Yes,,404
-Minnehaha,0508,Referred Law 21,,No,,410
-Minnehaha,0510,Initiated Measure 28,,Yes,,217
-Minnehaha,0510,Initiated Measure 28,,No,,273
-Minnehaha,0510,Initiated Measure 29,,Yes,,343
-Minnehaha,0510,Initiated Measure 29,,No,,154
-Minnehaha,0510,Referred Law 21,,Yes,,230
-Minnehaha,0510,Referred Law 21,,No,,237
-Minnehaha,0519,Initiated Measure 28,,Yes,,253
-Minnehaha,0519,Initiated Measure 28,,No,,373
-Minnehaha,0519,Initiated Measure 29,,Yes,,382
-Minnehaha,0519,Initiated Measure 29,,No,,260
-Minnehaha,0519,Referred Law 21,,Yes,,272
-Minnehaha,0519,Referred Law 21,,No,,328
-Minnehaha,0116,Initiated Measure 28,,Yes,,529
-Minnehaha,0116,Initiated Measure 28,,No,,781
-Minnehaha,0116,Initiated Measure 29,,Yes,,681
-Minnehaha,0116,Initiated Measure 29,,No,,657
-Minnehaha,0116,Referred Law 21,,Yes,,596
-Minnehaha,0116,Referred Law 21,,No,,664
+Minnehaha,0508,Referred Law 21,,No,,526
+Minnehaha,0509,Initiated Measure 28,,Yes,,217
+Minnehaha,0509,Initiated Measure 28,,No,,273
+Minnehaha,0509,Initiated Measure 29,,Yes,,343
+Minnehaha,0509,Initiated Measure 29,,No,,154
+Minnehaha,0509,Referred Law 21,,Yes,,230
+Minnehaha,0509,Referred Law 21,,No,,237
+Minnehaha,0510,Initiated Measure 28,,Yes,,253
+Minnehaha,0510,Initiated Measure 28,,No,,373
+Minnehaha,0510,Initiated Measure 29,,Yes,,382
+Minnehaha,0510,Initiated Measure 29,,No,,260
+Minnehaha,0510,Referred Law 21,,Yes,,272
+Minnehaha,0510,Referred Law 21,,No,,328
 Minnehaha,0512,Initiated Measure 28,,Yes,,560
 Minnehaha,0512,Initiated Measure 28,,No,,838
 Minnehaha,0512,Initiated Measure 29,,Yes,,852
@@ -2057,7 +2558,145 @@ Minnehaha,0512,Referred Law 21,,Yes,,575
 Minnehaha,0512,Referred Law 21,,No,,767
 Minnehaha,0515,Initiated Measure 28,,Yes,,196
 Minnehaha,0515,Initiated Measure 28,,No,,263
-Minnehaha,0515,Initiated Measure 29,,Yes,,214
+Minnehaha,0515,Initiated Measure 29,,Yes,,326
 Minnehaha,0515,Initiated Measure 29,,No,,143
 Minnehaha,0515,Referred Law 21,,Yes,,214
 Minnehaha,0515,Referred Law 21,,No,,227
+Minnehaha,0516,Initiated Measure 28,,Yes,,323
+Minnehaha,0516,Initiated Measure 28,,No,,385
+Minnehaha,0516,Initiated Measure 29,,Yes,,440
+Minnehaha,0516,Initiated Measure 29,,No,,298
+Minnehaha,0516,Referred Law 21,,Yes,,459
+Minnehaha,0516,Referred Law 21,,No,,231
+Minnehaha,0518,Initiated Measure 28,,Yes,,571
+Minnehaha,0518,Initiated Measure 28,,No,,600
+Minnehaha,0518,Initiated Measure 29,,Yes,,761
+Minnehaha,0518,Initiated Measure 29,,No,,441
+Minnehaha,0518,Referred Law 21,,Yes,,588
+Minnehaha,0518,Referred Law 21,,No,,541
+Minnehaha,0519,Initiated Measure 28,,Yes,,430
+Minnehaha,0519,Initiated Measure 28,,No,,719
+Minnehaha,0519,Initiated Measure 29,,Yes,,609
+Minnehaha,0519,Initiated Measure 29,,No,,565
+Minnehaha,0519,Referred Law 21,,Yes,,510
+Minnehaha,0519,Referred Law 21,,No,,594
+Minnehaha,0520,Initiated Measure 28,,Yes,,423
+Minnehaha,0520,Initiated Measure 28,,No,,553
+Minnehaha,0520,Initiated Measure 29,,Yes,,621
+Minnehaha,0520,Initiated Measure 29,,No,,381
+Minnehaha,0520,Referred Law 21,,Yes,,446
+Minnehaha,0520,Referred Law 21,,No,,485
+Minnehaha,0521,Initiated Measure 28,,Yes,,348
+Minnehaha,0521,Initiated Measure 28,,No,,509
+Minnehaha,0521,Initiated Measure 29,,Yes,,537
+Minnehaha,0521,Initiated Measure 29,,No,,345
+Minnehaha,0521,Referred Law 21,,Yes,,409
+Minnehaha,0521,Referred Law 21,,No,,412
+Minnehaha,0522,Initiated Measure 28,,Yes,,508
+Minnehaha,0522,Initiated Measure 28,,No,,535
+Minnehaha,0522,Initiated Measure 29,,Yes,,739
+Minnehaha,0522,Initiated Measure 29,,No,,323
+Minnehaha,0522,Referred Law 21,,Yes,,480
+Minnehaha,0522,Referred Law 21,,No,,518
+Minnehaha,0523,Initiated Measure 28,,Yes,,376
+Minnehaha,0523,Initiated Measure 28,,No,,424
+Minnehaha,0523,Initiated Measure 29,,Yes,,563
+Minnehaha,0523,Initiated Measure 29,,No,,253
+Minnehaha,0523,Referred Law 21,,Yes,,407
+Minnehaha,0523,Referred Law 21,,No,,360
+Minnehaha,VP01,Initiated Measure 28,,Yes,,195
+Minnehaha,VP01,Initiated Measure 28,,No,,664
+Minnehaha,VP01,Initiated Measure 29,,Yes,,384
+Minnehaha,VP01,Initiated Measure 29,,No,,476
+Minnehaha,VP01,Referred Law 21,,Yes,,201
+Minnehaha,VP01,Referred Law 21,,No,,647
+Minnehaha,VP02,Initiated Measure 28,,Yes,,340
+Minnehaha,VP02,Initiated Measure 28,,No,,1109
+Minnehaha,VP02,Initiated Measure 29,,Yes,,537
+Minnehaha,VP02,Initiated Measure 29,,No,,934
+Minnehaha,VP02,Referred Law 21,,Yes,,505
+Minnehaha,VP02,Referred Law 21,,No,,896
+Minnehaha,VP03,Initiated Measure 28,,Yes,,443
+Minnehaha,VP03,Initiated Measure 28,,No,,1479
+Minnehaha,VP03,Initiated Measure 29,,Yes,,839
+Minnehaha,VP03,Initiated Measure 29,,No,,1112
+Minnehaha,VP03,Referred Law 21,,Yes,,771
+Minnehaha,VP03,Referred Law 21,,No,,1076
+Minnehaha,VP04,Initiated Measure 28,,Yes,,285
+Minnehaha,VP04,Initiated Measure 28,,No,,797
+Minnehaha,VP04,Initiated Measure 29,,Yes,,467
+Minnehaha,VP04,Initiated Measure 29,,No,,635
+Minnehaha,VP04,Referred Law 21,,Yes,,355
+Minnehaha,VP04,Referred Law 21,,No,,703
+Minnehaha,VP05,Initiated Measure 28,,Yes,,473
+Minnehaha,VP05,Initiated Measure 28,,No,,1555
+Minnehaha,VP05,Initiated Measure 29,,Yes,,934
+Minnehaha,VP05,Initiated Measure 29,,No,,1128
+Minnehaha,VP05,Referred Law 21,,Yes,,821
+Minnehaha,VP05,Referred Law 21,,No,,1114
+Minnehaha,VP06,Initiated Measure 28,,Yes,,125
+Minnehaha,VP06,Initiated Measure 28,,No,,325
+Minnehaha,VP06,Initiated Measure 29,,Yes,,200
+Minnehaha,VP06,Initiated Measure 29,,No,,259
+Minnehaha,VP06,Referred Law 21,,Yes,,153
+Minnehaha,VP06,Referred Law 21,,No,,284
+Minnehaha,VP07,Initiated Measure 28,,Yes,,566
+Minnehaha,VP07,Initiated Measure 28,,No,,1428
+Minnehaha,VP07,Initiated Measure 29,,Yes,,952
+Minnehaha,VP07,Initiated Measure 29,,No,,1103
+Minnehaha,VP07,Referred Law 21,,Yes,,714
+Minnehaha,VP07,Referred Law 21,,No,,1245
+Minnehaha,VP08,Initiated Measure 28,,Yes,,179
+Minnehaha,VP08,Initiated Measure 28,,No,,749
+Minnehaha,VP08,Initiated Measure 29,,Yes,,324
+Minnehaha,VP08,Initiated Measure 29,,No,,620
+Minnehaha,VP08,Referred Law 21,,Yes,,205
+Minnehaha,VP08,Referred Law 21,,No,,722
+Minnehaha,VP09,Initiated Measure 28,,Yes,,432
+Minnehaha,VP09,Initiated Measure 28,,No,,1142
+Minnehaha,VP09,Initiated Measure 29,,Yes,,697
+Minnehaha,VP09,Initiated Measure 29,,No,,908
+Minnehaha,VP09,Referred Law 21,,Yes,,544
+Minnehaha,VP09,Referred Law 21,,No,,1009
+Minnehaha,VP10,Initiated Measure 28,,Yes,,416
+Minnehaha,VP10,Initiated Measure 28,,No,,1173
+Minnehaha,VP10,Initiated Measure 29,,Yes,,690
+Minnehaha,VP10,Initiated Measure 29,,No,,920
+Minnehaha,VP10,Referred Law 21,,Yes,,425
+Minnehaha,VP10,Referred Law 21,,No,,1133
+Minnehaha,VP11,Initiated Measure 28,,Yes,,92
+Minnehaha,VP11,Initiated Measure 28,,No,,421
+Minnehaha,VP11,Initiated Measure 29,,Yes,,145
+Minnehaha,VP11,Initiated Measure 29,,No,,374
+Minnehaha,VP11,Referred Law 21,,Yes,,110
+Minnehaha,VP11,Referred Law 21,,No,,407
+Minnehaha,VP13,Initiated Measure 28,,Yes,,225
+Minnehaha,VP13,Initiated Measure 28,,No,,797
+Minnehaha,VP13,Initiated Measure 29,,Yes,,353
+Minnehaha,VP13,Initiated Measure 29,,No,,684
+Minnehaha,VP13,Referred Law 21,,Yes,,274
+Minnehaha,VP13,Referred Law 21,,No,,721
+Minnehaha,VP15,Initiated Measure 28,,Yes,,529
+Minnehaha,VP15,Initiated Measure 28,,No,,1508
+Minnehaha,VP15,Initiated Measure 29,,Yes,,929
+Minnehaha,VP15,Initiated Measure 29,,No,,1142
+Minnehaha,VP15,Referred Law 21,,Yes,,802
+Minnehaha,VP15,Referred Law 21,,No,,1150
+Minnehaha,VP16,Initiated Measure 28,,Yes,,277
+Minnehaha,VP16,Initiated Measure 28,,No,,935
+Minnehaha,VP16,Initiated Measure 29,,Yes,,493
+Minnehaha,VP16,Initiated Measure 29,,No,,738
+Minnehaha,VP16,Referred Law 21,,Yes,,389
+Minnehaha,VP16,Referred Law 21,,No,,781
+Minnehaha,VP17,Initiated Measure 28,,Yes,,138
+Minnehaha,VP17,Initiated Measure 28,,No,,600
+Minnehaha,VP17,Initiated Measure 29,,Yes,,244
+Minnehaha,VP17,Initiated Measure 29,,No,,508
+Minnehaha,VP17,Referred Law 21,,Yes,,192
+Minnehaha,VP17,Referred Law 21,,No,,548
+Minnehaha,VP21,Initiated Measure 28,,Yes,,500
+Minnehaha,VP21,Initiated Measure 28,,No,,1487
+Minnehaha,VP21,Initiated Measure 29,,Yes,,813
+Minnehaha,VP21,Initiated Measure 29,,No,,1219
+Minnehaha,VP21,Referred Law 21,,Yes,,558
+Minnehaha,VP21,Referred Law 21,,No,,1393

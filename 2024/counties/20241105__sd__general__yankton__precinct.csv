@@ -1,42 +1,32 @@
 county,precinct,office,district,candidate,party,votes
 Yankton,Absentee Precinct,President,,Kamala D. Harris and Tim Walz,DEM,2531
-Yankton,Gavaille Community Center,President,,Kamala D. Harris and Tim Walz,DEM,99
-Yankton,Lesterville Fire Hall,President,,Kamala D. Harris and Tim Walz,DEM,42
-Yankton,Lewis and Clark Recreation Area,President,,Kamala D. Harris and Tim Walz,DEM,120
-Yankton,Mayfield Store,President,,Kamala D. Harris and Tim Walz,DEM,74
-Yankton,Yankton City Hall,President,,Kamala D. Harris and Tim Walz,DEM,470
-Yankton,Yankton Fire Station #2,President,,Kamala D. Harris and Tim Walz,DEM,547
-Yankton,Absentee Precinct,President,,Chase Oliver and Mike Ter Maat,LIB,35
-Yankton,Gavaille Community Center,President,,Chase Oliver and Mike Ter Maat,LIB,3
-Yankton,Lesterville Fire Hall,President,,Chase Oliver and Mike Ter Maat,LIB,3
-Yankton,Lewis and Clark Recreation Area,President,,Chase Oliver and Mike Ter Maat,LIB,2
-Yankton,Mayfield Store,President,,Chase Oliver and Mike Ter Maat,LIB,4
-Yankton,Yankton City Hall,President,,Chase Oliver and Mike Ter Maat,LIB,18
-Yankton,Yankton Fire Station #2,President,,Chase Oliver and Mike Ter Maat,LIB,15
-Yankton,Absentee Precinct,President,,Donald J. Trump and JD Vance,REP,3416
-Yankton,Gavaille Community Center,President,,Donald J. Trump and JD Vance,REP,269
-Yankton,Lesterville Fire Hall,President,,Donald J. Trump and JD Vance,REP,240
-Yankton,Lewis and Clark Recreation Area,President,,Donald J. Trump and JD Vance,REP,322
-Yankton,Mayfield Store,President,,Donald J. Trump and JD Vance,REP,320
-Yankton,Yankton City Hall,President,,Donald J. Trump and JD Vance,REP,914
-Yankton,Yankton Fire Station #2,President,,Donald J. Trump and JD Vance,REP,1269
-Yankton,Absentee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,95
-Yankton,Gavaille Community Center,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
-Yankton,Lesterville Fire Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Yankton,Lewis and Clark Recreation Area,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
-Yankton,Mayfield Store,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Yankton,Yankton City Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,46
-Yankton,Yankton Fire Station #2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,47
 Yankton,Absentee Precinct,President,,Chase Oliver and Mike ter Maat,LIB,35
-Yankton,Gayville Community Center,President,,Kamala D. Harris and Tim Walz,DEM,99
-Yankton,Gayville Community Center,President,,Chase Oliver and Mike ter Maat,LIB,2
-Yankton,Gayville Community Center,President,,Donald J. Trump and JD Vance,REP,269
-Yankton,Gayville Community Center,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Yankton,Absentee Precinct,President,,Donald J. Trump and JD Vance,REP,3416
+Yankton,Absentee Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,95
+Yankton,Gavville Community Center,President,,Kamala D. Harris and Tim Walz,DEM,99
+Yankton,Gavville Community Center,President,,Chase Oliver and Mike ter Maat,LIB,2
+Yankton,Gavville Community Center,President,,Donald J. Trump and JD Vance,REP,269
+Yankton,Gavville Community Center,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Yankton,Lesterville Fire Hall,President,,Kamala D. Harris and Tim Walz,DEM,42
 Yankton,Lesterville Fire Hall,President,,Chase Oliver and Mike ter Maat,LIB,3
+Yankton,Lesterville Fire Hall,President,,Donald J. Trump and JD Vance,REP,240
+Yankton,Lesterville Fire Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Yankton,Lewis and Clark Recreation Area,President,,Kamala D. Harris and Tim Walz,DEM,120
 Yankton,Lewis and Clark Recreation Area,President,,Chase Oliver and Mike ter Maat,LIB,2
+Yankton,Lewis and Clark Recreation Area,President,,Donald J. Trump and JD Vance,REP,322
+Yankton,Lewis and Clark Recreation Area,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
+Yankton,Mayfield Store,President,,Kamala D. Harris and Tim Walz,DEM,74
 Yankton,Mayfield Store,President,,Chase Oliver and Mike ter Maat,LIB,4
+Yankton,Mayfield Store,President,,Donald J. Trump and JD Vance,REP,220
+Yankton,Mayfield Store,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Yankton,Yankton City Hall,President,,Kamala D. Harris and Tim Walz,DEM,470
 Yankton,Yankton City Hall,President,,Chase Oliver and Mike ter Maat,LIB,18
+Yankton,Yankton City Hall,President,,Donald J. Trump and JD Vance,REP,914
+Yankton,Yankton City Hall,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,46
+Yankton,Yankton Fire Station #2,President,,Kamala D. Harris and Tim Walz,DEM,547
 Yankton,Yankton Fire Station #2,President,,Chase Oliver and Mike ter Maat,LIB,15
+Yankton,Yankton Fire Station #2,President,,Donald J. Trump and JD Vance,REP,1269
+Yankton,Yankton Fire Station #2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,47
 Yankton,Absentee Precinct,U.S. House,1,Sheryl Johnson,DEM,1982
 Yankton,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,3987
 Yankton,Gayville Community Center,U.S. House,1,Sheryl Johnson,DEM,73
@@ -72,69 +62,62 @@ Yankton,Yankton City Hall,Public Utilities Commissioner,,Kristie Fiegen,REP,854
 Yankton,Yankton Fire Station #2,Public Utilities Commissioner,,Forrest Wilson,DEM,381
 Yankton,Yankton Fire Station #2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,103
 Yankton,Yankton Fire Station #2,Public Utilities Commissioner,,Kristie Fiegen,REP,1213
-Yankton,Absentee Precinct,State Senate,18,Sarah Cardal,DEM,2732
+Yankton,Absentee Precinct,State Senate,18,Sarah Carda,DEM,2732
 Yankton,Absentee Precinct,State Senate,18,Lauren Nelson,REP,3184
-Yankton,Gayville Community Center,State Senate,18,Sarah Cardal,DEM,112
+Yankton,Gayville Community Center,State Senate,18,Sarah Carda,DEM,112
 Yankton,Gayville Community Center,State Senate,18,Lauren Nelson,REP,253
-Yankton,Lesterville Fire Hall,State Senate,18,Sarah Cardal,DEM,67
+Yankton,Lesterville Fire Hall,State Senate,18,Sarah Carda,DEM,67
 Yankton,Lesterville Fire Hall,State Senate,18,Lauren Nelson,REP,213
-Yankton,Lewis and Clark Recreation Area,State Senate,18,Sarah Cardal,DEM,150
+Yankton,Lewis and Clark Recreation Area,State Senate,18,Sarah Carda,DEM,150
 Yankton,Lewis and Clark Recreation Area,State Senate,18,Lauren Nelson,REP,281
-Yankton,Mayfield Store,State Senate,18,Sarah Cardal,DEM,85
+Yankton,Mayfield Store,State Senate,18,Sarah Carda,DEM,85
 Yankton,Mayfield Store,State Senate,18,Lauren Nelson,REP,201
-Yankton,Yankton City Hall,State Senate,18,Sarah Cardal,DEM,609
+Yankton,Yankton City Hall,State Senate,18,Sarah Carda,DEM,609
 Yankton,Yankton City Hall,State Senate,18,Lauren Nelson,REP,767
-Yankton,Yankton Fire Station #2,State Senate,18,Sarah Cardal,DEM,764
+Yankton,Yankton Fire Station #2,State Senate,18,Sarah Carda,DEM,764
 Yankton,Yankton Fire Station #2,State Senate,18,Lauren Nelson,REP,1046
-Yankton,Absentee Precinct,State Senate,18,Sarah Carad,DEM,2732
-Yankton,Gayville Community Center,State Senate,18,Sarah Carad,DEM,112
-Yankton,Lesterville Fire Hall,State Senate,18,Sarah Carad,DEM,67
-Yankton,Lewis and Clark Recreation Area,State Senate,18,Sarah Carad,DEM,150
-Yankton,Mayfield Store,State Senate,18,Sarah Carad,DEM,85
-Yankton,Yankton City Hall,State Senate,18,Sarah Carad,DEM,609
-Yankton,Yankton Fire Station #2,State Senate,18,Sarah Carad,DEM,764
-Yankton,Absentee Precinct,State House,18,Paul Harens,DEM,2480
+Yankton,Absentee Precinct,State House,18,Paul Harens,REP,2480
 Yankton,Absentee Precinct,State House,18,Sarah Mechtenberg,DEM,1404
 Yankton,Absentee Precinct,State House,18,Mike Stevens,REP,3655
-Yankton,Absentee Precinct,State House,18,Julie Auch,REP,3138
-Yankton,Gayville Community Center,State House,18,Paul Harens,DEM,100
+Yankton,Absentee Precinct,State House,18,Julie Auch,DEM,3138
+Yankton,Gayville Community Center,State House,18,Paul Harens,REP,100
 Yankton,Gayville Community Center,State House,18,Sarah Mechtenberg,DEM,59
 Yankton,Gayville Community Center,State House,18,Mike Stevens,REP,230
-Yankton,Gayville Community Center,State House,18,Julie Auch,REP,244
-Yankton,Lesterville Fire Hall,State House,18,Paul Harens,DEM,53
+Yankton,Gayville Community Center,State House,18,Julie Auch,DEM,244
+Yankton,Lesterville Fire Hall,State House,18,Paul Harens,REP,53
 Yankton,Lesterville Fire Hall,State House,18,Sarah Mechtenberg,DEM,25
 Yankton,Lesterville Fire Hall,State House,18,Mike Stevens,REP,185
-Yankton,Lesterville Fire Hall,State House,18,Julie Auch,REP,224
-Yankton,Lewis and Clark Recreation Area,State House,18,Paul Harens,DEM,118
+Yankton,Lesterville Fire Hall,State House,18,Julie Auch,DEM,224
+Yankton,Lewis and Clark Recreation Area,State House,18,Paul Harens,REP,118
 Yankton,Lewis and Clark Recreation Area,State House,18,Sarah Mechtenberg,DEM,56
 Yankton,Lewis and Clark Recreation Area,State House,18,Mike Stevens,REP,302
-Yankton,Lewis and Clark Recreation Area,State House,18,Julie Auch,REP,299
-Yankton,Mayfield Store,State House,18,Paul Harens,DEM,68
+Yankton,Lewis and Clark Recreation Area,State House,18,Julie Auch,DEM,299
+Yankton,Mayfield Store,State House,18,Paul Harens,REP,68
 Yankton,Mayfield Store,State House,18,Sarah Mechtenberg,DEM,46
 Yankton,Mayfield Store,State House,18,Mike Stevens,REP,152
-Yankton,Mayfield Store,State House,18,Julie Auch,REP,215
-Yankton,Yankton City Hall,State House,18,Paul Harens,DEM,527
+Yankton,Mayfield Store,State House,18,Julie Auch,DEM,215
+Yankton,Yankton City Hall,State House,18,Paul Harens,REP,527
 Yankton,Yankton City Hall,State House,18,Sarah Mechtenberg,DEM,279
 Yankton,Yankton City Hall,State House,18,Mike Stevens,REP,909
-Yankton,Yankton City Hall,State House,18,Julie Auch,REP,713
-Yankton,Yankton Fire Station #2,State House,18,Paul Harens,DEM,654
+Yankton,Yankton City Hall,State House,18,Julie Auch,DEM,713
+Yankton,Yankton Fire Station #2,State House,18,Paul Harens,REP,654
 Yankton,Yankton Fire Station #2,State House,18,Sarah Mechtenberg,DEM,286
 Yankton,Yankton Fire Station #2,State House,18,Mike Stevens,REP,1224
-Yankton,Yankton Fire Station #2,State House,18,Julie Auch,REP,1048
-Yankton,Absentee Precinct,Supreme Court Retention,,Yes,,3841
-Yankton,Absentee Precinct,Supreme Court Retention,,No,,1079
-Yankton,Gayville Community Center,Supreme Court Retention,,Yes,,250
-Yankton,Gayville Community Center,Supreme Court Retention,,No,,66
-Yankton,Lesterville Fire Hall,Supreme Court Retention,,Yes,,185
-Yankton,Lesterville Fire Hall,Supreme Court Retention,,No,,42
-Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,,Yes,,290
-Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,,No,,84
-Yankton,Mayfield Store,Supreme Court Retention,,Yes,,185
-Yankton,Mayfield Store,Supreme Court Retention,,No,,45
-Yankton,Yankton City Hall,Supreme Court Retention,,Yes,,907
-Yankton,Yankton City Hall,Supreme Court Retention,,No,,278
-Yankton,Yankton Fire Station #2,Supreme Court Retention,,Yes,,1211
-Yankton,Yankton Fire Station #2,Supreme Court Retention,,No,,336
+Yankton,Yankton Fire Station #2,State House,18,Julie Auch,DEM,1048
+Yankton,Absentee Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,3841
+Yankton,Absentee Precinct,Supreme Court Retention,5,Scott P. Myren - No,,1079
+Yankton,Gayville Community Center,Supreme Court Retention,5,Scott P. Myren - Yes,,250
+Yankton,Gayville Community Center,Supreme Court Retention,5,Scott P. Myren - No,,66
+Yankton,Lesterville Fire Hall,Supreme Court Retention,5,Scott P. Myren - Yes,,185
+Yankton,Lesterville Fire Hall,Supreme Court Retention,5,Scott P. Myren - No,,42
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,5,Scott P. Myren - Yes,,290
+Yankton,Lewis and Clark Recreation Area,Supreme Court Retention,5,Scott P. Myren - No,,84
+Yankton,Mayfield Store,Supreme Court Retention,5,Scott P. Myren - Yes,,185
+Yankton,Mayfield Store,Supreme Court Retention,5,Scott P. Myren - No,,45
+Yankton,Yankton City Hall,Supreme Court Retention,5,Scott P. Myren - Yes,,907
+Yankton,Yankton City Hall,Supreme Court Retention,5,Scott P. Myren - No,,278
+Yankton,Yankton Fire Station #2,Supreme Court Retention,5,Scott P. Myren - Yes,,1211
+Yankton,Yankton Fire Station #2,Supreme Court Retention,5,Scott P. Myren - No,,336
 Yankton,Absentee Precinct,Constitutional Amendment E,,Yes,,2837
 Yankton,Absentee Precinct,Constitutional Amendment E,,No,,3135
 Yankton,Absentee Precinct,Constitutional Amendment F,,Yes,,3274

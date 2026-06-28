@@ -1,80 +1,43 @@
 county,precinct,office,district,candidate,party,votes
 Perkins,01,President,,Kamala D. Harris and Tim Walz,DEM,50
-Perkins,01,President,,Chase Oliver and Mike ter Maat,LIB,0
+Perkins,01,President,,Chase Oliver and Mike ter Maat,LIB,1
 Perkins,01,President,,Donald J. Trump and JD Vance,REP,216
-Perkins,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
+Perkins,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Perkins,02,President,,Kamala D. Harris and Tim Walz,DEM,16
 Perkins,02,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,02,President,,Donald J. Trump and JD Vance,REP,87
-Perkins,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Perkins,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,03,President,,Kamala D. Harris and Tim Walz,DEM,45
-Perkins,03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Perkins,03,President,,Chase Oliver and Mike ter Maat,LIB,1
 Perkins,03,President,,Donald J. Trump and JD Vance,REP,237
-Perkins,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Perkins,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Perkins,04,President,,Kamala D. Harris and Tim Walz,DEM,10
 Perkins,04,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,04,President,,Donald J. Trump and JD Vance,REP,49
-Perkins,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
+Perkins,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Perkins,05,President,,Kamala D. Harris and Tim Walz,DEM,18
 Perkins,05,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,05,President,,Donald J. Trump and JD Vance,REP,127
-Perkins,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Perkins,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,06,President,,Kamala D. Harris and Tim Walz,DEM,18
 Perkins,06,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,06,President,,Donald J. Trump and JD Vance,REP,105
-Perkins,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Perkins,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,07,President,,Kamala D. Harris and Tim Walz,DEM,8
-Perkins,07,President,,Chase Oliver and Mike ter Maat,LIB,0
+Perkins,07,President,,Chase Oliver and Mike ter Maat,LIB,1
 Perkins,07,President,,Donald J. Trump and JD Vance,REP,119
-Perkins,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,0
+Perkins,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Perkins,08,President,,Kamala D. Harris and Tim Walz,DEM,4
 Perkins,08,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,08,President,,Donald J. Trump and JD Vance,REP,60
-Perkins,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,0
+Perkins,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Perkins,09,President,,Kamala D. Harris and Tim Walz,DEM,7
 Perkins,09,President,,Chase Oliver and Mike ter Maat,LIB,0
 Perkins,09,President,,Donald J. Trump and JD Vance,REP,81
-Perkins,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
+Perkins,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,12,President,,Kamala D. Harris and Tim Walz,DEM,52
 Perkins,12,President,,Chase Oliver and Mike ter Maat,LIB,1
 Perkins,12,President,,Donald J. Trump and JD Vance,REP,261
-Perkins,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,1
-Perkins,1,President,,Kamala D. Harris and Tim Walz,DEM,50
-Perkins,1,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,1,President,,Donald J. Trump and JD Vance,REP,216
-Perkins,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Perkins,2,President,,Kamala D. Harris and Tim Walz,DEM,16
-Perkins,2,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,2,President,,Donald J. Trump and JD Vance,REP,87
-Perkins,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Perkins,3,President,,Kamala D. Harris and Tim Walz,DEM,45
-Perkins,3,President,,Chase Oliver and Mike ter Maat,LIB,1
-Perkins,3,President,,Donald J. Trump and JD Vance,REP,237
-Perkins,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Perkins,4,President,,Kamala D. Harris and Tim Walz,DEM,10
-Perkins,4,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,4,President,,Donald J. Trump and JD Vance,REP,49
-Perkins,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Perkins,5,President,,Kamala D. Harris and Tim Walz,DEM,18
-Perkins,5,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,5,President,,Donald J. Trump and JD Vance,REP,127
-Perkins,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Perkins,6,President,,Kamala D. Harris and Tim Walz,DEM,18
-Perkins,6,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,6,President,,Donald J. Trump and JD Vance,REP,105
-Perkins,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Perkins,7,President,,Kamala D. Harris and Tim Walz,DEM,8
-Perkins,7,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,7,President,,Donald J. Trump and JD Vance,REP,119
-Perkins,7,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Perkins,8,President,,Kamala D. Harris and Tim Walz,DEM,4
-Perkins,8,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,8,President,,Donald J. Trump and JD Vance,REP,60
-Perkins,8,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Perkins,9,President,,Kamala D. Harris and Tim Walz,DEM,7
-Perkins,9,President,,Chase Oliver and Mike ter Maat,LIB,0
-Perkins,9,President,,Donald J. Trump and JD Vance,REP,81
-Perkins,9,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Perkins,01,U.S. House,1,Sheryl Johnson,DEM,46
 Perkins,01,U.S. House,1,Dusty Johnson,REP,227
@@ -117,7 +80,7 @@ Perkins,06,Public Utilities Commissioner,,Kristie Fiegen,REP,101
 Perkins,07,Public Utilities Commissioner,,Forrest Wilson,DEM,4
 Perkins,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Perkins,07,Public Utilities Commissioner,,Kristie Fiegen,REP,116
-Perkins,08,Public Utilities Commissioner,,Forrest Wilson,DEM,4
+Perkins,08,Public Utilities Commissioner,,Forrest Wilson,DEM,1
 Perkins,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Perkins,08,Public Utilities Commissioner,,Kristie Fiegen,REP,52
 Perkins,09,Public Utilities Commissioner,,Forrest Wilson,DEM,5
@@ -156,242 +119,121 @@ Perkins,09,State Senate,28,Shane C. Farlee,IND,4
 Perkins,12,State Senate,28,Dean Schrempp,DEM,42
 Perkins,12,State Senate,28,Sam Marty,REP,256
 Perkins,12,State Senate,28,Shane C. Farlee,IND,15
-Perkins,01,State House,28A,Carl J. Petersen,DEM,0
-Perkins,01,State House,28A,Dana Hunt,REP,203
-Perkins,01,State House,28B,Travis Ismay,REP,0
-Perkins,02,State House,28A,Carl J. Petersen,DEM,0
-Perkins,02,State House,28A,Dana Hunt,REP,90
-Perkins,02,State House,28B,Travis Ismay,REP,0
-Perkins,03,State House,28A,Carl J. Petersen,DEM,0
-Perkins,03,State House,28A,Dana Hunt,REP,235
-Perkins,03,State House,28B,Travis Ismay,REP,0
-Perkins,04,State House,28A,Carl J. Petersen,DEM,0
-Perkins,04,State House,28A,Dana Hunt,REP,51
-Perkins,04,State House,28B,Travis Ismay,REP,0
-Perkins,05,State House,28A,Carl J. Petersen,DEM,0
-Perkins,05,State House,28A,Dana Hunt,REP,122
-Perkins,05,State House,28B,Travis Ismay,REP,0
-Perkins,06,State House,28A,Carl J. Petersen,DEM,14
-Perkins,06,State House,28A,Dana Hunt,REP,108
-Perkins,06,State House,28B,Travis Ismay,REP,0
-Perkins,07,State House,28A,Carl J. Petersen,DEM,4
-Perkins,07,State House,28A,Dana Hunt,REP,123
-Perkins,07,State House,28B,Travis Ismay,REP,0
-Perkins,08,State House,28A,Carl J. Petersen,DEM,6
-Perkins,08,State House,28A,Dana Hunt,REP,50
-Perkins,08,State House,28B,Travis Ismay,REP,0
-Perkins,09,State House,28A,Carl J. Petersen,DEM,6
-Perkins,09,State House,28A,Dana Hunt,REP,79
-Perkins,09,State House,28B,Travis Ismay,REP,0
-Perkins,12,State House,28A,Carl J. Petersen,DEM,48
-Perkins,12,State House,28A,Dana Hunt,REP,262
-Perkins,12,State House,28B,Travis Ismay,REP,701
-Perkins,1,State House,28A,Carl J. Petersen,DEM,78
-Perkins,1,State House,28A,Dana Hunt,REP,203
-Perkins,1,State House,28B,Travis Ismay,REP,0
-Perkins,2,State House,28A,Carl J. Petersen,DEM,0
-Perkins,2,State House,28A,Dana Hunt,REP,90
-Perkins,2,State House,28B,Travis Ismay,REP,0
-Perkins,3,State House,28A,Carl J. Petersen,DEM,0
-Perkins,3,State House,28A,Dana Hunt,REP,235
-Perkins,3,State House,28B,Travis Ismay,REP,0
-Perkins,4,State House,28A,Carl J. Petersen,DEM,0
-Perkins,4,State House,28A,Dana Hunt,REP,51
-Perkins,4,State House,28B,Travis Ismay,REP,0
-Perkins,5,State House,28A,Carl J. Petersen,DEM,0
-Perkins,5,State House,28A,Dana Hunt,REP,122
-Perkins,5,State House,28B,Travis Ismay,REP,0
-Perkins,6,State House,28A,Carl J. Petersen,DEM,14
-Perkins,6,State House,28A,Dana Hunt,REP,108
-Perkins,6,State House,28B,Travis Ismay,REP,0
-Perkins,7,State House,28A,Carl J. Petersen,DEM,4
-Perkins,7,State House,28A,Dana Hunt,REP,123
-Perkins,7,State House,28B,Travis Ismay,REP,0
-Perkins,8,State House,28A,Carl J. Petersen,DEM,6
-Perkins,8,State House,28A,Dana Hunt,REP,50
-Perkins,8,State House,28B,Travis Ismay,REP,0
-Perkins,9,State House,28A,Carl J. Petersen,DEM,6
-Perkins,9,State House,28A,Dana Hunt,REP,79
-Perkins,9,State House,28B,Travis Ismay,REP,0
-Perkins,1,Supreme Court Retention,,Yes,,194
-Perkins,1,Supreme Court Retention,,No,,33
-Perkins,2,Supreme Court Retention,,Yes,,69
-Perkins,2,Supreme Court Retention,,No,,18
-Perkins,3,Supreme Court Retention,,Yes,,206
-Perkins,3,Supreme Court Retention,,No,,33
-Perkins,4,Supreme Court Retention,,Yes,,38
-Perkins,4,Supreme Court Retention,,No,,10
-Perkins,5,Supreme Court Retention,,Yes,,81
-Perkins,5,Supreme Court Retention,,No,,7
-Perkins,6,Supreme Court Retention,,Yes,,71
-Perkins,6,Supreme Court Retention,,No,,16
-Perkins,7,Supreme Court Retention,,Yes,,187
-Perkins,7,Supreme Court Retention,,No,,46
-Perkins,8,Supreme Court Retention,,Yes,,58
-Perkins,8,Supreme Court Retention,,No,,10
-Perkins,9,Supreme Court Retention,,Yes,,50
-Perkins,9,Supreme Court Retention,,No,,13
-Perkins,12,Supreme Court Retention,,Yes,,193
-Perkins,12,Supreme Court Retention,,No,,43
-Perkins,01,Supreme Court Retention,,Justice Scott P. Myren,,194
-Perkins,01,Supreme Court Retention,,No,,33
-Perkins,02,Supreme Court Retention,,Justice Scott P. Myren,,69
-Perkins,02,Supreme Court Retention,,No,,31
-Perkins,03,Supreme Court Retention,,Justice Scott P. Myren,,206
-Perkins,03,Supreme Court Retention,,No,,33
-Perkins,04,Supreme Court Retention,,Justice Scott P. Myren,,38
-Perkins,04,Supreme Court Retention,,No,,10
-Perkins,05,Supreme Court Retention,,Justice Scott P. Myren,,81
-Perkins,05,Supreme Court Retention,,No,,17
-Perkins,06,Supreme Court Retention,,Justice Scott P. Myren,,71
-Perkins,06,Supreme Court Retention,,No,,6
-Perkins,07,Supreme Court Retention,,Justice Scott P. Myren,,77
-Perkins,07,Supreme Court Retention,,No,,13
-Perkins,08,Supreme Court Retention,,Justice Scott P. Myren,,81
-Perkins,08,Supreme Court Retention,,No,,20
-Perkins,09,Supreme Court Retention,,Justice Scott P. Myren,,50
-Perkins,09,Supreme Court Retention,,No,,13
-Perkins,12,Supreme Court Retention,,Justice Scott P. Myren,,193
+Perkins,01,State House,28B,Travis Ismay,REP,203
+Perkins,02,State House,28B,Travis Ismay,REP,90
+Perkins,03,State House,28B,Travis Ismay,REP,235
+Perkins,04,State House,28B,Travis Ismay,REP,51
+Perkins,05,State House,28B,Travis Ismay,REP,122
+Perkins,06,State House,28A,Carl J. Petersen,REP,14
+Perkins,06,State House,28A,Jana Hunt,DEM,108
+Perkins,07,State House,28A,Carl J. Petersen,REP,4
+Perkins,07,State House,28A,Jana Hunt,DEM,123
+Perkins,08,State House,28A,Carl J. Petersen,REP,6
+Perkins,08,State House,28A,Jana Hunt,DEM,50
+Perkins,09,State House,28A,Carl J. Petersen,REP,6
+Perkins,09,State House,28A,Jana Hunt,DEM,79
+Perkins,12,State House,28A,Carl J. Petersen,REP,48
+Perkins,12,State House,28A,Jana Hunt,DEM,262
+Perkins,01,Supreme Court Retention,5,Scott P. Myren - Yes,,194
+Perkins,01,Supreme Court Retention,5,Scott P. Myren - No,,33
+Perkins,02,Supreme Court Retention,5,Scott P. Myren - Yes,,69
+Perkins,02,Supreme Court Retention,5,Scott P. Myren - No,,11
+Perkins,03,Supreme Court Retention,5,Scott P. Myren - Yes,,206
+Perkins,03,Supreme Court Retention,5,Scott P. Myren - No,,33
+Perkins,04,Supreme Court Retention,5,Scott P. Myren - Yes,,38
+Perkins,04,Supreme Court Retention,5,Scott P. Myren - No,,10
+Perkins,05,Supreme Court Retention,5,Scott P. Myren - Yes,,103
+Perkins,05,Supreme Court Retention,5,Scott P. Myren - No,,19
+Perkins,06,Supreme Court Retention,5,Scott P. Myren - Yes,,81
+Perkins,06,Supreme Court Retention,5,Scott P. Myren - No,,17
+Perkins,07,Supreme Court Retention,5,Scott P. Myren - Yes,,78
+Perkins,07,Supreme Court Retention,5,Scott P. Myren - No,,16
+Perkins,08,Supreme Court Retention,5,Scott P. Myren - Yes,,37
+Perkins,08,Supreme Court Retention,5,Scott P. Myren - No,,10
+Perkins,09,Supreme Court Retention,5,Scott P. Myren - Yes,,50
+Perkins,09,Supreme Court Retention,5,Scott P. Myren - No,,18
+Perkins,12,Supreme Court Retention,5,Scott P. Myren - Yes,,193
+Perkins,12,Supreme Court Retention,5,Scott P. Myren - No,,43
 Perkins,01,Constitutional Amendment E,,Yes,,96
 Perkins,01,Constitutional Amendment E,,No,,170
-Perkins,02,Constitutional Amendment E,,Yes,,31
-Perkins,02,Constitutional Amendment E,,No,,74
-Perkins,03,Constitutional Amendment E,,Yes,,100
-Perkins,03,Constitutional Amendment E,,No,,185
-Perkins,04,Constitutional Amendment E,,Yes,,15
-Perkins,04,Constitutional Amendment E,,No,,44
-Perkins,05,Constitutional Amendment E,,Yes,,54
-Perkins,05,Constitutional Amendment E,,No,,91
-Perkins,06,Constitutional Amendment E,,Yes,,110
-Perkins,06,Constitutional Amendment E,,No,,84
-Perkins,07,Constitutional Amendment E,,Yes,,15
-Perkins,07,Constitutional Amendment E,,No,,117
-Perkins,08,Constitutional Amendment E,,Yes,,6
-Perkins,08,Constitutional Amendment E,,No,,57
-Perkins,09,Constitutional Amendment E,,Yes,,13
-Perkins,09,Constitutional Amendment E,,No,,76
-Perkins,12,Constitutional Amendment E,,Yes,,79
-Perkins,12,Constitutional Amendment E,,No,,235
 Perkins,01,Constitutional Amendment F,,Yes,,165
 Perkins,01,Constitutional Amendment F,,No,,101
-Perkins,02,Constitutional Amendment F,,Yes,,67
-Perkins,02,Constitutional Amendment F,,No,,38
-Perkins,03,Constitutional Amendment F,,Yes,,176
-Perkins,03,Constitutional Amendment F,,No,,110
-Perkins,04,Constitutional Amendment F,,Yes,,33
-Perkins,04,Constitutional Amendment F,,No,,26
-Perkins,05,Constitutional Amendment F,,Yes,,96
-Perkins,05,Constitutional Amendment F,,No,,51
-Perkins,06,Constitutional Amendment F,,Yes,,94
-Perkins,06,Constitutional Amendment F,,No,,84
-Perkins,07,Constitutional Amendment F,,Yes,,78
-Perkins,07,Constitutional Amendment F,,No,,53
-Perkins,08,Constitutional Amendment F,,Yes,,33
-Perkins,08,Constitutional Amendment F,,No,,39
-Perkins,09,Constitutional Amendment F,,Yes,,57
-Perkins,09,Constitutional Amendment F,,No,,39
-Perkins,12,Constitutional Amendment F,,Yes,,166
-Perkins,12,Constitutional Amendment F,,No,,140
-Perkins,01,Constitutional Amendment G,,Yes,,108
-Perkins,01,Constitutional Amendment G,,No,,78
-Perkins,02,Constitutional Amendment G,,Yes,,31
-Perkins,02,Constitutional Amendment G,,No,,76
-Perkins,03,Constitutional Amendment G,,Yes,,65
-Perkins,03,Constitutional Amendment G,,No,,224
-Perkins,04,Constitutional Amendment G,,Yes,,46
-Perkins,04,Constitutional Amendment G,,No,,26
-Perkins,05,Constitutional Amendment G,,Yes,,36
-Perkins,05,Constitutional Amendment G,,No,,108
-Perkins,06,Constitutional Amendment G,,Yes,,43
-Perkins,06,Constitutional Amendment G,,No,,92
-Perkins,07,Constitutional Amendment G,,Yes,,39
-Perkins,07,Constitutional Amendment G,,No,,17
-Perkins,08,Constitutional Amendment G,,Yes,,7
-Perkins,08,Constitutional Amendment G,,No,,57
-Perkins,09,Constitutional Amendment G,,Yes,,55
-Perkins,09,Constitutional Amendment G,,No,,77
-Perkins,12,Constitutional Amendment G,,Yes,,72
-Perkins,12,Constitutional Amendment G,,No,,242
+Perkins,01,Constitutional Amendment G,,Yes,,78
+Perkins,01,Constitutional Amendment G,,No,,192
 Perkins,01,Constitutional Amendment H,,Yes,,89
 Perkins,01,Constitutional Amendment H,,No,,175
+Perkins,02,Constitutional Amendment E,,Yes,,31
+Perkins,02,Constitutional Amendment E,,No,,74
+Perkins,02,Constitutional Amendment F,,Yes,,67
+Perkins,02,Constitutional Amendment F,,No,,38
+Perkins,02,Constitutional Amendment G,,Yes,,31
+Perkins,02,Constitutional Amendment G,,No,,76
 Perkins,02,Constitutional Amendment H,,Yes,,25
 Perkins,02,Constitutional Amendment H,,No,,79
+Perkins,03,Constitutional Amendment E,,Yes,,100
+Perkins,03,Constitutional Amendment E,,No,,185
+Perkins,03,Constitutional Amendment F,,Yes,,176
+Perkins,03,Constitutional Amendment F,,No,,110
+Perkins,03,Constitutional Amendment G,,Yes,,65
+Perkins,03,Constitutional Amendment G,,No,,224
 Perkins,03,Constitutional Amendment H,,Yes,,67
 Perkins,03,Constitutional Amendment H,,No,,216
+Perkins,04,Constitutional Amendment E,,Yes,,15
+Perkins,04,Constitutional Amendment E,,No,,44
+Perkins,04,Constitutional Amendment F,,Yes,,33
+Perkins,04,Constitutional Amendment F,,No,,26
+Perkins,04,Constitutional Amendment G,,Yes,,16
+Perkins,04,Constitutional Amendment G,,No,,43
 Perkins,04,Constitutional Amendment H,,Yes,,13
 Perkins,04,Constitutional Amendment H,,No,,45
+Perkins,05,Constitutional Amendment E,,Yes,,54
+Perkins,05,Constitutional Amendment E,,No,,91
+Perkins,05,Constitutional Amendment F,,Yes,,96
+Perkins,05,Constitutional Amendment F,,No,,51
+Perkins,05,Constitutional Amendment G,,Yes,,36
+Perkins,05,Constitutional Amendment G,,No,,108
 Perkins,05,Constitutional Amendment H,,Yes,,29
 Perkins,05,Constitutional Amendment H,,No,,114
-Perkins,06,Constitutional Amendment H,,Yes,,98
-Perkins,06,Constitutional Amendment H,,No,,94
-Perkins,07,Constitutional Amendment H,,Yes,,98
-Perkins,07,Constitutional Amendment H,,No,,124
-Perkins,08,Constitutional Amendment H,,Yes,,12
-Perkins,08,Constitutional Amendment H,,No,,118
+Perkins,06,Constitutional Amendment E,,Yes,,18
+Perkins,06,Constitutional Amendment E,,No,,106
+Perkins,06,Constitutional Amendment F,,Yes,,84
+Perkins,06,Constitutional Amendment F,,No,,41
+Perkins,06,Constitutional Amendment G,,Yes,,23
+Perkins,06,Constitutional Amendment G,,No,,99
+Perkins,06,Constitutional Amendment H,,Yes,,24
+Perkins,06,Constitutional Amendment H,,No,,98
+Perkins,07,Constitutional Amendment E,,Yes,,15
+Perkins,07,Constitutional Amendment E,,No,,117
+Perkins,07,Constitutional Amendment F,,Yes,,78
+Perkins,07,Constitutional Amendment F,,No,,53
+Perkins,07,Constitutional Amendment G,,Yes,,9
+Perkins,07,Constitutional Amendment G,,No,,122
+Perkins,07,Constitutional Amendment H,,Yes,,12
+Perkins,07,Constitutional Amendment H,,No,,118
+Perkins,08,Constitutional Amendment E,,Yes,,6
+Perkins,08,Constitutional Amendment E,,No,,57
+Perkins,08,Constitutional Amendment F,,Yes,,33
+Perkins,08,Constitutional Amendment F,,No,,29
+Perkins,08,Constitutional Amendment G,,Yes,,7
+Perkins,08,Constitutional Amendment G,,No,,57
+Perkins,08,Constitutional Amendment H,,Yes,,10
+Perkins,08,Constitutional Amendment H,,No,,53
+Perkins,09,Constitutional Amendment E,,Yes,,13
+Perkins,09,Constitutional Amendment E,,No,,76
+Perkins,09,Constitutional Amendment F,,Yes,,57
+Perkins,09,Constitutional Amendment F,,No,,32
+Perkins,09,Constitutional Amendment G,,Yes,,11
+Perkins,09,Constitutional Amendment G,,No,,77
 Perkins,09,Constitutional Amendment H,,Yes,,6
 Perkins,09,Constitutional Amendment H,,No,,81
+Perkins,12,Constitutional Amendment E,,Yes,,79
+Perkins,12,Constitutional Amendment E,,No,,235
+Perkins,12,Constitutional Amendment F,,Yes,,166
+Perkins,12,Constitutional Amendment F,,No,,140
+Perkins,12,Constitutional Amendment G,,Yes,,72
+Perkins,12,Constitutional Amendment G,,No,,242
 Perkins,12,Constitutional Amendment H,,Yes,,62
 Perkins,12,Constitutional Amendment H,,No,,244
-Perkins,1,Initiated Measure 28,,Yes,,81
-Perkins,1,Initiated Measure 28,,No,,187
-Perkins,1,Initiated Measure 29,,Yes,,100
-Perkins,1,Initiated Measure 29,,No,,171
-Perkins,1,Referred Law 21,,Yes,,113
-Perkins,1,Referred Law 21,,No,,151
-Perkins,2,Initiated Measure 28,,Yes,,37
-Perkins,2,Initiated Measure 28,,No,,67
-Perkins,2,Initiated Measure 29,,Yes,,28
-Perkins,2,Initiated Measure 29,,No,,76
-Perkins,2,Referred Law 21,,Yes,,43
-Perkins,2,Referred Law 21,,No,,61
-Perkins,3,Initiated Measure 28,,Yes,,10
-Perkins,3,Initiated Measure 28,,No,,44
-Perkins,3,Initiated Measure 29,,Yes,,83
-Perkins,3,Initiated Measure 29,,No,,202
-Perkins,3,Referred Law 21,,Yes,,82
-Perkins,3,Referred Law 21,,No,,192
-Perkins,4,Initiated Measure 28,,Yes,,15
-Perkins,4,Initiated Measure 28,,No,,42
-Perkins,4,Initiated Measure 29,,Yes,,39
-Perkins,4,Initiated Measure 29,,No,,39
-Perkins,4,Referred Law 21,,Yes,,12
-Perkins,4,Referred Law 21,,No,,104
-Perkins,5,Initiated Measure 28,,Yes,,29
-Perkins,5,Initiated Measure 28,,No,,115
-Perkins,5,Initiated Measure 29,,Yes,,29
-Perkins,5,Initiated Measure 29,,No,,117
-Perkins,5,Referred Law 21,,Yes,,38
-Perkins,5,Referred Law 21,,No,,104
-Perkins,6,Initiated Measure 28,,Yes,,25
-Perkins,6,Initiated Measure 28,,No,,105
-Perkins,6,Initiated Measure 29,,Yes,,18
-Perkins,6,Initiated Measure 29,,No,,96
-Perkins,6,Referred Law 21,,Yes,,14
-Perkins,6,Referred Law 21,,No,,107
-Perkins,7,Initiated Measure 28,,Yes,,3
-Perkins,7,Initiated Measure 28,,No,,109
-Perkins,7,Initiated Measure 29,,Yes,,18
-Perkins,7,Initiated Measure 29,,No,,112
-Perkins,7,Referred Law 21,,Yes,,15
-Perkins,7,Referred Law 21,,No,,111
-Perkins,8,Initiated Measure 28,,Yes,,2
-Perkins,8,Initiated Measure 28,,No,,15
-Perkins,8,Initiated Measure 29,,Yes,,8
-Perkins,8,Initiated Measure 29,,No,,60
-Perkins,8,Referred Law 21,,Yes,,13
-Perkins,8,Referred Law 21,,No,,50
-Perkins,9,Initiated Measure 28,,Yes,,7
-Perkins,9,Initiated Measure 28,,No,,10
-Perkins,9,Initiated Measure 29,,Yes,,21
-Perkins,9,Initiated Measure 29,,No,,77
-Perkins,9,Referred Law 21,,Yes,,17
-Perkins,9,Referred Law 21,,No,,71
-Perkins,12,Initiated Measure 28,,Yes,,52
-Perkins,12,Initiated Measure 28,,No,,260
-Perkins,12,Initiated Measure 29,,Yes,,63
-Perkins,12,Initiated Measure 29,,No,,249
-Perkins,12,Referred Law 21,,Yes,,88
-Perkins,12,Referred Law 21,,No,,221
 Perkins,01,Initiated Measure 28,,Yes,,81
 Perkins,01,Initiated Measure 28,,No,,187
 Perkins,01,Initiated Measure 29,,Yes,,100
@@ -404,45 +246,51 @@ Perkins,02,Initiated Measure 29,,Yes,,28
 Perkins,02,Initiated Measure 29,,No,,76
 Perkins,02,Referred Law 21,,Yes,,43
 Perkins,02,Referred Law 21,,No,,61
-Perkins,03,Initiated Measure 28,,Yes,,30
-Perkins,03,Initiated Measure 28,,No,,52
+Perkins,03,Initiated Measure 28,,Yes,,53
+Perkins,03,Initiated Measure 28,,No,,229
 Perkins,03,Initiated Measure 29,,Yes,,83
 Perkins,03,Initiated Measure 29,,No,,202
 Perkins,03,Referred Law 21,,Yes,,82
 Perkins,03,Referred Law 21,,No,,192
 Perkins,04,Initiated Measure 28,,Yes,,15
 Perkins,04,Initiated Measure 28,,No,,42
-Perkins,04,Initiated Measure 29,,Yes,,39
+Perkins,04,Initiated Measure 29,,Yes,,19
 Perkins,04,Initiated Measure 29,,No,,39
 Perkins,04,Referred Law 21,,Yes,,12
-Perkins,04,Referred Law 21,,No,,106
-Perkins,05,Initiated Measure 28,,Yes,,22
+Perkins,04,Referred Law 21,,No,,46
+Perkins,05,Initiated Measure 28,,Yes,,30
 Perkins,05,Initiated Measure 28,,No,,115
 Perkins,05,Initiated Measure 29,,Yes,,29
 Perkins,05,Initiated Measure 29,,No,,117
 Perkins,05,Referred Law 21,,Yes,,38
 Perkins,05,Referred Law 21,,No,,104
-Perkins,06,Initiated Measure 28,,Yes,,23
+Perkins,06,Initiated Measure 28,,Yes,,17
 Perkins,06,Initiated Measure 28,,No,,105
-Perkins,06,Initiated Measure 29,,Yes,,96
+Perkins,06,Initiated Measure 29,,Yes,,28
 Perkins,06,Initiated Measure 29,,No,,96
 Perkins,06,Referred Law 21,,Yes,,14
 Perkins,06,Referred Law 21,,No,,107
 Perkins,07,Initiated Measure 28,,Yes,,25
-Perkins,07,Initiated Measure 28,,No,,195
+Perkins,07,Initiated Measure 28,,No,,105
 Perkins,07,Initiated Measure 29,,Yes,,18
 Perkins,07,Initiated Measure 29,,No,,112
 Perkins,07,Referred Law 21,,Yes,,15
 Perkins,07,Referred Law 21,,No,,111
 Perkins,08,Initiated Measure 28,,Yes,,3
-Perkins,08,Initiated Measure 28,,No,,10
-Perkins,08,Initiated Measure 29,,Yes,,2
+Perkins,08,Initiated Measure 28,,No,,59
+Perkins,08,Initiated Measure 29,,Yes,,1
 Perkins,08,Initiated Measure 29,,No,,60
 Perkins,08,Referred Law 21,,Yes,,13
 Perkins,08,Referred Law 21,,No,,50
-Perkins,09,Initiated Measure 28,,Yes,,23
-Perkins,09,Initiated Measure 28,,No,,119
-Perkins,09,Initiated Measure 29,,Yes,,77
+Perkins,09,Initiated Measure 28,,Yes,,8
+Perkins,09,Initiated Measure 28,,No,,77
+Perkins,09,Initiated Measure 29,,Yes,,13
 Perkins,09,Initiated Measure 29,,No,,77
 Perkins,09,Referred Law 21,,Yes,,17
 Perkins,09,Referred Law 21,,No,,71
+Perkins,12,Initiated Measure 28,,Yes,,52
+Perkins,12,Initiated Measure 28,,No,,260
+Perkins,12,Initiated Measure 29,,Yes,,63
+Perkins,12,Initiated Measure 29,,No,,249
+Perkins,12,Referred Law 21,,Yes,,88
+Perkins,12,Referred Law 21,,No,,221

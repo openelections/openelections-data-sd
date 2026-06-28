@@ -1,43 +1,47 @@
 county,precinct,office,district,candidate,party,votes
-Dewey,02 Trail City,President,,Kamala D. Harris and Tim Walt,DEM,19
-Dewey,02 Trail City,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,02 Trail City,President,,Donald J. Trump and Liz Van,REP,29
+Dewey,02 Trail City,President,,Kamala D. Harris and Tim Walz,DEM,3
+Dewey,02 Trail City,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,02 Trail City,President,,Donald J. Trump and JD Vance,REP,39
 Dewey,02 Trail City,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Dewey,04 Timber Lake,President,,Kamala D. Harris and Tim Walt,DEM,100
-Dewey,04 Timber Lake,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,04 Timber Lake,President,,Donald J. Trump and Liz Van,REP,294
-Dewey,04 Timber Lake,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Dewey,05 Isabel,President,,Kamala D. Harris and Tim Walt,DEM,17
-Dewey,05 Isabel,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,05 Isabel,President,,Donald J. Trump and Liz Van,REP,44
-Dewey,05 Isabel,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Dewey,06 Ravinia,President,,Kamala D. Harris and Tim Walt,DEM,19
-Dewey,06 Ravinia,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,06 Ravinia,President,,Donald J. Trump and Liz Van,REP,52
-Dewey,06 Ravinia,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Dewey,09 White Horse,President,,Kamala D. Harris and Tim Walt,DEM,28
-Dewey,09 White Horse,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,09 White Horse,President,,Donald J. Trump and Liz Van,REP,12
-Dewey,09 White Horse,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Dewey,10 Promise,President,,Kamala D. Harris and Tim Walt,DEM,69
-Dewey,10 Promise,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,10 Promise,President,,Donald J. Trump and Liz Van,REP,0
-Dewey,10 Promise,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Dewey,11,President,,Kamala D. Harris and Tim Walt,DEM,74
-Dewey,11,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,11,President,,Donald J. Trump and Liz Van,REP,14
-Dewey,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
-Dewey,12-1 Eagle Butte North,President,,Kamala D. Harris and Tim Walt,DEM,163
-Dewey,12-1 Eagle Butte North,President,,Chase Oliver and Mike Ter,LIB,2
-Dewey,12-1 Eagle Butte North,President,,Donald J. Trump and Liz Van,REP,98
-Dewey,12-1 Eagle Butte North,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
-Dewey,12-4 Eagle Butte South,President,,Kamala D. Harris and Tim Walt,DEM,230
-Dewey,12-4 Eagle Butte South,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,12-4 Eagle Butte South,President,,Donald J. Trump and Liz Van,REP,57
-Dewey,12-4 Eagle Butte South,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
-Dewey,15 Eagle Butte West,President,,Kamala D. Harris and Tim Walt,DEM,119
-Dewey,15 Eagle Butte West,President,,Chase Oliver and Mike Ter,LIB,0
-Dewey,15 Eagle Butte West,President,,Donald J. Trump and Liz Van,REP,79
+Dewey,04 Timber Lake,President,,Kamala D. Harris and Tim Walz,DEM,100
+Dewey,04 Timber Lake,President,,Chase Oliver and Mike ter Maat,LIB,1
+Dewey,04 Timber Lake,President,,Donald J. Trump and JD Vance,REP,274
+Dewey,04 Timber Lake,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Dewey,05 Firesteel,President,,Kamala D. Harris and Tim Walz,DEM,19
+Dewey,05 Firesteel,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,05 Firesteel,President,,Donald J. Trump and JD Vance,REP,44
+Dewey,05 Firesteel,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Dewey,06 Isabel,President,,Kamala D. Harris and Tim Walz,DEM,17
+Dewey,06 Isabel,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,06 Isabel,President,,Donald J. Trump and JD Vance,REP,104
+Dewey,06 Isabel,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Dewey,07 Eagle Butte East,President,,Kamala D. Harris and Tim Walz,DEM,220
+Dewey,07 Eagle Butte East,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,07 Eagle Butte East,President,,Donald J. Trump and JD Vance,REP,52
+Dewey,07 Eagle Butte East,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Dewey,08 White Horse,President,,Kamala D. Harris and Tim Walz,DEM,39
+Dewey,08 White Horse,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,08 White Horse,President,,Donald J. Trump and JD Vance,REP,12
+Dewey,08 White Horse,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Dewey,09 Promise,President,,Kamala D. Harris and Tim Walz,DEM,48
+Dewey,09 Promise,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,09 Promise,President,,Donald J. Trump and JD Vance,REP,20
+Dewey,09 Promise,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Dewey,11 Swiftbird/LaPlant,President,,Kamala D. Harris and Tim Walz,DEM,74
+Dewey,11 Swiftbird/LaPlant,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,11 Swiftbird/LaPlant,President,,Donald J. Trump and JD Vance,REP,14
+Dewey,11 Swiftbird/LaPlant,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Kamala D. Harris and Tim Walz,DEM,163
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Chase Oliver and Mike ter Maat,LIB,2
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,Donald J. Trump and JD Vance,REP,98
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Dewey,14 Eagle Butte South,President,,Kamala D. Harris and Tim Walz,DEM,230
+Dewey,14 Eagle Butte South,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,14 Eagle Butte South,President,,Donald J. Trump and JD Vance,REP,57
+Dewey,14 Eagle Butte South,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Dewey,15 Eagle Butte West,President,,Kamala D. Harris and Tim Walz,DEM,119
+Dewey,15 Eagle Butte West,President,,Chase Oliver and Mike ter Maat,LIB,0
+Dewey,15 Eagle Butte West,President,,Donald J. Trump and JD Vance,REP,79
 Dewey,15 Eagle Butte West,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Dewey,02 Trail City,U.S. House,1,Sheryl Johnson,DEM,2
 Dewey,02 Trail City,U.S. House,1,Dusty Johnson,REP,40
@@ -55,8 +59,8 @@ Dewey,09 Promise,U.S. House,1,Sheryl Johnson,DEM,45
 Dewey,09 Promise,U.S. House,1,Dusty Johnson,REP,22
 Dewey,11 Swiftbird/LaPlant,U.S. House,1,Sheryl Johnson,DEM,62
 Dewey,11 Swiftbird/LaPlant,U.S. House,1,Dusty Johnson,REP,26
-Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. House,1,Sheryl Johnson,DEM,154
-Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. House,1,Dusty Johnson,REP,116
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),U.S. House,1,Sheryl Johnson,DEM,154
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),U.S. House,1,Dusty Johnson,REP,116
 Dewey,14 Eagle Butte South,U.S. House,1,Sheryl Johnson,DEM,194
 Dewey,14 Eagle Butte South,U.S. House,1,Dusty Johnson,REP,93
 Dewey,15 Eagle Butte West,U.S. House,1,Sheryl Johnson,DEM,100
@@ -80,11 +84,11 @@ Dewey,08 White Horse,Public Utilities Commissioner,,Forrest Wilson,DEM,31
 Dewey,08 White Horse,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
 Dewey,08 White Horse,Public Utilities Commissioner,,Kristie Fiegen,REP,10
 Dewey,09 Promise,Public Utilities Commissioner,,Forrest Wilson,DEM,42
-Dewey,09 Promise,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Dewey,09 Promise,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
 Dewey,09 Promise,Public Utilities Commissioner,,Kristie Fiegen,REP,19
-Dewey,11 Swiftbird/Laplant,Public Utilities Commissioner,,Forrest Wilson,DEM,66
-Dewey,11 Swiftbird/Laplant,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
-Dewey,11 Swiftbird/Laplant,Public Utilities Commissioner,,Kristie Fiegen,REP,18
+Dewey,11 Swiftbird/LaPlant,Public Utilities Commissioner,,Forrest Wilson,DEM,66
+Dewey,11 Swiftbird/LaPlant,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
+Dewey,11 Swiftbird/LaPlant,Public Utilities Commissioner,,Kristie Fiegen,REP,18
 Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Public Utilities Commissioner,,Forrest Wilson,DEM,159
 Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
 Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Public Utilities Commissioner,,Kristie Fiegen,REP,89
@@ -94,55 +98,55 @@ Dewey,14 Eagle Butte South,Public Utilities Commissioner,,Kristie Fiegen,REP,57
 Dewey,15 Eagle Butte West,Public Utilities Commissioner,,Forrest Wilson,DEM,114
 Dewey,15 Eagle Butte West,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
 Dewey,15 Eagle Butte West,Public Utilities Commissioner,,Kristie Fiegen,REP,70
-Dewey,02 Trail City,State House,28A,Carl J. Petersen,DEM,3
-Dewey,02 Trail City,State House,28A,Dana Hunt,REP,39
-Dewey,04 Timber Lake,State House,28A,Carl J. Petersen,DEM,78
-Dewey,04 Timber Lake,State House,28A,Dana Hunt,REP,304
-Dewey,05 Firesteel,State House,28A,Carl J. Petersen,DEM,11
-Dewey,05 Firesteel,State House,28A,Dana Hunt,REP,53
-Dewey,06 Isabel,State House,28A,Carl J. Petersen,DEM,18
-Dewey,06 Isabel,State House,28A,Dana Hunt,REP,109
-Dewey,07 Eagle Butte East,State House,28A,Carl J. Petersen,DEM,227
-Dewey,07 Eagle Butte East,State House,28A,Dana Hunt,REP,45
-Dewey,08 White Horse,State House,28A,Carl J. Petersen,DEM,35
-Dewey,08 White Horse,State House,28A,Dana Hunt,REP,19
-Dewey,09 Promise,State House,28A,Carl J. Petersen,DEM,40
-Dewey,09 Promise,State House,28A,Dana Hunt,REP,28
-Dewey,11 Swiftbird/LaPlant,State House,28A,Carl J. Petersen,DEM,67
-Dewey,11 Swiftbird/LaPlant,State House,28A,Dana Hunt,REP,22
-Dewey,12 Eagle Butte North,State House,28A,Carl J. Petersen,DEM,170
-Dewey,12 Eagle Butte North,State House,28A,Dana Hunt,REP,104
-Dewey,14 Eagle Butte South,State House,28A,Carl J. Petersen,DEM,226
-Dewey,14 Eagle Butte South,State House,28A,Dana Hunt,REP,71
-Dewey,15 Eagle Butte West,State House,28A,Carl J. Petersen,DEM,121
-Dewey,15 Eagle Butte West,State House,28A,Dana Hunt,REP,79
-Dewey,2 Trail City,State Senate,28,Dean Schrempp,DEM,7
-Dewey,2 Trail City,State Senate,28,Sam Marty,REP,29
-Dewey,2 Trail City,State Senate,28,Shane C. Farlee,IND,5
-Dewey,4 Timber Lake,State Senate,28,Dean Schrempp,DEM,76
-Dewey,4 Timber Lake,State Senate,28,Sam Marty,REP,161
-Dewey,4 Timber Lake,State Senate,28,Shane C. Farlee,IND,135
-Dewey,5 Firesteel,State Senate,28,Dean Schrempp,DEM,14
-Dewey,5 Firesteel,State Senate,28,Sam Marty,REP,39
-Dewey,5 Firesteel,State Senate,28,Shane C. Farlee,IND,10
-Dewey,6 Isabel,State Senate,28,Dean Schrempp,DEM,18
-Dewey,6 Isabel,State Senate,28,Sam Marty,REP,79
-Dewey,6 Isabel,State Senate,28,Shane C. Farlee,IND,26
-Dewey,7 Eagle Butte East,State Senate,28,Dean Schrempp,DEM,151
-Dewey,7 Eagle Butte East,State Senate,28,Sam Marty,REP,34
-Dewey,7 Eagle Butte East,State Senate,28,Shane C. Farlee,IND,86
-Dewey,8 White Horse,State Senate,28,Dean Schrempp,DEM,32
-Dewey,8 White Horse,State Senate,28,Sam Marty,REP,4
-Dewey,8 White Horse,State Senate,28,Shane C. Farlee,IND,15
-Dewey,9 Promise,State Senate,28,Dean Schrempp,DEM,34
-Dewey,9 Promise,State Senate,28,Sam Marty,REP,16
-Dewey,9 Promise,State Senate,28,Shane C. Farlee,IND,18
-Dewey,11 Swiftbird/Laplant,State Senate,28,Dean Schrempp,DEM,53
-Dewey,11 Swiftbird/Laplant,State Senate,28,Sam Marty,REP,8
-Dewey,11 Swiftbird/Laplant,State Senate,28,Shane C. Farlee,IND,26
-Dewey,12 Eagle Butte North,State Senate,28,Dean Schrempp,DEM,137
-Dewey,12 Eagle Butte North,State Senate,28,Sam Marty,REP,66
-Dewey,12 Eagle Butte North,State Senate,28,Shane C. Farlee,IND,65
+Dewey,02 Trail City,State House,28A,Carl J. Petersen,REP,3
+Dewey,02 Trail City,State House,28A,Jana Hunt,DEM,39
+Dewey,04 Timber Lake,State House,28A,Carl J. Petersen,REP,78
+Dewey,04 Timber Lake,State House,28A,Jana Hunt,DEM,304
+Dewey,05 Firesteel,State House,28A,Carl J. Petersen,REP,11
+Dewey,05 Firesteel,State House,28A,Jana Hunt,DEM,53
+Dewey,06 Isabel,State House,28A,Carl J. Petersen,REP,18
+Dewey,06 Isabel,State House,28A,Jana Hunt,DEM,109
+Dewey,07 Eagle Butte East,State House,28A,Carl J. Petersen,REP,227
+Dewey,07 Eagle Butte East,State House,28A,Jana Hunt,DEM,45
+Dewey,08 White Horse,State House,28A,Carl J. Petersen,REP,35
+Dewey,08 White Horse,State House,28A,Jana Hunt,DEM,19
+Dewey,09 Promise,State House,28A,Carl J. Petersen,REP,40
+Dewey,09 Promise,State House,28A,Jana Hunt,DEM,28
+Dewey,11 Swiftbird/LaPlant,State House,28A,Carl J. Petersen,REP,67
+Dewey,11 Swiftbird/LaPlant,State House,28A,Jana Hunt,DEM,22
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State House,28A,Carl J. Petersen,REP,170
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State House,28A,Jana Hunt,DEM,104
+Dewey,14 Eagle Butte South,State House,28A,Carl J. Petersen,REP,226
+Dewey,14 Eagle Butte South,State House,28A,Jana Hunt,DEM,71
+Dewey,15 Eagle Butte West,State House,28A,Carl J. Petersen,REP,121
+Dewey,15 Eagle Butte West,State House,28A,Jana Hunt,DEM,79
+Dewey,02 Trail City,State Senate,28,Dean Schrempp,DEM,7
+Dewey,02 Trail City,State Senate,28,Sam Marty,REP,29
+Dewey,02 Trail City,State Senate,28,Shane C. Farlee,IND,5
+Dewey,04 Timber Lake,State Senate,28,Dean Schrempp,DEM,76
+Dewey,04 Timber Lake,State Senate,28,Sam Marty,REP,161
+Dewey,04 Timber Lake,State Senate,28,Shane C. Farlee,IND,135
+Dewey,05 Firesteel,State Senate,28,Dean Schrempp,DEM,14
+Dewey,05 Firesteel,State Senate,28,Sam Marty,REP,39
+Dewey,05 Firesteel,State Senate,28,Shane C. Farlee,IND,10
+Dewey,06 Isabel,State Senate,28,Dean Schrempp,DEM,18
+Dewey,06 Isabel,State Senate,28,Sam Marty,REP,79
+Dewey,06 Isabel,State Senate,28,Shane C. Farlee,IND,26
+Dewey,07 Eagle Butte East,State Senate,28,Dean Schrempp,DEM,151
+Dewey,07 Eagle Butte East,State Senate,28,Sam Marty,REP,34
+Dewey,07 Eagle Butte East,State Senate,28,Shane C. Farlee,IND,86
+Dewey,08 White Horse,State Senate,28,Dean Schrempp,DEM,32
+Dewey,08 White Horse,State Senate,28,Sam Marty,REP,4
+Dewey,08 White Horse,State Senate,28,Shane C. Farlee,IND,15
+Dewey,09 Promise,State Senate,28,Dean Schrempp,DEM,34
+Dewey,09 Promise,State Senate,28,Sam Marty,REP,16
+Dewey,09 Promise,State Senate,28,Shane C. Farlee,IND,18
+Dewey,11 Swiftbird/LaPlant,State Senate,28,Dean Schrempp,DEM,53
+Dewey,11 Swiftbird/LaPlant,State Senate,28,Sam Marty,REP,8
+Dewey,11 Swiftbird/LaPlant,State Senate,28,Shane C. Farlee,IND,26
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State Senate,28,Dean Schrempp,DEM,137
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State Senate,28,Sam Marty,REP,66
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),State Senate,28,Shane C. Farlee,IND,65
 Dewey,14 Eagle Butte South,State Senate,28,Dean Schrempp,DEM,166
 Dewey,14 Eagle Butte South,State Senate,28,Sam Marty,REP,26
 Dewey,14 Eagle Butte South,State Senate,28,Shane C. Farlee,IND,94
@@ -155,42 +159,42 @@ Dewey,07 Eagle Butte East,County Commissioner,4,Robert W. Berndt,DEM,29
 Dewey,07 Eagle Butte East,County Commissioner,4,Vincent T. DuPris,IND,18
 Dewey,08 White Horse,County Commissioner,4,Robert W. Berndt,DEM,9
 Dewey,08 White Horse,County Commissioner,4,Vincent T. DuPris,IND,2
-Dewey,11 Swiftbird/Laplant,County Commissioner,4,Robert W. Berndt,DEM,26
-Dewey,11 Swiftbird/Laplant,County Commissioner,4,Vincent T. DuPris,IND,6
-Dewey,12 Eagle Butte North,County Commissioner,4,Robert W. Berndt,DEM,103
-Dewey,12 Eagle Butte North,County Commissioner,4,Vincent T. DuPris,IND,57
+Dewey,11 Swiftbird/LaPlant,County Commissioner,4,Robert W. Berndt,DEM,26
+Dewey,11 Swiftbird/LaPlant,County Commissioner,4,Vincent T. DuPris,IND,6
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),County Commissioner,4,Robert W. Berndt,DEM,103
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),County Commissioner,4,Vincent T. DuPris,IND,57
 Dewey,14 Eagle Butte South,County Commissioner,4,Robert W. Berndt,DEM,7
 Dewey,14 Eagle Butte South,County Commissioner,4,Vincent T. DuPris,IND,2
-Dewey,2 Trail City,Supreme Court Retention,,Yes,,28
-Dewey,2 Trail City,Supreme Court Retention,,No,,7
-Dewey,4 Timber Lake,Supreme Court Retention,,Yes,,239
-Dewey,4 Timber Lake,Supreme Court Retention,,No,,94
-Dewey,5 Firesteel,Supreme Court Retention,,Yes,,39
-Dewey,5 Firesteel,Supreme Court Retention,,No,,15
-Dewey,6 Isabel,Supreme Court Retention,,Yes,,80
-Dewey,6 Isabel,Supreme Court Retention,,No,,21
-Dewey,7 Eagle Butte East,Supreme Court Retention,,Yes,,115
-Dewey,7 Eagle Butte East,Supreme Court Retention,,No,,124
-Dewey,8 White Horse,Supreme Court Retention,,Yes,,25
-Dewey,8 White Horse,Supreme Court Retention,,No,,21
-Dewey,9 Promise,Supreme Court Retention,,Yes,,43
-Dewey,9 Promise,Supreme Court Retention,,No,,20
-Dewey,11 Swiftbird/LaPlant,Supreme Court Retention,,Yes,,32
-Dewey,11 Swiftbird/LaPlant,Supreme Court Retention,,No,,44
-Dewey,12 Eagle Butte North,Supreme Court Retention,,Yes,,152
-Dewey,12 Eagle Butte North,Supreme Court Retention,,No,,101
-Dewey,14 Eagle Butte South,Supreme Court Retention,,Yes,,151
-Dewey,14 Eagle Butte South,Supreme Court Retention,,No,,118
-Dewey,15 Eagle Butte West,Supreme Court Retention,,Yes,,109
-Dewey,15 Eagle Butte West,Supreme Court Retention,,No,,71
+Dewey,02 Trail City,Supreme Court Retention,5,Scott P. Myren - Yes,,28
+Dewey,02 Trail City,Supreme Court Retention,5,Scott P. Myren - No,,7
+Dewey,04 Timber Lake,Supreme Court Retention,5,Scott P. Myren - Yes,,239
+Dewey,04 Timber Lake,Supreme Court Retention,5,Scott P. Myren - No,,94
+Dewey,05 Firesteel,Supreme Court Retention,5,Scott P. Myren - Yes,,39
+Dewey,05 Firesteel,Supreme Court Retention,5,Scott P. Myren - No,,15
+Dewey,06 Isabel,Supreme Court Retention,5,Scott P. Myren - Yes,,80
+Dewey,06 Isabel,Supreme Court Retention,5,Scott P. Myren - No,,21
+Dewey,07 Eagle Butte East,Supreme Court Retention,5,Scott P. Myren - Yes,,115
+Dewey,07 Eagle Butte East,Supreme Court Retention,5,Scott P. Myren - No,,124
+Dewey,08 White Horse,Supreme Court Retention,5,Scott P. Myren - Yes,,25
+Dewey,08 White Horse,Supreme Court Retention,5,Scott P. Myren - No,,21
+Dewey,09 Promise,Supreme Court Retention,5,Scott P. Myren - Yes,,43
+Dewey,09 Promise,Supreme Court Retention,5,Scott P. Myren - No,,20
+Dewey,11 Swiftbird/LaPlant,Supreme Court Retention,5,Scott P. Myren - Yes,,32
+Dewey,11 Swiftbird/LaPlant,Supreme Court Retention,5,Scott P. Myren - No,,44
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Supreme Court Retention,5,Scott P. Myren - Yes,,152
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Supreme Court Retention,5,Scott P. Myren - No,,101
+Dewey,14 Eagle Butte South,Supreme Court Retention,5,Scott P. Myren - Yes,,151
+Dewey,14 Eagle Butte South,Supreme Court Retention,5,Scott P. Myren - No,,118
+Dewey,15 Eagle Butte West,Supreme Court Retention,5,Scott P. Myren - Yes,,109
+Dewey,15 Eagle Butte West,Supreme Court Retention,5,Scott P. Myren - No,,71
 Dewey,02 Trail City,Constitutional Amendment E,,Yes,,9
 Dewey,02 Trail City,Constitutional Amendment E,,No,,33
-Dewey,02 Trail City,Constitutional Amendment F,,Yes,,33
-Dewey,02 Trail City,Constitutional Amendment F,,No,,25
-Dewey,02 Trail City,Constitutional Amendment G,,Yes,,17
-Dewey,02 Trail City,Constitutional Amendment G,,No,,7
-Dewey,02 Trail City,Constitutional Amendment H,,Yes,,35
-Dewey,02 Trail City,Constitutional Amendment H,,No,,9
+Dewey,02 Trail City,Constitutional Amendment F,,Yes,,25
+Dewey,02 Trail City,Constitutional Amendment F,,No,,17
+Dewey,02 Trail City,Constitutional Amendment G,,Yes,,7
+Dewey,02 Trail City,Constitutional Amendment G,,No,,35
+Dewey,02 Trail City,Constitutional Amendment H,,Yes,,9
+Dewey,02 Trail City,Constitutional Amendment H,,No,,33
 Dewey,04 Timber Lake,Constitutional Amendment E,,Yes,,129
 Dewey,04 Timber Lake,Constitutional Amendment E,,No,,246
 Dewey,04 Timber Lake,Constitutional Amendment F,,Yes,,208
@@ -239,22 +243,22 @@ Dewey,09 Promise,Constitutional Amendment G,,Yes,,39
 Dewey,09 Promise,Constitutional Amendment G,,No,,31
 Dewey,09 Promise,Constitutional Amendment H,,Yes,,29
 Dewey,09 Promise,Constitutional Amendment H,,No,,39
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment E,,Yes,,47
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment E,,No,,42
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment F,,Yes,,24
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment F,,No,,65
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment G,,Yes,,68
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment G,,No,,20
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment H,,Yes,,46
-Dewey,11 Swiftbird/11Plant,Constitutional Amendment H,,No,,43
-Dewey,12 Eagle Butte North,Constitutional Amendment E,,Yes,,0
-Dewey,12 Eagle Butte North,Constitutional Amendment E,,No,,139
-Dewey,12 Eagle Butte North,Constitutional Amendment F,,Yes,,137
-Dewey,12 Eagle Butte North,Constitutional Amendment F,,No,,133
-Dewey,12 Eagle Butte North,Constitutional Amendment G,,Yes,,157
-Dewey,12 Eagle Butte North,Constitutional Amendment G,,No,,115
-Dewey,12 Eagle Butte North,Constitutional Amendment H,,Yes,,0
-Dewey,12 Eagle Butte North,Constitutional Amendment H,,No,,0
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment E,,Yes,,47
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment E,,No,,42
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment F,,Yes,,24
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment F,,No,,65
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment G,,Yes,,68
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment G,,No,,20
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment H,,Yes,,46
+Dewey,11 Swiftbird/LaPlant,Constitutional Amendment H,,No,,43
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment E,,Yes,,139
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment E,,No,,129
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment F,,Yes,,137
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment F,,No,,133
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment G,,Yes,,157
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment G,,No,,115
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment H,,Yes,,102
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Constitutional Amendment H,,No,,165
 Dewey,14 Eagle Butte South,Constitutional Amendment E,,Yes,,152
 Dewey,14 Eagle Butte South,Constitutional Amendment E,,No,,137
 Dewey,14 Eagle Butte South,Constitutional Amendment F,,Yes,,110
@@ -283,8 +287,8 @@ Dewey,04 Timber Lake,Initiated Measure 29,,Yes,,148
 Dewey,04 Timber Lake,Initiated Measure 29,,No,,229
 Dewey,04 Timber Lake,Referred Law 21,,Yes,,110
 Dewey,04 Timber Lake,Referred Law 21,,No,,259
-Dewey,05 Firesteel,Initiated Measure 28,,Yes,,51
-Dewey,05 Firesteel,Initiated Measure 28,,No,,61
+Dewey,05 Firesteel,Initiated Measure 28,,Yes,,11
+Dewey,05 Firesteel,Initiated Measure 28,,No,,51
 Dewey,05 Firesteel,Initiated Measure 29,,Yes,,20
 Dewey,05 Firesteel,Initiated Measure 29,,No,,41
 Dewey,05 Firesteel,Referred Law 21,,Yes,,17
@@ -313,18 +317,18 @@ Dewey,09 Promise,Initiated Measure 29,,Yes,,39
 Dewey,09 Promise,Initiated Measure 29,,No,,31
 Dewey,09 Promise,Referred Law 21,,Yes,,22
 Dewey,09 Promise,Referred Law 21,,No,,46
-Dewey,1-1 Swiftbird/LaPlant,Initiated Measure 28,,Yes,,42
-Dewey,1-1 Swiftbird/LaPlant,Initiated Measure 28,,No,,44
-Dewey,1-1 Swiftbird/LaPlant,Initiated Measure 29,,Yes,,66
-Dewey,1-1 Swiftbird/LaPlant,Initiated Measure 29,,No,,23
-Dewey,1-1 Swiftbird/LaPlant,Referred Law 21,,Yes,,45
-Dewey,1-1 Swiftbird/LaPlant,Referred Law 21,,No,,43
-Dewey,12 Eagle Butte North,Initiated Measure 28,,Yes,,129
-Dewey,12 Eagle Butte North,Initiated Measure 28,,No,,140
-Dewey,12 Eagle Butte North,Initiated Measure 29,,Yes,,175
-Dewey,12 Eagle Butte North,Initiated Measure 29,,No,,96
-Dewey,12 Eagle Butte North,Referred Law 21,,Yes,,101
-Dewey,12 Eagle Butte North,Referred Law 21,,No,,164
+Dewey,11 Swiftbird/LaPlant,Initiated Measure 28,,Yes,,42
+Dewey,11 Swiftbird/LaPlant,Initiated Measure 28,,No,,44
+Dewey,11 Swiftbird/LaPlant,Initiated Measure 29,,Yes,,66
+Dewey,11 Swiftbird/LaPlant,Initiated Measure 29,,No,,23
+Dewey,11 Swiftbird/LaPlant,Referred Law 21,,Yes,,45
+Dewey,11 Swiftbird/LaPlant,Referred Law 21,,No,,43
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Initiated Measure 28,,Yes,,129
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Initiated Measure 28,,No,,140
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Initiated Measure 29,,Yes,,175
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Initiated Measure 29,,No,,96
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Referred Law 21,,Yes,,101
+Dewey,12 Eagle Butte North (Precinct-13 Eagle Butte North),Referred Law 21,,No,,164
 Dewey,14 Eagle Butte South,Initiated Measure 28,,Yes,,144
 Dewey,14 Eagle Butte South,Initiated Measure 28,,No,,148
 Dewey,14 Eagle Butte South,Initiated Measure 29,,Yes,,220

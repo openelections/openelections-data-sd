@@ -1,165 +1,179 @@
 county,precinct,office,district,candidate,party,votes
-Mccook,01,President,,Kamala D. Harris and Tim Kaine,DEM,192
-Mccook,02,President,,Kamala D. Harris and Tim Kaine,DEM,50
-Mccook,03,President,,Kamala D. Harris and Tim Kaine,DEM,168
-Mccook,04,President,,Kamala D. Harris and Tim Kaine,DEM,81
-Mccook,05,President,,Kamala D. Harris and Tim Kaine,DEM,168
-Mccook,06,President,,Kamala D. Harris and Tim Kaine,DEM,74
+Mccook,01,President,,Kamala D. Harris and Tim Walz,DEM,192
 Mccook,01,President,,Chase Oliver and Mike ter Maat,LIB,0
-Mccook,02,President,,Chase Oliver and Mike ter Maat,LIB,1
-Mccook,03,President,,Chase Oliver and Mike ter Maat,LIB,5
-Mccook,04,President,,Chase Oliver and Mike ter Maat,LIB,4
-Mccook,05,President,,Chase Oliver and Mike ter Maat,LIB,3
-Mccook,06,President,,Chase Oliver and Mike ter Maat,LIB,0
 Mccook,01,President,,Donald J. Trump and JD Vance,REP,429
-Mccook,02,President,,Donald J. Trump and JD Vance,REP,121
-Mccook,03,President,,Donald J. Trump and JD Vance,REP,454
-Mccook,04,President,,Donald J. Trump and JD Vance,REP,436
-Mccook,05,President,,Donald J. Trump and JD Vance,REP,483
-Mccook,06,President,,Donald J. Trump and JD Vance,REP,304
 Mccook,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Mccook,02,President,,Kamala D. Harris and Tim Walz,DEM,50
+Mccook,02,President,,Chase Oliver and Mike ter Maat,LIB,1
+Mccook,02,President,,Donald J. Trump and JD Vance,REP,121
 Mccook,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Mccook,03,President,,Kamala D. Harris and Tim Walz,DEM,168
+Mccook,03,President,,Chase Oliver and Mike ter Maat,LIB,5
+Mccook,03,President,,Donald J. Trump and JD Vance,REP,454
 Mccook,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
+Mccook,04,President,,Kamala D. Harris and Tim Walz,DEM,81
+Mccook,04,President,,Chase Oliver and Mike ter Maat,LIB,1
+Mccook,04,President,,Donald J. Trump and JD Vance,REP,436
 Mccook,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Mccook,05,President,,Kamala D. Harris and Tim Walz,DEM,168
+Mccook,05,President,,Chase Oliver and Mike ter Maat,LIB,3
+Mccook,05,President,,Donald J. Trump and JD Vance,REP,483
 Mccook,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Mccook,06,President,,Kamala D. Harris and Tim Walz,DEM,74
+Mccook,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Mccook,06,President,,Donald J. Trump and JD Vance,REP,304
 Mccook,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
 Mccook,01,U.S. House,1,Sheryl Johnson,DEM,146
-Mccook,02,U.S. House,1,Sheryl Johnson,DEM,36
-Mccook,03,U.S. House,1,Sheryl Johnson,DEM,72
-Mccook,04,U.S. House,1,Sheryl Johnson,DEM,64
-Mccook,05,U.S. House,1,Sheryl Johnson,DEM,134
-Mccook,06,U.S. House,1,Sheryl Johnson,DEM,52
 Mccook,01,U.S. House,1,Dusty Johnson,REP,475
+Mccook,02,U.S. House,1,Sheryl Johnson,DEM,36
 Mccook,02,U.S. House,1,Dusty Johnson,REP,139
+Mccook,03,U.S. House,1,Sheryl Johnson,DEM,122
 Mccook,03,U.S. House,1,Dusty Johnson,REP,528
+Mccook,04,U.S. House,1,Sheryl Johnson,DEM,64
 Mccook,04,U.S. House,1,Dusty Johnson,REP,462
-Mccook,05,U.S. House,1,Dusty Johnson,REP,542
-Mccook,06,U.S. House,1,Dusty Johnson,REP,379
+Mccook,05,U.S. House,1,Sheryl Johnson,DEM,134
+Mccook,05,U.S. House,1,Dusty Johnson,REP,524
+Mccook,06,U.S. House,1,Sheryl Johnson,DEM,52
+Mccook,06,U.S. House,1,Dusty Johnson,REP,332
 Mccook,01,Public Utilities Commissioner,,Forrest Wilson,DEM,122
-Mccook,02,Public Utilities Commissioner,,Forrest Wilson,DEM,34
-Mccook,03,Public Utilities Commissioner,,Forrest Wilson,DEM,117
-Mccook,04,Public Utilities Commissioner,,Forrest Wilson,DEM,50
-Mccook,05,Public Utilities Commissioner,,Forrest Wilson,DEM,136
-Mccook,06,Public Utilities Commissioner,,Forrest Wilson,DEM,47
-Mccook,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
-Mccook,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
-Mccook,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
-Mccook,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
-Mccook,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
-Mccook,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Mccook,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
 Mccook,01,Public Utilities Commissioner,,Kristie Fiegen,REP,442
+Mccook,02,Public Utilities Commissioner,,Forrest Wilson,DEM,34
+Mccook,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
 Mccook,02,Public Utilities Commissioner,,Kristie Fiegen,REP,124
+Mccook,03,Public Utilities Commissioner,,Forrest Wilson,DEM,117
+Mccook,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
 Mccook,03,Public Utilities Commissioner,,Kristie Fiegen,REP,471
+Mccook,04,Public Utilities Commissioner,,Forrest Wilson,DEM,50
+Mccook,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
 Mccook,04,Public Utilities Commissioner,,Kristie Fiegen,REP,436
+Mccook,05,Public Utilities Commissioner,,Forrest Wilson,DEM,136
+Mccook,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
 Mccook,05,Public Utilities Commissioner,,Kristie Fiegen,REP,477
+Mccook,06,Public Utilities Commissioner,,Forrest Wilson,DEM,47
+Mccook,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
 Mccook,06,Public Utilities Commissioner,,Kristie Fiegen,REP,308
-Mccook,01,State Senate,19,Kyle Schoenfish,REP,470
-Mccook,02,State Senate,19,Kyle Schoenfish,REP,114
-Mccook,03,State Senate,19,Kyle Schoenfish,REP,449
-Mccook,04,State Senate,19,Kyle Schoenfish,REP,389
-Mccook,05,State Senate,19,Kyle Schoenfish,REP,369
-Mccook,06,State Senate,19,Kyle Schoenfish,REP,294
+Mccook,01,State Senate,19,Kyle Schoenfish,REP,420
 Mccook,01,State Senate,19,Michael J. Miller,IND,136
+Mccook,02,State Senate,19,Kyle Schoenfish,REP,114
 Mccook,02,State Senate,19,Michael J. Miller,IND,43
+Mccook,03,State Senate,19,Kyle Schoenfish,REP,449
 Mccook,03,State Senate,19,Michael J. Miller,IND,140
+Mccook,04,State Senate,19,Kyle Schoenfish,REP,389
 Mccook,04,State Senate,19,Michael J. Miller,IND,106
+Mccook,05,State Senate,19,Kyle Schoenfish,REP,469
 Mccook,05,State Senate,19,Michael J. Miller,IND,151
+Mccook,06,State Senate,19,Kyle Schoenfish,REP,294
 Mccook,06,State Senate,19,Michael J. Miller,IND,68
 Mccook,01,State House,19,Drew Peterson,REP,365
+Mccook,01,State House,19,Jessica Bahmuller,REP,327
 Mccook,02,State House,19,Drew Peterson,REP,108
+Mccook,02,State House,19,Jessica Bahmuller,REP,103
 Mccook,03,State House,19,Drew Peterson,REP,359
+Mccook,03,State House,19,Jessica Bahmuller,REP,410
 Mccook,04,State House,19,Drew Peterson,REP,310
-Mccook,05,State House,19,Drew Peterson,REP,365
+Mccook,04,State House,19,Jessica Bahmuller,REP,353
+Mccook,05,State House,19,Drew Peterson,REP,465
+Mccook,05,State House,19,Jessica Bahmuller,REP,376
 Mccook,06,State House,19,Drew Peterson,REP,286
-Mccook,01,State House,19,Jessica Bahmuller,BEP,327
-Mccook,02,State House,19,Jessica Bahmuller,BEP,103
-Mccook,03,State House,19,Jessica Bahmuller,BEP,410
-Mccook,04,State House,19,Jessica Bahmuller,BEP,335
-Mccook,05,State House,19,Jessica Bahmuller,BEP,376
-Mccook,06,State House,19,Jessica Bahmuller,BEP,232
-Mccook,02,County Commissioner,,Barney J Boling,DEM,48
-Mccook,06,County Commissioner,,Barney J Boling,DEM,85
-Mccook,02,County Commissioner,,Tom S Heumiller,REP,117
-Mccook,06,County Commissioner,,Tom S Heumiller,REP,287
-Mccook,1,President,,Kamala D. Harris and Tim Walz,DEM,192
-Mccook,1,President,,Chase Oliver and Mike ter Maat,LIB,0
-Mccook,1,President,,Donald J. Trump and JD Vance,REP,429
-Mccook,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
-Mccook,2,President,,Kamala D. Harris and Tim Walz,DEM,50
-Mccook,2,President,,Chase Oliver and Mike ter Maat,LIB,1
-Mccook,2,President,,Donald J. Trump and JD Vance,REP,121
-Mccook,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Mccook,3,President,,Kamala D. Harris and Tim Walz,DEM,168
-Mccook,3,President,,Chase Oliver and Mike ter Maat,LIB,5
-Mccook,3,President,,Donald J. Trump and JD Vance,REP,454
-Mccook,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,22
-Mccook,4,President,,Kamala D. Harris and Tim Walz,DEM,81
-Mccook,4,President,,Chase Oliver and Mike ter Maat,LIB,1
-Mccook,4,President,,Donald J. Trump and JD Vance,REP,436
-Mccook,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
-Mccook,5,President,,Kamala D. Harris and Tim Walz,DEM,168
-Mccook,5,President,,Chase Oliver and Mike ter Maat,LIB,3
-Mccook,5,President,,Donald J. Trump and JD Vance,REP,483
-Mccook,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
-Mccook,6,President,,Kamala D. Harris and Tim Walz,DEM,74
-Mccook,6,President,,Chase Oliver and Mike ter Maat,LIB,0
-Mccook,6,President,,Donald J. Trump and JD Vance,REP,304
-Mccook,6,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
-Mccook,1,U.S. House,1,Sheryl Johnson,DEM,146
-Mccook,1,U.S. House,1,Dusty Johnson,REP,475
-Mccook,2,U.S. House,1,Sheryl Johnson,DEM,36
-Mccook,2,U.S. House,1,Dusty Johnson,REP,139
-Mccook,3,U.S. House,1,Sheryl Johnson,DEM,72
-Mccook,3,U.S. House,1,Dusty Johnson,REP,528
-Mccook,4,U.S. House,1,Sheryl Johnson,DEM,64
-Mccook,4,U.S. House,1,Dusty Johnson,REP,462
-Mccook,5,U.S. House,1,Sheryl Johnson,DEM,134
-Mccook,5,U.S. House,1,Dusty Johnson,REP,542
-Mccook,6,U.S. House,1,Sheryl Johnson,DEM,52
-Mccook,6,U.S. House,1,Dusty Johnson,REP,375
-Mccook,1,Public Utilities Commissioner,,Forrest Wilson,,122
-Mccook,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
-Mccook,1,Public Utilities Commissioner,,Kristie Fiegen,REP,442
-Mccook,2,Public Utilities Commissioner,,Forrest Wilson,,34
-Mccook,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
-Mccook,2,Public Utilities Commissioner,,Kristie Fiegen,REP,124
-Mccook,3,Public Utilities Commissioner,,Forrest Wilson,,117
-Mccook,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
-Mccook,3,Public Utilities Commissioner,,Kristie Fiegen,REP,471
-Mccook,4,Public Utilities Commissioner,,Forrest Wilson,,50
-Mccook,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
-Mccook,4,Public Utilities Commissioner,,Kristie Fiegen,REP,436
-Mccook,5,Public Utilities Commissioner,,Forrest Wilson,,136
-Mccook,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,17
-Mccook,5,Public Utilities Commissioner,,Kristie Fiegen,REP,477
-Mccook,6,Public Utilities Commissioner,,Forrest Wilson,,47
-Mccook,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
-Mccook,6,Public Utilities Commissioner,,Kristie Fiegen,REP,308
-Mccook,1,State Senate,19,Kyle Schoenfish,REP,470
-Mccook,1,State Senate,19,Michael J. Miller,IND,136
-Mccook,2,State Senate,19,Kyle Schoenfish,REP,114
-Mccook,2,State Senate,19,Michael J. Miller,IND,43
-Mccook,3,State Senate,19,Kyle Schoenfish,REP,449
-Mccook,3,State Senate,19,Michael J. Miller,IND,140
-Mccook,4,State Senate,19,Kyle Schoenfish,REP,389
-Mccook,4,State Senate,19,Michael J. Miller,IND,106
-Mccook,5,State Senate,19,Kyle Schoenfish,REP,369
-Mccook,5,State Senate,19,Michael J. Miller,IND,151
-Mccook,6,State Senate,19,Kyle Schoenfish,REP,294
-Mccook,6,State Senate,19,Michael J. Miller,IND,68
-Mccook,1,State House,19,Drew Peterson,REP,365
-Mccook,1,State House,19,Jessica Bahmuller,,327
-Mccook,2,State House,19,Drew Peterson,REP,108
-Mccook,2,State House,19,Jessica Bahmuller,,103
-Mccook,3,State House,19,Drew Peterson,REP,359
-Mccook,3,State House,19,Jessica Bahmuller,,410
-Mccook,4,State House,19,Drew Peterson,REP,310
-Mccook,4,State House,19,Jessica Bahmuller,,335
-Mccook,5,State House,19,Drew Peterson,REP,345
-Mccook,5,State House,19,Jessica Bahmuller,,376
-Mccook,6,State House,19,Drew Peterson,REP,286
-Mccook,6,State House,19,Jessica Bahmuller,,232
-Mccook,2,County Commissioner,,Barney J. Roling,DEM,48
-Mccook,2,County Commissioner,,Tom S. Heumiller,REP,117
-Mccook,6,County Commissioner,,Barney J. Roling,DEM,85
-Mccook,6,County Commissioner,,Tom S. Heumiller,REP,287
+Mccook,06,State House,19,Jessica Bahmuller,REP,232
+Mccook,02,County Commissioner,2,Barney J Roling,DEM,48
+Mccook,02,County Commissioner,2,Tom S Heumiller,REP,117
+Mccook,06,County Commissioner,2,Barney J Roling,DEM,85
+Mccook,06,County Commissioner,2,Tom S Heumiller,REP,287
+Mccook,01,Supreme Court Retention,5,Scott P. Myren - Yes,,398
+Mccook,01,Supreme Court Retention,5,Scott P. Myren - No,,110
+Mccook,02,Supreme Court Retention,5,Scott P. Myren - Yes,,117
+Mccook,02,Supreme Court Retention,5,Scott P. Myren - No,,25
+Mccook,03,Supreme Court Retention,5,Scott P. Myren - Yes,,460
+Mccook,03,Supreme Court Retention,5,Scott P. Myren - No,,78
+Mccook,04,Supreme Court Retention,5,Scott P. Myren - Yes,,376
+Mccook,04,Supreme Court Retention,5,Scott P. Myren - No,,61
+Mccook,05,Supreme Court Retention,5,Scott P. Myren - Yes,,470
+Mccook,05,Supreme Court Retention,5,Scott P. Myren - No,,108
+Mccook,06,Supreme Court Retention,5,Scott P. Myren - Yes,,287
+Mccook,06,Supreme Court Retention,5,Scott P. Myren - No,,54
+Mccook,01,Constitutional Amendment E,,Yes,,239
+Mccook,01,Constitutional Amendment E,,No,,379
+Mccook,02,Constitutional Amendment E,,Yes,,56
+Mccook,02,Constitutional Amendment E,,No,,117
+Mccook,03,Constitutional Amendment E,,Yes,,253
+Mccook,03,Constitutional Amendment E,,No,,401
+Mccook,04,Constitutional Amendment E,,Yes,,149
+Mccook,04,Constitutional Amendment E,,No,,373
+Mccook,05,Constitutional Amendment E,,Yes,,250
+Mccook,05,Constitutional Amendment E,,No,,415
+Mccook,06,Constitutional Amendment E,,Yes,,126
+Mccook,06,Constitutional Amendment E,,No,,262
+Mccook,01,Constitutional Amendment F,,Yes,,310
+Mccook,01,Constitutional Amendment F,,No,,300
+Mccook,02,Constitutional Amendment F,,Yes,,89
+Mccook,02,Constitutional Amendment F,,No,,83
+Mccook,03,Constitutional Amendment F,,Yes,,367
+Mccook,03,Constitutional Amendment F,,No,,283
+Mccook,04,Constitutional Amendment F,,Yes,,273
+Mccook,04,Constitutional Amendment F,,No,,249
+Mccook,05,Constitutional Amendment F,,Yes,,373
+Mccook,05,Constitutional Amendment F,,No,,289
+Mccook,06,Constitutional Amendment F,,Yes,,240
+Mccook,06,Constitutional Amendment F,,No,,146
+Mccook,01,Constitutional Amendment G,,Yes,,204
+Mccook,01,Constitutional Amendment G,,No,,427
+Mccook,02,Constitutional Amendment G,,Yes,,53
+Mccook,02,Constitutional Amendment G,,No,,124
+Mccook,03,Constitutional Amendment G,,Yes,,208
+Mccook,03,Constitutional Amendment G,,No,,447
+Mccook,04,Constitutional Amendment G,,Yes,,101
+Mccook,04,Constitutional Amendment G,,No,,424
+Mccook,05,Constitutional Amendment G,,Yes,,186
+Mccook,05,Constitutional Amendment G,,No,,488
+Mccook,06,Constitutional Amendment G,,Yes,,95
+Mccook,06,Constitutional Amendment G,,No,,297
+Mccook,01,Constitutional Amendment H,,Yes,,191
+Mccook,01,Constitutional Amendment H,,No,,417
+Mccook,02,Constitutional Amendment H,,Yes,,50
+Mccook,02,Constitutional Amendment H,,No,,122
+Mccook,03,Constitutional Amendment H,,Yes,,171
+Mccook,03,Constitutional Amendment H,,No,,465
+Mccook,04,Constitutional Amendment H,,Yes,,94
+Mccook,04,Constitutional Amendment H,,No,,415
+Mccook,05,Constitutional Amendment H,,Yes,,177
+Mccook,05,Constitutional Amendment H,,No,,474
+Mccook,06,Constitutional Amendment H,,Yes,,94
+Mccook,06,Constitutional Amendment H,,No,,284
+Mccook,01,Initiated Measure 28,,Yes,,156
+Mccook,01,Initiated Measure 28,,No,,463
+Mccook,02,Initiated Measure 28,,Yes,,36
+Mccook,02,Initiated Measure 28,,No,,138
+Mccook,03,Initiated Measure 28,,Yes,,149
+Mccook,03,Initiated Measure 28,,No,,500
+Mccook,04,Initiated Measure 28,,Yes,,93
+Mccook,04,Initiated Measure 28,,No,,423
+Mccook,05,Initiated Measure 28,,Yes,,166
+Mccook,05,Initiated Measure 28,,No,,503
+Mccook,06,Initiated Measure 28,,Yes,,73
+Mccook,06,Initiated Measure 28,,No,,310
+Mccook,01,Initiated Measure 29,,Yes,,245
+Mccook,01,Initiated Measure 29,,No,,384
+Mccook,02,Initiated Measure 29,,Yes,,61
+Mccook,02,Initiated Measure 29,,No,,115
+Mccook,03,Initiated Measure 29,,Yes,,217
+Mccook,03,Initiated Measure 29,,No,,438
+Mccook,04,Initiated Measure 29,,Yes,,153
+Mccook,04,Initiated Measure 29,,No,,375
+Mccook,05,Initiated Measure 29,,Yes,,247
+Mccook,05,Initiated Measure 29,,No,,420
+Mccook,06,Initiated Measure 29,,Yes,,123
+Mccook,06,Initiated Measure 29,,No,,268
+Mccook,01,Referred Law 21,,Yes,,196
+Mccook,01,Referred Law 21,,No,,412
+Mccook,02,Referred Law 21,,Yes,,57
+Mccook,02,Referred Law 21,,No,,115
+Mccook,03,Referred Law 21,,Yes,,206
+Mccook,03,Referred Law 21,,No,,428
+Mccook,04,Referred Law 21,,Yes,,152
+Mccook,04,Referred Law 21,,No,,355
+Mccook,05,Referred Law 21,,Yes,,228
+Mccook,05,Referred Law 21,,No,,416
+Mccook,06,Referred Law 21,,Yes,,132
+Mccook,06,Referred Law 21,,No,,247

@@ -16,13 +16,15 @@ Outputs per-county CSVs to 2024/counties/
 """
 
 import argparse
-import contextlib
 import csv
 import json
+import logging
 import os
 import re
+import signal
 import sys
 import tempfile
+import time
 import traceback
 import urllib.parse
 import urllib.request
@@ -35,6 +37,22 @@ from natural_pdf import PDF
 
 # DPI used when rasterizing PDF pages for the vision model.
 RENDER_DPI = 200
+
+# Per-page LLM call retry policy (for transient hosted-model errors: 503 overload,
+# dropped streams). Delays grow as base, base*2, base*4, ... so 4 attempts wait ~21s total.
+LLM_MAX_ATTEMPTS = 4
+LLM_RETRY_BASE_DELAY = 3  # seconds
+# Hosted requests sometimes hang indefinitely (server accepts but never responds). Without
+# a timeout the whole run stalls on one page; with it the hang becomes a retriable error.
+LLM_REQUEST_TIMEOUT = 120  # seconds per attempt
+
+
+class _RequestTimeout(Exception):
+    pass
+
+
+def _on_request_timeout(signum, frame):
+    raise _RequestTimeout(f"LLM request exceeded {LLM_REQUEST_TIMEOUT}s")
 
 GITHUB_RAW_BASE = (
     "https://github.com/openelections/openelections-sources-sd/raw/master/2024/general"
@@ -190,6 +208,9 @@ OFFICE_MAP = {
     "STATE SENATE": "State Senate",
     "STATE REPRESENTATIVE": "State House",
     "STATE HOUSE": "State House",
+    "SUPREME COURT RETENTION": "Supreme Court Retention",
+    "SUPREME COURT JUSTICE": "Supreme Court Retention",
+    "SUPREME COURT": "Supreme Court Retention",
 }
 
 # Ballot measures: keep the canonical short label and drop the verbose description
@@ -300,6 +321,20 @@ def model_cache_slug(model_name: str) -> str:
     return re.sub(r"[^A-Za-z0-9]+", "-", model_name).strip("-")
 
 
+def _quiet_yolo_logger() -> None:
+    """Raise the doclayout_yolo logger above INFO so its per-page progress lines
+    ("image 1/1 ... Speed:") stop flooding output. Idempotent; safe to call per page.
+
+    Done via the logger/handler level rather than redirecting stdout: redirecting to a
+    context-managed os.devnull closes the handler's stream, after which every subsequent
+    log call raises "I/O operation on closed file" for the rest of the run.
+    """
+    lg = logging.getLogger("doclayout_yolo")
+    lg.setLevel(logging.ERROR)
+    for handler in lg.handlers:
+        handler.setLevel(logging.ERROR)
+
+
 def crop_table_image(page, dpi: int = RENDER_DPI):
     """Render a page to a PIL image, cropped to the detected table region(s).
 
@@ -308,10 +343,8 @@ def crop_table_image(page, dpi: int = RENDER_DPI):
     blank margins that dominate these canvass pages. Pages with no detected table
     (cover/certificate pages) fall back to the full-page render.
     """
-    # analyze_layout() prints per-page YOLO progress ("image 1/1 ... Speed:") to stdout;
-    # swallow it so it doesn't drown out the script's own progress output.
-    with open(os.devnull, "w") as devnull, contextlib.redirect_stdout(devnull):
-        regions = page.analyze_layout()
+    regions = page.analyze_layout()
+    _quiet_yolo_logger()  # hush the per-page YOLO progress logger after first use
     full = page.render(resolution=dpi)
     tables = [r for r in regions if getattr(r, "type", "") == "table"]
     if not tables:
@@ -354,9 +387,15 @@ def extract_page_records(model, page_img_path: Path, cache_file: Path, prompt: s
     needed for visual column-header continuation.
     """
     if cache_file.exists():
-        print("    (cached)")
-        with open(cache_file) as f:
-            return json.load(f)
+        try:
+            with open(cache_file) as f:
+                data = json.load(f)
+            print("    (cached)")
+            return data
+        except (json.JSONDecodeError, ValueError):
+            # Truncated/corrupt cache (e.g. a process killed mid-write): re-fetch rather
+            # than let json.load raise and strand this page as permanently empty.
+            print("    (cached file unreadable, re-fetching)")
 
     if prev_county:
         prompt = (f"{prompt}\n\nCONTEXT: The previous page belonged to {prev_county} County. "
@@ -367,14 +406,39 @@ def extract_page_records(model, page_img_path: Path, cache_file: Path, prompt: s
         attachments.append(llm.Attachment(path=str(prev_img_path)))
     attachments.append(llm.Attachment(path=str(page_img_path)))
 
-    response = model.prompt(prompt, attachments=attachments)
-    text = response.text().strip()
-
-    # Save raw response alongside cache for debugging
+    # Hosted models (e.g. Ollama Cloud's large Qwen) intermittently return 503 "overloaded"
+    # or drop the stream (status -1) under shared-capacity pressure unrelated to our quota.
+    # Retry with exponential backoff so a transient failure recovers in-pass instead of
+    # leaving a gap that needs a whole extra parsing sweep.
     raw_file = cache_file.with_suffix(".raw.txt")
-    raw_file.write_text(text)
+    # Arm an alarm-based timeout so a hung request raises instead of stalling the run.
+    # signal.alarm only works on the main thread; skip the guard elsewhere.
+    try:
+        signal.signal(signal.SIGALRM, _on_request_timeout)
+        can_timeout = True
+    except ValueError:
+        can_timeout = False
 
-    records = extract_json(text)
+    for attempt in range(1, LLM_MAX_ATTEMPTS + 1):
+        try:
+            if can_timeout:
+                signal.alarm(LLM_REQUEST_TIMEOUT)
+            try:
+                response = model.prompt(prompt, attachments=attachments)
+                text = response.text().strip()
+            finally:
+                if can_timeout:
+                    signal.alarm(0)
+            raw_file.write_text(text)
+            records = extract_json(text)
+            break
+        except Exception as e:
+            if attempt == LLM_MAX_ATTEMPTS:
+                raise
+            delay = LLM_RETRY_BASE_DELAY * 2 ** (attempt - 1)
+            print(f"    transient error (attempt {attempt}/{LLM_MAX_ATTEMPTS}), "
+                  f"retrying in {delay}s: {e}")
+            time.sleep(delay)
 
     with open(cache_file, "w") as f:
         json.dump(records, f, indent=2)
@@ -600,6 +664,21 @@ def process_county_totals_pdf(
             "votes": parse_votes(rec.get("votes", 0)),
         })
 
+    # Deduplicate: each page is sent with the previous page as visual context, so the model
+    # re-reads the prior page's counties and every row otherwise lands twice. A county total
+    # appears once per (county, office, district, candidate, party); keep the first read.
+    seen: dict = {}
+    deduped = []
+    for row in rows:
+        key = (row["county"], row["office"], row["district"], row["candidate"], row["party"])
+        if key not in seen:
+            seen[key] = row
+            deduped.append(row)
+        elif seen[key]["votes"] != row["votes"]:
+            print(f"    WARN dedup conflict {row['county']}/{row['office']}/{row['candidate']}: "
+                  f"{seen[key]['votes']} vs {row['votes']}")
+    rows = deduped
+
     out_file = Path(output_path)
     out_file.parent.mkdir(parents=True, exist_ok=True)
     fieldnames = ["county", "office", "district", "party", "candidate", "votes"]
@@ -676,6 +755,13 @@ def main():
         election_date = ELECTION_DATE
         election_type = ELECTION_TYPE
         github_subdir = "general"
+
+    # --output-dir governs the per-county precinct CSVs. When it points somewhere other
+    # than the in-repo default (e.g. a staging dir), keep the county-totals CSV alongside
+    # them rather than writing to its committed default path -- otherwise a staging run
+    # would silently clobber the checked-in county-totals file.
+    if args.output_dir != parser.get_default("output_dir"):
+        county_totals_output = str(Path(args.output_dir) / Path(county_totals_output).name)
 
     print(f"Model: {args.model}")
     print(f"Election: 2024 {election_type}")

@@ -1,52 +1,4 @@
 county,precinct,office,district,candidate,party,votes
-Hand,1,Supreme Court Retention,,Yes,,698
-Hand,1,Supreme Court Retention,,No,,171
-Hand,2,Supreme Court Retention,,Yes,,573
-Hand,2,Supreme Court Retention,,No,,141
-Hand,3,Supreme Court Retention,,Yes,,281
-Hand,3,Supreme Court Retention,,No,,71
-Hand,1,Constitutional Amendment E,,Yes,,236
-Hand,1,Constitutional Amendment E,,No,,781
-Hand,2,Constitutional Amendment E,,Yes,,207
-Hand,2,Constitutional Amendment E,,No,,604
-Hand,3,Constitutional Amendment E,,Yes,,103
-Hand,3,Constitutional Amendment E,,No,,317
-Hand,1,Constitutional Amendment F,,Yes,,574
-Hand,1,Constitutional Amendment F,,No,,446
-Hand,2,Constitutional Amendment F,,Yes,,413
-Hand,2,Constitutional Amendment F,,No,,390
-Hand,3,Constitutional Amendment F,,Yes,,212
-Hand,3,Constitutional Amendment F,,No,,200
-Hand,1,Constitutional Amendment G,,Yes,,245
-Hand,1,Constitutional Amendment G,,No,,774
-Hand,2,Constitutional Amendment G,,Yes,,186
-Hand,2,Constitutional Amendment G,,No,,623
-Hand,3,Constitutional Amendment G,,Yes,,89
-Hand,3,Constitutional Amendment G,,No,,331
-Hand,1,Constitutional Amendment H,,Yes,,187
-Hand,1,Constitutional Amendment H,,No,,819
-Hand,2,Constitutional Amendment H,,Yes,,173
-Hand,2,Constitutional Amendment H,,No,,622
-Hand,3,Constitutional Amendment H,,Yes,,83
-Hand,3,Constitutional Amendment H,,No,,332
-Hand,1,Initiated Measure 28,,Yes,,154
-Hand,1,Initiated Measure 28,,No,,858
-Hand,2,Initiated Measure 28,,Yes,,140
-Hand,2,Initiated Measure 28,,No,,663
-Hand,3,Initiated Measure 28,,Yes,,70
-Hand,3,Initiated Measure 28,,No,,352
-Hand,1,Initiated Measure 29,,Yes,,283
-Hand,1,Initiated Measure 29,,No,,735
-Hand,2,Initiated Measure 29,,Yes,,233
-Hand,2,Initiated Measure 29,,No,,575
-Hand,3,Initiated Measure 29,,Yes,,112
-Hand,3,Initiated Measure 29,,No,,311
-Hand,1,Referred Law 21,,Yes,,254
-Hand,1,Referred Law 21,,No,,754
-Hand,2,Referred Law 21,,Yes,,208
-Hand,2,Referred Law 21,,No,,588
-Hand,3,Referred Law 21,,Yes,,94
-Hand,3,Referred Law 21,,No,,312
 Hand,01,President,,Kamala D. Harris and Tim Walz,DEM,96
 Hand,01,President,,Chase Oliver and Mike ter Maat,LIB,1
 Hand,01,President,,Donald J. Trump and JD Vance,REP,317
@@ -77,21 +29,6 @@ Hand,04,U.S. House,1,Sheryl Johnson,DEM,26
 Hand,04,U.S. House,1,Dusty Johnson,REP,279
 Hand,05,U.S. House,1,Sheryl Johnson,DEM,41
 Hand,05,U.S. House,1,Dusty Johnson,REP,296
-Hand,1,Public Utilities Commissioner,,Forrest Wilson,DEM,74
-Hand,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
-Hand,1,Public Utilities Commissioner,,Kristie Fiegen,REP,293
-Hand,2,Public Utilities Commissioner,,Forrest Wilson,DEM,59
-Hand,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
-Hand,2,Public Utilities Commissioner,,Kristie Fiegen,REP,232
-Hand,3,Public Utilities Commissioner,,Forrest Wilson,DEM,66
-Hand,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
-Hand,3,Public Utilities Commissioner,,Kristie Fiegen,REP,269
-Hand,4,Public Utilities Commissioner,,Forrest Wilson,DEM,27
-Hand,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Hand,4,Public Utilities Commissioner,,Kristie Fiegen,REP,266
-Hand,5,Public Utilities Commissioner,,Forrest Wilson,DEM,38
-Hand,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
-Hand,5,Public Utilities Commissioner,,Kristie Fiegen,REP,287
 Hand,01,Public Utilities Commissioner,,Forrest Wilson,DEM,74
 Hand,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,22
 Hand,01,Public Utilities Commissioner,,Kristie Fiegen,REP,293
@@ -122,26 +59,16 @@ Hand,04,State House,23,Scott Moore,REP,220
 Hand,04,State House,23,Spencer Gosch,REP,190
 Hand,05,State House,23,Scott Moore,REP,244
 Hand,05,State House,23,Spencer Gosch,REP,250
-Hand,01,Supreme Court Retention,,Yes,,293
-Hand,01,Supreme Court Retention,,No,,48
-Hand,02,Supreme Court Retention,,Yes,,221
-Hand,02,Supreme Court Retention,,No,,41
-Hand,03,Supreme Court Retention,,Yes,,252
-Hand,03,Supreme Court Retention,,No,,58
-Hand,04,Supreme Court Retention,,Yes,,262
-Hand,04,Supreme Court Retention,,No,,31
-Hand,05,Supreme Court Retention,,Yes,,228
-Hand,05,Supreme Court Retention,,No,,43
-Hand,01,Supreme Court Retention,5,Yes,,293
-Hand,01,Supreme Court Retention,5,No,,48
-Hand,02,Supreme Court Retention,5,Yes,,221
-Hand,02,Supreme Court Retention,5,No,,41
-Hand,03,Supreme Court Retention,5,Yes,,252
-Hand,03,Supreme Court Retention,5,No,,58
-Hand,04,Supreme Court Retention,5,Yes,,268
-Hand,04,Supreme Court Retention,5,No,,41
-Hand,05,Supreme Court Retention,5,Yes,,222
-Hand,05,Supreme Court Retention,5,No,,33
+Hand,01,Supreme Court Retention,5,Scott P. Myren - Yes,,293
+Hand,01,Supreme Court Retention,5,Scott P. Myren - No,,48
+Hand,02,Supreme Court Retention,5,Scott P. Myren - Yes,,221
+Hand,02,Supreme Court Retention,5,Scott P. Myren - No,,41
+Hand,03,Supreme Court Retention,5,Scott P. Myren - Yes,,252
+Hand,03,Supreme Court Retention,5,Scott P. Myren - No,,58
+Hand,04,Supreme Court Retention,5,Scott P. Myren - Yes,,228
+Hand,04,Supreme Court Retention,5,Scott P. Myren - No,,41
+Hand,05,Supreme Court Retention,5,Scott P. Myren - Yes,,262
+Hand,05,Supreme Court Retention,5,Scott P. Myren - No,,33
 Hand,01,Constitutional Amendment E,,Yes,,142
 Hand,01,Constitutional Amendment E,,No,,275
 Hand,01,Constitutional Amendment F,,Yes,,230
@@ -151,7 +78,7 @@ Hand,01,Constitutional Amendment G,,No,,296
 Hand,01,Constitutional Amendment H,,Yes,,114
 Hand,01,Constitutional Amendment H,,No,,299
 Hand,02,Constitutional Amendment E,,Yes,,112
-Hand,02,Constitutional Amendment E,,No,,230
+Hand,02,Constitutional Amendment E,,No,,200
 Hand,02,Constitutional Amendment F,,Yes,,171
 Hand,02,Constitutional Amendment F,,No,,141
 Hand,02,Constitutional Amendment G,,Yes,,85
@@ -163,52 +90,52 @@ Hand,03,Constitutional Amendment E,,No,,234
 Hand,03,Constitutional Amendment F,,Yes,,198
 Hand,03,Constitutional Amendment F,,No,,163
 Hand,03,Constitutional Amendment G,,Yes,,95
-Hand,03,Constitutional Amendment G,,No,,211
+Hand,03,Constitutional Amendment G,,No,,274
 Hand,03,Constitutional Amendment H,,Yes,,110
 Hand,03,Constitutional Amendment H,,No,,247
 Hand,04,Constitutional Amendment E,,Yes,,77
 Hand,04,Constitutional Amendment E,,No,,234
 Hand,04,Constitutional Amendment F,,Yes,,179
-Hand,04,Constitutional Amendment F,,No,,141
-Hand,04,Constitutional Amendment G,,Yes,,58
-Hand,04,Constitutional Amendment G,,No,,233
+Hand,04,Constitutional Amendment F,,No,,134
+Hand,04,Constitutional Amendment G,,Yes,,60
+Hand,04,Constitutional Amendment G,,No,,255
 Hand,04,Constitutional Amendment H,,Yes,,62
 Hand,04,Constitutional Amendment H,,No,,249
 Hand,05,Constitutional Amendment E,,Yes,,84
-Hand,05,Constitutional Amendment E,,No,,250
+Hand,05,Constitutional Amendment E,,No,,260
 Hand,05,Constitutional Amendment F,,Yes,,189
 Hand,05,Constitutional Amendment F,,No,,156
 Hand,05,Constitutional Amendment G,,Yes,,59
 Hand,05,Constitutional Amendment G,,No,,287
-Hand,05,Constitutional Amendment H,,Yes,,61
+Hand,05,Constitutional Amendment H,,Yes,,64
 Hand,05,Constitutional Amendment H,,No,,275
 Hand,01,Initiated Measure 28,,Yes,,86
 Hand,01,Initiated Measure 28,,No,,331
-Hand,02,Initiated Measure 28,,Yes,,87
-Hand,02,Initiated Measure 28,,No,,255
-Hand,03,Initiated Measure 28,,Yes,,61
-Hand,03,Initiated Measure 28,,No,,294
-Hand,04,Initiated Measure 28,,Yes,,45
-Hand,04,Initiated Measure 28,,No,,266
-Hand,05,Initiated Measure 28,,Yes,,45
-Hand,05,Initiated Measure 28,,No,,291
-Hand,01,Initiated Measure 29,,Yes,,96
-Hand,01,Initiated Measure 29,,No,,322
-Hand,02,Initiated Measure 29,,Yes,,93
-Hand,02,Initiated Measure 29,,No,,222
-Hand,03,Initiated Measure 29,,Yes,,102
-Hand,03,Initiated Measure 29,,No,,265
-Hand,04,Initiated Measure 29,,Yes,,54
-Hand,04,Initiated Measure 29,,No,,257
-Hand,05,Initiated Measure 29,,Yes,,53
-Hand,05,Initiated Measure 29,,No,,293
+Hand,01,Initiated Measure 29,,Yes,,127
+Hand,01,Initiated Measure 29,,No,,292
 Hand,01,Referred Law 21,,Yes,,119
 Hand,01,Referred Law 21,,No,,296
-Hand,02,Referred Law 21,,Yes,,119
-Hand,02,Referred Law 21,,No,,215
+Hand,02,Initiated Measure 28,,Yes,,57
+Hand,02,Initiated Measure 28,,No,,255
+Hand,02,Initiated Measure 29,,Yes,,93
+Hand,02,Initiated Measure 29,,No,,222
+Hand,02,Referred Law 21,,Yes,,91
+Hand,02,Referred Law 21,,No,,213
+Hand,03,Initiated Measure 28,,Yes,,69
+Hand,03,Initiated Measure 28,,No,,294
+Hand,03,Initiated Measure 29,,Yes,,102
+Hand,03,Initiated Measure 29,,No,,265
 Hand,03,Referred Law 21,,Yes,,113
 Hand,03,Referred Law 21,,No,,246
+Hand,04,Initiated Measure 28,,Yes,,45
+Hand,04,Initiated Measure 28,,No,,266
+Hand,04,Initiated Measure 29,,Yes,,54
+Hand,04,Initiated Measure 29,,No,,257
 Hand,04,Referred Law 21,,Yes,,73
 Hand,04,Referred Law 21,,No,,234
+Hand,05,Initiated Measure 28,,Yes,,47
+Hand,05,Initiated Measure 28,,No,,291
+Hand,05,Initiated Measure 29,,Yes,,53
+Hand,05,Initiated Measure 29,,No,,293
 Hand,05,Referred Law 21,,Yes,,63
 Hand,05,Referred Law 21,,No,,283

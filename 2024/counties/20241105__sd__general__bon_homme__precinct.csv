@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes
 Bon Homme,1,President,,Kamala D. Harris and Tim Walz,DEM,96
-Bon Homme,1,President,,Chase Oliver and Mike ter Maat,LIB,1
+Bon Homme,1,President,,Chase Oliver and Mike ter Maat,LIB,2
 Bon Homme,1,President,,Donald J. Trump and JD Vance,REP,492
 Bon Homme,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Bon Homme,2,President,,Kamala D. Harris and Tim Walz,DEM,124
@@ -76,42 +76,42 @@ Bon Homme,5,Supreme Court Retention,5,Scott P. Myren - Yes,,433
 Bon Homme,5,Supreme Court Retention,5,Scott P. Myren - No,,87
 Bon Homme,1,Constitutional Amendment E,,Yes,,178
 Bon Homme,1,Constitutional Amendment E,,No,,416
-Bon Homme,1,Constitutional Amendment F,,Yes,,287
-Bon Homme,1,Constitutional Amendment F,,No,,306
-Bon Homme,1,Constitutional Amendment G,,Yes,,137
-Bon Homme,1,Constitutional Amendment G,,No,,466
-Bon Homme,1,Constitutional Amendment H,,Yes,,135
-Bon Homme,1,Constitutional Amendment H,,No,,455
 Bon Homme,2,Constitutional Amendment E,,Yes,,140
 Bon Homme,2,Constitutional Amendment E,,No,,383
-Bon Homme,2,Constitutional Amendment F,,Yes,,242
-Bon Homme,2,Constitutional Amendment F,,No,,277
-Bon Homme,2,Constitutional Amendment G,,Yes,,137
-Bon Homme,2,Constitutional Amendment G,,No,,387
-Bon Homme,2,Constitutional Amendment H,,Yes,,118
-Bon Homme,2,Constitutional Amendment H,,No,,396
 Bon Homme,3,Constitutional Amendment E,,Yes,,228
 Bon Homme,3,Constitutional Amendment E,,No,,467
-Bon Homme,3,Constitutional Amendment F,,Yes,,361
-Bon Homme,3,Constitutional Amendment F,,No,,328
-Bon Homme,3,Constitutional Amendment G,,Yes,,215
-Bon Homme,3,Constitutional Amendment G,,No,,476
-Bon Homme,3,Constitutional Amendment H,,Yes,,236
-Bon Homme,3,Constitutional Amendment H,,No,,440
 Bon Homme,4,Constitutional Amendment E,,Yes,,166
 Bon Homme,4,Constitutional Amendment E,,No,,386
-Bon Homme,4,Constitutional Amendment F,,Yes,,294
-Bon Homme,4,Constitutional Amendment F,,No,,254
-Bon Homme,4,Constitutional Amendment G,,Yes,,140
-Bon Homme,4,Constitutional Amendment G,,No,,415
-Bon Homme,4,Constitutional Amendment H,,Yes,,165
-Bon Homme,4,Constitutional Amendment H,,No,,376
 Bon Homme,5,Constitutional Amendment E,,Yes,,212
 Bon Homme,5,Constitutional Amendment E,,No,,400
+Bon Homme,1,Constitutional Amendment F,,Yes,,287
+Bon Homme,1,Constitutional Amendment F,,No,,306
+Bon Homme,2,Constitutional Amendment F,,Yes,,242
+Bon Homme,2,Constitutional Amendment F,,No,,277
+Bon Homme,3,Constitutional Amendment F,,Yes,,361
+Bon Homme,3,Constitutional Amendment F,,No,,328
+Bon Homme,4,Constitutional Amendment F,,Yes,,294
+Bon Homme,4,Constitutional Amendment F,,No,,254
 Bon Homme,5,Constitutional Amendment F,,Yes,,334
 Bon Homme,5,Constitutional Amendment F,,No,,278
+Bon Homme,1,Constitutional Amendment G,,Yes,,137
+Bon Homme,1,Constitutional Amendment G,,No,,466
+Bon Homme,2,Constitutional Amendment G,,Yes,,137
+Bon Homme,2,Constitutional Amendment G,,No,,387
+Bon Homme,3,Constitutional Amendment G,,Yes,,215
+Bon Homme,3,Constitutional Amendment G,,No,,476
+Bon Homme,4,Constitutional Amendment G,,Yes,,140
+Bon Homme,4,Constitutional Amendment G,,No,,415
 Bon Homme,5,Constitutional Amendment G,,Yes,,160
 Bon Homme,5,Constitutional Amendment G,,No,,459
+Bon Homme,1,Constitutional Amendment H,,Yes,,135
+Bon Homme,1,Constitutional Amendment H,,No,,455
+Bon Homme,2,Constitutional Amendment H,,Yes,,118
+Bon Homme,2,Constitutional Amendment H,,No,,396
+Bon Homme,3,Constitutional Amendment H,,Yes,,236
+Bon Homme,3,Constitutional Amendment H,,No,,440
+Bon Homme,4,Constitutional Amendment H,,Yes,,165
+Bon Homme,4,Constitutional Amendment H,,No,,376
 Bon Homme,5,Constitutional Amendment H,,Yes,,172
 Bon Homme,5,Constitutional Amendment H,,No,,431
 Bon Homme,1,Initiated Measure 28,,Yes,,138

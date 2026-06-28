@@ -2,22 +2,22 @@ county,precinct,office,district,candidate,party,votes
 Hamlin,02,President,,Kamala D. Harris and Tim Walz,DEM,16
 Hamlin,02,President,,Chase Oliver and Mike ter Maat,LIB,0
 Hamlin,02,President,,Donald J. Trump and JD Vance,REP,158
-Hamlin,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
-Hamlin,11,President,,Kamala D. Harris and Tim Walz,DEM,169
-Hamlin,11,President,,Chase Oliver and Mike ter Maat,LIB,5
-Hamlin,11,President,,Donald J. Trump and JD Vance,REP,621
-Hamlin,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
-Hamlin,21,President,,Kamala D. Harris and Tim Walz,DEM,9
-Hamlin,21,President,,Chase Oliver and Mike ter Maat,LIB,1
-Hamlin,21,President,,Donald J. Trump and JD Vance,REP,183
-Hamlin,21,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Hamlin,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Hamlin,21,President,,Kamala D. Harris and Tim Walz,DEM,169
+Hamlin,21,President,,Chase Oliver and Mike ter Maat,LIB,5
+Hamlin,21,President,,Donald J. Trump and JD Vance,REP,621
+Hamlin,21,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
+Hamlin,22,President,,Kamala D. Harris and Tim Walz,DEM,9
+Hamlin,22,President,,Chase Oliver and Mike ter Maat,LIB,1
+Hamlin,22,President,,Donald J. Trump and JD Vance,REP,133
+Hamlin,22,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Hamlin,23,President,,Kamala D. Harris and Tim Walz,DEM,42
-Hamlin,23,President,,Chase Oliver and Mike ter Maat,LIB,3
+Hamlin,23,President,,Chase Oliver and Mike ter Maat,LIB,2
 Hamlin,23,President,,Donald J. Trump and JD Vance,REP,240
 Hamlin,23,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Hamlin,24,President,,Kamala D. Harris and Tim Walz,DEM,152
 Hamlin,24,President,,Chase Oliver and Mike ter Maat,LIB,3
-Hamlin,24,President,,Donald J. Trump and JD Vance,REP,533
+Hamlin,24,President,,Donald J. Trump and JD Vance,REP,633
 Hamlin,24,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Hamlin,25,President,,Kamala D. Harris and Tim Walz,DEM,178
 Hamlin,25,President,,Chase Oliver and Mike ter Maat,LIB,4
@@ -27,10 +27,6 @@ Hamlin,26,President,,Kamala D. Harris and Tim Walz,DEM,44
 Hamlin,26,President,,Chase Oliver and Mike ter Maat,LIB,4
 Hamlin,26,President,,Donald J. Trump and JD Vance,REP,405
 Hamlin,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Hamlin,22,President,,Kamala D. Harris and Tim Walz,DEM,9
-Hamlin,22,President,,Chase Oliver and Mike ter Maat,LIB,1
-Hamlin,22,President,,Donald J. Trump and JD Vance,REP,133
-Hamlin,22,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Hamlin,02,U.S. House,1,Sheryl Johnson,DEM,11
 Hamlin,02,U.S. House,1,Dusty Johnson,REP,161
 Hamlin,21,U.S. House,1,Sheryl Johnson,DEM,115
@@ -47,31 +43,24 @@ Hamlin,26,U.S. House,1,Sheryl Johnson,DEM,36
 Hamlin,26,U.S. House,1,Dusty Johnson,REP,411
 Hamlin,02,Public Utilities Commissioner,,Forrest Wilson,DEM,13
 Hamlin,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
-Hamlin,02,Public Utilities Commissioner,,Kristie Riegen,REP,151
+Hamlin,02,Public Utilities Commissioner,,Kristie Fiegen,REP,151
 Hamlin,21,Public Utilities Commissioner,,Forrest Wilson,DEM,110
 Hamlin,21,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
-Hamlin,21,Public Utilities Commissioner,,Kristie Riegen,REP,626
+Hamlin,21,Public Utilities Commissioner,,Kristie Fiegen,REP,626
 Hamlin,22,Public Utilities Commissioner,,Forrest Wilson,DEM,9
 Hamlin,22,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
-Hamlin,22,Public Utilities Commissioner,,Kristie Riegen,REP,122
+Hamlin,22,Public Utilities Commissioner,,Kristie Fiegen,REP,122
 Hamlin,23,Public Utilities Commissioner,,Forrest Wilson,DEM,23
 Hamlin,23,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
-Hamlin,23,Public Utilities Commissioner,,Kristie Riegen,REP,236
+Hamlin,23,Public Utilities Commissioner,,Kristie Fiegen,REP,236
 Hamlin,24,Public Utilities Commissioner,,Forrest Wilson,DEM,114
 Hamlin,24,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
-Hamlin,24,Public Utilities Commissioner,,Kristie Riegen,REP,619
+Hamlin,24,Public Utilities Commissioner,,Kristie Fiegen,REP,619
 Hamlin,25,Public Utilities Commissioner,,Forrest Wilson,DEM,141
 Hamlin,25,Public Utilities Commissioner,,A. Gideon Oakes,LIB,23
-Hamlin,25,Public Utilities Commissioner,,Kristie Riegen,REP,370
+Hamlin,25,Public Utilities Commissioner,,Kristie Fiegen,REP,370
 Hamlin,26,Public Utilities Commissioner,,Forrest Wilson,DEM,21
 Hamlin,26,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
-Hamlin,26,Public Utilities Commissioner,,Kristie Riegen,REP,387
-Hamlin,02,Public Utilities Commissioner,,Kristie Fiegen,REP,151
-Hamlin,21,Public Utilities Commissioner,,Kristie Fiegen,REP,626
-Hamlin,22,Public Utilities Commissioner,,Kristie Fiegen,REP,122
-Hamlin,23,Public Utilities Commissioner,,Kristie Fiegen,REP,236
-Hamlin,24,Public Utilities Commissioner,,Kristie Fiegen,REP,619
-Hamlin,25,Public Utilities Commissioner,,Kristie Fiegen,REP,370
 Hamlin,26,Public Utilities Commissioner,,Kristie Fiegen,REP,387
 Hamlin,02,State Senate,04,Stephanie Sauder,REP,155
 Hamlin,21,State Senate,04,Stephanie Sauder,REP,627
@@ -94,129 +83,115 @@ Hamlin,25,State House,04,Kent Roe,REP,321
 Hamlin,25,State House,04,Dylan C. Jordan,REP,303
 Hamlin,26,State House,04,Kent Roe,REP,338
 Hamlin,26,State House,04,Dylan C. Jordan,REP,235
-Hamlin,02,Supreme Court Retention,,Yes,,127
-Hamlin,02,Supreme Court Retention,,No,,14
-Hamlin,21,Supreme Court Retention,,Yes,,572
-Hamlin,21,Supreme Court Retention,,No,,77
-Hamlin,22,Supreme Court Retention,,Yes,,107
-Hamlin,22,Supreme Court Retention,,No,,13
-Hamlin,23,Supreme Court Retention,,Yes,,190
-Hamlin,23,Supreme Court Retention,,No,,40
-Hamlin,24,Supreme Court Retention,,Yes,,492
-Hamlin,24,Supreme Court Retention,,No,,114
-Hamlin,25,Supreme Court Retention,,Yes,,381
-Hamlin,25,Supreme Court Retention,,No,,87
-Hamlin,26,Supreme Court Retention,,Yes,,297
-Hamlin,26,Supreme Court Retention,,No,,50
-Hamlin,02,Supreme Court Retention,5,Justice Scott P. Myren Yes,,127
-Hamlin,02,Supreme Court Retention,5,Justice Scott P. Myren No,,14
-Hamlin,21,Supreme Court Retention,5,Justice Scott P. Myren Yes,,572
-Hamlin,21,Supreme Court Retention,5,Justice Scott P. Myren No,,77
-Hamlin,22,Supreme Court Retention,5,Justice Scott P. Myren Yes,,107
-Hamlin,22,Supreme Court Retention,5,Justice Scott P. Myren No,,13
-Hamlin,23,Supreme Court Retention,5,Justice Scott P. Myren Yes,,190
-Hamlin,23,Supreme Court Retention,5,Justice Scott P. Myren No,,40
-Hamlin,24,Supreme Court Retention,5,Justice Scott P. Myren Yes,,492
-Hamlin,24,Supreme Court Retention,5,Justice Scott P. Myren No,,114
-Hamlin,25,Supreme Court Retention,5,Justice Scott P. Myren Yes,,381
-Hamlin,25,Supreme Court Retention,5,Justice Scott P. Myren No,,87
-Hamlin,26,Supreme Court Retention,5,Justice Scott P. Myren Yes,,297
-Hamlin,26,Supreme Court Retention,5,Justice Scott P. Myren No,,50
+Hamlin,02,Supreme Court Retention,5,Scott P. Myren - Yes,,127
+Hamlin,02,Supreme Court Retention,5,Scott P. Myren - No,,14
+Hamlin,21,Supreme Court Retention,5,Scott P. Myren - Yes,,572
+Hamlin,21,Supreme Court Retention,5,Scott P. Myren - No,,77
+Hamlin,22,Supreme Court Retention,5,Scott P. Myren - Yes,,107
+Hamlin,22,Supreme Court Retention,5,Scott P. Myren - No,,13
+Hamlin,23,Supreme Court Retention,5,Scott P. Myren - Yes,,190
+Hamlin,23,Supreme Court Retention,5,Scott P. Myren - No,,40
+Hamlin,24,Supreme Court Retention,5,Scott P. Myren - Yes,,492
+Hamlin,24,Supreme Court Retention,5,Scott P. Myren - No,,114
+Hamlin,25,Supreme Court Retention,5,Scott P. Myren - Yes,,381
+Hamlin,25,Supreme Court Retention,5,Scott P. Myren - No,,87
+Hamlin,26,Supreme Court Retention,5,Scott P. Myren - Yes,,297
+Hamlin,26,Supreme Court Retention,5,Scott P. Myren - No,,50
 Hamlin,02,Constitutional Amendment E,,Yes,,38
 Hamlin,02,Constitutional Amendment E,,No,,137
-Hamlin,21,Constitutional Amendment E,,Yes,,250
-Hamlin,21,Constitutional Amendment E,,No,,546
-Hamlin,22,Constitutional Amendment E,,Yes,,25
-Hamlin,22,Constitutional Amendment E,,No,,120
-Hamlin,23,Constitutional Amendment E,,Yes,,54
-Hamlin,23,Constitutional Amendment E,,No,,229
-Hamlin,24,Constitutional Amendment E,,Yes,,238
-Hamlin,24,Constitutional Amendment E,,No,,551
-Hamlin,25,Constitutional Amendment E,,Yes,,236
-Hamlin,25,Constitutional Amendment E,,No,,516
-Hamlin,26,Constitutional Amendment E,,Yes,,99
-Hamlin,26,Constitutional Amendment E,,No,,341
 Hamlin,02,Constitutional Amendment F,,Yes,,106
 Hamlin,02,Constitutional Amendment F,,No,,62
-Hamlin,21,Constitutional Amendment F,,Yes,,458
-Hamlin,21,Constitutional Amendment F,,No,,331
-Hamlin,22,Constitutional Amendment F,,Yes,,91
-Hamlin,22,Constitutional Amendment F,,No,,53
-Hamlin,23,Constitutional Amendment F,,Yes,,174
-Hamlin,23,Constitutional Amendment F,,No,,102
-Hamlin,24,Constitutional Amendment F,,Yes,,435
-Hamlin,24,Constitutional Amendment F,,No,,346
-Hamlin,25,Constitutional Amendment F,,Yes,,291
-Hamlin,25,Constitutional Amendment F,,No,,266
-Hamlin,26,Constitutional Amendment F,,Yes,,263
-Hamlin,26,Constitutional Amendment F,,No,,182
 Hamlin,02,Constitutional Amendment G,,Yes,,27
 Hamlin,02,Constitutional Amendment G,,No,,149
-Hamlin,21,Constitutional Amendment G,,Yes,,194
-Hamlin,21,Constitutional Amendment G,,No,,613
-Hamlin,22,Constitutional Amendment G,,Yes,,12
-Hamlin,22,Constitutional Amendment G,,No,,135
-Hamlin,23,Constitutional Amendment G,,Yes,,45
-Hamlin,23,Constitutional Amendment G,,No,,242
-Hamlin,24,Constitutional Amendment G,,Yes,,190
-Hamlin,24,Constitutional Amendment G,,No,,602
-Hamlin,25,Constitutional Amendment G,,Yes,,218
-Hamlin,25,Constitutional Amendment G,,No,,341
-Hamlin,26,Constitutional Amendment G,,Yes,,63
-Hamlin,26,Constitutional Amendment G,,No,,392
 Hamlin,02,Constitutional Amendment H,,Yes,,33
 Hamlin,02,Constitutional Amendment H,,No,,137
+Hamlin,21,Constitutional Amendment E,,Yes,,250
+Hamlin,21,Constitutional Amendment E,,No,,546
+Hamlin,21,Constitutional Amendment F,,Yes,,458
+Hamlin,21,Constitutional Amendment F,,No,,331
+Hamlin,21,Constitutional Amendment G,,Yes,,194
+Hamlin,21,Constitutional Amendment G,,No,,613
 Hamlin,21,Constitutional Amendment H,,Yes,,200
 Hamlin,21,Constitutional Amendment H,,No,,582
+Hamlin,22,Constitutional Amendment E,,Yes,,25
+Hamlin,22,Constitutional Amendment E,,No,,120
+Hamlin,22,Constitutional Amendment F,,Yes,,91
+Hamlin,22,Constitutional Amendment F,,No,,53
+Hamlin,22,Constitutional Amendment G,,Yes,,12
+Hamlin,22,Constitutional Amendment G,,No,,135
 Hamlin,22,Constitutional Amendment H,,Yes,,21
 Hamlin,22,Constitutional Amendment H,,No,,124
+Hamlin,23,Constitutional Amendment E,,Yes,,54
+Hamlin,23,Constitutional Amendment E,,No,,229
+Hamlin,23,Constitutional Amendment F,,Yes,,174
+Hamlin,23,Constitutional Amendment F,,No,,102
+Hamlin,23,Constitutional Amendment G,,Yes,,45
+Hamlin,23,Constitutional Amendment G,,No,,242
 Hamlin,23,Constitutional Amendment H,,Yes,,62
 Hamlin,23,Constitutional Amendment H,,No,,214
+Hamlin,24,Constitutional Amendment E,,Yes,,238
+Hamlin,24,Constitutional Amendment E,,No,,551
+Hamlin,24,Constitutional Amendment F,,Yes,,435
+Hamlin,24,Constitutional Amendment F,,No,,346
+Hamlin,24,Constitutional Amendment G,,Yes,,190
+Hamlin,24,Constitutional Amendment G,,No,,602
 Hamlin,24,Constitutional Amendment H,,Yes,,166
 Hamlin,24,Constitutional Amendment H,,No,,599
+Hamlin,25,Constitutional Amendment E,,Yes,,236
+Hamlin,25,Constitutional Amendment E,,No,,316
+Hamlin,25,Constitutional Amendment F,,Yes,,291
+Hamlin,25,Constitutional Amendment F,,No,,262
+Hamlin,25,Constitutional Amendment G,,Yes,,218
+Hamlin,25,Constitutional Amendment G,,No,,341
 Hamlin,25,Constitutional Amendment H,,Yes,,199
-Hamlin,25,Constitutional Amendment H,,No,,543
+Hamlin,25,Constitutional Amendment H,,No,,343
+Hamlin,26,Constitutional Amendment E,,Yes,,99
+Hamlin,26,Constitutional Amendment E,,No,,341
+Hamlin,26,Constitutional Amendment F,,Yes,,263
+Hamlin,26,Constitutional Amendment F,,No,,182
+Hamlin,26,Constitutional Amendment G,,Yes,,63
+Hamlin,26,Constitutional Amendment G,,No,,392
 Hamlin,26,Constitutional Amendment H,,Yes,,80
 Hamlin,26,Constitutional Amendment H,,No,,351
 Hamlin,02,Initiated Measure 28,,Yes,,28
 Hamlin,02,Initiated Measure 28,,No,,144
-Hamlin,21,Initiated Measure 28,,Yes,,165
-Hamlin,21,Initiated Measure 28,,No,,625
-Hamlin,22,Initiated Measure 28,,Yes,,41
-Hamlin,22,Initiated Measure 28,,No,,105
-Hamlin,23,Initiated Measure 28,,Yes,,87
-Hamlin,23,Initiated Measure 28,,No,,187
-Hamlin,24,Initiated Measure 28,,Yes,,199
-Hamlin,24,Initiated Measure 28,,No,,581
-Hamlin,25,Initiated Measure 28,,Yes,,178
-Hamlin,25,Initiated Measure 28,,No,,438
-Hamlin,26,Initiated Measure 28,,Yes,,103
-Hamlin,26,Initiated Measure 28,,No,,340
 Hamlin,02,Initiated Measure 29,,Yes,,32
 Hamlin,02,Initiated Measure 29,,No,,144
-Hamlin,21,Initiated Measure 29,,Yes,,219
-Hamlin,21,Initiated Measure 29,,No,,584
-Hamlin,22,Initiated Measure 29,,Yes,,24
-Hamlin,22,Initiated Measure 29,,No,,121
-Hamlin,23,Initiated Measure 29,,Yes,,71
-Hamlin,23,Initiated Measure 29,,No,,215
-Hamlin,24,Initiated Measure 29,,Yes,,197
-Hamlin,24,Initiated Measure 29,,No,,591
-Hamlin,25,Initiated Measure 29,,Yes,,248
-Hamlin,25,Initiated Measure 29,,No,,308
-Hamlin,26,Initiated Measure 29,,Yes,,72
-Hamlin,26,Initiated Measure 29,,No,,375
 Hamlin,02,Referred Law 21,,Yes,,70
 Hamlin,02,Referred Law 21,,No,,100
+Hamlin,21,Initiated Measure 28,,Yes,,165
+Hamlin,21,Initiated Measure 28,,No,,625
+Hamlin,21,Initiated Measure 29,,Yes,,219
+Hamlin,21,Initiated Measure 29,,No,,584
 Hamlin,21,Referred Law 21,,Yes,,315
 Hamlin,21,Referred Law 21,,No,,473
+Hamlin,22,Initiated Measure 28,,Yes,,41
+Hamlin,22,Initiated Measure 28,,No,,105
+Hamlin,22,Initiated Measure 29,,Yes,,24
+Hamlin,22,Initiated Measure 29,,No,,121
 Hamlin,22,Referred Law 21,,Yes,,36
 Hamlin,22,Referred Law 21,,No,,106
+Hamlin,23,Initiated Measure 28,,Yes,,87
+Hamlin,23,Initiated Measure 28,,No,,187
+Hamlin,23,Initiated Measure 29,,Yes,,71
+Hamlin,23,Initiated Measure 29,,No,,215
 Hamlin,23,Referred Law 21,,Yes,,128
 Hamlin,23,Referred Law 21,,No,,148
+Hamlin,24,Initiated Measure 28,,Yes,,199
+Hamlin,24,Initiated Measure 28,,No,,581
+Hamlin,24,Initiated Measure 29,,Yes,,197
+Hamlin,24,Initiated Measure 29,,No,,591
 Hamlin,24,Referred Law 21,,Yes,,335
 Hamlin,24,Referred Law 21,,No,,426
+Hamlin,25,Initiated Measure 28,,Yes,,178
+Hamlin,25,Initiated Measure 28,,No,,372
+Hamlin,25,Initiated Measure 29,,Yes,,248
+Hamlin,25,Initiated Measure 29,,No,,308
 Hamlin,25,Referred Law 21,,Yes,,243
 Hamlin,25,Referred Law 21,,No,,297
+Hamlin,26,Initiated Measure 28,,Yes,,103
+Hamlin,26,Initiated Measure 28,,No,,340
+Hamlin,26,Initiated Measure 29,,Yes,,72
+Hamlin,26,Initiated Measure 29,,No,,375
 Hamlin,26,Referred Law 21,,Yes,,190
 Hamlin,26,Referred Law 21,,No,,248

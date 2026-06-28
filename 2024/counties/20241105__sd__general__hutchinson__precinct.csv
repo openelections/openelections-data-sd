@@ -1,27 +1,27 @@
 county,precinct,office,district,candidate,party,votes
 Hutchinson,01,President,,Kamala D. Harris and Tim Walz,DEM,113
-Hutchinson,02,President,,Kamala D. Harris and Tim Walz,DEM,226
-Hutchinson,03,President,,Kamala D. Harris and Tim Walz,DEM,105
-Hutchinson,04,President,,Kamala D. Harris and Tim Walz,DEM,205
-Hutchinson,05,President,,Kamala D. Harris and Tim Walz,DEM,68
-Hutchinson,06,President,,Kamala D. Harris and Tim Walz,DEM,38
 Hutchinson,01,President,,Chase Oliver and Mike ter Maat,LIB,1
-Hutchinson,02,President,,Chase Oliver and Mike ter Maat,LIB,7
-Hutchinson,03,President,,Chase Oliver and Mike ter Maat,LIB,5
-Hutchinson,04,President,,Chase Oliver and Mike ter Maat,LIB,2
-Hutchinson,05,President,,Chase Oliver and Mike ter Maat,LIB,2
-Hutchinson,06,President,,Chase Oliver and Mike ter Maat,LIB,0
 Hutchinson,01,President,,Donald J. Trump and JD Vance,REP,593
-Hutchinson,02,President,,Donald J. Trump and JD Vance,REP,696
-Hutchinson,03,President,,Donald J. Trump and JD Vance,REP,423
-Hutchinson,04,President,,Donald J. Trump and JD Vance,REP,539
-Hutchinson,05,President,,Donald J. Trump and JD Vance,REP,379
-Hutchinson,06,President,,Donald J. Trump and JD Vance,REP,288
 Hutchinson,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Hutchinson,02,President,,Kamala D. Harris and Tim Walz,DEM,226
+Hutchinson,02,President,,Chase Oliver and Mike ter Maat,LIB,7
+Hutchinson,02,President,,Donald J. Trump and JD Vance,REP,696
 Hutchinson,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Hutchinson,03,President,,Kamala D. Harris and Tim Walz,DEM,105
+Hutchinson,03,President,,Chase Oliver and Mike ter Maat,LIB,5
+Hutchinson,03,President,,Donald J. Trump and JD Vance,REP,423
 Hutchinson,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
+Hutchinson,04,President,,Kamala D. Harris and Tim Walz,DEM,205
+Hutchinson,04,President,,Chase Oliver and Mike ter Maat,LIB,2
+Hutchinson,04,President,,Donald J. Trump and JD Vance,REP,539
 Hutchinson,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
+Hutchinson,05,President,,Kamala D. Harris and Tim Walz,DEM,68
+Hutchinson,05,President,,Chase Oliver and Mike ter Maat,LIB,2
+Hutchinson,05,President,,Donald J. Trump and JD Vance,REP,379
 Hutchinson,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Hutchinson,06,President,,Kamala D. Harris and Tim Walz,DEM,38
+Hutchinson,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Hutchinson,06,President,,Donald J. Trump and JD Vance,REP,288
 Hutchinson,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Hutchinson,01,U.S. House,1,Sheryl Johnson,DEM,93
 Hutchinson,01,U.S. House,1,Dusty Johnson,REP,606
@@ -77,18 +77,18 @@ Hutchinson,05,State House,19,Drew Peterson,REP,289
 Hutchinson,05,State House,19,Jessica Bahmuller,REP,306
 Hutchinson,06,State House,19,Drew Peterson,REP,182
 Hutchinson,06,State House,19,Jessica Bahmuller,REP,234
-Hutchinson,01,Supreme Court Retention,,Yes,,487
-Hutchinson,01,Supreme Court Retention,,No,,110
-Hutchinson,02,Supreme Court Retention,,Yes,,629
-Hutchinson,02,Supreme Court Retention,,No,,121
-Hutchinson,03,Supreme Court Retention,,Yes,,396
-Hutchinson,03,Supreme Court Retention,,No,,78
-Hutchinson,04,Supreme Court Retention,,Yes,,540
-Hutchinson,04,Supreme Court Retention,,No,,107
-Hutchinson,05,Supreme Court Retention,,Yes,,327
-Hutchinson,05,Supreme Court Retention,,No,,71
-Hutchinson,06,Supreme Court Retention,,Yes,,228
-Hutchinson,06,Supreme Court Retention,,No,,57
+Hutchinson,01,Supreme Court Retention,5,Scott P. Myren - Yes,,487
+Hutchinson,01,Supreme Court Retention,5,Scott P. Myren - No,,110
+Hutchinson,02,Supreme Court Retention,5,Scott P. Myren - Yes,,629
+Hutchinson,02,Supreme Court Retention,5,Scott P. Myren - No,,121
+Hutchinson,03,Supreme Court Retention,5,Scott P. Myren - Yes,,396
+Hutchinson,03,Supreme Court Retention,5,Scott P. Myren - No,,78
+Hutchinson,04,Supreme Court Retention,5,Scott P. Myren - Yes,,540
+Hutchinson,04,Supreme Court Retention,5,Scott P. Myren - No,,107
+Hutchinson,05,Supreme Court Retention,5,Scott P. Myren - Yes,,327
+Hutchinson,05,Supreme Court Retention,5,Scott P. Myren - No,,71
+Hutchinson,06,Supreme Court Retention,5,Scott P. Myren - Yes,,228
+Hutchinson,06,Supreme Court Retention,5,Scott P. Myren - No,,57
 Hutchinson,01,Constitutional Amendment E,,Yes,,204
 Hutchinson,01,Constitutional Amendment E,,No,,494
 Hutchinson,01,Constitutional Amendment F,,Yes,,360
@@ -137,3 +137,39 @@ Hutchinson,06,Constitutional Amendment G,,Yes,,60
 Hutchinson,06,Constitutional Amendment G,,No,,269
 Hutchinson,06,Constitutional Amendment H,,Yes,,75
 Hutchinson,06,Constitutional Amendment H,,No,,248
+Hutchinson,01,Initiated Measure 28,,Yes,,137
+Hutchinson,01,Initiated Measure 28,,No,,564
+Hutchinson,01,Initiated Measure 29,,Yes,,181
+Hutchinson,01,Initiated Measure 29,,No,,527
+Hutchinson,02,Initiated Measure 28,,Yes,,224
+Hutchinson,02,Initiated Measure 28,,No,,700
+Hutchinson,02,Initiated Measure 29,,Yes,,244
+Hutchinson,02,Initiated Measure 29,,No,,692
+Hutchinson,03,Initiated Measure 28,,Yes,,83
+Hutchinson,03,Initiated Measure 28,,No,,443
+Hutchinson,03,Initiated Measure 29,,Yes,,99
+Hutchinson,03,Initiated Measure 29,,No,,431
+Hutchinson,04,Initiated Measure 28,,Yes,,137
+Hutchinson,04,Initiated Measure 28,,No,,615
+Hutchinson,04,Initiated Measure 29,,Yes,,220
+Hutchinson,04,Initiated Measure 29,,No,,541
+Hutchinson,05,Initiated Measure 28,,Yes,,93
+Hutchinson,05,Initiated Measure 28,,No,,355
+Hutchinson,05,Initiated Measure 29,,Yes,,134
+Hutchinson,05,Initiated Measure 29,,No,,316
+Hutchinson,06,Initiated Measure 28,,Yes,,57
+Hutchinson,06,Initiated Measure 28,,No,,270
+Hutchinson,06,Initiated Measure 29,,Yes,,88
+Hutchinson,06,Initiated Measure 29,,No,,241
+Hutchinson,1,Referred Law 21,,Yes,,193
+Hutchinson,1,Referred Law 21,,No,,500
+Hutchinson,2,Referred Law 21,,Yes,,317
+Hutchinson,2,Referred Law 21,,No,,589
+Hutchinson,3,Referred Law 21,,Yes,,221
+Hutchinson,3,Referred Law 21,,No,,303
+Hutchinson,4,Referred Law 21,,Yes,,247
+Hutchinson,4,Referred Law 21,,No,,490
+Hutchinson,5,Referred Law 21,,Yes,,161
+Hutchinson,5,Referred Law 21,,No,,276
+Hutchinson,6,Referred Law 21,,Yes,,110
+Hutchinson,6,Referred Law 21,,No,,211

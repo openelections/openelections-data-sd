@@ -13,7 +13,7 @@ Lyman,06,President,,Donald J. Trump and JD Vance,REP,108
 Lyman,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Lyman,07,President,,Kamala D. Harris and Tim Walz,DEM,177
 Lyman,07,President,,Chase Oliver and Mike ter Maat,LIB,1
-Lyman,07,President,,Donald J. Trump and JD Vance,REP,207
+Lyman,07,President,,Donald J. Trump and JD Vance,REP,27
 Lyman,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
 Lyman,09,President,,Kamala D. Harris and Tim Walz,DEM,35
 Lyman,09,President,,Chase Oliver and Mike ter Maat,LIB,1
@@ -27,20 +27,6 @@ Lyman,13,President,,Kamala D. Harris and Tim Walz,DEM,16
 Lyman,13,President,,Chase Oliver and Mike ter Maat,LIB,1
 Lyman,13,President,,Donald J. Trump and JD Vance,REP,83
 Lyman,13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Lyman,1,U.S. House,1,Sheryl Johnson,DEM,8
-Lyman,1,U.S. House,1,Dusty Johnson,REP,52
-Lyman,4,U.S. House,1,Sheryl Johnson,DEM,62
-Lyman,4,U.S. House,1,Dusty Johnson,REP,246
-Lyman,6,U.S. House,1,Sheryl Johnson,DEM,26
-Lyman,6,U.S. House,1,Dusty Johnson,REP,117
-Lyman,7,U.S. House,1,Sheryl Johnson,DEM,139
-Lyman,7,U.S. House,1,Dusty Johnson,REP,68
-Lyman,9,U.S. House,1,Sheryl Johnson,DEM,24
-Lyman,9,U.S. House,1,Dusty Johnson,REP,217
-Lyman,12,U.S. House,1,Sheryl Johnson,DEM,45
-Lyman,12,U.S. House,1,Dusty Johnson,REP,319
-Lyman,13,U.S. House,1,Sheryl Johnson,DEM,14
-Lyman,13,U.S. House,1,Dusty Johnson,REP,80
 Lyman,01,U.S. House,1,Sheryl Johnson,DEM,8
 Lyman,01,U.S. House,1,Dusty Johnson,REP,52
 Lyman,04,U.S. House,1,Sheryl Johnson,DEM,62
@@ -51,6 +37,10 @@ Lyman,07,U.S. House,1,Sheryl Johnson,DEM,139
 Lyman,07,U.S. House,1,Dusty Johnson,REP,68
 Lyman,09,U.S. House,1,Sheryl Johnson,DEM,24
 Lyman,09,U.S. House,1,Dusty Johnson,REP,217
+Lyman,12,U.S. House,1,Sheryl Johnson,DEM,45
+Lyman,12,U.S. House,1,Dusty Johnson,REP,319
+Lyman,13,U.S. House,1,Sheryl Johnson,DEM,14
+Lyman,13,U.S. House,1,Dusty Johnson,REP,80
 Lyman,01,Public Utilities Commissioner,,Forrest Wilson,DEM,11
 Lyman,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,2
 Lyman,01,Public Utilities Commissioner,,Kristie Fiegen,REP,48
@@ -63,7 +53,7 @@ Lyman,06,Public Utilities Commissioner,,Kristie Fiegen,REP,109
 Lyman,07,Public Utilities Commissioner,,Forrest Wilson,DEM,157
 Lyman,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,20
 Lyman,07,Public Utilities Commissioner,,Kristie Fiegen,REP,27
-Lyman,09,Public Utilities Commissioner,,Forrest Wilson,DEM,76
+Lyman,09,Public Utilities Commissioner,,Forrest Wilson,DEM,26
 Lyman,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
 Lyman,09,Public Utilities Commissioner,,Kristie Fiegen,REP,197
 Lyman,12,Public Utilities Commissioner,,Forrest Wilson,DEM,47
@@ -100,34 +90,20 @@ Lyman,12,State House,26B,Rebecca Reimer,REP,250
 Lyman,12,State House,26B,David Reis,IND,111
 Lyman,13,State House,26B,Rebecca Reimer,REP,59
 Lyman,13,State House,26B,David Reis,IND,38
-Lyman,01,Supreme Court Retention,5,Yes,,41
-Lyman,01,Supreme Court Retention,5,No,,9
-Lyman,04,Supreme Court Retention,5,Yes,,205
-Lyman,04,Supreme Court Retention,5,No,,67
-Lyman,06,Supreme Court Retention,5,Yes,,101
-Lyman,06,Supreme Court Retention,5,No,,25
-Lyman,07,Supreme Court Retention,5,Yes,,91
-Lyman,07,Supreme Court Retention,5,No,,98
-Lyman,09,Supreme Court Retention,5,Yes,,151
-Lyman,09,Supreme Court Retention,5,No,,55
-Lyman,12,Supreme Court Retention,5,Yes,,258
-Lyman,12,Supreme Court Retention,5,No,,67
-Lyman,13,Supreme Court Retention,5,Yes,,67
-Lyman,13,Supreme Court Retention,5,No,,16
-Lyman,01,Supreme Court Retention,,Yes,,41
-Lyman,01,Supreme Court Retention,,No,,9
-Lyman,04,Supreme Court Retention,,Yes,,205
-Lyman,04,Supreme Court Retention,,No,,67
-Lyman,06,Supreme Court Retention,,Yes,,101
-Lyman,06,Supreme Court Retention,,No,,25
-Lyman,07,Supreme Court Retention,,Yes,,91
-Lyman,07,Supreme Court Retention,,No,,98
-Lyman,09,Supreme Court Retention,,Yes,,151
-Lyman,09,Supreme Court Retention,,No,,55
-Lyman,12,Supreme Court Retention,,Yes,,258
-Lyman,12,Supreme Court Retention,,No,,67
-Lyman,13,Supreme Court Retention,,Yes,,67
-Lyman,13,Supreme Court Retention,,No,,16
+Lyman,01,Supreme Court Retention,5,Scott P. Myren,,41
+Lyman,01,Supreme Court Retention,5,Scott P. Myren - No,,9
+Lyman,04,Supreme Court Retention,5,Scott P. Myren,,205
+Lyman,04,Supreme Court Retention,5,Scott P. Myren - No,,67
+Lyman,06,Supreme Court Retention,5,Scott P. Myren,,101
+Lyman,06,Supreme Court Retention,5,Scott P. Myren - No,,25
+Lyman,07,Supreme Court Retention,5,Scott P. Myren,,91
+Lyman,07,Supreme Court Retention,5,Scott P. Myren - No,,98
+Lyman,09,Supreme Court Retention,5,Scott P. Myren,,151
+Lyman,09,Supreme Court Retention,5,Scott P. Myren - No,,55
+Lyman,12,Supreme Court Retention,5,Scott P. Myren,,258
+Lyman,12,Supreme Court Retention,5,Scott P. Myren - No,,67
+Lyman,13,Supreme Court Retention,5,Scott P. Myren,,67
+Lyman,13,Supreme Court Retention,5,Scott P. Myren - No,,16
 Lyman,01,Constitutional Amendment E,,Yes,,10
 Lyman,01,Constitutional Amendment E,,No,,60
 Lyman,01,Constitutional Amendment F,,Yes,,31
@@ -186,14 +162,14 @@ Lyman,13,Constitutional Amendment H,,Yes,,17
 Lyman,13,Constitutional Amendment H,,No,,78
 Lyman,01,Initiated Measure 28,,Yes,,6
 Lyman,01,Initiated Measure 28,,No,,65
-Lyman,01,Initiated Measure 29,,Yes,,61
-Lyman,01,Initiated Measure 29,,No,,9
+Lyman,01,Initiated Measure 29,,Yes,,9
+Lyman,01,Initiated Measure 29,,No,,61
 Lyman,01,Referred Law 21,,Yes,,9
 Lyman,01,Referred Law 21,,No,,60
 Lyman,04,Initiated Measure 28,,Yes,,46
 Lyman,04,Initiated Measure 28,,No,,259
 Lyman,04,Initiated Measure 29,,Yes,,115
-Lyman,04,Initiated Measure 29,,No,,110
+Lyman,04,Initiated Measure 29,,No,,190
 Lyman,04,Referred Law 21,,Yes,,110
 Lyman,04,Referred Law 21,,No,,190
 Lyman,06,Initiated Measure 28,,Yes,,15
@@ -208,7 +184,7 @@ Lyman,07,Initiated Measure 29,,Yes,,162
 Lyman,07,Initiated Measure 29,,No,,46
 Lyman,07,Referred Law 21,,Yes,,106
 Lyman,07,Referred Law 21,,No,,97
-Lyman,09,Initiated Measure 28,,Yes,,31
+Lyman,09,Initiated Measure 28,,Yes,,34
 Lyman,09,Initiated Measure 28,,No,,204
 Lyman,09,Initiated Measure 29,,Yes,,75
 Lyman,09,Initiated Measure 29,,No,,166

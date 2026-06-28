@@ -1,55 +1,4 @@
 county,precinct,office,district,candidate,party,votes
-Turner,1,State Senate,08,Casey Crabtree,REP,101
-Turner,2,State Senate,08,Casey Crabtree,REP,94
-Turner,3,State Senate,08,Casey Crabtree,REP,86
-Turner,4,State Senate,08,Casey Crabtree,REP,113
-Turner,5,State Senate,08,Casey Crabtree,REP,77
-Turner,6,State Senate,08,Casey Crabtree,REP,155
-Turner,7,State Senate,08,Casey Crabtree,REP,131
-Turner,8,State Senate,08,Casey Crabtree,REP,80
-Turner,5,State Senate,20,Paul Miskimins,REP,52
-Turner,1,State House,08,Greg Zimmerman,LIB,17
-Turner,2,State House,08,Greg Zimmerman,LIB,16
-Turner,3,State House,08,Greg Zimmerman,LIB,16
-Turner,4,State House,08,Greg Zimmerman,LIB,16
-Turner,5,State House,08,Greg Zimmerman,LIB,19
-Turner,6,State House,08,Greg Zimmerman,LIB,19
-Turner,7,State House,08,Greg Zimmerman,LIB,22
-Turner,8,State House,08,Greg Zimmerman,LIB,19
-Turner,1,State House,08,Tim Reisch,REP,118
-Turner,2,State House,08,Tim Reisch,REP,106
-Turner,3,State House,08,Tim Reisch,REP,93
-Turner,4,State House,08,Tim Reisch,REP,124
-Turner,5,State House,08,Tim Reisch,REP,177
-Turner,6,State House,08,Tim Reisch,REP,150
-Turner,7,State House,08,Tim Reisch,REP,148
-Turner,8,State House,08,Tim Reisch,REP,85
-Turner,1,State House,08,Tim Walburg,REP,85
-Turner,2,State House,08,Tim Walburg,REP,76
-Turner,3,State House,08,Tim Walburg,REP,59
-Turner,4,State House,08,Tim Walburg,REP,87
-Turner,5,State House,08,Tim Walburg,REP,138
-Turner,6,State House,08,Tim Walburg,REP,116
-Turner,7,State House,08,Tim Walburg,REP,98
-Turner,8,State House,08,Tim Walburg,REP,70
-Turner,5,State House,20,Jeff Bathke,REP,43
-Turner,5,State House,20,Kaley Nolz,REP,55
-Turner,1,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,99
-Turner,2,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,82
-Turner,3,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,82
-Turner,4,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,97
-Turner,5,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,59
-Turner,6,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,140
-Turner,7,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,129
-Turner,8,Supreme Court Retention: Shall Justice Scott P. Myren...,,Yes,,82
-Turner,1,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,23
-Turner,2,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,20
-Turner,3,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,17
-Turner,4,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,28
-Turner,5,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,9
-Turner,6,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,34
-Turner,7,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,18
-Turner,8,Supreme Court Retention: Shall Justice Scott P. Myren...,,No,,16
 Turner,01,President,,Kamala D. Harris and Tim Walz,DEM,201
 Turner,01,President,,Chase Oliver and Mike ter Maat,LIB,8
 Turner,01,President,,Donald J. Trump and JD Vance,REP,666
@@ -70,7 +19,7 @@ Turner,05,President,,Kamala D. Harris and Tim Walz,DEM,107
 Turner,05,President,,Chase Oliver and Mike ter Maat,LIB,3
 Turner,05,President,,Donald J. Trump and JD Vance,REP,358
 Turner,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
-Turner,06,President,,Kamala D. Harris and Tim Walz,DEM,172
+Turner,06,President,,Kamala D. Harris and Tim Walz,DEM,126
 Turner,06,President,,Chase Oliver and Mike ter Maat,LIB,9
 Turner,06,President,,Donald J. Trump and JD Vance,REP,452
 Turner,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
@@ -78,18 +27,10 @@ Turner,07,President,,Kamala D. Harris and Tim Walz,DEM,62
 Turner,07,President,,Chase Oliver and Mike ter Maat,LIB,0
 Turner,07,President,,Donald J. Trump and JD Vance,REP,139
 Turner,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
-Turner,08,President,,Kamala D. Harris and Tim Walz,DEM,176
+Turner,08,President,,Kamala D. Harris and Tim Walz,DEM,126
 Turner,08,President,,Chase Oliver and Mike ter Maat,LIB,3
 Turner,08,President,,Donald J. Trump and JD Vance,REP,466
 Turner,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,10
-Turner,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,20
-Turner,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,20
-Turner,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
-Turner,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
-Turner,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,8
-Turner,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
-Turner,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,7
-Turner,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,10
 Turner,01,U.S. House,1,Sheryl Johnson,DEM,143
 Turner,01,U.S. House,1,Dusty Johnson,REP,739
 Turner,02,U.S. House,1,Sheryl Johnson,DEM,170
@@ -97,7 +38,7 @@ Turner,02,U.S. House,1,Dusty Johnson,REP,683
 Turner,03,U.S. House,1,Sheryl Johnson,DEM,96
 Turner,03,U.S. House,1,Dusty Johnson,REP,471
 Turner,04,U.S. House,1,Sheryl Johnson,DEM,57
-Turner,04,U.S. House,1,Dusty Johnson,REP,266
+Turner,04,U.S. House,1,Dusty Johnson,REP,268
 Turner,05,U.S. House,1,Sheryl Johnson,DEM,89
 Turner,05,U.S. House,1,Dusty Johnson,REP,388
 Turner,06,U.S. House,1,Sheryl Johnson,DEM,98
@@ -117,7 +58,7 @@ Turner,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,27
 Turner,03,Public Utilities Commissioner,,Kristie Fiegen,REP,437
 Turner,04,Public Utilities Commissioner,,Forrest Wilson,DEM,59
 Turner,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
-Turner,04,Public Utilities Commissioner,,Kristie Fiegen,REP,325
+Turner,04,Public Utilities Commissioner,,Kristie Fiegen,REP,235
 Turner,05,Public Utilities Commissioner,,Forrest Wilson,DEM,72
 Turner,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
 Turner,05,Public Utilities Commissioner,,Kristie Fiegen,REP,375
@@ -130,102 +71,15 @@ Turner,07,Public Utilities Commissioner,,Kristie Fiegen,REP,139
 Turner,08,Public Utilities Commissioner,,Forrest Wilson,DEM,96
 Turner,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,29
 Turner,08,Public Utilities Commissioner,,Kristie Fiegen,REP,457
-Turner,01,Public Utilities Commissioner,,Wilson,DEM,129
-Turner,02,Public Utilities Commissioner,,Wilson,DEM,113
-Turner,03,Public Utilities Commissioner,,Wilson,DEM,82
-Turner,04,Public Utilities Commissioner,,Wilson,DEM,59
-Turner,05,Public Utilities Commissioner,,Wilson,DEM,72
-Turner,06,Public Utilities Commissioner,,Wilson,DEM,94
-Turner,07,Public Utilities Commissioner,,Wilson,DEM,46
-Turner,08,Public Utilities Commissioner,,Wilson,DEM,96
-Turner,01,State Senate,19,Kevin D. Jensen,REP,676
-Turner,01,State Senate,19,Kyle Schoenfish,REP,0
-Turner,01,State Senate,19,Michael J. Miller,IND,0
-Turner,02,State Senate,19,Kevin D. Jensen,REP,624
-Turner,02,State Senate,19,Kyle Schoenfish,REP,0
-Turner,02,State Senate,19,Michael J. Miller,IND,0
-Turner,03,State Senate,19,Kevin D. Jensen,REP,422
-Turner,03,State Senate,19,Kyle Schoenfish,REP,0
-Turner,03,State Senate,19,Michael J. Miller,IND,0
-Turner,04,State Senate,19,Kevin D. Jensen,REP,0
+Turner,01,State Senate,16,Kevin D. Jensen,REP,676
+Turner,02,State Senate,16,Kevin D. Jensen,REP,624
+Turner,03,State Senate,16,Kevin D. Jensen,REP,422
 Turner,04,State Senate,19,Kyle Schoenfish,REP,209
 Turner,04,State Senate,19,Michael J. Miller,IND,102
-Turner,05,State Senate,19,Kevin D. Jensen,REP,359
-Turner,05,State Senate,19,Kyle Schoenfish,REP,0
-Turner,05,State Senate,19,Michael J. Miller,IND,0
-Turner,06,State Senate,19,Kevin D. Jensen,REP,424
-Turner,06,State Senate,19,Kyle Schoenfish,REP,0
-Turner,06,State Senate,19,Michael J. Miller,IND,0
-Turner,07,State Senate,19,Kevin D. Jensen,REP,138
-Turner,07,State Senate,19,Kyle Schoenfish,REP,0
-Turner,07,State Senate,19,Michael J. Miller,IND,0
-Turner,08,State Senate,19,Kevin D. Jensen,REP,474
-Turner,08,State Senate,19,Kyle Schoenfish,REP,0
-Turner,08,State Senate,19,Michael J. Miller,IND,0
-Turner,1,State Senate,19,Kevin D. Jensen,REP,676
-Turner,1,State Senate,19,Kyle Schoenfish,REP,0
-Turner,1,State Senate,19,Michael J. Miller,IND,0
-Turner,2,State Senate,19,Kevin D. Jensen,REP,624
-Turner,2,State Senate,19,Kyle Schoenfish,REP,0
-Turner,2,State Senate,19,Michael J. Miller,IND,0
-Turner,3,State Senate,19,Kevin D. Jensen,REP,422
-Turner,3,State Senate,19,Kyle Schoenfish,REP,0
-Turner,3,State Senate,19,Michael J. Miller,IND,0
-Turner,4,State Senate,19,Kevin D. Jensen,REP,0
-Turner,4,State Senate,19,Kyle Schoenfish,REP,209
-Turner,4,State Senate,19,Michael J. Miller,IND,102
-Turner,5,State Senate,19,Kevin D. Jensen,REP,359
-Turner,5,State Senate,19,Kyle Schoenfish,REP,0
-Turner,5,State Senate,19,Michael J. Miller,IND,0
-Turner,6,State Senate,19,Kevin D. Jensen,REP,424
-Turner,6,State Senate,19,Kyle Schoenfish,REP,0
-Turner,6,State Senate,19,Michael J. Miller,IND,0
-Turner,7,State Senate,19,Kevin D. Jensen,REP,138
-Turner,7,State Senate,19,Kyle Schoenfish,REP,0
-Turner,7,State Senate,19,Michael J. Miller,IND,0
-Turner,8,State Senate,19,Kevin D. Jensen,REP,474
-Turner,8,State Senate,19,Kyle Schoenfish,REP,0
-Turner,8,State Senate,19,Michael J. Miller,IND,0
-Turner,1,State House,16,Matthew Carl Ness,DEM,191
-Turner,1,State House,16,Karla J Lems,REP,579
-Turner,1,State House,16,Richard Vasgaard,REP,559
-Turner,1,State House,19,Drew Peterson,REP,0
-Turner,1,State House,19,Jessica Bahmuller,REP,0
-Turner,2,State House,16,Matthew Carl Ness,DEM,190
-Turner,2,State House,16,Karla J Lems,REP,513
-Turner,2,State House,16,Richard Vasgaard,REP,509
-Turner,2,State House,19,Drew Peterson,REP,0
-Turner,2,State House,19,Jessica Bahmuller,REP,0
-Turner,3,State House,16,Matthew Carl Ness,DEM,109
-Turner,3,State House,16,Karla J Lems,REP,354
-Turner,3,State House,16,Richard Vasgaard,REP,352
-Turner,3,State House,19,Drew Peterson,REP,0
-Turner,3,State House,19,Jessica Bahmuller,REP,0
-Turner,4,State House,16,Matthew Carl Ness,DEM,0
-Turner,4,State House,16,Karla J Lems,REP,0
-Turner,4,State House,16,Richard Vasgaard,REP,0
-Turner,4,State House,19,Drew Peterson,REP,194
-Turner,4,State House,19,Jessica Bahmuller,REP,176
-Turner,5,State House,16,Matthew Carl Ness,DEM,95
-Turner,5,State House,16,Karla J Lems,REP,272
-Turner,5,State House,16,Richard Vasgaard,REP,326
-Turner,5,State House,19,Drew Peterson,REP,0
-Turner,5,State House,19,Jessica Bahmuller,REP,0
-Turner,6,State House,16,Matthew Carl Ness,DEM,116
-Turner,6,State House,16,Karla J Lems,REP,355
-Turner,6,State House,16,Richard Vasgaard,REP,413
-Turner,6,State House,19,Drew Peterson,REP,0
-Turner,6,State House,19,Jessica Bahmuller,REP,0
-Turner,7,State House,16,Matthew Carl Ness,DEM,59
-Turner,7,State House,16,Karla J Lems,REP,101
-Turner,7,State House,16,Richard Vasgaard,REP,126
-Turner,7,State House,19,Drew Peterson,REP,0
-Turner,7,State House,19,Jessica Bahmuller,REP,0
-Turner,8,State House,16,Matthew Carl Ness,DEM,110
-Turner,8,State House,16,Karla J Lems,REP,297
-Turner,8,State House,16,Richard Vasgaard,REP,449
-Turner,8,State House,19,Drew Peterson,REP,0
-Turner,8,State House,19,Jessica Bahmuller,REP,0
+Turner,05,State Senate,16,Kevin D. Jensen,REP,359
+Turner,06,State Senate,16,Kevin D. Jensen,REP,442
+Turner,07,State Senate,16,Kevin D. Jensen,REP,138
+Turner,08,State Senate,16,Kevin D. Jensen,REP,474
 Turner,01,State House,16,Matthew Carl Ness,DEM,191
 Turner,01,State House,16,Karla J Lems,REP,579
 Turner,01,State House,16,Richard Vasgaard,REP,559
@@ -249,19 +103,131 @@ Turner,07,State House,16,Richard Vasgaard,REP,126
 Turner,08,State House,16,Matthew Carl Ness,DEM,110
 Turner,08,State House,16,Karla J Lems,REP,297
 Turner,08,State House,16,Richard Vasgaard,REP,449
-Turner,01,Supreme Court Retention,,Yes,,606
-Turner,01,Supreme Court Retention,,No,,135
-Turner,02,Supreme Court Retention,,Yes,,566
-Turner,02,Supreme Court Retention,,No,,131
-Turner,03,Supreme Court Retention,,Yes,,392
-Turner,03,Supreme Court Retention,,No,,67
-Turner,04,Supreme Court Retention,,Yes,,214
-Turner,04,Supreme Court Retention,,No,,47
-Turner,05,Supreme Court Retention,,Yes,,395
-Turner,05,Supreme Court Retention,,No,,75
-Turner,06,Supreme Court Retention,,Yes,,397
-Turner,06,Supreme Court Retention,,No,,87
-Turner,07,Supreme Court Retention,,Yes,,135
-Turner,07,Supreme Court Retention,,No,,32
-Turner,08,Supreme Court Retention,,Yes,,425
-Turner,08,Supreme Court Retention,,No,,105
+Turner,01,Supreme Court Retention,5,Scott P. Myren - Yes,,606
+Turner,01,Supreme Court Retention,5,Scott P. Myren - No,,135
+Turner,02,Supreme Court Retention,5,Scott P. Myren - Yes,,566
+Turner,02,Supreme Court Retention,5,Scott P. Myren - No,,131
+Turner,03,Supreme Court Retention,5,Scott P. Myren - Yes,,392
+Turner,03,Supreme Court Retention,5,Scott P. Myren - No,,67
+Turner,04,Supreme Court Retention,5,Scott P. Myren - Yes,,214
+Turner,04,Supreme Court Retention,5,Scott P. Myren - No,,47
+Turner,05,Supreme Court Retention,5,Scott P. Myren - Yes,,335
+Turner,05,Supreme Court Retention,5,Scott P. Myren - No,,75
+Turner,06,Supreme Court Retention,5,Scott P. Myren - Yes,,397
+Turner,06,Supreme Court Retention,5,Scott P. Myren - No,,87
+Turner,07,Supreme Court Retention,5,Scott P. Myren - Yes,,135
+Turner,07,Supreme Court Retention,5,Scott P. Myren - No,,32
+Turner,08,Supreme Court Retention,5,Scott P. Myren - Yes,,425
+Turner,08,Supreme Court Retention,5,Scott P. Myren - No,,105
+Turner,01,Constitutional Amendment E,,Yes,,291
+Turner,01,Constitutional Amendment E,,No,,593
+Turner,01,Constitutional Amendment F,,Yes,,526
+Turner,01,Constitutional Amendment F,,No,,361
+Turner,01,Constitutional Amendment G,,Yes,,246
+Turner,01,Constitutional Amendment G,,No,,638
+Turner,01,Constitutional Amendment H,,Yes,,219
+Turner,01,Constitutional Amendment H,,No,,648
+Turner,01,Initiated Measure 28,,Yes,,198
+Turner,01,Initiated Measure 28,,No,,684
+Turner,01,Initiated Measure 29,,Yes,,327
+Turner,01,Initiated Measure 29,,No,,569
+Turner,02,Constitutional Amendment E,,Yes,,282
+Turner,02,Constitutional Amendment E,,No,,581
+Turner,02,Constitutional Amendment F,,Yes,,511
+Turner,02,Constitutional Amendment F,,No,,353
+Turner,02,Constitutional Amendment G,,Yes,,270
+Turner,02,Constitutional Amendment G,,No,,593
+Turner,02,Constitutional Amendment H,,Yes,,261
+Turner,02,Constitutional Amendment H,,No,,580
+Turner,02,Initiated Measure 28,,Yes,,200
+Turner,02,Initiated Measure 28,,No,,660
+Turner,02,Initiated Measure 29,,Yes,,339
+Turner,02,Initiated Measure 29,,No,,532
+Turner,03,Constitutional Amendment E,,Yes,,186
+Turner,03,Constitutional Amendment E,,No,,375
+Turner,03,Constitutional Amendment F,,Yes,,322
+Turner,03,Constitutional Amendment F,,No,,246
+Turner,03,Constitutional Amendment G,,Yes,,173
+Turner,03,Constitutional Amendment G,,No,,403
+Turner,03,Constitutional Amendment H,,Yes,,160
+Turner,03,Constitutional Amendment H,,No,,397
+Turner,03,Initiated Measure 28,,Yes,,125
+Turner,03,Initiated Measure 28,,No,,441
+Turner,03,Initiated Measure 29,,Yes,,194
+Turner,03,Initiated Measure 29,,No,,384
+Turner,04,Constitutional Amendment E,,Yes,,109
+Turner,04,Constitutional Amendment E,,No,,219
+Turner,04,Constitutional Amendment F,,Yes,,152
+Turner,04,Constitutional Amendment F,,No,,175
+Turner,04,Constitutional Amendment G,,Yes,,87
+Turner,04,Constitutional Amendment G,,No,,243
+Turner,04,Constitutional Amendment H,,Yes,,81
+Turner,04,Constitutional Amendment H,,No,,243
+Turner,04,Initiated Measure 28,,Yes,,67
+Turner,04,Initiated Measure 28,,No,,258
+Turner,04,Initiated Measure 29,,Yes,,91
+Turner,04,Initiated Measure 29,,No,,216
+Turner,05,Constitutional Amendment E,,Yes,,139
+Turner,05,Constitutional Amendment E,,No,,341
+Turner,05,Constitutional Amendment F,,Yes,,257
+Turner,05,Constitutional Amendment F,,No,,219
+Turner,05,Constitutional Amendment G,,Yes,,146
+Turner,05,Constitutional Amendment G,,No,,334
+Turner,05,Constitutional Amendment H,,Yes,,144
+Turner,05,Constitutional Amendment H,,No,,331
+Turner,05,Initiated Measure 28,,Yes,,101
+Turner,05,Initiated Measure 28,,No,,374
+Turner,05,Initiated Measure 29,,Yes,,154
+Turner,05,Initiated Measure 29,,No,,328
+Turner,06,Constitutional Amendment E,,Yes,,171
+Turner,06,Constitutional Amendment E,,No,,414
+Turner,06,Constitutional Amendment F,,Yes,,323
+Turner,06,Constitutional Amendment F,,No,,264
+Turner,06,Constitutional Amendment G,,Yes,,168
+Turner,06,Constitutional Amendment G,,No,,420
+Turner,06,Constitutional Amendment H,,Yes,,150
+Turner,06,Constitutional Amendment H,,No,,431
+Turner,06,Initiated Measure 28,,Yes,,122
+Turner,06,Initiated Measure 28,,No,,460
+Turner,06,Initiated Measure 29,,Yes,,180
+Turner,06,Initiated Measure 29,,No,,404
+Turner,07,Constitutional Amendment E,,Yes,,75
+Turner,07,Constitutional Amendment E,,No,,133
+Turner,07,Constitutional Amendment F,,Yes,,118
+Turner,07,Constitutional Amendment F,,No,,85
+Turner,07,Constitutional Amendment G,,Yes,,68
+Turner,07,Constitutional Amendment G,,No,,140
+Turner,07,Constitutional Amendment H,,Yes,,51
+Turner,07,Constitutional Amendment H,,No,,152
+Turner,07,Initiated Measure 28,,Yes,,49
+Turner,07,Initiated Measure 28,,No,,158
+Turner,07,Initiated Measure 29,,Yes,,86
+Turner,07,Initiated Measure 29,,No,,123
+Turner,08,Constitutional Amendment E,,Yes,,190
+Turner,08,Constitutional Amendment E,,No,,415
+Turner,08,Constitutional Amendment F,,Yes,,342
+Turner,08,Constitutional Amendment F,,No,,268
+Turner,08,Constitutional Amendment G,,Yes,,173
+Turner,08,Constitutional Amendment G,,No,,439
+Turner,08,Constitutional Amendment H,,Yes,,142
+Turner,08,Constitutional Amendment H,,No,,462
+Turner,08,Initiated Measure 28,,Yes,,113
+Turner,08,Initiated Measure 28,,No,,491
+Turner,08,Initiated Measure 29,,Yes,,204
+Turner,08,Initiated Measure 29,,No,,419
+Turner,01,Referred Law 21,,Yes,,267
+Turner,02,Referred Law 21,,Yes,,260
+Turner,03,Referred Law 21,,Yes,,169
+Turner,04,Referred Law 21,,Yes,,99
+Turner,05,Referred Law 21,,Yes,,145
+Turner,06,Referred Law 21,,Yes,,177
+Turner,07,Referred Law 21,,Yes,,63
+Turner,08,Referred Law 21,,Yes,,182
+Turner,01,Referred Law 21,,No,,601
+Turner,02,Referred Law 21,,No,,587
+Turner,03,Referred Law 21,,No,,381
+Turner,04,Referred Law 21,,No,,223
+Turner,05,Referred Law 21,,No,,326
+Turner,06,Referred Law 21,,No,,398
+Turner,07,Referred Law 21,,No,,141
+Turner,08,Referred Law 21,,No,,411

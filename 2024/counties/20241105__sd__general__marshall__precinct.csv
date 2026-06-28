@@ -1,40 +1,40 @@
 county,precinct,office,district,candidate,party,votes
 Marshall,A1,President,,Kamala D. Harris and Tim Walz,DEM,88
-Marshall,A1,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A1,President,,Chase Oliver and Mike ter Maat,LIB,1
 Marshall,A1,President,,Donald J. Trump and JD Vance,REP,128
-Marshall,A1,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,2
+Marshall,A1,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,2
 Marshall,A2,President,,Kamala D. Harris and Tim Walz,DEM,78
 Marshall,A2,President,,Chase Oliver and Mike ter Maat,LIB,0
 Marshall,A2,President,,Donald J. Trump and JD Vance,REP,109
-Marshall,A2,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,3
+Marshall,A2,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,3
 Marshall,A3,President,,Kamala D. Harris and Tim Walz,DEM,72
 Marshall,A3,President,,Chase Oliver and Mike ter Maat,LIB,0
 Marshall,A3,President,,Donald J. Trump and JD Vance,REP,105
-Marshall,A3,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,2
+Marshall,A3,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,5
 Marshall,A4,President,,Kamala D. Harris and Tim Walz,DEM,118
 Marshall,A4,President,,Chase Oliver and Mike ter Maat,LIB,0
 Marshall,A4,President,,Donald J. Trump and JD Vance,REP,145
-Marshall,A4,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,3
+Marshall,A4,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,3
 Marshall,A5,President,,Kamala D. Harris and Tim Walz,DEM,80
 Marshall,A5,President,,Chase Oliver and Mike ter Maat,LIB,2
 Marshall,A5,President,,Donald J. Trump and JD Vance,REP,106
-Marshall,A5,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,6
+Marshall,A5,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,0
 Marshall,A6,President,,Kamala D. Harris and Tim Walz,DEM,128
 Marshall,A6,President,,Chase Oliver and Mike ter Maat,LIB,3
 Marshall,A6,President,,Donald J. Trump and JD Vance,REP,190
-Marshall,A6,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,6
+Marshall,A6,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,6
 Marshall,A7,President,,Kamala D. Harris and Tim Walz,DEM,63
-Marshall,A7,President,,Chase Oliver and Mike ter Maat,LIB,1
-Marshall,A7,President,,Donald J. Trump and JD Vance,REP,111
-Marshall,A7,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,5
+Marshall,A7,President,,Chase Oliver and Mike ter Maat,LIB,0
+Marshall,A7,President,,Donald J. Trump and JD Vance,REP,130
+Marshall,A7,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,0
 Marshall,A8,President,,Kamala D. Harris and Tim Walz,DEM,62
 Marshall,A8,President,,Chase Oliver and Mike ter Maat,LIB,1
 Marshall,A8,President,,Donald J. Trump and JD Vance,REP,174
-Marshall,A8,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,7
+Marshall,A8,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,2
 Marshall,A9,President,,Kamala D. Harris and Tim Walz,DEM,93
 Marshall,A9,President,,Chase Oliver and Mike ter Maat,LIB,4
 Marshall,A9,President,,Donald J. Trump and JD Vance,REP,201
-Marshall,A9,President,,Robert F. Kennedy Jr. and Nicole Shanahan,,5
+Marshall,A9,President,,"Robert F. Kennedy, Jr. and Nicole Shanaha",,7
 Marshall,A1,U.S. House,1,Sheryl Johnson,DEM,73
 Marshall,A1,U.S. House,1,Dusty Johnson,REP,140
 Marshall,A2,U.S. House,1,Sheryl Johnson,DEM,62
@@ -70,12 +70,12 @@ Marshall,A5,Public Utilities Commissioner,,A. Gideon Oakes,,8
 Marshall,A5,Public Utilities Commissioner,,Kristie Fiegen,REP,104
 Marshall,A6,Public Utilities Commissioner,,Forrest Wilson,DEM,101
 Marshall,A6,Public Utilities Commissioner,,A. Gideon Oakes,,5
-Marshall,A6,Public Utilities Commissioner,,Kristie Fiegen,REP,203
+Marshall,A6,Public Utilities Commissioner,,Kristie Fiegen,REP,205
 Marshall,A7,Public Utilities Commissioner,,Forrest Wilson,DEM,59
 Marshall,A7,Public Utilities Commissioner,,A. Gideon Oakes,,5
 Marshall,A7,Public Utilities Commissioner,,Kristie Fiegen,REP,112
 Marshall,A8,Public Utilities Commissioner,,Forrest Wilson,DEM,48
-Marshall,A8,Public Utilities Commissioner,,A. Gideon Oakes,,5
+Marshall,A8,Public Utilities Commissioner,,A. Gideon Oakes,,6
 Marshall,A8,Public Utilities Commissioner,,Kristie Fiegen,REP,173
 Marshall,A9,Public Utilities Commissioner,,Forrest Wilson,DEM,80
 Marshall,A9,Public Utilities Commissioner,,A. Gideon Oakes,,7
@@ -89,76 +89,217 @@ Marshall,A6,State Senate,01,Michael H. Rohl,REP,220
 Marshall,A7,State Senate,01,Michael H. Rohl,REP,135
 Marshall,A8,State Senate,01,Michael H. Rohl,REP,180
 Marshall,A9,State Senate,01,Michael H. Rohl,REP,198
-Marshall,A1,State House,01,Steven D. McCleerey,DEM,88
+Marshall,A1,State House,01,Steven D. McCleerey,LIB,82
 Marshall,A1,State House,01,Mark Sumption,DEM,80
-Marshall,A1,State House,01,Josh Dennert,LIB,17
-Marshall,A1,State House,01,Tamara Lesnar,,8
+Marshall,A1,State House,01,Josh Dennert,DEM,17
+Marshall,A1,State House,01,Tamara Lesnar,LIB,8
 Marshall,A1,State House,01,Logan Manhart,REP,98
-Marshall,A1,State House,01,Christopher Peder,,89
-Marshall,A2,State House,01,Steven D. McCleerey,DEM,65
-Marshall,A2,State House,01,Mark Sumption,DEM,70
-Marshall,A2,State House,01,Josh Dennert,LIB,17
-Marshall,A2,State House,01,Tamara Lesnar,,10
-Marshall,A2,State House,01,Logan Manhart,REP,75
-Marshall,A2,State House,01,Christopher Peder,,68
-Marshall,A3,State House,01,Steven D. McCleerey,DEM,60
-Marshall,A3,State House,01,Mark Sumption,DEM,77
-Marshall,A3,State House,01,Josh Dennert,LIB,12
-Marshall,A3,State House,01,Tamara Lesnar,,13
-Marshall,A3,State House,01,Logan Manhart,REP,81
-Marshall,A3,State House,01,Christopher Peder,,91
-Marshall,A4,State House,01,Steven D. McCleerey,DEM,82
+Marshall,A1,State House,01,Christopher Reder,REP,89
+Marshall,A2,State House,01,Steven D. McCleerey,LIB,67
+Marshall,A2,State House,01,Mark Sumption,DEM,73
+Marshall,A2,State House,01,Josh Dennert,DEM,14
+Marshall,A2,State House,01,Tamara Lesnar,LIB,10
+Marshall,A2,State House,01,Logan Manhart,REP,84
+Marshall,A2,State House,01,Christopher Reder,REP,80
+Marshall,A3,State House,01,Steven D. McCleerey,LIB,65
+Marshall,A3,State House,01,Mark Sumption,DEM,70
+Marshall,A3,State House,01,Josh Dennert,DEM,12
+Marshall,A3,State House,01,Tamara Lesnar,LIB,4
+Marshall,A3,State House,01,Logan Manhart,REP,75
+Marshall,A3,State House,01,Christopher Reder,REP,68
+Marshall,A4,State House,01,Steven D. McCleerey,LIB,106
 Marshall,A4,State House,01,Mark Sumption,DEM,105
-Marshall,A4,State House,01,Josh Dennert,LIB,13
-Marshall,A4,State House,01,Tamara Lesnar,,12
-Marshall,A4,State House,01,Logan Manhart,REP,149
-Marshall,A4,State House,01,Christopher Peder,,146
-Marshall,A5,State House,01,Steven D. McCleerey,DEM,141
-Marshall,A5,State House,01,Mark Sumption,DEM,123
-Marshall,A5,State House,01,Josh Dennert,LIB,13
-Marshall,A5,State House,01,Tamara Lesnar,,13
-Marshall,A5,State House,01,Logan Manhart,REP,149
-Marshall,A5,State House,01,Christopher Peder,,146
-Marshall,A6,State House,01,Steven D. McCleerey,DEM,97
-Marshall,A6,State House,01,Mark Sumption,DEM,121
-Marshall,A6,State House,01,Josh Dennert,LIB,13
-Marshall,A6,State House,01,Tamara Lesnar,,9
-Marshall,A6,State House,01,Logan Manhart,REP,135
-Marshall,A6,State House,01,Christopher Peder,,124
-Marshall,A7,State House,01,Steven D. McCleerey,DEM,76
+Marshall,A4,State House,01,Josh Dennert,DEM,17
+Marshall,A4,State House,01,Tamara Lesnar,LIB,20
+Marshall,A4,State House,01,Logan Manhart,REP,101
+Marshall,A4,State House,01,Christopher Reder,REP,91
+Marshall,A5,State House,01,Steven D. McCleerey,LIB,82
+Marshall,A5,State House,01,Mark Sumption,DEM,60
+Marshall,A5,State House,01,Josh Dennert,DEM,7
+Marshall,A5,State House,01,Tamara Lesnar,LIB,11
+Marshall,A5,State House,01,Logan Manhart,REP,78
+Marshall,A5,State House,01,Christopher Reder,REP,70
+Marshall,A6,State House,01,Steven D. McCleerey,LIB,141
+Marshall,A6,State House,01,Mark Sumption,DEM,123
+Marshall,A6,State House,01,Josh Dennert,DEM,13
+Marshall,A6,State House,01,Tamara Lesnar,LIB,9
+Marshall,A6,State House,01,Logan Manhart,REP,149
+Marshall,A6,State House,01,Christopher Reder,REP,146
+Marshall,A7,State House,01,Steven D. McCleerey,LIB,75
 Marshall,A7,State House,01,Mark Sumption,DEM,60
-Marshall,A7,State House,01,Josh Dennert,LIB,15
-Marshall,A7,State House,01,Tamara Lesnar,,15
-Marshall,A7,State House,01,Logan Manhart,REP,83
-Marshall,A7,State House,01,Christopher Peder,,85
-Marshall,A8,State House,01,Steven D. McCleerey,DEM,75
-Marshall,A8,State House,01,Mark Sumption,DEM,121
-Marshall,A8,State House,01,Josh Dennert,LIB,14
-Marshall,A8,State House,01,Tamara Lesnar,,12
-Marshall,A8,State House,01,Logan Manhart,REP,125
-Marshall,A8,State House,01,Christopher Peder,,106
-Marshall,A9,State House,01,Steven D. McCleerey,DEM,99
+Marshall,A7,State House,01,Josh Dennert,DEM,2
+Marshall,A7,State House,01,Tamara Lesnar,LIB,10
+Marshall,A7,State House,01,Logan Manhart,REP,86
+Marshall,A7,State House,01,Christopher Reder,REP,85
+Marshall,A8,State House,01,Steven D. McCleerey,LIB,76
+Marshall,A8,State House,01,Mark Sumption,DEM,76
+Marshall,A8,State House,01,Josh Dennert,DEM,15
+Marshall,A8,State House,01,Tamara Lesnar,LIB,6
+Marshall,A8,State House,01,Logan Manhart,REP,118
+Marshall,A8,State House,01,Christopher Reder,REP,106
+Marshall,A9,State House,01,Steven D. McCleerey,LIB,99
 Marshall,A9,State House,01,Mark Sumption,DEM,121
-Marshall,A9,State House,01,Josh Dennert,LIB,17
-Marshall,A9,State House,01,Tamara Lesnar,,9
-Marshall,A9,State House,01,Logan Manhart,REP,113
-Marshall,A9,State House,01,Christopher Peder,,124
-Marshall,A4,County Commissioner Marshall,,Leron Knebel Sr.,DEM,22
-Marshall,A4,County Commissioner Marshall,,Andrea Kilker,REP,19
-Marshall,A4,County Commissioner Marshall,,Jared Holland,IND,6
-Marshall,A6,County Commissioner Marshall,,Leron Knebel Sr.,DEM,109
-Marshall,A6,County Commissioner Marshall,,Andrea Kilker,REP,126
-Marshall,A6,County Commissioner Marshall,,Jared Holland,IND,13
-Marshall,A7,County Commissioner Marshall,,Leron Knebel Sr.,DEM,86
-Marshall,A7,County Commissioner Marshall,,Andrea Kilker,REP,98
-Marshall,A7,County Commissioner Marshall,,Jared Holland,IND,9
-Marshall,A9,County Commissioner Marshall,,Leron Knebel Sr.,DEM,3
-Marshall,A9,County Commissioner Marshall,,Andrea Kilker,REP,17
-Marshall,A9,County Commissioner Marshall,,Jared Holland,IND,6
+Marshall,A9,State House,01,Josh Dennert,DEM,19
+Marshall,A9,State House,01,Tamara Lesnar,LIB,7
+Marshall,A9,State House,01,Logan Manhart,REP,133
+Marshall,A9,State House,01,Christopher Reder,REP,124
+Marshall,A4,County Commissioner,,Leron Knebel Sr.,DEM,22
+Marshall,A4,County Commissioner,,Andrea Kilker,REP,19
+Marshall,A4,County Commissioner,,Jared Holland,IND,6
+Marshall,A6,County Commissioner,,Leron Knebel Sr.,DEM,109
+Marshall,A6,County Commissioner,,Andrea Kilker,REP,126
+Marshall,A6,County Commissioner,,Jared Holland,IND,13
+Marshall,A7,County Commissioner,,Leron Knebel Sr.,DEM,86
+Marshall,A7,County Commissioner,,Andrea Kilker,REP,98
+Marshall,A7,County Commissioner,,Jared Holland,IND,9
+Marshall,A9,County Commissioner,,Leron Knebel Sr.,DEM,3
+Marshall,A9,County Commissioner,,Andrea Kilker,REP,17
+Marshall,A9,County Commissioner,,Jared Holland,IND,6
 Marshall,A4,County Commissioner,,Jason D. Bender,REP,118
 Marshall,A4,County Commissioner,,Gerry Person,DEM,96
 Marshall,A9,County Commissioner,,Jason D. Bender,REP,135
 Marshall,A9,County Commissioner,,Gerry Person,DEM,95
-Marshall,A4,County Commissioner,,Leron Knebel Sr.,DEM,22
-Marshall,A4,County Commissioner,,Andrea Kilker,REP,19
-Marshall,A4,County Commissioner,,Jared Holland,IND,6
+Marshall,A1,Supreme Court Retention,5,Scott P. Myren - Yes,,160
+Marshall,A1,Supreme Court Retention,5,Scott P. Myren - No,,28
+Marshall,A2,Supreme Court Retention,5,Scott P. Myren - Yes,,138
+Marshall,A2,Supreme Court Retention,5,Scott P. Myren - No,,21
+Marshall,A3,Supreme Court Retention,5,Scott P. Myren - Yes,,136
+Marshall,A3,Supreme Court Retention,5,Scott P. Myren - No,,25
+Marshall,A4,Supreme Court Retention,5,Scott P. Myren - Yes,,174
+Marshall,A4,Supreme Court Retention,5,Scott P. Myren - No,,42
+Marshall,A5,Supreme Court Retention,5,Scott P. Myren - Yes,,120
+Marshall,A5,Supreme Court Retention,5,Scott P. Myren - No,,32
+Marshall,A6,Supreme Court Retention,5,Scott P. Myren - Yes,,249
+Marshall,A6,Supreme Court Retention,5,Scott P. Myren - No,,42
+Marshall,A7,Supreme Court Retention,5,Scott P. Myren - Yes,,128
+Marshall,A7,Supreme Court Retention,5,Scott P. Myren - No,,30
+Marshall,A8,Supreme Court Retention,5,Scott P. Myren - Yes,,173
+Marshall,A8,Supreme Court Retention,5,Scott P. Myren - No,,28
+Marshall,A9,Supreme Court Retention,5,Scott P. Myren - Yes,,214
+Marshall,A9,Supreme Court Retention,5,Scott P. Myren - No,,44
+Marshall,A1,Constitutional Amendment E,,Yes,,78
+Marshall,A1,Constitutional Amendment E,,No,,141
+Marshall,A1,Constitutional Amendment F,,Yes,,95
+Marshall,A1,Constitutional Amendment F,,No,,121
+Marshall,A1,Constitutional Amendment G,,Yes,,91
+Marshall,A1,Constitutional Amendment G,,No,,128
+Marshall,A1,Constitutional Amendment H,,Yes,,58
+Marshall,A1,Constitutional Amendment H,,No,,156
+Marshall,A1,Initiated Measure 28,,Yes,,44
+Marshall,A1,Initiated Measure 28,,No,,169
+Marshall,A1,Initiated Measure 29,,Yes,,112
+Marshall,A1,Initiated Measure 29,,No,,105
+Marshall,A1,Referred Law 21,,Yes,,80
+Marshall,A1,Referred Law 21,,No,,134
+Marshall,A2,Constitutional Amendment E,,Yes,,79
+Marshall,A2,Constitutional Amendment E,,No,,113
+Marshall,A2,Constitutional Amendment F,,Yes,,99
+Marshall,A2,Constitutional Amendment F,,No,,93
+Marshall,A2,Constitutional Amendment G,,Yes,,78
+Marshall,A2,Constitutional Amendment G,,No,,113
+Marshall,A2,Constitutional Amendment H,,Yes,,55
+Marshall,A2,Constitutional Amendment H,,No,,131
+Marshall,A2,Initiated Measure 28,,Yes,,63
+Marshall,A2,Initiated Measure 28,,No,,127
+Marshall,A2,Initiated Measure 29,,Yes,,102
+Marshall,A2,Initiated Measure 29,,No,,90
+Marshall,A2,Referred Law 21,,Yes,,76
+Marshall,A2,Referred Law 21,,No,,111
+Marshall,A3,Constitutional Amendment E,,Yes,,76
+Marshall,A3,Constitutional Amendment E,,No,,105
+Marshall,A3,Constitutional Amendment F,,Yes,,96
+Marshall,A3,Constitutional Amendment F,,No,,83
+Marshall,A3,Constitutional Amendment G,,Yes,,78
+Marshall,A3,Constitutional Amendment G,,No,,104
+Marshall,A3,Constitutional Amendment H,,Yes,,63
+Marshall,A3,Constitutional Amendment H,,No,,113
+Marshall,A3,Initiated Measure 28,,Yes,,48
+Marshall,A3,Initiated Measure 28,,No,,131
+Marshall,A3,Initiated Measure 29,,Yes,,87
+Marshall,A3,Initiated Measure 29,,No,,92
+Marshall,A3,Referred Law 21,,Yes,,76
+Marshall,A3,Referred Law 21,,No,,100
+Marshall,A4,Constitutional Amendment E,,Yes,,85
+Marshall,A4,Constitutional Amendment E,,No,,178
+Marshall,A4,Constitutional Amendment F,,Yes,,130
+Marshall,A4,Constitutional Amendment F,,No,,131
+Marshall,A4,Constitutional Amendment G,,Yes,,121
+Marshall,A4,Constitutional Amendment G,,No,,142
+Marshall,A4,Constitutional Amendment H,,Yes,,92
+Marshall,A4,Constitutional Amendment H,,No,,166
+Marshall,A4,Initiated Measure 28,,Yes,,61
+Marshall,A4,Initiated Measure 28,,No,,202
+Marshall,A4,Initiated Measure 29,,Yes,,111
+Marshall,A4,Initiated Measure 29,,No,,149
+Marshall,A4,Referred Law 21,,Yes,,110
+Marshall,A4,Referred Law 21,,No,,149
+Marshall,A5,Constitutional Amendment E,,Yes,,83
+Marshall,A5,Constitutional Amendment E,,No,,100
+Marshall,A5,Constitutional Amendment F,,Yes,,90
+Marshall,A5,Constitutional Amendment F,,No,,94
+Marshall,A5,Constitutional Amendment G,,Yes,,77
+Marshall,A5,Constitutional Amendment G,,No,,108
+Marshall,A5,Constitutional Amendment H,,Yes,,62
+Marshall,A5,Constitutional Amendment H,,No,,120
+Marshall,A5,Initiated Measure 28,,Yes,,56
+Marshall,A5,Initiated Measure 28,,No,,126
+Marshall,A5,Initiated Measure 29,,Yes,,82
+Marshall,A5,Initiated Measure 29,,No,,103
+Marshall,A5,Referred Law 21,,Yes,,95
+Marshall,A5,Referred Law 21,,No,,80
+Marshall,A6,Constitutional Amendment E,,Yes,,148
+Marshall,A6,Constitutional Amendment E,,No,,180
+Marshall,A6,Constitutional Amendment F,,Yes,,164
+Marshall,A6,Constitutional Amendment F,,No,,164
+Marshall,A6,Constitutional Amendment G,,Yes,,132
+Marshall,A6,Constitutional Amendment G,,No,,199
+Marshall,A6,Constitutional Amendment H,,Yes,,89
+Marshall,A6,Constitutional Amendment H,,No,,233
+Marshall,A6,Initiated Measure 28,,Yes,,89
+Marshall,A6,Initiated Measure 28,,No,,238
+Marshall,A6,Initiated Measure 29,,Yes,,135
+Marshall,A6,Initiated Measure 29,,No,,194
+Marshall,A6,Referred Law 21,,Yes,,123
+Marshall,A6,Referred Law 21,,No,,199
+Marshall,A7,Constitutional Amendment E,,Yes,,77
+Marshall,A7,Constitutional Amendment E,,No,,116
+Marshall,A7,Constitutional Amendment F,,Yes,,88
+Marshall,A7,Constitutional Amendment F,,No,,103
+Marshall,A7,Constitutional Amendment G,,Yes,,62
+Marshall,A7,Constitutional Amendment G,,No,,136
+Marshall,A7,Constitutional Amendment H,,Yes,,51
+Marshall,A7,Constitutional Amendment H,,No,,144
+Marshall,A7,Initiated Measure 28,,Yes,,43
+Marshall,A7,Initiated Measure 28,,No,,151
+Marshall,A7,Initiated Measure 29,,Yes,,64
+Marshall,A7,Initiated Measure 29,,No,,131
+Marshall,A7,Referred Law 21,,Yes,,63
+Marshall,A7,Referred Law 21,,No,,132
+Marshall,A8,Constitutional Amendment E,,Yes,,85
+Marshall,A8,Constitutional Amendment E,,No,,156
+Marshall,A8,Constitutional Amendment F,,Yes,,135
+Marshall,A8,Constitutional Amendment F,,No,,106
+Marshall,A8,Constitutional Amendment G,,Yes,,87
+Marshall,A8,Constitutional Amendment G,,No,,153
+Marshall,A8,Constitutional Amendment H,,Yes,,75
+Marshall,A8,Constitutional Amendment H,,No,,163
+Marshall,A8,Initiated Measure 28,,Yes,,48
+Marshall,A8,Initiated Measure 28,,No,,190
+Marshall,A8,Initiated Measure 29,,Yes,,84
+Marshall,A8,Initiated Measure 29,,No,,159
+Marshall,A8,Referred Law 21,,Yes,,94
+Marshall,A8,Referred Law 21,,No,,143
+Marshall,A9,Constitutional Amendment E,,Yes,,107
+Marshall,A9,Constitutional Amendment E,,No,,194
+Marshall,A9,Constitutional Amendment F,,Yes,,156
+Marshall,A9,Constitutional Amendment F,,No,,140
+Marshall,A9,Constitutional Amendment G,,Yes,,112
+Marshall,A9,Constitutional Amendment G,,No,,195
+Marshall,A9,Constitutional Amendment H,,Yes,,85
+Marshall,A9,Constitutional Amendment H,,No,,211
+Marshall,A9,Initiated Measure 28,,Yes,,62
+Marshall,A9,Initiated Measure 28,,No,,241
+Marshall,A9,Initiated Measure 29,,Yes,,113
+Marshall,A9,Initiated Measure 29,,No,,194
+Marshall,A9,Referred Law 21,,Yes,,108
+Marshall,A9,Referred Law 21,,No,,186

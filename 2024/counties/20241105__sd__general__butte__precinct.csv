@@ -1,24 +1,32 @@
 county,precinct,office,district,candidate,party,votes
-Butte,06,President,,Kamala D. Harris and Tim Walz,DEM,0
-Butte,06,President,,Chase Oliver and Mike ter Maat,LIB,1
-Butte,06,President,,Donald J. Trump and JD Vance,REP,7
+Butte,06,President,,Kamala D. Harris and Tim Walz,DEM,1
+Butte,06,President,,Chase Oliver and Mike ter Maat,LIB,0
+Butte,06,President,,Donald J. Trump and JD Vance,REP,46
 Butte,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Butte,11,President,,Kamala D. Harris and Tim Walz,DEM,2
+Butte,08,President,,Kamala D. Harris and Tim Walz,DEM,0
+Butte,08,President,,Chase Oliver and Mike ter Maat,LIB,1
+Butte,08,President,,Donald J. Trump and JD Vance,REP,27
+Butte,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
+Butte,11,President,,Kamala D. Harris and Tim Walz,DEM,7
 Butte,11,President,,Chase Oliver and Mike ter Maat,LIB,0
-Butte,11,President,,Donald J. Trump and JD Vance,REP,65
-Butte,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
+Butte,11,President,,Donald J. Trump and JD Vance,REP,85
+Butte,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Butte,12,President,,Kamala D. Harris and Tim Walz,DEM,10
 Butte,12,President,,Chase Oliver and Mike ter Maat,LIB,0
-Butte,12,President,,Donald J. Trump and JD Vance,REP,81
-Butte,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Butte,12,President,,Donald J. Trump and JD Vance,REP,82
+Butte,12,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Butte,13,President,,Kamala D. Harris and Tim Walz,DEM,26
-Butte,13,President,,Chase Oliver and Mike ter Maat,LIB,3
+Butte,13,President,,Chase Oliver and Mike ter Maat,LIB,1
 Butte,13,President,,Donald J. Trump and JD Vance,REP,220
 Butte,13,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
-Butte,14,President,,Kamala D. Harris and Tim Walz,DEM,3
-Butte,14,President,,Chase Oliver and Mike ter Maat,LIB,1
-Butte,14,President,,Donald J. Trump and JD Vance,REP,273
+Butte,14,President,,Kamala D. Harris and Tim Walz,DEM,37
+Butte,14,President,,Chase Oliver and Mike ter Maat,LIB,3
+Butte,14,President,,Donald J. Trump and JD Vance,REP,237
 Butte,14,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Butte,16,President,,Kamala D. Harris and Tim Walz,DEM,118
+Butte,16,President,,Chase Oliver and Mike ter Maat,LIB,8
+Butte,16,President,,Donald J. Trump and JD Vance,REP,705
+Butte,16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
 Butte,17,President,,Kamala D. Harris and Tim Walz,DEM,69
 Butte,17,President,,Chase Oliver and Mike ter Maat,LIB,3
 Butte,17,President,,Donald J. Trump and JD Vance,REP,384
@@ -30,7 +38,7 @@ Butte,18,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Butte,20,President,,Kamala D. Harris and Tim Walz,DEM,44
 Butte,20,President,,Chase Oliver and Mike ter Maat,LIB,2
 Butte,20,President,,Donald J. Trump and JD Vance,REP,188
-Butte,20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Butte,20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Butte,21,President,,Kamala D. Harris and Tim Walz,DEM,64
 Butte,21,President,,Chase Oliver and Mike ter Maat,LIB,2
 Butte,21,President,,Donald J. Trump and JD Vance,REP,206
@@ -40,7 +48,7 @@ Butte,22,President,,Chase Oliver and Mike ter Maat,LIB,0
 Butte,22,President,,Donald J. Trump and JD Vance,REP,175
 Butte,22,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Butte,23,President,,Kamala D. Harris and Tim Walz,DEM,66
-Butte,23,President,,Chase Oliver and Mike ter Maat,LIB,0
+Butte,23,President,,Chase Oliver and Mike ter Maat,LIB,1
 Butte,23,President,,Donald J. Trump and JD Vance,REP,188
 Butte,23,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Butte,24,President,,Kamala D. Harris and Tim Walz,DEM,103
@@ -49,23 +57,23 @@ Butte,24,President,,Donald J. Trump and JD Vance,REP,274
 Butte,24,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
 Butte,25,President,,Kamala D. Harris and Tim Walz,DEM,107
 Butte,25,President,,Chase Oliver and Mike ter Maat,LIB,2
-Butte,25,President,,Donald J. Trump and JD Vance,REP,330
-Butte,25,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Butte,25,President,,Donald J. Trump and JD Vance,REP,362
+Butte,25,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Butte,26,President,,Kamala D. Harris and Tim Walz,DEM,57
 Butte,26,President,,Chase Oliver and Mike ter Maat,LIB,3
-Butte,26,President,,Donald J. Trump and JD Vance,REP,252
-Butte,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Butte,26,President,,Donald J. Trump and JD Vance,REP,230
+Butte,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
 Butte,27,President,,Kamala D. Harris and Tim Walz,DEM,51
-Butte,27,President,,Chase Oliver and Mike ter Maat,LIB,3
+Butte,27,President,,Chase Oliver and Mike ter Maat,LIB,1
 Butte,27,President,,Donald J. Trump and JD Vance,REP,196
-Butte,27,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Butte,27,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Butte,28,President,,Kamala D. Harris and Tim Walz,DEM,105
 Butte,28,President,,Chase Oliver and Mike ter Maat,LIB,5
 Butte,28,President,,Donald J. Trump and JD Vance,REP,329
-Butte,28,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Butte,06,U.S. House,1,Sheryl Johnson,DEM,0
+Butte,28,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
+Butte,06,U.S. House,1,Sheryl Johnson,DEM,1
 Butte,06,U.S. House,1,Dusty Johnson,REP,43
-Butte,08,U.S. House,1,Sheryl Johnson,DEM,1
+Butte,08,U.S. House,1,Sheryl Johnson,DEM,0
 Butte,08,U.S. House,1,Dusty Johnson,REP,26
 Butte,11,U.S. House,1,Sheryl Johnson,DEM,10
 Butte,11,U.S. House,1,Dusty Johnson,REP,80
@@ -76,13 +84,13 @@ Butte,13,U.S. House,1,Dusty Johnson,REP,197
 Butte,14,U.S. House,1,Sheryl Johnson,DEM,44
 Butte,14,U.S. House,1,Dusty Johnson,REP,223
 Butte,16,U.S. House,1,Sheryl Johnson,DEM,106
-Butte,16,U.S. House,1,Dusty Johnson,REP,281
+Butte,16,U.S. House,1,Dusty Johnson,REP,718
 Butte,17,U.S. House,1,Sheryl Johnson,DEM,64
-Butte,17,U.S. House,1,Dusty Johnson,REP,383
+Butte,17,U.S. House,1,Dusty Johnson,REP,381
 Butte,18,U.S. House,1,Sheryl Johnson,DEM,24
 Butte,18,U.S. House,1,Dusty Johnson,REP,101
 Butte,20,U.S. House,1,Sheryl Johnson,DEM,52
-Butte,20,U.S. House,1,Dusty Johnson,REP,131
+Butte,20,U.S. House,1,Dusty Johnson,REP,181
 Butte,21,U.S. House,1,Sheryl Johnson,DEM,54
 Butte,21,U.S. House,1,Dusty Johnson,REP,218
 Butte,22,U.S. House,1,Sheryl Johnson,DEM,38
@@ -90,12 +98,12 @@ Butte,22,U.S. House,1,Dusty Johnson,REP,177
 Butte,23,U.S. House,1,Sheryl Johnson,DEM,59
 Butte,23,U.S. House,1,Dusty Johnson,REP,198
 Butte,24,U.S. House,1,Sheryl Johnson,DEM,95
-Butte,24,U.S. House,1,Dusty Johnson,REP,321
-Butte,25,U.S. House,1,Sheryl Johnson,DEM,49
-Butte,25,U.S. House,1,Dusty Johnson,REP,288
-Butte,26,U.S. House,1,Sheryl Johnson,DEM,36
+Butte,24,U.S. House,1,Dusty Johnson,REP,277
+Butte,25,U.S. House,1,Sheryl Johnson,DEM,73
+Butte,25,U.S. House,1,Dusty Johnson,REP,388
+Butte,26,U.S. House,1,Sheryl Johnson,DEM,49
 Butte,26,U.S. House,1,Dusty Johnson,REP,228
-Butte,27,U.S. House,1,Sheryl Johnson,DEM,43
+Butte,27,U.S. House,1,Sheryl Johnson,DEM,36
 Butte,27,U.S. House,1,Dusty Johnson,REP,209
 Butte,28,U.S. House,1,Sheryl Johnson,DEM,88
 Butte,28,U.S. House,1,Dusty Johnson,REP,348
@@ -107,36 +115,39 @@ Butte,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
 Butte,08,Public Utilities Commissioner,,Kristie Fiegen,REP,28
 Butte,11,Public Utilities Commissioner,,Forrest Wilson,DEM,7
 Butte,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
-Butte,11,Public Utilities Commissioner,,Kristie Fiegen,REP,72
-Butte,12,Public Utilities Commissioner,,Forrest Wilson,DEM,10
-Butte,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Butte,11,Public Utilities Commissioner,,Kristie Fiegen,REP,78
+Butte,12,Public Utilities Commissioner,,Forrest Wilson,DEM,11
+Butte,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,1
 Butte,12,Public Utilities Commissioner,,Kristie Fiegen,REP,73
-Butte,14,Public Utilities Commissioner,,Forrest Wilson,DEM,70
-Butte,14,Public Utilities Commissioner,,A. Gideon Oakes,LIB,42
+Butte,13,Public Utilities Commissioner,,Forrest Wilson,DEM,20
+Butte,13,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Butte,13,Public Utilities Commissioner,,Kristie Fiegen,REP,197
+Butte,14,Public Utilities Commissioner,,Forrest Wilson,DEM,35
+Butte,14,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
 Butte,14,Public Utilities Commissioner,,Kristie Fiegen,REP,213
-Butte,16,Public Utilities Commissioner,,Forrest Wilson,DEM,57
+Butte,16,Public Utilities Commissioner,,Forrest Wilson,DEM,97
 Butte,16,Public Utilities Commissioner,,A. Gideon Oakes,LIB,63
 Butte,16,Public Utilities Commissioner,,Kristie Fiegen,REP,647
-Butte,17,Public Utilities Commissioner,,Forrest Wilson,DEM,93
-Butte,17,Public Utilities Commissioner,,A. Gideon Oakes,LIB,68
-Butte,17,Public Utilities Commissioner,,Kristie Fiegen,REP,346
-Butte,18,Public Utilities Commissioner,,Forrest Wilson,DEM,52
-Butte,18,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
-Butte,18,Public Utilities Commissioner,,Kristie Fiegen,REP,129
+Butte,17,Public Utilities Commissioner,,Forrest Wilson,DEM,55
+Butte,17,Public Utilities Commissioner,,A. Gideon Oakes,LIB,28
+Butte,17,Public Utilities Commissioner,,Kristie Fiegen,REP,348
+Butte,18,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Butte,18,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Butte,18,Public Utilities Commissioner,,Kristie Fiegen,REP,86
 Butte,20,Public Utilities Commissioner,,Forrest Wilson,DEM,39
 Butte,20,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
 Butte,20,Public Utilities Commissioner,,Kristie Fiegen,REP,169
-Butte,21,Public Utilities Commissioner,,Forrest Wilson,DEM,35
+Butte,21,Public Utilities Commissioner,,Forrest Wilson,DEM,53
 Butte,21,Public Utilities Commissioner,,A. Gideon Oakes,LIB,26
 Butte,21,Public Utilities Commissioner,,Kristie Fiegen,REP,180
-Butte,22,Public Utilities Commissioner,,Forrest Wilson,DEM,25
+Butte,22,Public Utilities Commissioner,,Forrest Wilson,DEM,35
 Butte,22,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
 Butte,22,Public Utilities Commissioner,,Kristie Fiegen,REP,152
 Butte,23,Public Utilities Commissioner,,Forrest Wilson,DEM,40
 Butte,23,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
 Butte,23,Public Utilities Commissioner,,Kristie Fiegen,REP,186
 Butte,24,Public Utilities Commissioner,,Forrest Wilson,DEM,81
-Butte,24,Public Utilities Commissioner,,A. Gideon Oakes,LIB,23
+Butte,24,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
 Butte,24,Public Utilities Commissioner,,Kristie Fiegen,REP,260
 Butte,25,Public Utilities Commissioner,,Forrest Wilson,DEM,68
 Butte,25,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
@@ -153,51 +164,51 @@ Butte,28,Public Utilities Commissioner,,Kristie Fiegen,REP,309
 Butte,06,State Senate,28,Dean Schrempp,DEM,0
 Butte,06,State Senate,28,Sam Marty,REP,47
 Butte,06,State Senate,28,Shane C. Farlee,IND,0
-Butte,08,State Senate,28,Dean Schrempp,DEM,8
+Butte,08,State Senate,28,Dean Schrempp,DEM,1
 Butte,08,State Senate,28,Sam Marty,REP,24
-Butte,08,State Senate,28,Shane C. Farlee,IND,8
+Butte,08,State Senate,28,Shane C. Farlee,IND,1
 Butte,11,State Senate,28,Dean Schrempp,DEM,8
-Butte,11,State Senate,28,Sam Marty,REP,79
-Butte,11,State Senate,28,Shane C. Farlee,IND,1
+Butte,11,State Senate,28,Sam Marty,REP,76
+Butte,11,State Senate,28,Shane C. Farlee,IND,8
 Butte,12,State Senate,28,Dean Schrempp,DEM,10
 Butte,12,State Senate,28,Sam Marty,REP,79
-Butte,12,State Senate,28,Shane C. Farlee,IND,9
+Butte,12,State Senate,28,Shane C. Farlee,IND,1
 Butte,13,State Senate,28,Dean Schrempp,DEM,24
-Butte,13,State Senate,28,Sam Marty,REP,209
-Butte,13,State Senate,28,Shane C. Farlee,IND,8
+Butte,13,State Senate,28,Sam Marty,REP,200
+Butte,13,State Senate,28,Shane C. Farlee,IND,12
 Butte,14,State Senate,28,Dean Schrempp,DEM,33
 Butte,14,State Senate,28,Sam Marty,REP,220
-Butte,14,State Senate,28,Shane C. Farlee,IND,2
+Butte,14,State Senate,28,Shane C. Farlee,IND,15
 Butte,16,State Senate,28,Dean Schrempp,DEM,93
-Butte,16,State Senate,28,Sam Marty,REP,646
-Butte,16,State Senate,28,Shane C. Farlee,IND,50
+Butte,16,State Senate,28,Sam Marty,REP,662
+Butte,16,State Senate,28,Shane C. Farlee,IND,60
 Butte,17,State Senate,28,Dean Schrempp,DEM,62
 Butte,17,State Senate,28,Sam Marty,REP,349
-Butte,17,State Senate,28,Shane C. Farlee,IND,19
-Butte,18,State Senate,28,Dean Schrempp,DEM,2
-Butte,18,State Senate,28,Sam Marty,REP,89
-Butte,18,State Senate,28,Shane C. Farlee,IND,2
+Butte,17,State Senate,28,Shane C. Farlee,IND,29
+Butte,18,State Senate,28,Dean Schrempp,DEM,21
+Butte,18,State Senate,28,Sam Marty,REP,87
+Butte,18,State Senate,28,Shane C. Farlee,IND,12
 Butte,20,State Senate,28,Dean Schrempp,DEM,39
 Butte,20,State Senate,28,Sam Marty,REP,175
 Butte,20,State Senate,28,Shane C. Farlee,IND,14
-Butte,21,State Senate,28,Dean Schrempp,DEM,57
-Butte,21,State Senate,28,Sam Marty,REP,151
+Butte,21,State Senate,28,Dean Schrempp,DEM,51
+Butte,21,State Senate,28,Sam Marty,REP,175
 Butte,21,State Senate,28,Shane C. Farlee,IND,28
-Butte,22,State Senate,28,Dean Schrempp,DEM,31
-Butte,22,State Senate,28,Sam Marty,REP,104
-Butte,22,State Senate,28,Shane C. Farlee,IND,2
+Butte,22,State Senate,28,Dean Schrempp,DEM,37
+Butte,22,State Senate,28,Sam Marty,REP,151
+Butte,22,State Senate,28,Shane C. Farlee,IND,25
 Butte,23,State Senate,28,Dean Schrempp,DEM,46
-Butte,23,State Senate,28,Sam Marty,REP,146
+Butte,23,State Senate,28,Sam Marty,REP,176
 Butte,23,State Senate,28,Shane C. Farlee,IND,23
 Butte,24,State Senate,28,Dean Schrempp,DEM,77
-Butte,24,State Senate,28,Sam Marty,REP,243
-Butte,24,State Senate,28,Shane C. Farlee,IND,37
-Butte,25,State Senate,28,Dean Schrempp,DEM,49
+Butte,24,State Senate,28,Sam Marty,REP,263
+Butte,24,State Senate,28,Shane C. Farlee,IND,27
+Butte,25,State Senate,28,Dean Schrempp,DEM,79
 Butte,25,State Senate,28,Sam Marty,REP,349
 Butte,25,State Senate,28,Shane C. Farlee,IND,30
 Butte,26,State Senate,28,Dean Schrempp,DEM,46
 Butte,26,State Senate,28,Sam Marty,REP,192
-Butte,26,State Senate,28,Shane C. Farlee,IND,20
+Butte,26,State Senate,28,Shane C. Farlee,IND,29
 Butte,27,State Senate,28,Dean Schrempp,DEM,28
 Butte,27,State Senate,28,Sam Marty,REP,192
 Butte,27,State Senate,28,Shane C. Farlee,IND,20
@@ -210,7 +221,7 @@ Butte,11,State House,28B,Travis Ismay,REP,66
 Butte,12,State House,28B,Travis Ismay,REP,72
 Butte,13,State House,28B,Travis Ismay,REP,177
 Butte,14,State House,28B,Travis Ismay,REP,203
-Butte,16,State House,28B,Travis Ismay,REP,66
+Butte,16,State House,28B,Travis Ismay,REP,662
 Butte,17,State House,28B,Travis Ismay,REP,334
 Butte,18,State House,28B,Travis Ismay,REP,95
 Butte,20,State House,28B,Travis Ismay,REP,156
@@ -218,81 +229,295 @@ Butte,21,State House,28B,Travis Ismay,REP,188
 Butte,22,State House,28B,Travis Ismay,REP,155
 Butte,23,State House,28B,Travis Ismay,REP,175
 Butte,24,State House,28B,Travis Ismay,REP,256
-Butte,25,State House,28B,Travis Ismay,REP,354
+Butte,25,State House,28B,Travis Ismay,REP,351
 Butte,26,State House,28B,Travis Ismay,REP,204
 Butte,27,State House,28B,Travis Ismay,REP,179
 Butte,28,State House,28B,Travis Ismay,REP,303
-Butte,06,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,31
-Butte,06,Supreme Court Retention,Fifth,Scott P. Myren (No),,3
-Butte,08,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,26
-Butte,08,Supreme Court Retention,Fifth,Scott P. Myren (No),,0
-Butte,11,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,50
-Butte,11,Supreme Court Retention,Fifth,Scott P. Myren (No),,7
-Butte,12,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,56
-Butte,12,Supreme Court Retention,Fifth,Scott P. Myren (No),,10
-Butte,13,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,166
-Butte,13,Supreme Court Retention,Fifth,Scott P. Myren (No),,28
-Butte,14,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,189
-Butte,14,Supreme Court Retention,Fifth,Scott P. Myren (No),,42
-Butte,16,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,568
-Butte,16,Supreme Court Retention,Fifth,Scott P. Myren (No),,128
-Butte,17,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,310
-Butte,17,Supreme Court Retention,Fifth,Scott P. Myren (No),,69
-Butte,18,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,90
-Butte,18,Supreme Court Retention,Fifth,Scott P. Myren (No),,20
-Butte,20,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,155
-Butte,20,Supreme Court Retention,Fifth,Scott P. Myren (No),,45
-Butte,21,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,122
-Butte,21,Supreme Court Retention,Fifth,Scott P. Myren (No),,57
-Butte,22,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,140
-Butte,22,Supreme Court Retention,Fifth,Scott P. Myren (No),,41
-Butte,23,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,180
-Butte,23,Supreme Court Retention,Fifth,Scott P. Myren (No),,42
-Butte,24,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,299
-Butte,24,Supreme Court Retention,Fifth,Scott P. Myren (No),,58
-Butte,25,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,244
-Butte,25,Supreme Court Retention,Fifth,Scott P. Myren (No),,64
-Butte,26,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,200
-Butte,26,Supreme Court Retention,Fifth,Scott P. Myren (No),,41
-Butte,27,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,177
-Butte,27,Supreme Court Retention,Fifth,Scott P. Myren (No),,29
-Butte,28,Supreme Court Retention,Fifth,Scott P. Myren (Yes),,315
-Butte,28,Supreme Court Retention,Fifth,Scott P. Myren (No),,25
-Butte,1,Constitutional Amendment E,,Yes,,3
-Butte,1,Constitutional Amendment E,,No,,25
-Butte,1,Constitutional Amendment F,,Yes,,16
-Butte,1,Constitutional Amendment F,,No,,11
-Butte,1,Constitutional Amendment G,,Yes,,5
-Butte,1,Constitutional Amendment G,,No,,42
-Butte,1,Constitutional Amendment H,,Yes,,2
-Butte,1,Constitutional Amendment H,,No,,42
-Butte,1,Initiated Measure 28,,Yes,,7
-Butte,1,Initiated Measure 28,,No,,39
-Butte,1,Initiated Measure 29,,Yes,,7
-Butte,1,Initiated Measure 29,,No,,40
-Butte,6,Constitutional Amendment E,,Yes,,4
-Butte,6,Constitutional Amendment E,,No,,13
-Butte,6,Constitutional Amendment F,,Yes,,5
-Butte,6,Constitutional Amendment F,,No,,3
-Butte,6,Constitutional Amendment G,,Yes,,4
-Butte,6,Constitutional Amendment G,,No,,11
-Butte,6,Constitutional Amendment H,,Yes,,6
-Butte,6,Constitutional Amendment H,,No,,41
-Butte,6,Initiated Measure 28,,Yes,,2
-Butte,6,Initiated Measure 28,,No,,42
-Butte,6,Initiated Measure 29,,Yes,,7
-Butte,6,Initiated Measure 29,,No,,39
-Butte,6,Referred Law 21,,Yes,,2
-Butte,6,Referred Law 21,,No,,40
-Butte,8,Constitutional Amendment E,,Yes,,3
-Butte,8,Constitutional Amendment E,,No,,25
-Butte,8,Constitutional Amendment F,,Yes,,16
-Butte,8,Constitutional Amendment F,,No,,11
-Butte,8,Constitutional Amendment G,,Yes,,5
-Butte,8,Constitutional Amendment G,,No,,42
-Butte,8,Constitutional Amendment H,,Yes,,2
-Butte,8,Constitutional Amendment H,,No,,42
-Butte,8,Initiated Measure 28,,Yes,,7
-Butte,8,Initiated Measure 28,,No,,39
-Butte,8,Initiated Measure 29,,Yes,,7
-Butte,8,Initiated Measure 29,,No,,40
+Butte,06,Supreme Court Retention,5,Scott P. Myren - Yes,,31
+Butte,06,Supreme Court Retention,5,Scott P. Myren - No,,3
+Butte,08,Supreme Court Retention,5,Scott P. Myren - Yes,,26
+Butte,08,Supreme Court Retention,5,Scott P. Myren - No,,0
+Butte,11,Supreme Court Retention,5,Scott P. Myren - Yes,,55
+Butte,11,Supreme Court Retention,5,Scott P. Myren - No,,12
+Butte,12,Supreme Court Retention,5,Scott P. Myren - Yes,,56
+Butte,12,Supreme Court Retention,5,Scott P. Myren - No,,10
+Butte,13,Supreme Court Retention,5,Scott P. Myren - Yes,,166
+Butte,13,Supreme Court Retention,5,Scott P. Myren - No,,28
+Butte,14,Supreme Court Retention,5,Scott P. Myren - Yes,,189
+Butte,14,Supreme Court Retention,5,Scott P. Myren - No,,42
+Butte,16,Supreme Court Retention,5,Scott P. Myren - Yes,,568
+Butte,16,Supreme Court Retention,5,Scott P. Myren - No,,128
+Butte,17,Supreme Court Retention,5,Scott P. Myren - Yes,,310
+Butte,17,Supreme Court Retention,5,Scott P. Myren - No,,69
+Butte,18,Supreme Court Retention,5,Scott P. Myren - Yes,,90
+Butte,18,Supreme Court Retention,5,Scott P. Myren - No,,20
+Butte,20,Supreme Court Retention,5,Scott P. Myren - Yes,,155
+Butte,20,Supreme Court Retention,5,Scott P. Myren - No,,45
+Butte,21,Supreme Court Retention,5,Scott P. Myren - Yes,,172
+Butte,21,Supreme Court Retention,5,Scott P. Myren - No,,57
+Butte,22,Supreme Court Retention,5,Scott P. Myren - Yes,,140
+Butte,22,Supreme Court Retention,5,Scott P. Myren - No,,41
+Butte,23,Supreme Court Retention,5,Scott P. Myren - Yes,,180
+Butte,23,Supreme Court Retention,5,Scott P. Myren - No,,42
+Butte,24,Supreme Court Retention,5,Scott P. Myren - Yes,,249
+Butte,24,Supreme Court Retention,5,Scott P. Myren - No,,58
+Butte,25,Supreme Court Retention,5,Scott P. Myren - Yes,,334
+Butte,25,Supreme Court Retention,5,Scott P. Myren - No,,64
+Butte,26,Supreme Court Retention,5,Scott P. Myren - Yes,,200
+Butte,26,Supreme Court Retention,5,Scott P. Myren - No,,41
+Butte,27,Supreme Court Retention,5,Scott P. Myren - Yes,,177
+Butte,27,Supreme Court Retention,5,Scott P. Myren - No,,29
+Butte,28,Supreme Court Retention,5,Scott P. Myren - Yes,,315
+Butte,28,Supreme Court Retention,5,Scott P. Myren - No,,75
+Butte,06,Constitutional Amendment E,,Yes,,4
+Butte,06,Constitutional Amendment E,,No,,43
+Butte,06,Constitutional Amendment F,,Yes,,35
+Butte,06,Constitutional Amendment F,,No,,12
+Butte,06,Constitutional Amendment G,,Yes,,5
+Butte,06,Constitutional Amendment G,,No,,42
+Butte,06,Constitutional Amendment H,,Yes,,6
+Butte,06,Constitutional Amendment H,,No,,41
+Butte,06,Initiated Measure 28,,Yes,,5
+Butte,06,Initiated Measure 28,,No,,42
+Butte,06,Initiated Measure 29,,Yes,,7
+Butte,06,Initiated Measure 29,,No,,39
+Butte,06,Referred Law 21,,Yes,,7
+Butte,06,Referred Law 21,,No,,40
+Butte,08,Constitutional Amendment E,,Yes,,3
+Butte,08,Constitutional Amendment E,,No,,25
+Butte,08,Constitutional Amendment F,,Yes,,16
+Butte,08,Constitutional Amendment F,,No,,11
+Butte,08,Constitutional Amendment G,,Yes,,2
+Butte,08,Constitutional Amendment G,,No,,26
+Butte,08,Constitutional Amendment H,,Yes,,0
+Butte,08,Constitutional Amendment H,,No,,28
+Butte,08,Initiated Measure 28,,Yes,,2
+Butte,08,Initiated Measure 28,,No,,26
+Butte,08,Initiated Measure 29,,Yes,,0
+Butte,08,Initiated Measure 29,,No,,28
+Butte,08,Referred Law 21,,Yes,,7
+Butte,08,Referred Law 21,,No,,21
+Butte,11,Constitutional Amendment E,,Yes,,26
+Butte,11,Constitutional Amendment E,,No,,66
+Butte,11,Constitutional Amendment F,,Yes,,63
+Butte,11,Constitutional Amendment F,,No,,29
+Butte,11,Constitutional Amendment G,,Yes,,23
+Butte,11,Constitutional Amendment G,,No,,68
+Butte,11,Constitutional Amendment H,,Yes,,18
+Butte,11,Constitutional Amendment H,,No,,74
+Butte,11,Initiated Measure 28,,Yes,,27
+Butte,11,Initiated Measure 28,,No,,64
+Butte,11,Initiated Measure 29,,Yes,,25
+Butte,11,Initiated Measure 29,,No,,67
+Butte,11,Referred Law 21,,Yes,,25
+Butte,11,Referred Law 21,,No,,65
+Butte,12,Constitutional Amendment E,,Yes,,20
+Butte,12,Constitutional Amendment E,,No,,69
+Butte,12,Constitutional Amendment F,,Yes,,54
+Butte,12,Constitutional Amendment F,,No,,34
+Butte,12,Constitutional Amendment G,,Yes,,18
+Butte,12,Constitutional Amendment G,,No,,71
+Butte,12,Constitutional Amendment H,,Yes,,18
+Butte,12,Constitutional Amendment H,,No,,69
+Butte,12,Initiated Measure 28,,Yes,,21
+Butte,12,Initiated Measure 28,,No,,69
+Butte,12,Initiated Measure 29,,Yes,,14
+Butte,12,Initiated Measure 29,,No,,76
+Butte,12,Referred Law 21,,Yes,,15
+Butte,12,Referred Law 21,,No,,71
+Butte,13,Constitutional Amendment E,,Yes,,45
+Butte,13,Constitutional Amendment E,,No,,204
+Butte,13,Constitutional Amendment F,,Yes,,179
+Butte,13,Constitutional Amendment F,,No,,68
+Butte,13,Constitutional Amendment G,,Yes,,54
+Butte,13,Constitutional Amendment G,,No,,194
+Butte,13,Constitutional Amendment H,,Yes,,37
+Butte,13,Constitutional Amendment H,,No,,204
+Butte,13,Initiated Measure 28,,Yes,,30
+Butte,13,Initiated Measure 28,,No,,214
+Butte,13,Initiated Measure 29,,Yes,,42
+Butte,13,Initiated Measure 29,,No,,205
+Butte,13,Referred Law 21,,Yes,,62
+Butte,13,Referred Law 21,,No,,184
+Butte,14,Constitutional Amendment E,,Yes,,76
+Butte,14,Constitutional Amendment E,,No,,202
+Butte,14,Constitutional Amendment F,,Yes,,184
+Butte,14,Constitutional Amendment F,,No,,94
+Butte,14,Constitutional Amendment G,,Yes,,82
+Butte,14,Constitutional Amendment G,,No,,200
+Butte,14,Constitutional Amendment H,,Yes,,67
+Butte,14,Constitutional Amendment H,,No,,211
+Butte,14,Initiated Measure 28,,Yes,,59
+Butte,14,Initiated Measure 28,,No,,220
+Butte,14,Initiated Measure 29,,Yes,,62
+Butte,14,Initiated Measure 29,,No,,221
+Butte,14,Referred Law 21,,Yes,,83
+Butte,14,Referred Law 21,,No,,191
+Butte,16,Constitutional Amendment E,,Yes,,198
+Butte,16,Constitutional Amendment E,,No,,637
+Butte,16,Constitutional Amendment F,,Yes,,512
+Butte,16,Constitutional Amendment F,,No,,320
+Butte,16,Constitutional Amendment G,,Yes,,249
+Butte,16,Constitutional Amendment G,,No,,579
+Butte,16,Constitutional Amendment H,,Yes,,203
+Butte,16,Constitutional Amendment H,,No,,614
+Butte,16,Initiated Measure 28,,Yes,,230
+Butte,16,Initiated Measure 28,,No,,588
+Butte,16,Initiated Measure 29,,Yes,,262
+Butte,16,Initiated Measure 29,,No,,573
+Butte,16,Referred Law 21,,Yes,,264
+Butte,16,Referred Law 21,,No,,551
+Butte,17,Constitutional Amendment E,,Yes,,122
+Butte,17,Constitutional Amendment E,,No,,326
+Butte,17,Constitutional Amendment F,,Yes,,276
+Butte,17,Constitutional Amendment F,,No,,175
+Butte,17,Constitutional Amendment G,,Yes,,128
+Butte,17,Constitutional Amendment G,,No,,327
+Butte,17,Constitutional Amendment H,,Yes,,126
+Butte,17,Constitutional Amendment H,,No,,315
+Butte,17,Initiated Measure 28,,Yes,,126
+Butte,17,Initiated Measure 28,,No,,322
+Butte,17,Initiated Measure 29,,Yes,,139
+Butte,17,Initiated Measure 29,,No,,313
+Butte,17,Referred Law 21,,Yes,,143
+Butte,17,Referred Law 21,,No,,294
+Butte,18,Constitutional Amendment E,,Yes,,41
+Butte,18,Constitutional Amendment E,,No,,82
+Butte,18,Constitutional Amendment F,,Yes,,65
+Butte,18,Constitutional Amendment F,,No,,62
+Butte,18,Constitutional Amendment G,,Yes,,49
+Butte,18,Constitutional Amendment G,,No,,79
+Butte,18,Constitutional Amendment H,,Yes,,46
+Butte,18,Constitutional Amendment H,,No,,77
+Butte,18,Initiated Measure 28,,Yes,,36
+Butte,18,Initiated Measure 28,,No,,86
+Butte,18,Initiated Measure 29,,Yes,,61
+Butte,18,Initiated Measure 29,,No,,66
+Butte,18,Referred Law 21,,Yes,,54
+Butte,18,Referred Law 21,,No,,71
+Butte,20,Constitutional Amendment E,,Yes,,63
+Butte,20,Constitutional Amendment E,,No,,177
+Butte,20,Constitutional Amendment F,,Yes,,137
+Butte,20,Constitutional Amendment F,,No,,99
+Butte,20,Constitutional Amendment G,,Yes,,73
+Butte,20,Constitutional Amendment G,,No,,164
+Butte,20,Constitutional Amendment H,,Yes,,66
+Butte,20,Constitutional Amendment H,,No,,165
+Butte,20,Initiated Measure 28,,Yes,,69
+Butte,20,Initiated Measure 28,,No,,165
+Butte,20,Initiated Measure 29,,Yes,,79
+Butte,20,Initiated Measure 29,,No,,157
+Butte,20,Referred Law 21,,Yes,,81
+Butte,20,Referred Law 21,,No,,151
+Butte,21,Constitutional Amendment E,,Yes,,93
+Butte,21,Constitutional Amendment E,,No,,179
+Butte,21,Constitutional Amendment F,,Yes,,141
+Butte,21,Constitutional Amendment F,,No,,134
+Butte,21,Constitutional Amendment G,,Yes,,109
+Butte,21,Constitutional Amendment G,,No,,167
+Butte,21,Constitutional Amendment H,,Yes,,101
+Butte,21,Constitutional Amendment H,,No,,156
+Butte,21,Initiated Measure 28,,Yes,,104
+Butte,21,Initiated Measure 28,,No,,169
+Butte,21,Initiated Measure 29,,Yes,,137
+Butte,21,Initiated Measure 29,,No,,142
+Butte,21,Referred Law 21,,Yes,,104
+Butte,21,Referred Law 21,,No,,161
+Butte,22,Constitutional Amendment E,,Yes,,74
+Butte,22,Constitutional Amendment E,,No,,142
+Butte,22,Constitutional Amendment F,,Yes,,129
+Butte,22,Constitutional Amendment F,,No,,86
+Butte,22,Constitutional Amendment G,,Yes,,92
+Butte,22,Constitutional Amendment G,,No,,131
+Butte,22,Constitutional Amendment H,,Yes,,84
+Butte,22,Constitutional Amendment H,,No,,131
+Butte,22,Initiated Measure 28,,Yes,,85
+Butte,22,Initiated Measure 28,,No,,130
+Butte,22,Initiated Measure 29,,Yes,,117
+Butte,22,Initiated Measure 29,,No,,105
+Butte,22,Referred Law 21,,Yes,,110
+Butte,22,Referred Law 21,,No,,101
+Butte,23,Constitutional Amendment E,,Yes,,83
+Butte,23,Constitutional Amendment E,,No,,173
+Butte,23,Constitutional Amendment F,,Yes,,149
+Butte,23,Constitutional Amendment F,,No,,106
+Butte,23,Constitutional Amendment G,,Yes,,101
+Butte,23,Constitutional Amendment G,,No,,156
+Butte,23,Constitutional Amendment H,,Yes,,85
+Butte,23,Constitutional Amendment H,,No,,156
+Butte,23,Initiated Measure 28,,Yes,,94
+Butte,23,Initiated Measure 28,,No,,158
+Butte,23,Initiated Measure 29,,Yes,,115
+Butte,23,Initiated Measure 29,,No,,144
+Butte,23,Referred Law 21,,Yes,,96
+Butte,23,Referred Law 21,,No,,153
+Butte,24,Constitutional Amendment E,,Yes,,139
+Butte,24,Constitutional Amendment E,,No,,242
+Butte,24,Constitutional Amendment F,,Yes,,215
+Butte,24,Constitutional Amendment F,,No,,167
+Butte,24,Constitutional Amendment G,,Yes,,153
+Butte,24,Constitutional Amendment G,,No,,226
+Butte,24,Constitutional Amendment H,,Yes,,148
+Butte,24,Constitutional Amendment H,,No,,214
+Butte,24,Initiated Measure 28,,Yes,,135
+Butte,24,Initiated Measure 28,,No,,244
+Butte,24,Initiated Measure 29,,Yes,,180
+Butte,24,Initiated Measure 29,,No,,203
+Butte,24,Referred Law 21,,Yes,,149
+Butte,24,Referred Law 21,,No,,225
+Butte,25,Constitutional Amendment E,,Yes,,166
+Butte,25,Constitutional Amendment E,,No,,305
+Butte,25,Constitutional Amendment F,,Yes,,317
+Butte,25,Constitutional Amendment F,,No,,154
+Butte,25,Constitutional Amendment G,,Yes,,155
+Butte,25,Constitutional Amendment G,,No,,320
+Butte,25,Constitutional Amendment H,,Yes,,149
+Butte,25,Constitutional Amendment H,,No,,308
+Butte,25,Initiated Measure 28,,Yes,,113
+Butte,25,Initiated Measure 28,,No,,356
+Butte,25,Initiated Measure 29,,Yes,,140
+Butte,25,Initiated Measure 29,,No,,330
+Butte,25,Referred Law 21,,Yes,,201
+Butte,25,Referred Law 21,,No,,254
+Butte,26,Constitutional Amendment E,,Yes,,103
+Butte,26,Constitutional Amendment E,,No,,187
+Butte,26,Constitutional Amendment F,,Yes,,162
+Butte,26,Constitutional Amendment F,,No,,128
+Butte,26,Constitutional Amendment G,,Yes,,103
+Butte,26,Constitutional Amendment G,,No,,191
+Butte,26,Constitutional Amendment H,,Yes,,86
+Butte,26,Constitutional Amendment H,,No,,189
+Butte,26,Initiated Measure 28,,Yes,,102
+Butte,26,Initiated Measure 28,,No,,189
+Butte,26,Initiated Measure 29,,Yes,,137
+Butte,26,Initiated Measure 29,,No,,159
+Butte,26,Referred Law 21,,Yes,,123
+Butte,26,Referred Law 21,,No,,149
+Butte,27,Constitutional Amendment E,,Yes,,82
+Butte,27,Constitutional Amendment E,,No,,171
+Butte,27,Constitutional Amendment F,,Yes,,155
+Butte,27,Constitutional Amendment F,,No,,96
+Butte,27,Constitutional Amendment G,,Yes,,74
+Butte,27,Constitutional Amendment G,,No,,175
+Butte,27,Constitutional Amendment H,,Yes,,66
+Butte,27,Constitutional Amendment H,,No,,176
+Butte,27,Initiated Measure 28,,Yes,,69
+Butte,27,Initiated Measure 28,,No,,181
+Butte,27,Initiated Measure 29,,Yes,,97
+Butte,27,Initiated Measure 29,,No,,153
+Butte,27,Referred Law 21,,Yes,,91
+Butte,27,Referred Law 21,,No,,149
+Butte,28,Constitutional Amendment E,,Yes,,149
+Butte,28,Constitutional Amendment E,,No,,295
+Butte,28,Constitutional Amendment F,,Yes,,261
+Butte,28,Constitutional Amendment F,,No,,178
+Butte,28,Constitutional Amendment G,,Yes,,184
+Butte,28,Constitutional Amendment G,,No,,262
+Butte,28,Constitutional Amendment H,,Yes,,161
+Butte,28,Constitutional Amendment H,,No,,274
+Butte,28,Initiated Measure 28,,Yes,,161
+Butte,28,Initiated Measure 28,,No,,279
+Butte,28,Initiated Measure 29,,Yes,,188
+Butte,28,Initiated Measure 29,,No,,262
+Butte,28,Referred Law 21,,Yes,,208
+Butte,28,Referred Law 21,,No,,227

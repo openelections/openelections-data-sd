@@ -27,10 +27,14 @@ Fall River,HS 4,President,,Kamala D. Harris and Tim Walz,DEM,142
 Fall River,HS 4,President,,Chase Oliver and Mike ter Maat,LIB,4
 Fall River,HS 4,President,,Donald J. Trump and JD Vance,REP,275
 Fall River,HS 4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Fall River,JAC,President,,Kamala D. Harris and Tim Walz,DEM,251
+Fall River,JAC,President,,Kamala D. Harris and Tim Walz,DEM,241
 Fall River,JAC,President,,Chase Oliver and Mike ter Maat,LIB,7
-Fall River,JAC,President,,Donald J. Trump and JD Vance,REP,911
+Fall River,JAC,President,,Donald J. Trump and JD Vance,REP,991
 Fall River,JAC,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,20
+Fall River,Oelrichs A,President,,Kamala D. Harris and Tim Walz,DEM,31
+Fall River,Oelrichs A,President,,Chase Oliver and Mike ter Maat,LIB,1
+Fall River,Oelrichs A,President,,Donald J. Trump and JD Vance,REP,106
+Fall River,Oelrichs A,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Fall River,BEA,U.S. House,1,Sheryl Johnson,DEM,27
 Fall River,BEA,U.S. House,1,Dusty Johnson,REP,162
 Fall River,CAS,U.S. House,1,Sheryl Johnson,DEM,28
@@ -45,10 +49,10 @@ Fall River,HS 3,U.S. House,1,Sheryl Johnson,DEM,112
 Fall River,HS 3,U.S. House,1,Dusty Johnson,REP,291
 Fall River,HS 4,U.S. House,1,Sheryl Johnson,DEM,131
 Fall River,HS 4,U.S. House,1,Dusty Johnson,REP,288
-Fall River,IAC,U.S. House,1,Sheryl Johnson,DEM,217
-Fall River,IAC,U.S. House,1,Dusty Johnson,REP,940
-Fall River,Delrichs Area,U.S. House,1,Sheryl Johnson,DEM,22
-Fall River,Delrichs Area,U.S. House,1,Dusty Johnson,REP,187
+Fall River,JAC,U.S. House,1,Sheryl Johnson,DEM,217
+Fall River,JAC,U.S. House,1,Dusty Johnson,REP,940
+Fall River,Oelrichs Area,U.S. House,1,Sheryl Johnson,DEM,22
+Fall River,Oelrichs Area,U.S. House,1,Dusty Johnson,REP,187
 Fall River,BEA,Public Utilities Commissioner,,Forrest Wilson,DEM,21
 Fall River,BEA,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
 Fall River,BEA,Public Utilities Commissioner,,Kristie Fiegen,REP,146
@@ -68,14 +72,14 @@ Fall River,HS 3,Public Utilities Commissioner,,Forrest Wilson,DEM,98
 Fall River,HS 3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,39
 Fall River,HS 3,Public Utilities Commissioner,,Kristie Fiegen,REP,245
 Fall River,HS 4,Public Utilities Commissioner,,Forrest Wilson,DEM,120
-Fall River,HS 4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,33
+Fall River,HS 4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
 Fall River,HS 4,Public Utilities Commissioner,,Kristie Fiegen,REP,246
 Fall River,JAC,Public Utilities Commissioner,,Forrest Wilson,DEM,202
 Fall River,JAC,Public Utilities Commissioner,,A. Gideon Oakes,LIB,72
 Fall River,JAC,Public Utilities Commissioner,,Kristie Fiegen,REP,848
-Fall River,Delirchs Area,Public Utilities Commissioner,,Forrest Wilson,DEM,15
-Fall River,Delirchs Area,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
-Fall River,Delirchs Area,Public Utilities Commissioner,,Kristie Fiegen,REP,177
+Fall River,Oelrichs Area,Public Utilities Commissioner,,Forrest Wilson,DEM,15
+Fall River,Oelrichs Area,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Fall River,Oelrichs Area,Public Utilities Commissioner,,Kristie Fiegen,REP,177
 Fall River,BEA,State Senate,30,Bret Swanson,DEM,37
 Fall River,BEA,State Senate,30,Amber Hulse,REP,139
 Fall River,CAS,State Senate,30,Bret Swanson,DEM,39
@@ -94,87 +98,87 @@ Fall River,JAC,State Senate,30,Bret Swanson,DEM,231
 Fall River,JAC,State Senate,30,Amber Hulse,REP,861
 Fall River,Oelrichs Area,State Senate,30,Bret Swanson,DEM,21
 Fall River,Oelrichs Area,State Senate,30,Amber Hulse,REP,168
-Fall River,BEA,State House,30,Susan Schierbeck,DEM,32
+Fall River,BEA,State House,30,Susan Scheirbeck,DEM,32
 Fall River,BEA,State House,30,Trish Ladner,REP,132
 Fall River,BEA,State House,30,Tim Goodwin,REP,128
-Fall River,CAS,State House,30,Susan Schierbeck,DEM,36
+Fall River,CAS,State House,30,Susan Scheirbeck,DEM,36
 Fall River,CAS,State House,30,Trish Ladner,REP,140
 Fall River,CAS,State House,30,Tim Goodwin,REP,134
-Fall River,EDA,State House,30,Susan Schierbeck,DEM,102
+Fall River,EDA,State House,30,Susan Scheirbeck,DEM,102
 Fall River,EDA,State House,30,Trish Ladner,REP,426
 Fall River,EDA,State House,30,Tim Goodwin,REP,445
-Fall River,HS 1,State House,30,Susan Schierbeck,DEM,162
+Fall River,HS 1,State House,30,Susan Scheirbeck,DEM,162
 Fall River,HS 1,State House,30,Trish Ladner,REP,292
 Fall River,HS 1,State House,30,Tim Goodwin,REP,264
-Fall River,HS 2,State House,30,Susan Schierbeck,DEM,121
+Fall River,HS 2,State House,30,Susan Scheirbeck,DEM,121
 Fall River,HS 2,State House,30,Trish Ladner,REP,312
 Fall River,HS 2,State House,30,Tim Goodwin,REP,299
-Fall River,HS 3,State House,30,Susan Schierbeck,DEM,125
+Fall River,HS 3,State House,30,Susan Scheirbeck,DEM,125
 Fall River,HS 3,State House,30,Trish Ladner,REP,243
 Fall River,HS 3,State House,30,Tim Goodwin,REP,223
-Fall River,HS 4,State House,30,Susan Schierbeck,DEM,137
+Fall River,HS 4,State House,30,Susan Scheirbeck,DEM,137
 Fall River,HS 4,State House,30,Trish Ladner,REP,244
 Fall River,HS 4,State House,30,Tim Goodwin,REP,216
-Fall River,JAC,State House,30,Susan Schierbeck,DEM,251
+Fall River,JAC,State House,30,Susan Scheirbeck,DEM,251
 Fall River,JAC,State House,30,Trish Ladner,REP,801
 Fall River,JAC,State House,30,Tim Goodwin,REP,754
-Fall River,Oelrichs Area,State House,30,Susan Schierbeck,DEM,25
+Fall River,Oelrichs Area,State House,30,Susan Scheirbeck,DEM,25
 Fall River,Oelrichs Area,State House,30,Trish Ladner,REP,170
 Fall River,Oelrichs Area,State House,30,Tim Goodwin,REP,146
-Fall River,BEA,County Commissioner At Large,,Sandra Wahlert,REP,112
-Fall River,BEA,County Commissioner At Large,,Joe Allen,REP,99
-Fall River,BEA,County Commissioner At Large,,Les Cope,REP,104
-Fall River,BEA,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,73
-Fall River,CAS,County Commissioner At Large,,Sandra Wahlert,REP,110
-Fall River,CAS,County Commissioner At Large,,Joe Allen,REP,118
-Fall River,CAS,County Commissioner At Large,,Les Cope,REP,119
-Fall River,CAS,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,81
-Fall River,EDA,County Commissioner At Large,,Sandra Wahlert,REP,336
-Fall River,EDA,County Commissioner At Large,,Joe Allen,REP,351
-Fall River,EDA,County Commissioner At Large,,Les Cope,REP,386
-Fall River,EDA,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,173
-Fall River,HS 1,County Commissioner At Large,,Sandra Wahlert,REP,255
-Fall River,HS 1,County Commissioner At Large,,Joe Allen,REP,243
-Fall River,HS 1,County Commissioner At Large,,Les Cope,REP,200
-Fall River,HS 1,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,216
-Fall River,HS 2,County Commissioner At Large,,Sandra Wahlert,REP,260
-Fall River,HS 2,County Commissioner At Large,,Joe Allen,REP,249
-Fall River,HS 2,County Commissioner At Large,,Les Cope,REP,217
-Fall River,HS 2,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,223
-Fall River,HS 3,County Commissioner At Large,,Sandra Wahlert,REP,214
-Fall River,HS 3,County Commissioner At Large,,Joe Allen,REP,226
-Fall River,HS 3,County Commissioner At Large,,Les Cope,REP,167
-Fall River,HS 3,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,203
-Fall River,HS 4,County Commissioner At Large,,Sandra Wahlert,REP,185
-Fall River,HS 4,County Commissioner At Large,,Joe Allen,REP,206
-Fall River,HS 4,County Commissioner At Large,,Les Cope,REP,188
-Fall River,HS 4,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,204
-Fall River,JAC,County Commissioner At Large,,Sandra Wahlert,REP,674
-Fall River,JAC,County Commissioner At Large,,Joe Allen,REP,658
-Fall River,JAC,County Commissioner At Large,,Les Cope,REP,648
-Fall River,JAC,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,439
-Fall River,Delrichs Area,County Commissioner At Large,,Sandra Wahlert,REP,124
-Fall River,Delrichs Area,County Commissioner At Large,,Joe Allen,REP,87
-Fall River,Delrichs Area,County Commissioner At Large,,Les Cope,REP,155
-Fall River,Delrichs Area,County Commissioner At Large,,Jerry (Sandy) Huddleston,IND,59
-Fall River,BEA,Supreme Court Retention,,Justice Scott P. Myren - Yes,,116
-Fall River,BEA,Supreme Court Retention,,Justice Scott P. Myren - No,,41
-Fall River,CAS,Supreme Court Retention,,Justice Scott P. Myren - Yes,,133
-Fall River,CAS,Supreme Court Retention,,Justice Scott P. Myren - No,,37
-Fall River,EDA,Supreme Court Retention,,Justice Scott P. Myren - Yes,,422
-Fall River,EDA,Supreme Court Retention,,Justice Scott P. Myren - No,,130
-Fall River,HS 1,Supreme Court Retention,,Justice Scott P. Myren - Yes,,28
-Fall River,HS 1,Supreme Court Retention,,Justice Scott P. Myren - No,,124
-Fall River,HS 2,Supreme Court Retention,,Justice Scott P. Myren - Yes,,314
-Fall River,HS 2,Supreme Court Retention,,Justice Scott P. Myren - No,,103
-Fall River,HS 3,Supreme Court Retention,,Justice Scott P. Myren - Yes,,260
-Fall River,HS 3,Supreme Court Retention,,Justice Scott P. Myren - No,,83
-Fall River,HS 4,Supreme Court Retention,,Justice Scott P. Myren - Yes,,267
-Fall River,HS 4,Supreme Court Retention,,Justice Scott P. Myren - No,,90
-Fall River,OAC,Supreme Court Retention,,Justice Scott P. Myren - Yes,,764
-Fall River,OAC,Supreme Court Retention,,Justice Scott P. Myren - No,,208
-Fall River,Oelrichs Area,Supreme Court Retention,,Justice Scott P. Myren - Yes,,142
-Fall River,Oelrichs Area,Supreme Court Retention,,Justice Scott P. Myren - No,,41
+Fall River,BEA,County Commissioner,,Sandra Wahlert,REP,112
+Fall River,BEA,County Commissioner,,Joe Allen,REP,99
+Fall River,BEA,County Commissioner,,Les Cope,REP,104
+Fall River,BEA,County Commissioner,,Jerry (Sandy) Huddleston,IND,73
+Fall River,CAS,County Commissioner,,Sandra Wahlert,REP,110
+Fall River,CAS,County Commissioner,,Joe Allen,REP,118
+Fall River,CAS,County Commissioner,,Les Cope,REP,119
+Fall River,CAS,County Commissioner,,Jerry (Sandy) Huddleston,IND,81
+Fall River,EDA,County Commissioner,,Sandra Wahlert,REP,336
+Fall River,EDA,County Commissioner,,Joe Allen,REP,351
+Fall River,EDA,County Commissioner,,Les Cope,REP,386
+Fall River,EDA,County Commissioner,,Jerry (Sandy) Huddleston,IND,173
+Fall River,HS 1,County Commissioner,,Sandra Wahlert,REP,255
+Fall River,HS 1,County Commissioner,,Joe Allen,REP,243
+Fall River,HS 1,County Commissioner,,Les Cope,REP,200
+Fall River,HS 1,County Commissioner,,Jerry (Sandy) Huddleston,IND,216
+Fall River,HS 2,County Commissioner,,Sandra Wahlert,REP,260
+Fall River,HS 2,County Commissioner,,Joe Allen,REP,249
+Fall River,HS 2,County Commissioner,,Les Cope,REP,217
+Fall River,HS 2,County Commissioner,,Jerry (Sandy) Huddleston,IND,223
+Fall River,HS 3,County Commissioner,,Sandra Wahlert,REP,214
+Fall River,HS 3,County Commissioner,,Joe Allen,REP,226
+Fall River,HS 3,County Commissioner,,Les Cope,REP,167
+Fall River,HS 3,County Commissioner,,Jerry (Sandy) Huddleston,IND,203
+Fall River,HS 4,County Commissioner,,Sandra Wahlert,REP,185
+Fall River,HS 4,County Commissioner,,Joe Allen,REP,206
+Fall River,HS 4,County Commissioner,,Les Cope,REP,188
+Fall River,HS 4,County Commissioner,,Jerry (Sandy) Huddleston,IND,204
+Fall River,JAC,County Commissioner,,Sandra Wahlert,REP,674
+Fall River,JAC,County Commissioner,,Joe Allen,REP,658
+Fall River,JAC,County Commissioner,,Les Cope,REP,648
+Fall River,JAC,County Commissioner,,Jerry (Sandy) Huddleston,IND,439
+Fall River,Oelrichs Area,County Commissioner,,Sandra Wahlert,REP,124
+Fall River,Oelrichs Area,County Commissioner,,Joe Allen,REP,87
+Fall River,Oelrichs Area,County Commissioner,,Les Cope,REP,155
+Fall River,Oelrichs Area,County Commissioner,,Jerry (Sandy) Huddleston,IND,59
+Fall River,BEA,Supreme Court Retention,5,Scott P. Myren - Yes,,116
+Fall River,BEA,Supreme Court Retention,5,Scott P. Myren - No,,41
+Fall River,CAS,Supreme Court Retention,5,Scott P. Myren - Yes,,133
+Fall River,CAS,Supreme Court Retention,5,Scott P. Myren - No,,37
+Fall River,EDA,Supreme Court Retention,5,Scott P. Myren - Yes,,422
+Fall River,EDA,Supreme Court Retention,5,Scott P. Myren - No,,130
+Fall River,HS 1,Supreme Court Retention,5,Scott P. Myren - Yes,,281
+Fall River,HS 1,Supreme Court Retention,5,Scott P. Myren - No,,124
+Fall River,HS 2,Supreme Court Retention,5,Scott P. Myren - Yes,,314
+Fall River,HS 2,Supreme Court Retention,5,Scott P. Myren - No,,103
+Fall River,HS 3,Supreme Court Retention,5,Scott P. Myren - Yes,,260
+Fall River,HS 3,Supreme Court Retention,5,Scott P. Myren - No,,83
+Fall River,HS 4,Supreme Court Retention,5,Scott P. Myren - Yes,,267
+Fall River,HS 4,Supreme Court Retention,5,Scott P. Myren - No,,90
+Fall River,JAC,Supreme Court Retention,5,Scott P. Myren - Yes,,764
+Fall River,JAC,Supreme Court Retention,5,Scott P. Myren - No,,208
+Fall River,Oelrichs Area,Supreme Court Retention,5,Scott P. Myren - Yes,,142
+Fall River,Oelrichs Area,Supreme Court Retention,5,Scott P. Myren - No,,41
 Fall River,BEA,Constitutional Amendment E,,Yes,,54
 Fall River,BEA,Constitutional Amendment E,,No,,141
 Fall River,BEA,Constitutional Amendment F,,Yes,,130
@@ -207,21 +211,21 @@ Fall River,HS 1,Constitutional Amendment G,,Yes,,213
 Fall River,HS 1,Constitutional Amendment G,,No,,286
 Fall River,HS 1,Constitutional Amendment H,,Yes,,197
 Fall River,HS 1,Constitutional Amendment H,,No,,286
-Fall River,HS 2,Constitutional Amendment E,,Yes,,299
-Fall River,HS 2,Constitutional Amendment E,,No,,265
-Fall River,HS 2,Constitutional Amendment F,,Yes,,217
-Fall River,HS 2,Constitutional Amendment F,,No,,180
-Fall River,HS 2,Constitutional Amendment G,,Yes,,305
-Fall River,HS 2,Constitutional Amendment G,,No,,160
-Fall River,HS 2,Constitutional Amendment H,,Yes,,313
-Fall River,HS 2,Constitutional Amendment H,,No,,320
+Fall River,HS 2,Constitutional Amendment E,,Yes,,190
+Fall River,HS 2,Constitutional Amendment E,,No,,289
+Fall River,HS 2,Constitutional Amendment F,,Yes,,265
+Fall River,HS 2,Constitutional Amendment F,,No,,217
+Fall River,HS 2,Constitutional Amendment G,,Yes,,180
+Fall River,HS 2,Constitutional Amendment G,,No,,305
+Fall River,HS 2,Constitutional Amendment H,,Yes,,160
+Fall River,HS 2,Constitutional Amendment H,,No,,313
 Fall River,HS 3,Constitutional Amendment E,,Yes,,160
 Fall River,HS 3,Constitutional Amendment E,,No,,250
 Fall River,HS 3,Constitutional Amendment F,,Yes,,230
-Fall River,HS 3,Constitutional Amendment F,,No,,171
-Fall River,HS 3,Constitutional Amendment G,,Yes,,243
-Fall River,HS 3,Constitutional Amendment G,,No,,146
-Fall River,HS 3,Constitutional Amendment H,,Yes,,152
+Fall River,HS 3,Constitutional Amendment F,,No,,176
+Fall River,HS 3,Constitutional Amendment G,,Yes,,171
+Fall River,HS 3,Constitutional Amendment G,,No,,243
+Fall River,HS 3,Constitutional Amendment H,,Yes,,146
 Fall River,HS 3,Constitutional Amendment H,,No,,152
 Fall River,HS 4,Constitutional Amendment E,,Yes,,169
 Fall River,HS 4,Constitutional Amendment E,,No,,254
@@ -235,7 +239,7 @@ Fall River,JAC,Constitutional Amendment E,,Yes,,417
 Fall River,JAC,Constitutional Amendment E,,No,,764
 Fall River,JAC,Constitutional Amendment F,,Yes,,734
 Fall River,JAC,Constitutional Amendment F,,No,,448
-Fall River,JAC,Constitutional Amendment G,,Yes,,426
+Fall River,JAC,Constitutional Amendment G,,Yes,,428
 Fall River,JAC,Constitutional Amendment G,,No,,758
 Fall River,JAC,Constitutional Amendment H,,Yes,,349
 Fall River,JAC,Constitutional Amendment H,,No,,812
@@ -253,12 +257,12 @@ Fall River,BEA,Initiated Measure 29,,Yes,,54
 Fall River,BEA,Initiated Measure 29,,No,,144
 Fall River,BEA,Referred Law 21,,Yes,,62
 Fall River,BEA,Referred Law 21,,No,,130
-Fall River,CSA,Initiated Measure 28,,Yes,,51
-Fall River,CSA,Initiated Measure 28,,No,,144
-Fall River,CSA,Initiated Measure 29,,Yes,,65
-Fall River,CSA,Initiated Measure 29,,No,,132
-Fall River,CSA,Referred Law 21,,Yes,,70
-Fall River,CSA,Referred Law 21,,No,,119
+Fall River,CAS,Initiated Measure 28,,Yes,,51
+Fall River,CAS,Initiated Measure 28,,No,,144
+Fall River,CAS,Initiated Measure 29,,Yes,,65
+Fall River,CAS,Initiated Measure 29,,No,,132
+Fall River,CAS,Referred Law 21,,Yes,,70
+Fall River,CAS,Referred Law 21,,No,,119
 Fall River,EDA,Initiated Measure 28,,Yes,,242
 Fall River,EDA,Initiated Measure 28,,No,,380
 Fall River,EDA,Initiated Measure 29,,Yes,,243
@@ -295,9 +299,9 @@ Fall River,JAC,Initiated Measure 29,,Yes,,425
 Fall River,JAC,Initiated Measure 29,,No,,769
 Fall River,JAC,Referred Law 21,,Yes,,480
 Fall River,JAC,Referred Law 21,,No,,664
-Fall River,Delirchs Area,Initiated Measure 28,,Yes,,62
-Fall River,Delirchs Area,Initiated Measure 28,,No,,148
-Fall River,Delirchs Area,Initiated Measure 29,,Yes,,44
-Fall River,Delirchs Area,Initiated Measure 29,,No,,169
-Fall River,Delirchs Area,Referred Law 21,,Yes,,71
-Fall River,Delirchs Area,Referred Law 21,,No,,137
+Fall River,Oelrichs Area,Initiated Measure 28,,Yes,,62
+Fall River,Oelrichs Area,Initiated Measure 28,,No,,148
+Fall River,Oelrichs Area,Initiated Measure 29,,Yes,,44
+Fall River,Oelrichs Area,Initiated Measure 29,,No,,169
+Fall River,Oelrichs Area,Referred Law 21,,Yes,,71
+Fall River,Oelrichs Area,Referred Law 21,,No,,137

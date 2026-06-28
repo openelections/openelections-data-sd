@@ -126,6 +126,6 @@ def main(county_file, precinct_file):
 
 # example runtime for testing
 if __name__ == "__main__":
-    county_file = '2020/20201103__sd__general__county.csv'
+    county_file = '2024/20241105__sd__general__county.csv'
     precinct_file = '2020/20201103__sd__general__precinct.csv'
     print(main(county_file, precinct_file))

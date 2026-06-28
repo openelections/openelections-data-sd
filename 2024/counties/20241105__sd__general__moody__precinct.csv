@@ -25,7 +25,7 @@ Moody,5,President,,Donald J. Trump and JD Vance,REP,598
 Moody,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
 Moody,1,U.S. House,1,Sheryl Johnson,DEM,214
 Moody,1,U.S. House,1,Dusty Johnson,REP,287
-Moody,2,U.S. House,1,Sheryl Johnson,DEM,214
+Moody,2,U.S. House,1,Sheryl Johnson,DEM,241
 Moody,2,U.S. House,1,Dusty Johnson,REP,265
 Moody,3,U.S. House,1,Sheryl Johnson,DEM,116
 Moody,3,U.S. House,1,Dusty Johnson,REP,465
@@ -37,30 +37,32 @@ Moody,5,U.S. House,1,Sheryl Johnson,DEM,134
 Moody,5,U.S. House,1,Dusty Johnson,REP,649
 Moody,1,Public Utilities Commissioner,,Forrest Wilson,DEM,198
 Moody,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
-Moody,1,Public Utilities Commissioner,,Kristie Regen,REP,259
+Moody,1,Public Utilities Commissioner,,Kristie Fiegen,REP,259
 Moody,2,Public Utilities Commissioner,,Forrest Wilson,DEM,233
 Moody,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
-Moody,2,Public Utilities Commissioner,,Kristie Regen,REP,233
+Moody,2,Public Utilities Commissioner,,Kristie Fiegen,REP,233
 Moody,3,Public Utilities Commissioner,,Forrest Wilson,DEM,96
 Moody,3,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
-Moody,3,Public Utilities Commissioner,,Kristie Regen,REP,462
+Moody,3,Public Utilities Commissioner,,Kristie Fiegen,REP,462
 Moody,34,Public Utilities Commissioner,,Forrest Wilson,DEM,92
 Moody,34,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
-Moody,34,Public Utilities Commissioner,,Kristie Regen,REP,283
+Moody,34,Public Utilities Commissioner,,Kristie Fiegen,REP,283
 Moody,4,Public Utilities Commissioner,,Forrest Wilson,DEM,71
 Moody,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
-Moody,4,Public Utilities Commissioner,,Kristie Regen,REP,309
+Moody,4,Public Utilities Commissioner,,Kristie Fiegen,REP,309
 Moody,5,Public Utilities Commissioner,,Forrest Wilson,DEM,131
 Moody,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,25
-Moody,5,Public Utilities Commissioner,,Kristie Regen,REP,596
+Moody,5,Public Utilities Commissioner,,Kristie Fiegen,REP,596
 Moody,1,State Senate,25,Brian Wirth,DEM,229
 Moody,1,State Senate,25,Tom Pischke,REP,250
 Moody,2,State Senate,25,Brian Wirth,DEM,260
 Moody,2,State Senate,25,Tom Pischke,REP,230
 Moody,3,State Senate,25,Brian Wirth,DEM,123
 Moody,3,State Senate,25,Tom Pischke,REP,442
-Moody,4,State Senate,25,Brian Wirth,DEM,106
-Moody,4,State Senate,25,Tom Pischke,REP,278
+Moody,34,State Senate,25,Brian Wirth,DEM,106
+Moody,34,State Senate,25,Tom Pischke,REP,278
+Moody,4,State Senate,25,Brian Wirth,DEM,83
+Moody,4,State Senate,25,Tom Pischke,REP,298
 Moody,5,State Senate,25,Brian Wirth,DEM,161
 Moody,5,State Senate,25,Tom Pischke,REP,585
 Moody,1,State House,25,Les Heinemann,REP,268
@@ -69,35 +71,24 @@ Moody,2,State House,25,Les Heinemann,REP,255
 Moody,2,State House,25,Jon Hansen,REP,187
 Moody,3,State House,25,Les Heinemann,REP,346
 Moody,3,State House,25,Jon Hansen,REP,371
-Moody,4,State House,25,Les Heinemann,REP,276
-Moody,4,State House,25,Jon Hansen,REP,203
+Moody,34,State House,25,Les Heinemann,REP,276
+Moody,34,State House,25,Jon Hansen,REP,203
+Moody,4,State House,25,Les Heinemann,REP,271
+Moody,4,State House,25,Jon Hansen,REP,210
 Moody,5,State House,25,Les Heinemann,REP,482
 Moody,5,State House,25,Jon Hansen,REP,443
-Moody,1,State House,25,Les Heineman,REP,268
-Moody,2,State House,25,Les Heineman,REP,255
-Moody,3,State House,25,Les Heineman,REP,346
-Moody,4,State House,25,Les Heineman,REP,276
-Moody,5,State House,25,Les Heineman,REP,482
-Moody,1,Supreme Court Retention,,Yes,,306
-Moody,1,Supreme Court Retention,,No,,117
-Moody,2,Supreme Court Retention,,Yes,,297
-Moody,2,Supreme Court Retention,,No,,127
-Moody,3,Supreme Court Retention,,Yes,,408
-Moody,3,Supreme Court Retention,,No,,100
-Moody,4,Supreme Court Retention,,Yes,,270
-Moody,4,Supreme Court Retention,,No,,74
-Moody,5,Supreme Court Retention,,Yes,,547
-Moody,5,Supreme Court Retention,,No,,109
-Moody,1,Supreme Court Retention,5,Yes,,306
-Moody,1,Supreme Court Retention,5,No,,117
-Moody,2,Supreme Court Retention,5,Yes,,297
-Moody,2,Supreme Court Retention,5,No,,127
-Moody,3,Supreme Court Retention,5,Yes,,408
-Moody,3,Supreme Court Retention,5,No,,100
-Moody,4,Supreme Court Retention,5,Yes,,270
-Moody,4,Supreme Court Retention,5,No,,74
-Moody,5,Supreme Court Retention,5,Yes,,547
-Moody,5,Supreme Court Retention,5,No,,109
+Moody,1,Supreme Court Retention,5,Scott P. Myren - Yes,,306
+Moody,1,Supreme Court Retention,5,Scott P. Myren - No,,117
+Moody,2,Supreme Court Retention,5,Scott P. Myren - Yes,,297
+Moody,2,Supreme Court Retention,5,Scott P. Myren - No,,127
+Moody,3,Supreme Court Retention,5,Scott P. Myren - Yes,,408
+Moody,3,Supreme Court Retention,5,Scott P. Myren - No,,100
+Moody,34,Supreme Court Retention,5,Scott P. Myren - Yes,,270
+Moody,34,Supreme Court Retention,5,Scott P. Myren - No,,74
+Moody,4,Supreme Court Retention,5,Scott P. Myren - Yes,,256
+Moody,4,Supreme Court Retention,5,Scott P. Myren - No,,64
+Moody,5,Supreme Court Retention,5,Scott P. Myren - Yes,,547
+Moody,5,Supreme Court Retention,5,Scott P. Myren - No,,109
 Moody,1,Constitutional Amendment E,,Yes,,243
 Moody,1,Constitutional Amendment E,,No,,253
 Moody,1,Constitutional Amendment F,,Yes,,233
@@ -122,22 +113,30 @@ Moody,3,Constitutional Amendment G,,Yes,,182
 Moody,3,Constitutional Amendment G,,No,,413
 Moody,3,Constitutional Amendment H,,Yes,,145
 Moody,3,Constitutional Amendment H,,No,,433
-Moody,4,Constitutional Amendment E,,Yes,,136
-Moody,4,Constitutional Amendment E,,No,,266
+Moody,34,Constitutional Amendment E,,Yes,,136
+Moody,34,Constitutional Amendment E,,No,,266
+Moody,34,Constitutional Amendment F,,Yes,,204
+Moody,34,Constitutional Amendment F,,No,,199
+Moody,34,Constitutional Amendment G,,Yes,,113
+Moody,34,Constitutional Amendment G,,No,,292
+Moody,34,Constitutional Amendment H,,Yes,,118
+Moody,34,Constitutional Amendment H,,No,,274
+Moody,4,Constitutional Amendment E,,Yes,,112
+Moody,4,Constitutional Amendment E,,No,,291
 Moody,4,Constitutional Amendment F,,Yes,,204
-Moody,4,Constitutional Amendment F,,No,,199
-Moody,4,Constitutional Amendment G,,Yes,,113
-Moody,4,Constitutional Amendment G,,No,,292
-Moody,4,Constitutional Amendment H,,Yes,,118
-Moody,4,Constitutional Amendment H,,No,,274
-Moody,5,Constitutional Amendment E,,Yes,,111
-Moody,5,Constitutional Amendment E,,No,,291
-Moody,5,Constitutional Amendment F,,Yes,,204
-Moody,5,Constitutional Amendment F,,No,,192
-Moody,5,Constitutional Amendment G,,Yes,,130
-Moody,5,Constitutional Amendment G,,No,,276
-Moody,5,Constitutional Amendment H,,Yes,,89
-Moody,5,Constitutional Amendment H,,No,,298
+Moody,4,Constitutional Amendment F,,No,,192
+Moody,4,Constitutional Amendment G,,Yes,,130
+Moody,4,Constitutional Amendment G,,No,,276
+Moody,4,Constitutional Amendment H,,Yes,,89
+Moody,4,Constitutional Amendment H,,No,,298
+Moody,5,Constitutional Amendment E,,Yes,,261
+Moody,5,Constitutional Amendment E,,No,,521
+Moody,5,Constitutional Amendment F,,Yes,,484
+Moody,5,Constitutional Amendment F,,No,,294
+Moody,5,Constitutional Amendment G,,Yes,,224
+Moody,5,Constitutional Amendment G,,No,,563
+Moody,5,Constitutional Amendment H,,Yes,,207
+Moody,5,Constitutional Amendment H,,No,,568
 Moody,1,Initiated Measure 28,,Yes,,214
 Moody,1,Initiated Measure 28,,No,,284
 Moody,1,Initiated Measure 29,,Yes,,269
@@ -156,15 +155,21 @@ Moody,3,Initiated Measure 29,,Yes,,225
 Moody,3,Initiated Measure 29,,No,,369
 Moody,3,Referred Law 21,,Yes,,139
 Moody,3,Referred Law 21,,No,,452
-Moody,4,Initiated Measure 28,,Yes,,107
-Moody,4,Initiated Measure 28,,No,,293
-Moody,4,Initiated Measure 29,,Yes,,130
+Moody,34,Initiated Measure 28,,Yes,,107
+Moody,34,Initiated Measure 28,,No,,293
+Moody,34,Initiated Measure 29,,Yes,,130
+Moody,34,Initiated Measure 29,,No,,277
+Moody,34,Referred Law 21,,Yes,,86
+Moody,34,Referred Law 21,,No,,314
+Moody,4,Initiated Measure 28,,Yes,,86
+Moody,4,Initiated Measure 28,,No,,308
+Moody,4,Initiated Measure 29,,Yes,,128
 Moody,4,Initiated Measure 29,,No,,277
-Moody,4,Referred Law 21,,Yes,,86
-Moody,4,Referred Law 21,,No,,314
-Moody,5,Initiated Measure 28,,Yes,,86
-Moody,5,Initiated Measure 28,,No,,308
-Moody,5,Initiated Measure 29,,Yes,,182
-Moody,5,Initiated Measure 29,,No,,277
-Moody,5,Referred Law 21,,Yes,,62
-Moody,5,Referred Law 21,,No,,334
+Moody,4,Referred Law 21,,Yes,,62
+Moody,4,Referred Law 21,,No,,334
+Moody,5,Initiated Measure 28,,Yes,,214
+Moody,5,Initiated Measure 28,,No,,568
+Moody,5,Initiated Measure 29,,Yes,,282
+Moody,5,Initiated Measure 29,,No,,508
+Moody,5,Referred Law 21,,Yes,,177
+Moody,5,Referred Law 21,,No,,595

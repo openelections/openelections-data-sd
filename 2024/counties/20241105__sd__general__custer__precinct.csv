@@ -2,93 +2,330 @@ county,precinct,office,district,candidate,party,votes
 Custer,01,President,,Kamala D. Harris and Tim Walz,DEM,265
 Custer,01,President,,Chase Oliver and Mike ter Maat,LIB,7
 Custer,01,President,,Donald J. Trump and JD Vance,REP,975
-Custer,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,110
+Custer,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,16
 Custer,02,President,,Kamala D. Harris and Tim Walz,DEM,27
 Custer,02,President,,Chase Oliver and Mike ter Maat,LIB,2
 Custer,02,President,,Donald J. Trump and JD Vance,REP,149
-Custer,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
-Custer,03,President,,Kamala D. Harris and Tim Walz,DEM,64
-Custer,03,President,,Chase Oliver and Mike ter Maat,LIB,8
-Custer,03,President,,Donald J. Trump and JD Vance,REP,485
-Custer,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,10
-Custer,04,President,,Kamala D. Harris and Tim Walz,DEM,34
-Custer,04,President,,Chase Oliver and Mike ter Maat,LIB,5
-Custer,04,President,,Donald J. Trump and JD Vance,REP,451
-Custer,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
+Custer,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Custer,03,President,,Kamala D. Harris and Tim Walz,DEM,62
+Custer,03,President,,Chase Oliver and Mike ter Maat,LIB,1
+Custer,03,President,,Donald J. Trump and JD Vance,REP,155
+Custer,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
+Custer,04,President,,Kamala D. Harris and Tim Walz,DEM,134
+Custer,04,President,,Chase Oliver and Mike ter Maat,LIB,2
+Custer,04,President,,Donald J. Trump and JD Vance,REP,487
+Custer,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Custer,05,President,,Kamala D. Harris and Tim Walz,DEM,205
 Custer,05,President,,Chase Oliver and Mike ter Maat,LIB,6
 Custer,05,President,,Donald J. Trump and JD Vance,REP,560
-Custer,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,11
+Custer,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,11
 Custer,06,President,,Kamala D. Harris and Tim Walz,DEM,154
-Custer,06,President,,Chase Oliver and Mike ter Maat,LIB,5
-Custer,06,President,,Donald J. Trump and JD Vance,REP,451
-Custer,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
-Custer,07,President,,Kamala D. Harris and Tim Walz,DEM,189
-Custer,07,President,,Chase Oliver and Mike ter Maat,LIB,3
-Custer,07,President,,Donald J. Trump and JD Vance,REP,303
-Custer,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Custer,08,President,,Kamala D. Harris and Tim Walz,DEM,400
+Custer,06,President,,Chase Oliver and Mike ter Maat,LIB,7
+Custer,06,President,,Donald J. Trump and JD Vance,REP,259
+Custer,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
+Custer,07,President,,Kamala D. Harris and Tim Walz,DEM,94
+Custer,07,President,,Chase Oliver and Mike ter Maat,LIB,0
+Custer,07,President,,Donald J. Trump and JD Vance,REP,181
+Custer,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Custer,08,President,,Kamala D. Harris and Tim Walz,DEM,189
 Custer,08,President,,Chase Oliver and Mike ter Maat,LIB,2
-Custer,08,President,,Donald J. Trump and JD Vance,REP,1061
-Custer,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,21
-Custer,09,President,,Kamala D. Harris and Tim Walz,DEM,37
-Custer,09,President,,Chase Oliver and Mike ter Maat,LIB,2
-Custer,09,President,,Donald J. Trump and JD Vance,REP,176
-Custer,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Custer,1,Public Utilities Commissioner,,Forrest Wilson,DEM,191
-Custer,1,Public Utilities Commissioner,,A. Gideon Oakes,LIB,234
-Custer,1,Public Utilities Commissioner,,Kristie Fiegen,REP,870
-Custer,2,Public Utilities Commissioner,,Forrest Wilson,DEM,22
-Custer,2,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
-Custer,2,Public Utilities Commissioner,,Kristie Fiegen,REP,132
-Custer,4,Public Utilities Commissioner,,Forrest Wilson,DEM,45
-Custer,4,Public Utilities Commissioner,,A. Gideon Oakes,LIB,84
-Custer,4,Public Utilities Commissioner,,Kristie Fiegen,REP,149
-Custer,5,Public Utilities Commissioner,,Forrest Wilson,DEM,105
-Custer,5,Public Utilities Commissioner,,A. Gideon Oakes,LIB,134
-Custer,5,Public Utilities Commissioner,,Kristie Fiegen,REP,446
-Custer,6,Public Utilities Commissioner,,Forrest Wilson,DEM,144
-Custer,6,Public Utilities Commissioner,,A. Gideon Oakes,LIB,106
-Custer,6,Public Utilities Commissioner,,Kristie Fiegen,REP,395
-Custer,7,Public Utilities Commissioner,,Forrest Wilson,DEM,121
-Custer,7,Public Utilities Commissioner,,A. Gideon Oakes,LIB,59
-Custer,7,Public Utilities Commissioner,,Kristie Fiegen,REP,237
-Custer,8,Public Utilities Commissioner,,Forrest Wilson,DEM,71
-Custer,8,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
-Custer,8,Public Utilities Commissioner,,Kristie Fiegen,REP,174
-Custer,9,Public Utilities Commissioner,,Forrest Wilson,DEM,45
-Custer,9,Public Utilities Commissioner,,A. Gideon Oakes,LIB,33
-Custer,9,Public Utilities Commissioner,,Kristie Fiegen,REP,292
-Custer,10,Public Utilities Commissioner,,Forrest Wilson,DEM,290
-Custer,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,138
-Custer,10,Public Utilities Commissioner,,Kristie Fiegen,REP,1001
-Custer,1,State House,30,Susan Schierbeck,DEM,249
-Custer,1,State House,30,Trish Ladner,REP,809
-Custer,1,State House,30,Tim Goodwin,REP,847
-Custer,2,State House,30,Susan Schierbeck,DEM,29
-Custer,2,State House,30,Trish Ladner,REP,127
-Custer,2,State House,30,Tim Goodwin,REP,126
-Custer,3,State House,30,Susan Schierbeck,DEM,59
-Custer,3,State House,30,Trish Ladner,REP,130
-Custer,3,State House,30,Tim Goodwin,REP,125
-Custer,4,State House,30,Susan Schierbeck,DEM,135
-Custer,4,State House,30,Trish Ladner,REP,402
-Custer,4,State House,30,Tim Goodwin,REP,409
-Custer,5,State House,30,Susan Schierbeck,DEM,208
-Custer,5,State House,30,Trish Ladner,REP,484
-Custer,5,State House,30,Tim Goodwin,REP,505
-Custer,6,State House,30,Susan Schierbeck,DEM,148
-Custer,6,State House,30,Trish Ladner,REP,238
-Custer,6,State House,30,Tim Goodwin,REP,246
-Custer,7,State House,30,Susan Schierbeck,DEM,78
-Custer,7,State House,30,Trish Ladner,REP,130
-Custer,7,State House,30,Tim Goodwin,REP,165
-Custer,8,State House,30,Susan Schierbeck,DEM,172
-Custer,8,State House,30,Trish Ladner,REP,280
-Custer,8,State House,30,Tim Goodwin,REP,305
-Custer,9,State House,30,Susan Schierbeck,DEM,366
-Custer,9,State House,30,Trish Ladner,REP,976
-Custer,9,State House,30,Tim Goodwin,REP,957
-Custer,10,State House,30,Susan Schierbeck,DEM,35
+Custer,08,President,,Donald J. Trump and JD Vance,REP,303
+Custer,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
+Custer,09,President,,Kamala D. Harris and Tim Walz,DEM,400
+Custer,09,President,,Chase Oliver and Mike ter Maat,LIB,7
+Custer,09,President,,Donald J. Trump and JD Vance,REP,1068
+Custer,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Custer,10,President,,Kamala D. Harris and Tim Walz,DEM,37
+Custer,10,President,,Chase Oliver and Mike ter Maat,LIB,2
+Custer,10,President,,Donald J. Trump and JD Vance,REP,176
+Custer,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
+Custer,01,U.S. House,1,Sheryl Johnson,DEM,216
+Custer,01,U.S. House,1,Dusty Johnson,REP,1017
+Custer,02,U.S. House,1,Sheryl Johnson,DEM,30
+Custer,02,U.S. House,1,Dusty Johnson,REP,148
+Custer,03,U.S. House,1,Sheryl Johnson,DEM,50
+Custer,03,U.S. House,1,Dusty Johnson,REP,166
+Custer,04,U.S. House,1,Sheryl Johnson,DEM,120
+Custer,04,U.S. House,1,Dusty Johnson,REP,496
+Custer,05,U.S. House,1,Sheryl Johnson,DEM,175
+Custer,05,U.S. House,1,Dusty Johnson,REP,588
+Custer,06,U.S. House,1,Sheryl Johnson,DEM,134
+Custer,06,U.S. House,1,Dusty Johnson,REP,285
+Custer,07,U.S. House,1,Sheryl Johnson,DEM,76
+Custer,07,U.S. House,1,Dusty Johnson,REP,200
+Custer,08,U.S. House,1,Sheryl Johnson,DEM,156
+Custer,08,U.S. House,1,Dusty Johnson,REP,334
+Custer,09,U.S. House,1,Sheryl Johnson,DEM,339
+Custer,09,U.S. House,1,Dusty Johnson,REP,1125
+Custer,10,U.S. House,1,Sheryl Johnson,DEM,38
+Custer,10,U.S. House,1,Dusty Johnson,REP,177
+Custer,01,Public Utilities Commissioner,,Forrest Wilson,DEM,191
+Custer,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,134
+Custer,01,Public Utilities Commissioner,,Kristie Fiegen,REP,870
+Custer,02,Public Utilities Commissioner,,Forrest Wilson,DEM,22
+Custer,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
+Custer,02,Public Utilities Commissioner,,Kristie Fiegen,REP,138
+Custer,03,Public Utilities Commissioner,,Forrest Wilson,DEM,45
+Custer,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,18
+Custer,03,Public Utilities Commissioner,,Kristie Fiegen,REP,147
+Custer,04,Public Utilities Commissioner,,Forrest Wilson,DEM,105
+Custer,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,54
+Custer,04,Public Utilities Commissioner,,Kristie Fiegen,REP,440
+Custer,05,Public Utilities Commissioner,,Forrest Wilson,DEM,144
+Custer,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,106
+Custer,05,Public Utilities Commissioner,,Kristie Fiegen,REP,496
+Custer,06,Public Utilities Commissioner,,Forrest Wilson,DEM,121
+Custer,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,50
+Custer,06,Public Utilities Commissioner,,Kristie Fiegen,REP,237
+Custer,07,Public Utilities Commissioner,,Forrest Wilson,DEM,71
+Custer,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,19
+Custer,07,Public Utilities Commissioner,,Kristie Fiegen,REP,174
+Custer,08,Public Utilities Commissioner,,Forrest Wilson,DEM,145
+Custer,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,35
+Custer,08,Public Utilities Commissioner,,Kristie Fiegen,REP,292
+Custer,09,Public Utilities Commissioner,,Forrest Wilson,DEM,290
+Custer,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,118
+Custer,09,Public Utilities Commissioner,,Kristie Fiegen,REP,1020
+Custer,10,Public Utilities Commissioner,,Forrest Wilson,DEM,29
+Custer,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,23
+Custer,10,Public Utilities Commissioner,,Kristie Fiegen,REP,157
+Custer,01,State Senate,30,Bret Swanson,DEM,247
+Custer,01,State Senate,30,Amber Hulse,REP,950
+Custer,02,State Senate,30,Bret Swanson,DEM,33
+Custer,02,State Senate,30,Amber Hulse,REP,147
+Custer,03,State Senate,30,Bret Swanson,DEM,60
+Custer,03,State Senate,30,Amber Hulse,REP,145
+Custer,04,State Senate,30,Bret Swanson,DEM,133
+Custer,04,State Senate,30,Amber Hulse,REP,466
+Custer,05,State Senate,30,Bret Swanson,DEM,178
+Custer,05,State Senate,30,Amber Hulse,REP,575
+Custer,06,State Senate,30,Bret Swanson,DEM,141
+Custer,06,State Senate,30,Amber Hulse,REP,273
+Custer,07,State Senate,30,Bret Swanson,DEM,85
+Custer,07,State Senate,30,Amber Hulse,REP,180
+Custer,08,State Senate,30,Bret Swanson,DEM,178
+Custer,08,State Senate,30,Amber Hulse,REP,304
+Custer,09,State Senate,30,Bret Swanson,DEM,353
+Custer,09,State Senate,30,Amber Hulse,REP,1092
+Custer,10,State Senate,30,Bret Swanson,DEM,34
+Custer,10,State Senate,30,Amber Hulse,REP,175
+Custer,01,State House,30,Susan Scheirbeck,DEM,249
+Custer,01,State House,30,Trish Ladner,REP,809
+Custer,01,State House,30,Tim Goodwin,REP,847
+Custer,02,State House,30,Susan Scheirbeck,DEM,29
+Custer,02,State House,30,Trish Ladner,REP,137
+Custer,02,State House,30,Tim Goodwin,REP,126
+Custer,03,State House,30,Susan Scheirbeck,DEM,59
+Custer,03,State House,30,Trish Ladner,REP,130
+Custer,03,State House,30,Tim Goodwin,REP,129
+Custer,04,State House,30,Susan Scheirbeck,DEM,136
+Custer,04,State House,30,Trish Ladner,REP,402
+Custer,04,State House,30,Tim Goodwin,REP,409
+Custer,05,State House,30,Susan Scheirbeck,DEM,208
+Custer,05,State House,30,Trish Ladner,REP,484
+Custer,05,State House,30,Tim Goodwin,REP,505
+Custer,06,State House,30,Susan Scheirbeck,DEM,148
+Custer,06,State House,30,Trish Ladner,REP,243
+Custer,06,State House,30,Tim Goodwin,REP,246
+Custer,07,State House,30,Susan Scheirbeck,DEM,78
+Custer,07,State House,30,Trish Ladner,REP,150
+Custer,07,State House,30,Tim Goodwin,REP,165
+Custer,08,State House,30,Susan Scheirbeck,DEM,172
+Custer,08,State House,30,Trish Ladner,REP,283
+Custer,08,State House,30,Tim Goodwin,REP,305
+Custer,09,State House,30,Susan Scheirbeck,DEM,366
+Custer,09,State House,30,Trish Ladner,REP,976
+Custer,09,State House,30,Tim Goodwin,REP,967
+Custer,10,State House,30,Susan Scheirbeck,DEM,36
 Custer,10,State House,30,Trish Ladner,REP,146
 Custer,10,State House,30,Tim Goodwin,REP,155
+Custer,01,County Commissioner At Large,,Colton Jones,DEM,260
+Custer,01,County Commissioner At Large,,Mark Hartman,REP,841
+Custer,01,County Commissioner At Large,,Michael D Busskohl,REP,733
+Custer,02,County Commissioner At Large,,Colton Jones,DEM,28
+Custer,02,County Commissioner At Large,,Mark Hartman,REP,137
+Custer,02,County Commissioner At Large,,Michael D Busskohl,REP,122
+Custer,03,County Commissioner At Large,,Colton Jones,DEM,52
+Custer,03,County Commissioner At Large,,Mark Hartman,REP,123
+Custer,03,County Commissioner At Large,,Michael D Busskohl,REP,131
+Custer,04,County Commissioner At Large,,Colton Jones,DEM,131
+Custer,04,County Commissioner At Large,,Mark Hartman,REP,407
+Custer,04,County Commissioner At Large,,Michael D Busskohl,REP,389
+Custer,05,County Commissioner At Large,,Colton Jones,DEM,216
+Custer,05,County Commissioner At Large,,Mark Hartman,REP,450
+Custer,05,County Commissioner At Large,,Michael D Busskohl,REP,498
+Custer,06,County Commissioner At Large,,Colton Jones,DEM,145
+Custer,06,County Commissioner At Large,,Mark Hartman,REP,235
+Custer,06,County Commissioner At Large,,Michael D Busskohl,REP,249
+Custer,07,County Commissioner At Large,,Colton Jones,DEM,88
+Custer,07,County Commissioner At Large,,Mark Hartman,REP,158
+Custer,07,County Commissioner At Large,,Michael D Busskohl,REP,151
+Custer,08,County Commissioner At Large,,Colton Jones,DEM,171
+Custer,08,County Commissioner At Large,,Mark Hartman,REP,258
+Custer,08,County Commissioner At Large,,Michael D Busskohl,REP,299
+Custer,09,County Commissioner At Large,,Colton Jones,DEM,399
+Custer,09,County Commissioner At Large,,Mark Hartman,REP,888
+Custer,09,County Commissioner At Large,,Michael D Busskohl,REP,944
+Custer,10,County Commissioner At Large,,Colton Jones,DEM,38
+Custer,10,County Commissioner At Large,,Mark Hartman,REP,160
+Custer,10,County Commissioner At Large,,Michael D Busskohl,REP,139
+Custer,01,Supreme Court Retention,5,Scott P. Myren - Yes,,804
+Custer,01,Supreme Court Retention,5,Scott P. Myren - No,,201
+Custer,02,Supreme Court Retention,5,Scott P. Myren - Yes,,123
+Custer,02,Supreme Court Retention,5,Scott P. Myren - No,,34
+Custer,03,Supreme Court Retention,5,Scott P. Myren - Yes,,148
+Custer,03,Supreme Court Retention,5,Scott P. Myren - No,,33
+Custer,04,Supreme Court Retention,5,Scott P. Myren - Yes,,399
+Custer,04,Supreme Court Retention,5,Scott P. Myren - No,,112
+Custer,05,Supreme Court Retention,5,Scott P. Myren - Yes,,528
+Custer,05,Supreme Court Retention,5,Scott P. Myren - No,,136
+Custer,06,Supreme Court Retention,5,Scott P. Myren - Yes,,280
+Custer,06,Supreme Court Retention,5,Scott P. Myren - No,,81
+Custer,07,Supreme Court Retention,5,Scott P. Myren - Yes,,197
+Custer,07,Supreme Court Retention,5,Scott P. Myren - No,,50
+Custer,08,Supreme Court Retention,5,Scott P. Myren - Yes,,324
+Custer,08,Supreme Court Retention,5,Scott P. Myren - No,,90
+Custer,09,Supreme Court Retention,5,Scott P. Myren - Yes,,971
+Custer,09,Supreme Court Retention,5,Scott P. Myren - No,,240
+Custer,10,Supreme Court Retention,5,Scott P. Myren - Yes,,119
+Custer,10,Supreme Court Retention,5,Scott P. Myren - No,,59
+Custer,clnct-01,Constitutional Amendment E,,Yes,,416
+Custer,clnct-02,Constitutional Amendment E,,Yes,,55
+Custer,clnct-03,Constitutional Amendment E,,Yes,,77
+Custer,clnct-04,Constitutional Amendment E,,Yes,,199
+Custer,clnct-05,Constitutional Amendment E,,Yes,,307
+Custer,clnct-06,Constitutional Amendment E,,Yes,,184
+Custer,clnct-07,Constitutional Amendment E,,Yes,,104
+Custer,clnct-08,Constitutional Amendment E,,Yes,,178
+Custer,clnct-09,Constitutional Amendment E,,Yes,,534
+Custer,clnct-10,Constitutional Amendment E,,Yes,,71
+Custer,clnct-01,Constitutional Amendment E,,No,,845
+Custer,clnct-02,Constitutional Amendment E,,No,,129
+Custer,clnct-03,Constitutional Amendment E,,No,,137
+Custer,clnct-04,Constitutional Amendment E,,No,,421
+Custer,clnct-05,Constitutional Amendment E,,No,,473
+Custer,clnct-06,Constitutional Amendment E,,No,,241
+Custer,clnct-07,Constitutional Amendment E,,No,,174
+Custer,clnct-08,Constitutional Amendment E,,No,,309
+Custer,clnct-09,Constitutional Amendment E,,No,,931
+Custer,clnct-10,Constitutional Amendment E,,No,,144
+Custer,clnct-01,Constitutional Amendment F,,Yes,,810
+Custer,clnct-02,Constitutional Amendment F,,Yes,,117
+Custer,clnct-03,Constitutional Amendment F,,Yes,,125
+Custer,clnct-04,Constitutional Amendment F,,Yes,,381
+Custer,clnct-05,Constitutional Amendment F,,Yes,,492
+Custer,clnct-06,Constitutional Amendment F,,Yes,,241
+Custer,clnct-07,Constitutional Amendment F,,Yes,,170
+Custer,clnct-08,Constitutional Amendment F,,Yes,,303
+Custer,clnct-09,Constitutional Amendment F,,Yes,,913
+Custer,clnct-10,Constitutional Amendment F,,Yes,,118
+Custer,clnct-01,Constitutional Amendment F,,No,,436
+Custer,clnct-02,Constitutional Amendment F,,No,,65
+Custer,clnct-03,Constitutional Amendment F,,No,,90
+Custer,clnct-04,Constitutional Amendment F,,No,,239
+Custer,clnct-05,Constitutional Amendment F,,No,,281
+Custer,clnct-06,Constitutional Amendment F,,No,,181
+Custer,clnct-07,Constitutional Amendment F,,No,,108
+Custer,clnct-08,Constitutional Amendment F,,No,,181
+Custer,clnct-09,Constitutional Amendment F,,No,,545
+Custer,clnct-10,Constitutional Amendment F,,No,,92
+Custer,clnct-01,Constitutional Amendment G,,Yes,,422
+Custer,clnct-02,Constitutional Amendment G,,Yes,,56
+Custer,clnct-03,Constitutional Amendment G,,Yes,,70
+Custer,clnct-04,Constitutional Amendment G,,Yes,,227
+Custer,clnct-05,Constitutional Amendment G,,Yes,,322
+Custer,clnct-06,Constitutional Amendment G,,Yes,,201
+Custer,clnct-07,Constitutional Amendment G,,Yes,,104
+Custer,clnct-08,Constitutional Amendment G,,Yes,,190
+Custer,clnct-09,Constitutional Amendment G,,Yes,,573
+Custer,clnct-10,Constitutional Amendment G,,Yes,,63
+Custer,clnct-01,Constitutional Amendment G,,No,,835
+Custer,clnct-02,Constitutional Amendment G,,No,,129
+Custer,clnct-03,Constitutional Amendment G,,No,,142
+Custer,clnct-04,Constitutional Amendment G,,No,,398
+Custer,clnct-05,Constitutional Amendment G,,No,,456
+Custer,clnct-06,Constitutional Amendment G,,No,,230
+Custer,clnct-07,Constitutional Amendment G,,No,,158
+Custer,clnct-08,Constitutional Amendment G,,No,,304
+Custer,clnct-09,Constitutional Amendment G,,No,,916
+Custer,clnct-10,Constitutional Amendment G,,No,,151
+Custer,clnct-01,Constitutional Amendment H,,Yes,,373
+Custer,clnct-02,Constitutional Amendment H,,Yes,,40
+Custer,clnct-03,Constitutional Amendment H,,Yes,,62
+Custer,clnct-04,Constitutional Amendment H,,Yes,,185
+Custer,clnct-05,Constitutional Amendment H,,Yes,,266
+Custer,clnct-06,Constitutional Amendment H,,Yes,,158
+Custer,clnct-07,Constitutional Amendment H,,Yes,,109
+Custer,clnct-08,Constitutional Amendment H,,Yes,,183
+Custer,clnct-09,Constitutional Amendment H,,Yes,,504
+Custer,clnct-10,Constitutional Amendment H,,Yes,,56
+Custer,clnct-01,Constitutional Amendment H,,No,,860
+Custer,clnct-02,Constitutional Amendment H,,No,,140
+Custer,clnct-03,Constitutional Amendment H,,No,,148
+Custer,clnct-04,Constitutional Amendment H,,No,,414
+Custer,clnct-05,Constitutional Amendment H,,No,,493
+Custer,clnct-06,Constitutional Amendment H,,No,,160
+Custer,clnct-07,Constitutional Amendment H,,No,,260
+Custer,clnct-08,Constitutional Amendment H,,No,,300
+Custer,clnct-09,Constitutional Amendment H,,No,,950
+Custer,clnct-10,Constitutional Amendment H,,No,,156
+Custer,clnct-01,Initiated Measure 28,,Yes,,374
+Custer,clnct-02,Initiated Measure 28,,Yes,,63
+Custer,clnct-03,Initiated Measure 28,,Yes,,73
+Custer,clnct-04,Initiated Measure 28,,Yes,,230
+Custer,clnct-05,Initiated Measure 28,,Yes,,253
+Custer,clnct-06,Initiated Measure 28,,Yes,,162
+Custer,clnct-07,Initiated Measure 28,,Yes,,114
+Custer,clnct-08,Initiated Measure 28,,Yes,,156
+Custer,clnct-09,Initiated Measure 28,,Yes,,519
+Custer,clnct-10,Initiated Measure 28,,Yes,,79
+Custer,clnct-01,Initiated Measure 28,,No,,874
+Custer,clnct-02,Initiated Measure 28,,No,,120
+Custer,clnct-03,Initiated Measure 28,,No,,143
+Custer,clnct-04,Initiated Measure 28,,No,,380
+Custer,clnct-05,Initiated Measure 28,,No,,524
+Custer,clnct-06,Initiated Measure 28,,No,,263
+Custer,clnct-07,Initiated Measure 28,,No,,160
+Custer,clnct-08,Initiated Measure 28,,No,,335
+Custer,clnct-09,Initiated Measure 28,,No,,947
+Custer,clnct-10,Initiated Measure 28,,No,,132
+Custer,clnct-01,Initiated Measure 29,,Yes,,424
+Custer,clnct-02,Initiated Measure 29,,Yes,,62
+Custer,clnct-03,Initiated Measure 29,,Yes,,77
+Custer,clnct-04,Initiated Measure 29,,Yes,,229
+Custer,clnct-05,Initiated Measure 29,,Yes,,319
+Custer,clnct-06,Initiated Measure 29,,Yes,,202
+Custer,clnct-07,Initiated Measure 29,,Yes,,135
+Custer,clnct-08,Initiated Measure 29,,Yes,,189
+Custer,clnct-09,Initiated Measure 29,,Yes,,568
+Custer,clnct-10,Initiated Measure 29,,Yes,,80
+Custer,clnct-01,Initiated Measure 29,,No,,832
+Custer,clnct-02,Initiated Measure 29,,No,,124
+Custer,clnct-03,Initiated Measure 29,,No,,139
+Custer,clnct-04,Initiated Measure 29,,No,,392
+Custer,clnct-05,Initiated Measure 29,,No,,465
+Custer,clnct-06,Initiated Measure 29,,No,,227
+Custer,clnct-07,Initiated Measure 29,,No,,144
+Custer,clnct-08,Initiated Measure 29,,No,,305
+Custer,clnct-09,Initiated Measure 29,,No,,920
+Custer,clnct-10,Initiated Measure 29,,No,,134
+Custer,clnct-01,Referred Law 21,,Yes,,481
+Custer,clnct-02,Referred Law 21,,Yes,,80
+Custer,clnct-03,Referred Law 21,,Yes,,84
+Custer,clnct-04,Referred Law 21,,Yes,,250
+Custer,clnct-05,Referred Law 21,,Yes,,312
+Custer,clnct-06,Referred Law 21,,Yes,,185
+Custer,clnct-07,Referred Law 21,,Yes,,131
+Custer,clnct-08,Referred Law 21,,Yes,,203
+Custer,clnct-09,Referred Law 21,,Yes,,598
+Custer,clnct-10,Referred Law 21,,Yes,,90
+Custer,clnct-01,Referred Law 21,,No,,730
+Custer,clnct-02,Referred Law 21,,No,,103
+Custer,clnct-03,Referred Law 21,,No,,126
+Custer,clnct-04,Referred Law 21,,No,,348
+Custer,clnct-05,Referred Law 21,,No,,441
+Custer,clnct-06,Referred Law 21,,No,,228
+Custer,clnct-07,Referred Law 21,,No,,138
+Custer,clnct-08,Referred Law 21,,No,,267
+Custer,clnct-09,Referred Law 21,,No,,819
+Custer,clnct-10,Referred Law 21,,No,,119

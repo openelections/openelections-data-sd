@@ -35,84 +35,82 @@ Davison,01,U.S. House,1,Sheryl Johnson,DEM,45
 Davison,01,U.S. House,1,Dusty Johnson,REP,293
 Davison,02,U.S. House,1,Sheryl Johnson,DEM,51
 Davison,02,U.S. House,1,Dusty Johnson,REP,371
-Davison,"03 (Precinct 04, Precinct 05)",U.S. House,1,Sheryl Johnson,DEM,249
-Davison,"03 (Precinct 04, Precinct 05)",U.S. House,1,Dusty Johnson,REP,1340
-Davison,"06 (Precinct 07, Precinct 08)",U.S. House,1,Sheryl Johnson,DEM,323
-Davison,"06 (Precinct 07, Precinct 08)",U.S. House,1,Dusty Johnson,REP,1267
-Davison,"09 (Precinct 10, Precinct 11)",U.S. House,1,Sheryl Johnson,DEM,317
-Davison,"09 (Precinct 10, Precinct 11)",U.S. House,1,Dusty Johnson,REP,957
-Davison,"12 (Precinct 13, Precinct 14)",U.S. House,1,Sheryl Johnson,DEM,297
-Davison,"12 (Precinct 13, Precinct 14)",U.S. House,1,Dusty Johnson,REP,878
-Davison,"15 (Precinct 16, Precinct 18)",U.S. House,1,Sheryl Johnson,DEM,360
-Davison,"15 (Precinct 16, Precinct 18)",U.S. House,1,Dusty Johnson,REP,1072
-Davison,19 (Precinct 20),U.S. House,1,Sheryl Johnson,DEM,292
-Davison,19 (Precinct 20),U.S. House,1,Dusty Johnson,REP,953
+Davison,"03 (Precinct-04, Precinct-05)",U.S. House,1,Sheryl Johnson,DEM,249
+Davison,"03 (Precinct-04, Precinct-05)",U.S. House,1,Dusty Johnson,REP,1340
+Davison,"06 (Precinct-07, Precinct-08)",U.S. House,1,Sheryl Johnson,DEM,323
+Davison,"06 (Precinct-07, Precinct-08)",U.S. House,1,Dusty Johnson,REP,1267
+Davison,"09 (Precinct-10, Precinct-11)",U.S. House,1,Sheryl Johnson,DEM,317
+Davison,"09 (Precinct-10, Precinct-11)",U.S. House,1,Dusty Johnson,REP,957
+Davison,"12 (Precinct-13, Precinct-14)",U.S. House,1,Sheryl Johnson,DEM,297
+Davison,"12 (Precinct-13, Precinct-14)",U.S. House,1,Dusty Johnson,REP,878
+Davison,"15 (Precinct-16, Precinct-18)",U.S. House,1,Sheryl Johnson,DEM,360
+Davison,"15 (Precinct-16, Precinct-18)",U.S. House,1,Dusty Johnson,REP,1072
+Davison,19 (Precinct-20),U.S. House,1,Sheryl Johnson,DEM,292
+Davison,19 (Precinct-20),U.S. House,1,Dusty Johnson,REP,953
 Davison,01,Public Utilities Commissioner,,Forrest Wilson,DEM,38
 Davison,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
 Davison,01,Public Utilities Commissioner,,Kristie Fiegen,REP,268
 Davison,02,Public Utilities Commissioner,,Forrest Wilson,DEM,42
 Davison,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
 Davison,02,Public Utilities Commissioner,,Kristie Fiegen,REP,334
-Davison,03,Public Utilities Commissioner,,Forrest Wilson,DEM,238
-Davison,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
-Davison,03,Public Utilities Commissioner,,Kristie Fiegen,REP,1216
-Davison,06,Public Utilities Commissioner,,Forrest Wilson,DEM,338
-Davison,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
-Davison,06,Public Utilities Commissioner,,Kristie Fiegen,REP,1103
-Davison,10,Public Utilities Commissioner,,Forrest Wilson,DEM,265
-Davison,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,70
-Davison,10,Public Utilities Commissioner,,Kristie Fiegen,REP,826
-Davison,12,Public Utilities Commissioner,,Forrest Wilson,DEM,280
-Davison,12,Public Utilities Commissioner,,A. Gideon Oakes,LIB,48
-Davison,12,Public Utilities Commissioner,,Kristie Fiegen,REP,787
-Davison,15,Public Utilities Commissioner,,Forrest Wilson,DEM,334
-Davison,15,Public Utilities Commissioner,,A. Gideon Oakes,LIB,75
-Davison,15,Public Utilities Commissioner,,Kristie Fiegen,REP,918
-Davison,19,Public Utilities Commissioner,,Forrest Wilson,DEM,285
-Davison,19,Public Utilities Commissioner,,A. Gideon Oakes,LIB,49
-Davison,19,Public Utilities Commissioner,,Kristie Fiegen,REP,831
-Davison,1,State Senate,20,Paul Miskimins,REP,270
-Davison,2,State Senate,20,Paul Miskimins,REP,325
-Davison,3,State Senate,20,Paul Miskimins,REP,1209
-Davison,6,State Senate,20,Paul Miskimins,REP,1187
-Davison,9,State Senate,20,Paul Miskimins,REP,876
-Davison,12,State Senate,20,Paul Miskimins,REP,812
-Davison,15,State Senate,20,Paul Miskimins,REP,989
-Davison,19,State Senate,20,Paul Miskimins,REP,883
-Davison,1,State House,20,Jeff Bathke,REP,229
-Davison,1,State House,20,Kaley Nolz,REP,174
-Davison,2,State House,20,Jeff Bathke,REP,279
-Davison,2,State House,20,Kaley Nolz,REP,235
-Davison,3,State House,20,Jeff Bathke,REP,984
-Davison,3,State House,20,Kaley Nolz,REP,913
-Davison,6,State House,20,Jeff Bathke,REP,1021
-Davison,6,State House,20,Kaley Nolz,REP,860
-Davison,9,State House,20,Jeff Bathke,REP,762
-Davison,9,State House,20,Kaley Nolz,REP,642
-Davison,12,State House,20,Jeff Bathke,REP,668
-Davison,12,State House,20,Kaley Nolz,REP,624
-Davison,15,State House,20,Jeff Bathke,REP,854
-Davison,15,State House,20,Kaley Nolz,REP,725
-Davison,19,State House,20,Jeff Bathke,REP,793
-Davison,19,State House,20,Kaley Nolz,REP,612
-Davison,01,Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,236
-Davison,01,Supreme Court Retention,Fifth,Justice Scott P. Myren No,,56
-Davison,02,Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,311
-Davison,02,Supreme Court Retention,Fifth,Justice Scott P. Myren No,,58
-Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,1
-Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,225
-Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,1
-Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,195
-Davison,09 (Precinct-10),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,844
-Davison,09 (Precinct-10),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,218
-Davison,11 (Precinct-12),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,795
-Davison,11 (Precinct-12),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,187
-Davison,13 (Precinct-14),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,948
-Davison,13 (Precinct-14),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,250
-Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,867
-Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,Fifth,Justice Scott P. Myren No,,181
-Davison,19 (Precinct-20),Supreme Court Retention,Fifth,Justice Scott P. Myren Yes,,0
-Davison,19 (Precinct-20),Supreme Court Retention,Fifth,Justice Scott P. Myren No,,81
+Davison,"03 (Precinct-04, Precinct-05)",Public Utilities Commissioner,,Forrest Wilson,DEM,238
+Davison,"03 (Precinct-04, Precinct-05)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,43
+Davison,"03 (Precinct-04, Precinct-05)",Public Utilities Commissioner,,Kristie Fiegen,REP,1216
+Davison,"06 (Precinct-07, Precinct-08)",Public Utilities Commissioner,,Forrest Wilson,DEM,338
+Davison,"06 (Precinct-07, Precinct-08)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,31
+Davison,"06 (Precinct-07, Precinct-08)",Public Utilities Commissioner,,Kristie Fiegen,REP,1103
+Davison,"09 (Precinct-10, Precinct-11)",Public Utilities Commissioner,,Forrest Wilson,DEM,295
+Davison,"09 (Precinct-10, Precinct-11)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,70
+Davison,"09 (Precinct-10, Precinct-11)",Public Utilities Commissioner,,Kristie Fiegen,REP,826
+Davison,"12 (Precinct-13, Precinct-14)",Public Utilities Commissioner,,Forrest Wilson,DEM,280
+Davison,"12 (Precinct-13, Precinct-14)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,48
+Davison,"12 (Precinct-13, Precinct-14)",Public Utilities Commissioner,,Kristie Fiegen,REP,787
+Davison,"15 (Precinct-16, Precinct-18)",Public Utilities Commissioner,,Forrest Wilson,DEM,334
+Davison,"15 (Precinct-16, Precinct-18)",Public Utilities Commissioner,,A. Gideon Oakes,LIB,75
+Davison,"15 (Precinct-16, Precinct-18)",Public Utilities Commissioner,,Kristie Fiegen,REP,918
+Davison,19 (Precinct-20),Public Utilities Commissioner,,Forrest Wilson,DEM,285
+Davison,19 (Precinct-20),Public Utilities Commissioner,,A. Gideon Oakes,LIB,49
+Davison,19 (Precinct-20),Public Utilities Commissioner,,Kristie Fiegen,REP,831
+Davison,01,State Senate,20,Paul Miskimins,REP,270
+Davison,02,State Senate,20,Paul Miskimins,REP,325
+Davison,"03 (Precinct-04, Precinct-05)",State Senate,20,Paul Miskimins,REP,1209
+Davison,"06 (Precinct-07, Precinct-08)",State Senate,20,Paul Miskimins,REP,1187
+Davison,"09 (Precinct-10, Precinct-11)",State Senate,20,Paul Miskimins,REP,876
+Davison,"12 (Precinct-13, Precinct-14)",State Senate,20,Paul Miskimins,REP,812
+Davison,"15 (Precinct-16, Precinct-18)",State Senate,20,Paul Miskimins,REP,989
+Davison,19 (Precinct-20),State Senate,20,Paul Miskimins,REP,883
+Davison,01,State House,20,Jeff Bathke,REP,229
+Davison,01,State House,20,Kaley Nolz,REP,174
+Davison,02,State House,20,Jeff Bathke,REP,279
+Davison,02,State House,20,Kaley Nolz,REP,235
+Davison,"03 (Precinct-04, Precinct-05)",State House,20,Jeff Bathke,REP,984
+Davison,"03 (Precinct-04, Precinct-05)",State House,20,Kaley Nolz,REP,913
+Davison,"06 (Precinct-07, Precinct-08)",State House,20,Jeff Bathke,REP,1021
+Davison,"06 (Precinct-07, Precinct-08)",State House,20,Kaley Nolz,REP,860
+Davison,"09 (Precinct-10, Precinct-11)",State House,20,Jeff Bathke,REP,762
+Davison,"09 (Precinct-10, Precinct-11)",State House,20,Kaley Nolz,REP,642
+Davison,"12 (Precinct-13, Precinct-14)",State House,20,Jeff Bathke,REP,668
+Davison,"12 (Precinct-13, Precinct-14)",State House,20,Kaley Nolz,REP,624
+Davison,"15 (Precinct-16, Precinct-18)",State House,20,Jeff Bathke,REP,854
+Davison,"15 (Precinct-16, Precinct-18)",State House,20,Kaley Nolz,REP,725
+Davison,19 (Precinct-20),State House,20,Jeff Bathke,REP,793
+Davison,19 (Precinct-20),State House,20,Kaley Nolz,REP,612
+Davison,01,Supreme Court Retention,5,Scott P. Myren - Yes,,236
+Davison,01,Supreme Court Retention,5,Scott P. Myren - No,,56
+Davison,02,Supreme Court Retention,5,Scott P. Myren - Yes,,311
+Davison,02,Supreme Court Retention,5,Scott P. Myren - No,,58
+Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,5,Scott P. Myren - Yes,,1126
+Davison,"03 (Precinct-04, Precinct-05)",Supreme Court Retention,5,Scott P. Myren - No,,225
+Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,5,Scott P. Myren - Yes,,1151
+Davison,"06 (Precinct-07, Precinct-08)",Supreme Court Retention,5,Scott P. Myren - No,,195
+Davison,"09 (Precinct-10, Precinct-11)",Supreme Court Retention,5,Scott P. Myren - Yes,,844
+Davison,"09 (Precinct-10, Precinct-11)",Supreme Court Retention,5,Scott P. Myren - No,,218
+Davison,"12 (Precinct-13, Precinct-14)",Supreme Court Retention,5,Scott P. Myren - Yes,,795
+Davison,"12 (Precinct-13, Precinct-14)",Supreme Court Retention,5,Scott P. Myren - No,,187
+Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,5,Scott P. Myren - Yes,,948
+Davison,"15 (Precinct-16, Precinct-18)",Supreme Court Retention,5,Scott P. Myren - No,,250
+Davison,19 (Precinct-20),Supreme Court Retention,5,Scott P. Myren - Yes,,867
+Davison,19 (Precinct-20),Supreme Court Retention,5,Scott P. Myren - No,,181
 Davison,01,Constitutional Amendment E,,Yes,,91
 Davison,01,Constitutional Amendment E,,No,,246
 Davison,01,Constitutional Amendment F,,Yes,,170
@@ -129,54 +127,54 @@ Davison,02,Constitutional Amendment G,,Yes,,85
 Davison,02,Constitutional Amendment G,,No,,339
 Davison,02,Constitutional Amendment H,,Yes,,85
 Davison,02,Constitutional Amendment H,,No,,322
-Davison,03,Constitutional Amendment E,,Yes,,550
-Davison,03,Constitutional Amendment E,,No,,1031
-Davison,03,Constitutional Amendment F,,Yes,,938
-Davison,03,Constitutional Amendment F,,No,,636
-Davison,03,Constitutional Amendment G,,Yes,,465
-Davison,03,Constitutional Amendment G,,No,,1132
-Davison,03,Constitutional Amendment H,,Yes,,397
-Davison,03,Constitutional Amendment H,,No,,1148
-Davison,07,Constitutional Amendment E,,Yes,,715
-Davison,07,Constitutional Amendment E,,No,,863
-Davison,07,Constitutional Amendment F,,Yes,,947
-Davison,07,Constitutional Amendment F,,No,,630
-Davison,07,Constitutional Amendment G,,Yes,,589
-Davison,07,Constitutional Amendment G,,No,,1009
-Davison,07,Constitutional Amendment H,,Yes,,493
-Davison,07,Constitutional Amendment H,,No,,1062
-Davison,09,Constitutional Amendment E,,Yes,,490
-Davison,09,Constitutional Amendment E,,No,,708
-Davison,09,Constitutional Amendment F,,Yes,,570
-Davison,09,Constitutional Amendment F,,No,,487
-Davison,09,Constitutional Amendment G,,Yes,,801
-Davison,09,Constitutional Amendment G,,No,,406
-Davison,09,Constitutional Amendment H,,Yes,,846
-Davison,09,Constitutional Amendment H,,No,,844
-Davison,12,Constitutional Amendment E,,Yes,,480
-Davison,12,Constitutional Amendment E,,No,,700
-Davison,12,Constitutional Amendment F,,Yes,,650
-Davison,12,Constitutional Amendment F,,No,,528
-Davison,12,Constitutional Amendment G,,Yes,,447
-Davison,12,Constitutional Amendment G,,No,,745
-Davison,12,Constitutional Amendment H,,Yes,,372
-Davison,12,Constitutional Amendment H,,No,,780
-Davison,15,Constitutional Amendment E,,Yes,,596
-Davison,15,Constitutional Amendment E,,No,,836
-Davison,15,Constitutional Amendment F,,Yes,,790
-Davison,15,Constitutional Amendment F,,No,,634
-Davison,15,Constitutional Amendment G,,Yes,,591
-Davison,15,Constitutional Amendment G,,No,,847
-Davison,15,Constitutional Amendment H,,Yes,,445
-Davison,15,Constitutional Amendment H,,No,,954
-Davison,19,Constitutional Amendment E,,Yes,,500
-Davison,19,Constitutional Amendment E,,No,,747
-Davison,19,Constitutional Amendment F,,Yes,,684
-Davison,19,Constitutional Amendment F,,No,,560
-Davison,19,Constitutional Amendment G,,Yes,,463
-Davison,19,Constitutional Amendment G,,No,,785
-Davison,19,Constitutional Amendment H,,Yes,,403
-Davison,19,Constitutional Amendment H,,No,,805
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment E,,Yes,,550
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment E,,No,,1031
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment F,,Yes,,938
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment F,,No,,636
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment G,,Yes,,465
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment G,,No,,1132
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment H,,Yes,,397
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment H,,No,,1148
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment E,,Yes,,715
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment E,,No,,863
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment F,,Yes,,947
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment F,,No,,630
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment G,,Yes,,589
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment G,,No,,1009
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment H,,Yes,,493
+Davison,"06 (Precinct-07, Precinct-08)",Constitutional Amendment H,,No,,1062
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment E,,Yes,,490
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment E,,No,,780
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment F,,Yes,,708
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment F,,No,,570
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment G,,Yes,,487
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment G,,No,,801
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment H,,Yes,,406
+Davison,"09 (Precinct-10, Precinct-11)",Constitutional Amendment H,,No,,844
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment E,,Yes,,480
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment E,,No,,700
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment F,,Yes,,650
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment F,,No,,528
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment G,,Yes,,447
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment G,,No,,745
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment H,,Yes,,372
+Davison,"12 (Precinct-13, Precinct-14)",Constitutional Amendment H,,No,,780
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment E,,Yes,,596
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment E,,No,,836
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment F,,Yes,,798
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment F,,No,,640
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment G,,Yes,,591
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment G,,No,,847
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment H,,Yes,,445
+Davison,"15 (Precinct-16, Precinct-18)",Constitutional Amendment H,,No,,954
+Davison,19 (Precinct-20),Constitutional Amendment E,,Yes,,500
+Davison,19 (Precinct-20),Constitutional Amendment E,,No,,747
+Davison,19 (Precinct-20),Constitutional Amendment F,,Yes,,684
+Davison,19 (Precinct-20),Constitutional Amendment F,,No,,560
+Davison,19 (Precinct-20),Constitutional Amendment G,,Yes,,463
+Davison,19 (Precinct-20),Constitutional Amendment G,,No,,785
+Davison,19 (Precinct-20),Constitutional Amendment H,,Yes,,403
+Davison,19 (Precinct-20),Constitutional Amendment H,,No,,805
 Davison,01,Initiated Measure 28,,Yes,,69
 Davison,01,Initiated Measure 28,,No,,269
 Davison,01,Initiated Measure 29,,Yes,,105

@@ -1,36 +1,29 @@
 county,precinct,office,district,candidate,party,votes
-Jerauld,1,President,,Kamala D. Harris and Tim Walz,DEM,155
-Jerauld,1,President,,Chase Oliver and Mike ter Maat,LIB,0
-Jerauld,1,President,,Donald J. Trump and JD Vance,REP,132
-Jerauld,1,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
-Jerauld,2,President,,Kamala D. Harris and Tim Walz,DEM,37
-Jerauld,2,President,,Chase Oliver and Mike ter Maat,LIB,0
-Jerauld,2,President,,Donald J. Trump and JD Vance,REP,119
-Jerauld,2,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
-Jerauld,3,President,,Kamala D. Harris and Tim Walz,DEM,35
-Jerauld,3,President,,Chase Oliver and Mike ter Maat,LIB,0
-Jerauld,3,President,,Donald J. Trump and JD Vance,REP,95
-Jerauld,3,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,2
-Jerauld,4,President,,Kamala D. Harris and Tim Walz,DEM,23
-Jerauld,4,President,,Chase Oliver and Mike ter Maat,LIB,0
-Jerauld,4,President,,Donald J. Trump and JD Vance,REP,75
-Jerauld,4,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Jerauld,5,President,,Kamala D. Harris and Tim Walz,DEM,26
-Jerauld,5,President,,Chase Oliver and Mike ter Maat,LIB,0
-Jerauld,5,President,,Donald J. Trump and JD Vance,REP,87
-Jerauld,5,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
-Jerauld,1,County Treasurer,,Jessica Van Dyke,DEM,60
-Jerauld,2,County Treasurer,,Jessica Van Dyke,DEM,27
-Jerauld,3,County Treasurer,,Jessica Van Dyke,DEM,14
-Jerauld,4,County Treasurer,,Jessica Van Dyke,DEM,10
-Jerauld,5,County Treasurer,,Jessica Van Dyke,DEM,15
-Jerauld,1,County Treasurer,,Tara Peterson,REP,143
-Jerauld,2,County Treasurer,,Tara Peterson,REP,32
-Jerauld,3,County Treasurer,,Tara Peterson,REP,29
-Jerauld,4,County Treasurer,,Tara Peterson,REP,38
-Jerauld,5,County Treasurer,,Tara Peterson,REP,56
-Jerauld,1,County Treasurer,,Lisa Younie,IND,286
-Jerauld,2,County Treasurer,,Lisa Younie,IND,96
-Jerauld,3,County Treasurer,,Lisa Younie,IND,88
-Jerauld,4,County Treasurer,,Lisa Younie,IND,53
-Jerauld,5,County Treasurer,,Lisa Younie,IND,45
+Jerauld,Precinct-01,President,,Kamala D. Harris and Tim Walz,DEM,276
+Jerauld,Precinct-01,President,,Chase Oliver and Mike ter Maat,LIB,1
+Jerauld,Precinct-01,President,,Donald J. Trump and JD Vance,REP,708
+Jerauld,Precinct-01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Jerauld,Precinct-01,U.S. House,1,,DEM,184
+Jerauld,Precinct-01,U.S. House,1,,REP,816
+Jerauld,Precinct-01,Public Utilities Commissioner,,Forrest Wilson,DEM,201
+Jerauld,Precinct-01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,15
+Jerauld,Precinct-01,Public Utilities Commissioner,,Kristie Fiegen,REP,716
+Jerauld,Precinct-01,State Senate,20,Paul Miskimins,REP,694
+Jerauld,Precinct-01,State House,20,Jeff Bathke,REP,522
+Jerauld,Precinct-01,State House,20,Kaley Nolz,REP,611
+Jerauld,Precinct-01,Supreme Court Retention,5,Justice Scott P. Myren - Yes,,686
+Jerauld,Precinct-01,Supreme Court Retention,5,Justice Scott P. Myren - No,,161
+Jerauld,Precinct-01,Constitutional Amendment E,,Yes,,305
+Jerauld,Precinct-01,Constitutional Amendment E,,No,,674
+Jerauld,Precinct-01,Constitutional Amendment F,,Yes,,460
+Jerauld,Precinct-01,Constitutional Amendment F,,No,,520
+Jerauld,Precinct-01,Constitutional Amendment G,,Yes,,315
+Jerauld,Precinct-01,Constitutional Amendment G,,No,,678
+Jerauld,Precinct-01,Constitutional Amendment H,,Yes,,262
+Jerauld,Precinct-01,Constitutional Amendment H,,No,,703
+Jerauld,Precinct-01,Initiated Measure 28,,Yes,,212
+Jerauld,Precinct-01,Initiated Measure 28,,No,,767
+Jerauld,Precinct-01,Initiated Measure 29,,Yes,,264
+Jerauld,Precinct-01,Initiated Measure 29,,No,,728
+Jerauld,Precinct-01,Referred Law 21,,Yes,,315
+Jerauld,Precinct-01,Referred Law 21,,No,,661

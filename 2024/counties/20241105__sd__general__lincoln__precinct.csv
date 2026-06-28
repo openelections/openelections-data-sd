@@ -31,10 +31,10 @@ Lincoln,16,President,,Kamala D. Harris and Tim Walz,DEM,314
 Lincoln,16,President,,Chase Oliver and Mike ter Maat,LIB,7
 Lincoln,16,President,,Donald J. Trump and JD Vance,REP,825
 Lincoln,16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
-Lincoln,17,President,,Kamala D. Harris and Tim Walz,DEM,329
-Lincoln,17,President,,Chase Oliver and Mike ter Maat,LIB,8
-Lincoln,17,President,,Donald J. Trump and JD Vance,REP,688
-Lincoln,17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
+Lincoln,20,President,,Kamala D. Harris and Tim Walz,DEM,329
+Lincoln,20,President,,Chase Oliver and Mike ter Maat,LIB,8
+Lincoln,20,President,,Donald J. Trump and JD Vance,REP,688
+Lincoln,20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
 Lincoln,23-13,President,,Kamala D. Harris and Tim Walz,DEM,173
 Lincoln,23-13,President,,Chase Oliver and Mike ter Maat,LIB,4
 Lincoln,23-13,President,,Donald J. Trump and JD Vance,REP,582
@@ -44,21 +44,21 @@ Lincoln,24-01,President,,Chase Oliver and Mike ter Maat,LIB,9
 Lincoln,24-01,President,,Donald J. Trump and JD Vance,REP,745
 Lincoln,24-01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,20
 Lincoln,24-02,President,,Kamala D. Harris and Tim Walz,DEM,330
-Lincoln,24-02,President,,Chase Oliver and Mike ter Maat,LIB,5
+Lincoln,24-02,President,,Chase Oliver and Mike ter Maat,LIB,0
 Lincoln,24-02,President,,Donald J. Trump and JD Vance,REP,671
 Lincoln,24-02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,12
 Lincoln,24-03,President,,Kamala D. Harris and Tim Walz,DEM,274
-Lincoln,24-03,President,,Chase Oliver and Mike ter Maat,LIB,0
+Lincoln,24-03,President,,Chase Oliver and Mike ter Maat,LIB,5
 Lincoln,24-03,President,,Donald J. Trump and JD Vance,REP,576
 Lincoln,24-03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
 Lincoln,25,President,,Kamala D. Harris and Tim Walz,DEM,328
 Lincoln,25,President,,Chase Oliver and Mike ter Maat,LIB,8
 Lincoln,25,President,,Donald J. Trump and JD Vance,REP,796
-Lincoln,25,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
+Lincoln,25,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,25
 Lincoln,26,President,,Kamala D. Harris and Tim Walz,DEM,129
 Lincoln,26,President,,Chase Oliver and Mike ter Maat,LIB,1
 Lincoln,26,President,,Donald J. Trump and JD Vance,REP,358
-Lincoln,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Lincoln,26,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,14
 Lincoln,27,President,,Kamala D. Harris and Tim Walz,DEM,577
 Lincoln,27,President,,Chase Oliver and Mike ter Maat,LIB,19
 Lincoln,27,President,,Donald J. Trump and JD Vance,REP,1221
@@ -91,18 +91,18 @@ Lincoln,Sioux Falls 1-15,President,,Kamala D. Harris and Tim Walz,DEM,449
 Lincoln,Sioux Falls 1-15,President,,Chase Oliver and Mike ter Maat,LIB,6
 Lincoln,Sioux Falls 1-15,President,,Donald J. Trump and JD Vance,REP,494
 Lincoln,Sioux Falls 1-15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
-Lincoln,Sioux Falls 1-16,President,,Kamala D. Harris and Tim Walz,DEM,376
-Lincoln,Sioux Falls 1-16,President,,Chase Oliver and Mike ter Maat,LIB,6
-Lincoln,Sioux Falls 1-16,President,,Donald J. Trump and JD Vance,REP,694
+Lincoln,Sioux Falls 1-16,President,,Kamala D. Harris and Tim Walz,DEM,340
+Lincoln,Sioux Falls 1-16,President,,Chase Oliver and Mike ter Maat,LIB,3
+Lincoln,Sioux Falls 1-16,President,,Donald J. Trump and JD Vance,REP,466
 Lincoln,Sioux Falls 1-16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
-Lincoln,Sioux Falls 1-17,President,,Kamala D. Harris and Tim Walz,DEM,615
-Lincoln,Sioux Falls 1-17,President,,Chase Oliver and Mike ter Maat,LIB,14
-Lincoln,Sioux Falls 1-17,President,,Donald J. Trump and JD Vance,REP,1065
-Lincoln,Sioux Falls 1-17,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
-Lincoln,Sioux Falls 1-18,President,,Kamala D. Harris and Tim Walz,DEM,883
-Lincoln,Sioux Falls 1-18,President,,Chase Oliver and Mike ter Maat,LIB,4
-Lincoln,Sioux Falls 1-18,President,,Donald J. Trump and JD Vance,REP,1477
-Lincoln,Sioux Falls 1-18,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,24
+Lincoln,Sioux Falls 1-18,President,,Kamala D. Harris and Tim Walz,DEM,615
+Lincoln,Sioux Falls 1-18,President,,Chase Oliver and Mike ter Maat,LIB,14
+Lincoln,Sioux Falls 1-18,President,,Donald J. Trump and JD Vance,REP,1005
+Lincoln,Sioux Falls 1-18,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,26
+Lincoln,Sioux Falls 1-20,President,,Kamala D. Harris and Tim Walz,DEM,284
+Lincoln,Sioux Falls 1-20,President,,Chase Oliver and Mike ter Maat,LIB,3
+Lincoln,Sioux Falls 1-20,President,,Donald J. Trump and JD Vance,REP,477
+Lincoln,Sioux Falls 1-20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,18
 Lincoln,Sioux Falls 2-10,President,,Kamala D. Harris and Tim Walz,DEM,649
 Lincoln,Sioux Falls 2-10,President,,Chase Oliver and Mike ter Maat,LIB,7
 Lincoln,Sioux Falls 2-10,President,,Donald J. Trump and JD Vance,REP,1049
@@ -126,15 +126,7 @@ Lincoln,Sioux Falls 2-15,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan"
 Lincoln,Sioux Falls 2-16,President,,Kamala D. Harris and Tim Walz,DEM,1151
 Lincoln,Sioux Falls 2-16,President,,Chase Oliver and Mike ter Maat,LIB,17
 Lincoln,Sioux Falls 2-16,President,,Donald J. Trump and JD Vance,REP,1585
-Lincoln,Sioux Falls 2-16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
-Lincoln,20,President,,Kamala D. Harris and Tim Walz,DEM,329
-Lincoln,20,President,,Chase Oliver and Mike ter Maat,LIB,8
-Lincoln,20,President,,Donald J. Trump and JD Vance,REP,688
-Lincoln,20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,21
-Lincoln,Sioux Falls 1-20,President,,Kamala D. Harris and Tim Walz,DEM,884
-Lincoln,Sioux Falls 1-20,President,,Chase Oliver and Mike ter Maat,LIB,3
-Lincoln,Sioux Falls 1-20,President,,Donald J. Trump and JD Vance,REP,1477
-Lincoln,Sioux Falls 1-20,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,29
+Lincoln,Sioux Falls 2-16,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,39
 Lincoln,02-21,U.S. House,1,Sheryl Johnson,DEM,109
 Lincoln,02-21,U.S. House,1,Dusty Johnson,REP,410
 Lincoln,06,U.S. House,1,Sheryl Johnson,DEM,94
@@ -295,159 +287,677 @@ Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Kristie Fiegen,REP,1017
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Forrest Wilson,DEM,829
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,A. Gideon Oakes,LIB,105
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Kristie Fiegen,REP,1684
-Lincoln,02-21,State Senate,06,Ernie Otten,REP,391
-Lincoln,06,State Senate,06,Ernie Otten,REP,84
-Lincoln,08,State Senate,06,Ernie Otten,REP,179
-Lincoln,11-14,State Senate,06,Ernie Otten,REP,328
-Lincoln,12,State Senate,06,Ernie Otten,REP,378
-Lincoln,13-14,State Senate,12,Clay Hoffman,DEM,394
-Lincoln,13-14,State Senate,12,Arch Beal,REP,955
-Lincoln,15,State Senate,12,Clay Hoffman,DEM,955
-Lincoln,15,State Senate,12,Arch Beal,REP,880
-Lincoln,16,State Senate,13,Ali Rae Horsted,DEM,732
-Lincoln,16,State Senate,13,Sue Peterson,REP,585
-Lincoln,23-13,State Senate,13,Ali Rae Horsted,DEM,585
-Lincoln,23-13,State Senate,13,Sue Peterson,REP,814
-Lincoln,24-01,State Senate,13,Ali Rae Horsted,DEM,814
-Lincoln,24-01,State Senate,13,Sue Peterson,REP,724
-Lincoln,24-02,State Senate,13,Ali Rae Horsted,DEM,724
-Lincoln,24-02,State Senate,13,Sue Peterson,REP,587
-Lincoln,24-03,State Senate,13,Ali Rae Horsted,DEM,587
-Lincoln,24-03,State Senate,13,Sue Peterson,REP,822
-Lincoln,26,State Senate,13,Ali Rae Horsted,DEM,822
-Lincoln,26,State Senate,13,Sue Peterson,REP,1279
-Lincoln,27,State Senate,13,Ali Rae Horsted,DEM,1279
-Lincoln,27,State Senate,13,Sue Peterson,REP,1181
-Lincoln,29,State Senate,13,Ali Rae Horsted,DEM,1181
-Lincoln,29,State Senate,13,Sue Peterson,REP,730
-Lincoln,30,State Senate,13,Ali Rae Horsted,DEM,345
-Lincoln,30,State Senate,13,Sue Peterson,REP,535
-Lincoln,Sioux Falls 1-11,State Senate,12,Clay Hoffman,DEM,535
-Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,REP,1074
-Lincoln,Sioux Falls 1-12,State Senate,12,Clay Hoffman,DEM,532
-Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,REP,825
-Lincoln,Sioux Falls 1-13,State Senate,12,Clay Hoffman,DEM,443
-Lincoln,Sioux Falls 1-13,State Senate,12,Arch Beal,REP,703
-Lincoln,Sioux Falls 1-14,State Senate,12,Clay Hoffman,DEM,703
-Lincoln,Sioux Falls 1-14,State Senate,12,Arch Beal,REP,430
-Lincoln,Sioux Falls 1-15,State Senate,12,Clay Hoffman,DEM,430
-Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,REP,512
-Lincoln,Sioux Falls 1-16,State Senate,12,Clay Hoffman,DEM,512
-Lincoln,Sioux Falls 1-16,State Senate,12,Arch Beal,REP,550
-Lincoln,Sioux Falls 1-18,State Senate,16,Kevin D. Jensen,REP,550
-Lincoln,Sioux Falls 1-18,State Senate,16,Clay Hoffman,DEM,507
-Lincoln,Sioux Falls 1-18,State Senate,16,Arch Beal,REP,1032
-Lincoln,Sioux Falls 2-10,State Senate,06,Ernie Otten,REP,546
-Lincoln,Sioux Falls 2-10,State Senate,12,Clay Hoffman,DEM,804
-Lincoln,Sioux Falls 2-10,State Senate,12,Arch Beal,REP,1358
-Lincoln,Sioux Falls 2-11,State Senate,12,Clay Hoffman,DEM,2
-Lincoln,Sioux Falls 2-11,State Senate,12,Arch Beal,REP,804
-Lincoln,Sioux Falls 2-12,State Senate,12,Clay Hoffman,DEM,385
-Lincoln,Sioux Falls 2-12,State Senate,12,Arch Beal,REP,497
-Lincoln,Sioux Falls 2-13,State Senate,12,Clay Hoffman,DEM,0
-Lincoln,Sioux Falls 2-13,State Senate,12,Arch Beal,REP,975
-Lincoln,Sioux Falls 2-15,State Senate,16,Kevin D. Jensen,REP,975
-Lincoln,Sioux Falls 2-16,State Senate,16,Kevin D. Jensen,REP,479
+Lincoln,02-21,State Senate,16,Kevin D. Jensen,REP,391
+Lincoln,06,State Senate,16,Kevin D. Jensen,REP,379
+Lincoln,08,State Senate,16,Kevin D. Jensen,REP,179
+Lincoln,11-14,State Senate,16,Kevin D. Jensen,REP,328
+Lincoln,12,State Senate,16,Kevin D. Jensen,REP,378
 Lincoln,13-14,State Senate,06,Ernie Otten,REP,394
 Lincoln,15,State Senate,06,Ernie Otten,REP,955
 Lincoln,16,State Senate,06,Ernie Otten,REP,880
-Lincoln,23-13,State Senate,06,Ernie Otten,REP,814
-Lincoln,24-01,State Senate,06,Ernie Otten,REP,724
-Lincoln,24-02,State Senate,06,Ernie Otten,REP,587
-Lincoln,24-03,State Senate,06,Ernie Otten,REP,822
-Lincoln,26,State Senate,06,Ernie Otten,REP,379
+Lincoln,16,State Senate,12,Clay Hoffman,REP,2
+Lincoln,16,State Senate,12,Arch Beal,DEM,0
+Lincoln,20,State Senate,16,Kevin D. Jensen,REP,732
+Lincoln,23-13,State Senate,16,Kevin D. Jensen,REP,585
+Lincoln,24-01,State Senate,06,Ernie Otten,REP,814
+Lincoln,24-02,State Senate,06,Ernie Otten,REP,724
+Lincoln,24-03,State Senate,06,Ernie Otten,REP,587
+Lincoln,25,State Senate,16,Kevin D. Jensen,REP,822
+Lincoln,26,State Senate,16,Kevin D. Jensen,REP,379
 Lincoln,27,State Senate,06,Ernie Otten,REP,1259
 Lincoln,29,State Senate,06,Ernie Otten,REP,1181
-Lincoln,30,State Senate,06,Ernie Otten,REP,345
-Lincoln,Sioux Falls 1-11,State Senate,06,Ernie Otten,REP,535
-Lincoln,Sioux Falls 1-12,State Senate,06,Ernie Otten,REP,532
+Lincoln,29,State Senate,16,Kevin D. Jensen,REP,0
+Lincoln,30,State Senate,16,Kevin D. Jensen,REP,345
+Lincoln,Sioux Falls 1-11,State Senate,12,Clay Hoffman,REP,535
+Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,DEM,1074
+Lincoln,Sioux Falls 1-12,State Senate,12,Clay Hoffman,REP,532
+Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,DEM,825
 Lincoln,Sioux Falls 1-13,State Senate,06,Ernie Otten,REP,443
 Lincoln,Sioux Falls 1-14,State Senate,06,Ernie Otten,REP,703
-Lincoln,Sioux Falls 1-15,State Senate,06,Ernie Otten,REP,430
+Lincoln,Sioux Falls 1-15,State Senate,12,Clay Hoffman,REP,430
+Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,DEM,512
 Lincoln,Sioux Falls 1-16,State Senate,06,Ernie Otten,REP,512
-Lincoln,Sioux Falls 1-18,State Senate,06,Ernie Otten,REP,550
+Lincoln,Sioux Falls 1-18,State Senate,12,Clay Hoffman,REP,550
+Lincoln,Sioux Falls 1-18,State Senate,12,Arch Beal,DEM,1032
+Lincoln,Sioux Falls 1-20,State Senate,06,Ernie Otten,REP,507
+Lincoln,Sioux Falls 2-10,State Senate,13,Ali Rae Horsted,DEM,546
+Lincoln,Sioux Falls 2-10,State Senate,13,Sue Peterson,REP,1138
 Lincoln,Sioux Falls 2-11,State Senate,06,Ernie Otten,REP,2
-Lincoln,Sioux Falls 2-12,State Senate,06,Ernie Otten,REP,385
+Lincoln,Sioux Falls 2-11,State Senate,13,Ali Rae Horsted,DEM,804
+Lincoln,Sioux Falls 2-11,State Senate,13,Sue Peterson,REP,1358
+Lincoln,Sioux Falls 2-12,State Senate,13,Ali Rae Horsted,DEM,385
+Lincoln,Sioux Falls 2-12,State Senate,13,Sue Peterson,REP,497
 Lincoln,Sioux Falls 2-13,State Senate,06,Ernie Otten,REP,0
-Lincoln,Sioux Falls 2-15,State Senate,06,Ernie Otten,REP,479
+Lincoln,Sioux Falls 2-13,State Senate,13,Ali Rae Horsted,DEM,975
+Lincoln,Sioux Falls 2-13,State Senate,13,Sue Peterson,REP,1266
+Lincoln,Sioux Falls 2-15,State Senate,06,Ernie Otten,REP,0
+Lincoln,Sioux Falls 2-15,State Senate,13,Ali Rae Horsted,DEM,479
+Lincoln,Sioux Falls 2-15,State Senate,13,Sue Peterson,REP,931
 Lincoln,Sioux Falls 2-16,State Senate,06,Ernie Otten,REP,0
-Lincoln,02-21,State House,06,Garret M Campbell,DEM,118
-Lincoln,02-21,State House,06,Herman Otten,REP,373
-Lincoln,02-21,State House,06,Aaron Aylward,REP,284
+Lincoln,Sioux Falls 2-16,State Senate,13,Ali Rae Horsted,DEM,1090
+Lincoln,Sioux Falls 2-16,State Senate,13,Sue Peterson,REP,1559
+Lincoln,02-21,State House,16,Matthew Carl Ness,DEM,118
+Lincoln,02-21,State House,16,Karla J Lems,REP,373
+Lincoln,02-21,State House,16,Richard Vasgaard,REP,284
+Lincoln,06,State House,16,Matthew Carl Ness,DEM,103
+Lincoln,06,State House,16,Karla J Lems,REP,390
+Lincoln,06,State House,16,Richard Vasgaard,REP,258
+Lincoln,08,State House,16,Matthew Carl Ness,DEM,52
+Lincoln,08,State House,16,Karla J Lems,REP,158
+Lincoln,08,State House,16,Richard Vasgaard,REP,145
+Lincoln,11-14,State House,16,Matthew Carl Ness,DEM,109
+Lincoln,11-14,State House,16,Karla J Lems,REP,279
+Lincoln,11-14,State House,16,Richard Vasgaard,REP,276
+Lincoln,12,State House,16,Matthew Carl Ness,DEM,84
+Lincoln,12,State House,16,Karla J Lems,REP,350
+Lincoln,12,State House,16,Richard Vasgaard,REP,272
+Lincoln,13-14,State House,06,Garret M Campbell,DEM,93
+Lincoln,13-14,State House,06,Herman Otten,REP,353
+Lincoln,13-14,State House,06,Aaron Aylward,REP,288
+Lincoln,15,State House,06,Garret M Campbell,DEM,322
+Lincoln,15,State House,06,Herman Otten,REP,814
+Lincoln,15,State House,06,Aaron Aylward,REP,768
+Lincoln,16,State House,06,Garret M Campbell,DEM,251
+Lincoln,16,State House,06,Herman Otten,REP,761
+Lincoln,16,State House,06,Aaron Aylward,REP,617
+Lincoln,16,State House,12,Erin Royer,DEM,0
+Lincoln,16,State House,12,JR Anderson,REP,0
+Lincoln,16,State House,12,Amber Arlint,DEM,1
+Lincoln,16,State House,12,Greg Jamison,REP,2
+Lincoln,20,State House,16,Matthew Carl Ness,DEM,257
+Lincoln,20,State House,16,Karla J Lems,REP,741
+Lincoln,20,State House,16,Richard Vasgaard,REP,486
+Lincoln,23-13,State House,16,Matthew Carl Ness,DEM,152
+Lincoln,23-13,State House,16,Karla J Lems,REP,514
+Lincoln,23-13,State House,16,Richard Vasgaard,REP,412
+Lincoln,24-01,State House,06,Garret M Campbell,DEM,223
+Lincoln,24-01,State House,06,Herman Otten,REP,716
+Lincoln,24-01,State House,06,Aaron Aylward,REP,503
+Lincoln,24-02,State House,06,Garret M Campbell,DEM,249
+Lincoln,24-02,State House,06,Herman Otten,REP,588
+Lincoln,24-02,State House,06,Aaron Aylward,REP,487
+Lincoln,24-03,State House,06,Garret M Campbell,DEM,234
+Lincoln,24-03,State House,06,Herman Otten,REP,506
+Lincoln,24-03,State House,06,Aaron Aylward,REP,382
+Lincoln,25,State House,16,Matthew Carl Ness,DEM,282
+Lincoln,25,State House,16,Karla J Lems,REP,637
+Lincoln,25,State House,16,Richard Vasgaard,REP,643
+Lincoln,26,State House,16,Matthew Carl Ness,DEM,117
+Lincoln,26,State House,16,Karla J Lems,REP,305
+Lincoln,26,State House,16,Richard Vasgaard,REP,309
+Lincoln,27,State House,06,Garret M Campbell,DEM,512
+Lincoln,27,State House,06,Herman Otten,REP,962
+Lincoln,27,State House,06,Aaron Aylward,REP,1003
+Lincoln,29,State House,06,Garret M Campbell,DEM,427
+Lincoln,29,State House,06,Herman Otten,REP,865
+Lincoln,29,State House,06,Aaron Aylward,REP,894
+Lincoln,29,State House,16,Matthew Carl Ness,DEM,0
+Lincoln,29,State House,16,Karla J Lems,REP,0
+Lincoln,29,State House,16,Richard Vasgaard,REP,0
+Lincoln,30,State House,16,Matthew Carl Ness,DEM,145
+Lincoln,30,State House,16,Karla J Lems,REP,363
+Lincoln,30,State House,16,Richard Vasgaard,REP,200
 Lincoln,Sioux Falls 1-11,State House,12,Erin Royer,DEM,449
-Lincoln,Sioux Falls 1-11,State House,12,Jr Anderson,DEM,348
-Lincoln,Sioux Falls 1-11,State House,12,Amber Arlint,REP,1118
+Lincoln,Sioux Falls 1-11,State House,12,JR Anderson,REP,348
+Lincoln,Sioux Falls 1-11,State House,12,Amber Arlint,DEM,1118
+Lincoln,Sioux Falls 1-11,State House,12,Greg Jamison,REP,1112
 Lincoln,Sioux Falls 1-12,State House,12,Erin Royer,DEM,494
-Lincoln,Sioux Falls 1-12,State House,12,Jr Anderson,DEM,390
-Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,REP,808
-Lincoln,Sioux Falls 1-13,State House,12,Erin Royer,DEM,324
-Lincoln,Sioux Falls 1-13,State House,12,Jr Anderson,DEM,340
-Lincoln,Sioux Falls 1-13,State House,12,Amber Arlint,REP,304
-Lincoln,06,Supreme Court Retention,,Yes,,324
-Lincoln,06,Supreme Court Retention,,No,,81
-Lincoln,08,Supreme Court Retention,,Yes,,164
-Lincoln,08,Supreme Court Retention,,No,,32
-Lincoln,02-21,Supreme Court Retention,Fifth,Yes,,369
-Lincoln,02-21,Supreme Court Retention,Fifth,No,,84
-Lincoln,06,Supreme Court Retention,Fifth,Yes,,324
-Lincoln,06,Supreme Court Retention,Fifth,No,,81
-Lincoln,08,Supreme Court Retention,Fifth,Yes,,164
-Lincoln,08,Supreme Court Retention,Fifth,No,,32
-Lincoln,11-14,Supreme Court Retention,Fifth,Yes,,316
-Lincoln,11-14,Supreme Court Retention,Fifth,No,,71
-Lincoln,12,Supreme Court Retention,Fifth,Yes,,327
-Lincoln,12,Supreme Court Retention,Fifth,No,,61
-Lincoln,13-14,Supreme Court Retention,Fifth,Yes,,348
-Lincoln,13-14,Supreme Court Retention,Fifth,No,,78
-Lincoln,15,Supreme Court Retention,Fifth,Yes,,872
-Lincoln,15,Supreme Court Retention,Fifth,No,,164
-Lincoln,16,Supreme Court Retention,Fifth,Yes,,776
-Lincoln,16,Supreme Court Retention,Fifth,No,,181
-Lincoln,20,Supreme Court Retention,Fifth,Yes,,680
-Lincoln,20,Supreme Court Retention,Fifth,No,,175
-Lincoln,23-13,Supreme Court Retention,Fifth,Yes,,485
-Lincoln,23-13,Supreme Court Retention,Fifth,No,,132
-Lincoln,24-01,Supreme Court Retention,Fifth,Yes,,710
-Lincoln,24-01,Supreme Court Retention,Fifth,No,,137
-Lincoln,24-02,Supreme Court Retention,Fifth,Yes,,648
-Lincoln,24-02,Supreme Court Retention,Fifth,No,,145
-Lincoln,24-03,Supreme Court Retention,Fifth,Yes,,563
-Lincoln,24-03,Supreme Court Retention,Fifth,No,,147
-Lincoln,25,Supreme Court Retention,Fifth,Yes,,756
-Lincoln,25,Supreme Court Retention,Fifth,No,,173
-Lincoln,26,Supreme Court Retention,Fifth,Yes,,334
-Lincoln,26,Supreme Court Retention,Fifth,No,,87
-Lincoln,27,Supreme Court Retention,Fifth,Yes,,1192
-Lincoln,27,Supreme Court Retention,Fifth,No,,299
-Lincoln,29,Supreme Court Retention,Fifth,Yes,,1095
-Lincoln,29,Supreme Court Retention,Fifth,No,,258
-Lincoln,30,Supreme Court Retention,Fifth,Yes,,308
-Lincoln,30,Supreme Court Retention,Fifth,No,,100
-Lincoln,Sioux Falls 1-11,Supreme Court Retention,Fifth,Yes,,1210
-Lincoln,Sioux Falls 1-11,Supreme Court Retention,Fifth,No,,187
-Lincoln,Sioux Falls 1-12,Supreme Court Retention,Fifth,Yes,,872
-Lincoln,Sioux Falls 1-12,Supreme Court Retention,Fifth,No,,282
-Lincoln,Sioux Falls 1-13,Supreme Court Retention,Fifth,Yes,,445
-Lincoln,Sioux Falls 1-13,Supreme Court Retention,Fifth,No,,160
-Lincoln,Sioux Falls 1-14,Supreme Court Retention,Fifth,Yes,,716
-Lincoln,Sioux Falls 1-14,Supreme Court Retention,Fifth,No,,182
-Lincoln,Sioux Falls 1-15,Supreme Court Retention,Fifth,Yes,,631
-Lincoln,Sioux Falls 1-15,Supreme Court Retention,Fifth,No,,177
-Lincoln,Sioux Falls 1-16,Supreme Court Retention,Fifth,Yes,,524
-Lincoln,Sioux Falls 1-16,Supreme Court Retention,Fifth,No,,147
-Lincoln,Sioux Falls 1-18,Supreme Court Retention,Fifth,Yes,,1115
-Lincoln,Sioux Falls 1-18,Supreme Court Retention,Fifth,No,,233
-Lincoln,Sioux Falls 1-20,Supreme Court Retention,Fifth,Yes,,495
-Lincoln,Sioux Falls 1-20,Supreme Court Retention,Fifth,No,,112
-Lincoln,Sioux Falls 2-10,Supreme Court Retention,Fifth,Yes,,1208
-Lincoln,Sioux Falls 2-10,Supreme Court Retention,Fifth,No,,203
-Lincoln,Sioux Falls 2-11,Supreme Court Retention,Fifth,Yes,,1227
-Lincoln,Sioux Falls 2-11,Supreme Court Retention,Fifth,No,,239
-Lincoln,Sioux Falls 2-12,Supreme Court Retention,Fifth,Yes,,487
-Lincoln,Sioux Falls 2-12,Supreme Court Retention,Fifth,No,,110
-Lincoln,Sioux Falls 2-13,Supreme Court Retention,Fifth,Yes,,1488
-Lincoln,Sioux Falls 2-13,Supreme Court Retention,Fifth,No,,389
-Lincoln,Sioux Falls 2-15,Supreme Court Retention,Fifth,Yes,,983
-Lincoln,Sioux Falls 2-15,Supreme Court Retention,Fifth,No,,210
-Lincoln,Sioux Falls 2-16,Supreme Court Retention,Fifth,Yes,,1777
-Lincoln,Sioux Falls 2-16,Supreme Court Retention,Fifth,No,,460
+Lincoln,Sioux Falls 1-12,State House,12,JR Anderson,REP,390
+Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,DEM,808
+Lincoln,Sioux Falls 1-12,State House,12,Greg Jamison,REP,711
+Lincoln,Sioux Falls 1-13,State House,06,Garret M Campbell,DEM,324
+Lincoln,Sioux Falls 1-13,State House,06,Herman Otten,REP,340
+Lincoln,Sioux Falls 1-13,State House,06,Aaron Aylward,REP,304
+Lincoln,Sioux Falls 1-14,State House,06,Garret M Campbell,DEM,384
+Lincoln,Sioux Falls 1-14,State House,06,Herman Otten,REP,569
+Lincoln,Sioux Falls 1-14,State House,06,Aaron Aylward,REP,511
+Lincoln,Sioux Falls 1-15,State House,12,Erin Royer,DEM,380
+Lincoln,Sioux Falls 1-15,State House,12,JR Anderson,REP,293
+Lincoln,Sioux Falls 1-15,State House,12,Amber Arlint,DEM,527
+Lincoln,Sioux Falls 1-15,State House,12,Greg Jamison,REP,470
+Lincoln,Sioux Falls 1-16,State House,06,Garret M Campbell,DEM,293
+Lincoln,Sioux Falls 1-16,State House,06,Herman Otten,REP,373
+Lincoln,Sioux Falls 1-16,State House,06,Aaron Aylward,REP,370
+Lincoln,Sioux Falls 1-18,State House,12,Erin Royer,DEM,481
+Lincoln,Sioux Falls 1-18,State House,12,JR Anderson,REP,356
+Lincoln,Sioux Falls 1-18,State House,12,Amber Arlint,DEM,1073
+Lincoln,Sioux Falls 1-18,State House,12,Greg Jamison,REP,976
+Lincoln,Sioux Falls 1-20,State House,06,Garret M Campbell,DEM,233
+Lincoln,Sioux Falls 1-20,State House,06,Herman Otten,REP,368
+Lincoln,Sioux Falls 1-20,State House,06,Aaron Aylward,REP,405
+Lincoln,Sioux Falls 2-10,State House,13,Tony Venhuizen,REP,966
+Lincoln,Sioux Falls 2-10,State House,13,John Hughes,REP,1006
+Lincoln,Sioux Falls 2-11,State House,06,Garret M Campbell,DEM,1
+Lincoln,Sioux Falls 2-11,State House,06,Herman Otten,REP,1
+Lincoln,Sioux Falls 2-11,State House,06,Aaron Aylward,REP,2
+Lincoln,Sioux Falls 2-11,State House,13,Tony Venhuizen,REP,1177
+Lincoln,Sioux Falls 2-11,State House,13,John Hughes,REP,1237
+Lincoln,Sioux Falls 2-12,State House,13,Tony Venhuizen,REP,437
+Lincoln,Sioux Falls 2-12,State House,13,John Hughes,REP,461
+Lincoln,Sioux Falls 2-13,State House,06,Garret M Campbell,DEM,0
+Lincoln,Sioux Falls 2-13,State House,06,Herman Otten,REP,0
+Lincoln,Sioux Falls 2-13,State House,06,Aaron Aylward,REP,0
+Lincoln,Sioux Falls 2-13,State House,13,Tony Venhuizen,REP,1122
+Lincoln,Sioux Falls 2-13,State House,13,John Hughes,REP,1170
+Lincoln,Sioux Falls 2-15,State House,06,Garret M Campbell,DEM,0
+Lincoln,Sioux Falls 2-15,State House,06,Herman Otten,REP,0
+Lincoln,Sioux Falls 2-15,State House,06,Aaron Aylward,REP,0
+Lincoln,Sioux Falls 2-15,State House,13,Tony Venhuizen,REP,788
+Lincoln,Sioux Falls 2-15,State House,13,John Hughes,REP,799
+Lincoln,Sioux Falls 2-16,State House,06,Garret M Campbell,DEM,0
+Lincoln,Sioux Falls 2-16,State House,06,Herman Otten,REP,0
+Lincoln,Sioux Falls 2-16,State House,06,Aaron Aylward,REP,0
+Lincoln,Sioux Falls 2-16,State House,13,Tony Venhuizen,REP,1237
+Lincoln,Sioux Falls 2-16,State House,13,John Hughes,REP,1403
+Lincoln,02-21,Supreme Court Retention,5,Scott P. Myren - Yes,,369
+Lincoln,02-21,Supreme Court Retention,5,Scott P. Myren - No,,84
+Lincoln,06,Supreme Court Retention,5,Scott P. Myren - Yes,,324
+Lincoln,06,Supreme Court Retention,5,Scott P. Myren - No,,81
+Lincoln,08,Supreme Court Retention,5,Scott P. Myren - Yes,,164
+Lincoln,08,Supreme Court Retention,5,Scott P. Myren - No,,32
+Lincoln,11-14,Supreme Court Retention,5,Scott P. Myren - Yes,,316
+Lincoln,11-14,Supreme Court Retention,5,Scott P. Myren - No,,71
+Lincoln,12,Supreme Court Retention,5,Scott P. Myren - Yes,,327
+Lincoln,12,Supreme Court Retention,5,Scott P. Myren - No,,61
+Lincoln,13-14,Supreme Court Retention,5,Scott P. Myren - Yes,,348
+Lincoln,13-14,Supreme Court Retention,5,Scott P. Myren - No,,78
+Lincoln,15,Supreme Court Retention,5,Scott P. Myren - Yes,,872
+Lincoln,15,Supreme Court Retention,5,Scott P. Myren - No,,164
+Lincoln,16,Supreme Court Retention,5,Scott P. Myren - Yes,,776
+Lincoln,16,Supreme Court Retention,5,Scott P. Myren - No,,181
+Lincoln,20,Supreme Court Retention,5,Scott P. Myren - Yes,,680
+Lincoln,20,Supreme Court Retention,5,Scott P. Myren - No,,175
+Lincoln,23-13,Supreme Court Retention,5,Scott P. Myren - Yes,,485
+Lincoln,23-13,Supreme Court Retention,5,Scott P. Myren - No,,132
+Lincoln,24-01,Supreme Court Retention,5,Scott P. Myren - Yes,,710
+Lincoln,24-01,Supreme Court Retention,5,Scott P. Myren - No,,137
+Lincoln,24-02,Supreme Court Retention,5,Scott P. Myren - Yes,,648
+Lincoln,24-02,Supreme Court Retention,5,Scott P. Myren - No,,145
+Lincoln,24-03,Supreme Court Retention,5,Scott P. Myren - Yes,,563
+Lincoln,24-03,Supreme Court Retention,5,Scott P. Myren - No,,147
+Lincoln,25,Supreme Court Retention,5,Scott P. Myren - Yes,,756
+Lincoln,25,Supreme Court Retention,5,Scott P. Myren - No,,173
+Lincoln,26,Supreme Court Retention,5,Scott P. Myren - Yes,,334
+Lincoln,26,Supreme Court Retention,5,Scott P. Myren - No,,87
+Lincoln,27,Supreme Court Retention,5,Scott P. Myren - Yes,,1192
+Lincoln,27,Supreme Court Retention,5,Scott P. Myren - No,,299
+Lincoln,29,Supreme Court Retention,5,Scott P. Myren - Yes,,1095
+Lincoln,29,Supreme Court Retention,5,Scott P. Myren - No,,258
+Lincoln,30,Supreme Court Retention,5,Scott P. Myren - Yes,,308
+Lincoln,30,Supreme Court Retention,5,Scott P. Myren - No,,100
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,5,Scott P. Myren - Yes,,1210
+Lincoln,Sioux Falls 1-11,Supreme Court Retention,5,Scott P. Myren - No,,187
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,5,Scott P. Myren - Yes,,872
+Lincoln,Sioux Falls 1-12,Supreme Court Retention,5,Scott P. Myren - No,,282
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,5,Scott P. Myren - Yes,,445
+Lincoln,Sioux Falls 1-13,Supreme Court Retention,5,Scott P. Myren - No,,160
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,5,Scott P. Myren - Yes,,716
+Lincoln,Sioux Falls 1-14,Supreme Court Retention,5,Scott P. Myren - No,,182
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,5,Scott P. Myren - Yes,,631
+Lincoln,Sioux Falls 1-15,Supreme Court Retention,5,Scott P. Myren - No,,177
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,5,Scott P. Myren - Yes,,524
+Lincoln,Sioux Falls 1-16,Supreme Court Retention,5,Scott P. Myren - No,,147
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,5,Scott P. Myren - Yes,,1115
+Lincoln,Sioux Falls 1-18,Supreme Court Retention,5,Scott P. Myren - No,,233
+Lincoln,Sioux Falls 1-20,Supreme Court Retention,5,Scott P. Myren - Yes,,495
+Lincoln,Sioux Falls 1-20,Supreme Court Retention,5,Scott P. Myren - No,,112
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,5,Scott P. Myren - Yes,,1208
+Lincoln,Sioux Falls 2-10,Supreme Court Retention,5,Scott P. Myren - No,,203
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,5,Scott P. Myren - Yes,,1517
+Lincoln,Sioux Falls 2-11,Supreme Court Retention,5,Scott P. Myren - No,,325
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,5,Scott P. Myren - Yes,,586
+Lincoln,Sioux Falls 2-12,Supreme Court Retention,5,Scott P. Myren - No,,154
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,5,Scott P. Myren - Yes,,1488
+Lincoln,Sioux Falls 2-13,Supreme Court Retention,5,Scott P. Myren - No,,389
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,5,Scott P. Myren - Yes,,983
+Lincoln,Sioux Falls 2-15,Supreme Court Retention,5,Scott P. Myren - No,,210
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,5,Scott P. Myren - Yes,,1777
+Lincoln,Sioux Falls 2-16,Supreme Court Retention,5,Scott P. Myren - No,,460
+Lincoln,02-21,Constitutional Amendment E,,Yes,,165
+Lincoln,02-21,Constitutional Amendment E,,No,,349
+Lincoln,02-21,Constitutional Amendment F,,Yes,,300
+Lincoln,02-21,Constitutional Amendment F,,No,,213
+Lincoln,02-21,Constitutional Amendment G,,Yes,,151
+Lincoln,02-21,Constitutional Amendment G,,No,,359
+Lincoln,02-21,Constitutional Amendment H,,Yes,,157
+Lincoln,02-21,Constitutional Amendment H,,No,,349
+Lincoln,02-21,Initiated Measure 28,,Yes,,168
+Lincoln,02-21,Initiated Measure 28,,No,,343
+Lincoln,02-21,Initiated Measure 29,,Yes,,192
+Lincoln,02-21,Initiated Measure 29,,No,,326
+Lincoln,02-21,Referred Law 21,,Yes,,128
+Lincoln,02-21,Referred Law 21,,No,,377
+Lincoln,06,Constitutional Amendment E,,Yes,,142
+Lincoln,06,Constitutional Amendment E,,No,,360
+Lincoln,06,Constitutional Amendment F,,Yes,,274
+Lincoln,06,Constitutional Amendment F,,No,,220
+Lincoln,06,Constitutional Amendment G,,Yes,,169
+Lincoln,06,Constitutional Amendment G,,No,,334
+Lincoln,06,Constitutional Amendment H,,Yes,,113
+Lincoln,06,Constitutional Amendment H,,No,,369
+Lincoln,06,Initiated Measure 28,,Yes,,92
+Lincoln,06,Initiated Measure 28,,No,,400
+Lincoln,06,Initiated Measure 29,,Yes,,187
+Lincoln,06,Initiated Measure 29,,No,,314
+Lincoln,06,Referred Law 21,,Yes,,109
+Lincoln,06,Referred Law 21,,No,,388
+Lincoln,08,Constitutional Amendment E,,Yes,,73
+Lincoln,08,Constitutional Amendment E,,No,,168
+Lincoln,08,Constitutional Amendment F,,Yes,,135
+Lincoln,08,Constitutional Amendment F,,No,,110
+Lincoln,08,Constitutional Amendment G,,Yes,,74
+Lincoln,08,Constitutional Amendment G,,No,,176
+Lincoln,08,Constitutional Amendment H,,Yes,,57
+Lincoln,08,Constitutional Amendment H,,No,,187
+Lincoln,08,Initiated Measure 28,,Yes,,39
+Lincoln,08,Initiated Measure 28,,No,,209
+Lincoln,08,Initiated Measure 29,,Yes,,81
+Lincoln,08,Initiated Measure 29,,No,,168
+Lincoln,08,Referred Law 21,,Yes,,58
+Lincoln,08,Referred Law 21,,No,,186
+Lincoln,11-14,Constitutional Amendment E,,Yes,,189
+Lincoln,11-14,Constitutional Amendment E,,No,,266
+Lincoln,11-14,Constitutional Amendment F,,Yes,,272
+Lincoln,11-14,Constitutional Amendment F,,No,,180
+Lincoln,11-14,Constitutional Amendment G,,Yes,,172
+Lincoln,11-14,Constitutional Amendment G,,No,,289
+Lincoln,11-14,Constitutional Amendment H,,Yes,,142
+Lincoln,11-14,Constitutional Amendment H,,No,,298
+Lincoln,11-14,Initiated Measure 28,,Yes,,126
+Lincoln,11-14,Initiated Measure 28,,No,,333
+Lincoln,11-14,Initiated Measure 29,,Yes,,166
+Lincoln,11-14,Initiated Measure 29,,No,,298
+Lincoln,11-14,Referred Law 21,,Yes,,113
+Lincoln,11-14,Referred Law 21,,No,,331
+Lincoln,12,Constitutional Amendment E,,Yes,,164
+Lincoln,12,Constitutional Amendment E,,No,,316
+Lincoln,12,Constitutional Amendment F,,Yes,,316
+Lincoln,12,Constitutional Amendment F,,No,,161
+Lincoln,12,Constitutional Amendment G,,Yes,,141
+Lincoln,12,Constitutional Amendment G,,No,,339
+Lincoln,12,Constitutional Amendment H,,Yes,,116
+Lincoln,12,Constitutional Amendment H,,No,,345
+Lincoln,12,Initiated Measure 28,,Yes,,98
+Lincoln,12,Initiated Measure 28,,No,,376
+Lincoln,12,Initiated Measure 29,,Yes,,152
+Lincoln,12,Initiated Measure 29,,No,,325
+Lincoln,12,Referred Law 21,,Yes,,84
+Lincoln,12,Referred Law 21,,No,,390
+Lincoln,13-14,Constitutional Amendment E,,Yes,,177
+Lincoln,13-14,Constitutional Amendment E,,No,,357
+Lincoln,13-14,Constitutional Amendment F,,Yes,,303
+Lincoln,13-14,Constitutional Amendment F,,No,,223
+Lincoln,13-14,Constitutional Amendment G,,Yes,,190
+Lincoln,13-14,Constitutional Amendment G,,No,,346
+Lincoln,13-14,Constitutional Amendment H,,Yes,,126
+Lincoln,13-14,Constitutional Amendment H,,No,,389
+Lincoln,13-14,Initiated Measure 28,,Yes,,121
+Lincoln,13-14,Initiated Measure 28,,No,,404
+Lincoln,13-14,Initiated Measure 29,,Yes,,204
+Lincoln,13-14,Initiated Measure 29,,No,,328
+Lincoln,13-14,Referred Law 21,,Yes,,140
+Lincoln,13-14,Referred Law 21,,No,,384
+Lincoln,15,Constitutional Amendment E,,Yes,,559
+Lincoln,15,Constitutional Amendment E,,No,,718
+Lincoln,15,Constitutional Amendment F,,Yes,,772
+Lincoln,15,Constitutional Amendment F,,No,,492
+Lincoln,15,Constitutional Amendment G,,Yes,,471
+Lincoln,15,Constitutional Amendment G,,No,,823
+Lincoln,15,Constitutional Amendment H,,Yes,,392
+Lincoln,15,Constitutional Amendment H,,No,,856
+Lincoln,15,Initiated Measure 28,,Yes,,325
+Lincoln,15,Initiated Measure 28,,No,,950
+Lincoln,15,Initiated Measure 29,,Yes,,487
+Lincoln,15,Initiated Measure 29,,No,,807
+Lincoln,15,Referred Law 21,,Yes,,411
+Lincoln,15,Referred Law 21,,No,,832
+Lincoln,16,Constitutional Amendment E,,Yes,,474
+Lincoln,16,Constitutional Amendment E,,No,,679
+Lincoln,16,Constitutional Amendment F,,Yes,,693
+Lincoln,16,Constitutional Amendment F,,No,,453
+Lincoln,16,Constitutional Amendment G,,Yes,,414
+Lincoln,16,Constitutional Amendment G,,No,,743
+Lincoln,16,Constitutional Amendment H,,Yes,,333
+Lincoln,16,Constitutional Amendment H,,No,,785
+Lincoln,16,Initiated Measure 28,,Yes,,283
+Lincoln,16,Initiated Measure 28,,No,,871
+Lincoln,16,Initiated Measure 29,,Yes,,430
+Lincoln,16,Initiated Measure 29,,No,,736
+Lincoln,16,Referred Law 21,,Yes,,389
+Lincoln,16,Referred Law 21,,No,,723
+Lincoln,20,Constitutional Amendment E,,Yes,,372
+Lincoln,20,Constitutional Amendment E,,No,,660
+Lincoln,20,Constitutional Amendment F,,Yes,,549
+Lincoln,20,Constitutional Amendment F,,No,,482
+Lincoln,20,Constitutional Amendment G,,Yes,,428
+Lincoln,20,Constitutional Amendment G,,No,,611
+Lincoln,20,Constitutional Amendment H,,Yes,,324
+Lincoln,20,Constitutional Amendment H,,No,,683
+Lincoln,20,Initiated Measure 28,,Yes,,304
+Lincoln,20,Initiated Measure 28,,No,,728
+Lincoln,20,Initiated Measure 29,,Yes,,504
+Lincoln,20,Initiated Measure 29,,No,,544
+Lincoln,20,Referred Law 21,,Yes,,302
+Lincoln,20,Referred Law 21,,No,,708
+Lincoln,23-13,Constitutional Amendment E,,Yes,,247
+Lincoln,23-13,Constitutional Amendment E,,No,,523
+Lincoln,23-13,Constitutional Amendment F,,Yes,,435
+Lincoln,23-13,Constitutional Amendment F,,No,,324
+Lincoln,23-13,Constitutional Amendment G,,Yes,,264
+Lincoln,23-13,Constitutional Amendment G,,No,,514
+Lincoln,23-13,Constitutional Amendment H,,Yes,,208
+Lincoln,23-13,Constitutional Amendment H,,No,,540
+Lincoln,23-13,Initiated Measure 28,,Yes,,216
+Lincoln,23-13,Initiated Measure 28,,No,,552
+Lincoln,23-13,Initiated Measure 29,,Yes,,336
+Lincoln,23-13,Initiated Measure 29,,No,,451
+Lincoln,23-13,Referred Law 21,,Yes,,201
+Lincoln,23-13,Referred Law 21,,No,,565
+Lincoln,24-01,Constitutional Amendment E,,Yes,,424
+Lincoln,24-01,Constitutional Amendment E,,No,,623
+Lincoln,24-01,Constitutional Amendment F,,Yes,,640
+Lincoln,24-01,Constitutional Amendment F,,No,,383
+Lincoln,24-01,Constitutional Amendment G,,Yes,,422
+Lincoln,24-01,Constitutional Amendment G,,No,,647
+Lincoln,24-01,Constitutional Amendment H,,Yes,,365
+Lincoln,24-01,Constitutional Amendment H,,No,,642
+Lincoln,24-01,Initiated Measure 28,,Yes,,313
+Lincoln,24-01,Initiated Measure 28,,No,,728
+Lincoln,24-01,Initiated Measure 29,,Yes,,518
+Lincoln,24-01,Initiated Measure 29,,No,,544
+Lincoln,24-01,Referred Law 21,,Yes,,388
+Lincoln,24-01,Referred Law 21,,No,,608
+Lincoln,24-02,Constitutional Amendment E,,Yes,,468
+Lincoln,24-02,Constitutional Amendment E,,No,,526
+Lincoln,24-02,Constitutional Amendment F,,Yes,,616
+Lincoln,24-02,Constitutional Amendment F,,No,,362
+Lincoln,24-02,Constitutional Amendment G,,Yes,,472
+Lincoln,24-02,Constitutional Amendment G,,No,,537
+Lincoln,24-02,Constitutional Amendment H,,Yes,,327
+Lincoln,24-02,Constitutional Amendment H,,No,,623
+Lincoln,24-02,Initiated Measure 28,,Yes,,321
+Lincoln,24-02,Initiated Measure 28,,No,,662
+Lincoln,24-02,Initiated Measure 29,,Yes,,539
+Lincoln,24-02,Initiated Measure 29,,No,,468
+Lincoln,24-02,Referred Law 21,,Yes,,441
+Lincoln,24-02,Referred Law 21,,No,,511
+Lincoln,24-03,Constitutional Amendment E,,Yes,,391
+Lincoln,24-03,Constitutional Amendment E,,No,,458
+Lincoln,24-03,Constitutional Amendment F,,Yes,,477
+Lincoln,24-03,Constitutional Amendment F,,No,,372
+Lincoln,24-03,Constitutional Amendment G,,Yes,,398
+Lincoln,24-03,Constitutional Amendment G,,No,,460
+Lincoln,24-03,Constitutional Amendment H,,Yes,,291
+Lincoln,24-03,Constitutional Amendment H,,No,,527
+Lincoln,24-03,Initiated Measure 28,,Yes,,289
+Lincoln,24-03,Initiated Measure 28,,No,,557
+Lincoln,24-03,Initiated Measure 29,,Yes,,486
+Lincoln,24-03,Initiated Measure 29,,No,,374
+Lincoln,24-03,Referred Law 21,,Yes,,317
+Lincoln,24-03,Referred Law 21,,No,,495
+Lincoln,25,Constitutional Amendment E,,Yes,,439
+Lincoln,25,Constitutional Amendment E,,No,,687
+Lincoln,25,Constitutional Amendment F,,Yes,,600
+Lincoln,25,Constitutional Amendment F,,No,,513
+Lincoln,25,Constitutional Amendment G,,Yes,,444
+Lincoln,25,Constitutional Amendment G,,No,,683
+Lincoln,25,Constitutional Amendment H,,Yes,,343
+Lincoln,25,Constitutional Amendment H,,No,,743
+Lincoln,25,Initiated Measure 28,,Yes,,310
+Lincoln,25,Initiated Measure 28,,No,,816
+Lincoln,25,Initiated Measure 29,,Yes,,541
+Lincoln,25,Initiated Measure 29,,No,,589
+Lincoln,25,Referred Law 21,,Yes,,352
+Lincoln,25,Referred Law 21,,No,,741
+Lincoln,26,Constitutional Amendment E,,Yes,,178
+Lincoln,26,Constitutional Amendment E,,No,,324
+Lincoln,26,Constitutional Amendment F,,Yes,,280
+Lincoln,26,Constitutional Amendment F,,No,,216
+Lincoln,26,Constitutional Amendment G,,Yes,,154
+Lincoln,26,Constitutional Amendment G,,No,,349
+Lincoln,26,Constitutional Amendment H,,Yes,,125
+Lincoln,26,Constitutional Amendment H,,No,,367
+Lincoln,26,Initiated Measure 28,,Yes,,119
+Lincoln,26,Initiated Measure 28,,No,,378
+Lincoln,26,Initiated Measure 29,,Yes,,166
+Lincoln,26,Initiated Measure 29,,No,,336
+Lincoln,26,Referred Law 21,,Yes,,129
+Lincoln,26,Referred Law 21,,No,,363
+Lincoln,27,Constitutional Amendment E,,Yes,,806
+Lincoln,27,Constitutional Amendment E,,No,,1007
+Lincoln,27,Constitutional Amendment F,,Yes,,1070
+Lincoln,27,Constitutional Amendment F,,No,,716
+Lincoln,27,Constitutional Amendment G,,Yes,,809
+Lincoln,27,Constitutional Amendment G,,No,,1030
+Lincoln,27,Constitutional Amendment H,,Yes,,625
+Lincoln,27,Constitutional Amendment H,,No,,1111
+Lincoln,27,Initiated Measure 28,,Yes,,610
+Lincoln,27,Initiated Measure 28,,No,,1192
+Lincoln,27,Initiated Measure 29,,Yes,,961
+Lincoln,27,Initiated Measure 29,,No,,871
+Lincoln,27,Referred Law 21,,Yes,,658
+Lincoln,27,Referred Law 21,,No,,1075
+Lincoln,29,Constitutional Amendment E,,Yes,,703
+Lincoln,29,Constitutional Amendment E,,No,,936
+Lincoln,29,Constitutional Amendment F,,Yes,,1034
+Lincoln,29,Constitutional Amendment F,,No,,592
+Lincoln,29,Constitutional Amendment G,,Yes,,703
+Lincoln,29,Constitutional Amendment G,,No,,958
+Lincoln,29,Constitutional Amendment H,,Yes,,555
+Lincoln,29,Constitutional Amendment H,,No,,1019
+Lincoln,29,Initiated Measure 28,,Yes,,489
+Lincoln,29,Initiated Measure 28,,No,,1140
+Lincoln,29,Initiated Measure 29,,Yes,,870
+Lincoln,29,Initiated Measure 29,,No,,782
+Lincoln,29,Referred Law 21,,Yes,,620
+Lincoln,29,Referred Law 21,,No,,958
+Lincoln,30,Constitutional Amendment E,,Yes,,202
+Lincoln,30,Constitutional Amendment E,,No,,302
+Lincoln,30,Constitutional Amendment F,,Yes,,254
+Lincoln,30,Constitutional Amendment F,,No,,251
+Lincoln,30,Constitutional Amendment G,,Yes,,218
+Lincoln,30,Constitutional Amendment G,,No,,295
+Lincoln,30,Constitutional Amendment H,,Yes,,179
+Lincoln,30,Constitutional Amendment H,,No,,314
+Lincoln,30,Initiated Measure 28,,Yes,,156
+Lincoln,30,Initiated Measure 28,,No,,345
+Lincoln,30,Initiated Measure 29,,Yes,,261
+Lincoln,30,Initiated Measure 29,,No,,248
+Lincoln,30,Referred Law 21,,Yes,,160
+Lincoln,30,Referred Law 21,,No,,337
+Lincoln,Sioux Falls 1-11,Constitutional Amendment E,,Yes,,860
+Lincoln,Sioux Falls 1-11,Constitutional Amendment E,,No,,790
+Lincoln,Sioux Falls 1-11,Constitutional Amendment F,,Yes,,993
+Lincoln,Sioux Falls 1-11,Constitutional Amendment F,,No,,647
+Lincoln,Sioux Falls 1-11,Constitutional Amendment G,,Yes,,664
+Lincoln,Sioux Falls 1-11,Constitutional Amendment G,,No,,997
+Lincoln,Sioux Falls 1-11,Constitutional Amendment H,,Yes,,550
+Lincoln,Sioux Falls 1-11,Constitutional Amendment H,,No,,1068
+Lincoln,Sioux Falls 1-11,Initiated Measure 28,,Yes,,370
+Lincoln,Sioux Falls 1-11,Initiated Measure 28,,No,,1258
+Lincoln,Sioux Falls 1-11,Initiated Measure 29,,Yes,,552
+Lincoln,Sioux Falls 1-11,Initiated Measure 29,,No,,1100
+Lincoln,Sioux Falls 1-11,Referred Law 21,,Yes,,738
+Lincoln,Sioux Falls 1-11,Referred Law 21,,No,,845
+Lincoln,Sioux Falls 1-12,Constitutional Amendment E,,Yes,,723
+Lincoln,Sioux Falls 1-12,Constitutional Amendment E,,No,,674
+Lincoln,Sioux Falls 1-12,Constitutional Amendment F,,Yes,,815
+Lincoln,Sioux Falls 1-12,Constitutional Amendment F,,No,,575
+Lincoln,Sioux Falls 1-12,Constitutional Amendment G,,Yes,,716
+Lincoln,Sioux Falls 1-12,Constitutional Amendment G,,No,,691
+Lincoln,Sioux Falls 1-12,Constitutional Amendment H,,Yes,,503
+Lincoln,Sioux Falls 1-12,Constitutional Amendment H,,No,,833
+Lincoln,Sioux Falls 1-12,Initiated Measure 28,,Yes,,540
+Lincoln,Sioux Falls 1-12,Initiated Measure 28,,No,,834
+Lincoln,Sioux Falls 1-12,Initiated Measure 29,,Yes,,799
+Lincoln,Sioux Falls 1-12,Initiated Measure 29,,No,,615
+Lincoln,Sioux Falls 1-12,Referred Law 21,,Yes,,625
+Lincoln,Sioux Falls 1-12,Referred Law 21,,No,,700
+Lincoln,Sioux Falls 1-13,Constitutional Amendment E,,Yes,,391
+Lincoln,Sioux Falls 1-13,Constitutional Amendment E,,No,,354
+Lincoln,Sioux Falls 1-13,Constitutional Amendment F,,Yes,,414
+Lincoln,Sioux Falls 1-13,Constitutional Amendment F,,No,,326
+Lincoln,Sioux Falls 1-13,Constitutional Amendment G,,Yes,,419
+Lincoln,Sioux Falls 1-13,Constitutional Amendment G,,No,,338
+Lincoln,Sioux Falls 1-13,Constitutional Amendment H,,Yes,,296
+Lincoln,Sioux Falls 1-13,Constitutional Amendment H,,No,,423
+Lincoln,Sioux Falls 1-13,Initiated Measure 28,,Yes,,282
+Lincoln,Sioux Falls 1-13,Initiated Measure 28,,No,,458
+Lincoln,Sioux Falls 1-13,Initiated Measure 29,,Yes,,452
+Lincoln,Sioux Falls 1-13,Initiated Measure 29,,No,,305
+Lincoln,Sioux Falls 1-13,Referred Law 21,,Yes,,344
+Lincoln,Sioux Falls 1-13,Referred Law 21,,No,,366
+Lincoln,Sioux Falls 1-14,Constitutional Amendment E,,Yes,,545
+Lincoln,Sioux Falls 1-14,Constitutional Amendment E,,No,,583
+Lincoln,Sioux Falls 1-14,Constitutional Amendment F,,Yes,,667
+Lincoln,Sioux Falls 1-14,Constitutional Amendment F,,No,,462
+Lincoln,Sioux Falls 1-14,Constitutional Amendment G,,Yes,,557
+Lincoln,Sioux Falls 1-14,Constitutional Amendment G,,No,,600
+Lincoln,Sioux Falls 1-14,Constitutional Amendment H,,Yes,,393
+Lincoln,Sioux Falls 1-14,Constitutional Amendment H,,No,,702
+Lincoln,Sioux Falls 1-14,Initiated Measure 28,,Yes,,409
+Lincoln,Sioux Falls 1-14,Initiated Measure 28,,No,,730
+Lincoln,Sioux Falls 1-14,Initiated Measure 29,,Yes,,654
+Lincoln,Sioux Falls 1-14,Initiated Measure 29,,No,,509
+Lincoln,Sioux Falls 1-14,Referred Law 21,,Yes,,506
+Lincoln,Sioux Falls 1-14,Referred Law 21,,No,,584
+Lincoln,Sioux Falls 1-15,Constitutional Amendment E,,Yes,,539
+Lincoln,Sioux Falls 1-15,Constitutional Amendment E,,No,,427
+Lincoln,Sioux Falls 1-15,Constitutional Amendment F,,Yes,,516
+Lincoln,Sioux Falls 1-15,Constitutional Amendment F,,No,,440
+Lincoln,Sioux Falls 1-15,Constitutional Amendment G,,Yes,,510
+Lincoln,Sioux Falls 1-15,Constitutional Amendment G,,No,,463
+Lincoln,Sioux Falls 1-15,Constitutional Amendment H,,Yes,,386
+Lincoln,Sioux Falls 1-15,Constitutional Amendment H,,No,,542
+Lincoln,Sioux Falls 1-15,Initiated Measure 28,,Yes,,366
+Lincoln,Sioux Falls 1-15,Initiated Measure 28,,No,,589
+Lincoln,Sioux Falls 1-15,Initiated Measure 29,,Yes,,476
+Lincoln,Sioux Falls 1-15,Initiated Measure 29,,No,,490
+Lincoln,Sioux Falls 1-15,Referred Law 21,,Yes,,397
+Lincoln,Sioux Falls 1-15,Referred Law 21,,No,,530
+Lincoln,Sioux Falls 1-16,Constitutional Amendment E,,Yes,,387
+Lincoln,Sioux Falls 1-16,Constitutional Amendment E,,No,,418
+Lincoln,Sioux Falls 1-16,Constitutional Amendment F,,Yes,,439
+Lincoln,Sioux Falls 1-16,Constitutional Amendment F,,No,,365
+Lincoln,Sioux Falls 1-16,Constitutional Amendment G,,Yes,,410
+Lincoln,Sioux Falls 1-16,Constitutional Amendment G,,No,,408
+Lincoln,Sioux Falls 1-16,Constitutional Amendment H,,Yes,,318
+Lincoln,Sioux Falls 1-16,Constitutional Amendment H,,No,,455
+Lincoln,Sioux Falls 1-16,Initiated Measure 28,,Yes,,322
+Lincoln,Sioux Falls 1-16,Initiated Measure 28,,No,,480
+Lincoln,Sioux Falls 1-16,Initiated Measure 29,,Yes,,486
+Lincoln,Sioux Falls 1-16,Initiated Measure 29,,No,,335
+Lincoln,Sioux Falls 1-16,Referred Law 21,,Yes,,341
+Lincoln,Sioux Falls 1-16,Referred Law 21,,No,,424
+Lincoln,Sioux Falls 1-18,Constitutional Amendment E,,Yes,,880
+Lincoln,Sioux Falls 1-18,Constitutional Amendment E,,No,,762
+Lincoln,Sioux Falls 1-18,Constitutional Amendment F,,Yes,,1016
+Lincoln,Sioux Falls 1-18,Constitutional Amendment F,,No,,594
+Lincoln,Sioux Falls 1-18,Constitutional Amendment G,,Yes,,743
+Lincoln,Sioux Falls 1-18,Constitutional Amendment G,,No,,921
+Lincoln,Sioux Falls 1-18,Constitutional Amendment H,,Yes,,576
+Lincoln,Sioux Falls 1-18,Constitutional Amendment H,,No,,998
+Lincoln,Sioux Falls 1-18,Initiated Measure 28,,Yes,,445
+Lincoln,Sioux Falls 1-18,Initiated Measure 28,,No,,1182
+Lincoln,Sioux Falls 1-18,Initiated Measure 29,,Yes,,756
+Lincoln,Sioux Falls 1-18,Initiated Measure 29,,No,,912
+Lincoln,Sioux Falls 1-18,Referred Law 21,,Yes,,728
+Lincoln,Sioux Falls 1-18,Referred Law 21,,No,,814
+Lincoln,Sioux Falls 1-20,Constitutional Amendment E,,Yes,,388
+Lincoln,Sioux Falls 1-20,Constitutional Amendment E,,No,,373
+Lincoln,Sioux Falls 1-20,Constitutional Amendment F,,Yes,,475
+Lincoln,Sioux Falls 1-20,Constitutional Amendment F,,No,,281
+Lincoln,Sioux Falls 1-20,Constitutional Amendment G,,Yes,,353
+Lincoln,Sioux Falls 1-20,Constitutional Amendment G,,No,,419
+Lincoln,Sioux Falls 1-20,Constitutional Amendment H,,Yes,,256
+Lincoln,Sioux Falls 1-20,Constitutional Amendment H,,No,,488
+Lincoln,Sioux Falls 1-20,Initiated Measure 28,,Yes,,232
+Lincoln,Sioux Falls 1-20,Initiated Measure 28,,No,,522
+Lincoln,Sioux Falls 1-20,Initiated Measure 29,,Yes,,403
+Lincoln,Sioux Falls 1-20,Initiated Measure 29,,No,,370
+Lincoln,Sioux Falls 1-20,Referred Law 21,,Yes,,312
+Lincoln,Sioux Falls 1-20,Referred Law 21,,No,,416
+Lincoln,Sioux Falls 2-10,Constitutional Amendment E,,Yes,,892
+Lincoln,Sioux Falls 2-10,Constitutional Amendment E,,No,,838
+Lincoln,Sioux Falls 2-10,Constitutional Amendment F,,Yes,,987
+Lincoln,Sioux Falls 2-10,Constitutional Amendment F,,No,,737
+Lincoln,Sioux Falls 2-10,Constitutional Amendment G,,Yes,,736
+Lincoln,Sioux Falls 2-10,Constitutional Amendment G,,No,,1014
+Lincoln,Sioux Falls 2-10,Constitutional Amendment H,,Yes,,557
+Lincoln,Sioux Falls 2-10,Constitutional Amendment H,,No,,1144
+Lincoln,Sioux Falls 2-10,Initiated Measure 28,,Yes,,420
+Lincoln,Sioux Falls 2-10,Initiated Measure 28,,No,,1304
+Lincoln,Sioux Falls 2-10,Initiated Measure 29,,Yes,,672
+Lincoln,Sioux Falls 2-10,Initiated Measure 29,,No,,1072
+Lincoln,Sioux Falls 2-10,Referred Law 21,,Yes,,737
+Lincoln,Sioux Falls 2-10,Referred Law 21,,No,,920
+Lincoln,Sioux Falls 2-11,Constitutional Amendment E,,Yes,,1225
+Lincoln,Sioux Falls 2-11,Constitutional Amendment E,,No,,996
+Lincoln,Sioux Falls 2-11,Constitutional Amendment F,,Yes,,1228
+Lincoln,Sioux Falls 2-11,Constitutional Amendment F,,No,,977
+Lincoln,Sioux Falls 2-11,Constitutional Amendment G,,Yes,,1021
+Lincoln,Sioux Falls 2-11,Constitutional Amendment G,,No,,1232
+Lincoln,Sioux Falls 2-11,Constitutional Amendment H,,Yes,,760
+Lincoln,Sioux Falls 2-11,Constitutional Amendment H,,No,,1417
+Lincoln,Sioux Falls 2-11,Initiated Measure 28,,Yes,,628
+Lincoln,Sioux Falls 2-11,Initiated Measure 28,,No,,1582
+Lincoln,Sioux Falls 2-11,Initiated Measure 29,,Yes,,879
+Lincoln,Sioux Falls 2-11,Initiated Measure 29,,No,,1374
+Lincoln,Sioux Falls 2-11,Referred Law 21,,Yes,,965
+Lincoln,Sioux Falls 2-11,Referred Law 21,,No,,1172
+Lincoln,Sioux Falls 2-12,Constitutional Amendment E,,Yes,,487
+Lincoln,Sioux Falls 2-12,Constitutional Amendment E,,No,,420
+Lincoln,Sioux Falls 2-12,Constitutional Amendment F,,Yes,,487
+Lincoln,Sioux Falls 2-12,Constitutional Amendment F,,No,,410
+Lincoln,Sioux Falls 2-12,Constitutional Amendment G,,Yes,,462
+Lincoln,Sioux Falls 2-12,Constitutional Amendment G,,No,,458
+Lincoln,Sioux Falls 2-12,Constitutional Amendment H,,Yes,,316
+Lincoln,Sioux Falls 2-12,Constitutional Amendment H,,No,,557
+Lincoln,Sioux Falls 2-12,Initiated Measure 28,,Yes,,330
+Lincoln,Sioux Falls 2-12,Initiated Measure 28,,No,,568
+Lincoln,Sioux Falls 2-12,Initiated Measure 29,,Yes,,420
+Lincoln,Sioux Falls 2-12,Initiated Measure 29,,No,,495
+Lincoln,Sioux Falls 2-12,Referred Law 21,,Yes,,396
+Lincoln,Sioux Falls 2-12,Referred Law 21,,No,,469
+Lincoln,Sioux Falls 2-13,Constitutional Amendment E,,Yes,,1306
+Lincoln,Sioux Falls 2-13,Constitutional Amendment E,,No,,1037
+Lincoln,Sioux Falls 2-13,Constitutional Amendment F,,Yes,,1213
+Lincoln,Sioux Falls 2-13,Constitutional Amendment F,,No,,1123
+Lincoln,Sioux Falls 2-13,Constitutional Amendment G,,Yes,,1168
+Lincoln,Sioux Falls 2-13,Constitutional Amendment G,,No,,1210
+Lincoln,Sioux Falls 2-13,Constitutional Amendment H,,Yes,,842
+Lincoln,Sioux Falls 2-13,Constitutional Amendment H,,No,,1417
+Lincoln,Sioux Falls 2-13,Initiated Measure 28,,Yes,,773
+Lincoln,Sioux Falls 2-13,Initiated Measure 28,,No,,1545
+Lincoln,Sioux Falls 2-13,Initiated Measure 29,,Yes,,1126
+Lincoln,Sioux Falls 2-13,Initiated Measure 29,,No,,1248
+Lincoln,Sioux Falls 2-13,Referred Law 21,,Yes,,1029
+Lincoln,Sioux Falls 2-13,Referred Law 21,,No,,1186
+Lincoln,Sioux Falls 2-15,Constitutional Amendment E,,Yes,,771
+Lincoln,Sioux Falls 2-15,Constitutional Amendment E,,No,,695
+Lincoln,Sioux Falls 2-15,Constitutional Amendment F,,Yes,,879
+Lincoln,Sioux Falls 2-15,Constitutional Amendment F,,No,,568
+Lincoln,Sioux Falls 2-15,Constitutional Amendment G,,Yes,,655
+Lincoln,Sioux Falls 2-15,Constitutional Amendment G,,No,,833
+Lincoln,Sioux Falls 2-15,Constitutional Amendment H,,Yes,,508
+Lincoln,Sioux Falls 2-15,Constitutional Amendment H,,No,,912
+Lincoln,Sioux Falls 2-15,Initiated Measure 28,,Yes,,389
+Lincoln,Sioux Falls 2-15,Initiated Measure 28,,No,,1067
+Lincoln,Sioux Falls 2-15,Initiated Measure 29,,Yes,,647
+Lincoln,Sioux Falls 2-15,Initiated Measure 29,,No,,836
+Lincoln,Sioux Falls 2-15,Referred Law 21,,Yes,,660
+Lincoln,Sioux Falls 2-15,Referred Law 21,,No,,726
+Lincoln,Sioux Falls 2-16,Constitutional Amendment E,,Yes,,1410
+Lincoln,Sioux Falls 2-16,Constitutional Amendment E,,No,,1344
+Lincoln,Sioux Falls 2-16,Constitutional Amendment F,,Yes,,1554
+Lincoln,Sioux Falls 2-16,Constitutional Amendment F,,No,,1171
+Lincoln,Sioux Falls 2-16,Constitutional Amendment G,,Yes,,1315
+Lincoln,Sioux Falls 2-16,Constitutional Amendment G,,No,,1472
+Lincoln,Sioux Falls 2-16,Constitutional Amendment H,,Yes,,964
+Lincoln,Sioux Falls 2-16,Constitutional Amendment H,,No,,1672
+Lincoln,Sioux Falls 2-16,Initiated Measure 28,,Yes,,982
+Lincoln,Sioux Falls 2-16,Initiated Measure 28,,No,,1737
+Lincoln,Sioux Falls 2-16,Initiated Measure 29,,Yes,,1371
+Lincoln,Sioux Falls 2-16,Initiated Measure 29,,No,,1413
+Lincoln,Sioux Falls 2-16,Referred Law 21,,Yes,,1184
+Lincoln,Sioux Falls 2-16,Referred Law 21,,No,,1417

@@ -104,6 +104,9 @@ Tripp,WINNER Consolidated SE 1ST,Public Utilities Commissioner,,Kristie Fiegen,R
 Tripp,WINNER Consolidated-E 2ND,Public Utilities Commissioner,,Forrest Wilson,DEM,26
 Tripp,WINNER Consolidated-E 2ND,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
 Tripp,WINNER Consolidated-E 2ND,Public Utilities Commissioner,,Kristie Fiegen,REP,199
+Tripp,WINNER Consolidated-E 3RD,Public Utilities Commissioner,,Forrest Wilson,DEM,45
+Tripp,WINNER Consolidated-E 3RD,Public Utilities Commissioner,,A. Gideon Oakes,LIB,5
+Tripp,WINNER Consolidated-E 3RD,Public Utilities Commissioner,,Kristie Fiegen,REP,250
 Tripp,WINNER Consolidated-W 2ND,Public Utilities Commissioner,,Forrest Wilson,DEM,68
 Tripp,WINNER Consolidated-W 2ND,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
 Tripp,WINNER Consolidated-W 2ND,Public Utilities Commissioner,,Kristie Fiegen,REP,245
@@ -131,16 +134,14 @@ Tripp,WINNER Consolidated SE 1ST,State Senate,21,Dan Andersson,DEM,23
 Tripp,WINNER Consolidated SE 1ST,State Senate,21,Mykala Voita,REP,100
 Tripp,WINNER Consolidated-E 2ND,State Senate,21,Dan Andersson,DEM,39
 Tripp,WINNER Consolidated-E 2ND,State Senate,21,Mykala Voita,REP,190
+Tripp,WINNER Consolidated-E 3RD,State Senate,21,Dan Andersson,DEM,59
+Tripp,WINNER Consolidated-E 3RD,State Senate,21,Mykala Voita,REP,244
 Tripp,WINNER Consolidated-W 2ND,State Senate,21,Dan Andersson,DEM,82
 Tripp,WINNER Consolidated-W 2ND,State Senate,21,Mykala Voita,REP,244
 Tripp,WINNER Consolidated-W 3RD,State Senate,21,Dan Andersson,DEM,40
 Tripp,WINNER Consolidated-W 3RD,State Senate,21,Mykala Voita,REP,127
 Tripp,Witten Consolidated,State Senate,21,Dan Andersson,DEM,21
 Tripp,Witten Consolidated,State Senate,21,Mykala Voita,REP,82
-Tripp,WINNER Consolidated SE,State Senate,21,Dan Andersson,DEM,23
-Tripp,WINNER Consolidated SE,State Senate,21,Mykala Voita,REP,100
-Tripp,WINNER Consolidated-E 1ST,State Senate,21,Dan Andersson,DEM,39
-Tripp,WINNER Consolidated-E 1ST,State Senate,21,Mykala Voita,REP,190
 Tripp,Clearfield Consolidated,State House,21,Jim Halverson,REP,117
 Tripp,Clearfield Consolidated,State House,21,Marty Overweg,REP,96
 Tripp,Colome Consolidated,State House,21,Jim Halverson,REP,288
@@ -167,55 +168,237 @@ Tripp,WINNER Consolidated-W 3RD,State House,21,Jim Halverson,REP,141
 Tripp,WINNER Consolidated-W 3RD,State House,21,Marty Overweg,REP,65
 Tripp,Witten Consolidated,State House,21,Jim Halverson,REP,86
 Tripp,Witten Consolidated,State House,21,Marty Overweg,REP,44
-Tripp,Winner Consolidated SE,State House,21,Jim Halverson,REP,104
-Tripp,Winner Consolidated SE,State House,21,Marty Overweg,REP,58
-Tripp,Winner Consolidated-E,State House,21,Jim Halverson,REP,207
-Tripp,Winner Consolidated-E,State House,21,Marty Overweg,REP,92
-Tripp,Winner Consolidated-W,State House,21,Jim Halverson,REP,281
-Tripp,Winner Consolidated-W,State House,21,Marty Overweg,REP,144
-Tripp,Clearfield Consolidated,Supreme Court Retention,,Yes,,113
-Tripp,Clearfield Consolidated,Supreme Court Retention,,No,,23
-Tripp,Colome Consolidated,Supreme Court Retention,,Yes,,264
-Tripp,Colome Consolidated,Supreme Court Retention,,No,,67
-Tripp,Hamill Consolidated,Supreme Court Retention,,Yes,,59
-Tripp,Hamill Consolidated,Supreme Court Retention,,No,,16
-Tripp,Ideal Consolidated,Supreme Court Retention,,Yes,,47
-Tripp,Ideal Consolidated,Supreme Court Retention,,No,,19
-Tripp,Lake Consolidated,Supreme Court Retention,,Yes,,108
-Tripp,Lake Consolidated,Supreme Court Retention,,No,,30
-Tripp,Lamro Consolidated,Supreme Court Retention,,Yes,,241
-Tripp,Lamro Consolidated,Supreme Court Retention,,No,,52
-Tripp,Sully Consolidated,Supreme Court Retention,,Yes,,82
-Tripp,Sully Consolidated,Supreme Court Retention,,No,,22
-Tripp,Winner Consolidated SE,Supreme Court Retention,,Yes,,91
-Tripp,Winner Consolidated SE,Supreme Court Retention,,No,,21
-Tripp,Winner Consolidated-E,Supreme Court Retention,,Yes,,178
-Tripp,Winner Consolidated-E,Supreme Court Retention,,No,,32
-Tripp,Winner Consolidated-W,Supreme Court Retention,,Yes,,240
-Tripp,Winner Consolidated-W,Supreme Court Retention,,No,,57
-Tripp,Witten Consolidated,Supreme Court Retention,,Yes,,73
-Tripp,Witten Consolidated,Supreme Court Retention,,No,,16
-Tripp,Clearfield Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,113
-Tripp,Clearfield Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,23
-Tripp,Colome Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,264
-Tripp,Colome Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,67
-Tripp,Hamill Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,59
-Tripp,Hamill Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,16
-Tripp,Ideal Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,47
-Tripp,Ideal Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,19
-Tripp,Lake Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,108
-Tripp,Lake Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,30
-Tripp,Lamro Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,241
-Tripp,Lamro Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,52
-Tripp,Sully Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,82
-Tripp,Sully Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,22
-Tripp,Winner Consolidated SE 1st,Supreme Court Retention,,Justice Scott P. Myren - Yes,,91
-Tripp,Winner Consolidated SE 1st,Supreme Court Retention,,Justice Scott P. Myren - No,,21
-Tripp,Winner Consolidated-E 2nd,Supreme Court Retention,,Justice Scott P. Myren - Yes,,178
-Tripp,Winner Consolidated-E 2nd,Supreme Court Retention,,Justice Scott P. Myren - No,,32
-Tripp,Winner Consolidated-W 2nd,Supreme Court Retention,,Justice Scott P. Myren - Yes,,221
-Tripp,Winner Consolidated-W 2nd,Supreme Court Retention,,Justice Scott P. Myren - No,,52
-Tripp,Winner Consolidated-W 3rd,Supreme Court Retention,,Justice Scott P. Myren - Yes,,240
-Tripp,Winner Consolidated-W 3rd,Supreme Court Retention,,Justice Scott P. Myren - No,,57
-Tripp,Witten Consolidated,Supreme Court Retention,,Justice Scott P. Myren - Yes,,73
-Tripp,Witten Consolidated,Supreme Court Retention,,Justice Scott P. Myren - No,,16
+Tripp,Clearfield Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,113
+Tripp,Clearfield Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,23
+Tripp,Colome Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,264
+Tripp,Colome Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,67
+Tripp,Hamill Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,59
+Tripp,Hamill Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,16
+Tripp,Ideal Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,47
+Tripp,Ideal Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,19
+Tripp,Lake Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,108
+Tripp,Lake Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,30
+Tripp,Lamro Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,241
+Tripp,Lamro Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,52
+Tripp,Sully Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,82
+Tripp,Sully Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,22
+Tripp,WINNER Consolidated SE 1ST,Supreme Court Retention,5,Scott P. Myren - Yes,,91
+Tripp,WINNER Consolidated SE 1ST,Supreme Court Retention,5,Scott P. Myren - No,,21
+Tripp,WINNER Consolidated-E 2ND,Supreme Court Retention,5,Scott P. Myren - Yes,,178
+Tripp,WINNER Consolidated-E 2ND,Supreme Court Retention,5,Scott P. Myren - No,,32
+Tripp,WINNER Consolidated-E 3RD,Supreme Court Retention,5,Scott P. Myren - Yes,,221
+Tripp,WINNER Consolidated-E 3RD,Supreme Court Retention,5,Scott P. Myren - No,,52
+Tripp,WINNER Consolidated-W 2ND,Supreme Court Retention,5,Scott P. Myren - Yes,,240
+Tripp,WINNER Consolidated-W 2ND,Supreme Court Retention,5,Scott P. Myren - No,,57
+Tripp,WINNER Consolidated-W 3RD,Supreme Court Retention,5,Scott P. Myren - Yes,,130
+Tripp,WINNER Consolidated-W 3RD,Supreme Court Retention,5,Scott P. Myren - No,,28
+Tripp,Witten Consolidated,Supreme Court Retention,5,Scott P. Myren - Yes,,73
+Tripp,Witten Consolidated,Supreme Court Retention,5,Scott P. Myren - No,,16
+Tripp,Clearfield Consolidated,Constitutional Amendment E,,Yes,,33
+Tripp,Clearfield Consolidated,Constitutional Amendment E,,No,,138
+Tripp,Clearfield Consolidated,Constitutional Amendment F,,Yes,,97
+Tripp,Clearfield Consolidated,Constitutional Amendment F,,No,,73
+Tripp,Clearfield Consolidated,Constitutional Amendment G,,Yes,,38
+Tripp,Clearfield Consolidated,Constitutional Amendment G,,No,,133
+Tripp,Clearfield Consolidated,Constitutional Amendment H,,Yes,,33
+Tripp,Clearfield Consolidated,Constitutional Amendment H,,No,,136
+Tripp,Clearfield Consolidated,Constitutional Amendment I,,Yes,,28
+Tripp,Clearfield Consolidated,Constitutional Amendment I,,No,,140
+Tripp,Clearfield Consolidated,Initiated Measure 29,,Yes,,36
+Tripp,Clearfield Consolidated,Initiated Measure 29,,No,,132
+Tripp,Clearfield Consolidated,Referred Law 21,,Yes,,32
+Tripp,Clearfield Consolidated,Referred Law 21,,No,,137
+Tripp,Colome Consolidated,Constitutional Amendment E,,Yes,,71
+Tripp,Colome Consolidated,Constitutional Amendment E,,No,,324
+Tripp,Colome Consolidated,Constitutional Amendment F,,Yes,,220
+Tripp,Colome Consolidated,Constitutional Amendment F,,No,,183
+Tripp,Colome Consolidated,Constitutional Amendment G,,Yes,,61
+Tripp,Colome Consolidated,Constitutional Amendment G,,No,,336
+Tripp,Colome Consolidated,Constitutional Amendment H,,Yes,,65
+Tripp,Colome Consolidated,Constitutional Amendment H,,No,,330
+Tripp,Colome Consolidated,Constitutional Amendment I,,Yes,,51
+Tripp,Colome Consolidated,Constitutional Amendment I,,No,,344
+Tripp,Colome Consolidated,Initiated Measure 29,,Yes,,77
+Tripp,Colome Consolidated,Initiated Measure 29,,No,,324
+Tripp,Colome Consolidated,Referred Law 21,,Yes,,64
+Tripp,Colome Consolidated,Referred Law 21,,No,,324
+Tripp,Hamill Consolidated,Constitutional Amendment E,,Yes,,29
+Tripp,Hamill Consolidated,Constitutional Amendment E,,No,,64
+Tripp,Hamill Consolidated,Constitutional Amendment F,,Yes,,42
+Tripp,Hamill Consolidated,Constitutional Amendment F,,No,,48
+Tripp,Hamill Consolidated,Constitutional Amendment G,,Yes,,15
+Tripp,Hamill Consolidated,Constitutional Amendment G,,No,,78
+Tripp,Hamill Consolidated,Constitutional Amendment H,,Yes,,15
+Tripp,Hamill Consolidated,Constitutional Amendment H,,No,,76
+Tripp,Hamill Consolidated,Constitutional Amendment I,,Yes,,13
+Tripp,Hamill Consolidated,Constitutional Amendment I,,No,,76
+Tripp,Hamill Consolidated,Initiated Measure 29,,Yes,,18
+Tripp,Hamill Consolidated,Initiated Measure 29,,No,,75
+Tripp,Hamill Consolidated,Referred Law 21,,Yes,,16
+Tripp,Hamill Consolidated,Referred Law 21,,No,,73
+Tripp,Ideal Consolidated,Constitutional Amendment E,,Yes,,14
+Tripp,Ideal Consolidated,Constitutional Amendment E,,No,,62
+Tripp,Ideal Consolidated,Constitutional Amendment F,,Yes,,42
+Tripp,Ideal Consolidated,Constitutional Amendment F,,No,,35
+Tripp,Ideal Consolidated,Constitutional Amendment G,,Yes,,14
+Tripp,Ideal Consolidated,Constitutional Amendment G,,No,,61
+Tripp,Ideal Consolidated,Constitutional Amendment H,,Yes,,12
+Tripp,Ideal Consolidated,Constitutional Amendment H,,No,,62
+Tripp,Ideal Consolidated,Constitutional Amendment I,,Yes,,13
+Tripp,Ideal Consolidated,Constitutional Amendment I,,No,,62
+Tripp,Ideal Consolidated,Initiated Measure 29,,Yes,,12
+Tripp,Ideal Consolidated,Initiated Measure 29,,No,,63
+Tripp,Ideal Consolidated,Referred Law 21,,Yes,,18
+Tripp,Ideal Consolidated,Referred Law 21,,No,,57
+Tripp,Lake Consolidated,Constitutional Amendment E,,Yes,,33
+Tripp,Lake Consolidated,Constitutional Amendment E,,No,,133
+Tripp,Lake Consolidated,Constitutional Amendment F,,Yes,,93
+Tripp,Lake Consolidated,Constitutional Amendment F,,No,,66
+Tripp,Lake Consolidated,Constitutional Amendment G,,Yes,,30
+Tripp,Lake Consolidated,Constitutional Amendment G,,No,,138
+Tripp,Lake Consolidated,Constitutional Amendment H,,Yes,,29
+Tripp,Lake Consolidated,Constitutional Amendment H,,No,,138
+Tripp,Lake Consolidated,Constitutional Amendment I,,Yes,,34
+Tripp,Lake Consolidated,Constitutional Amendment I,,No,,134
+Tripp,Lake Consolidated,Initiated Measure 29,,Yes,,26
+Tripp,Lake Consolidated,Initiated Measure 29,,No,,143
+Tripp,Lake Consolidated,Referred Law 21,,Yes,,27
+Tripp,Lake Consolidated,Referred Law 21,,No,,139
+Tripp,Lamro Consolidated,Constitutional Amendment E,,Yes,,94
+Tripp,Lamro Consolidated,Constitutional Amendment E,,No,,243
+Tripp,Lamro Consolidated,Constitutional Amendment F,,Yes,,194
+Tripp,Lamro Consolidated,Constitutional Amendment F,,No,,143
+Tripp,Lamro Consolidated,Constitutional Amendment G,,Yes,,80
+Tripp,Lamro Consolidated,Constitutional Amendment G,,No,,261
+Tripp,Lamro Consolidated,Constitutional Amendment H,,Yes,,66
+Tripp,Lamro Consolidated,Constitutional Amendment H,,No,,274
+Tripp,Lamro Consolidated,Constitutional Amendment I,,Yes,,49
+Tripp,Lamro Consolidated,Constitutional Amendment I,,No,,286
+Tripp,Lamro Consolidated,Initiated Measure 29,,Yes,,68
+Tripp,Lamro Consolidated,Initiated Measure 29,,No,,268
+Tripp,Lamro Consolidated,Referred Law 21,,Yes,,84
+Tripp,Lamro Consolidated,Referred Law 21,,No,,253
+Tripp,Sully Consolidated,Constitutional Amendment E,,Yes,,39
+Tripp,Sully Consolidated,Constitutional Amendment E,,No,,73
+Tripp,Sully Consolidated,Constitutional Amendment F,,Yes,,60
+Tripp,Sully Consolidated,Constitutional Amendment F,,No,,53
+Tripp,Sully Consolidated,Constitutional Amendment G,,Yes,,29
+Tripp,Sully Consolidated,Constitutional Amendment G,,No,,84
+Tripp,Sully Consolidated,Constitutional Amendment H,,Yes,,24
+Tripp,Sully Consolidated,Constitutional Amendment H,,No,,88
+Tripp,Sully Consolidated,Constitutional Amendment I,,Yes,,16
+Tripp,Sully Consolidated,Constitutional Amendment I,,No,,96
+Tripp,Sully Consolidated,Initiated Measure 29,,Yes,,25
+Tripp,Sully Consolidated,Initiated Measure 29,,No,,88
+Tripp,Sully Consolidated,Referred Law 21,,Yes,,25
+Tripp,Sully Consolidated,Referred Law 21,,No,,87
+Tripp,WINNER Consolidated SE,Constitutional Amendment E,,Yes,,44
+Tripp,WINNER Consolidated SE,Constitutional Amendment E,,No,,86
+Tripp,WINNER Consolidated SE,Constitutional Amendment F,,Yes,,68
+Tripp,WINNER Consolidated SE,Constitutional Amendment F,,No,,59
+Tripp,WINNER Consolidated SE,Constitutional Amendment G,,Yes,,36
+Tripp,WINNER Consolidated SE,Constitutional Amendment G,,No,,94
+Tripp,WINNER Consolidated SE,Constitutional Amendment H,,Yes,,27
+Tripp,WINNER Consolidated SE,Constitutional Amendment H,,No,,98
+Tripp,WINNER Consolidated SE,Constitutional Amendment I,,Yes,,14
+Tripp,WINNER Consolidated SE,Constitutional Amendment I,,No,,113
+Tripp,WINNER Consolidated SE,Initiated Measure 29,,Yes,,33
+Tripp,WINNER Consolidated SE,Initiated Measure 29,,No,,96
+Tripp,WINNER Consolidated SE,Referred Law 21,,Yes,,27
+Tripp,WINNER Consolidated SE,Referred Law 21,,No,,96
+Tripp,WINNER Consolidated-E,Constitutional Amendment E,,Yes,,59
+Tripp,WINNER Consolidated-E,Constitutional Amendment E,,No,,179
+Tripp,WINNER Consolidated-E,Constitutional Amendment F,,Yes,,148
+Tripp,WINNER Consolidated-E,Constitutional Amendment F,,No,,91
+Tripp,WINNER Consolidated-E,Constitutional Amendment G,,Yes,,60
+Tripp,WINNER Consolidated-E,Constitutional Amendment G,,No,,178
+Tripp,WINNER Consolidated-E,Constitutional Amendment H,,Yes,,50
+Tripp,WINNER Consolidated-E,Constitutional Amendment H,,No,,189
+Tripp,WINNER Consolidated-E,Constitutional Amendment I,,Yes,,32
+Tripp,WINNER Consolidated-E,Constitutional Amendment I,,No,,209
+Tripp,WINNER Consolidated-E,Initiated Measure 29,,Yes,,67
+Tripp,WINNER Consolidated-E,Initiated Measure 29,,No,,171
+Tripp,WINNER Consolidated-E,Referred Law 21,,Yes,,63
+Tripp,WINNER Consolidated-E,Referred Law 21,,No,,177
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment E,,Yes,,94
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment E,,No,,221
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment F,,Yes,,168
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment F,,No,,147
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment G,,Yes,,90
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment G,,No,,224
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment H,,Yes,,70
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment H,,No,,243
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment I,,Yes,,47
+Tripp,WINNER Consolidated-E (MD),Constitutional Amendment I,,No,,265
+Tripp,WINNER Consolidated-E (MD),Initiated Measure 29,,Yes,,90
+Tripp,WINNER Consolidated-E (MD),Initiated Measure 29,,No,,224
+Tripp,WINNER Consolidated-E (MD),Referred Law 21,,Yes,,89
+Tripp,WINNER Consolidated-E (MD),Referred Law 21,,No,,218
+Tripp,WINNER Consolidated-W,Constitutional Amendment E,,Yes,,117
+Tripp,WINNER Consolidated-W,Constitutional Amendment E,,No,,216
+Tripp,WINNER Consolidated-W,Constitutional Amendment F,,Yes,,177
+Tripp,WINNER Consolidated-W,Constitutional Amendment F,,No,,160
+Tripp,WINNER Consolidated-W,Constitutional Amendment G,,Yes,,106
+Tripp,WINNER Consolidated-W,Constitutional Amendment G,,No,,237
+Tripp,WINNER Consolidated-W,Constitutional Amendment H,,Yes,,81
+Tripp,WINNER Consolidated-W,Constitutional Amendment H,,No,,255
+Tripp,WINNER Consolidated-W,Constitutional Amendment I,,Yes,,69
+Tripp,WINNER Consolidated-W,Constitutional Amendment I,,No,,265
+Tripp,WINNER Consolidated-W,Initiated Measure 29,,Yes,,109
+Tripp,WINNER Consolidated-W,Initiated Measure 29,,No,,231
+Tripp,WINNER Consolidated-W,Referred Law 21,,Yes,,115
+Tripp,WINNER Consolidated-W,Referred Law 21,,No,,218
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment E,,Yes,,62
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment E,,No,,112
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment F,,Yes,,94
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment F,,No,,81
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment G,,Yes,,52
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment G,,No,,122
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment H,,Yes,,53
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment H,,No,,121
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment I,,Yes,,44
+Tripp,WINNER Consolidated-W (MD),Constitutional Amendment I,,No,,131
+Tripp,WINNER Consolidated-W (MD),Initiated Measure 29,,Yes,,60
+Tripp,WINNER Consolidated-W (MD),Initiated Measure 29,,No,,115
+Tripp,WINNER Consolidated-W (MD),Referred Law 21,,Yes,,55
+Tripp,WINNER Consolidated-W (MD),Referred Law 21,,No,,119
+Tripp,Witten Consolidated,Constitutional Amendment E,,Yes,,29
+Tripp,Witten Consolidated,Constitutional Amendment E,,No,,81
+Tripp,Witten Consolidated,Constitutional Amendment F,,Yes,,46
+Tripp,Witten Consolidated,Constitutional Amendment F,,No,,65
+Tripp,Witten Consolidated,Constitutional Amendment G,,Yes,,33
+Tripp,Witten Consolidated,Constitutional Amendment G,,No,,78
+Tripp,Witten Consolidated,Constitutional Amendment H,,Yes,,19
+Tripp,Witten Consolidated,Constitutional Amendment H,,No,,92
+Tripp,Witten Consolidated,Constitutional Amendment I,,Yes,,25
+Tripp,Witten Consolidated,Constitutional Amendment I,,No,,86
+Tripp,Witten Consolidated,Initiated Measure 29,,Yes,,28
+Tripp,Witten Consolidated,Initiated Measure 29,,No,,84
+Tripp,Witten Consolidated,Referred Law 21,,Yes,,25
+Tripp,Witten Consolidated,Referred Law 21,,No,,83
+Tripp,Clearfield Consolidated,Initiated Measure 28,,Yes,,28
+Tripp,Clearfield Consolidated,Initiated Measure 28,,No,,142
+Tripp,Colome Consolidated,Initiated Measure 28,,Yes,,65
+Tripp,Colome Consolidated,Initiated Measure 28,,No,,329
+Tripp,Hamill Consolidated,Initiated Measure 28,,Yes,,15
+Tripp,Hamill Consolidated,Initiated Measure 28,,No,,77
+Tripp,Ideal Consolidated,Initiated Measure 28,,Yes,,12
+Tripp,Ideal Consolidated,Initiated Measure 28,,No,,63
+Tripp,Lake Consolidated,Initiated Measure 28,,Yes,,27
+Tripp,Lake Consolidated,Initiated Measure 28,,No,,139
+Tripp,Lamro Consolidated,Initiated Measure 28,,Yes,,55
+Tripp,Lamro Consolidated,Initiated Measure 28,,No,,281
+Tripp,Sully Consolidated,Initiated Measure 28,,Yes,,18
+Tripp,Sully Consolidated,Initiated Measure 28,,No,,93
+Tripp,WINNER Consolidated SE,Initiated Measure 28,,Yes,,21
+Tripp,WINNER Consolidated SE,Initiated Measure 28,,No,,108
+Tripp,WINNER Consolidated-E,Initiated Measure 28,,Yes,,39
+Tripp,WINNER Consolidated-E,Initiated Measure 28,,No,,198
+Tripp,WINNER Consolidated-E (MD),Initiated Measure 28,,Yes,,51
+Tripp,WINNER Consolidated-E (MD),Initiated Measure 28,,No,,261
+Tripp,WINNER Consolidated-W,Initiated Measure 28,,Yes,,55
+Tripp,WINNER Consolidated-W,Initiated Measure 28,,No,,281
+Tripp,WINNER Consolidated-W (MD),Initiated Measure 28,,Yes,,28
+Tripp,WINNER Consolidated-W (MD),Initiated Measure 28,,No,,144
+Tripp,Witten Consolidated,Initiated Measure 28,,Yes,,21
+Tripp,Witten Consolidated,Initiated Measure 28,,No,,91

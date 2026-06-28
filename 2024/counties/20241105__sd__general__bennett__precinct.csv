@@ -1,28 +1,28 @@
 county,precinct,office,district,candidate,party,votes
 Bennett,Allen Precinct,President,,Kamala D. Harris and Tim Walz,DEM,177
-Bennett,Allen Precinct,President,,Chase Oliver and Mike Maat,LIB,3
+Bennett,Allen Precinct,President,,Chase Oliver and Mike ter Maat,LIB,3
 Bennett,Allen Precinct,President,,Donald J. Trump and JD Vance,REP,70
-Bennett,Allen Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,7
+Bennett,Allen Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
 Bennett,Martin City Precinct,President,,Kamala D. Harris and Tim Walz,DEM,115
-Bennett,Martin City Precinct,President,,Chase Oliver and Mike Maat,LIB,0
+Bennett,Martin City Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
 Bennett,Martin City Precinct,President,,Donald J. Trump and JD Vance,REP,188
-Bennett,Martin City Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,5
+Bennett,Martin City Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
 Bennett,Martin Rural 26/27 Precinct,President,,Kamala D. Harris and Tim Walz,DEM,87
-Bennett,Martin Rural 26/27 Precinct,President,,Chase Oliver and Mike Maat,LIB,1
+Bennett,Martin Rural 26/27 Precinct,President,,Chase Oliver and Mike ter Maat,LIB,1
 Bennett,Martin Rural 26/27 Precinct,President,,Donald J. Trump and JD Vance,REP,276
-Bennett,Martin Rural 26/27 Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,4
+Bennett,Martin Rural 26/27 Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Bennett,Vetal/Tuthill Precinct,President,,Kamala D. Harris and Tim Walz,DEM,10
-Bennett,Vetal/Tuthill Precinct,President,,Chase Oliver and Mike Maat,LIB,0
+Bennett,Vetal/Tuthill Precinct,President,,Chase Oliver and Mike ter Maat,LIB,0
 Bennett,Vetal/Tuthill Precinct,President,,Donald J. Trump and JD Vance,REP,142
-Bennett,Vetal/Tuthill Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shannah",IND,3
+Bennett,Vetal/Tuthill Precinct,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Bennett,Allen Precinct,U.S. House,1,Sheryl Johnson,DEM,159
 Bennett,Allen Precinct,U.S. House,1,Dusty Johnson,REP,91
 Bennett,Martin City Precinct,U.S. House,1,Sheryl Johnson,DEM,98
 Bennett,Martin City Precinct,U.S. House,1,Dusty Johnson,REP,205
 Bennett,Martin Rural 26/27 Precinct,U.S. House,1,Sheryl Johnson,DEM,66
 Bennett,Martin Rural 26/27 Precinct,U.S. House,1,Dusty Johnson,REP,296
-Bennett,Vetal/Ruthill Precinct,U.S. House,1,Sheryl Johnson,DEM,11
-Bennett,Vetal/Ruthill Precinct,U.S. House,1,Dusty Johnson,REP,138
+Bennett,Vetal/Tuthill Precinct,U.S. House,1,Sheryl Johnson,DEM,11
+Bennett,Vetal/Tuthill Precinct,U.S. House,1,Dusty Johnson,REP,138
 Bennett,Allen Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM,169
 Bennett,Allen Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
 Bennett,Allen Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,53
@@ -36,33 +36,33 @@ Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,Forrest Wilson,DEM
 Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
 Bennett,Vetal/Tuthill Precinct,Public Utilities Commissioner,,Kristie Fiegen,REP,130
 Bennett,Allen Precinct,State Senate,27,Red Dawn Foster,DEM,179
-Bennett,Allen Precinct,State Senate,27,Anthony G. Kothal,REP,75
+Bennett,Allen Precinct,State Senate,27,Anthony G. Kathol,REP,75
 Bennett,Martin City Precinct,State Senate,27,Red Dawn Foster,DEM,111
-Bennett,Martin City Precinct,State Senate,27,Anthony G. Kothal,REP,193
+Bennett,Martin City Precinct,State Senate,27,Anthony G. Kathol,REP,193
 Bennett,Martin Rural 26/27 Precinct,State Senate,27,Red Dawn Foster,DEM,86
-Bennett,Martin Rural 26/27 Precinct,State Senate,27,Anthony G. Kothal,REP,271
+Bennett,Martin Rural 26/27 Precinct,State Senate,27,Anthony G. Kathol,REP,271
 Bennett,Vetal/Tuthill Precinct,State Senate,27,Red Dawn Foster,DEM,15
-Bennett,Vetal/Tuthill Precinct,State Senate,27,Anthony G. Kothal,REP,135
-Bennett,Allen Precinct,State House,27,Peri Pourier,DEM,173
+Bennett,Vetal/Tuthill Precinct,State Senate,27,Anthony G. Kathol,REP,135
+Bennett,Allen Precinct,State House,27,Peri Pourier,DEM,80
 Bennett,Allen Precinct,State House,27,Elsie Meeks,DEM,124
-Bennett,Allen Precinct,State House,27,Liz May,REP,80
-Bennett,Martin City Precinct,State House,27,Peri Pourier,DEM,98
+Bennett,Allen Precinct,State House,27,Liz May,REP,173
+Bennett,Martin City Precinct,State House,27,Peri Pourier,DEM,209
 Bennett,Martin City Precinct,State House,27,Elsie Meeks,DEM,141
-Bennett,Martin City Precinct,State House,27,Liz May,REP,209
-Bennett,Martin Rural 26/27 Precinct,State House,27,Peri Pourier,DEM,74
+Bennett,Martin City Precinct,State House,27,Liz May,REP,98
+Bennett,Martin Rural 26/27 Precinct,State House,27,Peri Pourier,DEM,285
 Bennett,Martin Rural 26/27 Precinct,State House,27,Elsie Meeks,DEM,136
-Bennett,Martin Rural 26/27 Precinct,State House,27,Liz May,REP,285
-Bennett,Vetal/Tuthill Precinct,State House,27,Peri Pourier,DEM,14
+Bennett,Martin Rural 26/27 Precinct,State House,27,Liz May,REP,74
+Bennett,Vetal/Tuthill Precinct,State House,27,Peri Pourier,DEM,136
 Bennett,Vetal/Tuthill Precinct,State House,27,Elsie Meeks,DEM,47
-Bennett,Vetal/Tuthill Precinct,State House,27,Liz May,REP,136
-Bennett,Allen Precinct,Supreme Court Retention,5,Yes,,126
-Bennett,Allen Precinct,Supreme Court Retention,5,No,,76
-Bennett,Martin City Precinct,Supreme Court Retention,5,Yes,,199
-Bennett,Martin City Precinct,Supreme Court Retention,5,No,,64
-Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,Yes,,203
-Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,No,,94
-Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,Yes,,101
-Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,No,,23
+Bennett,Vetal/Tuthill Precinct,State House,27,Liz May,REP,14
+Bennett,Allen Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,126
+Bennett,Allen Precinct,Supreme Court Retention,5,Scott P. Myren - No,,76
+Bennett,Martin City Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,199
+Bennett,Martin City Precinct,Supreme Court Retention,5,Scott P. Myren - No,,64
+Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,203
+Bennett,Martin Rural 26/27 Precinct,Supreme Court Retention,5,Scott P. Myren - No,,94
+Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,Scott P. Myren - Yes,,101
+Bennett,Vetal/Tuthill Precinct,Supreme Court Retention,5,Scott P. Myren - No,,23
 Bennett,Allen Precinct,Constitutional Amendment E,,Yes,,116
 Bennett,Allen Precinct,Constitutional Amendment E,,No,,124
 Bennett,Allen Precinct,Constitutional Amendment F,,Yes,,98

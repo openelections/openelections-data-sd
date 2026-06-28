@@ -1,54 +1,44 @@
 county,precinct,office,district,candidate,party,votes
-Walworth,01,President,,Kamala D. Harris and Tim Walz,DEM,17
-Walworth,01,President,,Chase Oliver and Mike Maat,LIB,1
+Walworth,01,President,,Kamala D. Harris and Tim Walz,DEM,12
+Walworth,01,President,,Chase Oliver and Mike ter Maat,LIB,1
 Walworth,01,President,,Donald J. Trump and JD Vance,REP,124
 Walworth,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Walworth,02,President,,Kamala D. Harris and Tim Walz,DEM,25
-Walworth,02,President,,Chase Oliver and Mike Maat,LIB,1
+Walworth,02,President,,Chase Oliver and Mike ter Maat,LIB,1
 Walworth,02,President,,Donald J. Trump and JD Vance,REP,125
 Walworth,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Walworth,03,President,,Kamala D. Harris and Tim Walz,DEM,44
-Walworth,03,President,,Chase Oliver and Mike Maat,LIB,1
+Walworth,03,President,,Chase Oliver and Mike ter Maat,LIB,1
 Walworth,03,President,,Donald J. Trump and JD Vance,REP,365
 Walworth,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
-Walworth,04,President,,Kamala D. Harris and Tim Walz,DEM,65
-Walworth,04,President,,Chase Oliver and Mike Maat,LIB,1
-Walworth,04,President,,Donald J. Trump and JD Vance,REP,173
+Walworth,04,President,,Kamala D. Harris and Tim Walz,DEM,45
+Walworth,04,President,,Chase Oliver and Mike ter Maat,LIB,1
+Walworth,04,President,,Donald J. Trump and JD Vance,REP,123
 Walworth,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,3
 Walworth,05,President,,Kamala D. Harris and Tim Walz,DEM,83
-Walworth,05,President,,Chase Oliver and Mike Maat,LIB,1
-Walworth,05,President,,Donald J. Trump and JD Vance,REP,230
+Walworth,05,President,,Chase Oliver and Mike ter Maat,LIB,1
+Walworth,05,President,,Donald J. Trump and JD Vance,REP,250
 Walworth,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Walworth,06,President,,Kamala D. Harris and Tim Walz,DEM,137
-Walworth,06,President,,Chase Oliver and Mike Maat,LIB,5
+Walworth,06,President,,Chase Oliver and Mike ter Maat,LIB,5
 Walworth,06,President,,Donald J. Trump and JD Vance,REP,319
 Walworth,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Walworth,07,President,,Kamala D. Harris and Tim Walz,DEM,104
-Walworth,07,President,,Chase Oliver and Mike Maat,LIB,5
+Walworth,07,President,,Kamala D. Harris and Tim Walz,DEM,101
+Walworth,07,President,,Chase Oliver and Mike ter Maat,LIB,5
 Walworth,07,President,,Donald J. Trump and JD Vance,REP,342
 Walworth,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,9
 Walworth,08,President,,Kamala D. Harris and Tim Walz,DEM,5
-Walworth,08,President,,Chase Oliver and Mike Maat,LIB,0
+Walworth,08,President,,Chase Oliver and Mike ter Maat,LIB,0
 Walworth,08,President,,Donald J. Trump and JD Vance,REP,81
-Walworth,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Walworth,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Walworth,09,President,,Kamala D. Harris and Tim Walz,DEM,14
-Walworth,09,President,,Chase Oliver and Mike Maat,LIB,0
+Walworth,09,President,,Chase Oliver and Mike ter Maat,LIB,0
 Walworth,09,President,,Donald J. Trump and JD Vance,REP,67
 Walworth,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Walworth,10,President,,Kamala D. Harris and Tim Walz,DEM,15
-Walworth,10,President,,Chase Oliver and Mike Maat,LIB,0
+Walworth,10,President,,Chase Oliver and Mike ter Maat,LIB,1
 Walworth,10,President,,Donald J. Trump and JD Vance,REP,144
 Walworth,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Walworth,01,President,,Chase Oliver and Mike ter Maat,LIB,1
-Walworth,02,President,,Chase Oliver and Mike ter Maat,LIB,1
-Walworth,03,President,,Chase Oliver and Mike ter Maat,LIB,1
-Walworth,04,President,,Chase Oliver and Mike ter Maat,LIB,1
-Walworth,05,President,,Chase Oliver and Mike ter Maat,LIB,1
-Walworth,06,President,,Chase Oliver and Mike ter Maat,LIB,5
-Walworth,07,President,,Chase Oliver and Mike ter Maat,LIB,5
-Walworth,08,President,,Chase Oliver and Mike ter Maat,LIB,0
-Walworth,09,President,,Chase Oliver and Mike ter Maat,LIB,0
-Walworth,10,President,,Chase Oliver and Mike ter Maat,LIB,0
 Walworth,01,U.S. House,1,Sheryl Johnson,DEM,13
 Walworth,01,U.S. House,1,Dusty Johnson,REP,123
 Walworth,02,U.S. House,1,Sheryl Johnson,DEM,22
@@ -129,44 +119,26 @@ Walworth,09,State House,23,Scott Moore,REP,33
 Walworth,09,State House,23,Spencer Gosch,REP,60
 Walworth,10,State House,23,Scott Moore,REP,91
 Walworth,10,State House,23,Spencer Gosch,REP,131
-Walworth,1,Supreme Court Retention,,Yes,,105
-Walworth,1,Supreme Court Retention,,No,,14
-Walworth,2,Supreme Court Retention,,Yes,,114
-Walworth,2,Supreme Court Retention,,No,,22
-Walworth,3,Supreme Court Retention,,Yes,,336
-Walworth,3,Supreme Court Retention,,No,,29
-Walworth,4,Supreme Court Retention,,Yes,,131
-Walworth,4,Supreme Court Retention,,No,,21
-Walworth,5,Supreme Court Retention,,Yes,,241
-Walworth,5,Supreme Court Retention,,No,,67
-Walworth,6,Supreme Court Retention,,Yes,,350
-Walworth,6,Supreme Court Retention,,No,,50
-Walworth,7,Supreme Court Retention,,Yes,,364
-Walworth,7,Supreme Court Retention,,No,,50
-Walworth,8,Supreme Court Retention,,Yes,,63
-Walworth,8,Supreme Court Retention,,No,,11
-Walworth,9,Supreme Court Retention,,Yes,,61
-Walworth,9,Supreme Court Retention,,No,,7
-Walworth,10,Supreme Court Retention,,Yes,,126
-Walworth,10,Supreme Court Retention,,No,,19
-Walworth,01,Supreme Court Retention,,Yes,,105
-Walworth,01,Supreme Court Retention,,No,,14
-Walworth,02,Supreme Court Retention,,Yes,,114
-Walworth,02,Supreme Court Retention,,No,,22
-Walworth,03,Supreme Court Retention,,Yes,,336
-Walworth,03,Supreme Court Retention,,No,,29
-Walworth,04,Supreme Court Retention,,Yes,,131
-Walworth,04,Supreme Court Retention,,No,,21
-Walworth,05,Supreme Court Retention,,Yes,,241
-Walworth,05,Supreme Court Retention,,No,,67
-Walworth,06,Supreme Court Retention,,Yes,,350
-Walworth,06,Supreme Court Retention,,No,,67
-Walworth,07,Supreme Court Retention,,Yes,,364
-Walworth,07,Supreme Court Retention,,No,,50
-Walworth,08,Supreme Court Retention,,Yes,,63
-Walworth,08,Supreme Court Retention,,No,,11
-Walworth,09,Supreme Court Retention,,Yes,,61
-Walworth,09,Supreme Court Retention,,No,,7
+Walworth,01,Supreme Court Retention,5,Scott P. Myren - Yes,,105
+Walworth,01,Supreme Court Retention,5,Scott P. Myren - No,,14
+Walworth,02,Supreme Court Retention,5,Scott P. Myren - Yes,,114
+Walworth,02,Supreme Court Retention,5,Scott P. Myren - No,,22
+Walworth,03,Supreme Court Retention,5,Scott P. Myren - Yes,,336
+Walworth,03,Supreme Court Retention,5,Scott P. Myren - No,,29
+Walworth,04,Supreme Court Retention,5,Scott P. Myren - Yes,,131
+Walworth,04,Supreme Court Retention,5,Scott P. Myren - No,,21
+Walworth,05,Supreme Court Retention,5,Scott P. Myren - Yes,,241
+Walworth,05,Supreme Court Retention,5,Scott P. Myren - No,,67
+Walworth,06,Supreme Court Retention,5,Scott P. Myren - Yes,,350
+Walworth,06,Supreme Court Retention,5,Scott P. Myren - No,,67
+Walworth,07,Supreme Court Retention,5,Scott P. Myren - Yes,,364
+Walworth,07,Supreme Court Retention,5,Scott P. Myren - No,,50
+Walworth,08,Supreme Court Retention,5,Scott P. Myren - Yes,,63
+Walworth,08,Supreme Court Retention,5,Scott P. Myren - No,,11
+Walworth,09,Supreme Court Retention,5,Scott P. Myren - Yes,,61
+Walworth,09,Supreme Court Retention,5,Scott P. Myren - No,,7
+Walworth,10,Supreme Court Retention,5,Scott P. Myren - Yes,,126
+Walworth,10,Supreme Court Retention,5,Scott P. Myren - No,,19
 Walworth,01,Constitutional Amendment E,,Yes,,30
 Walworth,01,Constitutional Amendment E,,No,,100
 Walworth,01,Constitutional Amendment F,,Yes,,74
@@ -218,7 +190,7 @@ Walworth,06,Constitutional Amendment H,,No,,293
 Walworth,07,Constitutional Amendment E,,Yes,,145
 Walworth,07,Constitutional Amendment E,,No,,295
 Walworth,07,Constitutional Amendment F,,Yes,,269
-Walworth,07,Constitutional Amendment F,,No,,184
+Walworth,07,Constitutional Amendment F,,No,,181
 Walworth,07,Constitutional Amendment G,,Yes,,120
 Walworth,07,Constitutional Amendment G,,No,,329
 Walworth,07,Constitutional Amendment H,,Yes,,108
@@ -230,12 +202,12 @@ Walworth,08,Constitutional Amendment F,,No,,38
 Walworth,08,Constitutional Amendment G,,Yes,,8
 Walworth,08,Constitutional Amendment G,,No,,74
 Walworth,08,Constitutional Amendment H,,Yes,,17
-Walworth,08,Constitutional Amendment H,,No,,57
+Walworth,08,Constitutional Amendment H,,No,,67
 Walworth,09,Constitutional Amendment E,,Yes,,28
 Walworth,09,Constitutional Amendment E,,No,,50
-Walworth,09,Constitutional Amendment F,,Yes,,40
-Walworth,09,Constitutional Amendment F,,No,,12
-Walworth,09,Constitutional Amendment G,,Yes,,8
+Walworth,09,Constitutional Amendment F,,Yes,,46
+Walworth,09,Constitutional Amendment F,,No,,32
+Walworth,09,Constitutional Amendment G,,Yes,,17
 Walworth,09,Constitutional Amendment G,,No,,61
 Walworth,09,Constitutional Amendment H,,Yes,,22
 Walworth,09,Constitutional Amendment H,,No,,53
@@ -247,132 +219,60 @@ Walworth,10,Constitutional Amendment G,,Yes,,25
 Walworth,10,Constitutional Amendment G,,No,,137
 Walworth,10,Constitutional Amendment H,,Yes,,27
 Walworth,10,Constitutional Amendment H,,No,,131
-Walworth,1,Constitutional Amendment E,,Yes,,30
-Walworth,1,Constitutional Amendment E,,No,,100
-Walworth,1,Constitutional Amendment F,,Yes,,74
-Walworth,1,Constitutional Amendment F,,No,,57
-Walworth,1,Constitutional Amendment G,,Yes,,19
-Walworth,1,Constitutional Amendment G,,No,,115
-Walworth,1,Constitutional Amendment H,,Yes,,28
-Walworth,1,Constitutional Amendment H,,No,,102
-Walworth,2,Constitutional Amendment E,,Yes,,40
-Walworth,2,Constitutional Amendment E,,No,,107
-Walworth,2,Constitutional Amendment F,,Yes,,86
-Walworth,2,Constitutional Amendment F,,No,,64
-Walworth,2,Constitutional Amendment G,,Yes,,31
-Walworth,2,Constitutional Amendment G,,No,,118
-Walworth,2,Constitutional Amendment H,,Yes,,44
-Walworth,2,Constitutional Amendment H,,No,,105
-Walworth,3,Constitutional Amendment E,,Yes,,124
-Walworth,3,Constitutional Amendment E,,No,,279
-Walworth,3,Constitutional Amendment F,,Yes,,238
-Walworth,3,Constitutional Amendment F,,No,,169
-Walworth,3,Constitutional Amendment G,,Yes,,91
-Walworth,3,Constitutional Amendment G,,No,,321
-Walworth,3,Constitutional Amendment H,,Yes,,86
-Walworth,3,Constitutional Amendment H,,No,,319
-Walworth,4,Constitutional Amendment E,,Yes,,56
-Walworth,4,Constitutional Amendment E,,No,,111
-Walworth,4,Constitutional Amendment F,,Yes,,103
-Walworth,4,Constitutional Amendment F,,No,,44
-Walworth,4,Constitutional Amendment G,,Yes,,39
-Walworth,4,Constitutional Amendment G,,No,,129
-Walworth,4,Constitutional Amendment H,,Yes,,43
-Walworth,4,Constitutional Amendment H,,No,,125
-Walworth,5,Constitutional Amendment E,,Yes,,131
-Walworth,5,Constitutional Amendment E,,No,,200
-Walworth,5,Constitutional Amendment F,,Yes,,203
-Walworth,5,Constitutional Amendment F,,No,,127
-Walworth,5,Constitutional Amendment G,,Yes,,122
-Walworth,5,Constitutional Amendment G,,No,,213
-Walworth,5,Constitutional Amendment H,,Yes,,104
-Walworth,5,Constitutional Amendment H,,No,,222
-Walworth,6,Constitutional Amendment E,,Yes,,188
-Walworth,6,Constitutional Amendment E,,No,,272
-Walworth,6,Constitutional Amendment F,,Yes,,277
-Walworth,6,Constitutional Amendment F,,No,,179
-Walworth,6,Constitutional Amendment G,,Yes,,165
-Walworth,6,Constitutional Amendment G,,No,,290
-Walworth,6,Constitutional Amendment H,,Yes,,154
-Walworth,6,Constitutional Amendment H,,No,,253
-Walworth,7,Constitutional Amendment E,,Yes,,145
-Walworth,7,Constitutional Amendment E,,No,,295
-Walworth,7,Constitutional Amendment F,,Yes,,269
-Walworth,7,Constitutional Amendment F,,No,,181
-Walworth,7,Constitutional Amendment G,,Yes,,120
-Walworth,7,Constitutional Amendment G,,No,,329
-Walworth,7,Constitutional Amendment H,,Yes,,108
-Walworth,7,Constitutional Amendment H,,No,,336
-Walworth,8,Constitutional Amendment E,,Yes,,16
-Walworth,8,Constitutional Amendment E,,No,,64
-Walworth,8,Constitutional Amendment F,,Yes,,44
-Walworth,8,Constitutional Amendment F,,No,,38
-Walworth,8,Constitutional Amendment G,,Yes,,8
-Walworth,8,Constitutional Amendment G,,No,,74
-Walworth,8,Constitutional Amendment H,,Yes,,17
-Walworth,8,Constitutional Amendment H,,No,,67
-Walworth,9,Constitutional Amendment E,,Yes,,28
-Walworth,9,Constitutional Amendment E,,No,,50
-Walworth,9,Constitutional Amendment F,,Yes,,44
-Walworth,9,Constitutional Amendment F,,No,,38
-Walworth,9,Constitutional Amendment G,,Yes,,17
-Walworth,9,Constitutional Amendment G,,No,,61
-Walworth,9,Constitutional Amendment H,,Yes,,22
-Walworth,9,Constitutional Amendment H,,No,,53
-Walworth,1,Initiated Measure 28,,Yes,,27
-Walworth,1,Initiated Measure 28,,No,,104
-Walworth,1,Initiated Measure 29,,Yes,,31
-Walworth,1,Initiated Measure 29,,No,,103
-Walworth,1,Referred Law 21,,Yes,,35
-Walworth,1,Referred Law 21,,No,,97
-Walworth,2,Initiated Measure 28,,Yes,,42
-Walworth,2,Initiated Measure 28,,No,,105
-Walworth,2,Initiated Measure 29,,Yes,,45
-Walworth,2,Initiated Measure 29,,No,,104
-Walworth,2,Referred Law 21,,Yes,,49
-Walworth,2,Referred Law 21,,No,,98
-Walworth,3,Initiated Measure 28,,Yes,,62
-Walworth,3,Initiated Measure 28,,No,,349
-Walworth,3,Initiated Measure 29,,Yes,,114
-Walworth,3,Initiated Measure 29,,No,,300
-Walworth,3,Referred Law 21,,Yes,,92
-Walworth,3,Referred Law 21,,No,,319
-Walworth,4,Initiated Measure 28,,Yes,,45
-Walworth,4,Initiated Measure 28,,No,,121
-Walworth,4,Initiated Measure 29,,Yes,,55
-Walworth,4,Initiated Measure 29,,No,,110
-Walworth,4,Referred Law 21,,Yes,,54
-Walworth,4,Referred Law 21,,No,,111
-Walworth,5,Initiated Measure 28,,Yes,,105
-Walworth,5,Initiated Measure 28,,No,,224
-Walworth,5,Initiated Measure 29,,Yes,,156
-Walworth,5,Initiated Measure 29,,No,,177
-Walworth,5,Referred Law 21,,Yes,,108
-Walworth,5,Referred Law 21,,No,,217
-Walworth,6,Initiated Measure 28,,Yes,,125
-Walworth,6,Initiated Measure 28,,No,,328
-Walworth,6,Initiated Measure 29,,Yes,,194
-Walworth,6,Initiated Measure 29,,No,,255
-Walworth,6,Referred Law 21,,Yes,,158
-Walworth,6,Referred Law 21,,No,,283
-Walworth,7,Initiated Measure 28,,Yes,,95
-Walworth,7,Initiated Measure 28,,No,,355
-Walworth,7,Initiated Measure 29,,Yes,,143
-Walworth,7,Initiated Measure 29,,No,,309
-Walworth,7,Referred Law 21,,Yes,,148
-Walworth,7,Referred Law 21,,No,,297
-Walworth,8,Initiated Measure 28,,Yes,,12
-Walworth,8,Initiated Measure 28,,No,,71
-Walworth,8,Initiated Measure 29,,Yes,,14
-Walworth,8,Initiated Measure 29,,No,,69
-Walworth,8,Referred Law 21,,Yes,,15
-Walworth,8,Referred Law 21,,No,,65
-Walworth,9,Initiated Measure 28,,Yes,,15
-Walworth,9,Initiated Measure 28,,No,,64
-Walworth,9,Initiated Measure 29,,Yes,,25
-Walworth,9,Initiated Measure 29,,No,,54
-Walworth,9,Referred Law 21,,Yes,,22
-Walworth,9,Referred Law 21,,No,,56
+Walworth,01,Initiated Measure 28,,Yes,,27
+Walworth,01,Initiated Measure 28,,No,,104
+Walworth,01,Initiated Measure 29,,Yes,,31
+Walworth,01,Initiated Measure 29,,No,,103
+Walworth,01,Referred Law 21,,Yes,,35
+Walworth,01,Referred Law 21,,No,,97
+Walworth,02,Initiated Measure 28,,Yes,,42
+Walworth,02,Initiated Measure 28,,No,,105
+Walworth,02,Initiated Measure 29,,Yes,,45
+Walworth,02,Initiated Measure 29,,No,,104
+Walworth,02,Referred Law 21,,Yes,,49
+Walworth,02,Referred Law 21,,No,,98
+Walworth,03,Initiated Measure 28,,Yes,,62
+Walworth,03,Initiated Measure 28,,No,,349
+Walworth,03,Initiated Measure 29,,Yes,,114
+Walworth,03,Initiated Measure 29,,No,,300
+Walworth,03,Referred Law 21,,Yes,,92
+Walworth,03,Referred Law 21,,No,,319
+Walworth,04,Initiated Measure 28,,Yes,,45
+Walworth,04,Initiated Measure 28,,No,,121
+Walworth,04,Initiated Measure 29,,Yes,,55
+Walworth,04,Initiated Measure 29,,No,,110
+Walworth,04,Referred Law 21,,Yes,,54
+Walworth,04,Referred Law 21,,No,,111
+Walworth,05,Initiated Measure 28,,Yes,,105
+Walworth,05,Initiated Measure 28,,No,,224
+Walworth,05,Initiated Measure 29,,Yes,,156
+Walworth,05,Initiated Measure 29,,No,,177
+Walworth,05,Referred Law 21,,Yes,,105
+Walworth,05,Referred Law 21,,No,,217
+Walworth,06,Initiated Measure 28,,Yes,,125
+Walworth,06,Initiated Measure 28,,No,,328
+Walworth,06,Initiated Measure 29,,Yes,,194
+Walworth,06,Initiated Measure 29,,No,,255
+Walworth,06,Referred Law 21,,Yes,,158
+Walworth,06,Referred Law 21,,No,,283
+Walworth,07,Initiated Measure 28,,Yes,,95
+Walworth,07,Initiated Measure 28,,No,,355
+Walworth,07,Initiated Measure 29,,Yes,,143
+Walworth,07,Initiated Measure 29,,No,,309
+Walworth,07,Referred Law 21,,Yes,,148
+Walworth,07,Referred Law 21,,No,,297
+Walworth,08,Initiated Measure 28,,Yes,,12
+Walworth,08,Initiated Measure 28,,No,,71
+Walworth,08,Initiated Measure 29,,Yes,,14
+Walworth,08,Initiated Measure 29,,No,,69
+Walworth,08,Referred Law 21,,Yes,,15
+Walworth,08,Referred Law 21,,No,,65
+Walworth,09,Initiated Measure 28,,Yes,,15
+Walworth,09,Initiated Measure 28,,No,,64
+Walworth,09,Initiated Measure 29,,Yes,,25
+Walworth,09,Initiated Measure 29,,No,,54
+Walworth,09,Referred Law 21,,Yes,,22
+Walworth,09,Referred Law 21,,No,,56
 Walworth,10,Initiated Measure 28,,Yes,,17
 Walworth,10,Initiated Measure 28,,No,,143
 Walworth,10,Initiated Measure 29,,Yes,,30

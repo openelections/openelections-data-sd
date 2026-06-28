@@ -2,66 +2,39 @@ county,precinct,office,district,candidate,party,votes
 Spink,01,President,,Kamala D. Harris and Tim Walz,DEM,94
 Spink,01,President,,Chase Oliver and Mike ter Maat,LIB,2
 Spink,01,President,,Donald J. Trump and JD Vance,REP,316
-Spink,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
+Spink,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Spink,03,President,,Kamala D. Harris and Tim Walz,DEM,86
 Spink,03,President,,Chase Oliver and Mike ter Maat,LIB,0
 Spink,03,President,,Donald J. Trump and JD Vance,REP,267
-Spink,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,0
+Spink,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Spink,04,President,,Kamala D. Harris and Tim Walz,DEM,90
 Spink,04,President,,Chase Oliver and Mike ter Maat,LIB,1
 Spink,04,President,,Donald J. Trump and JD Vance,REP,259
-Spink,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
+Spink,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Spink,05,President,,Kamala D. Harris and Tim Walz,DEM,51
 Spink,05,President,,Chase Oliver and Mike ter Maat,LIB,0
 Spink,05,President,,Donald J. Trump and JD Vance,REP,177
-Spink,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,8
-Spink,06,President,,Kamala D. Harris and Tim Walz,DEM,129
-Spink,06,President,,Chase Oliver and Mike ter Maat,LIB,3
+Spink,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
+Spink,06,President,,Kamala D. Harris and Tim Walz,DEM,29
+Spink,06,President,,Chase Oliver and Mike ter Maat,LIB,0
 Spink,06,President,,Donald J. Trump and JD Vance,REP,85
-Spink,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,3
+Spink,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Spink,07,President,,Kamala D. Harris and Tim Walz,DEM,142
-Spink,07,President,,Chase Oliver and Mike ter Maat,LIB,0
+Spink,07,President,,Chase Oliver and Mike ter Maat,LIB,3
 Spink,07,President,,Donald J. Trump and JD Vance,REP,319
-Spink,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,13
+Spink,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
 Spink,08,President,,Kamala D. Harris and Tim Walz,DEM,45
 Spink,08,President,,Chase Oliver and Mike ter Maat,LIB,0
 Spink,08,President,,Donald J. Trump and JD Vance,REP,106
-Spink,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,4
-Spink,09,President,,Kamala D. Harris and Tim Walz,DEM,100
+Spink,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
+Spink,09,President,,Kamala D. Harris and Tim Walz,DEM,200
 Spink,09,President,,Chase Oliver and Mike ter Maat,LIB,3
 Spink,09,President,,Donald J. Trump and JD Vance,REP,306
-Spink,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,15
+Spink,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
 Spink,10,President,,Kamala D. Harris and Tim Walz,DEM,184
 Spink,10,President,,Chase Oliver and Mike ter Maat,LIB,4
 Spink,10,President,,Donald J. Trump and JD Vance,REP,310
-Spink,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",,6
-Spink,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Spink,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Spink,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Spink,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,8
-Spink,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Spink,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,13
-Spink,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
-Spink,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,15
 Spink,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
-Spink,1,U.S. House,1,Sheryl Johnson,DEM,66
-Spink,1,U.S. House,1,Dusty Johnson,REP,343
-Spink,3,U.S. House,1,Sheryl Johnson,DEM,64
-Spink,3,U.S. House,1,Dusty Johnson,REP,287
-Spink,4,U.S. House,1,Sheryl Johnson,DEM,68
-Spink,4,U.S. House,1,Dusty Johnson,REP,285
-Spink,5,U.S. House,1,Sheryl Johnson,DEM,43
-Spink,5,U.S. House,1,Dusty Johnson,REP,190
-Spink,6,U.S. House,1,Sheryl Johnson,DEM,19
-Spink,6,U.S. House,1,Dusty Johnson,REP,93
-Spink,7,U.S. House,1,Sheryl Johnson,DEM,108
-Spink,7,U.S. House,1,Dusty Johnson,REP,369
-Spink,8,U.S. House,1,Sheryl Johnson,DEM,32
-Spink,8,U.S. House,1,Dusty Johnson,REP,119
-Spink,9,U.S. House,1,Sheryl Johnson,DEM,131
-Spink,9,U.S. House,1,Dusty Johnson,REP,391
-Spink,10,U.S. House,1,Sheryl Johnson,DEM,154
-Spink,10,U.S. House,1,Dusty Johnson,REP,353
 Spink,01,U.S. House,1,Sheryl Johnson,DEM,66
 Spink,01,U.S. House,1,Dusty Johnson,REP,343
 Spink,03,U.S. House,1,Sheryl Johnson,DEM,64
@@ -78,6 +51,8 @@ Spink,08,U.S. House,1,Sheryl Johnson,DEM,32
 Spink,08,U.S. House,1,Dusty Johnson,REP,119
 Spink,09,U.S. House,1,Sheryl Johnson,DEM,131
 Spink,09,U.S. House,1,Dusty Johnson,REP,391
+Spink,10,U.S. House,1,Sheryl Johnson,DEM,154
+Spink,10,U.S. House,1,Dusty Johnson,REP,353
 Spink,01,Public Utilities Commissioner,,Forrest Wilson,DEM,78
 Spink,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,12
 Spink,01,Public Utilities Commissioner,,Kristie Fiegen,REP,316
@@ -110,7 +85,7 @@ Spink,01,State Senate,22,David Wheeler,REP,308
 Spink,03,State Senate,22,Jim A. Schmidt,DEM,87
 Spink,03,State Senate,22,David Wheeler,REP,254
 Spink,04,State Senate,22,Jim A. Schmidt,DEM,92
-Spink,04,State Senate,22,David Wheeler,REP,259
+Spink,04,State Senate,22,David Wheeler,REP,249
 Spink,05,State Senate,22,Jim A. Schmidt,DEM,73
 Spink,05,State Senate,22,David Wheeler,REP,139
 Spink,06,State Senate,22,Jim A. Schmidt,DEM,38
@@ -123,23 +98,23 @@ Spink,09,State Senate,22,Jim A. Schmidt,DEM,179
 Spink,09,State Senate,22,David Wheeler,REP,306
 Spink,10,State Senate,22,Jim A. Schmidt,DEM,181
 Spink,10,State Senate,22,David Wheeler,REP,297
-Spink,01,State House,22,Kevin Van Deipen,REP,155
+Spink,01,State House,22,Kevin Van Diepen,REP,155
 Spink,01,State House,22,Lana Greenfield,REP,336
-Spink,03,State House,22,Kevin Van Deipen,REP,168
+Spink,03,State House,22,Kevin Van Diepen,REP,168
 Spink,03,State House,22,Lana Greenfield,REP,258
-Spink,04,State House,22,Kevin Van Deipen,REP,163
+Spink,04,State House,22,Kevin Van Diepen,REP,163
 Spink,04,State House,22,Lana Greenfield,REP,243
-Spink,05,State House,22,Kevin Van Deipen,REP,102
+Spink,05,State House,22,Kevin Van Diepen,REP,102
 Spink,05,State House,22,Lana Greenfield,REP,167
-Spink,06,State House,22,Kevin Van Deipen,REP,50
+Spink,06,State House,22,Kevin Van Diepen,REP,50
 Spink,06,State House,22,Lana Greenfield,REP,75
-Spink,07,State House,22,Kevin Van Deipen,REP,192
+Spink,07,State House,22,Kevin Van Diepen,REP,192
 Spink,07,State House,22,Lana Greenfield,REP,328
-Spink,08,State House,22,Kevin Van Deipen,REP,63
+Spink,08,State House,22,Kevin Van Diepen,REP,63
 Spink,08,State House,22,Lana Greenfield,REP,106
-Spink,09,State House,22,Kevin Van Deipen,REP,231
+Spink,09,State House,22,Kevin Van Diepen,REP,231
 Spink,09,State House,22,Lana Greenfield,REP,307
-Spink,10,State House,22,Kevin Van Deipen,REP,221
+Spink,10,State House,22,Kevin Van Diepen,REP,221
 Spink,10,State House,22,Lana Greenfield,REP,305
 Spink,04,County Commissioner,4,Thomas Farmen,IND,61
 Spink,04,County Commissioner,4,Suzanne Smith,IND,61
@@ -147,24 +122,24 @@ Spink,06,County Commissioner,4,Thomas Farmen,IND,35
 Spink,06,County Commissioner,4,Suzanne Smith,IND,66
 Spink,07,County Commissioner,4,Thomas Farmen,IND,79
 Spink,07,County Commissioner,4,Suzanne Smith,IND,338
-Spink,01,Supreme Court Retention,5,Yes,,301
-Spink,01,Supreme Court Retention,5,No,,59
-Spink,03,Supreme Court Retention,5,Yes,,255
-Spink,03,Supreme Court Retention,5,No,,50
-Spink,04,Supreme Court Retention,5,Yes,,273
-Spink,04,Supreme Court Retention,5,No,,50
-Spink,05,Supreme Court Retention,5,Yes,,164
-Spink,05,Supreme Court Retention,5,No,,32
-Spink,06,Supreme Court Retention,5,Yes,,92
-Spink,06,Supreme Court Retention,5,No,,114
-Spink,07,Supreme Court Retention,5,Yes,,366
-Spink,07,Supreme Court Retention,5,No,,62
-Spink,08,Supreme Court Retention,5,Yes,,112
-Spink,08,Supreme Court Retention,5,No,,16
-Spink,09,Supreme Court Retention,5,Yes,,360
-Spink,09,Supreme Court Retention,5,No,,91
-Spink,10,Supreme Court Retention,5,Yes,,354
-Spink,10,Supreme Court Retention,5,No,,79
+Spink,01,Supreme Court Retention,5,Scott P. Myren - Yes,,301
+Spink,01,Supreme Court Retention,5,Scott P. Myren - No,,59
+Spink,03,Supreme Court Retention,5,Scott P. Myren - Yes,,255
+Spink,03,Supreme Court Retention,5,Scott P. Myren - No,,50
+Spink,04,Supreme Court Retention,5,Scott P. Myren - Yes,,273
+Spink,04,Supreme Court Retention,5,Scott P. Myren - No,,50
+Spink,05,Supreme Court Retention,5,Scott P. Myren - Yes,,164
+Spink,05,Supreme Court Retention,5,Scott P. Myren - No,,32
+Spink,06,Supreme Court Retention,5,Scott P. Myren - Yes,,92
+Spink,06,Supreme Court Retention,5,Scott P. Myren - No,,14
+Spink,07,Supreme Court Retention,5,Scott P. Myren - Yes,,366
+Spink,07,Supreme Court Retention,5,Scott P. Myren - No,,62
+Spink,08,Supreme Court Retention,5,Scott P. Myren - Yes,,112
+Spink,08,Supreme Court Retention,5,Scott P. Myren - No,,16
+Spink,09,Supreme Court Retention,5,Scott P. Myren - Yes,,360
+Spink,09,Supreme Court Retention,5,Scott P. Myren - No,,91
+Spink,10,Supreme Court Retention,5,Scott P. Myren - Yes,,354
+Spink,10,Supreme Court Retention,5,Scott P. Myren - No,,79
 Spink,01,Constitutional Amendment E,,Yes,,113
 Spink,01,Constitutional Amendment E,,No,,297
 Spink,01,Constitutional Amendment F,,Yes,,203
@@ -193,25 +168,25 @@ Spink,05,Constitutional Amendment E,,Yes,,75
 Spink,05,Constitutional Amendment E,,No,,158
 Spink,05,Constitutional Amendment F,,Yes,,92
 Spink,05,Constitutional Amendment F,,No,,137
-Spink,05,Constitutional Amendment G,,Yes,,55
+Spink,05,Constitutional Amendment G,,Yes,,65
 Spink,05,Constitutional Amendment G,,No,,164
 Spink,05,Constitutional Amendment H,,Yes,,63
 Spink,05,Constitutional Amendment H,,No,,163
-Spink,06,Constitutional Amendment E,,Yes,,24
-Spink,06,Constitutional Amendment E,,No,,77
-Spink,06,Constitutional Amendment F,,Yes,,37
-Spink,06,Constitutional Amendment F,,No,,79
-Spink,06,Constitutional Amendment G,,Yes,,43
-Spink,06,Constitutional Amendment G,,No,,72
+Spink,06,Constitutional Amendment E,,Yes,,30
+Spink,06,Constitutional Amendment E,,No,,88
+Spink,06,Constitutional Amendment F,,Yes,,70
+Spink,06,Constitutional Amendment F,,No,,47
+Spink,06,Constitutional Amendment G,,Yes,,37
+Spink,06,Constitutional Amendment G,,No,,79
 Spink,06,Constitutional Amendment H,,Yes,,43
-Spink,06,Constitutional Amendment H,,No,,76
+Spink,06,Constitutional Amendment H,,No,,72
 Spink,07,Constitutional Amendment E,,Yes,,126
-Spink,07,Constitutional Amendment E,,No,,284
+Spink,07,Constitutional Amendment E,,No,,349
 Spink,07,Constitutional Amendment F,,Yes,,239
 Spink,07,Constitutional Amendment F,,No,,233
 Spink,07,Constitutional Amendment G,,Yes,,149
 Spink,07,Constitutional Amendment G,,No,,322
-Spink,07,Constitutional Amendment H,,Yes,,103
+Spink,07,Constitutional Amendment H,,Yes,,110
 Spink,07,Constitutional Amendment H,,No,,361
 Spink,08,Constitutional Amendment E,,Yes,,48
 Spink,08,Constitutional Amendment E,,No,,109
@@ -219,20 +194,20 @@ Spink,08,Constitutional Amendment F,,Yes,,79
 Spink,08,Constitutional Amendment F,,No,,78
 Spink,08,Constitutional Amendment G,,Yes,,59
 Spink,08,Constitutional Amendment G,,No,,101
-Spink,08,Constitutional Amendment H,,Yes,,52
-Spink,08,Constitutional Amendment H,,No,,130
-Spink,09,Constitutional Amendment E,,Yes,,126
+Spink,08,Constitutional Amendment H,,Yes,,50
+Spink,08,Constitutional Amendment H,,No,,104
+Spink,09,Constitutional Amendment E,,Yes,,186
 Spink,09,Constitutional Amendment E,,No,,327
-Spink,09,Constitutional Amendment F,,Yes,,99
-Spink,09,Constitutional Amendment F,,No,,267
-Spink,09,Constitutional Amendment G,,Yes,,89
-Spink,09,Constitutional Amendment G,,No,,210
-Spink,09,Constitutional Amendment H,,Yes,,88
-Spink,09,Constitutional Amendment H,,No,,186
+Spink,09,Constitutional Amendment F,,Yes,,249
+Spink,09,Constitutional Amendment F,,No,,265
+Spink,09,Constitutional Amendment G,,Yes,,210
+Spink,09,Constitutional Amendment G,,No,,308
+Spink,09,Constitutional Amendment H,,Yes,,184
+Spink,09,Constitutional Amendment H,,No,,325
 Spink,10,Constitutional Amendment E,,Yes,,215
 Spink,10,Constitutional Amendment E,,No,,279
-Spink,10,Constitutional Amendment F,,Yes,,245
-Spink,10,Constitutional Amendment F,,No,,256
+Spink,10,Constitutional Amendment F,,Yes,,255
+Spink,10,Constitutional Amendment F,,No,,241
 Spink,10,Constitutional Amendment G,,Yes,,217
 Spink,10,Constitutional Amendment G,,No,,282
 Spink,10,Constitutional Amendment H,,Yes,,191
@@ -266,9 +241,9 @@ Spink,06,Initiated Measure 28,,No,,90
 Spink,06,Initiated Measure 29,,Yes,,43
 Spink,06,Initiated Measure 29,,No,,70
 Spink,06,Referred Law 21,,Yes,,48
-Spink,06,Referred Law 21,,No,,59
+Spink,06,Referred Law 21,,No,,69
 Spink,07,Initiated Measure 28,,Yes,,104
-Spink,07,Initiated Measure 28,,No,,266
+Spink,07,Initiated Measure 28,,No,,366
 Spink,07,Initiated Measure 29,,Yes,,171
 Spink,07,Initiated Measure 29,,No,,304
 Spink,07,Referred Law 21,,Yes,,82
@@ -286,7 +261,7 @@ Spink,09,Initiated Measure 29,,No,,289
 Spink,09,Referred Law 21,,Yes,,202
 Spink,09,Referred Law 21,,No,,304
 Spink,10,Initiated Measure 28,,Yes,,147
-Spink,10,Initiated Measure 28,,No,,346
+Spink,10,Initiated Measure 28,,No,,345
 Spink,10,Initiated Measure 29,,Yes,,205
 Spink,10,Initiated Measure 29,,No,,290
 Spink,10,Referred Law 21,,Yes,,202

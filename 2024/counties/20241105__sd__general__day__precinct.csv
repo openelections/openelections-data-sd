@@ -1,200 +1,353 @@
 county,precinct,office,district,candidate,party,votes
 Day,01,President,,Kamala D. Harris and Tim Walz,DEM,112
-Day,01,President,,Chase Oliver and Mike Maat,LIB,4
-Day,01,President,,Donald J. Trump and JD Vance,REP,161
+Day,01,President,,Chase Oliver and Mike ter Maat,LIB,4
+Day,01,President,,Donald J. Trump and JD Vance,REP,168
 Day,01,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,5
 Day,02,President,,Kamala D. Harris and Tim Walz,DEM,87
-Day,02,President,,Chase Oliver and Mike Maat,LIB,2
+Day,02,President,,Chase Oliver and Mike ter Maat,LIB,2
 Day,02,President,,Donald J. Trump and JD Vance,REP,186
 Day,02,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
-Day,03,President,,Kamala D. Harris and Tim Walz,DEM,99
-Day,03,President,,Chase Oliver and Mike Maat,LIB,2
+Day,03,President,,Kamala D. Harris and Tim Walz,DEM,90
+Day,03,President,,Chase Oliver and Mike ter Maat,LIB,1
 Day,03,President,,Donald J. Trump and JD Vance,REP,207
 Day,03,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Day,04,President,,Kamala D. Harris and Tim Walz,DEM,134
-Day,04,President,,Chase Oliver and Mike Maat,LIB,4
+Day,04,President,,Chase Oliver and Mike ter Maat,LIB,4
 Day,04,President,,Donald J. Trump and JD Vance,REP,305
 Day,04,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
 Day,05,President,,Kamala D. Harris and Tim Walz,DEM,120
-Day,05,President,,Chase Oliver and Mike Maat,LIB,3
+Day,05,President,,Chase Oliver and Mike ter Maat,LIB,3
 Day,05,President,,Donald J. Trump and JD Vance,REP,258
 Day,05,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,4
 Day,06,President,,Kamala D. Harris and Tim Walz,DEM,31
-Day,06,President,,Chase Oliver and Mike Maat,LIB,0
+Day,06,President,,Chase Oliver and Mike ter Maat,LIB,0
 Day,06,President,,Donald J. Trump and JD Vance,REP,69
 Day,06,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Day,07,President,,Kamala D. Harris and Tim Walz,DEM,60
-Day,07,President,,Chase Oliver and Mike Maat,LIB,0
+Day,07,President,,Chase Oliver and Mike ter Maat,LIB,0
 Day,07,President,,Donald J. Trump and JD Vance,REP,151
 Day,07,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,2
 Day,08,President,,Kamala D. Harris and Tim Walz,DEM,83
-Day,08,President,,Chase Oliver and Mike Maat,LIB,0
-Day,08,President,,Donald J. Trump and JD Vance,REP,137
+Day,08,President,,Chase Oliver and Mike ter Maat,LIB,2
+Day,08,President,,Donald J. Trump and JD Vance,REP,132
 Day,08,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,7
 Day,09,President,,Kamala D. Harris and Tim Walz,DEM,87
-Day,09,President,,Chase Oliver and Mike Maat,LIB,2
+Day,09,President,,Chase Oliver and Mike ter Maat,LIB,2
 Day,09,President,,Donald J. Trump and JD Vance,REP,119
 Day,09,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,1
 Day,10,President,,Kamala D. Harris and Tim Walz,DEM,14
-Day,10,President,,Chase Oliver and Mike Maat,LIB,1
+Day,10,President,,Chase Oliver and Mike ter Maat,LIB,1
 Day,10,President,,Donald J. Trump and JD Vance,REP,66
 Day,10,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
 Day,11,President,,Kamala D. Harris and Tim Walz,DEM,182
-Day,11,President,,Chase Oliver and Mike Maat,LIB,1
+Day,11,President,,Chase Oliver and Mike ter Maat,LIB,1
 Day,11,President,,Donald J. Trump and JD Vance,REP,215
-Day,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,0
-Day,01,Public Utilities Commissioner,,Forrest A. Wilson,DEM,75
-Day,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
-Day,01,Public Utilities Commissioner,,Kristie Fiegen,REP,163
-Day,02,Public Utilities Commissioner,,Forrest A. Wilson,DEM,60
-Day,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
-Day,02,Public Utilities Commissioner,,Kristie Fiegen,REP,170
-Day,03,Public Utilities Commissioner,,Forrest A. Wilson,DEM,77
-Day,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Day,03,Public Utilities Commissioner,,Kristie Fiegen,REP,194
-Day,04,Public Utilities Commissioner,,Forrest A. Wilson,DEM,101
-Day,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
-Day,04,Public Utilities Commissioner,,Kristie Fiegen,REP,245
-Day,05,Public Utilities Commissioner,,Forrest A. Wilson,DEM,80
-Day,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,21
-Day,05,Public Utilities Commissioner,,Kristie Fiegen,REP,265
-Day,06,Public Utilities Commissioner,,Forrest A. Wilson,DEM,17
-Day,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,0
-Day,06,Public Utilities Commissioner,,Kristie Fiegen,REP,40
-Day,07,Public Utilities Commissioner,,Forrest A. Wilson,DEM,45
-Day,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
-Day,07,Public Utilities Commissioner,,Kristie Fiegen,REP,139
-Day,08,Public Utilities Commissioner,,Forrest A. Wilson,DEM,69
-Day,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,6
-Day,08,Public Utilities Commissioner,,Kristie Fiegen,REP,124
-Day,09,Public Utilities Commissioner,,Forrest A. Wilson,DEM,66
-Day,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,9
-Day,09,Public Utilities Commissioner,,Kristie Fiegen,REP,116
-Day,10,Public Utilities Commissioner,,Forrest A. Wilson,DEM,14
-Day,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
-Day,10,Public Utilities Commissioner,,Kristie Fiegen,REP,60
-Day,11,Public Utilities Commissioner,,Forrest A. Wilson,DEM,141
-Day,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
-Day,11,Public Utilities Commissioner,,Kristie Fiegen,REP,275
-Day,01,State House,1,Steven D. McCleerey,DEM,98
-Day,01,State House,1,Mark A. Sumpiton,DEM,98
-Day,01,State House,1,Josh A. Dennert,LIB,6
-Day,01,State House,1,Tamara Lesnar,LIB,27
-Day,02,State House,1,Steven D. McCleerey,DEM,82
-Day,02,State House,1,Mark A. Sumpiton,DEM,60
-Day,02,State House,1,Josh A. Dennert,LIB,9
-Day,02,State House,1,Tamara Lesnar,LIB,19
-Day,03,State House,1,Steven D. McCleerey,DEM,79
-Day,03,State House,1,Mark A. Sumpiton,DEM,54
-Day,03,State House,1,Josh A. Dennert,LIB,9
-Day,03,State House,1,Tamara Lesnar,LIB,20
-Day,04,State House,1,Steven D. McCleerey,DEM,141
-Day,04,State House,1,Mark A. Sumpiton,DEM,123
-Day,04,State House,1,Josh A. Dennert,LIB,14
-Day,04,State House,1,Tamara Lesnar,LIB,21
-Day,05,State House,1,Steven D. McCleerey,DEM,122
-Day,05,State House,1,Mark A. Sumpiton,DEM,112
-Day,05,State House,1,Josh A. Dennert,LIB,26
-Day,05,State House,1,Tamara Lesnar,LIB,9
-Day,06,State House,1,Steven D. McCleerey,DEM,28
-Day,06,State House,1,Mark A. Sumpiton,DEM,24
-Day,06,State House,1,Josh A. Dennert,LIB,4
-Day,06,State House,1,Tamara Lesnar,LIB,6
-Day,07,State House,1,Steven D. McCleerey,DEM,76
-Day,07,State House,1,Mark A. Sumpiton,DEM,67
-Day,07,State House,1,Josh A. Dennert,LIB,6
-Day,07,State House,1,Tamara Lesnar,LIB,6
-Day,08,State House,1,Steven D. McCleerey,DEM,79
-Day,08,State House,1,Mark A. Sumpiton,DEM,81
-Day,08,State House,1,Josh A. Dennert,LIB,14
-Day,08,State House,1,Tamara Lesnar,LIB,13
-Day,09,State House,1,Steven D. McCleerey,DEM,79
-Day,09,State House,1,Mark A. Sumpiton,DEM,62
-Day,09,State House,1,Josh A. Dennert,LIB,5
-Day,09,State House,1,Tamara Lesnar,LIB,20
-Day,10,State House,1,Steven D. McCleerey,DEM,24
-Day,10,State House,1,Mark A. Sumpiton,DEM,14
-Day,10,State House,1,Josh A. Dennert,LIB,4
-Day,10,State House,1,Tamara Lesnar,LIB,4
-Day,11,State House,1,Steven D. McCleerey,DEM,43
-Day,12,State House,1,Steven D. McCleerey,DEM,11
-Day,12,State House,1,Mark A. Sumpiton,DEM,38
-Day,13,State House,1,Steven D. McCleerey,DEM,24
-Day,13,State House,1,Mark A. Sumpiton,DEM,20
+Day,11,President,,"Robert F. Kennedy, Jr. and Nicole Shanahan",IND,6
+Day,01,U.S. House,1,Sheryl Johnson,DEM,79
+Day,01,U.S. House,1,Dusty Johnson,REP,206
+Day,02,U.S. House,1,Sheryl Johnson,DEM,59
+Day,02,U.S. House,1,Dusty Johnson,REP,215
+Day,03,U.S. House,1,Sheryl Johnson,DEM,73
+Day,03,U.S. House,1,Dusty Johnson,REP,224
+Day,04,U.S. House,1,Sheryl Johnson,DEM,107
+Day,04,U.S. House,1,Dusty Johnson,REP,337
+Day,05,U.S. House,1,Sheryl Johnson,DEM,92
+Day,05,U.S. House,1,Dusty Johnson,REP,297
+Day,06,U.S. House,1,Sheryl Johnson,DEM,29
+Day,06,U.S. House,1,Dusty Johnson,REP,75
+Day,07,U.S. House,1,Sheryl Johnson,DEM,60
+Day,07,U.S. House,1,Dusty Johnson,REP,151
+Day,08,U.S. House,1,Sheryl Johnson,DEM,68
+Day,08,U.S. House,1,Dusty Johnson,REP,144
+Day,09,U.S. House,1,Sheryl Johnson,DEM,65
+Day,09,U.S. House,1,Dusty Johnson,REP,141
+Day,10,U.S. House,1,Sheryl Johnson,DEM,11
+Day,10,U.S. House,1,Dusty Johnson,REP,73
+Day,11,U.S. House,1,Sheryl Johnson,DEM,144
+Day,11,U.S. House,1,Dusty Johnson,REP,255
 Day,01,State Senate,01,Michael H. Rohl,REP,198
 Day,02,State Senate,01,Michael H. Rohl,REP,194
 Day,03,State Senate,01,Michael H. Rohl,REP,207
 Day,04,State Senate,01,Michael H. Rohl,REP,307
 Day,05,State Senate,01,Michael H. Rohl,REP,272
 Day,06,State Senate,01,Michael H. Rohl,REP,78
-Day,07,State Senate,01,Michael H. Rohl,REP,112
+Day,07,State Senate,01,Michael H. Rohl,REP,155
 Day,08,State Senate,01,Michael H. Rohl,REP,129
 Day,09,State Senate,01,Michael H. Rohl,REP,134
 Day,10,State Senate,01,Michael H. Rohl,REP,59
 Day,11,State Senate,01,Michael H. Rohl,REP,243
-Day,01,Supreme Court Retention,,Yes,,195
-Day,01,Supreme Court Retention,,No,,41
-Day,02,Supreme Court Retention,,Yes,,186
-Day,02,Supreme Court Retention,,No,,46
-Day,03,Supreme Court Retention,,Yes,,211
-Day,03,Supreme Court Retention,,No,,44
-Day,04,Supreme Court Retention,,Yes,,311
-Day,04,Supreme Court Retention,,No,,57
-Day,05,Supreme Court Retention,,Yes,,277
-Day,05,Supreme Court Retention,,No,,40
-Day,06,Supreme Court Retention,,Yes,,72
-Day,06,Supreme Court Retention,,No,,27
-Day,07,Supreme Court Retention,,Yes,,145
-Day,07,Supreme Court Retention,,No,,36
-Day,08,Supreme Court Retention,,Yes,,142
-Day,08,Supreme Court Retention,,No,,20
-Day,09,Supreme Court Retention,,Yes,,139
-Day,09,Supreme Court Retention,,No,,26
-Day,10,Supreme Court Retention,,Yes,,71
-Day,10,Supreme Court Retention,,No,,10
-Day,11,Supreme Court Retention,,Yes,,143
-Day,11,Supreme Court Retention,,No,,36
-Day,01,Referred Law 21,A,Yes,,105
-Day,01,Referred Law 21,A,No,,60
-Day,02,Referred Law 21,A,Yes,,110
-Day,02,Referred Law 21,A,No,,56
-Day,03,Referred Law 21,A,Yes,,130
-Day,03,Referred Law 21,A,No,,127
-Day,04,Referred Law 21,A,Yes,,130
-Day,04,Referred Law 21,A,No,,127
-Day,05,Referred Law 21,A,Yes,,172
-Day,05,Referred Law 21,A,No,,199
-Day,06,Referred Law 21,A,Yes,,43
-Day,06,Referred Law 21,A,No,,50
-Day,07,Referred Law 21,A,Yes,,105
-Day,07,Referred Law 21,A,No,,101
-Day,08,Referred Law 21,A,Yes,,101
-Day,08,Referred Law 21,A,No,,101
-Day,09,Referred Law 21,A,Yes,,93
-Day,09,Referred Law 21,A,No,,90
-Day,10,Referred Law 21,A,Yes,,46
-Day,10,Referred Law 21,A,No,,39
-Day,11,Referred Law 21,A,Yes,,130
-Day,11,Referred Law 21,A,No,,101
-Day,01,Initiated Measure 28,,Yes,,155
-Day,01,Initiated Measure 28,,No,,82
-Day,02,Initiated Measure 28,,Yes,,196
-Day,02,Initiated Measure 28,,No,,127
-Day,03,Initiated Measure 28,,Yes,,121
-Day,03,Initiated Measure 28,,No,,156
-Day,04,Initiated Measure 28,,Yes,,125
-Day,04,Initiated Measure 28,,No,,167
-Day,05,Initiated Measure 28,,Yes,,147
-Day,05,Initiated Measure 28,,No,,147
-Day,06,Initiated Measure 28,,Yes,,167
-Day,06,Initiated Measure 28,,No,,151
-Day,07,Initiated Measure 28,,Yes,,152
-Day,07,Initiated Measure 28,,No,,150
-Day,08,Initiated Measure 28,,Yes,,163
-Day,08,Initiated Measure 28,,No,,221
-Day,09,Initiated Measure 28,,Yes,,125
-Day,09,Initiated Measure 28,,No,,150
-Day,10,Initiated Measure 28,,Yes,,230
-Day,10,Initiated Measure 28,,No,,269
-Day,11,Initiated Measure 28,,Yes,,395
-Day,11,Initiated Measure 28,,No,,146
+Day,01,Supreme Court Retention,5,Scott P. Myren - Yes,,195
+Day,01,Supreme Court Retention,5,Scott P. Myren - No,,40
+Day,02,Supreme Court Retention,5,Scott P. Myren - Yes,,186
+Day,02,Supreme Court Retention,5,Scott P. Myren - No,,46
+Day,03,Supreme Court Retention,5,Scott P. Myren - Yes,,211
+Day,03,Supreme Court Retention,5,Scott P. Myren - No,,31
+Day,04,Supreme Court Retention,5,Scott P. Myren - Yes,,311
+Day,04,Supreme Court Retention,5,Scott P. Myren - No,,57
+Day,05,Supreme Court Retention,5,Scott P. Myren - Yes,,277
+Day,05,Supreme Court Retention,5,Scott P. Myren - No,,55
+Day,06,Supreme Court Retention,5,Scott P. Myren - Yes,,72
+Day,06,Supreme Court Retention,5,Scott P. Myren - No,,19
+Day,07,Supreme Court Retention,5,Scott P. Myren - Yes,,145
+Day,07,Supreme Court Retention,5,Scott P. Myren - No,,36
+Day,08,Supreme Court Retention,5,Scott P. Myren - Yes,,142
+Day,08,Supreme Court Retention,5,Scott P. Myren - No,,28
+Day,09,Supreme Court Retention,5,Scott P. Myren - Yes,,139
+Day,09,Supreme Court Retention,5,Scott P. Myren - No,,26
+Day,10,Supreme Court Retention,5,Scott P. Myren - Yes,,50
+Day,10,Supreme Court Retention,5,Scott P. Myren - No,,19
+Day,11,Supreme Court Retention,5,Scott P. Myren - Yes,,254
+Day,11,Supreme Court Retention,5,Scott P. Myren - No,,92
+Day,01,Initiated Measure 28,,Yes,,82
+Day,01,Initiated Measure 28,,No,,199
+Day,02,Initiated Measure 28,,Yes,,85
+Day,02,Initiated Measure 28,,No,,186
+Day,03,Initiated Measure 28,,Yes,,91
+Day,03,Initiated Measure 28,,No,,196
+Day,04,Initiated Measure 28,,Yes,,122
+Day,04,Initiated Measure 28,,No,,314
+Day,05,Initiated Measure 28,,Yes,,109
+Day,05,Initiated Measure 28,,No,,271
+Day,06,Initiated Measure 28,,Yes,,31
+Day,06,Initiated Measure 28,,No,,72
+Day,07,Initiated Measure 28,,Yes,,44
+Day,07,Initiated Measure 28,,No,,165
+Day,08,Initiated Measure 28,,Yes,,56
+Day,08,Initiated Measure 28,,No,,158
+Day,09,Initiated Measure 28,,Yes,,63
+Day,09,Initiated Measure 28,,No,,143
+Day,10,Initiated Measure 28,,Yes,,12
+Day,10,Initiated Measure 28,,No,,71
+Day,11,Initiated Measure 28,,Yes,,130
+Day,11,Initiated Measure 28,,No,,268
+Day,01,Initiated Measure 29,,Yes,,114
+Day,01,Initiated Measure 29,,No,,174
+Day,02,Initiated Measure 29,,Yes,,121
+Day,02,Initiated Measure 29,,No,,156
+Day,03,Initiated Measure 29,,Yes,,125
+Day,03,Initiated Measure 29,,No,,167
+Day,04,Initiated Measure 29,,Yes,,143
+Day,04,Initiated Measure 29,,No,,296
+Day,05,Initiated Measure 29,,Yes,,163
+Day,05,Initiated Measure 29,,No,,221
+Day,06,Initiated Measure 29,,Yes,,32
+Day,06,Initiated Measure 29,,No,,71
+Day,07,Initiated Measure 29,,Yes,,72
+Day,07,Initiated Measure 29,,No,,142
+Day,08,Initiated Measure 29,,Yes,,75
+Day,08,Initiated Measure 29,,No,,140
+Day,09,Initiated Measure 29,,Yes,,87
+Day,09,Initiated Measure 29,,No,,122
+Day,10,Initiated Measure 29,,Yes,,14
+Day,10,Initiated Measure 29,,No,,70
+Day,11,Initiated Measure 29,,Yes,,228
+Day,11,Initiated Measure 29,,No,,173
+Day,01,Referred Law 21,,Yes,,119
+Day,01,Referred Law 21,,No,,151
+Day,02,Referred Law 21,,Yes,,113
+Day,02,Referred Law 21,,No,,151
+Day,03,Referred Law 21,,Yes,,110
+Day,03,Referred Law 21,,No,,161
+Day,04,Referred Law 21,,Yes,,150
+Day,04,Referred Law 21,,No,,269
+Day,05,Referred Law 21,,Yes,,145
+Day,05,Referred Law 21,,No,,230
+Day,06,Referred Law 21,,Yes,,27
+Day,06,Referred Law 21,,No,,75
+Day,07,Referred Law 21,,Yes,,81
+Day,07,Referred Law 21,,No,,121
+Day,08,Referred Law 21,,Yes,,69
+Day,08,Referred Law 21,,No,,141
+Day,09,Referred Law 21,,Yes,,70
+Day,09,Referred Law 21,,No,,125
+Day,10,Referred Law 21,,Yes,,23
+Day,10,Referred Law 21,,No,,53
+Day,11,Referred Law 21,,Yes,,191
+Day,11,Referred Law 21,,No,,198
+Day,01,Constitutional Amendment E,,Yes,,114
+Day,01,Constitutional Amendment E,,No,,173
+Day,02,Constitutional Amendment E,,Yes,,107
+Day,02,Constitutional Amendment E,,No,,158
+Day,03,Constitutional Amendment E,,Yes,,119
+Day,03,Constitutional Amendment E,,No,,173
+Day,04,Constitutional Amendment E,,Yes,,158
+Day,04,Constitutional Amendment E,,No,,283
+Day,05,Constitutional Amendment E,,Yes,,114
+Day,05,Constitutional Amendment E,,No,,267
+Day,06,Constitutional Amendment E,,Yes,,35
+Day,06,Constitutional Amendment E,,No,,68
+Day,07,Constitutional Amendment E,,Yes,,73
+Day,07,Constitutional Amendment E,,No,,138
+Day,08,Constitutional Amendment E,,Yes,,76
+Day,08,Constitutional Amendment E,,No,,139
+Day,09,Constitutional Amendment E,,Yes,,88
+Day,09,Constitutional Amendment E,,No,,117
+Day,10,Constitutional Amendment E,,Yes,,20
+Day,10,Constitutional Amendment E,,No,,62
+Day,11,Constitutional Amendment E,,Yes,,197
+Day,11,Constitutional Amendment E,,No,,194
+Day,01,Constitutional Amendment F,,Yes,,144
+Day,02,Constitutional Amendment F,,Yes,,157
+Day,03,Constitutional Amendment F,,Yes,,159
+Day,04,Constitutional Amendment F,,Yes,,260
+Day,05,Constitutional Amendment F,,Yes,,223
+Day,06,Constitutional Amendment F,,Yes,,56
+Day,07,Constitutional Amendment F,,Yes,,100
+Day,08,Constitutional Amendment F,,Yes,,101
+Day,09,Constitutional Amendment F,,Yes,,103
+Day,10,Constitutional Amendment F,,Yes,,47
+Day,11,Constitutional Amendment F,,Yes,,217
+Day,01,Constitutional Amendment G,,Yes,,112
+Day,01,Constitutional Amendment G,,No,,178
+Day,02,Constitutional Amendment G,,Yes,,111
+Day,02,Constitutional Amendment G,,No,,164
+Day,03,Constitutional Amendment G,,Yes,,106
+Day,03,Constitutional Amendment G,,No,,186
+Day,04,Constitutional Amendment G,,Yes,,148
+Day,04,Constitutional Amendment G,,No,,301
+Day,05,Constitutional Amendment G,,Yes,,160
+Day,05,Constitutional Amendment G,,No,,224
+Day,06,Constitutional Amendment G,,Yes,,34
+Day,06,Constitutional Amendment G,,No,,70
+Day,07,Constitutional Amendment G,,Yes,,64
+Day,07,Constitutional Amendment G,,No,,150
+Day,08,Constitutional Amendment G,,Yes,,86
+Day,08,Constitutional Amendment G,,No,,129
+Day,09,Constitutional Amendment G,,Yes,,79
+Day,09,Constitutional Amendment G,,No,,125
+Day,10,Constitutional Amendment G,,Yes,,15
+Day,10,Constitutional Amendment G,,No,,69
+Day,11,Constitutional Amendment G,,Yes,,183
+Day,11,Constitutional Amendment G,,No,,217
+Day,01,Constitutional Amendment H,,Yes,,89
+Day,02,Constitutional Amendment H,,Yes,,94
+Day,03,Constitutional Amendment H,,Yes,,96
+Day,04,Constitutional Amendment H,,Yes,,126
+Day,05,Constitutional Amendment H,,Yes,,124
+Day,06,Constitutional Amendment H,,Yes,,28
+Day,07,Constitutional Amendment H,,Yes,,58
+Day,08,Constitutional Amendment H,,Yes,,64
+Day,09,Constitutional Amendment H,,Yes,,73
+Day,10,Constitutional Amendment H,,Yes,,17
+Day,11,Constitutional Amendment H,,Yes,,143
+Day,01,Constitutional Amendment F,,No,,120
+Day,02,Constitutional Amendment F,,No,,130
+Day,03,Constitutional Amendment F,,No,,132
+Day,04,Constitutional Amendment F,,No,,216
+Day,05,Constitutional Amendment F,,No,,185
+Day,06,Constitutional Amendment F,,No,,47
+Day,07,Constitutional Amendment F,,No,,83
+Day,08,Constitutional Amendment F,,No,,84
+Day,09,Constitutional Amendment F,,No,,86
+Day,10,Constitutional Amendment F,,No,,39
+Day,11,Constitutional Amendment F,,No,,180
+Day,01,Constitutional Amendment H,,No,,185
+Day,02,Constitutional Amendment H,,No,,196
+Day,03,Constitutional Amendment H,,No,,200
+Day,04,Constitutional Amendment H,,No,,262
+Day,05,Constitutional Amendment H,,No,,258
+Day,06,Constitutional Amendment H,,No,,58
+Day,07,Constitutional Amendment H,,No,,121
+Day,08,Constitutional Amendment H,,No,,133
+Day,09,Constitutional Amendment H,,No,,152
+Day,10,Constitutional Amendment H,,No,,35
+Day,11,Constitutional Amendment H,,No,,299
+Day,01,Public Utilities Commissioner,,Forrest Wilson,DEM,74
+Day,02,Public Utilities Commissioner,,Forrest Wilson,DEM,71
+Day,03,Public Utilities Commissioner,,Forrest Wilson,DEM,76
+Day,04,Public Utilities Commissioner,,Forrest Wilson,DEM,115
+Day,05,Public Utilities Commissioner,,Forrest Wilson,DEM,98
+Day,06,Public Utilities Commissioner,,Forrest Wilson,DEM,26
+Day,07,Public Utilities Commissioner,,Forrest Wilson,DEM,54
+Day,08,Public Utilities Commissioner,,Forrest Wilson,DEM,57
+Day,09,Public Utilities Commissioner,,Forrest Wilson,DEM,53
+Day,10,Public Utilities Commissioner,,Forrest Wilson,DEM,21
+Day,11,Public Utilities Commissioner,,Forrest Wilson,DEM,105
+Day,01,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Day,02,Public Utilities Commissioner,,A. Gideon Oakes,LIB,10
+Day,03,Public Utilities Commissioner,,A. Gideon Oakes,LIB,11
+Day,04,Public Utilities Commissioner,,A. Gideon Oakes,LIB,16
+Day,05,Public Utilities Commissioner,,A. Gideon Oakes,LIB,14
+Day,06,Public Utilities Commissioner,,A. Gideon Oakes,LIB,4
+Day,07,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Day,08,Public Utilities Commissioner,,A. Gideon Oakes,LIB,8
+Day,09,Public Utilities Commissioner,,A. Gideon Oakes,LIB,7
+Day,10,Public Utilities Commissioner,,A. Gideon Oakes,LIB,3
+Day,11,Public Utilities Commissioner,,A. Gideon Oakes,LIB,13
+Day,01,Public Utilities Commissioner,,Kristie Fiegen,REP,179
+Day,02,Public Utilities Commissioner,,Kristie Fiegen,REP,171
+Day,03,Public Utilities Commissioner,,Kristie Fiegen,REP,185
+Day,04,Public Utilities Commissioner,,Kristie Fiegen,REP,278
+Day,05,Public Utilities Commissioner,,Kristie Fiegen,REP,238
+Day,06,Public Utilities Commissioner,,Kristie Fiegen,REP,63
+Day,07,Public Utilities Commissioner,,Kristie Fiegen,REP,132
+Day,08,Public Utilities Commissioner,,Kristie Fiegen,REP,139
+Day,09,Public Utilities Commissioner,,Kristie Fiegen,REP,129
+Day,10,Public Utilities Commissioner,,Kristie Fiegen,REP,50
+Day,11,Public Utilities Commissioner,,Kristie Fiegen,REP,249
+Day,01,State House,01,Josh Dennert,DEM,10
+Day,02,State House,01,Josh Dennert,DEM,10
+Day,03,State House,01,Josh Dennert,DEM,10
+Day,04,State House,01,Josh Dennert,DEM,15
+Day,05,State House,01,Josh Dennert,DEM,13
+Day,06,State House,01,Josh Dennert,DEM,4
+Day,07,State House,01,Josh Dennert,DEM,7
+Day,08,State House,01,Josh Dennert,DEM,8
+Day,09,State House,01,Josh Dennert,DEM,7
+Day,10,State House,01,Josh Dennert,DEM,3
+Day,11,State House,01,Josh Dennert,DEM,14
+Day,01,State House,01,Mark Sumption,DEM,84
+Day,02,State House,01,Mark Sumption,DEM,80
+Day,03,State House,01,Mark Sumption,DEM,86
+Day,04,State House,01,Mark Sumption,DEM,130
+Day,05,State House,01,Mark Sumption,DEM,111
+Day,06,State House,01,Mark Sumption,DEM,30
+Day,07,State House,01,Mark Sumption,DEM,62
+Day,08,State House,01,Mark Sumption,DEM,65
+Day,09,State House,01,Mark Sumption,DEM,60
+Day,10,State House,01,Mark Sumption,DEM,23
+Day,11,State House,01,Mark Sumption,DEM,117
+Day,01,State House,01,Steven D. McCleerey,LIB,18
+Day,02,State House,01,Steven D. McCleerey,LIB,18
+Day,03,State House,01,Steven D. McCleerey,LIB,19
+Day,04,State House,01,Steven D. McCleerey,LIB,29
+Day,05,State House,01,Steven D. McCleerey,LIB,25
+Day,06,State House,01,Steven D. McCleerey,LIB,7
+Day,07,State House,01,Steven D. McCleerey,LIB,14
+Day,08,State House,01,Steven D. McCleerey,LIB,14
+Day,09,State House,01,Steven D. McCleerey,LIB,13
+Day,10,State House,01,Steven D. McCleerey,LIB,5
+Day,11,State House,01,Steven D. McCleerey,LIB,25
+Day,01,State House,01,Tamara Lesnar,LIB,97
+Day,02,State House,01,Tamara Lesnar,LIB,93
+Day,03,State House,01,Tamara Lesnar,LIB,100
+Day,04,State House,01,Tamara Lesnar,LIB,151
+Day,05,State House,01,Tamara Lesnar,LIB,129
+Day,06,State House,01,Tamara Lesnar,LIB,34
+Day,07,State House,01,Tamara Lesnar,LIB,71
+Day,08,State House,01,Tamara Lesnar,LIB,75
+Day,09,State House,01,Tamara Lesnar,LIB,70
+Day,10,State House,01,Tamara Lesnar,LIB,27
+Day,11,State House,01,Tamara Lesnar,LIB,136
+Day,01,State House,01,Christopher Reder,REP,121
+Day,02,State House,01,Christopher Reder,REP,116
+Day,03,State House,01,Christopher Reder,REP,125
+Day,04,State House,01,Christopher Reder,REP,188
+Day,05,State House,01,Christopher Reder,REP,161
+Day,06,State House,01,Christopher Reder,REP,43
+Day,07,State House,01,Christopher Reder,REP,89
+Day,08,State House,01,Christopher Reder,REP,94
+Day,09,State House,01,Christopher Reder,REP,88
+Day,10,State House,01,Christopher Reder,REP,34
+Day,11,State House,01,Christopher Reder,REP,170
+Day,01,State House,01,Logan Manhart,REP,136
+Day,02,State House,01,Logan Manhart,REP,130
+Day,03,State House,01,Logan Manhart,REP,141
+Day,04,State House,01,Logan Manhart,REP,211
+Day,05,State House,01,Logan Manhart,REP,181
+Day,06,State House,01,Logan Manhart,REP,48
+Day,07,State House,01,Logan Manhart,REP,100
+Day,08,State House,01,Logan Manhart,REP,105
+Day,09,State House,01,Logan Manhart,REP,98
+Day,10,State House,01,Logan Manhart,REP,38
+Day,11,State House,01,Logan Manhart,REP,190
