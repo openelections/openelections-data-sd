@@ -171,14 +171,14 @@ Marshall,President,,DEM,Marianne Williamson,14
 Marshall,President,,DEM,Joseph R Biden Jr,97
 Marshall,President,,DEM,Dean Phillips,19
 Marshall,President,,DEM,Armando Perez-Serrato,6
-Mccook,President,,DEM,Marianne Williamson,9
-Mccook,President,,DEM,Joseph R Biden Jr,65
-Mccook,President,,DEM,Dean Phillips,16
-Mccook,President,,DEM,Armando Perez-Serrato,4
-Mcpherson,President,,DEM,Marianne Williamson,5
-Mcpherson,President,,DEM,Joseph R Biden Jr,25
-Mcpherson,President,,DEM,Dean Phillips,5
-Mcpherson,President,,DEM,Armando Perez-Serrato,3
+McCook,President,,DEM,Marianne Williamson,9
+McCook,President,,DEM,Joseph R Biden Jr,65
+McCook,President,,DEM,Dean Phillips,16
+McCook,President,,DEM,Armando Perez-Serrato,4
+McPherson,President,,DEM,Marianne Williamson,5
+McPherson,President,,DEM,Joseph R Biden Jr,25
+McPherson,President,,DEM,Dean Phillips,5
+McPherson,President,,DEM,Armando Perez-Serrato,3
 Meade,President,,DEM,Marianne Williamson,72
 Meade,President,,DEM,Joseph R Biden Jr,353
 Meade,President,,DEM,Dean Phillips,51
@@ -321,8 +321,8 @@ Faulk,State Senate,23,REP,Steven Ray Roseland,393
 Faulk,State Senate,23,REP,Mark Lapka,155
 Hand,State Senate,23,REP,Steven Ray Roseland,271
 Hand,State Senate,23,REP,Mark Lapka,243
-Mcpherson,State Senate,23,REP,Steven Ray Roseland,84
-Mcpherson,State Senate,23,REP,Mark Lapka,553
+McPherson,State Senate,23,REP,Steven Ray Roseland,84
+McPherson,State Senate,23,REP,Mark Lapka,553
 Potter,State Senate,23,REP,Steven Ray Roseland,372
 Potter,State Senate,23,REP,Mark Lapka,143
 Walworth,State Senate,23,REP,Steven Ray Roseland,302
@@ -496,9 +496,9 @@ Hanson,State House,19,REP,Jessica Bahmuller,444
 Hutchinson,State House,19,REP,Drew Peterson,451
 Hutchinson,State House,19,REP,Steven Mettler,509
 Hutchinson,State House,19,REP,Jessica Bahmuller,708
-Mccook,State House,19,REP,Drew Peterson,367
-Mccook,State House,19,REP,Steven Mettler,252
-Mccook,State House,19,REP,Jessica Bahmuller,478
+McCook,State House,19,REP,Drew Peterson,367
+McCook,State House,19,REP,Steven Mettler,252
+McCook,State House,19,REP,Jessica Bahmuller,478
 Turner,State House,19,REP,Drew Peterson,26
 Turner,State House,19,REP,Steven Mettler,34
 Turner,State House,19,REP,Jessica Bahmuller,35
@@ -541,9 +541,9 @@ Faulk,State House,23,REP,James D. Wangsness,236
 Hand,State House,23,REP,Spencer Gosch,289
 Hand,State House,23,REP,Scott Moore,411
 Hand,State House,23,REP,James D. Wangsness,235
-Mcpherson,State House,23,REP,Spencer Gosch,500
-Mcpherson,State House,23,REP,Scott Moore,538
-Mcpherson,State House,23,REP,James D. Wangsness,110
+McPherson,State House,23,REP,Spencer Gosch,500
+McPherson,State House,23,REP,Scott Moore,538
+McPherson,State House,23,REP,James D. Wangsness,110
 Potter,State House,23,REP,Spencer Gosch,247
 Potter,State House,23,REP,Scott Moore,313
 Potter,State House,23,REP,James D. Wangsness,271
