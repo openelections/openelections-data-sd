@@ -1,0 +1,905 @@
+county,office,district,party,candidate,votes
+Aurora,Governor,,REP,Dusty Johnson,67
+Aurora,Governor,,REP,Jon Hansen,165
+Aurora,Governor,,REP,Larry Rhoden,92
+Aurora,Governor,,REP,Toby Doeden,144
+Beadle,Governor,,REP,Dusty Johnson,522
+Beadle,Governor,,REP,Jon Hansen,249
+Beadle,Governor,,REP,Larry Rhoden,581
+Beadle,Governor,,REP,Toby Doeden,641
+Bennett,Governor,,REP,Dusty Johnson,48
+Bennett,Governor,,REP,Jon Hansen,71
+Bennett,Governor,,REP,Larry Rhoden,101
+Bennett,Governor,,REP,Toby Doeden,118
+Bon Homme,Governor,,REP,Dusty Johnson,199
+Bon Homme,Governor,,REP,Jon Hansen,248
+Bon Homme,Governor,,REP,Larry Rhoden,234
+Bon Homme,Governor,,REP,Toby Doeden,417
+Brookings,Governor,,REP,Dusty Johnson,1200
+Brookings,Governor,,REP,Jon Hansen,906
+Brookings,Governor,,REP,Larry Rhoden,878
+Brookings,Governor,,REP,Toby Doeden,1110
+Brown,Governor,,REP,Dusty Johnson,1734
+Brown,Governor,,REP,Jon Hansen,1332
+Brown,Governor,,REP,Larry Rhoden,1094
+Brown,Governor,,REP,Toby Doeden,1982
+Brule,Governor,,REP,Dusty Johnson,142
+Brule,Governor,,REP,Jon Hansen,246
+Brule,Governor,,REP,Larry Rhoden,234
+Brule,Governor,,REP,Toby Doeden,243
+Buffalo,Governor,,REP,Dusty Johnson,13
+Buffalo,Governor,,REP,Jon Hansen,22
+Buffalo,Governor,,REP,Larry Rhoden,26
+Buffalo,Governor,,REP,Toby Doeden,19
+Butte,Governor,,REP,Dusty Johnson,328
+Butte,Governor,,REP,Jon Hansen,453
+Butte,Governor,,REP,Larry Rhoden,748
+Butte,Governor,,REP,Toby Doeden,680
+Campbell,Governor,,REP,Dusty Johnson,51
+Campbell,Governor,,REP,Jon Hansen,122
+Campbell,Governor,,REP,Larry Rhoden,126
+Campbell,Governor,,REP,Toby Doeden,153
+Charles Mix,Governor,,REP,Dusty Johnson,206
+Charles Mix,Governor,,REP,Jon Hansen,513
+Charles Mix,Governor,,REP,Larry Rhoden,307
+Charles Mix,Governor,,REP,Toby Doeden,294
+Clark,Governor,,REP,Dusty Johnson,210
+Clark,Governor,,REP,Jon Hansen,126
+Clark,Governor,,REP,Larry Rhoden,263
+Clark,Governor,,REP,Toby Doeden,351
+Clay,Governor,,REP,Dusty Johnson,331
+Clay,Governor,,REP,Jon Hansen,260
+Clay,Governor,,REP,Larry Rhoden,276
+Clay,Governor,,REP,Toby Doeden,326
+Codington,Governor,,REP,Dusty Johnson,925
+Codington,Governor,,REP,Jon Hansen,598
+Codington,Governor,,REP,Larry Rhoden,895
+Codington,Governor,,REP,Toby Doeden,1366
+Corson,Governor,,REP,Dusty Johnson,25
+Corson,Governor,,REP,Jon Hansen,65
+Corson,Governor,,REP,Larry Rhoden,96
+Corson,Governor,,REP,Toby Doeden,78
+Custer,Governor,,REP,Dusty Johnson,402
+Custer,Governor,,REP,Jon Hansen,299
+Custer,Governor,,REP,Larry Rhoden,718
+Custer,Governor,,REP,Toby Doeden,1254
+Davison,Governor,,REP,Dusty Johnson,1194
+Davison,Governor,,REP,Jon Hansen,585
+Davison,Governor,,REP,Larry Rhoden,573
+Davison,Governor,,REP,Toby Doeden,839
+Day,Governor,,REP,Dusty Johnson,258
+Day,Governor,,REP,Jon Hansen,113
+Day,Governor,,REP,Larry Rhoden,265
+Day,Governor,,REP,Toby Doeden,300
+Deuel,Governor,,REP,Dusty Johnson,178
+Deuel,Governor,,REP,Jon Hansen,228
+Deuel,Governor,,REP,Larry Rhoden,211
+Deuel,Governor,,REP,Toby Doeden,374
+Dewey,Governor,,REP,Dusty Johnson,41
+Dewey,Governor,,REP,Jon Hansen,39
+Dewey,Governor,,REP,Larry Rhoden,142
+Dewey,Governor,,REP,Toby Doeden,94
+Douglas,Governor,,REP,Dusty Johnson,133
+Douglas,Governor,,REP,Jon Hansen,374
+Douglas,Governor,,REP,Larry Rhoden,315
+Douglas,Governor,,REP,Toby Doeden,233
+Edmunds,Governor,,REP,Dusty Johnson,156
+Edmunds,Governor,,REP,Jon Hansen,243
+Edmunds,Governor,,REP,Larry Rhoden,206
+Edmunds,Governor,,REP,Toby Doeden,328
+Fall River,Governor,,REP,Dusty Johnson,286
+Fall River,Governor,,REP,Jon Hansen,212
+Fall River,Governor,,REP,Larry Rhoden,432
+Fall River,Governor,,REP,Toby Doeden,886
+Faulk,Governor,,REP,Dusty Johnson,195
+Faulk,Governor,,REP,Jon Hansen,187
+Faulk,Governor,,REP,Larry Rhoden,208
+Faulk,Governor,,REP,Toby Doeden,201
+Grant,Governor,,REP,Dusty Johnson,278
+Grant,Governor,,REP,Jon Hansen,151
+Grant,Governor,,REP,Larry Rhoden,346
+Grant,Governor,,REP,Toby Doeden,529
+Gregory,Governor,,REP,Dusty Johnson,183
+Gregory,Governor,,REP,Jon Hansen,407
+Gregory,Governor,,REP,Larry Rhoden,297
+Gregory,Governor,,REP,Toby Doeden,294
+Haakon,Governor,,REP,Dusty Johnson,62
+Haakon,Governor,,REP,Jon Hansen,110
+Haakon,Governor,,REP,Larry Rhoden,272
+Haakon,Governor,,REP,Toby Doeden,172
+Hamlin,Governor,,REP,Dusty Johnson,343
+Hamlin,Governor,,REP,Jon Hansen,298
+Hamlin,Governor,,REP,Larry Rhoden,460
+Hamlin,Governor,,REP,Toby Doeden,543
+Hand,Governor,,REP,Dusty Johnson,124
+Hand,Governor,,REP,Jon Hansen,229
+Hand,Governor,,REP,Larry Rhoden,284
+Hand,Governor,,REP,Toby Doeden,162
+Hanson,Governor,,REP,Dusty Johnson,119
+Hanson,Governor,,REP,Jon Hansen,153
+Hanson,Governor,,REP,Larry Rhoden,149
+Hanson,Governor,,REP,Toby Doeden,236
+Harding,Governor,,REP,Dusty Johnson,35
+Harding,Governor,,REP,Jon Hansen,152
+Harding,Governor,,REP,Larry Rhoden,163
+Harding,Governor,,REP,Toby Doeden,105
+Hughes,Governor,,REP,Dusty Johnson,1359
+Hughes,Governor,,REP,Jon Hansen,539
+Hughes,Governor,,REP,Larry Rhoden,1519
+Hughes,Governor,,REP,Toby Doeden,723
+Hutchinson,Governor,,REP,Dusty Johnson,327
+Hutchinson,Governor,,REP,Jon Hansen,499
+Hutchinson,Governor,,REP,Larry Rhoden,390
+Hutchinson,Governor,,REP,Toby Doeden,488
+Hyde,Governor,,REP,Dusty Johnson,57
+Hyde,Governor,,REP,Jon Hansen,77
+Hyde,Governor,,REP,Larry Rhoden,111
+Hyde,Governor,,REP,Toby Doeden,81
+Jackson,Governor,,REP,Dusty Johnson,51
+Jackson,Governor,,REP,Jon Hansen,107
+Jackson,Governor,,REP,Larry Rhoden,166
+Jackson,Governor,,REP,Toby Doeden,121
+Jerauld,Governor,,REP,Dusty Johnson,67
+Jerauld,Governor,,REP,Jon Hansen,64
+Jerauld,Governor,,REP,Larry Rhoden,116
+Jerauld,Governor,,REP,Toby Doeden,98
+Jones,Governor,,REP,Dusty Johnson,47
+Jones,Governor,,REP,Jon Hansen,64
+Jones,Governor,,REP,Larry Rhoden,137
+Jones,Governor,,REP,Toby Doeden,84
+Kingsbury,Governor,,REP,Dusty Johnson,236
+Kingsbury,Governor,,REP,Jon Hansen,282
+Kingsbury,Governor,,REP,Larry Rhoden,320
+Kingsbury,Governor,,REP,Toby Doeden,370
+Lake,Governor,,REP,Dusty Johnson,484
+Lake,Governor,,REP,Jon Hansen,314
+Lake,Governor,,REP,Larry Rhoden,546
+Lake,Governor,,REP,Toby Doeden,581
+Lawrence,Governor,,REP,Dusty Johnson,955
+Lawrence,Governor,,REP,Jon Hansen,912
+Lawrence,Governor,,REP,Larry Rhoden,1692
+Lawrence,Governor,,REP,Toby Doeden,1578
+Lincoln,Governor,,REP,Dusty Johnson,2984
+Lincoln,Governor,,REP,Jon Hansen,2791
+Lincoln,Governor,,REP,Larry Rhoden,1802
+Lincoln,Governor,,REP,Toby Doeden,2641
+Lyman,Governor,,REP,Dusty Johnson,104
+Lyman,Governor,,REP,Jon Hansen,124
+Lyman,Governor,,REP,Larry Rhoden,190
+Lyman,Governor,,REP,Toby Doeden,183
+Marshall,Governor,,REP,Dusty Johnson,180
+Marshall,Governor,,REP,Jon Hansen,100
+Marshall,Governor,,REP,Larry Rhoden,235
+Marshall,Governor,,REP,Toby Doeden,210
+McCook,Governor,,REP,Dusty Johnson,300
+McCook,Governor,,REP,Jon Hansen,279
+McCook,Governor,,REP,Larry Rhoden,264
+McCook,Governor,,REP,Toby Doeden,446
+McPherson,Governor,,REP,Dusty Johnson,236
+McPherson,Governor,,REP,Jon Hansen,250
+McPherson,Governor,,REP,Larry Rhoden,169
+McPherson,Governor,,REP,Toby Doeden,166
+Meade,Governor,,REP,Dusty Johnson,728
+Meade,Governor,,REP,Jon Hansen,733
+Meade,Governor,,REP,Larry Rhoden,2364
+Meade,Governor,,REP,Toby Doeden,1893
+Mellette,Governor,,REP,Dusty Johnson,22
+Mellette,Governor,,REP,Jon Hansen,59
+Mellette,Governor,,REP,Larry Rhoden,88
+Mellette,Governor,,REP,Toby Doeden,61
+Miner,Governor,,REP,Dusty Johnson,100
+Miner,Governor,,REP,Jon Hansen,98
+Miner,Governor,,REP,Larry Rhoden,75
+Miner,Governor,,REP,Toby Doeden,104
+Minnehaha,Governor,,REP,Dusty Johnson,6162
+Minnehaha,Governor,,REP,Jon Hansen,5933
+Minnehaha,Governor,,REP,Larry Rhoden,4058
+Minnehaha,Governor,,REP,Toby Doeden,6447
+Moody,Governor,,REP,Dusty Johnson,129
+Moody,Governor,,REP,Jon Hansen,451
+Moody,Governor,,REP,Larry Rhoden,133
+Moody,Governor,,REP,Toby Doeden,245
+Oglala Lakota,Governor,,REP,Dusty Johnson,24
+Oglala Lakota,Governor,,REP,Jon Hansen,12
+Oglala Lakota,Governor,,REP,Larry Rhoden,12
+Oglala Lakota,Governor,,REP,Toby Doeden,21
+Pennington,Governor,,REP,Dusty Johnson,3595
+Pennington,Governor,,REP,Jon Hansen,2100
+Pennington,Governor,,REP,Larry Rhoden,4714
+Pennington,Governor,,REP,Toby Doeden,5810
+Perkins,Governor,,REP,Dusty Johnson,139
+Perkins,Governor,,REP,Jon Hansen,233
+Perkins,Governor,,REP,Larry Rhoden,265
+Perkins,Governor,,REP,Toby Doeden,195
+Potter,Governor,,REP,Dusty Johnson,177
+Potter,Governor,,REP,Jon Hansen,135
+Potter,Governor,,REP,Larry Rhoden,290
+Potter,Governor,,REP,Toby Doeden,221
+Roberts,Governor,,REP,Dusty Johnson,186
+Roberts,Governor,,REP,Jon Hansen,114
+Roberts,Governor,,REP,Larry Rhoden,242
+Roberts,Governor,,REP,Toby Doeden,445
+Sanborn,Governor,,REP,Dusty Johnson,60
+Sanborn,Governor,,REP,Jon Hansen,89
+Sanborn,Governor,,REP,Larry Rhoden,92
+Sanborn,Governor,,REP,Toby Doeden,84
+Spink,Governor,,REP,Dusty Johnson,220
+Spink,Governor,,REP,Jon Hansen,223
+Spink,Governor,,REP,Larry Rhoden,320
+Spink,Governor,,REP,Toby Doeden,352
+Stanley,Governor,,REP,Dusty Johnson,288
+Stanley,Governor,,REP,Jon Hansen,123
+Stanley,Governor,,REP,Larry Rhoden,408
+Stanley,Governor,,REP,Toby Doeden,255
+Sully,Governor,,REP,Dusty Johnson,81
+Sully,Governor,,REP,Jon Hansen,75
+Sully,Governor,,REP,Larry Rhoden,182
+Sully,Governor,,REP,Toby Doeden,145
+Todd,Governor,,REP,Dusty Johnson,23
+Todd,Governor,,REP,Jon Hansen,37
+Todd,Governor,,REP,Larry Rhoden,55
+Todd,Governor,,REP,Toby Doeden,97
+Tripp,Governor,,REP,Dusty Johnson,263
+Tripp,Governor,,REP,Jon Hansen,416
+Tripp,Governor,,REP,Larry Rhoden,480
+Tripp,Governor,,REP,Toby Doeden,444
+Turner,Governor,,REP,Dusty Johnson,343
+Turner,Governor,,REP,Jon Hansen,497
+Turner,Governor,,REP,Larry Rhoden,365
+Turner,Governor,,REP,Toby Doeden,572
+Union,Governor,,REP,Dusty Johnson,768
+Union,Governor,,REP,Jon Hansen,361
+Union,Governor,,REP,Larry Rhoden,353
+Union,Governor,,REP,Toby Doeden,783
+Walworth,Governor,,REP,Dusty Johnson,212
+Walworth,Governor,,REP,Jon Hansen,305
+Walworth,Governor,,REP,Larry Rhoden,289
+Walworth,Governor,,REP,Toby Doeden,281
+Yankton,Governor,,REP,Dusty Johnson,948
+Yankton,Governor,,REP,Jon Hansen,748
+Yankton,Governor,,REP,Larry Rhoden,807
+Yankton,Governor,,REP,Toby Doeden,980
+Ziebach,Governor,,REP,Dusty Johnson,13
+Ziebach,Governor,,REP,Jon Hansen,41
+Ziebach,Governor,,REP,Larry Rhoden,80
+Ziebach,Governor,,REP,Toby Doeden,35
+Brown,State House,01,REP,Daniel Kjos,400
+Brown,State House,01,REP,Keith Miller,780
+Brown,State House,01,REP,Logan Manhart,817
+Brown,State House,01,REP,Nick Fosness,628
+Day,State House,01,REP,Daniel Kjos,620
+Day,State House,01,REP,Keith Miller,215
+Day,State House,01,REP,Logan Manhart,217
+Day,State House,01,REP,Nick Fosness,434
+Marshall,State House,01,REP,Daniel Kjos,387
+Marshall,State House,01,REP,Keith Miller,162
+Marshall,State House,01,REP,Logan Manhart,166
+Marshall,State House,01,REP,Nick Fosness,496
+Roberts,State House,01,REP,Daniel Kjos,257
+Roberts,State House,01,REP,Keith Miller,198
+Roberts,State House,01,REP,Logan Manhart,198
+Roberts,State House,01,REP,Nick Fosness,297
+Minnehaha,State House,02,REP,Adam Long,2004
+Minnehaha,State House,02,REP,Brandon Lane,1394
+Minnehaha,State House,02,REP,Dawn Hill,1120
+Minnehaha,State House,02,REP,Manuel Luschas,1634
+Brown,State House,03,REP,Al Novstrup,1598
+Brown,State House,03,REP,Kaleb Weis,1096
+Brown,State House,03,REP,Spencer Sommers,2217
+Brown,State House,03,REP,Timothy Hanigan,1980
+Clark,State House,04,REP,Dylan C Jordan,245
+Clark,State House,04,REP,Fred Deutsch,337
+Clark,State House,04,REP,Gary William Hudiburgh III,28
+Clark,State House,04,REP,Kent Roe,369
+Clark,State House,04,REP,Ryan Kohl,270
+Codington,State House,04,REP,Dylan C Jordan,173
+Codington,State House,04,REP,Fred Deutsch,266
+Codington,State House,04,REP,Gary William Hudiburgh III,27
+Codington,State House,04,REP,Kent Roe,258
+Codington,State House,04,REP,Ryan Kohl,222
+Deuel,State House,04,REP,Dylan C Jordan,440
+Deuel,State House,04,REP,Fred Deutsch,426
+Deuel,State House,04,REP,Gary William Hudiburgh III,74
+Deuel,State House,04,REP,Kent Roe,241
+Deuel,State House,04,REP,Ryan Kohl,364
+Grant,State House,04,REP,Dylan C Jordan,364
+Grant,State House,04,REP,Fred Deutsch,579
+Grant,State House,04,REP,Gary William Hudiburgh III,40
+Grant,State House,04,REP,Kent Roe,387
+Grant,State House,04,REP,Ryan Kohl,792
+Hamlin,State House,04,REP,Dylan C Jordan,491
+Hamlin,State House,04,REP,Fred Deutsch,598
+Hamlin,State House,04,REP,Gary William Hudiburgh III,56
+Hamlin,State House,04,REP,Kent Roe,880
+Hamlin,State House,04,REP,Ryan Kohl,574
+Roberts,State House,04,REP,Dylan C Jordan,124
+Roberts,State House,04,REP,Fred Deutsch,120
+Roberts,State House,04,REP,Gary William Hudiburgh III,8
+Roberts,State House,04,REP,Kent Roe,119
+Roberts,State House,04,REP,Ryan Kohl,163
+Lincoln,State House,06,REP,Elliott Neff,1390
+Lincoln,State House,06,REP,Jerry Jongeling,1413
+Lincoln,State House,06,REP,Ned Horsted,737
+Lincoln,State House,06,REP,Tim Czmowski,707
+Brookings,State House,07,REP,Dennis Willert,1001
+Brookings,State House,07,REP,Mellissa Heermann,1683
+Brookings,State House,07,REP,Roger DeGroot,1678
+Brookings,State House,08,REP,Danny Brown,174
+Brookings,State House,08,REP,James Sapp,361
+Brookings,State House,08,REP,Jon Nelson,405
+Brookings,State House,08,REP,Samuel Krueger,318
+Brookings,State House,08,REP,Todd Wilkinson,644
+Kingsbury,State House,08,REP,Danny Brown,191
+Kingsbury,State House,08,REP,James Sapp,121
+Kingsbury,State House,08,REP,Jon Nelson,586
+Kingsbury,State House,08,REP,Samuel Krueger,119
+Kingsbury,State House,08,REP,Todd Wilkinson,892
+Lake,State House,08,REP,Danny Brown,858
+Lake,State House,08,REP,James Sapp,234
+Lake,State House,08,REP,Jon Nelson,511
+Lake,State House,08,REP,Samuel Krueger,278
+Lake,State House,08,REP,Todd Wilkinson,904
+Miner,State House,08,REP,Danny Brown,70
+Miner,State House,08,REP,James Sapp,49
+Miner,State House,08,REP,Jon Nelson,104
+Miner,State House,08,REP,Samuel Krueger,63
+Miner,State House,08,REP,Todd Wilkinson,217
+Minnehaha,State House,09,REP,Megan Tschetter,1247
+Minnehaha,State House,09,REP,Randy Bury,1017
+Minnehaha,State House,09,REP,Tesa Schwans,1541
+Minnehaha,State House,09,REP,Zach Mulder,836
+Minnehaha,State House,10,REP,Bobbi L. Andera,862
+Minnehaha,State House,10,REP,John Pohlman,948
+Minnehaha,State House,10,REP,Kimberly Petterson,908
+Minnehaha,State House,11,REP,Brian Mulder,1582
+Minnehaha,State House,11,REP,John C. Kunnari,963
+Minnehaha,State House,11,REP,Keri K. Weems,1589
+Lincoln,State House,13,REP,Jack R Kolbeck,1764
+Lincoln,State House,13,REP,John Hughes,1677
+Lincoln,State House,13,REP,Nick Kotzea,1569
+Minnehaha,State House,13,REP,Jack R Kolbeck,473
+Minnehaha,State House,13,REP,John Hughes,441
+Minnehaha,State House,13,REP,Nick Kotzea,422
+Minnehaha,State House,14,REP,Taylor Rae Rehfeldt,2457
+Minnehaha,State House,14,REP,Tony Kayser,1627
+Minnehaha,State House,14,REP,Tyler Tordsen,1678
+Lincoln,State House,16,REP,Jason D VanDenTop,1143
+Lincoln,State House,16,REP,John Shubeck,716
+Lincoln,State House,16,REP,Lisa Boque,959
+Turner,State House,16,REP,Jason D VanDenTop,552
+Turner,State House,16,REP,John Shubeck,892
+Turner,State House,16,REP,Lisa Boque,781
+Union,State House,16,REP,Jason D VanDenTop,184
+Union,State House,16,REP,John Shubeck,339
+Union,State House,16,REP,Lisa Boque,452
+Clay,State House,17,REP,Chris Kassin,929
+Clay,State House,17,REP,Robin Schiro,134
+Clay,State House,17,REP,Troy Redler,359
+Union,State House,17,REP,Chris Kassin,1204
+Union,State House,17,REP,Robin Schiro,173
+Union,State House,17,REP,Troy Redler,747
+Clay,State House,18,REP,John R. Marquardt,24
+Clay,State House,18,REP,Michael Nutley,49
+Clay,State House,18,REP,Mike Stevens,48
+Yankton,State House,18,REP,John R. Marquardt,1695
+Yankton,State House,18,REP,Michael Nutley,1437
+Yankton,State House,18,REP,Mike Stevens,2208
+Bon Homme,State House,19,REP,Drew Peterson,578
+Bon Homme,State House,19,REP,Jessica Bahmuller,693
+Bon Homme,State House,19,REP,Tanner Michael Hento,476
+Hanson,State House,19,REP,Drew Peterson,344
+Hanson,State House,19,REP,Jessica Bahmuller,533
+Hanson,State House,19,REP,Tanner Michael Hento,125
+Hutchinson,State House,19,REP,Drew Peterson,960
+Hutchinson,State House,19,REP,Jessica Bahmuller,1206
+Hutchinson,State House,19,REP,Tanner Michael Hento,542
+McCook,State House,19,REP,Drew Peterson,815
+McCook,State House,19,REP,Jessica Bahmuller,883
+McCook,State House,19,REP,Tanner Michael Hento,275
+Turner,State House,19,REP,Drew Peterson,70
+Turner,State House,19,REP,Jessica Bahmuller,70
+Turner,State House,19,REP,Tanner Michael Hento,29
+Aurora,State House,21,REP,Jim Halverson,188
+Aurora,State House,21,REP,John H. Harter,177
+Aurora,State House,21,REP,Marty Overweg,348
+Aurora,State House,21,REP,Wyatt DeJong,48
+Charles Mix,State House,21,REP,Jim Halverson,550
+Charles Mix,State House,21,REP,John H. Harter,409
+Charles Mix,State House,21,REP,Marty Overweg,992
+Charles Mix,State House,21,REP,Wyatt DeJong,203
+Douglas,State House,21,REP,Jim Halverson,424
+Douglas,State House,21,REP,John H. Harter,300
+Douglas,State House,21,REP,Marty Overweg,828
+Douglas,State House,21,REP,Wyatt DeJong,128
+Gregory,State House,21,REP,Jim Halverson,675
+Gregory,State House,21,REP,John H. Harter,499
+Gregory,State House,21,REP,Marty Overweg,556
+Gregory,State House,21,REP,Wyatt DeJong,121
+Tripp,State House,21,REP,Jim Halverson,924
+Tripp,State House,21,REP,John H. Harter,668
+Tripp,State House,21,REP,Marty Overweg,498
+Tripp,State House,21,REP,Wyatt DeJong,647
+Brown,State House,23,REP,Amber Werdel,137
+Brown,State House,23,REP,Dick Werner,128
+Brown,State House,23,REP,Spencer Gosch,240
+Campbell,State House,23,REP,Amber Werdel,142
+Campbell,State House,23,REP,Dick Werner,255
+Campbell,State House,23,REP,Spencer Gosch,311
+Edmunds,State House,23,REP,Amber Werdel,330
+Edmunds,State House,23,REP,Dick Werner,380
+Edmunds,State House,23,REP,Spencer Gosch,653
+Faulk,State House,23,REP,Amber Werdel,313
+Faulk,State House,23,REP,Dick Werner,292
+Faulk,State House,23,REP,Spencer Gosch,450
+Hand,State House,23,REP,Amber Werdel,607
+Hand,State House,23,REP,Dick Werner,224
+Hand,State House,23,REP,Spencer Gosch,371
+McPherson,State House,23,REP,Amber Werdel,276
+McPherson,State House,23,REP,Dick Werner,416
+McPherson,State House,23,REP,Spencer Gosch,507
+Potter,State House,23,REP,Amber Werdel,256
+Potter,State House,23,REP,Dick Werner,336
+Potter,State House,23,REP,Spencer Gosch,528
+Walworth,State House,23,REP,Amber Werdel,327
+Walworth,State House,23,REP,Dick Werner,473
+Walworth,State House,23,REP,Spencer Gosch,811
+Haakon,State House,24,REP,Brian Burge,72
+Haakon,State House,24,REP,Laurie Gill,268
+Haakon,State House,24,REP,Mike Weisgram,211
+Haakon,State House,24,REP,Regan Bollweg,176
+Haakon,State House,24,REP,Tim Rounds,160
+Hughes,State House,24,REP,Brian Burge,598
+Hughes,State House,24,REP,Laurie Gill,1708
+Hughes,State House,24,REP,Mike Weisgram,2488
+Hughes,State House,24,REP,Regan Bollweg,1397
+Hughes,State House,24,REP,Tim Rounds,1171
+Hyde,State House,24,REP,Brian Burge,37
+Hyde,State House,24,REP,Laurie Gill,101
+Hyde,State House,24,REP,Mike Weisgram,127
+Hyde,State House,24,REP,Regan Bollweg,185
+Hyde,State House,24,REP,Tim Rounds,83
+Stanley,State House,24,REP,Brian Burge,113
+Stanley,State House,24,REP,Laurie Gill,398
+Stanley,State House,24,REP,Mike Weisgram,686
+Stanley,State House,24,REP,Regan Bollweg,345
+Stanley,State House,24,REP,Tim Rounds,271
+Sully,State House,24,REP,Brian Burge,75
+Sully,State House,24,REP,Laurie Gill,152
+Sully,State House,24,REP,Mike Weisgram,195
+Sully,State House,24,REP,Regan Bollweg,227
+Sully,State House,24,REP,Tim Rounds,139
+Minnehaha,State House,25,REP,Bart L. Sample,1268
+Minnehaha,State House,25,REP,Carrie Sanderson,1467
+Minnehaha,State House,25,REP,Nick Buchholz,1532
+Moody,State House,25,REP,Bart L. Sample,551
+Moody,State House,25,REP,Carrie Sanderson,455
+Moody,State House,25,REP,Nick Buchholz,454
+Brule,State House,26B,REP,Angi Hanzlik,483
+Brule,State House,26B,REP,Will Mahnke,348
+Buffalo,State House,26B,REP,Angi Hanzlik,35
+Buffalo,State House,26B,REP,Will Mahnke,39
+Hughes,State House,26B,REP,Angi Hanzlik,3
+Hughes,State House,26B,REP,Will Mahnke,3
+Hyde,State House,26B,REP,Angi Hanzlik,0
+Hyde,State House,26B,REP,Will Mahnke,0
+Jones,State House,26B,REP,Angi Hanzlik,93
+Jones,State House,26B,REP,Will Mahnke,110
+Lyman,State House,26B,REP,Angi Hanzlik,268
+Lyman,State House,26B,REP,Will Mahnke,260
+Butte,State House,28B,REP,Lawrence (Larry) Schmaltz,1041
+Butte,State House,28B,REP,Travis Ismay,1084
+Harding,State House,28B,REP,Lawrence (Larry) Schmaltz,124
+Harding,State House,28B,REP,Travis Ismay,314
+Perkins,State House,28B,REP,Lawrence (Larry) Schmaltz,148
+Perkins,State House,28B,REP,Travis Ismay,199
+Meade,State House,29,REP,Gary Deering,2199
+Meade,State House,29,REP,Gary L Cammack,2135
+Meade,State House,29,REP,Kathy Rice,1957
+Meade,State House,29,REP,Terri Jorgenson,1572
+Custer,State House,30,REP,Stephen Saint,1076
+Custer,State House,30,REP,Tim R Goodwin,1477
+Custer,State House,30,REP,Trish Ladner,1394
+Fall River,State House,30,REP,Stephen Saint,634
+Fall River,State House,30,REP,Tim R Goodwin,973
+Fall River,State House,30,REP,Trish Ladner,1067
+Pennington,State House,30,REP,Stephen Saint,603
+Pennington,State House,30,REP,Tim R Goodwin,1259
+Pennington,State House,30,REP,Trish Ladner,989
+Meade,State House,33,REP,Curt Massie,323
+Meade,State House,33,REP,Jeff Marlette,272
+Meade,State House,33,REP,Phil Jensen,437
+Meade,State House,33,REP,Sandra Comer,214
+Pennington,State House,33,REP,Curt Massie,1665
+Pennington,State House,33,REP,Jeff Marlette,1711
+Pennington,State House,33,REP,Phil Jensen,1849
+Pennington,State House,33,REP,Sandra Comer,992
+Pennington,State House,34,REP,Becky J Drury,1861
+Pennington,State House,34,REP,Heather Baxter,1815
+Pennington,State House,34,REP,Mike Derby,2710
+Pennington,State House,35,REP,Dale Bartscher,1241
+Pennington,State House,35,REP,Emmett Reistroffer,484
+Pennington,State House,35,REP,Jace West,744
+Pennington,State House,35,REP,Jason Fleming,1205
+Minnehaha,State Senate,02,REP,David Kull,1411
+Minnehaha,State Senate,02,REP,John Sjaarda,2309
+Brown,State Senate,03,REP,Carl Perry,1443
+Brown,State Senate,03,REP,"Katherine ""Katie"" Washnok",2509
+Clark,State Senate,04,REP,Stephanie Sauder,495
+Clark,State Senate,04,REP,Timothy Begalka,319
+Codington,State Senate,04,REP,Stephanie Sauder,279
+Codington,State Senate,04,REP,Timothy Begalka,278
+Deuel,State Senate,04,REP,Stephanie Sauder,293
+Deuel,State Senate,04,REP,Timothy Begalka,683
+Grant,State Senate,04,REP,Stephanie Sauder,633
+Grant,State Senate,04,REP,Timothy Begalka,588
+Hamlin,State Senate,04,REP,Stephanie Sauder,929
+Hamlin,State Senate,04,REP,Timothy Begalka,680
+Roberts,State Senate,04,REP,Stephanie Sauder,175
+Roberts,State Senate,04,REP,Timothy Begalka,151
+Codington,State Senate,05,REP,Glen A. Vilhauer,1852
+Codington,State Senate,05,REP,Josephine Garcia,1283
+Minnehaha,State Senate,09,REP,Daryl Christensen,1154
+Minnehaha,State Senate,09,REP,Joy Hohn,1626
+Minnehaha,State Senate,11,REP,Chris Karr,1587
+Minnehaha,State Senate,11,REP,Graham Oey,1018
+Lincoln,State Senate,13,REP,Dan Kippley,1368
+Lincoln,State Senate,13,REP,Sue Peterson,1940
+Minnehaha,State Senate,13,REP,Dan Kippley,373
+Minnehaha,State Senate,13,REP,Sue Peterson,465
+Minnehaha,State Senate,14,REP,Larry P. Zikmund,2450
+Minnehaha,State Senate,14,REP,R. Shawn Tornow,956
+Clay,State Senate,17,REP,Jeffrey D. Church,280
+Clay,State Senate,17,REP,Sydney Davis,798
+Union,State Senate,17,REP,Jeffrey D. Church,316
+Union,State Senate,17,REP,Sydney Davis,1146
+Clay,State Senate,18,REP,Jean Hunhoff,34
+Clay,State Senate,18,REP,Lauren Nelson,54
+Yankton,State Senate,18,REP,Jean Hunhoff,1608
+Yankton,State Senate,18,REP,Lauren Nelson,1831
+Bon Homme,State Senate,19,REP,Donna Olson,435
+Bon Homme,State Senate,19,REP,Kyle Schoenfish,621
+Hanson,State Senate,19,REP,Donna Olson,161
+Hanson,State Senate,19,REP,Kyle Schoenfish,431
+Hutchinson,State Senate,19,REP,Donna Olson,567
+Hutchinson,State Senate,19,REP,Kyle Schoenfish,1082
+McCook,State Senate,19,REP,Donna Olson,352
+McCook,State Senate,19,REP,Kyle Schoenfish,793
+Turner,State Senate,19,REP,Donna Olson,36
+Turner,State Senate,19,REP,Kyle Schoenfish,60
+Aurora,State Senate,21,REP,Erin Tobin,239
+Aurora,State Senate,21,REP,Mykala Voita,216
+Charles Mix,State Senate,21,REP,Erin Tobin,542
+Charles Mix,State Senate,21,REP,Mykala Voita,751
+Douglas,State Senate,21,REP,Erin Tobin,442
+Douglas,State Senate,21,REP,Mykala Voita,573
+Gregory,State Senate,21,REP,Erin Tobin,334
+Gregory,State Senate,21,REP,Mykala Voita,846
+Tripp,State Senate,21,REP,Erin Tobin,714
+Tripp,State Senate,21,REP,Mykala Voita,888
+Haakon,State Senate,24,REP,Brian Joseph Murphy,54
+Haakon,State Senate,24,REP,Jim Mehlhaff,163
+Haakon,State Senate,24,REP,Mark James Nelson,355
+Hughes,State Senate,24,REP,Brian Joseph Murphy,1265
+Hughes,State Senate,24,REP,Jim Mehlhaff,2227
+Hughes,State Senate,24,REP,Mark James Nelson,366
+Hyde,State Senate,24,REP,Brian Joseph Murphy,60
+Hyde,State Senate,24,REP,Jim Mehlhaff,170
+Hyde,State Senate,24,REP,Mark James Nelson,53
+Stanley,State Senate,24,REP,Brian Joseph Murphy,239
+Stanley,State Senate,24,REP,Jim Mehlhaff,597
+Stanley,State Senate,24,REP,Mark James Nelson,132
+Sully,State Senate,24,REP,Brian Joseph Murphy,156
+Sully,State Senate,24,REP,Jim Mehlhaff,234
+Sully,State Senate,24,REP,Mark James Nelson,54
+Brule,State Senate,26,REP,Rebecca Reimer,448
+Brule,State Senate,26,REP,Tamara R. Grove,403
+Buffalo,State Senate,26,REP,Rebecca Reimer,26
+Buffalo,State Senate,26,REP,Tamara R. Grove,54
+Hughes,State Senate,26,REP,Rebecca Reimer,8
+Hughes,State Senate,26,REP,Tamara R. Grove,3
+Hyde,State Senate,26,REP,Rebecca Reimer,0
+Hyde,State Senate,26,REP,Tamara R. Grove,0
+Jones,State Senate,26,REP,Rebecca Reimer,186
+Jones,State Senate,26,REP,Tamara R. Grove,125
+Lyman,State Senate,26,REP,Rebecca Reimer,381
+Lyman,State Senate,26,REP,Tamara R. Grove,212
+Mellette,State Senate,26,REP,Rebecca Reimer,84
+Mellette,State Senate,26,REP,Tamara R. Grove,142
+Todd,State Senate,26,REP,Rebecca Reimer,77
+Todd,State Senate,26,REP,Tamara R. Grove,123
+Butte,State Senate,28,REP,Ryan M. Maher,796
+Butte,State Senate,28,REP,Sam Marty,1220
+Corson,State Senate,28,REP,Ryan M. Maher,194
+Corson,State Senate,28,REP,Sam Marty,77
+Dewey,State Senate,28,REP,Ryan M. Maher,264
+Dewey,State Senate,28,REP,Sam Marty,53
+Harding,State Senate,28,REP,Ryan M. Maher,169
+Harding,State Senate,28,REP,Sam Marty,279
+Perkins,State Senate,28,REP,Ryan M. Maher,410
+Perkins,State Senate,28,REP,Sam Marty,417
+Ziebach,State Senate,28,REP,Ryan M. Maher,117
+Ziebach,State Senate,28,REP,Sam Marty,49
+Meade,State Senate,29,REP,John Carley,2151
+Meade,State Senate,29,REP,William J. Meirose,2280
+Custer,State Senate,30,REP,Amber Hulse,1769
+Custer,State Senate,30,REP,Julie Frye-Mueller,807
+Fall River,State Senate,30,REP,Amber Hulse,1185
+Fall River,State Senate,30,REP,Julie Frye-Mueller,586
+Pennington,State Senate,30,REP,Amber Hulse,1186
+Pennington,State Senate,30,REP,Julie Frye-Mueller,691
+Lawrence,State Senate,31,REP,John E. Teupel,2077
+Lawrence,State Senate,31,REP,Randy Deibert,2692
+Pennington,State Senate,32,REP,Helene Duhamel,1316
+Pennington,State Senate,32,REP,Karen M. McNeal,759
+Meade,State Senate,33,REP,Curt Voight,345
+Meade,State Senate,33,REP,David Johnson,421
+Pennington,State Senate,33,REP,Curt Voight,1896
+Pennington,State Senate,33,REP,David Johnson,1989
+Pennington,State Senate,34,REP,Jason E. Green,1760
+Pennington,State Senate,34,REP,Taffy Howard,2334
+Pennington,State Senate,35,REP,Greg Blanc,1289
+Pennington,State Senate,35,REP,Nicole Mitzel,1180
+Aurora,U.S. House,1,REP,James Bialota,144
+Aurora,U.S. House,1,REP,Marty Jackley,311
+Beadle,U.S. House,1,REP,James Bialota,407
+Beadle,U.S. House,1,REP,Marty Jackley,1535
+Bennett,U.S. House,1,REP,James Bialota,50
+Bennett,U.S. House,1,REP,Marty Jackley,278
+Bon Homme,U.S. House,1,REP,James Bialota,231
+Bon Homme,U.S. House,1,REP,Marty Jackley,832
+Brookings,U.S. House,1,REP,James Bialota,691
+Brookings,U.S. House,1,REP,Marty Jackley,3186
+Brown,U.S. House,1,REP,James Bialota,1039
+Brown,U.S. House,1,REP,Marty Jackley,4730
+Brule,U.S. House,1,REP,James Bialota,224
+Brule,U.S. House,1,REP,Marty Jackley,618
+Buffalo,U.S. House,1,REP,James Bialota,20
+Buffalo,U.S. House,1,REP,Marty Jackley,56
+Butte,U.S. House,1,REP,James Bialota,504
+Butte,U.S. House,1,REP,Marty Jackley,1601
+Campbell,U.S. House,1,REP,James Bialota,64
+Campbell,U.S. House,1,REP,Marty Jackley,356
+Charles Mix,U.S. House,1,REP,James Bialota,336
+Charles Mix,U.S. House,1,REP,Marty Jackley,928
+Clark,U.S. House,1,REP,James Bialota,149
+Clark,U.S. House,1,REP,Marty Jackley,758
+Clay,U.S. House,1,REP,James Bialota,232
+Clay,U.S. House,1,REP,Marty Jackley,884
+Codington,U.S. House,1,REP,James Bialota,737
+Codington,U.S. House,1,REP,Marty Jackley,2905
+Corson,U.S. House,1,REP,James Bialota,68
+Corson,U.S. House,1,REP,Marty Jackley,194
+Custer,U.S. House,1,REP,James Bialota,654
+Custer,U.S. House,1,REP,Marty Jackley,1844
+Davison,U.S. House,1,REP,James Bialota,599
+Davison,U.S. House,1,REP,Marty Jackley,2477
+Day,U.S. House,1,REP,James Bialota,156
+Day,U.S. House,1,REP,Marty Jackley,737
+Deuel,U.S. House,1,REP,James Bialota,205
+Deuel,U.S. House,1,REP,Marty Jackley,725
+Dewey,U.S. House,1,REP,James Bialota,47
+Dewey,U.S. House,1,REP,Marty Jackley,253
+Douglas,U.S. House,1,REP,James Bialota,212
+Douglas,U.S. House,1,REP,Marty Jackley,787
+Edmunds,U.S. House,1,REP,James Bialota,173
+Edmunds,U.S. House,1,REP,Marty Jackley,717
+Fall River,U.S. House,1,REP,James Bialota,544
+Fall River,U.S. House,1,REP,Marty Jackley,1144
+Faulk,U.S. House,1,REP,James Bialota,126
+Faulk,U.S. House,1,REP,Marty Jackley,619
+Grant,U.S. House,1,REP,James Bialota,270
+Grant,U.S. House,1,REP,Marty Jackley,958
+Gregory,U.S. House,1,REP,James Bialota,245
+Gregory,U.S. House,1,REP,Marty Jackley,874
+Haakon,U.S. House,1,REP,James Bialota,109
+Haakon,U.S. House,1,REP,Marty Jackley,487
+Hamlin,U.S. House,1,REP,James Bialota,337
+Hamlin,U.S. House,1,REP,Marty Jackley,1210
+Hand,U.S. House,1,REP,James Bialota,178
+Hand,U.S. House,1,REP,Marty Jackley,595
+Hanson,U.S. House,1,REP,James Bialota,120
+Hanson,U.S. House,1,REP,Marty Jackley,505
+Harding,U.S. House,1,REP,James Bialota,101
+Harding,U.S. House,1,REP,Marty Jackley,331
+Hughes,U.S. House,1,REP,James Bialota,702
+Hughes,U.S. House,1,REP,Marty Jackley,3341
+Hutchinson,U.S. House,1,REP,James Bialota,351
+Hutchinson,U.S. House,1,REP,Marty Jackley,1273
+Hyde,U.S. House,1,REP,James Bialota,53
+Hyde,U.S. House,1,REP,Marty Jackley,266
+Jackson,U.S. House,1,REP,James Bialota,87
+Jackson,U.S. House,1,REP,Marty Jackley,329
+Jerauld,U.S. House,1,REP,James Bialota,56
+Jerauld,U.S. House,1,REP,Marty Jackley,273
+Jones,U.S. House,1,REP,James Bialota,60
+Jones,U.S. House,1,REP,Marty Jackley,266
+Kingsbury,U.S. House,1,REP,James Bialota,196
+Kingsbury,U.S. House,1,REP,Marty Jackley,958
+Lake,U.S. House,1,REP,James Bialota,290
+Lake,U.S. House,1,REP,Marty Jackley,1563
+Lawrence,U.S. House,1,REP,James Bialota,1079
+Lawrence,U.S. House,1,REP,Marty Jackley,3759
+Lincoln,U.S. House,1,REP,James Bialota,1694
+Lincoln,U.S. House,1,REP,Marty Jackley,8077
+Lyman,U.S. House,1,REP,James Bialota,118
+Lyman,U.S. House,1,REP,Marty Jackley,471
+Marshall,U.S. House,1,REP,James Bialota,102
+Marshall,U.S. House,1,REP,Marty Jackley,589
+McCook,U.S. House,1,REP,James Bialota,263
+McCook,U.S. House,1,REP,Marty Jackley,960
+McPherson,U.S. House,1,REP,James Bialota,164
+McPherson,U.S. House,1,REP,Marty Jackley,616
+Meade,U.S. House,1,REP,James Bialota,1214
+Meade,U.S. House,1,REP,Marty Jackley,4266
+Mellette,U.S. House,1,REP,James Bialota,42
+Mellette,U.S. House,1,REP,Marty Jackley,180
+Miner,U.S. House,1,REP,James Bialota,79
+Miner,U.S. House,1,REP,Marty Jackley,288
+Minnehaha,U.S. House,1,REP,James Bialota,4464
+Minnehaha,U.S. House,1,REP,Marty Jackley,17164
+Moody,U.S. House,1,REP,James Bialota,173
+Moody,U.S. House,1,REP,Marty Jackley,741
+Oglala Lakota,U.S. House,1,REP,James Bialota,17
+Oglala Lakota,U.S. House,1,REP,Marty Jackley,51
+Pennington,U.S. House,1,REP,James Bialota,3669
+Pennington,U.S. House,1,REP,Marty Jackley,12026
+Perkins,U.S. House,1,REP,James Bialota,217
+Perkins,U.S. House,1,REP,Marty Jackley,574
+Potter,U.S. House,1,REP,James Bialota,139
+Potter,U.S. House,1,REP,Marty Jackley,660
+Roberts,U.S. House,1,REP,James Bialota,180
+Roberts,U.S. House,1,REP,Marty Jackley,775
+Sanborn,U.S. House,1,REP,James Bialota,60
+Sanborn,U.S. House,1,REP,Marty Jackley,258
+Spink,U.S. House,1,REP,James Bialota,216
+Spink,U.S. House,1,REP,Marty Jackley,877
+Stanley,U.S. House,1,REP,James Bialota,207
+Stanley,U.S. House,1,REP,Marty Jackley,843
+Sully,U.S. House,1,REP,James Bialota,88
+Sully,U.S. House,1,REP,Marty Jackley,382
+Todd,U.S. House,1,REP,James Bialota,46
+Todd,U.S. House,1,REP,Marty Jackley,159
+Tripp,U.S. House,1,REP,James Bialota,303
+Tripp,U.S. House,1,REP,Marty Jackley,1237
+Turner,U.S. House,1,REP,James Bialota,344
+Turner,U.S. House,1,REP,Marty Jackley,1347
+Union,U.S. House,1,REP,James Bialota,471
+Union,U.S. House,1,REP,Marty Jackley,1556
+Walworth,U.S. House,1,REP,James Bialota,171
+Walworth,U.S. House,1,REP,Marty Jackley,878
+Yankton,U.S. House,1,REP,James Bialota,765
+Yankton,U.S. House,1,REP,Marty Jackley,2520
+Ziebach,U.S. House,1,REP,James Bialota,48
+Ziebach,U.S. House,1,REP,Marty Jackley,116
+Aurora,U.S. Senate,,REP,Justin McNeal,130
+Aurora,U.S. Senate,,REP,Mike Rounds,333
+Beadle,U.S. Senate,,REP,Justin McNeal,367
+Beadle,U.S. Senate,,REP,Mike Rounds,1608
+Bennett,U.S. Senate,,REP,Justin McNeal,61
+Bennett,U.S. Senate,,REP,Mike Rounds,275
+Bon Homme,U.S. Senate,,REP,Justin McNeal,236
+Bon Homme,U.S. Senate,,REP,Mike Rounds,854
+Brookings,U.S. Senate,,REP,Justin McNeal,941
+Brookings,U.S. Senate,,REP,Mike Rounds,3058
+Brown,U.S. Senate,,REP,Justin McNeal,1406
+Brown,U.S. Senate,,REP,Mike Rounds,4548
+Brule,U.S. Senate,,REP,Justin McNeal,207
+Brule,U.S. Senate,,REP,Mike Rounds,647
+Buffalo,U.S. Senate,,REP,Justin McNeal,16
+Buffalo,U.S. Senate,,REP,Mike Rounds,63
+Butte,U.S. Senate,,REP,Justin McNeal,612
+Butte,U.S. Senate,,REP,Mike Rounds,1543
+Campbell,U.S. Senate,,REP,Justin McNeal,96
+Campbell,U.S. Senate,,REP,Mike Rounds,340
+Charles Mix,U.S. Senate,,REP,Justin McNeal,279
+Charles Mix,U.S. Senate,,REP,Mike Rounds,1012
+Clark,U.S. Senate,,REP,Justin McNeal,200
+Clark,U.S. Senate,,REP,Mike Rounds,735
+Clay,U.S. Senate,,REP,Justin McNeal,252
+Clay,U.S. Senate,,REP,Mike Rounds,916
+Codington,U.S. Senate,,REP,Justin McNeal,852
+Codington,U.S. Senate,,REP,Mike Rounds,2870
+Corson,U.S. Senate,,REP,Justin McNeal,86
+Corson,U.S. Senate,,REP,Mike Rounds,181
+Custer,U.S. Senate,,REP,Justin McNeal,793
+Custer,U.S. Senate,,REP,Mike Rounds,1804
+Davison,U.S. Senate,,REP,Justin McNeal,693
+Davison,U.S. Senate,,REP,Mike Rounds,2440
+Day,U.S. Senate,,REP,Justin McNeal,186
+Day,U.S. Senate,,REP,Mike Rounds,726
+Deuel,U.S. Senate,,REP,Justin McNeal,255
+Deuel,U.S. Senate,,REP,Mike Rounds,710
+Dewey,U.S. Senate,,REP,Justin McNeal,60
+Dewey,U.S. Senate,,REP,Mike Rounds,250
+Douglas,U.S. Senate,,REP,Justin McNeal,210
+Douglas,U.S. Senate,,REP,Mike Rounds,817
+Edmunds,U.S. Senate,,REP,Justin McNeal,194
+Edmunds,U.S. Senate,,REP,Mike Rounds,719
+Fall River,U.S. Senate,,REP,Justin McNeal,518
+Fall River,U.S. Senate,,REP,Mike Rounds,1249
+Faulk,U.S. Senate,,REP,Justin McNeal,155
+Faulk,U.S. Senate,,REP,Mike Rounds,615
+Grant,U.S. Senate,,REP,Justin McNeal,311
+Grant,U.S. Senate,,REP,Mike Rounds,963
+Gregory,U.S. Senate,,REP,Justin McNeal,331
+Gregory,U.S. Senate,,REP,Mike Rounds,822
+Haakon,U.S. Senate,,REP,Justin McNeal,119
+Haakon,U.S. Senate,,REP,Mike Rounds,486
+Hamlin,U.S. Senate,,REP,Justin McNeal,398
+Hamlin,U.S. Senate,,REP,Mike Rounds,1197
+Hand,U.S. Senate,,REP,Justin McNeal,161
+Hand,U.S. Senate,,REP,Mike Rounds,630
+Hanson,U.S. Senate,,REP,Justin McNeal,152
+Hanson,U.S. Senate,,REP,Mike Rounds,497
+Harding,U.S. Senate,,REP,Justin McNeal,127
+Harding,U.S. Senate,,REP,Mike Rounds,316
+Hughes,U.S. Senate,,REP,Justin McNeal,781
+Hughes,U.S. Senate,,REP,Mike Rounds,3307
+Hutchinson,U.S. Senate,,REP,Justin McNeal,325
+Hutchinson,U.S. Senate,,REP,Mike Rounds,1356
+Hyde,U.S. Senate,,REP,Justin McNeal,63
+Hyde,U.S. Senate,,REP,Mike Rounds,261
+Jackson,U.S. Senate,,REP,Justin McNeal,76
+Jackson,U.S. Senate,,REP,Mike Rounds,358
+Jerauld,U.S. Senate,,REP,Justin McNeal,61
+Jerauld,U.S. Senate,,REP,Mike Rounds,278
+Jones,U.S. Senate,,REP,Justin McNeal,55
+Jones,U.S. Senate,,REP,Mike Rounds,277
+Kingsbury,U.S. Senate,,REP,Justin McNeal,266
+Kingsbury,U.S. Senate,,REP,Mike Rounds,929
+Lake,U.S. Senate,,REP,Justin McNeal,383
+Lake,U.S. Senate,,REP,Mike Rounds,1500
+Lawrence,U.S. Senate,,REP,Justin McNeal,1385
+Lawrence,U.S. Senate,,REP,Mike Rounds,3645
+Lincoln,U.S. Senate,,REP,Justin McNeal,2272
+Lincoln,U.S. Senate,,REP,Mike Rounds,7756
+Lyman,U.S. Senate,,REP,Justin McNeal,117
+Lyman,U.S. Senate,,REP,Mike Rounds,477
+Marshall,U.S. Senate,,REP,Justin McNeal,110
+Marshall,U.S. Senate,,REP,Mike Rounds,598
+McCook,U.S. Senate,,REP,Justin McNeal,291
+McCook,U.S. Senate,,REP,Mike Rounds,979
+McPherson,U.S. Senate,,REP,Justin McNeal,180
+McPherson,U.S. Senate,,REP,Mike Rounds,627
+Meade,U.S. Senate,,REP,Justin McNeal,1423
+Meade,U.S. Senate,,REP,Mike Rounds,4101
+Mellette,U.S. Senate,,REP,Justin McNeal,53
+Mellette,U.S. Senate,,REP,Mike Rounds,177
+Miner,U.S. Senate,,REP,Justin McNeal,80
+Miner,U.S. Senate,,REP,Mike Rounds,286
+Minnehaha,U.S. Senate,,REP,Justin McNeal,5818
+Minnehaha,U.S. Senate,,REP,Mike Rounds,16365
+Moody,U.S. Senate,,REP,Justin McNeal,245
+Moody,U.S. Senate,,REP,Mike Rounds,691
+Oglala Lakota,U.S. Senate,,REP,Justin McNeal,21
+Oglala Lakota,U.S. Senate,,REP,Mike Rounds,48
+Pennington,U.S. Senate,,REP,Justin McNeal,4410
+Pennington,U.S. Senate,,REP,Mike Rounds,11629
+Perkins,U.S. Senate,,REP,Justin McNeal,211
+Perkins,U.S. Senate,,REP,Mike Rounds,594
+Potter,U.S. Senate,,REP,Justin McNeal,137
+Potter,U.S. Senate,,REP,Mike Rounds,674
+Roberts,U.S. Senate,,REP,Justin McNeal,213
+Roberts,U.S. Senate,,REP,Mike Rounds,765
+Sanborn,U.S. Senate,,REP,Justin McNeal,64
+Sanborn,U.S. Senate,,REP,Mike Rounds,251
+Spink,U.S. Senate,,REP,Justin McNeal,255
+Spink,U.S. Senate,,REP,Mike Rounds,850
+Stanley,U.S. Senate,,REP,Justin McNeal,173
+Stanley,U.S. Senate,,REP,Mike Rounds,902
+Sully,U.S. Senate,,REP,Justin McNeal,92
+Sully,U.S. Senate,,REP,Mike Rounds,383
+Todd,U.S. Senate,,REP,Justin McNeal,67
+Todd,U.S. Senate,,REP,Mike Rounds,142
+Tripp,U.S. Senate,,REP,Justin McNeal,364
+Tripp,U.S. Senate,,REP,Mike Rounds,1215
+Turner,U.S. Senate,,REP,Justin McNeal,414
+Turner,U.S. Senate,,REP,Mike Rounds,1326
+Union,U.S. Senate,,REP,Justin McNeal,484
+Union,U.S. Senate,,REP,Mike Rounds,1730
+Walworth,U.S. Senate,,REP,Justin McNeal,194
+Walworth,U.S. Senate,,REP,Mike Rounds,876
+Yankton,U.S. Senate,,REP,Justin McNeal,818
+Yankton,U.S. Senate,,REP,Mike Rounds,2578
+Ziebach,U.S. Senate,,REP,Justin McNeal,36
+Ziebach,U.S. Senate,,REP,Mike Rounds,129
