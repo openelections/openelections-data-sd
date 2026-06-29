@@ -1,0 +1,55 @@
+county,precinct,office,district,candidate,party,votes
+Douglas,Absentee Precinct,President,,Marianne Williamson,DEM,1
+Douglas,Absentee Precinct,President,,Joseph R Biden Jr,DEM,10
+Douglas,Absentee Precinct,President,,Dean Phillips,DEM,0
+Douglas,Absentee Precinct,President,,Armando Perez-Serrato,DEM,0
+Douglas,1,President,,Marianne Williamson,DEM,0
+Douglas,1,President,,Joseph R Biden Jr,DEM,1
+Douglas,1,President,,Dean Phillips,DEM,1
+Douglas,1,President,,Armando Perez-Serrato,DEM,0
+Douglas,2,President,,Marianne Williamson,DEM,1
+Douglas,2,President,,Joseph R Biden Jr,DEM,6
+Douglas,2,President,,Dean Phillips,DEM,1
+Douglas,2,President,,Armando Perez-Serrato,DEM,0
+Douglas,3,President,,Marianne Williamson,DEM,0
+Douglas,3,President,,Joseph R Biden Jr,DEM,2
+Douglas,3,President,,Dean Phillips,DEM,1
+Douglas,3,President,,Armando Perez-Serrato,DEM,0
+Douglas,4,President,,Marianne Williamson,DEM,0
+Douglas,4,President,,Joseph R Biden Jr,DEM,6
+Douglas,4,President,,Dean Phillips,DEM,0
+Douglas,4,President,,Armando Perez-Serrato,DEM,0
+Douglas,5,President,,Marianne Williamson,DEM,1
+Douglas,5,President,,Joseph R Biden Jr,DEM,0
+Douglas,5,President,,Dean Phillips,DEM,0
+Douglas,5,President,,Armando Perez-Serrato,DEM,0
+Douglas,Absentee Precinct,State Senate,21,Erin Tobin,REP,34
+Douglas,Absentee Precinct,State Senate,21,Mykala Voita,REP,12
+Douglas,1,State Senate,21,Erin Tobin,REP,36
+Douglas,1,State Senate,21,Mykala Voita,REP,131
+Douglas,2,State Senate,21,Erin Tobin,REP,47
+Douglas,2,State Senate,21,Mykala Voita,REP,57
+Douglas,3,State Senate,21,Erin Tobin,REP,44
+Douglas,3,State Senate,21,Mykala Voita,REP,37
+Douglas,4,State Senate,21,Erin Tobin,REP,46
+Douglas,4,State Senate,21,Mykala Voita,REP,50
+Douglas,5,State Senate,21,Erin Tobin,REP,24
+Douglas,5,State Senate,21,Mykala Voita,REP,67
+Douglas,Absentee Precinct,State House,21,Lee Qualm,REP,26
+Douglas,Absentee Precinct,State House,21,Marty Overweg,REP,45
+Douglas,Absentee Precinct,State House,21,Jim Halverson,REP,16
+Douglas,1,State House,21,Lee Qualm,REP,75
+Douglas,1,State House,21,Marty Overweg,REP,166
+Douglas,1,State House,21,Jim Halverson,REP,35
+Douglas,2,State House,21,Lee Qualm,REP,54
+Douglas,2,State House,21,Marty Overweg,REP,103
+Douglas,2,State House,21,Jim Halverson,REP,20
+Douglas,3,State House,21,Lee Qualm,REP,44
+Douglas,3,State House,21,Marty Overweg,REP,65
+Douglas,3,State House,21,Jim Halverson,REP,24
+Douglas,4,State House,21,Lee Qualm,REP,38
+Douglas,4,State House,21,Marty Overweg,REP,88
+Douglas,4,State House,21,Jim Halverson,REP,35
+Douglas,5,State House,21,Lee Qualm,REP,47
+Douglas,5,State House,21,Marty Overweg,REP,87
+Douglas,5,State House,21,Jim Halverson,REP,24

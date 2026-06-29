@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,"A1 (Precinct-A2, Precinct-A3)",President,,Marianne Williamson,DEM,2
+Marshall,"A1 (Precinct-A2, Precinct-A3)",President,,Joseph R Biden Jr,DEM,25
+Marshall,"A1 (Precinct-A2, Precinct-A3)",President,,Dean Phillips,DEM,9
+Marshall,"A1 (Precinct-A2, Precinct-A3)",President,,Armando Perez-Serrato,DEM,0
+Marshall,A4,President,,Marianne Williamson,DEM,0
+Marshall,A4,President,,Joseph R Biden Jr,DEM,21
+Marshall,A4,President,,Dean Phillips,DEM,3
+Marshall,A4,President,,Armando Perez-Serrato,DEM,0
+Marshall,A5,President,,Marianne Williamson,DEM,0
+Marshall,A5,President,,Joseph R Biden Jr,DEM,14
+Marshall,A5,President,,Dean Phillips,DEM,3
+Marshall,A5,President,,Armando Perez-Serrato,DEM,1
+Marshall,A6,President,,Marianne Williamson,DEM,2
+Marshall,A6,President,,Joseph R Biden Jr,DEM,10
+Marshall,A6,President,,Dean Phillips,DEM,1
+Marshall,A6,President,,Armando Perez-Serrato,DEM,1
+Marshall,A7,President,,Marianne Williamson,DEM,2
+Marshall,A7,President,,Joseph R Biden Jr,DEM,6
+Marshall,A7,President,,Dean Phillips,DEM,1
+Marshall,A7,President,,Armando Perez-Serrato,DEM,0
+Marshall,A8 (Precinct-A9),President,,Marianne Williamson,DEM,8
+Marshall,A8 (Precinct-A9),President,,Joseph R Biden Jr,DEM,21
+Marshall,A8 (Precinct-A9),President,,Dean Phillips,DEM,2
+Marshall,A8 (Precinct-A9),President,,Armando Perez-Serrato,DEM,4
+Marshall,"A1 (Precinct-A2, Precinct-A3)",State House,01,Logan Manhart,REP,37
+Marshall,"A1 (Precinct-A2, Precinct-A3)",State House,01,Tamara St John,REP,45
+Marshall,"A1 (Precinct-A2, Precinct-A3)",State House,01,Christopher Reder,REP,37
+Marshall,A4,State House,01,Logan Manhart,REP,27
+Marshall,A4,State House,01,Tamara St John,REP,12
+Marshall,A4,State House,01,Christopher Reder,REP,20
+Marshall,A5,State House,01,Logan Manhart,REP,9
+Marshall,A5,State House,01,Tamara St John,REP,18
+Marshall,A5,State House,01,Christopher Reder,REP,6
+Marshall,A6,State House,01,Logan Manhart,REP,43
+Marshall,A6,State House,01,Tamara St John,REP,31
+Marshall,A6,State House,01,Christopher Reder,REP,38
+Marshall,A7,State House,01,Logan Manhart,REP,28
+Marshall,A7,State House,01,Tamara St John,REP,17
+Marshall,A7,State House,01,Christopher Reder,REP,30
+Marshall,A8 (Precinct-A9),State House,01,Logan Manhart,REP,27
+Marshall,A8 (Precinct-A9),State House,01,Tamara St John,REP,29
+Marshall,A8 (Precinct-A9),State House,01,Christopher Reder,REP,35

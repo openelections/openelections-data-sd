@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,President,,Marianne Williamson,DEM,2
+Faulk,1,President,,Joseph R Biden Jr,DEM,9
+Faulk,1,President,,Dean Phillips,DEM,3
+Faulk,1,President,,Armando Perez-Serrato,DEM,0
+Faulk,2,President,,Marianne Williamson,DEM,3
+Faulk,2,President,,Joseph R Biden Jr,DEM,0
+Faulk,2,President,,Dean Phillips,DEM,0
+Faulk,2,President,,Armando Perez-Serrato,DEM,1
+Faulk,3,President,,Marianne Williamson,DEM,0
+Faulk,3,President,,Joseph R Biden Jr,DEM,2
+Faulk,3,President,,Dean Phillips,DEM,3
+Faulk,3,President,,Armando Perez-Serrato,DEM,0
+Faulk,4,President,,Marianne Williamson,DEM,1
+Faulk,4,President,,Joseph R Biden Jr,DEM,4
+Faulk,4,President,,Dean Phillips,DEM,0
+Faulk,4,President,,Armando Perez-Serrato,DEM,0
+Faulk,5,President,,Marianne Williamson,DEM,0
+Faulk,5,President,,Joseph R Biden Jr,DEM,1
+Faulk,5,President,,Dean Phillips,DEM,1
+Faulk,5,President,,Armando Perez-Serrato,DEM,2
+Faulk,6,President,,Marianne Williamson,DEM,2
+Faulk,6,President,,Joseph R Biden Jr,DEM,4
+Faulk,6,President,,Dean Phillips,DEM,2
+Faulk,6,President,,Armando Perez-Serrato,DEM,0
+Faulk,7,President,,Marianne Williamson,DEM,5
+Faulk,7,President,,Joseph R Biden Jr,DEM,10
+Faulk,7,President,,Dean Phillips,DEM,3
+Faulk,7,President,,Armando Perez-Serrato,DEM,1
+Faulk,1,State Senate,23,Steven Ray Roseland,REP,33
+Faulk,1,State Senate,23,Mark Lapka,REP,23
+Faulk,2,State Senate,23,Steven Ray Roseland,REP,28
+Faulk,2,State Senate,23,Mark Lapka,REP,20
+Faulk,3,State Senate,23,Steven Ray Roseland,REP,48
+Faulk,3,State Senate,23,Mark Lapka,REP,30
+Faulk,4,State Senate,23,Steven Ray Roseland,REP,36
+Faulk,4,State Senate,23,Mark Lapka,REP,14
+Faulk,5,State Senate,23,Steven Ray Roseland,REP,24
+Faulk,5,State Senate,23,Mark Lapka,REP,21
+Faulk,6,State Senate,23,Steven Ray Roseland,REP,99
+Faulk,6,State Senate,23,Mark Lapka,REP,29
+Faulk,7,State Senate,23,Steven Ray Roseland,REP,125
+Faulk,7,State Senate,23,Mark Lapka,REP,18
+Faulk,1,State House,23,Spencer Gosch,REP,20
+Faulk,1,State House,23,Scott Moore,REP,36
+Faulk,1,State House,23,James D. Wangsness,REP,27
+Faulk,2,State House,23,Spencer Gosch,REP,19
+Faulk,2,State House,23,Scott Moore,REP,39
+Faulk,2,State House,23,James D. Wangsness,REP,9
+Faulk,3,State House,23,Spencer Gosch,REP,40
+Faulk,3,State House,23,Scott Moore,REP,59
+Faulk,3,State House,23,James D. Wangsness,REP,37
+Faulk,4,State House,23,Spencer Gosch,REP,26
+Faulk,4,State House,23,Scott Moore,REP,38
+Faulk,4,State House,23,James D. Wangsness,REP,20
+Faulk,5,State House,23,Spencer Gosch,REP,24
+Faulk,5,State House,23,Scott Moore,REP,31
+Faulk,5,State House,23,James D. Wangsness,REP,13
+Faulk,6,State House,23,Spencer Gosch,REP,57
+Faulk,6,State House,23,Scott Moore,REP,92
+Faulk,6,State House,23,James D. Wangsness,REP,62
+Faulk,7,State House,23,Spencer Gosch,REP,65
+Faulk,7,State House,23,Scott Moore,REP,96
+Faulk,7,State House,23,James D. Wangsness,REP,68
+Faulk,1,County Commissioner At Large,,Lee A. Hansen,REP,23
+Faulk,1,County Commissioner At Large,,Bruce Edgar,REP,32
+Faulk,1,County Commissioner At Large,,Alexander Thomas,REP,22
+Faulk,2,County Commissioner At Large,,Lee A. Hansen,REP,30
+Faulk,2,County Commissioner At Large,,Bruce Edgar,REP,35
+Faulk,2,County Commissioner At Large,,Alexander Thomas,REP,22
+Faulk,3,County Commissioner At Large,,Lee A. Hansen,REP,30
+Faulk,3,County Commissioner At Large,,Bruce Edgar,REP,46
+Faulk,3,County Commissioner At Large,,Alexander Thomas,REP,50
+Faulk,4,County Commissioner At Large,,Lee A. Hansen,REP,34
+Faulk,4,County Commissioner At Large,,Bruce Edgar,REP,42
+Faulk,4,County Commissioner At Large,,Alexander Thomas,REP,15
+Faulk,5,County Commissioner At Large,,Lee A. Hansen,REP,20
+Faulk,5,County Commissioner At Large,,Bruce Edgar,REP,41
+Faulk,5,County Commissioner At Large,,Alexander Thomas,REP,11
+Faulk,6,County Commissioner At Large,,Lee A. Hansen,REP,79
+Faulk,6,County Commissioner At Large,,Bruce Edgar,REP,110
+Faulk,6,County Commissioner At Large,,Alexander Thomas,REP,40
+Faulk,7,County Commissioner At Large,,Lee A. Hansen,REP,104
+Faulk,7,County Commissioner At Large,,Bruce Edgar,REP,121
+Faulk,7,County Commissioner At Large,,Alexander Thomas,REP,35

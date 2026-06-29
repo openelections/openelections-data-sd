@@ -1,0 +1,144 @@
+county,precinct,office,district,candidate,party,votes
+Roberts,01,President,,Marianne Williamson,DEM,1
+Roberts,01,President,,Joseph R Biden Jr,DEM,15
+Roberts,01,President,,Dean Phillips,DEM,3
+Roberts,01,President,,Armando Perez-Serrato,DEM,2
+Roberts,02,President,,Marianne Williamson,DEM,3
+Roberts,02,President,,Joseph R Biden Jr,DEM,23
+Roberts,02,President,,Dean Phillips,DEM,5
+Roberts,02,President,,Armando Perez-Serrato,DEM,0
+Roberts,03,President,,Marianne Williamson,DEM,0
+Roberts,03,President,,Joseph R Biden Jr,DEM,16
+Roberts,03,President,,Dean Phillips,DEM,1
+Roberts,03,President,,Armando Perez-Serrato,DEM,2
+Roberts,04,President,,Marianne Williamson,DEM,1
+Roberts,04,President,,Joseph R Biden Jr,DEM,4
+Roberts,04,President,,Dean Phillips,DEM,0
+Roberts,04,President,,Armando Perez-Serrato,DEM,0
+Roberts,05,President,,Marianne Williamson,DEM,1
+Roberts,05,President,,Joseph R Biden Jr,DEM,16
+Roberts,05,President,,Dean Phillips,DEM,8
+Roberts,05,President,,Armando Perez-Serrato,DEM,0
+Roberts,06,President,,Marianne Williamson,DEM,1
+Roberts,06,President,,Joseph R Biden Jr,DEM,7
+Roberts,06,President,,Dean Phillips,DEM,0
+Roberts,06,President,,Armando Perez-Serrato,DEM,0
+Roberts,07,President,,Marianne Williamson,DEM,1
+Roberts,07,President,,Joseph R Biden Jr,DEM,12
+Roberts,07,President,,Dean Phillips,DEM,4
+Roberts,07,President,,Armando Perez-Serrato,DEM,1
+Roberts,08,President,,Marianne Williamson,DEM,2
+Roberts,08,President,,Joseph R Biden Jr,DEM,6
+Roberts,08,President,,Dean Phillips,DEM,2
+Roberts,08,President,,Armando Perez-Serrato,DEM,0
+Roberts,09,President,,Marianne Williamson,DEM,5
+Roberts,09,President,,Joseph R Biden Jr,DEM,25
+Roberts,09,President,,Dean Phillips,DEM,7
+Roberts,09,President,,Armando Perez-Serrato,DEM,3
+Roberts,10,President,,Marianne Williamson,DEM,0
+Roberts,10,President,,Joseph R Biden Jr,DEM,12
+Roberts,10,President,,Dean Phillips,DEM,1
+Roberts,10,President,,Armando Perez-Serrato,DEM,1
+Roberts,11,President,,Marianne Williamson,DEM,3
+Roberts,11,President,,Joseph R Biden Jr,DEM,26
+Roberts,11,President,,Dean Phillips,DEM,4
+Roberts,11,President,,Armando Perez-Serrato,DEM,4
+Roberts,12,President,,Marianne Williamson,DEM,1
+Roberts,12,President,,Joseph R Biden Jr,DEM,9
+Roberts,12,President,,Dean Phillips,DEM,1
+Roberts,12,President,,Armando Perez-Serrato,DEM,0
+Roberts,13,President,,Marianne Williamson,DEM,0
+Roberts,13,President,,Joseph R Biden Jr,DEM,8
+Roberts,13,President,,Dean Phillips,DEM,2
+Roberts,13,President,,Armando Perez-Serrato,DEM,1
+Roberts,14,President,,Marianne Williamson,DEM,0
+Roberts,14,President,,Joseph R Biden Jr,DEM,5
+Roberts,14,President,,Dean Phillips,DEM,0
+Roberts,14,President,,Armando Perez-Serrato,DEM,1
+Roberts,02,State Senate,04,Fred Deutsch,REP,63
+Roberts,02,State Senate,04,Stephanie Sauder,REP,65
+Roberts,05,State Senate,04,Fred Deutsch,REP,6
+Roberts,05,State Senate,04,Stephanie Sauder,REP,2
+Roberts,09,State Senate,04,Fred Deutsch,REP,59
+Roberts,09,State Senate,04,Stephanie Sauder,REP,56
+Roberts,01,State House,01,Logan Manhart,REP,24
+Roberts,01,State House,01,Tamara St John,REP,12
+Roberts,01,State House,01,Christopher Reder,REP,22
+Roberts,02,State House,04,Dylan C. Jordan,REP,73
+Roberts,02,State House,04,Vanessa Namken,REP,45
+Roberts,02,State House,04,Barbara Guenette,REP,37
+Roberts,02,State House,04,Kent Roe,REP,66
+Roberts,03,State House,01,Logan Manhart,REP,19
+Roberts,03,State House,01,Tamara St John,REP,12
+Roberts,03,State House,01,Christopher Reder,REP,16
+Roberts,04,State House,01,Logan Manhart,REP,6
+Roberts,04,State House,01,Tamara St John,REP,4
+Roberts,04,State House,01,Christopher Reder,REP,4
+Roberts,05,State House,01,Logan Manhart,REP,25
+Roberts,05,State House,01,Tamara St John,REP,11
+Roberts,05,State House,01,Christopher Reder,REP,26
+Roberts,05,State House,04,Dylan C. Jordan,REP,3
+Roberts,05,State House,04,Vanessa Namken,REP,1
+Roberts,05,State House,04,Barbara Guenette,REP,4
+Roberts,05,State House,04,Kent Roe,REP,7
+Roberts,06,State House,01,Logan Manhart,REP,19
+Roberts,06,State House,01,Tamara St John,REP,24
+Roberts,06,State House,01,Christopher Reder,REP,14
+Roberts,07,State House,01,Logan Manhart,REP,27
+Roberts,07,State House,01,Tamara St John,REP,23
+Roberts,07,State House,01,Christopher Reder,REP,26
+Roberts,08,State House,01,Logan Manhart,REP,6
+Roberts,08,State House,01,Tamara St John,REP,8
+Roberts,08,State House,01,Christopher Reder,REP,5
+Roberts,09,State House,01,Logan Manhart,REP,0
+Roberts,09,State House,01,Tamara St John,REP,0
+Roberts,09,State House,01,Christopher Reder,REP,0
+Roberts,09,State House,04,Dylan C. Jordan,REP,60
+Roberts,09,State House,04,Vanessa Namken,REP,32
+Roberts,09,State House,04,Barbara Guenette,REP,29
+Roberts,09,State House,04,Kent Roe,REP,56
+Roberts,10,State House,01,Logan Manhart,REP,14
+Roberts,10,State House,01,Tamara St John,REP,14
+Roberts,10,State House,01,Christopher Reder,REP,14
+Roberts,11,State House,01,Logan Manhart,REP,58
+Roberts,11,State House,01,Tamara St John,REP,36
+Roberts,11,State House,01,Christopher Reder,REP,48
+Roberts,12,State House,01,Logan Manhart,REP,6
+Roberts,12,State House,01,Tamara St John,REP,9
+Roberts,12,State House,01,Christopher Reder,REP,6
+Roberts,13,State House,01,Logan Manhart,REP,18
+Roberts,13,State House,01,Tamara St John,REP,21
+Roberts,13,State House,01,Christopher Reder,REP,12
+Roberts,14,State House,01,Logan Manhart,REP,8
+Roberts,14,State House,01,Tamara St John,REP,11
+Roberts,14,State House,01,Christopher Reder,REP,8
+Roberts,01,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,22
+Roberts,01,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,42
+Roberts,02,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,46
+Roberts,02,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,146
+Roberts,03,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,22
+Roberts,03,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,37
+Roberts,04,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,5
+Roberts,04,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,13
+Roberts,05,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,29
+Roberts,05,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,59
+Roberts,06,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,27
+Roberts,06,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,29
+Roberts,07,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,31
+Roberts,07,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,44
+Roberts,08,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,12
+Roberts,08,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,17
+Roberts,09,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,53
+Roberts,09,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,126
+Roberts,10,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,18
+Roberts,10,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,22
+Roberts,11,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,62
+Roberts,11,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,75
+Roberts,12,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,21
+Roberts,12,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,9
+Roberts,13,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,26
+Roberts,13,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,21
+Roberts,14,Referendum: A Resolution Establishing A Road And Bridge Levy,,Yes,,23
+Roberts,14,Referendum: A Resolution Establishing A Road And Bridge Levy,,No,,4
+Roberts,02,Official School,25-1,Yes,,55
+Roberts,02,Official School,25-1,No,,14

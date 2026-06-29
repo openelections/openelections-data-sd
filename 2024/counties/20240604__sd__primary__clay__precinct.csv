@@ -1,0 +1,104 @@
+county,precinct,office,district,candidate,party,votes
+Clay,01,President,,Marianne Williamson,DEM,0
+Clay,01,President,,Joseph R Biden Jr,DEM,16
+Clay,01,President,,Dean Phillips,DEM,0
+Clay,01,President,,Armando Perez-Serrato,DEM,0
+Clay,02,President,,Marianne Williamson,DEM,0
+Clay,02,President,,Joseph R Biden Jr,DEM,14
+Clay,02,President,,Dean Phillips,DEM,1
+Clay,02,President,,Armando Perez-Serrato,DEM,0
+Clay,03,President,,Marianne Williamson,DEM,8
+Clay,03,President,,Joseph R Biden Jr,DEM,89
+Clay,03,President,,Dean Phillips,DEM,6
+Clay,03,President,,Armando Perez-Serrato,DEM,1
+Clay,C1 (Precinct-C2),President,,Marianne Williamson,DEM,4
+Clay,C1 (Precinct-C2),President,,Joseph R Biden Jr,DEM,120
+Clay,C1 (Precinct-C2),President,,Dean Phillips,DEM,5
+Clay,C1 (Precinct-C2),President,,Armando Perez-Serrato,DEM,5
+Clay,E1 (Precinct-E2),President,,Marianne Williamson,DEM,4
+Clay,E1 (Precinct-E2),President,,Joseph R Biden Jr,DEM,69
+Clay,E1 (Precinct-E2),President,,Dean Phillips,DEM,2
+Clay,E1 (Precinct-E2),President,,Armando Perez-Serrato,DEM,2
+Clay,S1,President,,Marianne Williamson,DEM,8
+Clay,S1,President,,Joseph R Biden Jr,DEM,178
+Clay,S1,President,,Dean Phillips,DEM,6
+Clay,S1,President,,Armando Perez-Serrato,DEM,0
+Clay,S2,President,,Marianne Williamson,DEM,3
+Clay,S2,President,,Joseph R Biden Jr,DEM,135
+Clay,S2,President,,Dean Phillips,DEM,4
+Clay,S2,President,,Armando Perez-Serrato,DEM,1
+Clay,W1 (Precinct-W2),President,,Marianne Williamson,DEM,17
+Clay,W1 (Precinct-W2),President,,Joseph R Biden Jr,DEM,169
+Clay,W1 (Precinct-W2),President,,Dean Phillips,DEM,8
+Clay,W1 (Precinct-W2),President,,Armando Perez-Serrato,DEM,4
+Clay,01,State Senate,17,Sydney Davis,REP,50
+Clay,01,State Senate,17,Jeffrey Church,REP,32
+Clay,02,State Senate,18,Lauren Nelson,REP,35
+Clay,02,State Senate,18,Jean M. Hunhoff,REP,16
+Clay,03,State Senate,17,Sydney Davis,REP,113
+Clay,03,State Senate,17,Jeffrey Church,REP,72
+Clay,C1 (Precinct-C2),State Senate,17,Sydney Davis,REP,15
+Clay,C1 (Precinct-C2),State Senate,17,Jeffrey Church,REP,15
+Clay,E1 (Precinct-E2),State Senate,17,Sydney Davis,REP,33
+Clay,E1 (Precinct-E2),State Senate,17,Jeffrey Church,REP,33
+Clay,S1,State Senate,17,Sydney Davis,REP,117
+Clay,S1,State Senate,17,Jeffrey Church,REP,35
+Clay,S2,State Senate,17,Sydney Davis,REP,61
+Clay,S2,State Senate,17,Jeffrey Church,REP,20
+Clay,W1 (Precinct-W2),State Senate,17,Sydney Davis,REP,97
+Clay,W1 (Precinct-W2),State Senate,17,Jeffrey Church,REP,43
+Clay,01,State House,17,William (Bill) Shorma,REP,54
+Clay,01,State House,17,Chris Kassin,REP,55
+Clay,01,State House,17,Robin J. Schiro,REP,12
+Clay,02,State House,18,Mike Stevens,REP,24
+Clay,02,State House,18,Julie Auch,REP,38
+Clay,02,State House,18,John R Marquardt,REP,14
+Clay,03,State House,17,William (Bill) Shorma,REP,115
+Clay,03,State House,17,Chris Kassin,REP,150
+Clay,03,State House,17,Robin J. Schiro,REP,34
+Clay,C1 (Precinct-C2),State House,17,William (Bill) Shorma,REP,19
+Clay,C1 (Precinct-C2),State House,17,Chris Kassin,REP,26
+Clay,C1 (Precinct-C2),State House,17,Robin J. Schiro,REP,5
+Clay,E1 (Precinct-E2),State House,17,William (Bill) Shorma,REP,43
+Clay,E1 (Precinct-E2),State House,17,Chris Kassin,REP,51
+Clay,E1 (Precinct-E2),State House,17,Robin J. Schiro,REP,9
+Clay,S1,State House,17,William (Bill) Shorma,REP,96
+Clay,S1,State House,17,Chris Kassin,REP,142
+Clay,S1,State House,17,Robin J. Schiro,REP,15
+Clay,S2,State House,17,William (Bill) Shorma,REP,52
+Clay,S2,State House,17,Chris Kassin,REP,78
+Clay,S2,State House,17,Robin J. Schiro,REP,6
+Clay,W1 (Precinct-W2),State House,17,William (Bill) Shorma,REP,88
+Clay,W1 (Precinct-W2),State House,17,Chris Kassin,REP,124
+Clay,W1 (Precinct-W2),State House,17,Robin J. Schiro,REP,18
+Clay,S1,Precinct Committeeman,S1,Jan Berkhout,REP,20
+Clay,S1,Precinct Committeeman,S1,Arthur Rusch,REP,122
+Clay,01,School Board Member Vermillion School,13-1,Michael Phelan,,5
+Clay,01,School Board Member Vermillion School,13-1,Corey L Thomason,,0
+Clay,01,School Board Member Vermillion School,13-1,Rachel E Olson,,8
+Clay,03,School Board Member Vermillion School,13-1,Michael Phelan,,115
+Clay,03,School Board Member Vermillion School,13-1,Corey L Thomason,,96
+Clay,03,School Board Member Vermillion School,13-1,Rachel E Olson,,221
+Clay,C1 (Precinct-C2),School Board Member Vermillion School,13-1,Michael Phelan,,134
+Clay,C1 (Precinct-C2),School Board Member Vermillion School,13-1,Corey L Thomason,,52
+Clay,C1 (Precinct-C2),School Board Member Vermillion School,13-1,Rachel E Olson,,97
+Clay,E1 (Precinct-E2),School Board Member Vermillion School,13-1,Michael Phelan,,84
+Clay,E1 (Precinct-E2),School Board Member Vermillion School,13-1,Corey L Thomason,,52
+Clay,E1 (Precinct-E2),School Board Member Vermillion School,13-1,Rachel E Olson,,102
+Clay,S1,School Board Member Vermillion School,13-1,Michael Phelan,,217
+Clay,S1,School Board Member Vermillion School,13-1,Corey L Thomason,,113
+Clay,S1,School Board Member Vermillion School,13-1,Rachel E Olson,,298
+Clay,S2,School Board Member Vermillion School,13-1,Michael Phelan,,140
+Clay,S2,School Board Member Vermillion School,13-1,Corey L Thomason,,52
+Clay,S2,School Board Member Vermillion School,13-1,Rachel E Olson,,182
+Clay,W1 (Precinct-W2),School Board Member Vermillion School,13-1,Michael Phelan,,187
+Clay,W1 (Precinct-W2),School Board Member Vermillion School,13-1,Corey L Thomason,,124
+Clay,W1 (Precinct-W2),School Board Member Vermillion School,13-1,Rachel E Olson,,239
+Clay,E1 (Precinct-E2),Alderman Vermillion Ward -SE,,Jay Thaler,,88
+Clay,E1 (Precinct-E2),Alderman Vermillion Ward -SE,,Ryan Church,,45
+Clay,S1,Alderman Vermillion Ward -NW,,Al Leber,,216
+Clay,S1,Alderman Vermillion Ward -SE,,Jeff Gilbertson,,175
+Clay,S2,Alderman Vermillion Ward -NW,,Al Leber,,154
+Clay,S2,Alderman Vermillion Ward -SE,,Jeff Gilbertson,,82
+Clay,W1 (Precinct-W2),Alderman Vermillion Ward -NW,,Brian Humphrey,,151
+Clay,W1 (Precinct-W2),Alderman Vermillion Ward -NW,,Gary Cheeseman,,217

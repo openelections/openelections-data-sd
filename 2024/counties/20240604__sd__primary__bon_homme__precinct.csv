@@ -1,0 +1,46 @@
+county,precinct,office,district,candidate,party,votes
+Bon Homme,1,President,,Marianne Williamson,DEM,6
+Bon Homme,1,President,,Joseph R Biden Jr,DEM,17
+Bon Homme,1,President,,Dean Phillips,DEM,5
+Bon Homme,1,President,,Armando Perez-Serrato,DEM,1
+Bon Homme,2,President,,Marianne Williamson,DEM,5
+Bon Homme,2,President,,Joseph R Biden Jr,DEM,14
+Bon Homme,2,President,,Dean Phillips,DEM,4
+Bon Homme,2,President,,Armando Perez-Serrato,DEM,0
+Bon Homme,3,President,,Marianne Williamson,DEM,12
+Bon Homme,3,President,,Joseph R Biden Jr,DEM,29
+Bon Homme,3,President,,Dean Phillips,DEM,8
+Bon Homme,3,President,,Armando Perez-Serrato,DEM,0
+Bon Homme,4,President,,Marianne Williamson,DEM,3
+Bon Homme,4,President,,Joseph R Biden Jr,DEM,21
+Bon Homme,4,President,,Dean Phillips,DEM,6
+Bon Homme,4,President,,Armando Perez-Serrato,DEM,1
+Bon Homme,5,President,,Marianne Williamson,DEM,2
+Bon Homme,5,President,,Joseph R Biden Jr,DEM,17
+Bon Homme,5,President,,Dean Phillips,DEM,3
+Bon Homme,5,President,,Armando Perez-Serrato,DEM,0
+Bon Homme,1,State House,19,Drew Peterson,REP,66
+Bon Homme,1,State House,19,Steven Mettler,REP,61
+Bon Homme,1,State House,19,Jessica Bahmuller,REP,83
+Bon Homme,2,State House,19,Drew Peterson,REP,71
+Bon Homme,2,State House,19,Steven Mettler,REP,59
+Bon Homme,2,State House,19,Jessica Bahmuller,REP,94
+Bon Homme,3,State House,19,Drew Peterson,REP,90
+Bon Homme,3,State House,19,Steven Mettler,REP,75
+Bon Homme,3,State House,19,Jessica Bahmuller,REP,130
+Bon Homme,4,State House,19,Drew Peterson,REP,67
+Bon Homme,4,State House,19,Steven Mettler,REP,43
+Bon Homme,4,State House,19,Jessica Bahmuller,REP,71
+Bon Homme,5,State House,19,Drew Peterson,REP,80
+Bon Homme,5,State House,19,Steven Mettler,REP,62
+Bon Homme,5,State House,19,Jessica Bahmuller,REP,122
+Bon Homme,1,States Attorney,,Abigail Monger,REP,96
+Bon Homme,1,States Attorney,,Derrick Johnson,REP,18
+Bon Homme,2,States Attorney,,Abigail Monger,REP,98
+Bon Homme,2,States Attorney,,Derrick Johnson,REP,24
+Bon Homme,3,States Attorney,,Abigail Monger,REP,130
+Bon Homme,3,States Attorney,,Derrick Johnson,REP,42
+Bon Homme,4,States Attorney,,Abigail Monger,REP,90
+Bon Homme,4,States Attorney,,Derrick Johnson,REP,26
+Bon Homme,5,States Attorney,,Abigail Monger,REP,113
+Bon Homme,5,States Attorney,,Derrick Johnson,REP,36

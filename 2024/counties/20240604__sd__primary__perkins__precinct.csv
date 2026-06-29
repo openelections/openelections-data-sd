@@ -1,0 +1,101 @@
+county,precinct,office,district,candidate,party,votes
+Perkins,01,President,,Marianne Williamson,DEM,3
+Perkins,01,President,,Joseph R Biden Jr,DEM,2
+Perkins,01,President,,Dean Phillips,DEM,0
+Perkins,01,President,,Armando Perez-Serrato,DEM,0
+Perkins,02,President,,Marianne Williamson,DEM,0
+Perkins,02,President,,Joseph R Biden Jr,DEM,1
+Perkins,02,President,,Dean Phillips,DEM,0
+Perkins,02,President,,Armando Perez-Serrato,DEM,0
+Perkins,03,President,,Marianne Williamson,DEM,0
+Perkins,03,President,,Joseph R Biden Jr,DEM,1
+Perkins,03,President,,Dean Phillips,DEM,1
+Perkins,03,President,,Armando Perez-Serrato,DEM,1
+Perkins,04,President,,Marianne Williamson,DEM,0
+Perkins,04,President,,Joseph R Biden Jr,DEM,4
+Perkins,04,President,,Dean Phillips,DEM,1
+Perkins,04,President,,Armando Perez-Serrato,DEM,0
+Perkins,05,President,,Marianne Williamson,DEM,0
+Perkins,05,President,,Joseph R Biden Jr,DEM,1
+Perkins,05,President,,Dean Phillips,DEM,2
+Perkins,05,President,,Armando Perez-Serrato,DEM,0
+Perkins,06,President,,Marianne Williamson,DEM,2
+Perkins,06,President,,Joseph R Biden Jr,DEM,0
+Perkins,06,President,,Dean Phillips,DEM,0
+Perkins,06,President,,Armando Perez-Serrato,DEM,3
+Perkins,07,President,,Marianne Williamson,DEM,2
+Perkins,07,President,,Joseph R Biden Jr,DEM,1
+Perkins,07,President,,Dean Phillips,DEM,1
+Perkins,07,President,,Armando Perez-Serrato,DEM,0
+Perkins,08,President,,Marianne Williamson,DEM,0
+Perkins,08,President,,Joseph R Biden Jr,DEM,1
+Perkins,08,President,,Dean Phillips,DEM,1
+Perkins,08,President,,Armando Perez-Serrato,DEM,0
+Perkins,09,President,,Marianne Williamson,DEM,0
+Perkins,09,President,,Joseph R Biden Jr,DEM,3
+Perkins,09,President,,Dean Phillips,DEM,0
+Perkins,09,President,,Armando Perez-Serrato,DEM,0
+Perkins,12,President,,Marianne Williamson,DEM,1
+Perkins,12,President,,Joseph R Biden Jr,DEM,2
+Perkins,12,President,,Dean Phillips,DEM,0
+Perkins,12,President,,Armando Perez-Serrato,DEM,1
+Perkins,01,State Senate,28,Susan M. Peterson,REP,26
+Perkins,01,State Senate,28,Sam Marty,REP,20
+Perkins,02,State Senate,28,Susan M. Peterson,REP,4
+Perkins,02,State Senate,28,Sam Marty,REP,26
+Perkins,03,State Senate,28,Susan M. Peterson,REP,34
+Perkins,03,State Senate,28,Sam Marty,REP,23
+Perkins,04,State Senate,28,Susan M. Peterson,REP,1
+Perkins,04,State Senate,28,Sam Marty,REP,19
+Perkins,05,State Senate,28,Susan M. Peterson,REP,13
+Perkins,05,State Senate,28,Sam Marty,REP,24
+Perkins,06,State Senate,28,Susan M. Peterson,REP,10
+Perkins,06,State Senate,28,Sam Marty,REP,31
+Perkins,07,State Senate,28,Susan M. Peterson,REP,12
+Perkins,07,State Senate,28,Sam Marty,REP,60
+Perkins,08,State Senate,28,Susan M. Peterson,REP,4
+Perkins,08,State Senate,28,Sam Marty,REP,8
+Perkins,09,State Senate,28,Susan M. Peterson,REP,5
+Perkins,09,State Senate,28,Sam Marty,REP,33
+Perkins,12,State Senate,28,Susan M. Peterson,REP,24
+Perkins,12,State Senate,28,Sam Marty,REP,91
+Perkins,01,State House,28A,Ryan Maher,REP,0
+Perkins,01,State House,28A,Jana Hunt,REP,0
+Perkins,01,State House,28B,Travis Ismay,REP,28
+Perkins,01,State House,28B,Travis W. Martin,REP,19
+Perkins,02,State House,28A,Ryan Maher,REP,0
+Perkins,02,State House,28A,Jana Hunt,REP,0
+Perkins,02,State House,28B,Travis Ismay,REP,19
+Perkins,02,State House,28B,Travis W. Martin,REP,7
+Perkins,03,State House,28A,Ryan Maher,REP,0
+Perkins,03,State House,28A,Jana Hunt,REP,0
+Perkins,03,State House,28B,Travis Ismay,REP,28
+Perkins,03,State House,28B,Travis W. Martin,REP,28
+Perkins,04,State House,28A,Ryan Maher,REP,0
+Perkins,04,State House,28A,Jana Hunt,REP,0
+Perkins,04,State House,28B,Travis Ismay,REP,17
+Perkins,04,State House,28B,Travis W. Martin,REP,3
+Perkins,05,State House,28A,Ryan Maher,REP,0
+Perkins,05,State House,28A,Jana Hunt,REP,0
+Perkins,05,State House,28B,Travis Ismay,REP,24
+Perkins,05,State House,28B,Travis W. Martin,REP,13
+Perkins,06,State House,28A,Ryan Maher,REP,13
+Perkins,06,State House,28A,Jana Hunt,REP,28
+Perkins,06,State House,28B,Travis Ismay,REP,0
+Perkins,06,State House,28B,Travis W. Martin,REP,0
+Perkins,07,State House,28A,Ryan Maher,REP,20
+Perkins,07,State House,28A,Jana Hunt,REP,52
+Perkins,07,State House,28B,Travis Ismay,REP,0
+Perkins,07,State House,28B,Travis W. Martin,REP,0
+Perkins,08,State House,28A,Ryan Maher,REP,8
+Perkins,08,State House,28A,Jana Hunt,REP,5
+Perkins,08,State House,28B,Travis Ismay,REP,0
+Perkins,08,State House,28B,Travis W. Martin,REP,0
+Perkins,09,State House,28A,Ryan Maher,REP,10
+Perkins,09,State House,28A,Jana Hunt,REP,29
+Perkins,09,State House,28B,Travis Ismay,REP,0
+Perkins,09,State House,28B,Travis W. Martin,REP,0
+Perkins,12,State House,28A,Ryan Maher,REP,38
+Perkins,12,State House,28A,Jana Hunt,REP,77
+Perkins,12,State House,28B,Travis Ismay,REP,0
+Perkins,12,State House,28B,Travis W. Martin,REP,0

@@ -1,0 +1,51 @@
+county,precinct,office,district,candidate,party,votes
+Hutchinson,01,President,,Marianne Williamson,DEM,0
+Hutchinson,01,President,,Joseph R Biden Jr,DEM,9
+Hutchinson,01,President,,Dean Phillips,DEM,4
+Hutchinson,01,President,,Armando Perez-Serrato,DEM,0
+Hutchinson,02,President,,Marianne Williamson,DEM,7
+Hutchinson,02,President,,Joseph R Biden Jr,DEM,21
+Hutchinson,02,President,,Dean Phillips,DEM,4
+Hutchinson,02,President,,Armando Perez-Serrato,DEM,2
+Hutchinson,03,President,,Marianne Williamson,DEM,2
+Hutchinson,03,President,,Joseph R Biden Jr,DEM,6
+Hutchinson,03,President,,Dean Phillips,DEM,3
+Hutchinson,03,President,,Armando Perez-Serrato,DEM,0
+Hutchinson,04,President,,Marianne Williamson,DEM,1
+Hutchinson,04,President,,Joseph R Biden Jr,DEM,17
+Hutchinson,04,President,,Dean Phillips,DEM,2
+Hutchinson,04,President,,Armando Perez-Serrato,DEM,1
+Hutchinson,05,President,,Marianne Williamson,DEM,2
+Hutchinson,05,President,,Joseph R Biden Jr,DEM,5
+Hutchinson,05,President,,Dean Phillips,DEM,1
+Hutchinson,05,President,,Armando Perez-Serrato,DEM,0
+Hutchinson,06,President,,Marianne Williamson,DEM,1
+Hutchinson,06,President,,Joseph R Biden Jr,DEM,1
+Hutchinson,06,President,,Dean Phillips,DEM,1
+Hutchinson,06,President,,Armando Perez-Serrato,DEM,0
+Hutchinson,01,State House,19,Drew Peterson,REP,78
+Hutchinson,01,State House,19,Steven Mettler,REP,171
+Hutchinson,01,State House,19,Jessica Bahmuller,REP,154
+Hutchinson,02,State House,19,Drew Peterson,REP,128
+Hutchinson,02,State House,19,Steven Mettler,REP,143
+Hutchinson,02,State House,19,Jessica Bahmuller,REP,196
+Hutchinson,03,State House,19,Drew Peterson,REP,56
+Hutchinson,03,State House,19,Steven Mettler,REP,24
+Hutchinson,03,State House,19,Jessica Bahmuller,REP,80
+Hutchinson,04,State House,19,Drew Peterson,REP,94
+Hutchinson,04,State House,19,Steven Mettler,REP,59
+Hutchinson,04,State House,19,Jessica Bahmuller,REP,114
+Hutchinson,05,State House,19,Drew Peterson,REP,61
+Hutchinson,05,State House,19,Steven Mettler,REP,60
+Hutchinson,05,State House,19,Jessica Bahmuller,REP,96
+Hutchinson,06,State House,19,Drew Peterson,REP,34
+Hutchinson,06,State House,19,Steven Mettler,REP,52
+Hutchinson,06,State House,19,Jessica Bahmuller,REP,68
+Hutchinson,02,County Commissioner,,Steven Friesen,REP,148
+Hutchinson,02,County Commissioner,,Charles Gering,REP,78
+Hutchinson,04,,,William D Hoffman,REP,109
+Hutchinson,04,,,Michael T. Boyle,REP,45
+Hutchinson,06,,,Kyle Schoenfish,REP,28
+Hutchinson,06,,,Daniel Hauck,REP,57
+Hutchinson,04,,,Isabel Boyle,REP,38
+Hutchinson,04,,,Elizabeth A Hoffman,REP,115

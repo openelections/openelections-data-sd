@@ -1,0 +1,139 @@
+county,precinct,office,district,candidate,party,votes
+Charles Mix,01,President,,Marianne Williamson,DEM,2
+Charles Mix,01,President,,Joseph R Biden Jr,DEM,7
+Charles Mix,01,President,,Dean Phillips,DEM,6
+Charles Mix,01,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,02,President,,Marianne Williamson,DEM,0
+Charles Mix,02,President,,Joseph R Biden Jr,DEM,10
+Charles Mix,02,President,,Dean Phillips,DEM,0
+Charles Mix,02,President,,Armando Perez-Serrato,DEM,1
+Charles Mix,03,President,,Marianne Williamson,DEM,3
+Charles Mix,03,President,,Joseph R Biden Jr,DEM,10
+Charles Mix,03,President,,Dean Phillips,DEM,4
+Charles Mix,03,President,,Armando Perez-Serrato,DEM,3
+Charles Mix,04,President,,Marianne Williamson,DEM,1
+Charles Mix,04,President,,Joseph R Biden Jr,DEM,3
+Charles Mix,04,President,,Dean Phillips,DEM,0
+Charles Mix,04,President,,Armando Perez-Serrato,DEM,2
+Charles Mix,05,President,,Marianne Williamson,DEM,5
+Charles Mix,05,President,,Joseph R Biden Jr,DEM,8
+Charles Mix,05,President,,Dean Phillips,DEM,4
+Charles Mix,05,President,,Armando Perez-Serrato,DEM,1
+Charles Mix,06,President,,Marianne Williamson,DEM,4
+Charles Mix,06,President,,Joseph R Biden Jr,DEM,10
+Charles Mix,06,President,,Dean Phillips,DEM,2
+Charles Mix,06,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,07,President,,Marianne Williamson,DEM,2
+Charles Mix,07,President,,Joseph R Biden Jr,DEM,13
+Charles Mix,07,President,,Dean Phillips,DEM,0
+Charles Mix,07,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,08,President,,Marianne Williamson,DEM,2
+Charles Mix,08,President,,Joseph R Biden Jr,DEM,6
+Charles Mix,08,President,,Dean Phillips,DEM,3
+Charles Mix,08,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,09,President,,Marianne Williamson,DEM,2
+Charles Mix,09,President,,Joseph R Biden Jr,DEM,8
+Charles Mix,09,President,,Dean Phillips,DEM,2
+Charles Mix,09,President,,Armando Perez-Serrato,DEM,2
+Charles Mix,10,President,,Marianne Williamson,DEM,0
+Charles Mix,10,President,,Joseph R Biden Jr,DEM,4
+Charles Mix,10,President,,Dean Phillips,DEM,1
+Charles Mix,10,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,11,President,,Marianne Williamson,DEM,5
+Charles Mix,11,President,,Joseph R Biden Jr,DEM,18
+Charles Mix,11,President,,Dean Phillips,DEM,4
+Charles Mix,11,President,,Armando Perez-Serrato,DEM,1
+Charles Mix,12,President,,Marianne Williamson,DEM,2
+Charles Mix,12,President,,Joseph R Biden Jr,DEM,2
+Charles Mix,12,President,,Dean Phillips,DEM,3
+Charles Mix,12,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,13,President,,Marianne Williamson,DEM,1
+Charles Mix,13,President,,Joseph R Biden Jr,DEM,4
+Charles Mix,13,President,,Dean Phillips,DEM,1
+Charles Mix,13,President,,Armando Perez-Serrato,DEM,0
+Charles Mix,01,State Senate,21,Erin Tobin,REP,43
+Charles Mix,01,State Senate,21,Mykala Voita,REP,44
+Charles Mix,02,State Senate,21,Erin Tobin,REP,11
+Charles Mix,02,State Senate,21,Mykala Voita,REP,11
+Charles Mix,03,State Senate,21,Erin Tobin,REP,30
+Charles Mix,03,State Senate,21,Mykala Voita,REP,26
+Charles Mix,04,State Senate,21,Erin Tobin,REP,13
+Charles Mix,04,State Senate,21,Mykala Voita,REP,13
+Charles Mix,05,State Senate,21,Erin Tobin,REP,23
+Charles Mix,05,State Senate,21,Mykala Voita,REP,29
+Charles Mix,06,State Senate,21,Erin Tobin,REP,5
+Charles Mix,06,State Senate,21,Mykala Voita,REP,14
+Charles Mix,07,State Senate,21,Erin Tobin,REP,18
+Charles Mix,07,State Senate,21,Mykala Voita,REP,21
+Charles Mix,08,State Senate,21,Erin Tobin,REP,27
+Charles Mix,08,State Senate,21,Mykala Voita,REP,24
+Charles Mix,09,State Senate,21,Erin Tobin,REP,70
+Charles Mix,09,State Senate,21,Mykala Voita,REP,97
+Charles Mix,10,State Senate,21,Erin Tobin,REP,19
+Charles Mix,10,State Senate,21,Mykala Voita,REP,43
+Charles Mix,11,State Senate,21,Erin Tobin,REP,136
+Charles Mix,11,State Senate,21,Mykala Voita,REP,128
+Charles Mix,12,State Senate,21,Erin Tobin,REP,19
+Charles Mix,12,State Senate,21,Mykala Voita,REP,5
+Charles Mix,13,State Senate,21,Erin Tobin,REP,4
+Charles Mix,13,State Senate,21,Mykala Voita,REP,5
+Charles Mix,01,State House,21,Lee Qualm,REP,50
+Charles Mix,01,State House,21,Marty Overweg,REP,70
+Charles Mix,01,State House,21,Jim Halverson,REP,31
+Charles Mix,02,State House,21,Lee Qualm,REP,12
+Charles Mix,02,State House,21,Marty Overweg,REP,17
+Charles Mix,02,State House,21,Jim Halverson,REP,4
+Charles Mix,03,State House,21,Lee Qualm,REP,37
+Charles Mix,03,State House,21,Marty Overweg,REP,31
+Charles Mix,03,State House,21,Jim Halverson,REP,23
+Charles Mix,04,State House,21,Lee Qualm,REP,17
+Charles Mix,04,State House,21,Marty Overweg,REP,21
+Charles Mix,04,State House,21,Jim Halverson,REP,9
+Charles Mix,05,State House,21,Lee Qualm,REP,29
+Charles Mix,05,State House,21,Marty Overweg,REP,35
+Charles Mix,05,State House,21,Jim Halverson,REP,21
+Charles Mix,06,State House,21,Lee Qualm,REP,10
+Charles Mix,06,State House,21,Marty Overweg,REP,16
+Charles Mix,06,State House,21,Jim Halverson,REP,7
+Charles Mix,07,State House,21,Lee Qualm,REP,18
+Charles Mix,07,State House,21,Marty Overweg,REP,29
+Charles Mix,07,State House,21,Jim Halverson,REP,13
+Charles Mix,08,State House,21,Lee Qualm,REP,26
+Charles Mix,08,State House,21,Marty Overweg,REP,44
+Charles Mix,08,State House,21,Jim Halverson,REP,20
+Charles Mix,09,State House,21,Lee Qualm,REP,72
+Charles Mix,09,State House,21,Marty Overweg,REP,151
+Charles Mix,09,State House,21,Jim Halverson,REP,67
+Charles Mix,10,State House,21,Lee Qualm,REP,44
+Charles Mix,10,State House,21,Marty Overweg,REP,47
+Charles Mix,10,State House,21,Jim Halverson,REP,14
+Charles Mix,11,State House,21,Lee Qualm,REP,119
+Charles Mix,11,State House,21,Marty Overweg,REP,244
+Charles Mix,11,State House,21,Jim Halverson,REP,118
+Charles Mix,12,State House,21,Lee Qualm,REP,10
+Charles Mix,12,State House,21,Marty Overweg,REP,16
+Charles Mix,12,State House,21,Jim Halverson,REP,7
+Charles Mix,13,State House,21,Lee Qualm,REP,6
+Charles Mix,13,State House,21,Marty Overweg,REP,7
+Charles Mix,13,State House,21,Jim Halverson,REP,3
+Charles Mix,05,County Commissioner,3,David M Spier,REP,3
+Charles Mix,05,County Commissioner,3,Kory Standy,REP,5
+Charles Mix,05,County Commissioner,3,Heath Knudson,REP,3
+Charles Mix,07,County Commissioner,3,David M Spier,REP,4
+Charles Mix,07,County Commissioner,3,Kory Standy,REP,13
+Charles Mix,07,County Commissioner,3,Heath Knudson,REP,11
+Charles Mix,08,County Commissioner,3,David M Spier,REP,9
+Charles Mix,08,County Commissioner,3,Kory Standy,REP,29
+Charles Mix,08,County Commissioner,3,Heath Knudson,REP,9
+Charles Mix,09,County Commissioner,3,David M Spier,REP,66
+Charles Mix,09,County Commissioner,3,Kory Standy,REP,75
+Charles Mix,09,County Commissioner,3,Heath Knudson,REP,23
+Charles Mix,10,County Commissioner,3,David M Spier,REP,38
+Charles Mix,10,County Commissioner,3,Kory Standy,REP,22
+Charles Mix,10,County Commissioner,3,Heath Knudson,REP,3
+Charles Mix,11,County Commissioner,3,David M Spier,REP,94
+Charles Mix,11,County Commissioner,3,Kory Standy,REP,116
+Charles Mix,11,County Commissioner,3,Heath Knudson,REP,40
+Charles Mix,12,County Commissioner,3,David M Spier,REP,0
+Charles Mix,12,County Commissioner,3,Kory Standy,REP,17
+Charles Mix,12,County Commissioner,3,Heath Knudson,REP,7

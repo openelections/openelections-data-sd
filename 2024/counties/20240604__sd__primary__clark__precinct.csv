@@ -1,0 +1,130 @@
+county,precinct,office,district,candidate,party,votes
+Clark,01,President,,Marianne Williamson,DEM,3
+Clark,01,President,,Joseph R Biden Jr,DEM,1
+Clark,01,President,,Dean Phillips,DEM,3
+Clark,01,President,,Armando Perez-Serrato,DEM,2
+Clark,02,President,,Marianne Williamson,DEM,2
+Clark,02,President,,Joseph R Biden Jr,DEM,1
+Clark,02,President,,Dean Phillips,DEM,1
+Clark,02,President,,Armando Perez-Serrato,DEM,0
+Clark,03,President,,Marianne Williamson,DEM,0
+Clark,03,President,,Joseph R Biden Jr,DEM,6
+Clark,03,President,,Dean Phillips,DEM,1
+Clark,03,President,,Armando Perez-Serrato,DEM,0
+Clark,04,President,,Marianne Williamson,DEM,1
+Clark,04,President,,Joseph R Biden Jr,DEM,1
+Clark,04,President,,Dean Phillips,DEM,0
+Clark,04,President,,Armando Perez-Serrato,DEM,0
+Clark,06,President,,Marianne Williamson,DEM,1
+Clark,06,President,,Joseph R Biden Jr,DEM,3
+Clark,06,President,,Dean Phillips,DEM,0
+Clark,06,President,,Armando Perez-Serrato,DEM,0
+Clark,07,President,,Marianne Williamson,DEM,1
+Clark,07,President,,Joseph R Biden Jr,DEM,0
+Clark,07,President,,Dean Phillips,DEM,2
+Clark,07,President,,Armando Perez-Serrato,DEM,0
+Clark,08,President,,Marianne Williamson,DEM,2
+Clark,08,President,,Joseph R Biden Jr,DEM,5
+Clark,08,President,,Dean Phillips,DEM,3
+Clark,08,President,,Armando Perez-Serrato,DEM,3
+Clark,09,President,,Marianne Williamson,DEM,1
+Clark,09,President,,Joseph R Biden Jr,DEM,7
+Clark,09,President,,Dean Phillips,DEM,0
+Clark,09,President,,Armando Perez-Serrato,DEM,0
+Clark,10,President,,Marianne Williamson,DEM,0
+Clark,10,President,,Joseph R Biden Jr,DEM,1
+Clark,10,President,,Dean Phillips,DEM,1
+Clark,10,President,,Armando Perez-Serrato,DEM,0
+Clark,11,President,,Marianne Williamson,DEM,1
+Clark,11,President,,Joseph R Biden Jr,DEM,5
+Clark,11,President,,Dean Phillips,DEM,3
+Clark,11,President,,Armando Perez-Serrato,DEM,0
+Clark,12,President,,Marianne Williamson,DEM,1
+Clark,12,President,,Joseph R Biden Jr,DEM,10
+Clark,12,President,,Dean Phillips,DEM,0
+Clark,12,President,,Armando Perez-Serrato,DEM,0
+Clark,13,President,,Marianne Williamson,DEM,2
+Clark,13,President,,Joseph R Biden Jr,DEM,4
+Clark,13,President,,Dean Phillips,DEM,1
+Clark,13,President,,Armando Perez-Serrato,DEM,1
+Clark,01,State House,04,Dylan C. Jordan,REP,11
+Clark,01,State House,04,Vanessa Namken,REP,14
+Clark,01,State House,04,Barbara Guenette,REP,9
+Clark,01,State House,04,Kent Roe,REP,24
+Clark,02,State House,04,Dylan C. Jordan,REP,14
+Clark,02,State House,04,Vanessa Namken,REP,15
+Clark,02,State House,04,Barbara Guenette,REP,5
+Clark,02,State House,04,Kent Roe,REP,14
+Clark,03,State House,04,Dylan C. Jordan,REP,2
+Clark,03,State House,04,Vanessa Namken,REP,3
+Clark,03,State House,04,Barbara Guenette,REP,2
+Clark,03,State House,04,Kent Roe,REP,2
+Clark,03,State House,22,Kevin Van Diepen,REP,7
+Clark,03,State House,22,Terry Nebelsick,REP,4
+Clark,03,State House,22,Lana Greenfield,REP,11
+Clark,04,State House,04,Dylan C. Jordan,REP,5
+Clark,04,State House,04,Vanessa Namken,REP,6
+Clark,04,State House,04,Barbara Guenette,REP,16
+Clark,04,State House,04,Kent Roe,REP,20
+Clark,06,State House,04,Dylan C. Jordan,REP,17
+Clark,06,State House,04,Vanessa Namken,REP,16
+Clark,06,State House,04,Barbara Guenette,REP,20
+Clark,06,State House,04,Kent Roe,REP,32
+Clark,07,State House,04,Dylan C. Jordan,REP,47
+Clark,07,State House,04,Vanessa Namken,REP,62
+Clark,07,State House,04,Barbara Guenette,REP,22
+Clark,07,State House,04,Kent Roe,REP,38
+Clark,08,State House,04,Dylan C. Jordan,REP,14
+Clark,08,State House,04,Vanessa Namken,REP,15
+Clark,08,State House,04,Barbara Guenette,REP,12
+Clark,08,State House,04,Kent Roe,REP,33
+Clark,09,State House,04,Dylan C. Jordan,REP,10
+Clark,09,State House,04,Vanessa Namken,REP,4
+Clark,09,State House,04,Barbara Guenette,REP,8
+Clark,09,State House,04,Kent Roe,REP,13
+Clark,09,State House,22,Kevin Van Diepen,REP,13
+Clark,09,State House,22,Terry Nebelsick,REP,16
+Clark,09,State House,22,Lana Greenfield,REP,7
+Clark,10,State House,04,Dylan C. Jordan,REP,4
+Clark,10,State House,04,Vanessa Namken,REP,4
+Clark,10,State House,04,Barbara Guenette,REP,4
+Clark,10,State House,04,Kent Roe,REP,12
+Clark,10,State House,22,Kevin Van Diepen,REP,0
+Clark,10,State House,22,Terry Nebelsick,REP,0
+Clark,10,State House,22,Lana Greenfield,REP,4
+Clark,11,State House,04,Dylan C. Jordan,REP,12
+Clark,11,State House,04,Vanessa Namken,REP,12
+Clark,11,State House,04,Barbara Guenette,REP,13
+Clark,11,State House,04,Kent Roe,REP,21
+Clark,12,State House,04,Dylan C. Jordan,REP,21
+Clark,12,State House,04,Vanessa Namken,REP,13
+Clark,12,State House,04,Barbara Guenette,REP,19
+Clark,12,State House,04,Kent Roe,REP,19
+Clark,13,State House,04,Dylan C. Jordan,REP,18
+Clark,13,State House,04,Vanessa Namken,REP,17
+Clark,13,State House,04,Barbara Guenette,REP,21
+Clark,13,State House,04,Kent Roe,REP,31
+Clark,01,State Senate,04,Fred Deutsch,REP,13
+Clark,01,State Senate,04,Stephanie Sauder,REP,21
+Clark,02,State Senate,04,Fred Deutsch,REP,14
+Clark,02,State Senate,04,Stephanie Sauder,REP,11
+Clark,03,State Senate,04,Fred Deutsch,REP,2
+Clark,03,State Senate,04,Stephanie Sauder,REP,3
+Clark,04,State Senate,04,Fred Deutsch,REP,16
+Clark,04,State Senate,04,Stephanie Sauder,REP,13
+Clark,06,State Senate,04,Fred Deutsch,REP,18
+Clark,06,State Senate,04,Stephanie Sauder,REP,30
+Clark,07,State Senate,04,Fred Deutsch,REP,55
+Clark,07,State Senate,04,Stephanie Sauder,REP,42
+Clark,08,State Senate,04,Fred Deutsch,REP,9
+Clark,08,State Senate,04,Stephanie Sauder,REP,37
+Clark,09,State Senate,04,Fred Deutsch,REP,6
+Clark,09,State Senate,04,Stephanie Sauder,REP,15
+Clark,10,State Senate,04,Fred Deutsch,REP,5
+Clark,10,State Senate,04,Stephanie Sauder,REP,11
+Clark,11,State Senate,04,Fred Deutsch,REP,14
+Clark,11,State Senate,04,Stephanie Sauder,REP,21
+Clark,12,State Senate,04,Fred Deutsch,REP,22
+Clark,12,State Senate,04,Stephanie Sauder,REP,17
+Clark,13,State Senate,04,Fred Deutsch,REP,15
+Clark,13,State Senate,04,Stephanie Sauder,REP,32

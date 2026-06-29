@@ -1,0 +1,183 @@
+county,precinct,office,district,candidate,party,votes
+Davison,01,President,,Marianne Williamson,DEM,3
+Davison,01,President,,Joseph R Biden Jr,DEM,3
+Davison,01,President,,Dean Phillips,DEM,2
+Davison,01,President,,Armando Perez-Serrato,DEM,0
+Davison,02,President,,Marianne Williamson,DEM,1
+Davison,02,President,,Joseph R Biden Jr,DEM,5
+Davison,02,President,,Dean Phillips,DEM,2
+Davison,02,President,,Armando Perez-Serrato,DEM,1
+Davison,03,President,,Marianne Williamson,DEM,1
+Davison,03,President,,Joseph R Biden Jr,DEM,19
+Davison,03,President,,Dean Phillips,DEM,0
+Davison,03,President,,Armando Perez-Serrato,DEM,1
+Davison,04,President,,Marianne Williamson,DEM,0
+Davison,04,President,,Joseph R Biden Jr,DEM,13
+Davison,04,President,,Dean Phillips,DEM,1
+Davison,04,President,,Armando Perez-Serrato,DEM,1
+Davison,05,President,,Marianne Williamson,DEM,1
+Davison,05,President,,Joseph R Biden Jr,DEM,3
+Davison,05,President,,Dean Phillips,DEM,0
+Davison,05,President,,Armando Perez-Serrato,DEM,0
+Davison,06,President,,Marianne Williamson,DEM,1
+Davison,06,President,,Joseph R Biden Jr,DEM,68
+Davison,06,President,,Dean Phillips,DEM,3
+Davison,06,President,,Armando Perez-Serrato,DEM,4
+Davison,07,President,,Marianne Williamson,DEM,13
+Davison,07,President,,Joseph R Biden Jr,DEM,74
+Davison,07,President,,Dean Phillips,DEM,3
+Davison,07,President,,Armando Perez-Serrato,DEM,2
+Davison,08,President,,Marianne Williamson,DEM,8
+Davison,08,President,,Joseph R Biden Jr,DEM,49
+Davison,08,President,,Dean Phillips,DEM,5
+Davison,08,President,,Armando Perez-Serrato,DEM,3
+Davison,09,President,,Marianne Williamson,DEM,8
+Davison,09,President,,Joseph R Biden Jr,DEM,38
+Davison,09,President,,Dean Phillips,DEM,11
+Davison,09,President,,Armando Perez-Serrato,DEM,2
+Davison,10,President,,Marianne Williamson,DEM,6
+Davison,10,President,,Joseph R Biden Jr,DEM,56
+Davison,10,President,,Dean Phillips,DEM,5
+Davison,10,President,,Armando Perez-Serrato,DEM,2
+Davison,11,President,,Marianne Williamson,DEM,8
+Davison,11,President,,Joseph R Biden Jr,DEM,45
+Davison,11,President,,Dean Phillips,DEM,3
+Davison,11,President,,Armando Perez-Serrato,DEM,3
+Davison,12,President,,Marianne Williamson,DEM,7
+Davison,12,President,,Joseph R Biden Jr,DEM,55
+Davison,12,President,,Dean Phillips,DEM,5
+Davison,12,President,,Armando Perez-Serrato,DEM,3
+Davison,13,President,,Marianne Williamson,DEM,5
+Davison,13,President,,Joseph R Biden Jr,DEM,16
+Davison,13,President,,Dean Phillips,DEM,2
+Davison,13,President,,Armando Perez-Serrato,DEM,0
+Davison,14,President,,Marianne Williamson,DEM,8
+Davison,14,President,,Joseph R Biden Jr,DEM,41
+Davison,14,President,,Dean Phillips,DEM,4
+Davison,14,President,,Armando Perez-Serrato,DEM,1
+Davison,15,President,,Marianne Williamson,DEM,7
+Davison,15,President,,Joseph R Biden Jr,DEM,77
+Davison,15,President,,Dean Phillips,DEM,11
+Davison,15,President,,Armando Perez-Serrato,DEM,3
+Davison,16,President,,Marianne Williamson,DEM,11
+Davison,16,President,,Joseph R Biden Jr,DEM,43
+Davison,16,President,,Dean Phillips,DEM,6
+Davison,16,President,,Armando Perez-Serrato,DEM,2
+Davison,18,President,,Marianne Williamson,DEM,6
+Davison,18,President,,Joseph R Biden Jr,DEM,39
+Davison,18,President,,Dean Phillips,DEM,3
+Davison,18,President,,Armando Perez-Serrato,DEM,5
+Davison,19,President,,Marianne Williamson,DEM,7
+Davison,19,President,,Joseph R Biden Jr,DEM,61
+Davison,19,President,,Dean Phillips,DEM,14
+Davison,19,President,,Armando Perez-Serrato,DEM,3
+Davison,20,President,,Marianne Williamson,DEM,11
+Davison,20,President,,Joseph R Biden Jr,DEM,91
+Davison,20,President,,Dean Phillips,DEM,12
+Davison,20,President,,Armando Perez-Serrato,DEM,3
+Davison,06,Precinct Committeeman,06,Boyd A Reimnitz,REP,44
+Davison,06,Precinct Committeeman,06,Michael Vehle,REP,235
+Davison,13,Precinct Committeeman,13,Larry A Mathis,REP,36
+Davison,13,Precinct Committeeman,13,Mike Lauritsen,REP,31
+Davison,06,Precinct Committeewoman,,Tona Rozum,REP,230
+Davison,06,Precinct Committeewoman,,Kay Reimnitz,REP,36
+Davison,06,Mayor City of Mitchell,,Bob Everson,,139
+Davison,06,Mayor City of Mitchell,,Jordan Hanson,,101
+Davison,06,Mayor City of Mitchell,,Terry Sabers,,206
+Davison,07,Mayor City of Mitchell,,Bob Everson,,85
+Davison,07,Mayor City of Mitchell,,Jordan Hanson,,97
+Davison,07,Mayor City of Mitchell,,Terry Sabers,,225
+Davison,08,Mayor City of Mitchell,,Bob Everson,,53
+Davison,08,Mayor City of Mitchell,,Jordan Hanson,,144
+Davison,08,Mayor City of Mitchell,,Terry Sabers,,108
+Davison,09,Mayor City of Mitchell,,Bob Everson,,34
+Davison,09,Mayor City of Mitchell,,Jordan Hanson,,172
+Davison,09,Mayor City of Mitchell,,Terry Sabers,,57
+Davison,10,Mayor City of Mitchell,,Bob Everson,,48
+Davison,10,Mayor City of Mitchell,,Jordan Hanson,,149
+Davison,10,Mayor City of Mitchell,,Terry Sabers,,84
+Davison,11,Mayor City of Mitchell,,Bob Everson,,63
+Davison,11,Mayor City of Mitchell,,Jordan Hanson,,95
+Davison,11,Mayor City of Mitchell,,Terry Sabers,,108
+Davison,12,Mayor City of Mitchell,,Bob Everson,,61
+Davison,12,Mayor City of Mitchell,,Jordan Hanson,,111
+Davison,12,Mayor City of Mitchell,,Terry Sabers,,148
+Davison,13,Mayor City of Mitchell,,Bob Everson,,24
+Davison,13,Mayor City of Mitchell,,Jordan Hanson,,46
+Davison,13,Mayor City of Mitchell,,Terry Sabers,,53
+Davison,14,Mayor City of Mitchell,,Bob Everson,,29
+Davison,14,Mayor City of Mitchell,,Jordan Hanson,,131
+Davison,14,Mayor City of Mitchell,,Terry Sabers,,72
+Davison,15,Mayor City of Mitchell,,Bob Everson,,68
+Davison,15,Mayor City of Mitchell,,Jordan Hanson,,183
+Davison,15,Mayor City of Mitchell,,Terry Sabers,,211
+Davison,16,Mayor City of Mitchell,,Bob Everson,,32
+Davison,16,Mayor City of Mitchell,,Jordan Hanson,,108
+Davison,16,Mayor City of Mitchell,,Terry Sabers,,69
+Davison,18,Mayor City of Mitchell,,Bob Everson,,40
+Davison,18,Mayor City of Mitchell,,Jordan Hanson,,100
+Davison,18,Mayor City of Mitchell,,Terry Sabers,,61
+Davison,19,Mayor City of Mitchell,,Bob Everson,,43
+Davison,19,Mayor City of Mitchell,,Jordan Hanson,,154
+Davison,19,Mayor City of Mitchell,,Terry Sabers,,91
+Davison,20,Mayor City of Mitchell,,Bob Everson,,82
+Davison,20,Mayor City of Mitchell,,Jordan Hanson,,190
+Davison,20,Mayor City of Mitchell,,Terry Sabers,,231
+Davison,06,Alderman Mitchell Ward,004,Don Everson,NPA,105
+Davison,06,Alderman Mitchell Ward,004,Montana Walcott,NPA,23
+Davison,06,Alderman Mitchell Ward,004,Jeff Smith,NPA,312
+Davison,07,Alderman Mitchell Ward,004,Don Everson,NPA,152
+Davison,07,Alderman Mitchell Ward,004,Montana Walcott,NPA,21
+Davison,07,Alderman Mitchell Ward,004,Jeff Smith,NPA,227
+Davison,08,Alderman Mitchell Ward,004,Don Everson,NPA,139
+Davison,08,Alderman Mitchell Ward,004,Montana Walcott,NPA,32
+Davison,08,Alderman Mitchell Ward,004,Jeff Smith,NPA,116
+Davison,09,Alderman Mitchell Ward,004,Don Everson,NPA,144
+Davison,09,Alderman Mitchell Ward,004,Montana Walcott,NPA,37
+Davison,09,Alderman Mitchell Ward,004,Jeff Smith,NPA,67
+Davison,10,Alderman Mitchell Ward,001,Dan Sabers,NPA,96
+Davison,10,Alderman Mitchell Ward,001,Sarah Deakins,NPA,127
+Davison,10,Alderman Mitchell Ward,001,Jesse Stroud,NPA,50
+Davison,11,Alderman Mitchell Ward,001,Dan Sabers,NPA,118
+Davison,11,Alderman Mitchell Ward,001,Sarah Deakins,NPA,101
+Davison,11,Alderman Mitchell Ward,001,Jesse Stroud,NPA,30
+Davison,12,Alderman Mitchell Ward,001,Dan Sabers,NPA,158
+Davison,12,Alderman Mitchell Ward,001,Sarah Deakins,NPA,108
+Davison,12,Alderman Mitchell Ward,001,Jesse Stroud,NPA,29
+Davison,13,Alderman Mitchell Ward,001,Dan Sabers,NPA,76
+Davison,13,Alderman Mitchell Ward,001,Sarah Deakins,NPA,26
+Davison,13,Alderman Mitchell Ward,001,Jesse Stroud,NPA,13
+Davison,14,Alderman Mitchell Ward,002,Shaun Davis,NPA,103
+Davison,14,Alderman Mitchell Ward,002,Kevin Mccardle,NPA,110
+Davison,15,Alderman Mitchell Ward,002,Shaun Davis,NPA,173
+Davison,15,Alderman Mitchell Ward,002,Kevin Mccardle,NPA,271
+Davison,16,Alderman Mitchell Ward,002,Shaun Davis,NPA,91
+Davison,16,Alderman Mitchell Ward,002,Kevin Mccardle,NPA,108
+Davison,06,Bond Issue : City Of Mitchell,,Yes,,356
+Davison,06,Bond Issue : City Of Mitchell,,No,,92
+Davison,07,Bond Issue : City Of Mitchell,,Yes,,240
+Davison,07,Bond Issue : City Of Mitchell,,No,,170
+Davison,08,Bond Issue : City Of Mitchell,,Yes,,132
+Davison,08,Bond Issue : City Of Mitchell,,No,,175
+Davison,09,Bond Issue : City Of Mitchell,,Yes,,89
+Davison,09,Bond Issue : City Of Mitchell,,No,,171
+Davison,10,Bond Issue : City Of Mitchell,,Yes,,131
+Davison,10,Bond Issue : City Of Mitchell,,No,,155
+Davison,11,Bond Issue : City Of Mitchell,,Yes,,142
+Davison,11,Bond Issue : City Of Mitchell,,No,,126
+Davison,12,Bond Issue : City Of Mitchell,,Yes,,147
+Davison,12,Bond Issue : City Of Mitchell,,No,,174
+Davison,13,Bond Issue : City Of Mitchell,,Yes,,68
+Davison,13,Bond Issue : City Of Mitchell,,No,,55
+Davison,14,Bond Issue : City Of Mitchell,,Yes,,87
+Davison,14,Bond Issue : City Of Mitchell,,No,,145
+Davison,15,Bond Issue : City Of Mitchell,,Yes,,214
+Davison,15,Bond Issue : City Of Mitchell,,No,,250
+Davison,16,Bond Issue : City Of Mitchell,,Yes,,83
+Davison,16,Bond Issue : City Of Mitchell,,No,,127
+Davison,18,Bond Issue : City Of Mitchell,,Yes,,104
+Davison,18,Bond Issue : City Of Mitchell,,No,,101
+Davison,19,Bond Issue : City Of Mitchell,,Yes,,122
+Davison,19,Bond Issue : City Of Mitchell,,No,,164
+Davison,20,Bond Issue : City Of Mitchell,,Yes,,262
+Davison,20,Bond Issue : City Of Mitchell,,No,,242

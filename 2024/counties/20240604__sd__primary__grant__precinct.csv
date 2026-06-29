@@ -1,0 +1,217 @@
+county,precinct,office,district,candidate,party,votes
+Grant,11,President,,Marianne Williamson,DEM,3
+Grant,11,President,,Joseph R Biden Jr,DEM,21
+Grant,11,President,,Dean Phillips,DEM,6
+Grant,11,President,,Armando Perez-Serrato,DEM,0
+Grant,12,President,,Marianne Williamson,DEM,0
+Grant,12,President,,Joseph R Biden Jr,DEM,3
+Grant,12,President,,Dean Phillips,DEM,0
+Grant,12,President,,Armando Perez-Serrato,DEM,0
+Grant,21,President,,Marianne Williamson,DEM,0
+Grant,21,President,,Joseph R Biden Jr,DEM,8
+Grant,21,President,,Dean Phillips,DEM,2
+Grant,21,President,,Armando Perez-Serrato,DEM,0
+Grant,22,President,,Marianne Williamson,DEM,0
+Grant,22,President,,Joseph R Biden Jr,DEM,22
+Grant,22,President,,Dean Phillips,DEM,2
+Grant,22,President,,Armando Perez-Serrato,DEM,0
+Grant,31,President,,Marianne Williamson,DEM,0
+Grant,31,President,,Joseph R Biden Jr,DEM,1
+Grant,31,President,,Dean Phillips,DEM,1
+Grant,31,President,,Armando Perez-Serrato,DEM,0
+Grant,32,President,,Marianne Williamson,DEM,0
+Grant,32,President,,Joseph R Biden Jr,DEM,3
+Grant,32,President,,Dean Phillips,DEM,0
+Grant,32,President,,Armando Perez-Serrato,DEM,0
+Grant,33,President,,Marianne Williamson,DEM,6
+Grant,33,President,,Joseph R Biden Jr,DEM,24
+Grant,33,President,,Dean Phillips,DEM,1
+Grant,33,President,,Armando Perez-Serrato,DEM,2
+Grant,41,President,,Marianne Williamson,DEM,4
+Grant,41,President,,Joseph R Biden Jr,DEM,12
+Grant,41,President,,Dean Phillips,DEM,0
+Grant,41,President,,Armando Perez-Serrato,DEM,1
+Grant,42,President,,Marianne Williamson,DEM,1
+Grant,42,President,,Joseph R Biden Jr,DEM,6
+Grant,42,President,,Dean Phillips,DEM,1
+Grant,42,President,,Armando Perez-Serrato,DEM,0
+Grant,43,President,,Marianne Williamson,DEM,3
+Grant,43,President,,Joseph R Biden Jr,DEM,18
+Grant,43,President,,Dean Phillips,DEM,4
+Grant,43,President,,Armando Perez-Serrato,DEM,1
+Grant,44,President,,Marianne Williamson,DEM,0
+Grant,44,President,,Joseph R Biden Jr,DEM,7
+Grant,44,President,,Dean Phillips,DEM,3
+Grant,44,President,,Armando Perez-Serrato,DEM,1
+Grant,45,President,,Marianne Williamson,DEM,0
+Grant,45,President,,Joseph R Biden Jr,DEM,9
+Grant,45,President,,Dean Phillips,DEM,2
+Grant,45,President,,Armando Perez-Serrato,DEM,0
+Grant,46,President,,Marianne Williamson,DEM,0
+Grant,46,President,,Joseph R Biden Jr,DEM,9
+Grant,46,President,,Dean Phillips,DEM,0
+Grant,46,President,,Armando Perez-Serrato,DEM,1
+Grant,47,President,,Marianne Williamson,DEM,2
+Grant,47,President,,Joseph R Biden Jr,DEM,2
+Grant,47,President,,Dean Phillips,DEM,1
+Grant,47,President,,Armando Perez-Serrato,DEM,1
+Grant,49,President,,Marianne Williamson,DEM,1
+Grant,49,President,,Joseph R Biden Jr,DEM,1
+Grant,49,President,,Dean Phillips,DEM,0
+Grant,49,President,,Armando Perez-Serrato,DEM,0
+Grant,52,President,,Marianne Williamson,DEM,1
+Grant,52,President,,Joseph R Biden Jr,DEM,3
+Grant,52,President,,Dean Phillips,DEM,1
+Grant,52,President,,Armando Perez-Serrato,DEM,1
+Grant,53,President,,Marianne Williamson,DEM,1
+Grant,53,President,,Joseph R Biden Jr,DEM,0
+Grant,53,President,,Dean Phillips,DEM,0
+Grant,53,President,,Armando Perez-Serrato,DEM,1
+Grant,54,President,,Marianne Williamson,DEM,3
+Grant,54,President,,Joseph R Biden Jr,DEM,3
+Grant,54,President,,Dean Phillips,DEM,3
+Grant,54,President,,Armando Perez-Serrato,DEM,0
+Grant,11,State Senate,04,Fred Deutsch,REP,52
+Grant,11,State Senate,04,Stephanie Sauder,REP,34
+Grant,12,State Senate,04,Fred Deutsch,REP,17
+Grant,12,State Senate,04,Stephanie Sauder,REP,8
+Grant,21,State Senate,04,Fred Deutsch,REP,18
+Grant,21,State Senate,04,Stephanie Sauder,REP,17
+Grant,22,State Senate,04,Fred Deutsch,REP,45
+Grant,22,State Senate,04,Stephanie Sauder,REP,39
+Grant,31,State Senate,04,Fred Deutsch,REP,11
+Grant,31,State Senate,04,Stephanie Sauder,REP,8
+Grant,32,State Senate,04,Fred Deutsch,REP,15
+Grant,32,State Senate,04,Stephanie Sauder,REP,5
+Grant,33,State Senate,04,Fred Deutsch,REP,67
+Grant,33,State Senate,04,Stephanie Sauder,REP,50
+Grant,41,State Senate,04,Fred Deutsch,REP,35
+Grant,41,State Senate,04,Stephanie Sauder,REP,22
+Grant,42,State Senate,04,Fred Deutsch,REP,50
+Grant,42,State Senate,04,Stephanie Sauder,REP,26
+Grant,43,State Senate,04,Fred Deutsch,REP,62
+Grant,43,State Senate,04,Stephanie Sauder,REP,43
+Grant,44,State Senate,04,Fred Deutsch,REP,20
+Grant,44,State Senate,04,Stephanie Sauder,REP,15
+Grant,45,State Senate,04,Fred Deutsch,REP,29
+Grant,45,State Senate,04,Stephanie Sauder,REP,27
+Grant,46,State Senate,04,Fred Deutsch,REP,38
+Grant,46,State Senate,04,Stephanie Sauder,REP,18
+Grant,47,State Senate,04,Fred Deutsch,REP,47
+Grant,47,State Senate,04,Stephanie Sauder,REP,24
+Grant,49,State Senate,04,Fred Deutsch,REP,18
+Grant,49,State Senate,04,Stephanie Sauder,REP,9
+Grant,52,State Senate,04,Fred Deutsch,REP,11
+Grant,52,State Senate,04,Stephanie Sauder,REP,4
+Grant,53,State Senate,04,Fred Deutsch,REP,9
+Grant,53,State Senate,04,Stephanie Sauder,REP,5
+Grant,54,State Senate,04,Fred Deutsch,REP,20
+Grant,54,State Senate,04,Stephanie Sauder,REP,14
+Grant,11,State House,04,Dylan C. Jordan,REP,53
+Grant,11,State House,04,Vanessa Namken,REP,37
+Grant,11,State House,04,Barbara Guenette,REP,25
+Grant,11,State House,04,Kent Roe,REP,17
+Grant,12,State House,04,Dylan C. Jordan,REP,14
+Grant,12,State House,04,Vanessa Namken,REP,5
+Grant,12,State House,04,Barbara Guenette,REP,12
+Grant,12,State House,04,Kent Roe,REP,13
+Grant,21,State House,04,Dylan C. Jordan,REP,11
+Grant,21,State House,04,Vanessa Namken,REP,7
+Grant,21,State House,04,Barbara Guenette,REP,15
+Grant,21,State House,04,Kent Roe,REP,15
+Grant,22,State House,04,Dylan C. Jordan,REP,36
+Grant,22,State House,04,Vanessa Namken,REP,23
+Grant,22,State House,04,Barbara Guenette,REP,34
+Grant,22,State House,04,Kent Roe,REP,42
+Grant,31,State House,04,Dylan C. Jordan,REP,10
+Grant,31,State House,04,Vanessa Namken,REP,9
+Grant,31,State House,04,Barbara Guenette,REP,5
+Grant,31,State House,04,Kent Roe,REP,5
+Grant,32,State House,04,Dylan C. Jordan,REP,11
+Grant,32,State House,04,Vanessa Namken,REP,6
+Grant,32,State House,04,Barbara Guenette,REP,4
+Grant,32,State House,04,Kent Roe,REP,8
+Grant,33,State House,04,Dylan C. Jordan,REP,56
+Grant,33,State House,04,Vanessa Namken,REP,52
+Grant,33,State House,04,Barbara Guenette,REP,46
+Grant,33,State House,04,Kent Roe,REP,52
+Grant,41,State House,04,Dylan C. Jordan,REP,31
+Grant,41,State House,04,Vanessa Namken,REP,32
+Grant,41,State House,04,Barbara Guenette,REP,14
+Grant,41,State House,04,Kent Roe,REP,21
+Grant,42,State House,04,Dylan C. Jordan,REP,40
+Grant,42,State House,04,Vanessa Namken,REP,24
+Grant,42,State House,04,Barbara Guenette,REP,29
+Grant,42,State House,04,Kent Roe,REP,35
+Grant,43,State House,04,Dylan C. Jordan,REP,58
+Grant,43,State House,04,Vanessa Namken,REP,28
+Grant,43,State House,04,Barbara Guenette,REP,40
+Grant,43,State House,04,Kent Roe,REP,48
+Grant,44,State House,04,Dylan C. Jordan,REP,7
+Grant,44,State House,04,Vanessa Namken,REP,19
+Grant,44,State House,04,Barbara Guenette,REP,11
+Grant,44,State House,04,Kent Roe,REP,20
+Grant,45,State House,04,Dylan C. Jordan,REP,29
+Grant,45,State House,04,Vanessa Namken,REP,24
+Grant,45,State House,04,Barbara Guenette,REP,22
+Grant,45,State House,04,Kent Roe,REP,27
+Grant,46,State House,04,Dylan C. Jordan,REP,34
+Grant,46,State House,04,Vanessa Namken,REP,28
+Grant,46,State House,04,Barbara Guenette,REP,9
+Grant,46,State House,04,Kent Roe,REP,21
+Grant,47,State House,04,Dylan C. Jordan,REP,41
+Grant,47,State House,04,Vanessa Namken,REP,38
+Grant,47,State House,04,Barbara Guenette,REP,14
+Grant,47,State House,04,Kent Roe,REP,26
+Grant,49,State House,04,Dylan C. Jordan,REP,11
+Grant,49,State House,04,Vanessa Namken,REP,13
+Grant,49,State House,04,Barbara Guenette,REP,12
+Grant,49,State House,04,Kent Roe,REP,13
+Grant,52,State House,04,Dylan C. Jordan,REP,5
+Grant,52,State House,04,Vanessa Namken,REP,8
+Grant,52,State House,04,Barbara Guenette,REP,6
+Grant,52,State House,04,Kent Roe,REP,9
+Grant,53,State House,04,Dylan C. Jordan,REP,8
+Grant,53,State House,04,Vanessa Namken,REP,8
+Grant,53,State House,04,Barbara Guenette,REP,3
+Grant,53,State House,04,Kent Roe,REP,3
+Grant,54,State House,04,Dylan C. Jordan,REP,22
+Grant,54,State House,04,Vanessa Namken,REP,14
+Grant,54,State House,04,Barbara Guenette,REP,10
+Grant,54,State House,04,Kent Roe,REP,15
+Grant,11,Bond Issue,,Yes,,94
+Grant,11,Bond Issue,,No,,37
+Grant,12,Bond Issue,,Yes,,25
+Grant,12,Bond Issue,,No,,8
+Grant,21,Bond Issue,,Yes,,43
+Grant,21,Bond Issue,,No,,6
+Grant,22,Bond Issue,,Yes,,86
+Grant,22,Bond Issue,,No,,34
+Grant,31,Bond Issue,,Yes,,22
+Grant,31,Bond Issue,,No,,3
+Grant,32,Bond Issue,,Yes,,19
+Grant,32,Bond Issue,,No,,6
+Grant,33,Bond Issue,,Yes,,136
+Grant,33,Bond Issue,,No,,29
+Grant,41,Bond Issue,,Yes,,66
+Grant,41,Bond Issue,,No,,24
+Grant,42,Bond Issue,,Yes,,68
+Grant,42,Bond Issue,,No,,22
+Grant,43,Bond Issue,,Yes,,112
+Grant,43,Bond Issue,,No,,45
+Grant,44,Bond Issue,,Yes,,35
+Grant,44,Bond Issue,,No,,13
+Grant,45,Bond Issue,,Yes,,64
+Grant,45,Bond Issue,,No,,10
+Grant,46,Bond Issue,,Yes,,52
+Grant,46,Bond Issue,,No,,18
+Grant,47,Bond Issue,,Yes,,78
+Grant,47,Bond Issue,,No,,15
+Grant,49,Bond Issue,,Yes,,28
+Grant,49,Bond Issue,,No,,1
+Grant,52,Bond Issue,,Yes,,23
+Grant,52,Bond Issue,,No,,2
+Grant,53,Bond Issue,,Yes,,14
+Grant,53,Bond Issue,,No,,6
+Grant,54,Bond Issue,,Yes,,37
+Grant,54,Bond Issue,,No,,14

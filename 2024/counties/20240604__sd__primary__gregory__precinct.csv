@@ -1,0 +1,36 @@
+county,precinct,office,district,candidate,party,votes
+Gregory,1,President,,Marianne Williamson,DEM,10
+Gregory,1,President,,Joseph R Biden Jr,DEM,54
+Gregory,1,President,,Dean Phillips,DEM,17
+Gregory,1,President,,Armando Perez-Serrato,DEM,5
+Gregory,2,President,,Marianne Williamson,DEM,6
+Gregory,2,President,,Joseph R Biden Jr,DEM,57
+Gregory,2,President,,Dean Phillips,DEM,11
+Gregory,2,President,,Armando Perez-Serrato,DEM,1
+Gregory,3,President,,Marianne Williamson,DEM,2
+Gregory,3,President,,Joseph R Biden Jr,DEM,19
+Gregory,3,President,,Dean Phillips,DEM,1
+Gregory,3,President,,Armando Perez-Serrato,DEM,0
+Gregory,1,State Senate,21,Erin Tobin,REP,178
+Gregory,1,State Senate,21,Mykala Voita,REP,211
+Gregory,2,State Senate,21,Erin Tobin,REP,135
+Gregory,2,State Senate,21,Mykala Voita,REP,176
+Gregory,3,State Senate,21,Erin Tobin,REP,52
+Gregory,3,State Senate,21,Mykala Voita,REP,69
+Gregory,1,State House,21,Lee Qualm,REP,199
+Gregory,1,State House,21,Marty Overweg,REP,193
+Gregory,1,State House,21,Jim Halverson,REP,229
+Gregory,2,State House,21,Lee Qualm,REP,168
+Gregory,2,State House,21,Marty Overweg,REP,182
+Gregory,2,State House,21,Jim Halverson,REP,169
+Gregory,3,State House,21,Lee Qualm,REP,88
+Gregory,3,State House,21,Marty Overweg,REP,59
+Gregory,3,State House,21,Jim Halverson,REP,53
+Gregory,2,Precinct Committeewoman,2,Erika Van Nieuwenhuyse,REP,137
+Gregory,2,Precinct Committeewoman,2,Juli Anne Peppel,REP,143
+Gregory,1,Initiated Measure 1,,Yes,,271
+Gregory,1,Initiated Measure 1,,No,,249
+Gregory,2,Initiated Measure 1,,Yes,,166
+Gregory,2,Initiated Measure 1,,No,,255
+Gregory,3,Initiated Measure 1,,Yes,,72
+Gregory,3,Initiated Measure 1,,No,,83

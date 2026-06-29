@@ -1,0 +1,49 @@
+county,precinct,office,district,candidate,party,votes
+Ziebach,1 Bridger,President,,Marianne Williamson,DEM,0
+Ziebach,1 Bridger,President,,Joseph R Biden Jr,DEM,2
+Ziebach,1 Bridger,President,,Dean Phillips,DEM,0
+Ziebach,1 Bridger,President,,Armando Perez-Serrato,DEM,1
+Ziebach,2 Cherry Creek,President,,Marianne Williamson,DEM,3
+Ziebach,2 Cherry Creek,President,,Joseph R Biden Jr,DEM,7
+Ziebach,2 Cherry Creek,President,,Dean Phillips,DEM,0
+Ziebach,2 Cherry Creek,President,,Armando Perez-Serrato,DEM,0
+Ziebach,3 Davis,President,,Marianne Williamson,DEM,2
+Ziebach,3 Davis,President,,Joseph R Biden Jr,DEM,5
+Ziebach,3 Davis,President,,Dean Phillips,DEM,0
+Ziebach,3 Davis,President,,Armando Perez-Serrato,DEM,1
+Ziebach,4 Glad Valley,President,,Marianne Williamson,DEM,2
+Ziebach,4 Glad Valley,President,,Joseph R Biden Jr,DEM,4
+Ziebach,4 Glad Valley,President,,Dean Phillips,DEM,0
+Ziebach,4 Glad Valley,President,,Armando Perez-Serrato,DEM,0
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Marianne Williamson,DEM,6
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Joseph R Biden Jr,DEM,23
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Dean Phillips,DEM,2
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",President,,Armando Perez-Serrato,DEM,0
+Ziebach,7 Red Scaffold,President,,Marianne Williamson,DEM,0
+Ziebach,7 Red Scaffold,President,,Joseph R Biden Jr,DEM,0
+Ziebach,7 Red Scaffold,President,,Dean Phillips,DEM,0
+Ziebach,7 Red Scaffold,President,,Armando Perez-Serrato,DEM,1
+Ziebach,1 Bridger,State Senate,28,Susan M. Peterson,REP,4
+Ziebach,1 Bridger,State Senate,28,Sam Marty,REP,2
+Ziebach,2 Cherry Creek,State Senate,28,Susan M. Peterson,REP,0
+Ziebach,2 Cherry Creek,State Senate,28,Sam Marty,REP,2
+Ziebach,3 Davis,State Senate,28,Susan M. Peterson,REP,10
+Ziebach,3 Davis,State Senate,28,Sam Marty,REP,6
+Ziebach,4 Glad Valley,State Senate,28,Susan M. Peterson,REP,8
+Ziebach,4 Glad Valley,State Senate,28,Sam Marty,REP,14
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State Senate,28,Susan M. Peterson,REP,31
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State Senate,28,Sam Marty,REP,35
+Ziebach,7 Red Scaffold,State Senate,28,Susan M. Peterson,REP,0
+Ziebach,7 Red Scaffold,State Senate,28,Sam Marty,REP,4
+Ziebach,1 Bridger,State House,28A,Ryan Maher,REP,1
+Ziebach,1 Bridger,State House,28A,Jana Hunt,REP,5
+Ziebach,2 Cherry Creek,State House,28A,Ryan Maher,REP,0
+Ziebach,2 Cherry Creek,State House,28A,Jana Hunt,REP,2
+Ziebach,3 Davis,State House,28A,Ryan Maher,REP,3
+Ziebach,3 Davis,State House,28A,Jana Hunt,REP,15
+Ziebach,4 Glad Valley,State House,28A,Ryan Maher,REP,15
+Ziebach,4 Glad Valley,State House,28A,Jana Hunt,REP,9
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Ryan Maher,REP,23
+Ziebach,"5 North Dupree (Precinct-6 Redelm, Precinct-8 South Dupree)",State House,28A,Jana Hunt,REP,49
+Ziebach,7 Red Scaffold,State House,28A,Ryan Maher,REP,0
+Ziebach,7 Red Scaffold,State House,28A,Jana Hunt,REP,4

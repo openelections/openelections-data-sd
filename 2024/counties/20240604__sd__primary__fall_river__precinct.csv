@@ -1,0 +1,183 @@
+county,precinct,office,district,candidate,party,votes
+Fall River,BEA,President,,Marianne Williamson,DEM,0
+Fall River,BEA,President,,Joseph R Biden Jr,DEM,2
+Fall River,BEA,President,,Dean Phillips,DEM,2
+Fall River,BEA,President,,Armando Perez-Serrato,DEM,1
+Fall River,CAS,President,,Marianne Williamson,DEM,0
+Fall River,CAS,President,,Joseph R Biden Jr,DEM,4
+Fall River,CAS,President,,Dean Phillips,DEM,2
+Fall River,CAS,President,,Armando Perez-Serrato,DEM,0
+Fall River,EDA,President,,Marianne Williamson,DEM,1
+Fall River,EDA,President,,Joseph R Biden Jr,DEM,9
+Fall River,EDA,President,,Dean Phillips,DEM,4
+Fall River,EDA,President,,Armando Perez-Serrato,DEM,1
+Fall River,HS 1,President,,Marianne Williamson,DEM,4
+Fall River,HS 1,President,,Joseph R Biden Jr,DEM,26
+Fall River,HS 1,President,,Dean Phillips,DEM,5
+Fall River,HS 1,President,,Armando Perez-Serrato,DEM,2
+Fall River,HS 2,President,,Marianne Williamson,DEM,5
+Fall River,HS 2,President,,Joseph R Biden Jr,DEM,19
+Fall River,HS 2,President,,Dean Phillips,DEM,2
+Fall River,HS 2,President,,Armando Perez-Serrato,DEM,1
+Fall River,HS 3,President,,Marianne Williamson,DEM,1
+Fall River,HS 3,President,,Joseph R Biden Jr,DEM,17
+Fall River,HS 3,President,,Dean Phillips,DEM,4
+Fall River,HS 3,President,,Armando Perez-Serrato,DEM,1
+Fall River,HS 4,President,,Marianne Williamson,DEM,2
+Fall River,HS 4,President,,Joseph R Biden Jr,DEM,30
+Fall River,HS 4,President,,Dean Phillips,DEM,4
+Fall River,HS 4,President,,Armando Perez-Serrato,DEM,1
+Fall River,JAC,President,,Marianne Williamson,DEM,1
+Fall River,JAC,President,,Joseph R Biden Jr,DEM,26
+Fall River,JAC,President,,Dean Phillips,DEM,6
+Fall River,JAC,President,,Armando Perez-Serrato,DEM,2
+Fall River,Oelrichs Area,President,,Marianne Williamson,DEM,0
+Fall River,Oelrichs Area,President,,Joseph R Biden Jr,DEM,7
+Fall River,Oelrichs Area,President,,Dean Phillips,DEM,0
+Fall River,Oelrichs Area,President,,Armando Perez-Serrato,DEM,0
+Fall River,BEA,State Senate,30,Amber Hulse,REP,20
+Fall River,BEA,State Senate,30,Forrest Foster,REP,39
+Fall River,BEA,State Senate,30,Julie Frye-Mueller,REP,27
+Fall River,CAS,State Senate,30,Amber Hulse,REP,40
+Fall River,CAS,State Senate,30,Forrest Foster,REP,7
+Fall River,CAS,State Senate,30,Julie Frye-Mueller,REP,29
+Fall River,EDA,State Senate,30,Amber Hulse,REP,84
+Fall River,EDA,State Senate,30,Forrest Foster,REP,14
+Fall River,EDA,State Senate,30,Julie Frye-Mueller,REP,120
+Fall River,HS 1,State Senate,30,Amber Hulse,REP,75
+Fall River,HS 1,State Senate,30,Forrest Foster,REP,15
+Fall River,HS 1,State Senate,30,Julie Frye-Mueller,REP,72
+Fall River,HS 2,State Senate,30,Amber Hulse,REP,79
+Fall River,HS 2,State Senate,30,Forrest Foster,REP,24
+Fall River,HS 2,State Senate,30,Julie Frye-Mueller,REP,56
+Fall River,HS 3,State Senate,30,Amber Hulse,REP,64
+Fall River,HS 3,State Senate,30,Forrest Foster,REP,11
+Fall River,HS 3,State Senate,30,Julie Frye-Mueller,REP,55
+Fall River,HS 4,State Senate,30,Amber Hulse,REP,76
+Fall River,HS 4,State Senate,30,Forrest Foster,REP,15
+Fall River,HS 4,State Senate,30,Julie Frye-Mueller,REP,39
+Fall River,JAC,State Senate,30,Amber Hulse,REP,228
+Fall River,JAC,State Senate,30,Forrest Foster,REP,37
+Fall River,JAC,State Senate,30,Julie Frye-Mueller,REP,165
+Fall River,Oelrichs Area,State Senate,30,Amber Hulse,REP,21
+Fall River,Oelrichs Area,State Senate,30,Forrest Foster,REP,20
+Fall River,Oelrichs Area,State Senate,30,Julie Frye-Mueller,REP,73
+Fall River,BEA,State House,30,Pat Baumann,REP,29
+Fall River,BEA,State House,30,Matt Smith,REP,26
+Fall River,BEA,State House,30,Trish Ladner,REP,40
+Fall River,BEA,State House,30,Stephen Saint,REP,9
+Fall River,BEA,State House,30,Tim Goodwin,REP,43
+Fall River,BEA,State House,30,Matthew Monfore,REP,5
+Fall River,CAS,State House,30,Pat Baumann,REP,25
+Fall River,CAS,State House,30,Matt Smith,REP,29
+Fall River,CAS,State House,30,Trish Ladner,REP,29
+Fall River,CAS,State House,30,Stephen Saint,REP,9
+Fall River,CAS,State House,30,Tim Goodwin,REP,27
+Fall River,CAS,State House,30,Matthew Monfore,REP,8
+Fall River,EDA,State House,30,Pat Baumann,REP,90
+Fall River,EDA,State House,30,Matt Smith,REP,93
+Fall River,EDA,State House,30,Trish Ladner,REP,94
+Fall River,EDA,State House,30,Stephen Saint,REP,11
+Fall River,EDA,State House,30,Tim Goodwin,REP,70
+Fall River,EDA,State House,30,Matthew Monfore,REP,13
+Fall River,HS 1,State House,30,Pat Baumann,REP,66
+Fall River,HS 1,State House,30,Matt Smith,REP,65
+Fall River,HS 1,State House,30,Trish Ladner,REP,67
+Fall River,HS 1,State House,30,Stephen Saint,REP,9
+Fall River,HS 1,State House,30,Tim Goodwin,REP,46
+Fall River,HS 1,State House,30,Matthew Monfore,REP,23
+Fall River,HS 2,State House,30,Pat Baumann,REP,45
+Fall River,HS 2,State House,30,Matt Smith,REP,58
+Fall River,HS 2,State House,30,Trish Ladner,REP,75
+Fall River,HS 2,State House,30,Stephen Saint,REP,12
+Fall River,HS 2,State House,30,Tim Goodwin,REP,63
+Fall River,HS 2,State House,30,Matthew Monfore,REP,17
+Fall River,HS 3,State House,30,Pat Baumann,REP,54
+Fall River,HS 3,State House,30,Matt Smith,REP,47
+Fall River,HS 3,State House,30,Trish Ladner,REP,62
+Fall River,HS 3,State House,30,Stephen Saint,REP,8
+Fall River,HS 3,State House,30,Tim Goodwin,REP,39
+Fall River,HS 3,State House,30,Matthew Monfore,REP,12
+Fall River,HS 4,State House,30,Pat Baumann,REP,49
+Fall River,HS 4,State House,30,Matt Smith,REP,43
+Fall River,HS 4,State House,30,Trish Ladner,REP,62
+Fall River,HS 4,State House,30,Stephen Saint,REP,9
+Fall River,HS 4,State House,30,Tim Goodwin,REP,44
+Fall River,HS 4,State House,30,Matthew Monfore,REP,19
+Fall River,JAC,State House,30,Pat Baumann,REP,143
+Fall River,JAC,State House,30,Matt Smith,REP,122
+Fall River,JAC,State House,30,Trish Ladner,REP,236
+Fall River,JAC,State House,30,Stephen Saint,REP,29
+Fall River,JAC,State House,30,Tim Goodwin,REP,157
+Fall River,JAC,State House,30,Matthew Monfore,REP,29
+Fall River,Oelrichs Area,State House,30,Pat Baumann,REP,26
+Fall River,Oelrichs Area,State House,30,Matt Smith,REP,49
+Fall River,Oelrichs Area,State House,30,Trish Ladner,REP,48
+Fall River,Oelrichs Area,State House,30,Stephen Saint,REP,5
+Fall River,Oelrichs Area,State House,30,Tim Goodwin,REP,38
+Fall River,Oelrichs Area,State House,30,Matthew Monfore,REP,10
+Fall River,BEA,County Commissioner At Large,,John Staben,REP,45
+Fall River,BEA,County Commissioner At Large,,Jeannine M Lecy,REP,17
+Fall River,BEA,County Commissioner At Large,,Trudy Valenzuela,REP,8
+Fall River,BEA,County Commissioner At Large,,Les Cope,REP,43
+Fall River,BEA,County Commissioner At Large,,Joe Allen,REP,46
+Fall River,BEA,County Commissioner At Large,,Heath Greenough,REP,38
+Fall River,BEA,County Commissioner At Large,,Sandra Wahlert,REP,37
+Fall River,CAS,County Commissioner At Large,,John Staben,REP,26
+Fall River,CAS,County Commissioner At Large,,Jeannine M Lecy,REP,23
+Fall River,CAS,County Commissioner At Large,,Trudy Valenzuela,REP,11
+Fall River,CAS,County Commissioner At Large,,Les Cope,REP,17
+Fall River,CAS,County Commissioner At Large,,Joe Allen,REP,32
+Fall River,CAS,County Commissioner At Large,,Heath Greenough,REP,12
+Fall River,CAS,County Commissioner At Large,,Sandra Wahlert,REP,35
+Fall River,EDA,County Commissioner At Large,,John Staben,REP,89
+Fall River,EDA,County Commissioner At Large,,Jeannine M Lecy,REP,35
+Fall River,EDA,County Commissioner At Large,,Trudy Valenzuela,REP,13
+Fall River,EDA,County Commissioner At Large,,Les Cope,REP,132
+Fall River,EDA,County Commissioner At Large,,Joe Allen,REP,81
+Fall River,EDA,County Commissioner At Large,,Heath Greenough,REP,77
+Fall River,EDA,County Commissioner At Large,,Sandra Wahlert,REP,68
+Fall River,HS 1,County Commissioner At Large,,John Staben,REP,62
+Fall River,HS 1,County Commissioner At Large,,Jeannine M Lecy,REP,49
+Fall River,HS 1,County Commissioner At Large,,Trudy Valenzuela,REP,29
+Fall River,HS 1,County Commissioner At Large,,Les Cope,REP,46
+Fall River,HS 1,County Commissioner At Large,,Joe Allen,REP,72
+Fall River,HS 1,County Commissioner At Large,,Heath Greenough,REP,53
+Fall River,HS 1,County Commissioner At Large,,Sandra Wahlert,REP,72
+Fall River,HS 2,County Commissioner At Large,,John Staben,REP,58
+Fall River,HS 2,County Commissioner At Large,,Jeannine M Lecy,REP,46
+Fall River,HS 2,County Commissioner At Large,,Trudy Valenzuela,REP,30
+Fall River,HS 2,County Commissioner At Large,,Les Cope,REP,55
+Fall River,HS 2,County Commissioner At Large,,Joe Allen,REP,76
+Fall River,HS 2,County Commissioner At Large,,Heath Greenough,REP,46
+Fall River,HS 2,County Commissioner At Large,,Sandra Wahlert,REP,68
+Fall River,HS 3,County Commissioner At Large,,John Staben,REP,53
+Fall River,HS 3,County Commissioner At Large,,Jeannine M Lecy,REP,30
+Fall River,HS 3,County Commissioner At Large,,Trudy Valenzuela,REP,17
+Fall River,HS 3,County Commissioner At Large,,Les Cope,REP,52
+Fall River,HS 3,County Commissioner At Large,,Joe Allen,REP,59
+Fall River,HS 3,County Commissioner At Large,,Heath Greenough,REP,45
+Fall River,HS 3,County Commissioner At Large,,Sandra Wahlert,REP,53
+Fall River,HS 4,County Commissioner At Large,,John Staben,REP,58
+Fall River,HS 4,County Commissioner At Large,,Jeannine M Lecy,REP,37
+Fall River,HS 4,County Commissioner At Large,,Trudy Valenzuela,REP,19
+Fall River,HS 4,County Commissioner At Large,,Les Cope,REP,54
+Fall River,HS 4,County Commissioner At Large,,Joe Allen,REP,60
+Fall River,HS 4,County Commissioner At Large,,Heath Greenough,REP,42
+Fall River,HS 4,County Commissioner At Large,,Sandra Wahlert,REP,48
+Fall River,JAC,County Commissioner At Large,,John Staben,REP,157
+Fall River,JAC,County Commissioner At Large,,Jeannine M Lecy,REP,112
+Fall River,JAC,County Commissioner At Large,,Trudy Valenzuela,REP,63
+Fall River,JAC,County Commissioner At Large,,Les Cope,REP,162
+Fall River,JAC,County Commissioner At Large,,Joe Allen,REP,187
+Fall River,JAC,County Commissioner At Large,,Heath Greenough,REP,137
+Fall River,JAC,County Commissioner At Large,,Sandra Wahlert,REP,164
+Fall River,Oelrichs Area,County Commissioner At Large,,John Staben,REP,40
+Fall River,Oelrichs Area,County Commissioner At Large,,Jeannine M Lecy,REP,14
+Fall River,Oelrichs Area,County Commissioner At Large,,Trudy Valenzuela,REP,7
+Fall River,Oelrichs Area,County Commissioner At Large,,Les Cope,REP,82
+Fall River,Oelrichs Area,County Commissioner At Large,,Joe Allen,REP,28
+Fall River,Oelrichs Area,County Commissioner At Large,,Heath Greenough,REP,84
+Fall River,Oelrichs Area,County Commissioner At Large,,Sandra Wahlert,REP,44
+Fall River,EDA,Precinct Committeewoman,,Jessica Tubbs,REP,98
+Fall River,EDA,Precinct Committeewoman,,Amber Hulse,REP,95

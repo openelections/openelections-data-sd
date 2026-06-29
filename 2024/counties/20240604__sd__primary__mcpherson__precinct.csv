@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes
+McPherson,1,President,,Marianne Williamson,DEM,1
+McPherson,1,President,,Joseph R Biden Jr,DEM,6
+McPherson,1,President,,Dean Phillips,DEM,1
+McPherson,1,President,,Armando Perez-Serrato,DEM,1
+McPherson,2,President,,Marianne Williamson,DEM,1
+McPherson,2,President,,Joseph R Biden Jr,DEM,6
+McPherson,2,President,,Dean Phillips,DEM,3
+McPherson,2,President,,Armando Perez-Serrato,DEM,0
+McPherson,3,President,,Marianne Williamson,DEM,1
+McPherson,3,President,,Joseph R Biden Jr,DEM,8
+McPherson,3,President,,Dean Phillips,DEM,0
+McPherson,3,President,,Armando Perez-Serrato,DEM,1
+McPherson,4,President,,Marianne Williamson,DEM,2
+McPherson,4,President,,Joseph R Biden Jr,DEM,5
+McPherson,4,President,,Dean Phillips,DEM,1
+McPherson,4,President,,Armando Perez-Serrato,DEM,1
+McPherson,1,State Senate,23,Steven Ray Roseland,REP,5
+McPherson,1,State Senate,23,Mark Lapka,REP,184
+McPherson,2,State Senate,23,Steven Ray Roseland,REP,16
+McPherson,2,State Senate,23,Mark Lapka,REP,173
+McPherson,3,State Senate,23,Steven Ray Roseland,REP,27
+McPherson,3,State Senate,23,Mark Lapka,REP,97
+McPherson,4,State Senate,23,Steven Ray Roseland,REP,36
+McPherson,4,State Senate,23,Mark Lapka,REP,99
+McPherson,1,State House,23,Spencer Gosch,REP,172
+McPherson,1,State House,23,Scott Moore,REP,166
+McPherson,1,State House,23,James D. Wangsness,REP,16
+McPherson,2,State House,23,Spencer Gosch,REP,158
+McPherson,2,State House,23,Scott Moore,REP,158
+McPherson,2,State House,23,James D. Wangsness,REP,21
+McPherson,3,State House,23,Spencer Gosch,REP,88
+McPherson,3,State House,23,Scott Moore,REP,95
+McPherson,3,State House,23,James D. Wangsness,REP,40
+McPherson,4,State House,23,Spencer Gosch,REP,82
+McPherson,4,State House,23,Scott Moore,REP,119
+McPherson,4,State House,23,James D. Wangsness,REP,33
+McPherson,2,County Commissioner,2,Peggy Bieber,REP,27
+McPherson,2,County Commissioner,2,Michael Jacob Mardian,REP,96
+McPherson,2,County Commissioner,2,Bruce Mack,REP,56
+McPherson,4,County Commissioner,2,Peggy Bieber,REP,0
+McPherson,4,County Commissioner,2,Michael Jacob Mardian,REP,2
+McPherson,4,County Commissioner,2,Bruce Mack,REP,2

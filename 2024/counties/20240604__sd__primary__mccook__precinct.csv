@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes
+McCook,01,President,,Marianne Williamson,DEM,2
+McCook,01,President,,Joseph R Biden Jr,DEM,18
+McCook,01,President,,Dean Phillips,DEM,4
+McCook,01,President,,Armando Perez-Serrato,DEM,0
+McCook,02,President,,Marianne Williamson,DEM,1
+McCook,02,President,,Joseph R Biden Jr,DEM,9
+McCook,02,President,,Dean Phillips,DEM,2
+McCook,02,President,,Armando Perez-Serrato,DEM,0
+McCook,03,President,,Marianne Williamson,DEM,1
+McCook,03,President,,Joseph R Biden Jr,DEM,5
+McCook,03,President,,Dean Phillips,DEM,2
+McCook,03,President,,Armando Perez-Serrato,DEM,0
+McCook,04,President,,Marianne Williamson,DEM,1
+McCook,04,President,,Joseph R Biden Jr,DEM,6
+McCook,04,President,,Dean Phillips,DEM,3
+McCook,04,President,,Armando Perez-Serrato,DEM,3
+McCook,05,President,,Marianne Williamson,DEM,3
+McCook,05,President,,Joseph R Biden Jr,DEM,20
+McCook,05,President,,Dean Phillips,DEM,4
+McCook,05,President,,Armando Perez-Serrato,DEM,1
+McCook,06,President,,Marianne Williamson,DEM,1
+McCook,06,President,,Joseph R Biden Jr,DEM,7
+McCook,06,President,,Dean Phillips,DEM,1
+McCook,06,President,,Armando Perez-Serrato,DEM,0
+McCook,01,State House,19,Drew Peterson,REP,55
+McCook,01,State House,19,Steven Mettler,REP,23
+McCook,01,State House,19,Jessica Bahmuller,REP,54
+McCook,02,State House,19,Drew Peterson,REP,27
+McCook,02,State House,19,Steven Mettler,REP,12
+McCook,02,State House,19,Jessica Bahmuller,REP,32
+McCook,03,State House,19,Drew Peterson,REP,48
+McCook,03,State House,19,Steven Mettler,REP,61
+McCook,03,State House,19,Jessica Bahmuller,REP,84
+McCook,04,State House,19,Drew Peterson,REP,52
+McCook,04,State House,19,Steven Mettler,REP,62
+McCook,04,State House,19,Jessica Bahmuller,REP,114
+McCook,05,State House,19,Drew Peterson,REP,115
+McCook,05,State House,19,Steven Mettler,REP,57
+McCook,05,State House,19,Jessica Bahmuller,REP,117
+McCook,06,State House,19,Drew Peterson,REP,70
+McCook,06,State House,19,Steven Mettler,REP,37
+McCook,06,State House,19,Jessica Bahmuller,REP,77

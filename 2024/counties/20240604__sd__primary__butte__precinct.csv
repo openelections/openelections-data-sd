@@ -1,0 +1,181 @@
+county,precinct,office,district,candidate,party,votes
+Butte,06,President,,Marianne Williamson,DEM,0
+Butte,06,President,,Joseph R Biden Jr,DEM,0
+Butte,06,President,,Dean Phillips,DEM,1
+Butte,06,President,,Armando Perez-Serrato,DEM,0
+Butte,08,President,,Marianne Williamson,DEM,0
+Butte,08,President,,Joseph R Biden Jr,DEM,0
+Butte,08,President,,Dean Phillips,DEM,0
+Butte,08,President,,Armando Perez-Serrato,DEM,0
+Butte,11,President,,Marianne Williamson,DEM,0
+Butte,11,President,,Joseph R Biden Jr,DEM,0
+Butte,11,President,,Dean Phillips,DEM,0
+Butte,11,President,,Armando Perez-Serrato,DEM,0
+Butte,12,President,,Marianne Williamson,DEM,0
+Butte,12,President,,Joseph R Biden Jr,DEM,2
+Butte,12,President,,Dean Phillips,DEM,0
+Butte,12,President,,Armando Perez-Serrato,DEM,0
+Butte,13,President,,Marianne Williamson,DEM,0
+Butte,13,President,,Joseph R Biden Jr,DEM,1
+Butte,13,President,,Dean Phillips,DEM,2
+Butte,13,President,,Armando Perez-Serrato,DEM,0
+Butte,14,President,,Marianne Williamson,DEM,5
+Butte,14,President,,Joseph R Biden Jr,DEM,3
+Butte,14,President,,Dean Phillips,DEM,1
+Butte,14,President,,Armando Perez-Serrato,DEM,0
+Butte,16,President,,Marianne Williamson,DEM,2
+Butte,16,President,,Joseph R Biden Jr,DEM,12
+Butte,16,President,,Dean Phillips,DEM,0
+Butte,16,President,,Armando Perez-Serrato,DEM,3
+Butte,17,President,,Marianne Williamson,DEM,1
+Butte,17,President,,Joseph R Biden Jr,DEM,6
+Butte,17,President,,Dean Phillips,DEM,5
+Butte,17,President,,Armando Perez-Serrato,DEM,1
+Butte,18,President,,Marianne Williamson,DEM,6
+Butte,18,President,,Joseph R Biden Jr,DEM,6
+Butte,18,President,,Dean Phillips,DEM,0
+Butte,18,President,,Armando Perez-Serrato,DEM,3
+Butte,20,President,,Marianne Williamson,DEM,1
+Butte,20,President,,Joseph R Biden Jr,DEM,9
+Butte,20,President,,Dean Phillips,DEM,6
+Butte,20,President,,Armando Perez-Serrato,DEM,3
+Butte,21,President,,Marianne Williamson,DEM,2
+Butte,21,President,,Joseph R Biden Jr,DEM,12
+Butte,21,President,,Dean Phillips,DEM,3
+Butte,21,President,,Armando Perez-Serrato,DEM,2
+Butte,22,President,,Marianne Williamson,DEM,3
+Butte,22,President,,Joseph R Biden Jr,DEM,2
+Butte,22,President,,Dean Phillips,DEM,3
+Butte,22,President,,Armando Perez-Serrato,DEM,1
+Butte,23,President,,Marianne Williamson,DEM,1
+Butte,23,President,,Joseph R Biden Jr,DEM,8
+Butte,23,President,,Dean Phillips,DEM,1
+Butte,23,President,,Armando Perez-Serrato,DEM,1
+Butte,24,President,,Marianne Williamson,DEM,2
+Butte,24,President,,Joseph R Biden Jr,DEM,7
+Butte,24,President,,Dean Phillips,DEM,0
+Butte,24,President,,Armando Perez-Serrato,DEM,2
+Butte,25,President,,Marianne Williamson,DEM,4
+Butte,25,President,,Joseph R Biden Jr,DEM,7
+Butte,25,President,,Dean Phillips,DEM,3
+Butte,25,President,,Armando Perez-Serrato,DEM,0
+Butte,26,President,,Marianne Williamson,DEM,3
+Butte,26,President,,Joseph R Biden Jr,DEM,7
+Butte,26,President,,Dean Phillips,DEM,1
+Butte,26,President,,Armando Perez-Serrato,DEM,1
+Butte,27,President,,Marianne Williamson,DEM,3
+Butte,27,President,,Joseph R Biden Jr,DEM,9
+Butte,27,President,,Dean Phillips,DEM,0
+Butte,27,President,,Armando Perez-Serrato,DEM,1
+Butte,28,President,,Marianne Williamson,DEM,8
+Butte,28,President,,Joseph R Biden Jr,DEM,15
+Butte,28,President,,Dean Phillips,DEM,2
+Butte,28,President,,Armando Perez-Serrato,DEM,0
+Butte,06,State Senate,28,Susan M. Peterson,REP,3
+Butte,06,State Senate,28,Sam Marty,REP,21
+Butte,08,State Senate,28,Susan M. Peterson,REP,1
+Butte,08,State Senate,28,Sam Marty,REP,11
+Butte,11,State Senate,28,Susan M. Peterson,REP,14
+Butte,11,State Senate,28,Sam Marty,REP,19
+Butte,12,State Senate,28,Susan M. Peterson,REP,9
+Butte,12,State Senate,28,Sam Marty,REP,29
+Butte,13,State Senate,28,Susan M. Peterson,REP,41
+Butte,13,State Senate,28,Sam Marty,REP,72
+Butte,14,State Senate,28,Susan M. Peterson,REP,31
+Butte,14,State Senate,28,Sam Marty,REP,51
+Butte,16,State Senate,28,Susan M. Peterson,REP,136
+Butte,16,State Senate,28,Sam Marty,REP,109
+Butte,17,State Senate,28,Susan M. Peterson,REP,78
+Butte,17,State Senate,28,Sam Marty,REP,77
+Butte,18,State Senate,28,Susan M. Peterson,REP,14
+Butte,18,State Senate,28,Sam Marty,REP,22
+Butte,20,State Senate,28,Susan M. Peterson,REP,30
+Butte,20,State Senate,28,Sam Marty,REP,48
+Butte,21,State Senate,28,Susan M. Peterson,REP,31
+Butte,21,State Senate,28,Sam Marty,REP,22
+Butte,22,State Senate,28,Susan M. Peterson,REP,26
+Butte,22,State Senate,28,Sam Marty,REP,21
+Butte,23,State Senate,28,Susan M. Peterson,REP,38
+Butte,23,State Senate,28,Sam Marty,REP,28
+Butte,24,State Senate,28,Susan M. Peterson,REP,70
+Butte,24,State Senate,28,Sam Marty,REP,47
+Butte,25,State Senate,28,Susan M. Peterson,REP,100
+Butte,25,State Senate,28,Sam Marty,REP,51
+Butte,26,State Senate,28,Susan M. Peterson,REP,40
+Butte,26,State Senate,28,Sam Marty,REP,24
+Butte,27,State Senate,28,Susan M. Peterson,REP,56
+Butte,27,State Senate,28,Sam Marty,REP,25
+Butte,28,State Senate,28,Susan M. Peterson,REP,87
+Butte,28,State Senate,28,Sam Marty,REP,46
+Butte,06,State House,28B,Travis Ismay,REP,22
+Butte,06,State House,28B,Travis W. Martin,REP,2
+Butte,08,State House,28B,Travis Ismay,REP,11
+Butte,08,State House,28B,Travis W. Martin,REP,1
+Butte,11,State House,28B,Travis Ismay,REP,18
+Butte,11,State House,28B,Travis W. Martin,REP,17
+Butte,12,State House,28B,Travis Ismay,REP,24
+Butte,12,State House,28B,Travis W. Martin,REP,15
+Butte,13,State House,28B,Travis Ismay,REP,77
+Butte,13,State House,28B,Travis W. Martin,REP,36
+Butte,14,State House,28B,Travis Ismay,REP,53
+Butte,14,State House,28B,Travis W. Martin,REP,30
+Butte,16,State House,28B,Travis Ismay,REP,136
+Butte,16,State House,28B,Travis W. Martin,REP,113
+Butte,17,State House,28B,Travis Ismay,REP,76
+Butte,17,State House,28B,Travis W. Martin,REP,75
+Butte,18,State House,28B,Travis Ismay,REP,27
+Butte,18,State House,28B,Travis W. Martin,REP,9
+Butte,20,State House,28B,Travis Ismay,REP,42
+Butte,20,State House,28B,Travis W. Martin,REP,38
+Butte,21,State House,28B,Travis Ismay,REP,30
+Butte,21,State House,28B,Travis W. Martin,REP,20
+Butte,22,State House,28B,Travis Ismay,REP,28
+Butte,22,State House,28B,Travis W. Martin,REP,21
+Butte,23,State House,28B,Travis Ismay,REP,22
+Butte,23,State House,28B,Travis W. Martin,REP,39
+Butte,24,State House,28B,Travis Ismay,REP,55
+Butte,24,State House,28B,Travis W. Martin,REP,61
+Butte,25,State House,28B,Travis Ismay,REP,71
+Butte,25,State House,28B,Travis W. Martin,REP,76
+Butte,26,State House,28B,Travis Ismay,REP,21
+Butte,26,State House,28B,Travis W. Martin,REP,44
+Butte,27,State House,28B,Travis Ismay,REP,38
+Butte,27,State House,28B,Travis W. Martin,REP,46
+Butte,28,State House,28B,Travis Ismay,REP,46
+Butte,28,State House,28B,Travis W. Martin,REP,85
+Butte,16,County Commissioner,2,Thomas J Brunner,REP,0
+Butte,16,County Commissioner,2,William O'Dea,REP,0
+Butte,16,County Commissioner,4,Sue Broadhurst,REP,5
+Butte,16,County Commissioner,4,Terry Batterman,REP,5
+Butte,17,County Commissioner,2,Thomas J Brunner,REP,96
+Butte,17,County Commissioner,2,William O'Dea,REP,59
+Butte,17,County Commissioner,4,Sue Broadhurst,REP,0
+Butte,17,County Commissioner,4,Terry Batterman,REP,1
+Butte,18,County Commissioner,2,Thomas J Brunner,REP,31
+Butte,18,County Commissioner,2,William O'Dea,REP,6
+Butte,18,County Commissioner,4,Sue Broadhurst,REP,0
+Butte,18,County Commissioner,4,Terry Batterman,REP,0
+Butte,24,County Commissioner,2,Thomas J Brunner,REP,0
+Butte,24,County Commissioner,2,William O'Dea,REP,0
+Butte,24,County Commissioner,4,Sue Broadhurst,REP,47
+Butte,24,County Commissioner,4,Terry Batterman,REP,52
+Butte,25,County Commissioner,2,Thomas J Brunner,REP,0
+Butte,25,County Commissioner,2,William O'Dea,REP,0
+Butte,25,County Commissioner,4,Sue Broadhurst,REP,12
+Butte,25,County Commissioner,4,Terry Batterman,REP,9
+Butte,26,County Commissioner,2,Thomas J Brunner,REP,0
+Butte,26,County Commissioner,2,William O'Dea,REP,0
+Butte,26,County Commissioner,4,Sue Broadhurst,REP,37
+Butte,26,County Commissioner,4,Terry Batterman,REP,29
+Butte,27,County Commissioner,2,Thomas J Brunner,REP,1
+Butte,27,County Commissioner,2,William O'Dea,REP,1
+Butte,27,County Commissioner,4,Sue Broadhurst,REP,37
+Butte,27,County Commissioner,4,Terry Batterman,REP,43
+Butte,28,County Commissioner,2,Thomas J Brunner,REP,74
+Butte,28,County Commissioner,2,William O'Dea,REP,57
+Butte,28,County Commissioner,4,Sue Broadhurst,REP,0
+Butte,28,County Commissioner,4,Terry Batterman,REP,0
+Butte,13,Precinct Committeeman,13,Daniel I Rhoden,REP,49
+Butte,13,Precinct Committeeman,13,John Deighton,REP,54
+Butte,13,Precinct Committeewoman,13,Lori Deighton,REP,50
+Butte,13,Precinct Committeewoman,13,Kathryn Rhoden,REP,52

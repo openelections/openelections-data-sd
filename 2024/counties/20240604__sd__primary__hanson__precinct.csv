@@ -1,0 +1,38 @@
+county,precinct,office,district,candidate,party,votes
+Hanson,1,President,,Marianne Williamson,DEM,1
+Hanson,1,President,,Joseph R Biden Jr,DEM,20
+Hanson,1,President,,Dean Phillips,DEM,2
+Hanson,1,President,,Armando Perez-Serrato,DEM,3
+Hanson,2,President,,Marianne Williamson,DEM,7
+Hanson,2,President,,Joseph R Biden Jr,DEM,27
+Hanson,2,President,,Dean Phillips,DEM,13
+Hanson,2,President,,Armando Perez-Serrato,DEM,5
+Hanson,3,President,,Marianne Williamson,DEM,2
+Hanson,3,President,,Joseph R Biden Jr,DEM,10
+Hanson,3,President,,Dean Phillips,DEM,7
+Hanson,3,President,,Armando Perez-Serrato,DEM,1
+Hanson,4,President,,Marianne Williamson,DEM,2
+Hanson,4,President,,Joseph R Biden Jr,DEM,1
+Hanson,4,President,,Dean Phillips,DEM,5
+Hanson,4,President,,Armando Perez-Serrato,DEM,0
+Hanson,5,President,,Marianne Williamson,DEM,4
+Hanson,5,President,,Joseph R Biden Jr,DEM,3
+Hanson,5,President,,Dean Phillips,DEM,5
+Hanson,5,President,,Armando Perez-Serrato,DEM,1
+Hanson,1,State House,19,Drew Peterson,REP,52
+Hanson,1,State House,19,Steven Mettler,REP,47
+Hanson,1,State House,19,Jessica Bahmuller,REP,95
+Hanson,2,State House,19,Drew Peterson,REP,65
+Hanson,2,State House,19,Steven Mettler,REP,26
+Hanson,2,State House,19,Jessica Bahmuller,REP,153
+Hanson,3,State House,19,Drew Peterson,REP,33
+Hanson,3,State House,19,Steven Mettler,REP,32
+Hanson,3,State House,19,Jessica Bahmuller,REP,78
+Hanson,4,State House,19,Drew Peterson,REP,26
+Hanson,4,State House,19,Steven Mettler,REP,23
+Hanson,4,State House,19,Jessica Bahmuller,REP,38
+Hanson,5,State House,19,Drew Peterson,REP,41
+Hanson,5,State House,19,Steven Mettler,REP,20
+Hanson,5,State House,19,Jessica Bahmuller,REP,80
+Hanson,2,County Commissioner,Hanson-2,Chad Pearson,REP,52
+Hanson,2,County Commissioner,Hanson-2,Richard J Waldera,REP,108

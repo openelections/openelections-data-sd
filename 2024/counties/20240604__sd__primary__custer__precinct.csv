@@ -1,0 +1,173 @@
+county,precinct,office,district,candidate,party,votes
+Custer,01,President,,Marianne Williamson,DEM,5
+Custer,01,President,,Joseph R Biden Jr,DEM,20
+Custer,01,President,,Dean Phillips,DEM,1
+Custer,01,President,,Armando Perez-Serrato,DEM,1
+Custer,02,President,,Marianne Williamson,DEM,1
+Custer,02,President,,Joseph R Biden Jr,DEM,5
+Custer,02,President,,Dean Phillips,DEM,1
+Custer,02,President,,Armando Perez-Serrato,DEM,0
+Custer,03,President,,Marianne Williamson,DEM,1
+Custer,03,President,,Joseph R Biden Jr,DEM,10
+Custer,03,President,,Dean Phillips,DEM,0
+Custer,03,President,,Armando Perez-Serrato,DEM,0
+Custer,04,President,,Marianne Williamson,DEM,2
+Custer,04,President,,Joseph R Biden Jr,DEM,13
+Custer,04,President,,Dean Phillips,DEM,1
+Custer,04,President,,Armando Perez-Serrato,DEM,2
+Custer,05,President,,Marianne Williamson,DEM,0
+Custer,05,President,,Joseph R Biden Jr,DEM,20
+Custer,05,President,,Dean Phillips,DEM,0
+Custer,05,President,,Armando Perez-Serrato,DEM,1
+Custer,06,President,,Marianne Williamson,DEM,8
+Custer,06,President,,Joseph R Biden Jr,DEM,37
+Custer,06,President,,Dean Phillips,DEM,2
+Custer,06,President,,Armando Perez-Serrato,DEM,1
+Custer,07,President,,Marianne Williamson,DEM,0
+Custer,07,President,,Joseph R Biden Jr,DEM,14
+Custer,07,President,,Dean Phillips,DEM,3
+Custer,07,President,,Armando Perez-Serrato,DEM,0
+Custer,08,President,,Marianne Williamson,DEM,2
+Custer,08,President,,Joseph R Biden Jr,DEM,38
+Custer,08,President,,Dean Phillips,DEM,2
+Custer,08,President,,Armando Perez-Serrato,DEM,0
+Custer,09,President,,Marianne Williamson,DEM,5
+Custer,09,President,,Joseph R Biden Jr,DEM,55
+Custer,09,President,,Dean Phillips,DEM,7
+Custer,09,President,,Armando Perez-Serrato,DEM,1
+Custer,10,President,,Marianne Williamson,DEM,1
+Custer,10,President,,Joseph R Biden Jr,DEM,6
+Custer,10,President,,Dean Phillips,DEM,3
+Custer,10,President,,Armando Perez-Serrato,DEM,0
+Custer,01,State Senate,30,Amber Hulse,REP,163
+Custer,01,State Senate,30,Forrest Foster,REP,50
+Custer,01,State Senate,30,Julie Frye-Mueller,REP,170
+Custer,02,State Senate,30,Amber Hulse,REP,13
+Custer,02,State Senate,30,Forrest Foster,REP,8
+Custer,02,State Senate,30,Julie Frye-Mueller,REP,39
+Custer,03,State Senate,30,Amber Hulse,REP,20
+Custer,03,State Senate,30,Forrest Foster,REP,8
+Custer,03,State Senate,30,Julie Frye-Mueller,REP,34
+Custer,04,State Senate,30,Amber Hulse,REP,107
+Custer,04,State Senate,30,Forrest Foster,REP,27
+Custer,04,State Senate,30,Julie Frye-Mueller,REP,89
+Custer,05,State Senate,30,Amber Hulse,REP,147
+Custer,05,State Senate,30,Forrest Foster,REP,20
+Custer,05,State Senate,30,Julie Frye-Mueller,REP,86
+Custer,06,State Senate,30,Amber Hulse,REP,63
+Custer,06,State Senate,30,Forrest Foster,REP,10
+Custer,06,State Senate,30,Julie Frye-Mueller,REP,43
+Custer,07,State Senate,30,Amber Hulse,REP,35
+Custer,07,State Senate,30,Forrest Foster,REP,6
+Custer,07,State Senate,30,Julie Frye-Mueller,REP,23
+Custer,08,State Senate,30,Amber Hulse,REP,96
+Custer,08,State Senate,30,Forrest Foster,REP,19
+Custer,08,State Senate,30,Julie Frye-Mueller,REP,63
+Custer,09,State Senate,30,Amber Hulse,REP,256
+Custer,09,State Senate,30,Forrest Foster,REP,44
+Custer,09,State Senate,30,Julie Frye-Mueller,REP,208
+Custer,10,State Senate,30,Amber Hulse,REP,30
+Custer,10,State Senate,30,Forrest Foster,REP,9
+Custer,10,State Senate,30,Julie Frye-Mueller,REP,33
+Custer,01,State House,30,Pat Baumann,REP,105
+Custer,01,State House,30,Matt Smith,REP,189
+Custer,01,State House,30,Trish Ladner,REP,133
+Custer,01,State House,30,Stephen Saint,REP,23
+Custer,01,State House,30,Tim Goodwin,REP,164
+Custer,01,State House,30,Matthew Monfore,REP,30
+Custer,02,State House,30,Pat Baumann,REP,9
+Custer,02,State House,30,Matt Smith,REP,39
+Custer,02,State House,30,Trish Ladner,REP,27
+Custer,02,State House,30,Stephen Saint,REP,8
+Custer,02,State House,30,Tim Goodwin,REP,23
+Custer,02,State House,30,Matthew Monfore,REP,4
+Custer,03,State House,30,Pat Baumann,REP,17
+Custer,03,State House,30,Matt Smith,REP,22
+Custer,03,State House,30,Trish Ladner,REP,29
+Custer,03,State House,30,Stephen Saint,REP,7
+Custer,03,State House,30,Tim Goodwin,REP,20
+Custer,03,State House,30,Matthew Monfore,REP,5
+Custer,04,State House,30,Pat Baumann,REP,93
+Custer,04,State House,30,Matt Smith,REP,72
+Custer,04,State House,30,Trish Ladner,REP,80
+Custer,04,State House,30,Stephen Saint,REP,27
+Custer,04,State House,30,Tim Goodwin,REP,78
+Custer,04,State House,30,Matthew Monfore,REP,22
+Custer,05,State House,30,Pat Baumann,REP,118
+Custer,05,State House,30,Matt Smith,REP,69
+Custer,05,State House,30,Trish Ladner,REP,101
+Custer,05,State House,30,Stephen Saint,REP,37
+Custer,05,State House,30,Tim Goodwin,REP,115
+Custer,05,State House,30,Matthew Monfore,REP,6
+Custer,06,State House,30,Pat Baumann,REP,67
+Custer,06,State House,30,Matt Smith,REP,32
+Custer,06,State House,30,Trish Ladner,REP,43
+Custer,06,State House,30,Stephen Saint,REP,13
+Custer,06,State House,30,Tim Goodwin,REP,46
+Custer,06,State House,30,Matthew Monfore,REP,3
+Custer,07,State House,30,Pat Baumann,REP,42
+Custer,07,State House,30,Matt Smith,REP,16
+Custer,07,State House,30,Trish Ladner,REP,23
+Custer,07,State House,30,Stephen Saint,REP,7
+Custer,07,State House,30,Tim Goodwin,REP,27
+Custer,07,State House,30,Matthew Monfore,REP,1
+Custer,08,State House,30,Pat Baumann,REP,92
+Custer,08,State House,30,Matt Smith,REP,42
+Custer,08,State House,30,Trish Ladner,REP,80
+Custer,08,State House,30,Stephen Saint,REP,25
+Custer,08,State House,30,Tim Goodwin,REP,78
+Custer,08,State House,30,Matthew Monfore,REP,7
+Custer,09,State House,30,Pat Baumann,REP,264
+Custer,09,State House,30,Matt Smith,REP,154
+Custer,09,State House,30,Trish Ladner,REP,213
+Custer,09,State House,30,Stephen Saint,REP,82
+Custer,09,State House,30,Tim Goodwin,REP,184
+Custer,09,State House,30,Matthew Monfore,REP,23
+Custer,10,State House,30,Pat Baumann,REP,38
+Custer,10,State House,30,Matt Smith,REP,28
+Custer,10,State House,30,Trish Ladner,REP,27
+Custer,10,State House,30,Stephen Saint,REP,6
+Custer,10,State House,30,Tim Goodwin,REP,26
+Custer,10,State House,30,Matthew Monfore,REP,3
+Custer,01,School Board Member Custer School,16-1,Jeffery L Prior,,108
+Custer,01,School Board Member Custer School,16-1,Heath Reindl,,195
+Custer,01,School Board Member Custer School,16-1,Jeff Barnes,,186
+Custer,02,School Board Member Custer School,16-1,Jeffery L Prior,,21
+Custer,02,School Board Member Custer School,16-1,Heath Reindl,,39
+Custer,02,School Board Member Custer School,16-1,Jeff Barnes,,36
+Custer,03,School Board Member Custer School,16-1,Jeffery L Prior,,0
+Custer,03,School Board Member Custer School,16-1,Heath Reindl,,7
+Custer,03,School Board Member Custer School,16-1,Jeff Barnes,,3
+Custer,04,School Board Member Custer School,16-1,Jeffery L Prior,,88
+Custer,04,School Board Member Custer School,16-1,Heath Reindl,,113
+Custer,04,School Board Member Custer School,16-1,Jeff Barnes,,88
+Custer,05,School Board Member Custer School,16-1,Jeffery L Prior,,142
+Custer,05,School Board Member Custer School,16-1,Heath Reindl,,148
+Custer,05,School Board Member Custer School,16-1,Jeff Barnes,,132
+Custer,06,School Board Member Custer School,16-1,Jeffery L Prior,,80
+Custer,06,School Board Member Custer School,16-1,Heath Reindl,,99
+Custer,06,School Board Member Custer School,16-1,Jeff Barnes,,104
+Custer,07,School Board Member Custer School,16-1,Jeffery L Prior,,43
+Custer,07,School Board Member Custer School,16-1,Heath Reindl,,46
+Custer,07,School Board Member Custer School,16-1,Jeff Barnes,,43
+Custer,08,School Board Member Custer School,16-1,Jeffery L Prior,,107
+Custer,08,School Board Member Custer School,16-1,Heath Reindl,,128
+Custer,08,School Board Member Custer School,16-1,Jeff Barnes,,121
+Custer,09,School Board Member Custer School,16-1,Jeffery L Prior,,289
+Custer,09,School Board Member Custer School,16-1,Heath Reindl,,325
+Custer,09,School Board Member Custer School,16-1,Jeff Barnes,,246
+Custer,10,School Board Member Custer School,16-1,Jeffery L Prior,,0
+Custer,10,School Board Member Custer School,16-1,Heath Reindl,,0
+Custer,10,School Board Member Custer School,16-1,Jeff Barnes,,2
+Custer,06,City Council Member,1,Bruce Miller,NPA,67
+Custer,06,City Council Member,1,Dixie Whittaker,NPA,97
+Custer,01,Trustee Hermosa,,Aaron Serviss,,50
+Custer,01,Trustee Hermosa,,Kelburn Koontz,,53
+Custer,1,State Senate,30,Amber Hulse,,1
+Custer,1,State House,30,Pat Baumann,,1
+Custer,1,State House,30,Tim Goodwin,,1
+Custer,1,School Board Member Custer School District,,Heath Reindl,,1
+Custer,9,State Senate,30,Amber Hulse,,1
+Custer,9,State House,30,Trish Ladner,,1
+Custer,9,State House,30,Stephen Saint,,1
+Custer,9,School Board Member Custer School District,,Jeff Barnes,,1

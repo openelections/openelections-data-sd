@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Hamlin,02,State House,04,Dylan C. Jordan,REP,24
+Hamlin,02,State House,04,Vanessa Namken,REP,34
+Hamlin,02,State House,04,Barbara Guenette,REP,46
+Hamlin,02,State House,04,Kent Roe,REP,70
+Hamlin,21,State House,04,Dylan C. Jordan,REP,92
+Hamlin,21,State House,04,Vanessa Namken,REP,93
+Hamlin,21,State House,04,Barbara Guenette,REP,56
+Hamlin,21,State House,04,Kent Roe,REP,117
+Hamlin,22,State House,04,Dylan C. Jordan,REP,38
+Hamlin,22,State House,04,Vanessa Namken,REP,43
+Hamlin,22,State House,04,Barbara Guenette,REP,48
+Hamlin,22,State House,04,Kent Roe,REP,55
+Hamlin,23,State House,04,Dylan C. Jordan,REP,35
+Hamlin,23,State House,04,Vanessa Namken,REP,52
+Hamlin,23,State House,04,Barbara Guenette,REP,58
+Hamlin,23,State House,04,Kent Roe,REP,103
+Hamlin,24,State House,04,Dylan C. Jordan,REP,68
+Hamlin,24,State House,04,Vanessa Namken,REP,95
+Hamlin,24,State House,04,Barbara Guenette,REP,107
+Hamlin,24,State House,04,Kent Roe,REP,166
+Hamlin,25,State House,04,Dylan C. Jordan,REP,25
+Hamlin,25,State House,04,Vanessa Namken,REP,17
+Hamlin,25,State House,04,Barbara Guenette,REP,40
+Hamlin,25,State House,04,Kent Roe,REP,65
+Hamlin,26,State House,04,Dylan C. Jordan,REP,63
+Hamlin,26,State House,04,Vanessa Namken,REP,82
+Hamlin,26,State House,04,Barbara Guenette,REP,102
+Hamlin,26,State House,04,Kent Roe,REP,172
+Hamlin,02,State Senate,04,Fred Deutsch,REP,30
+Hamlin,02,State Senate,04,Stephanie Sauder,REP,68
+Hamlin,21,State Senate,04,Fred Deutsch,REP,87
+Hamlin,21,State Senate,04,Stephanie Sauder,REP,113
+Hamlin,22,State Senate,04,Fred Deutsch,REP,48
+Hamlin,22,State Senate,04,Stephanie Sauder,REP,52
+Hamlin,23,State Senate,04,Fred Deutsch,REP,42
+Hamlin,23,State Senate,04,Stephanie Sauder,REP,110
+Hamlin,24,State Senate,04,Fred Deutsch,REP,73
+Hamlin,24,State Senate,04,Stephanie Sauder,REP,182
+Hamlin,25,State Senate,04,Fred Deutsch,REP,26
+Hamlin,25,State Senate,04,Stephanie Sauder,REP,60
+Hamlin,26,State Senate,04,Fred Deutsch,REP,81
+Hamlin,26,State Senate,04,Stephanie Sauder,REP,161
+Hamlin,02,County Commissioner,2,Randall L Taschner,REP,39
+Hamlin,02,County Commissioner,2,Scott C Popham,REP,58
+Hamlin,22,County Commissioner,2,Randall L Taschner,REP,35
+Hamlin,22,County Commissioner,2,Scott C Popham,REP,63
+Hamlin,23,County Commissioner,3,Riley John Buck,REP,105
+Hamlin,23,County Commissioner,3,Douglas L Noem,REP,41
+Hamlin,24,County Commissioner,3,Riley John Buck,REP,33
+Hamlin,24,County Commissioner,3,Douglas L Noem,REP,38
+Hamlin,26,County Commissioner,2,Randall L Taschner,REP,73
+Hamlin,26,County Commissioner,2,Scott C Popham,REP,96
+Hamlin,26,County Commissioner,3,Riley John Buck,REP,44
+Hamlin,26,County Commissioner,3,Douglas L Noem,REP,20
+Hamlin,22,Precinct Committeewoman,,Barbara Gayle Guenette,REP,53
+Hamlin,22,Precinct Committeewoman,,Vanessa L Namken,REP,47
+Hamlin,02,President,,Marianne Williamson,DEM,1
+Hamlin,02,President,,Joseph R Biden Jr,DEM,0
+Hamlin,02,President,,Dean Phillips,DEM,2
+Hamlin,02,President,,Armando Perez-Serrato,DEM,0
+Hamlin,21,President,,Marianne Williamson,DEM,5
+Hamlin,21,President,,Joseph R Biden Jr,DEM,9
+Hamlin,21,President,,Dean Phillips,DEM,1
+Hamlin,21,President,,Armando Perez-Serrato,DEM,0
+Hamlin,22,President,,Marianne Williamson,DEM,0
+Hamlin,22,President,,Joseph R Biden Jr,DEM,1
+Hamlin,22,President,,Dean Phillips,DEM,0
+Hamlin,22,President,,Armando Perez-Serrato,DEM,1
+Hamlin,23,President,,Marianne Williamson,DEM,0
+Hamlin,23,President,,Joseph R Biden Jr,DEM,4
+Hamlin,23,President,,Dean Phillips,DEM,0
+Hamlin,23,President,,Armando Perez-Serrato,DEM,0
+Hamlin,24,President,,Marianne Williamson,DEM,2
+Hamlin,24,President,,Joseph R Biden Jr,DEM,12
+Hamlin,24,President,,Dean Phillips,DEM,0
+Hamlin,24,President,,Armando Perez-Serrato,DEM,1
+Hamlin,25,President,,Marianne Williamson,DEM,4
+Hamlin,25,President,,Joseph R Biden Jr,DEM,11
+Hamlin,25,President,,Dean Phillips,DEM,3
+Hamlin,25,President,,Armando Perez-Serrato,DEM,2
+Hamlin,26,President,,Marianne Williamson,DEM,0
+Hamlin,26,President,,Joseph R Biden Jr,DEM,3
+Hamlin,26,President,,Dean Phillips,DEM,0
+Hamlin,26,President,,Armando Perez-Serrato,DEM,0
