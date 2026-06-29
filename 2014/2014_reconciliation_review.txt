@@ -1,0 +1,245 @@
+=== primary (20140603): 703 rows | contests 23: Total-validated 18, cross-read-agreed 3, dropped 2 -> 20140603__sd__primary__county.csv
+     AGREED(no total match) State House d12
+     AGREED(no total match) State House d16
+     AGREED(no total match) State House d26A
+     DROP State House d23
+     DROP State House d28B
+=== general (20141104): 1819 rows | contests 95: Total-validated 82, cross-read-agreed 2, dropped 11 -> 20141104__sd__general__county.csv
+     AGREED(no total match) State Senate d01
+     AGREED(no total match) U.S. Senate 
+     DROP Commissioner of School and Public Lands 
+     DROP Constitutional Amendment Q 
+     DROP Governor 
+     DROP Initiated Measure 18 
+     DROP Judge of the Circuit Court 
+     DROP State House d06
+     DROP State House d09
+     DROP State Senate 
+     DROP State Senate d19
+     DROP Supreme Court Retention 
+     DROP U.S. House d1
+
+########## PRIMARY (20140603) ##########
+
+  [CROSS-READ AGREES (off printed total)] p5  State House d26A
+      Joshua Wilson [DEM]  printed_total=236  read_sums: y2014_claude-sonnet-4-6:263(+27), y2014_qwen3-5-397b-cloud:263(+27)
+      Shawn L. Boreaux [DEM]  printed_total=360  read_sums: y2014_claude-sonnet-4-6:360(+0), y2014_qwen3-5-397b-cloud:360(+0)
+
+  [CROSS-READ AGREES (off printed total)] p6  State House d12
+      Alex Jensen [REP]  printed_total=671  read_sums: y2014_claude-sonnet-4-6:671(+0), y2014_qwen3-5-397b-cloud:671(+0)
+      Arch Beal [REP]  printed_total=735  read_sums: y2014_claude-sonnet-4-6:735(+0), y2014_qwen3-5-397b-cloud:735(+0)
+      D. Scott Bartlett [REP]  printed_total=389  read_sums: y2014_claude-sonnet-4-6:391(+2), y2014_qwen3-5-397b-cloud:391(+2)
+      Kevin O'Connell [REP]  printed_total=369  read_sums: y2014_claude-sonnet-4-6:369(+0), y2014_qwen3-5-397b-cloud:369(+0)
+
+  [CROSS-READ AGREES (off printed total)] p6  State House d16
+      David L. Anderson [REP]  printed_total=541  read_sums: y2014_claude-sonnet-4-6:1049(+508), y2014_qwen3-5-397b-cloud:1049(+508)
+      Jim Bolin [REP]  printed_total=1329  read_sums: y2014_claude-sonnet-4-6:1329(+0), y2014_qwen3-5-397b-cloud:1329(+0)
+      Kevin D. Jensen [REP]  printed_total=778  read_sums: y2014_claude-sonnet-4-6:778(+0), y2014_qwen3-5-397b-cloud:778(+0)
+
+  [NEEDS REVIEW] p6  State House d23
+      Dale Hargens [REP]  printed_total=874  read_sums: y2014_claude-sonnet-4-6:874(+0), y2014_qwen3-5-397b-cloud:874(+0)
+      Gene W. Tiesmeier [REP]  printed_total=897  read_sums: y2014_claude-sonnet-4-6:897(+0), y2014_qwen3-5-397b-cloud:0(-897)
+      Gene W. Toennies [REP]  printed_total=897  read_sums: y2014_claude-sonnet-4-6:0(-897), y2014_qwen3-5-397b-cloud:897(+0)
+      Justin R. Cronin [REP]  printed_total=2578  read_sums: y2014_claude-sonnet-4-6:1828(-750), y2014_qwen3-5-397b-cloud:1828(-750)
+      Larry Nelson [REP]  printed_total=1293  read_sums: y2014_claude-sonnet-4-6:1293(+0), y2014_qwen3-5-397b-cloud:0(-1293)
+      Larry Nielson [REP]  printed_total=1293  read_sums: y2014_claude-sonnet-4-6:0(-1293), y2014_qwen3-5-397b-cloud:1293(+0)
+      Michele Harrison [REP]  printed_total=1480  read_sums: y2014_claude-sonnet-4-6:1480(+0), y2014_qwen3-5-397b-cloud:1480(+0)
+      disagreeing cells (candidate/party/county -> reads): 32
+         Campbell Gene W. Tiesmeier[REP]: [39, None]
+         Edmunds Gene W. Tiesmeier[REP]: [145, None]
+         Faulk Gene W. Tiesmeier[REP]: [193, None]
+         Hand Gene W. Tiesmeier[REP]: [127, None]
+         McPherson Gene W. Tiesmeier[REP]: [133, None]
+         Potter Gene W. Tiesmeier[REP]: [103, None]
+         Spink Gene W. Tiesmeier[REP]: [19, None]
+         Walworth Gene W. Tiesmeier[REP]: [138, None]
+
+  [NEEDS REVIEW] p6  State House d28B
+      Calvin Geis [REP]  printed_total=587  read_sums: y2014_claude-sonnet-4-6:637(+50), y2014_qwen3-5-397b-cloud:637(+50)
+      J. Sam Marty [REP]  printed_total=746  read_sums: y2014_claude-sonnet-4-6:746(+0), y2014_qwen3-5-397b-cloud:746(+0)
+      Ron Siusa [REP]  printed_total=342  read_sums: y2014_claude-sonnet-4-6:342(+0), y2014_qwen3-5-397b-cloud:0(-342)
+      Ron Staba [REP]  printed_total=342  read_sums: y2014_claude-sonnet-4-6:0(-342), y2014_qwen3-5-397b-cloud:342(+0)
+      disagreeing cells (candidate/party/county -> reads): 6
+         Butte Ron Siusa[REP]: [75, None]
+         Harding Ron Siusa[REP]: [180, None]
+         Perkins Ron Siusa[REP]: [87, None]
+         Butte Ron Staba[REP]: [None, 75]
+         Harding Ron Staba[REP]: [None, 180]
+         Perkins Ron Staba[REP]: [None, 87]
+
+########## GENERAL (20141104) ##########
+
+  [NEEDS REVIEW] p9  Governor 
+      Dennis Daugaard & Matt Michels [REP]  printed_total=195477  read_sums: y2014_claude-sonnet-4-5:195457(-20), y2014_claude-sonnet-4-6:195457(-20)
+      Michael J. Myers & Lora Hubbel [IND]  printed_total=11377  read_sums: y2014_claude-sonnet-4-5:0(-11377), y2014_claude-sonnet-4-6:11377(+0)
+      Michael J. Myers & Lora M. Hubbell [IND]  printed_total=11377  read_sums: y2014_claude-sonnet-4-5:11377(+0), y2014_claude-sonnet-4-6:0(-11377)
+      Susan Wismer & Lawrence Long [DEM]  printed_total=70549  read_sums: y2014_claude-sonnet-4-5:70549(+0), y2014_claude-sonnet-4-6:0(-70549)
+      Susan Wismer & Susy Blake [DEM]  printed_total=70549  read_sums: y2014_claude-sonnet-4-5:0(-70549), y2014_claude-sonnet-4-6:70549(+0)
+      disagreeing cells (candidate/party/county -> reads): 264
+         Aurora Michael J. Myers & Lora Hubbel[IND]: [None, 51]
+         Beadle Michael J. Myers & Lora Hubbel[IND]: [None, 197]
+         Bennett Michael J. Myers & Lora Hubbel[IND]: [None, 38]
+         Bon Homme Michael J. Myers & Lora Hubbel[IND]: [None, 103]
+         Brookings Michael J. Myers & Lora Hubbel[IND]: [None, 327]
+         Brown Michael J. Myers & Lora Hubbel[IND]: [None, 354]
+         Brule Michael J. Myers & Lora Hubbel[IND]: [None, 54]
+         Buffalo Michael J. Myers & Lora Hubbel[IND]: [None, 23]
+
+  [NEEDS REVIEW] p9  U.S. House d1
+      Corinna Robinson [DEM]  printed_total=92485  read_sums: y2014_claude-sonnet-4-5:92512(+27), y2014_claude-sonnet-4-6:92503(+18)
+      Kristi Noem [REP]  printed_total=183834  read_sums: y2014_claude-sonnet-4-5:183824(-10), y2014_claude-sonnet-4-6:183824(-10)
+      disagreeing cells (candidate/party/county -> reads): 1
+         Jones Corinna Robinson[DEM]: [79, 70]
+
+  [CROSS-READ AGREES (off printed total)] p9  U.S. Senate 
+      Gordon Howie [IND]  printed_total=8474  read_sums: y2014_claude-sonnet-4-5:8474(+0), y2014_claude-sonnet-4-6:8474(+0)
+      Larry Pressler [IND]  printed_total=47741  read_sums: y2014_claude-sonnet-4-5:47743(+2), y2014_claude-sonnet-4-6:47743(+2)
+      Mike Rounds [REP]  printed_total=140741  read_sums: y2014_claude-sonnet-4-5:140408(-333), y2014_claude-sonnet-4-6:140408(-333)
+      Rick Weiland [DEM]  printed_total=82456  read_sums: y2014_claude-sonnet-4-5:82456(+0), y2014_claude-sonnet-4-6:82456(+0)
+
+  [NEEDS REVIEW] p10  Commissioner of School and Public Lands 
+      John English [LIB]  printed_total=53836  read_sums: y2014_claude-sonnet-4-5:0(-53836), y2014_claude-sonnet-4-6:53836(+0)
+      John Ericson [LIB]  printed_total=53836  read_sums: y2014_claude-sonnet-4-5:53836(+0), y2014_claude-sonnet-4-6:0(-53836)
+      Ryan Brunner [REP]  printed_total=174810  read_sums: y2014_claude-sonnet-4-5:174807(-3), y2014_claude-sonnet-4-6:174807(-3)
+      disagreeing cells (candidate/party/county -> reads): 132
+         Aurora John English[LIB]: [None, 194]
+         Beadle John English[LIB]: [None, 1001]
+         Bennett John English[LIB]: [None, 238]
+         Bon Homme John English[LIB]: [None, 502]
+         Brookings John English[LIB]: [None, 1685]
+         Brown John English[LIB]: [None, 2512]
+         Brule John English[LIB]: [None, 322]
+         Buffalo John English[LIB]: [None, 190]
+
+  [CROSS-READ AGREES (off printed total)] p11  State Senate d01
+      Jason Frerichs [DEM]  printed_total=5629  read_sums: y2014_claude-sonnet-4-6:5653(+24), y2014_qwen3-5-397b-cloud:5653(+24)
+
+  [NEEDS REVIEW] p12  State Senate 
+      Alan D. Solano [REP]  printed_total=5134  read_sums: y2014_qwen3-5-397b-cloud:5134(+0)
+      Angie Buhl O'Donnell [DEM]  printed_total=2349  read_sums: y2014_qwen3-5-397b-cloud:2349(+0)
+      Ann Tornberg [DEM]  printed_total=3543  read_sums: y2014_qwen3-5-397b-cloud:3543(+0)
+      Arthur L. Rusch [REP]  printed_total=3873  read_sums: y2014_qwen3-5-397b-cloud:3873(+0)
+      Bernie Hunhoff [DEM]  printed_total=4300  read_sums: y2014_qwen3-5-397b-cloud:4300(+0)
+      Betty Olson [REP]  printed_total=3997  read_sums: y2014_qwen3-5-397b-cloud:3997(+0)
+      Bill L. Van Gerpen [REP]  printed_total=6692  read_sums: y2014_qwen3-5-397b-cloud:6629(-63)
+      Bill Laird [DEM]  printed_total=2577  read_sums: y2014_qwen3-5-397b-cloud:2577(+0)
+      Billie H. Sutton [DEM]  printed_total=5821  read_sums: y2014_qwen3-5-397b-cloud:5821(+0)
+      Bob Ewing [REP]  printed_total=6318  read_sums: y2014_qwen3-5-397b-cloud:6318(+0)
+      Bruce Rampelberg [REP]  printed_total=7084  read_sums: y2014_qwen3-5-397b-cloud:7084(+0)
+      Corey Brown [REP]  printed_total=6827  read_sums: y2014_qwen3-5-397b-cloud:6827(+0)
+      Craig Tieszen [REP]  printed_total=6776  read_sums: y2014_qwen3-5-397b-cloud:6776(+0)
+      Dan Lederman [REP]  printed_total=4442  read_sums: y2014_qwen3-5-397b-cloud:4442(+0)
+      Darrell Raschke [DEM]  printed_total=2199  read_sums: y2014_qwen3-5-397b-cloud:2199(+0)
+      Gary L. Cammack [REP]  printed_total=5617  read_sums: y2014_qwen3-5-397b-cloud:5617(+0)
+      Jeff Monroe [REP]  printed_total=5478  read_sums: y2014_qwen3-5-397b-cloud:5478(+0)
+      Jim Bradford [DEM]  printed_total=3860  read_sums: y2014_qwen3-5-397b-cloud:3860(+0)
+      Jim White [REP]  printed_total=5180  read_sums: y2014_qwen3-5-397b-cloud:5180(+0)
+      John Koskan [REP]  printed_total=2883  read_sums: y2014_qwen3-5-397b-cloud:2883(+0)
+      Matt Stone [REP]  printed_total=3403  read_sums: y2014_qwen3-5-397b-cloud:3403(+0)
+      Michelle Malone [DEM]  printed_total=2798  read_sums: y2014_qwen3-5-397b-cloud:2798(+0)
+      Mike Vehle [REP]  printed_total=5931  read_sums: y2014_qwen3-5-397b-cloud:5931(+0)
+      Oren L. Lesmeister [DEM]  printed_total=3317  read_sums: y2014_qwen3-5-397b-cloud:3317(+0)
+      Phil Jensen [REP]  printed_total=5016  read_sums: y2014_qwen3-5-397b-cloud:5016(+0)
+      Robin A. Page [DEM]  printed_total=2743  read_sums: y2014_qwen3-5-397b-cloud:2743(+0)
+      Ruth Rehn [DEM]  printed_total=3811  read_sums: y2014_qwen3-5-397b-cloud:3811(+0)
+      Terri Haverly [REP]  printed_total=3901  read_sums: y2014_qwen3-5-397b-cloud:3901(+0)
+      Tim Rave [REP]  printed_total=5492  read_sums: y2014_qwen3-5-397b-cloud:5492(+0)
+      Troy E. Heitert [DEM]  printed_total=3747  read_sums: y2014_qwen3-5-397b-cloud:3747(+0)
+
+  [NEEDS REVIEW] p12  State Senate d19
+      Bill L. Van Gerpen [REP]  printed_total=6692  read_sums: y2014_claude-sonnet-4-6:6629(-63)
+
+  [NEEDS REVIEW] p13  State House d06
+      Herman Gron [REP]  printed_total=4909  read_sums: y2014_claude-sonnet-4-6:4409(-500), y2014_qwen3-5-397b-cloud:0(-4909)
+      Herman Otten [REP]  printed_total=4909  read_sums: y2014_claude-sonnet-4-6:0(-4909), y2014_qwen3-5-397b-cloud:4409(-500)
+      Isaac Latterell [REP]  printed_total=3274  read_sums: y2014_claude-sonnet-4-6:3274(+0), y2014_qwen3-5-397b-cloud:3274(+0)
+      Richard F. Schrieve [DEM]  printed_total=1971  read_sums: y2014_claude-sonnet-4-6:0(-1971), y2014_qwen3-5-397b-cloud:1971(+0)
+      Richard F. Schriever [DEM]  printed_total=1971  read_sums: y2014_claude-sonnet-4-6:1971(+0), y2014_qwen3-5-397b-cloud:0(-1971)
+      disagreeing cells (candidate/party/county -> reads): 4
+         Lincoln Herman Gron[REP]: [4409, None]
+         Lincoln Herman Otten[REP]: [None, 4409]
+         Lincoln Richard F. Schrieve[DEM]: [None, 1971]
+         Lincoln Richard F. Schriever[DEM]: [1971, None]
+
+  [NEEDS REVIEW] p16  Supreme Court Retention 
+      No [-]  printed_total=36557  read_sums: y2014_claude-sonnet-4-6:74301(+37744)
+      Yes [-]  printed_total=169248  read_sums: y2014_claude-sonnet-4-6:337943(+168695)
+
+  [NEEDS REVIEW] p18  Judge of the Circuit Court 
+      Bradley G. Zell [-]  printed_total=24655  read_sums: y2014_claude-sonnet-4-5:0(-24655), y2014_claude-sonnet-4-6:24655(+0)
+      Doug Hoffman [-]  printed_total=24686  read_sums: y2014_claude-sonnet-4-5:0(-24686), y2014_claude-sonnet-4-6:24686(+0)
+      Doug Mattmann [-]  printed_total=24686  read_sums: y2014_claude-sonnet-4-5:24686(+0), y2014_claude-sonnet-4-6:0(-24686)
+      Dwight J. Tobin [-]  printed_total=12258  read_sums: y2014_claude-sonnet-4-5:12258(+0), y2014_claude-sonnet-4-6:0(-12258)
+      Ellin D. Heider [-]  printed_total=19544  read_sums: y2014_claude-sonnet-4-5:19544(+0), y2014_claude-sonnet-4-6:0(-19544)
+      Gregory J. Rohrscheib [-]  printed_total=18921  read_sums: y2014_claude-sonnet-4-5:18919(-2), y2014_claude-sonnet-4-6:0(-18921)
+      Gregory J. Stoltenburg [-]  printed_total=18921  read_sums: y2014_claude-sonnet-4-5:0(-18921), y2014_claude-sonnet-4-6:18921(+0)
+      James A. Power [-]  printed_total=17832  read_sums: y2014_claude-sonnet-4-5:0(-17832), y2014_claude-sonnet-4-6:17832(+0)
+      James D. Power [-]  printed_total=17832  read_sums: y2014_claude-sonnet-4-5:17832(+0), y2014_claude-sonnet-4-6:0(-17832)
+      Jeffrey G. Hoy [-]  printed_total=24655  read_sums: y2014_claude-sonnet-4-5:24655(+0), y2014_claude-sonnet-4-6:0(-24655)
+      John Hinrichs [-]  printed_total=19516  read_sums: y2014_claude-sonnet-4-5:0(-19516), y2014_claude-sonnet-4-6:19516(+0)
+      John M. Guffey [-]  printed_total=24149  read_sums: y2014_claude-sonnet-4-5:24149(+0), y2014_claude-sonnet-4-6:0(-24149)
+      John Pekas [-]  printed_total=21709  read_sums: y2014_claude-sonnet-4-5:0(-21709), y2014_claude-sonnet-4-6:21709(+0)
+      John R. Kirk [-]  printed_total=19516  read_sums: y2014_claude-sonnet-4-5:19516(+0), y2014_claude-sonnet-4-6:0(-19516)
+      John R. Pekas [-]  printed_total=21709  read_sums: y2014_claude-sonnet-4-5:21709(+0), y2014_claude-sonnet-4-6:0(-21709)
+      Jon R. Erickson [-]  printed_total=19466  read_sums: y2014_claude-sonnet-4-5:0(-19466), y2014_claude-sonnet-4-6:19466(+0)
+      Jon S. Erickson [-]  printed_total=19466  read_sums: y2014_claude-sonnet-4-5:19466(+0), y2014_claude-sonnet-4-6:0(-19466)
+      Joni M. Cutler [-]  printed_total=24149  read_sums: y2014_claude-sonnet-4-5:0(-24149), y2014_claude-sonnet-4-6:24149(+0)
+      Joseph Neiles [-]  printed_total=22803  read_sums: y2014_claude-sonnet-4-5:0(-22803), y2014_claude-sonnet-4-6:22803(+0)
+      Larry Long [-]  printed_total=30039  read_sums: y2014_claude-sonnet-4-5:30039(+0), y2014_claude-sonnet-4-6:30039(+0)
+      Mark Salter [-]  printed_total=23698  read_sums: y2014_claude-sonnet-4-5:0(-23698), y2014_claude-sonnet-4-6:23698(+0)
+      Patricia Riepel [-]  printed_total=25072  read_sums: y2014_claude-sonnet-4-5:0(-25072), y2014_claude-sonnet-4-6:25072(+0)
+      Patrick T. Smith [-]  printed_total=23698  read_sums: y2014_claude-sonnet-4-5:23698(+0), y2014_claude-sonnet-4-6:0(-23698)
+      Randall L. Piersol [-]  printed_total=25072  read_sums: y2014_claude-sonnet-4-5:25072(+0), y2014_claude-sonnet-4-6:0(-25072)
+      Robert E. Timm [-]  printed_total=21111  read_sums: y2014_claude-sonnet-4-5:21111(+0), y2014_claude-sonnet-4-6:0(-21111)
+      Robert J. Mandel [-]  printed_total=23494  read_sums: y2014_claude-sonnet-4-5:23434(-60), y2014_claude-sonnet-4-6:0(-23494)
+      Robert L. Spears [-]  printed_total=12521  read_sums: y2014_claude-sonnet-4-5:12521(+0), y2014_claude-sonnet-4-6:12521(+0)
+      Robert L. Timm [-]  printed_total=21111  read_sums: y2014_claude-sonnet-4-5:0(-21111), y2014_claude-sonnet-4-6:21111(+0)
+      Robin J. Houwman [-]  printed_total=23434  read_sums: y2014_claude-sonnet-4-5:0(-23434), y2014_claude-sonnet-4-6:23434(+0)
+      Ronald K. Roehr [-]  printed_total=12238  read_sums: y2014_claude-sonnet-4-5:0(-12238), y2014_claude-sonnet-4-6:12238(+0)
+      Rosann M. Hagen [-]  printed_total=22803  read_sums: y2014_claude-sonnet-4-5:22803(+0), y2014_claude-sonnet-4-6:0(-22803)
+      Susan M. Sabers [-]  printed_total=26628  read_sums: y2014_claude-sonnet-4-5:24628(-2000), y2014_claude-sonnet-4-6:0(-26628)
+      Susan Sabers [-]  printed_total=26628  read_sums: y2014_claude-sonnet-4-5:0(-26628), y2014_claude-sonnet-4-6:24628(-2000)
+      Tim D. Tucker [-]  printed_total=19544  read_sums: y2014_claude-sonnet-4-5:0(-19544), y2014_claude-sonnet-4-6:19544(+0)
+      Vincent A. Foley [-]  printed_total=20622  read_sums: y2014_claude-sonnet-4-5:20622(+0), y2014_claude-sonnet-4-6:20622(+0)
+      disagreeing cells (candidate/party/county -> reads): 184
+         Lincoln Bradley G. Zell[-]: [None, 6772]
+         Minnehaha Bradley G. Zell[-]: [None, 17883]
+         Lincoln Doug Hoffman[-]: [None, 6638]
+         Minnehaha Doug Hoffman[-]: [None, 18048]
+         Lincoln Doug Mattmann[-]: [6638, None]
+         Minnehaha Doug Mattmann[-]: [18048, None]
+         Beadle Dwight J. Tobin[-]: [1360, None]
+         Brookings Dwight J. Tobin[-]: [1702, None]
+
+  [NEEDS REVIEW] p21  Constitutional Amendment Q 
+      No [-]  printed_total=116326  read_sums: y2014_claude-sonnet-4-5:116340(+14), y2014_claude-sonnet-4-6:116326(+0)
+      Yes [-]  printed_total=152265  read_sums: y2014_claude-sonnet-4-5:149698(-2567), y2014_claude-sonnet-4-6:152263(-2)
+      disagreeing cells (candidate/party/county -> reads): 35
+         Bennett No[-]: [501, 393]
+         Buffalo No[-]: [100, 196]
+         Clay No[-]: [1363, 1369]
+         Corson No[-]: [434, 484]
+         Dewey No[-]: [501, 504]
+         Fall River No[-]: [1106, 1196]
+         Faulk No[-]: [430, 410]
+         Hand No[-]: [678, 778]
+
+  [NEEDS REVIEW] p21  Initiated Measure 18 
+      No [-]  printed_total=123187  read_sums: y2014_claude-sonnet-4-5:123578(+391), y2014_claude-sonnet-4-6:122739(-448)
+      Yes [-]  printed_total=150819  read_sums: y2014_claude-sonnet-4-5:150114(-705), y2014_claude-sonnet-4-6:150819(+0)
+      disagreeing cells (candidate/party/county -> reads): 34
+         Beadle No[-]: [3405, 2605]
+         Bennett No[-]: [476, 407]
+         Brule No[-]: [916, 935]
+         Clark No[-]: [676, 749]
+         Clay No[-]: [1129, 1229]
+         Deuel No[-]: [703, 793]
+         Edmunds No[-]: [672, 699]
+         Haakon No[-]: [515, 538]
+
+  [NEEDS REVIEW] p23  State House d09
+      Becky Jaspers [DEM]  printed_total=1882  read_sums: y2014_claude-sonnet-4-6:1882(+0)
+      Bob
+ Gerlach [REP]  printed_total=None  read_sums: y2014_claude-sonnet-4-6:2654
+      Paula Hawks [DEM]  printed_total=2662  read_sums: y2014_claude-sonnet-4-6:2662(+0)
+      Steve Hickey [REP]  printed_total=3027  read_sums: y2014_claude-sonnet-4-6:3027(+0)
