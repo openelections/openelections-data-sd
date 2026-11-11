@@ -15,6 +15,22 @@ PDF = '/Users/dwillis/code/openelections-sources-sd/2012/2012generalelectionssta
 OUT = sys.argv[1] if len(sys.argv) > 1 else '/tmp/sd2012_staging/20121106__sd__general__precinct.csv'
 INT_RE = re.compile(r'^(?:\d{1,3}(?:,\d{3})+|\d+)$')
 
+# Meade PUC 6-year precincts missing from the statewide PDF (see parse history).
+# Values read from the county's own per-precinct scan
+# (Meade 2012GeneralElectionTotalsByPrecinct.pdf, "Public Utilities
+# Commissioner 6 yr" section, one page per precinct). The official county
+# total is Fiegen 6,894; the scan's 14 precincts sum to 6,893 (one unexplained
+# vote; the scan also runs one vote behind the official table on scattered
+# rows, e.g. Base #23 Romney/Nelson, Black Hawk #14 Noem).
+MEADE_PUC6_FILL = [
+    ('Alkali #6A', 35, 81, 13), ('Base #23', 42, 141, 18), ('Bear Butte #9', 34, 96, 8),
+    ('Black Hawk #14', 134, 314, 49), ('Central Black Hawk #19', 119, 311, 46),
+    ('Central Sturgis #3', 74, 128, 22), ('Chalk Butte #27', 25, 102, 10),
+    ('East Piedmont #12', 119, 440, 56), ('East Sturgis #1', 62, 172, 13),
+    ('Elk Vale #21', 60, 198, 17), ('Ellsworth #22', 15, 34, 1), ('Elm Springs #18', 11, 52, 10),
+    ('Fairpoint #29', 11, 27, 1), ('Faith #31', 40, 186, 21),
+]
+
 # office -> (title-matcher, [(candidate, party), ...])
 CONTESTS = [
     ('President', lambda t: t.startswith('Presidential Electors'),
@@ -431,8 +447,29 @@ def outrows(counties):
     return rows, n
 
 
+def apply_fills(counties):
+    """Insert rows recovered from other sources (currently: Meade PUC 6-year,
+    read from the county's per-precinct scan)."""
+    for cx in counties:
+        if cx.name != 'Meade':
+            continue
+        for s in cx.sections:
+            if s.office.startswith('Public Utilities Commissioner (6'):
+                # county TOTAL row (printed on the continuation page)
+                s.tr = dict(page=s.rows[-1]['page'], tvals=[6894, 2476, 789, 10159])
+                for name, mg, fi, cl in reversed(MEADE_PUC6_FILL):
+                    s.rows.insert(0, dict(
+                        precinct=name, page=-1, top=-1.0,
+                        values=[fi, mg, cl, mg + fi + cl], strays=[],
+                        filled_from='Meade precinct scan'))
+                note(f"Meade/{s.office}: filled {len(MEADE_PUC6_FILL)} precincts from the "
+                     f"county's per-precinct scan; Fiegen column sums to 6,893 vs official "
+                     f"total 6,894 (one-vote scan/canvass difference, see source note)")
+
+
 def main():
     counties = parse()
+    apply_fills(counties)
     validate_and_repair(counties)
     for cx in counties:
         for s in cx.sections:
